@@ -1,0 +1,320 @@
+{
+  "id": "yl-m-shopping-in-town",
+  "title": "Shopping in Town",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Nam goes shopping in town with his mum.",
+  "instructions": "Read about Nam's day in town. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🛍️ On Sunday, Nam went shopping in town with his mum. They took the bus at nine o'clock. Nam wanted new trainers for school."
+    },
+    {
+      "id": "p2",
+      "text": "First, they went to the shoe shop. The trainers were thirty dollars. Nam tried on a white pair, but they were too small."
+    },
+    {
+      "id": "p3",
+      "text": "Then the shop assistant brought a bigger pair. They were blue and very comfortable. 'I like these!' said Nam. His mum paid for them."
+    },
+    {
+      "id": "p4",
+      "text": "Next, they walked to the supermarket. Mum bought rice, eggs, milk and some fruit. Nam carried the heavy bag."
+    },
+    {
+      "id": "p5",
+      "text": "🍦 After shopping, they were tired. They went to a café near the bank. Nam had an ice cream and Mum had a cup of tea."
+    },
+    {
+      "id": "p6",
+      "text": "On the way home, Nam saw a bookshop. He bought a comic with his own money. It was only two dollars."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Nam's first day at school",
+        "Nam goes shopping with his mum",
+        "Nam plays football"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text tells us about Nam's shopping trip.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "On Sunday, Nam went shopping in town with his mum."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What did Nam want?",
+      "options": [
+        "New trainers",
+        "A new bag",
+        "A new bike"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam wanted new trainers for school.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Nam wanted new trainers for school."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "When did they take the bus?",
+      "options": [
+        "At six o'clock",
+        "At twelve o'clock",
+        "At nine o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They took the bus at nine o'clock.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They took the bus at nine o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "How much were the trainers?",
+      "options": [
+        "Two dollars",
+        "Thirty dollars",
+        "Fifty dollars"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The trainers were thirty dollars.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The trainers were thirty dollars."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Was the white pair the right size?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The white pair was too small.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Nam tried on a white pair, but they were too small."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What colour was the bigger pair?",
+      "options": [
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The bigger pair was blue.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "They were blue and very comfortable."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Who paid for the trainers?",
+      "options": [
+        "Nam",
+        "His mum",
+        "The shop assistant"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His mum paid for them.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "His mum paid for them."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "How did Nam feel about the blue trainers?",
+      "options": [
+        "He liked them",
+        "He did not like them",
+        "He was afraid of them"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam said, 'I like these!'",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "'I like these!' said Nam."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What did Mum buy at the supermarket?",
+      "options": [
+        "Shoes and socks",
+        "A comic and a pen",
+        "Rice, eggs, milk and fruit"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum bought rice, eggs, milk and some fruit.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Mum bought rice, eggs, milk and some fruit."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Who carried the heavy bag?",
+      "options": [
+        "Mum",
+        "Nam",
+        "The shop assistant"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam carried the heavy bag.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Nam carried the heavy bag."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"heavy\" means...",
+      "options": [
+        "not light, hard to carry",
+        "very small",
+        "very cold"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A heavy bag is hard to carry.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Nam carried the heavy bag."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "Where was the café?",
+      "options": [
+        "Near the school",
+        "Near the zoo",
+        "Near the bank"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The café was near the bank.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "They went to a café near the bank."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What did Nam have in the café?",
+      "options": [
+        "A cup of tea",
+        "An ice cream",
+        "A sandwich"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam had an ice cream.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Nam had an ice cream"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did Nam buy in the bookshop?",
+      "options": [
+        "A comic",
+        "A dictionary",
+        "A map"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam bought a comic.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "He bought a comic with his own money."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "How much was the comic?",
+      "options": [
+        "Ten dollars",
+        "Five dollars",
+        "Two dollars"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It was only two dollars.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "It was only two dollars."
+        }
+      ]
+    }
+  ]
+}

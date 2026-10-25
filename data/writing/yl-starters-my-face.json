@@ -1,0 +1,173 @@
+{
+  "id": "w-yl-s-my-face",
+  "title": "My Face",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise face words and write about your face.",
+  "instructions": "Do the exercises in Part 1. Then write in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Have got",
+      "prompt": "Choose the correct word.",
+      "text": "👀 I ___ two eyes.",
+      "options": [
+        "has",
+        "have",
+        "is"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"have\" with I."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "👃 This is my ___. (s, e, n, o)",
+      "answers": [
+        "nose"
+      ],
+      "points": 1,
+      "explanation": "The word is \"nose\"."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Can",
+      "prompt": "Choose the correct word.",
+      "text": "I smell with my ___.",
+      "options": [
+        "ears",
+        "mouth",
+        "nose"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "You smell with your nose."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Have got",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "got",
+        "I",
+        "have",
+        "brown eyes"
+      ],
+      "answers": [
+        "I have got brown eyes."
+      ],
+      "points": 1,
+      "explanation": "I + have got + thing."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "👂 These are my ___. (r, s, e, a)",
+      "answers": [
+        "ears"
+      ],
+      "points": 1,
+      "explanation": "The word is \"ears\"."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Has got",
+      "prompt": "Choose the correct word.",
+      "text": "Lucy ___ got long hair.",
+      "options": [
+        "have",
+        "has",
+        "are"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"has got\" with she."
+    },
+    {
+      "id": "e7",
+      "type": "word-order",
+      "focus": "Be",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "small",
+        "My",
+        "mouth"
+      ],
+      "answers": [
+        "My mouth is small."
+      ],
+      "points": 1,
+      "explanation": "My + thing + is + word."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "👄 This is my ___. (u, t, h, m, o)",
+      "answers": [
+        "mouth"
+      ],
+      "points": 1,
+      "explanation": "The word is \"mouth\"."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Can",
+      "prompt": "Write eyes or ears.",
+      "text": "I can see with my ___.",
+      "answers": [
+        "eyes"
+      ],
+      "points": 1,
+      "explanation": "You see with your eyes."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Has got",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "has",
+        "He",
+        "hair",
+        "short",
+        "got"
+      ],
+      "answers": [
+        "He has got short hair."
+      ],
+      "points": 1,
+      "explanation": "He + has got + thing."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your face.",
+    "contentPoints": [
+      "Say what colour your eyes are.",
+      "Say what colour your hair is.",
+      "Say what you can do with your face."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "usefulLanguage": [
+      "I have got ...",
+      "My eyes are ...",
+      "My hair is ...",
+      "I can ..."
+    ],
+    "modelAnswer": "I have got black hair and brown eyes. My nose is small. I can smile. I like my face."
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "yl-m-market-day",
+  "title": "Market Day",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Linh and her mum go to the market for a special dinner.",
+  "instructions": "Read about Linh at the market. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🛒 Every Sunday morning, Linh goes to the market with her mum. Today they went early because it was a special day. It was her father's birthday."
+    },
+    {
+      "id": "p2",
+      "text": "The market was busy and noisy. Sellers shouted, 'Fresh fish! Cheap vegetables!' Linh liked the colours of the fruit."
+    },
+    {
+      "id": "p3",
+      "text": "First, they bought a big fish for dinner. It cost fifty thousand dong. Then they bought some tomatoes, onions and a bag of rice."
+    },
+    {
+      "id": "p4",
+      "text": "Linh saw a stall with beautiful flowers. She chose yellow flowers for her dad. They were not expensive, so her mum bought a bunch."
+    },
+    {
+      "id": "p5",
+      "text": "Suddenly, it started to rain. People ran under the roofs and Linh and her mum waited for ten minutes. A woman gave Linh a banana."
+    },
+    {
+      "id": "p6",
+      "text": "At eleven o'clock, they went home by bus. Linh's dad was waiting at the door. He smiled when he saw the flowers. 'Thank you, Linh,' he said."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A morning at the market",
+        "A day at the beach",
+        "A party at school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Linh goes to the market with her mum.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Linh goes to the market with her mum."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "When does Linh go to the market?",
+      "options": [
+        "Every Saturday",
+        "Every Sunday morning",
+        "Every Friday evening"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Every Sunday morning, Linh goes to the market with her mum.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Every Sunday morning, Linh goes to the market with her mum."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Why was today a special day?",
+      "options": [
+        "It was her birthday",
+        "It was a holiday",
+        "It was her father's birthday"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"It was her father's birthday.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It was her father's birthday."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "🛒 Did they go to the market late?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Today they went early\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Today they went early"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"noisy\" means...",
+      "options": [
+        "very quiet",
+        "full of loud sounds",
+        "empty"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"The market was busy and noisy.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The market was busy and noisy."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What did Linh like at the market?",
+      "options": [
+        "The fish",
+        "The music",
+        "The colours of the fruit"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Linh liked the colours of the fruit.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Linh liked the colours of the fruit."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What did they buy first?",
+      "options": [
+        "A big fish",
+        "Some rice",
+        "Some flowers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"First, they bought a big fish for dinner.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "First, they bought a big fish for dinner."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "How much was the fish?",
+      "options": [
+        "Twenty thousand dong",
+        "Fifty thousand dong",
+        "One hundred thousand dong"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"It cost fifty thousand dong.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "It cost fifty thousand dong."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Which of these did they buy?",
+      "options": [
+        "Apples",
+        "Eggs",
+        "Onions"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"tomatoes, onions and a bag of rice\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "tomatoes, onions and a bag of rice"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What colour were the flowers?",
+      "options": [
+        "Yellow",
+        "Red",
+        "White"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"She chose yellow flowers for her dad.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "She chose yellow flowers for her dad."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "Why did Linh's mum buy the flowers?",
+      "options": [
+        "They were free",
+        "They were not expensive",
+        "Linh cried"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"They were not expensive, so her mum bought a bunch.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "They were not expensive, so her mum bought a bunch."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What happened suddenly?",
+      "options": [
+        "The sun came out",
+        "Linh lost her bag",
+        "It started to rain"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Suddenly, it started to rain.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Suddenly, it started to rain."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "How long did they wait for the rain to stop?",
+      "options": [
+        "Ten minutes",
+        "Twenty minutes",
+        "One hour"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"waited for ten minutes\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "waited for ten minutes"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "How did they go home?",
+      "options": [
+        "By car",
+        "By bus",
+        "On foot"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"they went home by bus\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "they went home by bus"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "How did Linh's dad feel about the flowers?",
+      "options": [
+        "Angry",
+        "Worried",
+        "Happy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"He smiled when he saw the flowers.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "He smiled when he saw the flowers."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "id": "yl-m-a-visit-to-the-library",
+  "title": "A Visit to the Library",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Anna and Hoa borrow books at the library.",
+  "instructions": "Read about Anna and Hoa. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "📚 Anna goes to the library every Friday after school. Today she went with her friend Hoa."
+    },
+    {
+      "id": "p2",
+      "text": "The library is a big, quiet building next to the park. A kind woman called Mrs Green works there. She wears glasses and a yellow dress."
+    },
+    {
+      "id": "p3",
+      "text": "Anna wanted a book about horses. Mrs Green showed her a shelf near the window. Anna chose a book with a brown horse on the cover."
+    },
+    {
+      "id": "p4",
+      "text": "Hoa likes stories about animals, but she wanted a funny book today. She found a book about a silly monkey. She laughed and a man said, 'Please be quiet!'"
+    },
+    {
+      "id": "p5",
+      "text": "The girls sat at a table and read for an hour. Then they went to the desk and borrowed their books. They can keep the books for two weeks."
+    },
+    {
+      "id": "p6",
+      "text": "At four o'clock, they left the library. 'I love this place,' said Anna. 'I want to come again next Friday!'"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Anna and Hoa visit the library",
+        "Anna buys new shoes",
+        "Hoa plays in the park"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Today she went with her friend Hoa.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Today she went with her friend Hoa."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "When does Anna go to the library?",
+      "options": [
+        "Every Monday",
+        "Every Friday",
+        "Every Sunday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Anna goes to the library every Friday after school.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Anna goes to the library every Friday after school."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Did Anna go to the library alone today?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Today she went with her friend Hoa.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Today she went with her friend Hoa."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Where is the library?",
+      "options": [
+        "Next to the park",
+        "Next to the school",
+        "Next to the hospital"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"The library is a big, quiet building next to the park.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The library is a big, quiet building next to the park."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What does Mrs Green wear?",
+      "options": [
+        "A red hat",
+        "Glasses and a yellow dress",
+        "A blue coat"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"She wears glasses and a yellow dress.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "She wears glasses and a yellow dress."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"quiet\" means...",
+      "options": [
+        "very big",
+        "very old",
+        "not noisy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"The library is a big, quiet building next to the park.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The library is a big, quiet building next to the park."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What book did Anna want?",
+      "options": [
+        "A book about horses",
+        "A book about dogs",
+        "A book about cooking"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Anna wanted a book about horses.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Anna wanted a book about horses."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Where was the shelf?",
+      "options": [
+        "Near the door",
+        "Near the window",
+        "Near the desk"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Mrs Green showed her a shelf near the window.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Mrs Green showed her a shelf near the window."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What was on the cover of Anna's book?",
+      "options": [
+        "A black dog",
+        "A white cat",
+        "A brown horse"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Anna chose a book with a brown horse on the cover.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Anna chose a book with a brown horse on the cover."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What kind of book did Hoa want today?",
+      "options": [
+        "A funny book",
+        "A sad book",
+        "A scary book"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"she wanted a funny book today\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "she wanted a funny book today"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "Why did a man say, 'Please be quiet!'?",
+      "options": [
+        "Anna sang a song",
+        "Hoa laughed",
+        "A phone rang"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"She laughed and a man said, 'Please be quiet!'\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "She laughed and a man said, 'Please be quiet!'"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "How long did the girls read?",
+      "options": [
+        "For ten minutes",
+        "All day",
+        "For an hour"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"The girls sat at a table and read for an hour.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The girls sat at a table and read for an hour."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"borrowed\" means...",
+      "options": [
+        "took the books for a short time",
+        "bought the books",
+        "gave the books away"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"they went to the desk and borrowed their books\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "they went to the desk and borrowed their books"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "How long can they keep the books?",
+      "options": [
+        "For two days",
+        "For two weeks",
+        "For two months"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"They can keep the books for two weeks.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "They can keep the books for two weeks."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "What time did they leave the library?",
+      "options": [
+        "At five o'clock",
+        "At three o'clock",
+        "At four o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"At four o'clock, they left the library.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "At four o'clock, they left the library."
+        }
+      ]
+    }
+  ]
+}

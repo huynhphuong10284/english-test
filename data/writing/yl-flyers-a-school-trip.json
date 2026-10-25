@@ -1,0 +1,320 @@
+{
+  "id": "w-yl-f-a-school-trip",
+  "title": "A School Trip",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise past tenses and prepositions, then write a postcard about a school trip.",
+  "instructions": "Do the exercises in Part 1. Then write your postcard in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple",
+      "prompt": "Choose the correct word.",
+      "text": "🚌 Last Friday our class ___ on a trip to the zoo.",
+      "options": [
+        "goes",
+        "went",
+        "going"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Go\" is irregular. The past simple is \"went\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple",
+      "prompt": "Write the past simple of the verb in brackets.",
+      "text": "We ___ (meet) at school at eight o'clock.",
+      "answers": [
+        "met"
+      ],
+      "points": 1,
+      "explanation": "\"Meet\" is irregular. The past simple is \"met\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "hour",
+        "an",
+        "for",
+        "bus",
+        "by",
+        "travelled",
+        "We"
+      ],
+      "answers": [
+        "We travelled by bus for an hour."
+      ],
+      "points": 1,
+      "explanation": "Subject + past verb + by + transport: We travelled by bus for an hour."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct word.",
+      "text": "It ___ when we arrived at the zoo.",
+      "options": [
+        "rains",
+        "was raining",
+        "rained"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "We use the past continuous for a longer action in the past: it was raining."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Our teacher buyed tickets for everyone.",
+      "answers": [
+        "Our teacher bought tickets for everyone."
+      ],
+      "points": 1,
+      "explanation": "\"Buy\" is irregular. The past simple is \"bought\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Prepositions of place",
+      "prompt": "Write a word: under, behind, next to or near.",
+      "text": "🦒 The giraffes were ___ the big trees.",
+      "answers": [
+        "next to",
+        "under",
+        "behind",
+        "near"
+      ],
+      "points": 1,
+      "explanation": "Prepositions tell us where things are."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Relative clauses",
+      "prompt": "Choose the correct word.",
+      "text": "The guide ___ showed us the zoo was very friendly.",
+      "options": [
+        "which",
+        "where",
+        "who"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"who\" for people."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Past simple questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "elephant",
+        "baby",
+        "the",
+        "see",
+        "you",
+        "Did"
+      ],
+      "answers": [
+        "Did you see the baby elephant."
+      ],
+      "points": 1,
+      "explanation": "\"Did\" + subject + base verb: Did you see the baby elephant?"
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "The elephant was ___ than the zebra.",
+      "options": [
+        "big",
+        "biggest",
+        "bigger"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use the comparative \"bigger\" with \"than\"."
+    },
+    {
+      "id": "e10",
+      "type": "transformation",
+      "focus": "Comparatives",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word NOISIER. Begin: \"The ...\"",
+      "text": "The lions were not as noisy as the monkeys.",
+      "keyword": "NOISIER",
+      "answers": [
+        "The monkeys were noisier than the lions."
+      ],
+      "points": 1,
+      "explanation": "\"A is not as noisy as B\" means \"B is noisier than A\"."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Past simple negative",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "We didn't ___ (have) lunch until twelve o'clock.",
+      "answers": [
+        "have"
+      ],
+      "points": 1,
+      "explanation": "After \"didn't\" use the base verb: didn't have."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Prepositions of time",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We arrived back at school on four o'clock.",
+      "answers": [
+        "We arrived back at school at four o'clock."
+      ],
+      "points": 1,
+      "explanation": "Use \"at\" with clock times."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct word.",
+      "text": "I was tired ___ I was very happy.",
+      "options": [
+        "but",
+        "because",
+        "or"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"But\" joins two different ideas."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Present perfect",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "before",
+        "tiger",
+        "real",
+        "a",
+        "seen",
+        "never",
+        "have",
+        "I"
+      ],
+      "answers": [
+        "I have never seen a real tiger before."
+      ],
+      "points": 1,
+      "explanation": "Subject + have + never + past participle: I have never seen a real tiger before."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Past simple",
+      "prompt": "Choose the correct word.",
+      "text": "Linh ___ lots of photos of the animals.",
+      "options": [
+        "taked",
+        "took",
+        "take"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Take\" is irregular. The past simple is \"took\"."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Superlatives",
+      "prompt": "Write the correct form of the adjective in brackets.",
+      "text": "🐧 The penguins were the ___ (funny) animals of all.",
+      "answers": [
+        "funniest"
+      ],
+      "points": 1,
+      "explanation": "Short adjectives ending in -y change to -iest."
+    },
+    {
+      "id": "e17",
+      "type": "transformation",
+      "focus": "Past simple",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word SPENT. Begin: \"We ...\"",
+      "text": "We stayed at the zoo for six hours, from ten to four.",
+      "keyword": "SPENT",
+      "answers": [
+        "We spent six hours at the zoo."
+      ],
+      "points": 1,
+      "explanation": "\"Spend time\" is irregular: spent."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Should",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "You shoulds take a hat when it is sunny.",
+      "answers": [
+        "You should take a hat when it is sunny."
+      ],
+      "points": 1,
+      "explanation": "\"Should\" never changes: you should."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "First conditional",
+      "prompt": "Choose the correct word.",
+      "text": "If you ___ a map, you will not get lost.",
+      "options": [
+        "have",
+        "had",
+        "will have"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After \"if\" we use the present simple."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Going to",
+      "prompt": "Write one word.",
+      "text": "🐄 Next month we are ___ to visit a farm.",
+      "answers": [
+        "going"
+      ],
+      "points": 1,
+      "explanation": "Use \"going to\" for plans."
+    }
+  ],
+  "task": {
+    "genre": "Postcard",
+    "prompt": "You are on a school trip to a museum. Write a postcard to your friend.",
+    "contentPoints": [
+      "Say where you are and who you are with.",
+      "Say what you did this morning.",
+      "Say what the best thing was.",
+      "Say what you are going to do next."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "Dear ...,",
+      "Today we are at ...",
+      "This morning we ...",
+      "The best thing was ...",
+      "Later we are going to ..."
+    ],
+    "modelAnswer": "Dear Ben,\n\nToday we are at the science museum with our class. This morning we saw a big dinosaur and we learned about space. The best thing was the robot show. It was very funny! Later we are going to have lunch in the park. I wish you were here.\n\nBest wishes,\nNam"
+  }
+}

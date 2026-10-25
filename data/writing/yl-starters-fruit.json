@@ -1,0 +1,173 @@
+{
+  "id": "w-yl-s-fruit",
+  "title": "Fruit",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise fruit words and write about fruit you like.",
+  "instructions": "Do the exercises in Part 1. Then write in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "There is / are",
+      "prompt": "Choose the correct word.",
+      "text": "🍎 There ___ three apples.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"there are\" with more than one."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🍌 This is a ___. (n, a, n, a, b, a)",
+      "answers": [
+        "banana"
+      ],
+      "points": 1,
+      "explanation": "The word is \"banana\"."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Like",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ oranges.",
+      "options": [
+        "like",
+        "likes",
+        "liking"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"like\" with I."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "This is",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "an",
+        "This",
+        "orange"
+      ],
+      "answers": [
+        "This is an orange."
+      ],
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🍇 These are ___. (a, p, e, s, g, r)",
+      "answers": [
+        "grapes"
+      ],
+      "points": 1,
+      "explanation": "The word is \"grapes\"."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Articles",
+      "prompt": "Choose the correct word.",
+      "text": "🍐 This is ___ pear.",
+      "options": [
+        "an",
+        "a",
+        "two"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"a\" before p."
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "Like",
+      "prompt": "Write like or likes.",
+      "text": "My sister ___ mangoes.",
+      "answers": [
+        "likes"
+      ],
+      "points": 1,
+      "explanation": "Use \"likes\" with she."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Like",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "like",
+        "I",
+        "red",
+        "apples"
+      ],
+      "answers": [
+        "I like red apples."
+      ],
+      "points": 1,
+      "explanation": "I + like + thing."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🍋 This is a ___. (m, o, n, l, e)",
+      "answers": [
+        "lemon"
+      ],
+      "points": 1,
+      "explanation": "The word is \"lemon\"."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Have got",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "got",
+        "has",
+        "Linh",
+        "a",
+        "lemon"
+      ],
+      "answers": [
+        "Linh has got a lemon."
+      ],
+      "points": 1,
+      "explanation": "Name + has got + thing."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about fruit you like.",
+    "contentPoints": [
+      "Say what fruit you like.",
+      "Say the colour.",
+      "Say what you eat every day."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "usefulLanguage": [
+      "I like ...",
+      "It is ...",
+      "They are ...",
+      "I eat ..."
+    ],
+    "modelAnswer": "I like fruit. I like apples and bananas. Apples are red and bananas are yellow. I eat a banana every day."
+  }
+}

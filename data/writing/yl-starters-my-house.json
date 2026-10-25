@@ -1,0 +1,174 @@
+{
+  "id": "w-yl-s-my-house",
+  "title": "My House",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise there is, there are and rooms, and write about your house.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "There are",
+      "prompt": "Choose the right word.",
+      "text": "There ___ four rooms in my house.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"there are\" with many things."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🛏 This is my ___. (e, b, d)",
+      "answers": [
+        "bed"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"bed\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Has",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "has",
+        "My",
+        "house",
+        "a",
+        "garden"
+      ],
+      "answers": [
+        "My house has a garden."
+      ],
+      "points": 1,
+      "explanation": "My house + has + a + thing."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the right word.",
+      "text": "The sofa is ___ the living room.",
+      "options": [
+        "to",
+        "at",
+        "in"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"in\" for inside a room."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🚪 This is a ___. (o, d, r, o)",
+      "answers": [
+        "door"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"door\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "There is",
+      "prompt": "Write is or are.",
+      "text": "There ___ a table in the kitchen.",
+      "answers": [
+        "is"
+      ],
+      "points": 1,
+      "explanation": "Use \"there is\" with one thing."
+    },
+    {
+      "id": "e7",
+      "type": "word-order",
+      "focus": "Be",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "is",
+        "The",
+        "bed",
+        "big"
+      ],
+      "answers": [
+        "The bed is big."
+      ],
+      "points": 1,
+      "explanation": "The + thing + is + adjective."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🌳 There is a ___ in the garden. (e, r, t, e)",
+      "answers": [
+        "tree"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"tree\"."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Present simple",
+      "prompt": "Choose the right word.",
+      "text": "I ___ in my bed.",
+      "options": [
+        "sleeps",
+        "sleep",
+        "sleeping"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"sleep\" with I."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Present simple",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "watch",
+        "We",
+        "TV",
+        "in the living room"
+      ],
+      "answers": [
+        "We watch TV in the living room."
+      ],
+      "points": 1,
+      "explanation": "We + watch + TV + in the living room."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your house.",
+    "contentPoints": [
+      "Say what it is like.",
+      "Say what rooms there are.",
+      "Say what you like."
+    ],
+    "usefulLanguage": [
+      "I live in ...",
+      "There is ...",
+      "There are ...",
+      "I sleep in ...",
+      "I like my house."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "modelAnswer": "I live in a small house. There are three rooms. I sleep in my bedroom. There is a garden with a big tree. I like my house."
+  }
+}

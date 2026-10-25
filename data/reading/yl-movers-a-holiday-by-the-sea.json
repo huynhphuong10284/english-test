@@ -1,0 +1,320 @@
+{
+  "id": "yl-m-a-holiday-by-the-sea",
+  "title": "A Holiday by the Sea",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Lucy and her family have a happy week at the seaside.",
+  "instructions": "Read about Lucy's holiday. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🏖️ Last summer, Lucy and her family went on holiday to the seaside. They stayed in a small hotel near the beach for one week."
+    },
+    {
+      "id": "p2",
+      "text": "Every morning, Lucy and her brother Tom built sandcastles. Their dad took photos. The sand was warm and soft."
+    },
+    {
+      "id": "p3",
+      "text": "On Tuesday, they swam in the sea. The water was cold, but Lucy loved it. Tom found a big blue shell."
+    },
+    {
+      "id": "p4",
+      "text": "On Wednesday, it was windy, so they flew a kite. It was red and yellow. It went very high in the sky."
+    },
+    {
+      "id": "p5",
+      "text": "🐟 On Thursday, they took a boat trip. Lucy saw some dolphins! They jumped out of the water. Her mum was very surprised."
+    },
+    {
+      "id": "p6",
+      "text": "In the evenings, they ate fish and chips near the beach. On Saturday, they went home. Lucy was sad, but she took some shells home."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text about?",
+      "options": [
+        "Lucy's day at school",
+        "A boat race",
+        "Lucy's holiday at the seaside"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text tells us about Lucy's holiday by the sea.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last summer, Lucy and her family went on holiday to the seaside."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Where did the family stay?",
+      "options": [
+        "In a big house",
+        "In a small hotel",
+        "In a tent"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They stayed in a small hotel near the beach.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They stayed in a small hotel near the beach for one week."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How long did they stay?",
+      "options": [
+        "One week",
+        "Two days",
+        "One month"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They stayed for one week.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "for one week"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What did Lucy and Tom build every morning?",
+      "options": [
+        "Boats",
+        "Kites",
+        "Sandcastles"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They built sandcastles.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Lucy and her brother Tom built sandcastles."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Who took photos?",
+      "options": [
+        "Their mum",
+        "Their dad",
+        "Tom"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Their dad took photos.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Their dad took photos."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Was the sand cold?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The sand was warm and soft.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The sand was warm and soft."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What did they do on Tuesday?",
+      "options": [
+        "They flew a kite",
+        "They took a boat trip",
+        "They swam in the sea"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "On Tuesday, they swam in the sea.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "On Tuesday, they swam in the sea."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did Tom find?",
+      "options": [
+        "A red kite",
+        "A big blue shell",
+        "A small fish"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom found a big blue shell.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Tom found a big blue shell."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Why did they fly a kite on Wednesday?",
+      "options": [
+        "It was windy",
+        "It was rainy",
+        "It was cold"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It was windy, so they flew a kite.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "On Wednesday, it was windy, so they flew a kite."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What colours was the kite?",
+      "options": [
+        "Blue and green",
+        "Black and white",
+        "Red and yellow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The kite was red and yellow.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It was red and yellow."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What did Lucy see on the boat trip?",
+      "options": [
+        "Sharks",
+        "Dolphins",
+        "Ducks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lucy saw some dolphins.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Lucy saw some dolphins!"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"surprised\" means...",
+      "options": [
+        "you did not know it was coming",
+        "very tired",
+        "very hungry"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum did not expect to see dolphins, so she was surprised.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Her mum was very surprised."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What did they eat in the evenings?",
+      "options": [
+        "Pizza",
+        "Rice and eggs",
+        "Fish and chips"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They ate fish and chips near the beach.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "they ate fish and chips near the beach"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "When did they go home?",
+      "options": [
+        "On Tuesday",
+        "On Saturday",
+        "On Thursday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "On Saturday, they went home.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "On Saturday, they went home."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "How did Lucy feel about going home?",
+      "options": [
+        "Sad",
+        "Angry",
+        "Bored"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lucy was sad.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Lucy was sad, but she took some shells home."
+        }
+      ]
+    }
+  ]
+}

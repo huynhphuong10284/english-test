@@ -1,0 +1,427 @@
+{
+  "id": "yl-f-a-trip-to-the-city",
+  "title": "A Trip to the City",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Hoa and her family spend a day in the city.",
+  "instructions": "Read about Hoa's day in the city. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🚆 Last Sunday, Hoa and her family went to the city by train. Hoa's grandmother lives there, and they visit her every summer. The journey took two hours, and Hoa read a comic book on the train."
+    },
+    {
+      "id": "p2",
+      "text": "When they arrived, Grandma was waiting at the station. She was holding a big yellow umbrella because the sky was grey. 'It might rain this afternoon,' she said, 'so we should take our coats.'"
+    },
+    {
+      "id": "p3",
+      "text": "First, they walked to the big park, where they saw a street artist. He was painting a picture of a dragon while people were watching him. Hoa's brother, Minh, gave him a coin, and the artist drew a small dragon for Minh."
+    },
+    {
+      "id": "p4",
+      "text": "At noon, they had lunch in a small restaurant opposite the park. Hoa ordered chicken and rice, and Minh ordered a big bowl of noodles. Grandma had vegetable soup because she does not eat meat."
+    },
+    {
+      "id": "p5",
+      "text": "🔬 In the afternoon, it started to rain, so they went to the science museum. It was warm and dry inside. Hoa pressed a button and made a model volcano erupt. Minh liked the space room best, because he could see a real rocket."
+    },
+    {
+      "id": "p6",
+      "text": "Before they went home, they bought presents in a shop near the station. Hoa bought a postcard for her best friend, Lucy, and Minh bought a keyring in the shape of a bus."
+    },
+    {
+      "id": "p7",
+      "text": "At seven o'clock, they said goodbye to Grandma. Hoa was tired but happy. On the train, she and Minh fell asleep very quickly. Next summer, they are going to stay with Grandma for a whole week."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Hoa's day trip to the city",
+        "A holiday at the beach",
+        "Hoa's first day at school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Last Sunday, Hoa and her family went to the city by train.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last Sunday, Hoa and her family went to the city by train."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How long was the journey?",
+      "options": [
+        "Two hours",
+        "One hour",
+        "Five hours",
+        "Twenty minutes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"The journey took two hours, and Hoa read a comic book on the train.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "The journey took two hours, and Hoa read a comic book on the train."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Who lives in the city?",
+      "options": [
+        "Hoa's teacher",
+        "Hoa's best friend",
+        "Hoa's grandmother"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Hoa's grandmother lives there, and they visit her every summer.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Hoa's grandmother lives there, and they visit her every summer."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Why did Grandma have an umbrella?",
+      "options": [
+        "The sky was grey.",
+        "It was very hot.",
+        "She liked the colour."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"She was holding a big yellow umbrella because the sky was grey.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "She was holding a big yellow umbrella because the sky was grey."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What did Grandma say they should take?",
+      "options": [
+        "Their bikes",
+        "Their cameras",
+        "Their books",
+        "Their coats"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"so we should take our coats\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "so we should take our coats"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What was the street artist painting?",
+      "options": [
+        "A dragon",
+        "A bus",
+        "A park",
+        "A train"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"He was painting a picture of a dragon while people were watching him.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He was painting a picture of a dragon while people were watching him."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Who gave the artist a coin?",
+      "options": [
+        "Minh",
+        "Hoa",
+        "Grandma"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Hoa's brother, Minh, gave him a coin\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Hoa's brother, Minh, gave him a coin"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"opposite\" means...",
+      "options": [
+        "far from",
+        "inside",
+        "on the other side of",
+        "behind"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If the restaurant is opposite the park, it is on the other side of the street from the park.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "a small restaurant opposite the park"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What did Hoa order for lunch?",
+      "options": [
+        "Noodles",
+        "Vegetable soup",
+        "Chicken and rice"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Hoa ordered chicken and rice\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Hoa ordered chicken and rice"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "Why did Grandma have vegetable soup?",
+      "options": [
+        "She does not eat meat.",
+        "She was not hungry.",
+        "The restaurant had no meat."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Grandma had vegetable soup because she does not eat meat.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Grandma had vegetable soup because she does not eat meat."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "Why did they go to the science museum?",
+      "options": [
+        "Hoa wanted to buy a book.",
+        "It started to rain.",
+        "Grandma works there.",
+        "They were tired."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"In the afternoon, it started to rain, so they went to the science museum.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "In the afternoon, it started to rain, so they went to the science museum."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What did Hoa do at the museum?",
+      "options": [
+        "She drove a rocket.",
+        "She painted a picture.",
+        "She made a model volcano erupt."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Hoa pressed a button and made a model volcano erupt.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Hoa pressed a button and made a model volcano erupt."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What did Minh like best at the museum?",
+      "options": [
+        "The space room",
+        "The volcano",
+        "The shop"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Minh liked the space room best, because he could see a real rocket.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Minh liked the space room best, because he could see a real rocket."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"dry\" means...",
+      "options": [
+        "not wet",
+        "very cold",
+        "very big",
+        "very noisy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"It was warm and dry inside.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It was warm and dry inside."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "Where did they buy presents?",
+      "options": [
+        "At the museum",
+        "In the park",
+        "In a shop near the station"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"they bought presents in a shop near the station\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "they bought presents in a shop near the station"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "Who is Hoa's postcard for?",
+      "options": [
+        "Grandma",
+        "Minh",
+        "Lucy",
+        "Her teacher"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Hoa bought a postcard for her best friend, Lucy\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Hoa bought a postcard for her best friend, Lucy"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What did Minh buy?",
+      "options": [
+        "A toy rocket",
+        "A keyring in the shape of a bus",
+        "A postcard"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Minh bought a keyring in the shape of a bus.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Minh bought a keyring in the shape of a bus."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What time did they say goodbye to Grandma?",
+      "options": [
+        "At five o'clock",
+        "At nine o'clock",
+        "At seven o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"At seven o'clock, they said goodbye to Grandma.\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "At seven o'clock, they said goodbye to Grandma."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "How did Hoa feel at the end of the day?",
+      "options": [
+        "Tired but happy",
+        "Angry",
+        "Sad and bored"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Hoa was tired but happy.\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Hoa was tired but happy."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "What are they going to do next summer?",
+      "options": [
+        "Go to the museum again",
+        "Stay with Grandma for a week",
+        "Visit Lucy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Next summer, they are going to stay with Grandma for a whole week.\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Next summer, they are going to stay with Grandma for a whole week."
+        }
+      ]
+    }
+  ]
+}

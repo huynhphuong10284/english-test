@@ -1,0 +1,424 @@
+{
+  "id": "yl-f-tet-holiday",
+  "title": "Tet Holiday",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "A Vietnamese girl tells us about Tet with her family.",
+  "instructions": "Read Hoa's text about Tet. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🎆 Hello! My name is Hoa and I live in Ha Noi. My favourite holiday is Tet, the Vietnamese New Year. It usually comes in January or February, and we have a week off school."
+    },
+    {
+      "id": "p2",
+      "text": "Before Tet, my family cleans the house from top to bottom. My dad paints the gate, and my mum buys flowers. We always have a peach blossom tree in our living room, which makes the house look beautiful."
+    },
+    {
+      "id": "p3",
+      "text": "On the last day of the year, my grandma and I make banh chung. It is a square cake made of rice, beans and pork, and we wrap it in green leaves. It cooks for about ten hours!"
+    },
+    {
+      "id": "p4",
+      "text": "At midnight, we go to the lake to watch the fireworks. The sky is full of red, gold and green lights. My little brother is afraid of the noise, so he covers his ears."
+    },
+    {
+      "id": "p5",
+      "text": "On the first day of Tet, I wear my new red ao dai. We visit our grandparents first. Then we visit our neighbours and friends. Everybody says, 'Chuc mung nam moi!', which means 'Happy New Year!'"
+    },
+    {
+      "id": "p6",
+      "text": "Adults give children small red envelopes with lucky money inside. Last year, I got a lot of money, and I saved it to buy a new bicycle. My brother has already spent his on sweets!"
+    },
+    {
+      "id": "p7",
+      "text": "We must be careful during Tet. We don't sweep the floor on the first day, because we think we will sweep away good luck. We also try to smile and say kind words to everybody."
+    },
+    {
+      "id": "p8",
+      "text": "I love Tet because the whole family is together. If you ever come to Viet Nam in the spring, I hope you will see how we celebrate. I think you will love it, too!"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A trip to Ha Noi",
+        "How Hoa's family celebrates Tet",
+        "How to make a cake"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Hoa tells us how her family celebrates Tet.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "My favourite holiday is Tet, the Vietnamese New Year."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Where does Hoa live?",
+      "options": [
+        "In Ha Noi",
+        "In Ho Chi Minh City",
+        "In Hue"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She lives in Ha Noi.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I live in Ha Noi."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "When does Tet usually come?",
+      "options": [
+        "In summer",
+        "In December",
+        "In January or February"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tet comes in January or February.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It usually comes in January or February"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What does Hoa's dad do before Tet?",
+      "options": [
+        "He buys flowers.",
+        "He paints the gate.",
+        "He makes cakes."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her dad paints the gate.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "My dad paints the gate"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What is in the living room at Tet?",
+      "options": [
+        "A peach blossom tree",
+        "A pine tree",
+        "A big TV"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They always have a peach blossom tree.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "We always have a peach blossom tree in our living room"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "text": "In paragraph 3, \"wrap\" means ...",
+      "options": [
+        "eat",
+        "cover with something",
+        "cut"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "To wrap is to cover something all round.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "we wrap it in green leaves"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What is banh chung made of?",
+      "options": [
+        "Rice, beans and pork",
+        "Flour and eggs",
+        "Fish and vegetables"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is made of rice, beans and pork.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "a square cake made of rice, beans and pork"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "How long does banh chung cook?",
+      "options": [
+        "About two hours",
+        "About five hours",
+        "About ten hours"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It cooks for about ten hours.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "It cooks for about ten hours!"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Where do they watch the fireworks?",
+      "options": [
+        "At school",
+        "At the lake",
+        "At the market"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They go to the lake.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "we go to the lake to watch the fireworks"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "Why does Hoa's brother cover his ears?",
+      "options": [
+        "He is cold.",
+        "He is sleepy.",
+        "He is afraid of the noise."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The fireworks are loud.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "My little brother is afraid of the noise, so he covers his ears."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What does Hoa wear on the first day of Tet?",
+      "options": [
+        "A new red ao dai",
+        "A school uniform",
+        "A white dress"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She wears her new red ao dai.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "I wear my new red ao dai."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "Who does Hoa's family visit first?",
+      "options": [
+        "Their friends",
+        "Their neighbours",
+        "Their grandparents"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They visit grandparents first.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "We visit our grandparents first."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What does \"Chuc mung nam moi\" mean?",
+      "options": [
+        "Happy New Year",
+        "Good morning",
+        "Thank you"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It means Happy New Year.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "which means 'Happy New Year!'"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What is inside the red envelopes?",
+      "options": [
+        "Sweets",
+        "Lucky money",
+        "Little toys"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There is lucky money inside.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "small red envelopes with lucky money inside"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "What did Hoa buy with her money last year?",
+      "options": [
+        "Sweets",
+        "A bicycle",
+        "A dress"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She saved it to buy a new bicycle.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "I saved it to buy a new bicycle"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What did Hoa's brother do with his money?",
+      "options": [
+        "He saved it.",
+        "He gave it away.",
+        "He bought sweets."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He has already spent it on sweets.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "My brother has already spent his on sweets!"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Why don't they sweep the floor on the first day?",
+      "options": [
+        "They are too tired.",
+        "They think it sweeps away good luck.",
+        "They have no broom."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They believe it sweeps away good luck.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "we will sweep away good luck"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What else do people try to do at Tet?",
+      "options": [
+        "Sleep all day",
+        "Smile and say kind words",
+        "Go to work"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "People try to smile and say kind words.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "We also try to smile and say kind words to everybody."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why did Hoa write this text?",
+      "options": [
+        "To invite a friend to school",
+        "To sell flowers",
+        "To tell people about Tet"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She wants to share how her family celebrates Tet.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "I hope you will see how we celebrate."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "Why does Hoa love Tet?",
+      "options": [
+        "The whole family is together.",
+        "She gets new toys.",
+        "She does not go to school."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She loves that the whole family is together.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "I love Tet because the whole family is together."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "id": "yl-f-a-visit-to-the-space-museum",
+  "title": "A Visit to the Space Museum",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "A class visits a space museum and learns about rockets and stars.",
+  "instructions": "Read about Nam's school trip. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🚀 Last Saturday, Nam's class visited the space museum in the city. They went there by bus. Nam was very excited because he wants to be an astronaut one day."
+    },
+    {
+      "id": "p2",
+      "text": "First, a guide called Mr Brown showed them a big rocket. It was taller than their school! He said, 'This rocket took people to the Moon fifty years ago.'"
+    },
+    {
+      "id": "p3",
+      "text": "Next, the children went into a dark room with thousands of little lights. Mr Brown said, 'These lights are stars. Some of them are older than our planet.' Linh took a lot of photos."
+    },
+    {
+      "id": "p4",
+      "text": "After that, Nam tried on a real space suit. It was heavy and very hot. 'How do astronauts walk in this?' he asked. Mr Brown laughed and said, 'They train for many years.'"
+    },
+    {
+      "id": "p5",
+      "text": "At twelve o'clock, everyone had lunch in the museum café. Nam ate a sandwich and Linh had a pizza. Lucy didn't feel hungry because she was too excited, so she only drank some water."
+    },
+    {
+      "id": "p6",
+      "text": "🎬 In the afternoon, the class watched a film about life on the Space Station. Astronauts there eat food from bags, and they sleep on the wall! The children couldn't stop laughing."
+    },
+    {
+      "id": "p7",
+      "text": "Before they left, everybody visited the shop. Nam bought a small model rocket for his brother. Linh chose a book about planets. If they have enough money next year, they will come back."
+    },
+    {
+      "id": "p8",
+      "text": "On the bus home, Nam said, 'This was the best trip of my life!' Tonight he is going to draw a picture of the rocket and put it on his bedroom wall."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A school trip to a space museum",
+        "A trip to the Moon",
+        "Nam's new space suit"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text tells us about the class visit to the space museum.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last Saturday, Nam's class visited the space museum in the city."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How did the class get to the museum?",
+      "options": [
+        "On foot",
+        "By bus",
+        "By train"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They went there by bus.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They went there by bus."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Why was Nam excited?",
+      "options": [
+        "He likes buses.",
+        "He wanted to meet Mr Brown.",
+        "He wants to be an astronaut."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam wants to be an astronaut one day.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Nam was very excited because he wants to be an astronaut one day."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What was bigger than the school?",
+      "options": [
+        "The rocket",
+        "The space suit",
+        "The museum café"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The rocket was taller than their school.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "It was taller than their school!"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "In paragraph 2, \"guide\" means a person who ...",
+      "options": [
+        "drives the bus",
+        "shows you around a place",
+        "sells things in a shop"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A guide shows visitors around a place.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "a guide called Mr Brown showed them a big rocket"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What did the rocket do fifty years ago?",
+      "options": [
+        "It took people to the Moon.",
+        "It took people to Mars.",
+        "It stayed in the museum."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Brown said it took people to the Moon.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "This rocket took people to the Moon fifty years ago."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What was in the dark room?",
+      "options": [
+        "Old rockets",
+        "Little lights like stars",
+        "Space suits"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The room had thousands of little lights.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "a dark room with thousands of little lights"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did Linh do in the dark room?",
+      "options": [
+        "She took photos.",
+        "She drew stars.",
+        "She asked questions."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh took a lot of photos.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Linh took a lot of photos."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What did Nam think about the space suit?",
+      "options": [
+        "It was small and cold.",
+        "It was heavy and hot.",
+        "It was light and funny."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The space suit was heavy and very hot.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It was heavy and very hot."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "How do astronauts learn to walk in a space suit?",
+      "options": [
+        "They train for many years.",
+        "They ask the guide.",
+        "They learn in one day."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Brown said they train for many years.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "They train for many years."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What did Linh eat for lunch?",
+      "options": [
+        "A sandwich",
+        "A pizza",
+        "Only water"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh had a pizza.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Nam ate a sandwich and Linh had a pizza."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "Why did Lucy only drink water?",
+      "options": [
+        "She was too excited to be hungry.",
+        "She didn't like pizza.",
+        "She had no money."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She was too excited to eat.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Lucy didn't feel hungry because she was too excited"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What was the film about?",
+      "options": [
+        "Life on the Space Station",
+        "The Moon",
+        "Mr Brown"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The film was about life on the Space Station.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "a film about life on the Space Station"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Astronauts on the Space Station sleep ...",
+      "options": [
+        "in a bed",
+        "in a car",
+        "on the wall"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says they sleep on the wall.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "they sleep on the wall!"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "Why did the children laugh?",
+      "options": [
+        "The film was about funny life in space.",
+        "Mr Brown fell down.",
+        "Nam dropped his lunch."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Life on the Space Station was funny for them.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The children couldn't stop laughing."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "What did Nam buy in the shop?",
+      "options": [
+        "A book about planets",
+        "A model rocket",
+        "A space suit"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He bought a small model rocket for his brother.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Nam bought a small model rocket for his brother."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Who chose a book?",
+      "options": [
+        "Nam",
+        "Lucy",
+        "Linh"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh chose a book about planets.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Linh chose a book about planets."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "When will the children come back?",
+      "options": [
+        "Tomorrow",
+        "If they have enough money next year",
+        "Next Saturday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They will come back next year if they have enough money.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "If they have enough money next year, they will come back."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "How did Nam feel about the trip?",
+      "options": [
+        "Bored",
+        "Tired and sad",
+        "Very happy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He said it was the best trip of his life.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "This was the best trip of my life!"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "What is Nam going to do tonight?",
+      "options": [
+        "Draw a picture of the rocket",
+        "Read a book",
+        "Watch a film"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He is going to draw a picture of the rocket.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Tonight he is going to draw a picture of the rocket"
+        }
+      ]
+    }
+  ]
+}

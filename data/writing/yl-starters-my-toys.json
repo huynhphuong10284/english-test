@@ -1,0 +1,173 @@
+{
+  "id": "w-yl-s-my-toys",
+  "title": "My Toys",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise have got, this and colours, and write about your toys.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Colours",
+      "prompt": "Choose the right word.",
+      "text": "🚗 I have got a red ___.",
+      "options": [
+        "car",
+        "cars",
+        "cat"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "One car: use \"car\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "⚽ This is a ___. (l, l, a, b)",
+      "answers": [
+        "ball"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"ball\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "This is",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "is",
+        "This",
+        "my",
+        "robot"
+      ],
+      "answers": [
+        "This is my robot."
+      ],
+      "points": 1,
+      "explanation": "This + is + my + toy."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Have got",
+      "prompt": "Choose the right word.",
+      "text": "I ___ five toys.",
+      "options": [
+        "has",
+        "is",
+        "have"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"have got\" with I."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🚂 This is a ___. (i, a, r, n, t)",
+      "answers": [
+        "train"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"train\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Has got",
+      "prompt": "Write has or have.",
+      "text": "She ___ got a big doll.",
+      "answers": [
+        "has"
+      ],
+      "points": 1,
+      "explanation": "Use \"has got\" with she."
+    },
+    {
+      "id": "e7",
+      "type": "word-order",
+      "focus": "Be",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "blue",
+        "is",
+        "The",
+        "kite"
+      ],
+      "answers": [
+        "The kite is blue."
+      ],
+      "points": 1,
+      "explanation": "The + toy + is + colour."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🤖 This is a ___. (b, o, t, r, o)",
+      "answers": [
+        "robot"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"robot\"."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the right word.",
+      "text": "The ball is ___ the box.",
+      "options": [
+        "are",
+        "in",
+        "an"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"in\" for inside a box."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Play",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "play",
+        "We",
+        "toys",
+        "with"
+      ],
+      "answers": [
+        "We play with toys."
+      ],
+      "points": 1,
+      "explanation": "We + play with + toys."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your toys.",
+    "contentPoints": [
+      "Say what toys you have got.",
+      "Say what colour they are.",
+      "Say what you like."
+    ],
+    "usefulLanguage": [
+      "I have got ...",
+      "It is ...",
+      "I like my ...",
+      "It can ...",
+      "My toys are ..."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "modelAnswer": "I have got many toys. I have got a red car and a big teddy. I like my robot. It can walk. My toys are my friends."
+  }
+}

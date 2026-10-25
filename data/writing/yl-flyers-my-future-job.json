@@ -1,0 +1,326 @@
+{
+  "id": "w-yl-f-my-future-job",
+  "title": "My Future Job",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise going to, will and jobs vocabulary, then write about the job you want to do.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Going to",
+      "prompt": "Choose the correct word.",
+      "text": "🚀 When I grow up, I ___ to be an astronaut.",
+      "options": [
+        "will go",
+        "am going",
+        "go"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"am going to + verb\" for a plan."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Jobs",
+      "prompt": "Write the job.",
+      "text": "🐾 A person who helps sick animals is a ___.",
+      "answers": [
+        "vet",
+        "veterinarian"
+      ],
+      "points": 1,
+      "explanation": "A vet looks after sick animals."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Going to",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "teacher",
+        "a",
+        "be",
+        "to",
+        "going",
+        "is",
+        "She"
+      ],
+      "answers": [
+        "She is going to be a teacher."
+      ],
+      "points": 1,
+      "explanation": "Subject + be + going to + be + job: She is going to be a teacher."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Relative clauses",
+      "prompt": "Choose the correct word.",
+      "text": "A doctor is a person ___ helps people when they are ill.",
+      "options": [
+        "which",
+        "where",
+        "who"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"who\" for people."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Going to",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My sister is going be a pilot.",
+      "answers": [
+        "My sister is going to be a pilot."
+      ],
+      "points": 1,
+      "explanation": "We need \"to\" after \"going\": going to be."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write who, which or where.",
+      "text": "A hospital is a place ___ doctors and nurses work.",
+      "answers": [
+        "where"
+      ],
+      "points": 1,
+      "explanation": "Use \"where\" for places."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Will",
+      "prompt": "Choose the correct word.",
+      "text": "I think robots ___ do many jobs in the future.",
+      "options": [
+        "will",
+        "are",
+        "did"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"will\" for predictions about the future."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Should",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "doctor",
+        "a",
+        "be",
+        "to",
+        "want",
+        "you",
+        "if",
+        "hard",
+        "study",
+        "should",
+        "You"
+      ],
+      "answers": [
+        "You should study hard if you want to be a doctor."
+      ],
+      "points": 1,
+      "explanation": "You should study hard if you want to be a doctor."
+    },
+    {
+      "id": "e9",
+      "type": "transformation",
+      "focus": "Will",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word WILL. Begin: \"My ...\"",
+      "text": "I am sure that my brother is going to be famous.",
+      "keyword": "WILL",
+      "answers": [
+        "My brother will be famous."
+      ],
+      "points": 1,
+      "explanation": "\"Will\" can also show something we are sure about in the future."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Could",
+      "prompt": "Choose the correct word.",
+      "text": "Minh ___ run very fast when he was six.",
+      "options": [
+        "can",
+        "could",
+        "should"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Could\" is the past of \"can\": he could run fast."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "First conditional",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "If you practise every day, you ___ (get) better.",
+      "answers": [
+        "will get",
+        "'ll get"
+      ],
+      "points": 1,
+      "explanation": "First conditional: if + present simple, will + base verb."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Present perfect",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I have wanted to be a chef since I am seven.",
+      "answers": [
+        "I have wanted to be a chef since I was seven."
+      ],
+      "points": 1,
+      "explanation": "After \"since\" we use the past simple: since I was seven."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Must / have to",
+      "prompt": "Choose the correct word.",
+      "text": "A pilot ___ wear a uniform at work.",
+      "options": [
+        "has to",
+        "have to",
+        "having to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "With he, she or it we use \"has to\"."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "First conditional",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "home",
+        "at",
+        "stay",
+        "will",
+        "we",
+        "rains",
+        "it",
+        "If"
+      ],
+      "answers": [
+        "If it rains we will stay at home.",
+        "If it rains, we will stay at home."
+      ],
+      "points": 1,
+      "explanation": "If + present simple, will + verb: If it rains we will stay at home."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the correct word.",
+      "text": "My dad works ___ a bank in the city.",
+      "options": [
+        "on",
+        "to",
+        "at"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We say \"work at a bank\"."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Comparatives",
+      "prompt": "Write the correct form of the adjective in brackets.",
+      "text": "✈️ Being a pilot is ___ (exciting) than working in an office.",
+      "answers": [
+        "more exciting"
+      ],
+      "points": 1,
+      "explanation": "Long adjectives use \"more\": more exciting."
+    },
+    {
+      "id": "e17",
+      "type": "transformation",
+      "focus": "Superlatives",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word MOST. Begin: \"A ...\"",
+      "text": "No job is as interesting as a space scientist.",
+      "keyword": "MOST",
+      "answers": [
+        "A space scientist has the most interesting job.",
+        "A space scientist is the most interesting job."
+      ],
+      "points": 1,
+      "explanation": "\"No job is as interesting\" means \"the most interesting\"."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Past continuous",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "At six o'clock my mum were cooking dinner.",
+      "answers": [
+        "At six o'clock my mum was cooking dinner."
+      ],
+      "points": 1,
+      "explanation": "Use \"was\" with I, he, she and it."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Might",
+      "prompt": "Choose the correct word.",
+      "text": "I am not sure. I ___ be a singer or a dancer.",
+      "options": [
+        "will",
+        "might",
+        "have"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Might\" shows something is possible but not sure."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Linking words",
+      "prompt": "Write because, so or but.",
+      "text": "I like animals, ___ I want to work in a zoo.",
+      "answers": [
+        "so"
+      ],
+      "points": 1,
+      "explanation": "\"So\" shows the result: I like animals, so I want to work in a zoo."
+    }
+  ],
+  "task": {
+    "genre": "Short text",
+    "prompt": "Write about the job you want to do in the future.",
+    "contentPoints": [
+      "Say what job you are going to do.",
+      "Say why you want this job.",
+      "Say what you will do every day.",
+      "Say what you must learn now."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "When I grow up, I am going to be ...",
+      "I want this job because ...",
+      "Every day I will ...",
+      "I should ... now.",
+      "I think it will be ..."
+    ],
+    "modelAnswer": "When I grow up, I am going to be a vet. I want this job because I love animals and I like helping them. Every day I will look after sick dogs and cats. I should study science now and I must be kind and patient. If I work hard, I will be a good vet. I think it will be a great job."
+  }
+}

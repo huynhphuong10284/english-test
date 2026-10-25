@@ -1,0 +1,319 @@
+{
+  "id": "yl-m-a-rainy-weekend",
+  "title": "A Rainy Weekend",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Ben finds fun things to do when it rains all weekend.",
+  "instructions": "Read about Ben's rainy weekend. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🌧️ It rained all weekend in Ben's town. On Saturday morning, he looked out of the window. The streets were wet and the sky was dark."
+    },
+    {
+      "id": "p2",
+      "text": "Ben was not happy at first. He wanted to play football with his friends. His mum said, 'You must stay at home today.'"
+    },
+    {
+      "id": "p3",
+      "text": "So Ben and his sister Mai played a board game. Mai won three times! Then they made a big pizza with cheese and tomatoes."
+    },
+    {
+      "id": "p4",
+      "text": "On Sunday, the rain was lighter. Ben put on his coat and boots. He and his dad walked to the library."
+    },
+    {
+      "id": "p5",
+      "text": "📚 Ben borrowed two books about dinosaurs. He read one of them in the afternoon. It was very interesting."
+    },
+    {
+      "id": "p6",
+      "text": "In the evening, the rain stopped and Ben saw a rainbow. 'Next weekend, we can play football,' he said. He smiled."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Ben's football match",
+        "How Ben spent a rainy weekend",
+        "A holiday in the sun"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text tells us what Ben did when it rained.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It rained all weekend in Ben's town."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What was the sky like on Saturday morning?",
+      "options": [
+        "Dark",
+        "Blue",
+        "Red"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The sky was dark.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "The streets were wet and the sky was dark."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Was Ben happy at first?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben was not happy at first.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Ben was not happy at first."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What did Ben want to do?",
+      "options": [
+        "Go swimming",
+        "Play football",
+        "Ride a bike"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He wanted to play football with his friends.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He wanted to play football with his friends."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What must Ben do on Saturday?",
+      "options": [
+        "Stay at home",
+        "Go to school",
+        "Clean his room"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "His mum said he must stay at home.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "You must stay at home today."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Who won the board game three times?",
+      "options": [
+        "Ben",
+        "Dad",
+        "Mai"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai won three times.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Mai won three times!"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What did Ben and Mai make?",
+      "options": [
+        "A cake",
+        "A pizza",
+        "A soup"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They made a big pizza.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Then they made a big pizza with cheese and tomatoes."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Where did Ben walk with his dad on Sunday?",
+      "options": [
+        "To the library",
+        "To the park",
+        "To the shop"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He and his dad walked to the library.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "He and his dad walked to the library."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What did Ben put on?",
+      "options": [
+        "His hat and shorts",
+        "His T-shirt",
+        "His coat and boots"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ben put on his coat and boots.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Ben put on his coat and boots."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "How many books did Ben borrow?",
+      "options": [
+        "Three",
+        "Two",
+        "Five"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben borrowed two books.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Ben borrowed two books about dinosaurs."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What were the books about?",
+      "options": [
+        "Dinosaurs",
+        "Football",
+        "Pizza"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The books were about dinosaurs.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Ben borrowed two books about dinosaurs."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"borrowed\" means...",
+      "options": [
+        "bought something",
+        "lost something",
+        "took something for a short time"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ben took the books from the library for a short time.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Ben borrowed two books about dinosaurs."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What did Ben see in the evening?",
+      "options": [
+        "A dinosaur",
+        "A rainbow",
+        "A football"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "In the evening, Ben saw a rainbow.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "In the evening, the rain stopped and Ben saw a rainbow."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Did the rain stop in the evening?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The rain stopped in the evening.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "In the evening, the rain stopped and Ben saw a rainbow."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "How did Ben feel at the end?",
+      "options": [
+        "Angry",
+        "Afraid",
+        "Happy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He smiled, so he was happy.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "He smiled."
+        }
+      ]
+    }
+  ]
+}

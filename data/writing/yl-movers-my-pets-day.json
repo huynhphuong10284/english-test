@@ -1,0 +1,243 @@
+{
+  "id": "w-yl-m-my-pets-day",
+  "title": "My Pet's Day",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise present and past simple, and write about a day in the life of a pet.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present simple",
+      "prompt": "Choose the correct word.",
+      "text": "🐶 My dog ___ up at seven o'clock.",
+      "options": [
+        "get",
+        "getting",
+        "gets"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Add -s with he, she and it: the dog gets up."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present simple: -s",
+      "prompt": "Write the missing word.",
+      "text": "Max ___ his dinner at six. (eat)",
+      "answers": [
+        "eats"
+      ],
+      "points": 1,
+      "explanation": "Add -s with he, she and it: Max eats."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Prepositions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "sleeps",
+        "My cat",
+        "on my bed"
+      ],
+      "answers": [
+        "My cat sleeps on my bed."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + place: My cat sleeps on my bed."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Past simple: run",
+      "prompt": "Choose the correct word.",
+      "text": "Yesterday my dog ___ in the park.",
+      "options": [
+        "ran",
+        "run",
+        "runs"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The past of \"run\" is \"ran\"."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Does not",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My cat don't like water.",
+      "answers": [
+        "My cat doesn't like water.",
+        "My cat does not like water."
+      ],
+      "points": 1,
+      "explanation": "Use \"doesn't\" with he, she and it."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Have to",
+      "prompt": "Write the missing word.",
+      "text": "I ___ take my dog for a walk every day.",
+      "answers": [
+        "have to",
+        "must"
+      ],
+      "points": 1,
+      "explanation": "Use \"have to\" or \"must\" for things you need to do."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Superlatives",
+      "prompt": "Choose the correct word.",
+      "text": "🐟 My fish is the ___ pet in our house.",
+      "options": [
+        "quieter",
+        "quietest",
+        "quiet"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"the quietest\" to compare many pets."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Prepositions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "play",
+        "We",
+        "with",
+        "a ball",
+        "in the garden"
+      ],
+      "answers": [
+        "We play with a ball in the garden.",
+        "In the garden we play with a ball."
+      ],
+      "points": 1,
+      "explanation": "Subject + play with + thing + place."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Irregular past",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Yesterday Coco drinked all the milk.",
+      "answers": [
+        "Yesterday Coco drank all the milk."
+      ],
+      "points": 1,
+      "explanation": "The past of \"drink\" is \"drank\"."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Past simple: find",
+      "prompt": "Choose the correct word.",
+      "text": "My puppy ___ a big bone yesterday.",
+      "options": [
+        "find",
+        "finds",
+        "found"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The past of \"find\" is \"found\"."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Present continuous",
+      "prompt": "Write the missing word.",
+      "text": "The bird is ___ on the tree now. (sing)",
+      "answers": [
+        "singing"
+      ],
+      "points": 1,
+      "explanation": "Use the -ing form after \"is\": singing."
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Adverbs",
+      "prompt": "Choose the correct word.",
+      "text": "My dog runs very ___.",
+      "options": [
+        "fast",
+        "fastly",
+        "faster"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Fast\" is an adverb too: runs fast."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Times",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "goes",
+        "to bed",
+        "My dog",
+        "at nine o'clock"
+      ],
+      "answers": [
+        "My dog goes to bed at nine o'clock."
+      ],
+      "points": 1,
+      "explanation": "Subject + goes + to bed + time."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My hamster is more cute than your cat.",
+      "answers": [
+        "My hamster is cuter than your cat."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives add -er: cuter."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Past simple: give",
+      "prompt": "Write the missing word.",
+      "text": "🛁 Lucy ___ her cat a bath last Sunday. (give)",
+      "answers": [
+        "gave"
+      ],
+      "points": 1,
+      "explanation": "The past of \"give\" is \"gave\"."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your pet's day. If you have no pet, write about a pet you like.",
+    "contentPoints": [
+      "Say what your pet is and its name.",
+      "Say what it does in the morning.",
+      "Say what it likes to eat.",
+      "Say what it did yesterday."
+    ],
+    "minWords": 25,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "My pet is a ...",
+      "It gets up at ...",
+      "It likes to eat ...",
+      "Yesterday it ...",
+      "I love my pet because ..."
+    ],
+    "modelAnswer": "My pet is a dog. His name is Max. He gets up at seven o'clock and eats his breakfast. He likes to play with a ball. Yesterday he ran in the park and found a big stick. I love Max because he is kind."
+  }
+}

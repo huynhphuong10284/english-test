@@ -1,0 +1,173 @@
+{
+  "id": "w-yl-s-playtime",
+  "title": "Playtime",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise toys and play, and write about your favourite toy.",
+  "instructions": "Do the exercises in Part 1. Then write in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present continuous",
+      "prompt": "Choose the correct word.",
+      "text": "⚽ Sam is ___ football.",
+      "options": [
+        "play",
+        "plays",
+        "playing"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"is playing\" for now."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🪆 This is a ___. (l, l, d, o)",
+      "answers": [
+        "doll"
+      ],
+      "points": 1,
+      "explanation": "The word is \"doll\"."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Can",
+      "prompt": "Choose the correct word.",
+      "text": "Can you ___ a bike?",
+      "options": [
+        "rides",
+        "ride",
+        "riding"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After \"can\" use the base verb."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Like",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "like",
+        "I",
+        "playing",
+        "games"
+      ],
+      "answers": [
+        "I like playing games."
+      ],
+      "points": 1,
+      "explanation": "I + like + playing."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🚗 This is a ___. (a, r, c)",
+      "answers": [
+        "car"
+      ],
+      "points": 1,
+      "explanation": "The word is \"car\"."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the correct word.",
+      "text": "The ball is ___ the box.",
+      "options": [
+        "at",
+        "am",
+        "in"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"in\" for inside."
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "Prepositions",
+      "prompt": "Write in, on or under.",
+      "text": "🐱 The cat is ___ the bed, not on the bed.",
+      "answers": [
+        "under"
+      ],
+      "points": 1,
+      "explanation": "Under means below."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "This is",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "kite",
+        "my",
+        "This"
+      ],
+      "answers": [
+        "This is my kite."
+      ],
+      "points": 1,
+      "explanation": "This + is + my + thing."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🪁 I can fly a ___. (t, e, k, i)",
+      "answers": [
+        "kite"
+      ],
+      "points": 1,
+      "explanation": "The word is \"kite\"."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Present continuous",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "are",
+        "playing",
+        "We",
+        "now"
+      ],
+      "answers": [
+        "We are playing now.",
+        "Now we are playing."
+      ],
+      "points": 1,
+      "explanation": "We + are + playing."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your favourite toy.",
+    "contentPoints": [
+      "Say what it is.",
+      "Say what colour it is.",
+      "Say what you can do with it."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "usefulLanguage": [
+      "My favourite toy is ...",
+      "It is ...",
+      "I can ...",
+      "I play with it ..."
+    ],
+    "modelAnswer": "My favourite toy is a red car. It is big. I can push it. I play with my car with my friend Nam."
+  }
+}

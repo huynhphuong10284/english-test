@@ -1,0 +1,248 @@
+{
+  "id": "w-yl-m-a-picnic",
+  "title": "A Picnic",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise food words and past simple, and write about a picnic.",
+  "instructions": "Do the exercises in Part 1. Then write about a picnic in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Food",
+      "prompt": "Choose the correct word.",
+      "text": "🧃 We took sandwiches, fruit and ___ to drink.",
+      "options": [
+        "juice",
+        "pizza",
+        "cheese"
+      ],
+      "answer": 0,
+      "explanation": "Juice is a drink.",
+      "points": 1
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: take",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "We ___ a big basket to the park. (take)",
+      "answers": [
+        "took"
+      ],
+      "explanation": "\"Take\" is irregular. The past is \"took\".",
+      "points": 1
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "to the lake",
+        "went",
+        "we",
+        "on Sunday"
+      ],
+      "answers": [
+        "We went to the lake on Sunday.",
+        "On Sunday we went to the lake."
+      ],
+      "explanation": "Subject + went + place + time.",
+      "points": 1
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Past simple: irregular",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Mum maked some sandwiches.",
+      "answers": [
+        "Mum made some sandwiches."
+      ],
+      "explanation": "\"Make\" is irregular. The past is \"made\".",
+      "points": 1
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Some / any",
+      "prompt": "Choose the correct word.",
+      "text": "Is there ___ water in the bottle?",
+      "options": [
+        "a",
+        "many",
+        "any"
+      ],
+      "answer": 2,
+      "explanation": "Use \"any\" in questions with water.",
+      "points": 1
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Some / any",
+      "prompt": "Choose the correct word.",
+      "text": "🍪 There were ___ biscuits in the basket.",
+      "options": [
+        "a",
+        "some",
+        "much"
+      ],
+      "answer": 1,
+      "explanation": "Use \"some\" with more than one thing.",
+      "points": 1
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "Prepositions",
+      "prompt": "Write under, in or on.",
+      "text": "It was sunny, so we sat ___ a tree.",
+      "answers": [
+        "under",
+        "near",
+        "by"
+      ],
+      "explanation": "We sat under a tree to be in the shade.",
+      "points": 1
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Past simple: was",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "hot",
+        "the day",
+        "was",
+        "very"
+      ],
+      "answers": [
+        "The day was very hot."
+      ],
+      "explanation": "Subject + was + very + adjective.",
+      "points": 1
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Past simple negative",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We don't have rain on Saturday.",
+      "answers": [
+        "We didn't have rain on Saturday.",
+        "We did not have rain on Saturday."
+      ],
+      "explanation": "Saturday is past, so use \"didn't\".",
+      "points": 1
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "The cake was ___ than the biscuits.",
+      "options": [
+        "sweeter",
+        "sweet",
+        "sweetest"
+      ],
+      "answer": 0,
+      "explanation": "Add -er to compare two things: sweeter.",
+      "points": 1
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Past simple: eat",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "Ben ___ three sandwiches! (eat)",
+      "answers": [
+        "ate"
+      ],
+      "explanation": "\"Eat\" is irregular. The past is \"ate\".",
+      "points": 1
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Past simple questions",
+      "prompt": "Choose the correct word.",
+      "text": "___ you play games after lunch?",
+      "options": [
+        "Do",
+        "Did",
+        "Are"
+      ],
+      "answer": 1,
+      "explanation": "Use \"Did\" for questions about the past.",
+      "points": 1
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the birds",
+        "we",
+        "watched",
+        "and",
+        "ducks"
+      ],
+      "answers": [
+        "We watched the birds and ducks.",
+        "We watched the ducks and birds."
+      ],
+      "explanation": "Subject + past verb + things.",
+      "points": 1
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Plurals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We ate two sandwichs each.",
+      "answers": [
+        "We ate two sandwiches each."
+      ],
+      "explanation": "Words ending in -ch take -es: sandwiches.",
+      "points": 1
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the correct word.",
+      "text": "We sat ___ the grass.",
+      "options": [
+        "at",
+        "to",
+        "on"
+      ],
+      "answer": 2,
+      "explanation": "We sit on the grass.",
+      "points": 1
+    }
+  ],
+  "task": {
+    "genre": "Short story",
+    "prompt": "Write about a picnic.",
+    "contentPoints": [
+      "Say where you went and who with.",
+      "Say what food you took.",
+      "Say what you did."
+    ],
+    "minWords": 20,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "Last Sunday we went to ...",
+      "We took ...",
+      "We ate ...",
+      "After lunch we ...",
+      "It was ..."
+    ],
+    "modelAnswer": "Last Sunday my family went to the lake for a picnic. We took sandwiches, fruit and juice. We sat under a big tree and ate lunch. After lunch my sister and I played games. It was sunny and we had a lovely day."
+  }
+}

@@ -67,7 +67,7 @@ function checkEssay(task, essay) {
   };
 }
 
-function buildAdvice(percent, byType, checks, selfAssessment, unansweredCount) {
+function buildAdvice(percent, byType, checks, selfAssessment, unansweredCount, youngLearner) {
   const advice = [];
 
   for (const t of byType.filter((t) => t.percent < 70).sort((a, b) => a.percent - b.percent).slice(0, 2)) {
@@ -82,7 +82,8 @@ function buildAdvice(percent, byType, checks, selfAssessment, unansweredCount) {
   } else if (checks.wordCount > checks.maxWords) {
     advice.push(`Your text has ${checks.wordCount} words, more than the ${checks.maxWords}-word limit. Practise cutting repetition and keeping only what answers the task.`);
   }
-  if (checks.wordCount > 0 && checks.linkers.length < 3) {
+  // Young learners write a few short sentences, so three linking words would be too many.
+  if (checks.wordCount > 0 && checks.linkers.length < 3 && !youngLearner) {
     advice.push('Use more linking words to connect your ideas, for example: because, however, also, as a result, finally.');
   }
 
@@ -183,7 +184,7 @@ function gradeWriting(exam, submission, rawSelfAssessment) {
     assessment: {
       level: level.name,
       headline: selfAssessment ? level.headline : 'Score so far is for the exercises only. Rate your writing below to complete it.',
-      advice: buildAdvice(percent, byType, checks, selfAssessment, unansweredCount)
+      advice: buildAdvice(percent, byType, checks, selfAssessment, unansweredCount, exam.group === 'Young Learners')
     },
     review: {
       exercises,

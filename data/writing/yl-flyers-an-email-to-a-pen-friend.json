@@ -1,0 +1,318 @@
+{
+  "id": "w-yl-f-an-email-to-a-pen-friend",
+  "title": "An Email to a Pen Friend",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise questions, present perfect and will, then write an email to a new pen friend.",
+  "instructions": "Do the exercises in Part 1. Then write your email in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Greetings",
+      "prompt": "Choose the correct word.",
+      "text": "Choose the best way to start an email.",
+      "options": [
+        "Dear Lucy,",
+        "Hello to Lucy,",
+        "To you Lucy,"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We start an email to a friend with \"Dear\" + name, or \"Hi\" + name."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "✉️ My name is Linh and I ___ (live) in Da Nang.",
+      "answers": [
+        "live"
+      ],
+      "points": 1,
+      "explanation": "Use the base verb with \"I\": I live."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Questions",
+      "prompt": "Choose the correct word.",
+      "text": "___ do you go to school?",
+      "options": [
+        "Where",
+        "Who",
+        "What"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We use \"Where\" to ask about a place."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Present simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "bus",
+        "by",
+        "school",
+        "to",
+        "go",
+        "I"
+      ],
+      "answers": [
+        "I go to school by bus."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + to + place + by + transport: I go to school by bus."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Present simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My brother have a little cat.",
+      "answers": [
+        "My brother has a little cat."
+      ],
+      "points": 1,
+      "explanation": "With he, she or it, use \"has\" (not \"have\")."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Present perfect",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ never been to England.",
+      "options": [
+        "have",
+        "am",
+        "did"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Present perfect: have/has + past participle. \"I have never been\" talks about my life so far."
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "Present perfect",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "🌏 Have you ever ___ (visit) Viet Nam?",
+      "answers": [
+        "visited"
+      ],
+      "points": 1,
+      "explanation": "Present perfect = have + past participle. The past participle of visit is visited."
+    },
+    {
+      "id": "e8",
+      "type": "choice",
+      "focus": "Will",
+      "prompt": "Choose the correct word.",
+      "text": "Write soon! I ___ answer your email quickly.",
+      "options": [
+        "am",
+        "will",
+        "did"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"will\" for a promise about the future."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Like + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "grandfather",
+        "my",
+        "with",
+        "chess",
+        "playing",
+        "like",
+        "I"
+      ],
+      "answers": [
+        "I like playing chess with my grandfather."
+      ],
+      "points": 1,
+      "explanation": "Like + verb-ing: I like playing chess with my grandfather."
+    },
+    {
+      "id": "e10",
+      "type": "transformation",
+      "focus": "Going to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word GOING. Begin: \"I ...\"",
+      "text": "I will visit my aunt next weekend.",
+      "keyword": "GOING",
+      "answers": [
+        "I am going to visit my aunt next weekend.",
+        "I'm going to visit my aunt next weekend."
+      ],
+      "points": 1,
+      "explanation": "\"Going to\" talks about plans: I am going to visit."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Prepositions of time",
+      "prompt": "Choose the correct word.",
+      "text": "My birthday is ___ the fifth of June.",
+      "options": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"on\" with dates and days: on the fifth of June."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write who, which or where.",
+      "text": "I have got a friend ___ lives in Canada.",
+      "answers": [
+        "who"
+      ],
+      "points": 1,
+      "explanation": "Use \"who\" for people."
+    },
+    {
+      "id": "e13",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Hanoi is more big than my small town.",
+      "answers": [
+        "Hanoi is bigger than my small town."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives take -er: big - bigger (not \"more big\")."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Past simple",
+      "prompt": "Choose the correct word.",
+      "text": "Last summer we ___ to the beach.",
+      "options": [
+        "go",
+        "goes",
+        "went"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Go\" is irregular. The past simple is \"went\"."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "school",
+        "after",
+        "do",
+        "you",
+        "do",
+        "What"
+      ],
+      "answers": [
+        "What do you do after school.",
+        "What do you do after school?"
+      ],
+      "points": 1,
+      "explanation": "Question word + do + subject + verb: What do you do after school?"
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Should",
+      "prompt": "Write should or shouldn't.",
+      "text": "You ___ send me a photo of your family. I would love to see it!",
+      "answers": [
+        "should"
+      ],
+      "points": 1,
+      "explanation": "\"Should\" gives a suggestion."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct word.",
+      "text": "I like football, ___ I am not very good at it.",
+      "options": [
+        "so",
+        "but",
+        "because"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"But\" joins two different ideas."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Comparatives",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word BIGGER. Begin: \"Your ...\"",
+      "text": "My town is smaller than your town.",
+      "keyword": "BIGGER",
+      "answers": [
+        "Your town is bigger than my town.",
+        "Your town is bigger than mine."
+      ],
+      "points": 1,
+      "explanation": "\"A is smaller than B\" means \"B is bigger than A\"."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Yesterday I writed a long email to Tom.",
+      "answers": [
+        "Yesterday I wrote a long email to Tom."
+      ],
+      "points": 1,
+      "explanation": "\"Write\" is irregular. The past simple is \"wrote\"."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Closing an email",
+      "prompt": "Complete the end of the email.",
+      "text": "Write soon! Best ___, Linh",
+      "answers": [
+        "wishes"
+      ],
+      "points": 1,
+      "explanation": "We often close an email with \"Best wishes\"."
+    }
+  ],
+  "task": {
+    "genre": "Email",
+    "prompt": "You have got a new pen friend called Sam. Write him an email. Tell him about yourself.",
+    "contentPoints": [
+      "Say your name and where you live.",
+      "Say what you like doing.",
+      "Say what you are going to do at the weekend.",
+      "Ask Sam two questions."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "Dear Sam,",
+      "My name is ... and I live in ...",
+      "I like ... because ...",
+      "At the weekend I am going to ...",
+      "What do you like doing?"
+    ],
+    "modelAnswer": "Dear Sam,\n\nHello! My name is Mai and I live in Hue. I am eleven years old. I like swimming and reading books because they are fun. At the weekend I am going to visit my grandmother. We will make a big cake together. What do you like doing? Have you got any brothers or sisters?\n\nWrite soon!\nMai"
+  }
+}

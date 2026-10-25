@@ -1,0 +1,426 @@
+{
+  "id": "yl-f-my-uncle-the-pilot",
+  "title": "My Uncle the Pilot",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "A girl tells us about her uncle, who is a pilot.",
+  "instructions": "Read about Uncle Tom and his job. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🛫 My uncle Tom is a pilot. He flies big planes for an airline and travels to many countries. I am very proud of him, and I want to be a pilot too."
+    },
+    {
+      "id": "p2",
+      "text": "Uncle Tom's job is not easy. He has to get up at four o'clock in the morning when he has an early flight. Before every flight, he checks the plane and looks at the weather with the other pilots."
+    },
+    {
+      "id": "p3",
+      "text": "Last month, I visited Uncle Tom at the airport. He showed me the cockpit, which is the small room where the pilots sit. There were hundreds of buttons! I sat in his chair and held the wheel. It was very exciting."
+    },
+    {
+      "id": "p4",
+      "text": "Uncle Tom told me that pilots must be good at English, because they talk to people from many countries. They also have to stay calm if something goes wrong. 'A good pilot never gets afraid,' he said."
+    },
+    {
+      "id": "p5",
+      "text": "My uncle likes his job, but it is hard to be away from home. Sometimes he misses my birthday party. Last year, he was working in Japan on my birthday, so he sent me a lovely card and a toy robot."
+    },
+    {
+      "id": "p6",
+      "text": "When he is at home, he loves cooking for the family. His favourite food is noodle soup, which my grandmother taught him to make. If you visit us on Sunday, you can try it!"
+    },
+    {
+      "id": "p7",
+      "text": "Next year, I am going to join a flying club for children. Uncle Tom says that I should study maths and science at school. 'If you work hard, you will fly a plane one day,' he told me. I will never forget his words."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A holiday in Japan",
+        "The writer's uncle, who is a pilot",
+        "A girl who loves cooking"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"My uncle Tom is a pilot.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "My uncle Tom is a pilot."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What does Uncle Tom fly?",
+      "options": [
+        "Small helicopters",
+        "Hot-air balloons",
+        "Big planes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"He flies big planes for an airline and travels to many countries.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "He flies big planes for an airline and travels to many countries."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What does the writer want to be?",
+      "options": [
+        "A cook",
+        "A teacher",
+        "A scientist",
+        "A pilot"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"I am very proud of him, and I want to be a pilot too.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I am very proud of him, and I want to be a pilot too."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What time does Uncle Tom get up for an early flight?",
+      "options": [
+        "At six o'clock",
+        "At four o'clock",
+        "At seven o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"He has to get up at four o'clock in the morning when he has an early flight.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He has to get up at four o'clock in the morning when he has an early flight."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What does he do before every flight?",
+      "options": [
+        "He has breakfast with his family.",
+        "He checks the plane.",
+        "He cooks noodle soup.",
+        "He phones his mother."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Before every flight, he checks the plane and looks at the weather with the other pilots.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Before every flight, he checks the plane and looks at the weather with the other pilots."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "When did the writer visit the airport?",
+      "options": [
+        "Last month",
+        "Last year",
+        "Yesterday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Last month, I visited Uncle Tom at the airport.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Last month, I visited Uncle Tom at the airport."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"cockpit\" means...",
+      "options": [
+        "a place to buy food",
+        "the room where the pilots sit",
+        "a very big bag"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"He showed me the cockpit, which is the small room where the pilots sit.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He showed me the cockpit, which is the small room where the pilots sit."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did the writer hold in the cockpit?",
+      "options": [
+        "The wheel",
+        "A map",
+        "A phone",
+        "A radio"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"I sat in his chair and held the wheel.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "I sat in his chair and held the wheel."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "inference",
+      "text": "How did the writer feel in the cockpit?",
+      "options": [
+        "Excited",
+        "Sleepy",
+        "Angry"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer says it was very exciting, so she felt excited.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "It was very exciting."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Why must pilots be good at English?",
+      "options": [
+        "They read English books on planes.",
+        "They talk to people from many countries.",
+        "They only fly to England."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"pilots must be good at English, because they talk to people from many countries\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "pilots must be good at English, because they talk to people from many countries"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 4, \"stay calm\" means...",
+      "options": [
+        "sit in a chair",
+        "be very quiet at night",
+        "talk loudly",
+        "not get worried or afraid"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"They also have to stay calm if something goes wrong.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "They also have to stay calm if something goes wrong."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "The hard part of Uncle Tom's job",
+        "Uncle Tom's favourite food",
+        "A trip to Japan with the family"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"My uncle likes his job, but it is hard to be away from home.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "My uncle likes his job, but it is hard to be away from home."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "Where was Uncle Tom on the writer's birthday last year?",
+      "options": [
+        "At home",
+        "In Japan",
+        "At the airport in London"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Last year, he was working in Japan on my birthday\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Last year, he was working in Japan on my birthday"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did Uncle Tom send?",
+      "options": [
+        "A big cake",
+        "A plane ticket",
+        "A card and a toy robot",
+        "A photo of a plane"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"so he sent me a lovely card and a toy robot\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "so he sent me a lovely card and a toy robot"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "Who taught Uncle Tom to make noodle soup?",
+      "options": [
+        "The writer's grandmother",
+        "The writer's mother",
+        "A cook in Japan"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"His favourite food is noodle soup, which my grandmother taught him to make.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "His favourite food is noodle soup, which my grandmother taught him to make."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "What does Uncle Tom love doing at home?",
+      "options": [
+        "Cooking for the family",
+        "Flying small planes",
+        "Playing football",
+        "Painting"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"When he is at home, he loves cooking for the family.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "When he is at home, he loves cooking for the family."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What is the writer going to do next year?",
+      "options": [
+        "Visit Japan",
+        "Learn to cook",
+        "Join a flying club"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Next year, I am going to join a flying club for children.\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Next year, I am going to join a flying club for children."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What should the writer study at school?",
+      "options": [
+        "Maths and science",
+        "Art and music",
+        "History"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Uncle Tom says that I should study maths and science at school.\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Uncle Tom says that I should study maths and science at school."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does Uncle Tom think about the writer?",
+      "options": [
+        "She is too young to fly.",
+        "She can be a pilot if she works hard.",
+        "She should be a cook."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says she will fly a plane one day if she works hard.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "'If you work hard, you will fly a plane one day,' he told me."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why did the writer write this text?",
+      "options": [
+        "To sell plane tickets",
+        "To ask for a new toy",
+        "To tell us about her uncle's job"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The whole text tells us about Uncle Tom and his job.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "My uncle Tom is a pilot."
+        }
+      ]
+    }
+  ]
+}

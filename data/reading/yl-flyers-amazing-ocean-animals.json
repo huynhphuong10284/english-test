@@ -1,0 +1,428 @@
+{
+  "id": "yl-f-amazing-ocean-animals",
+  "title": "Amazing Ocean Animals",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Learn about some of the most amazing animals in the sea.",
+  "instructions": "Read about ocean animals. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🐋 The ocean is home to some of the most amazing animals in the world. It covers more than seventy percent of the Earth, and scientists have not explored most of it yet."
+    },
+    {
+      "id": "p2",
+      "text": "The blue whale is the biggest animal that has ever lived. It is longer than three buses, and its heart is as big as a small car. Although it is so big, it eats only tiny animals called krill."
+    },
+    {
+      "id": "p3",
+      "text": "Dolphins are very clever. They live in groups, and they talk to each other with clicks and whistles. Sometimes dolphins help people who are swimming in the sea."
+    },
+    {
+      "id": "p4",
+      "text": "🐙 The octopus has eight arms and three hearts. It can change its colour in a second, so it is hard to see when it hides on the rocks. If an enemy comes, it shoots out black ink and escapes."
+    },
+    {
+      "id": "p5",
+      "text": "Sea turtles travel thousands of kilometres across the ocean. A mother turtle always comes back to the beach where she was born to lay her eggs. Sadly, many turtles are in danger because they eat plastic bags, which look like jellyfish."
+    },
+    {
+      "id": "p6",
+      "text": "Some animals live deep in the ocean, where it is very dark. The anglerfish has a little light on its head. Small fish swim towards the light, and then the anglerfish catches them."
+    },
+    {
+      "id": "p7",
+      "text": "We can help ocean animals. We should not throw rubbish into the sea, and we should use fewer plastic bags. If we take care of the ocean, these amazing animals will live safely for many years."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "How to build a boat",
+        "Animals that live in the desert",
+        "Amazing animals that live in the ocean"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"The ocean is home to some of the most amazing animals in the world.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "The ocean is home to some of the most amazing animals in the world."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How much of the Earth does the ocean cover?",
+      "options": [
+        "About ten percent",
+        "Exactly half",
+        "Less than thirty percent",
+        "More than seventy percent"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"It covers more than seventy percent of the Earth\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It covers more than seventy percent of the Earth"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What have scientists not done yet?",
+      "options": [
+        "Found any whales",
+        "Explored most of the ocean",
+        "Seen an octopus"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"scientists have not explored most of it yet\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "scientists have not explored most of it yet"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Which is the biggest animal that has ever lived?",
+      "options": [
+        "The octopus",
+        "The blue whale",
+        "The dolphin",
+        "The sea turtle"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"The blue whale is the biggest animal that has ever lived.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The blue whale is the biggest animal that has ever lived."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "How big is a blue whale's heart?",
+      "options": [
+        "As big as a small car",
+        "As big as a bus",
+        "As small as a fish"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"its heart is as big as a small car\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "its heart is as big as a small car"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What does the blue whale eat?",
+      "options": [
+        "Big fish",
+        "Krill",
+        "Turtles"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"it eats only tiny animals called krill\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "it eats only tiny animals called krill"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"tiny\" means...",
+      "options": [
+        "very small",
+        "very fast",
+        "very beautiful",
+        "very old"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"it eats only tiny animals called krill\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "it eats only tiny animals called krill"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "How do dolphins talk to each other?",
+      "options": [
+        "With clicks and whistles",
+        "With colours",
+        "With black ink"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"they talk to each other with clicks and whistles\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "they talk to each other with clicks and whistles"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Who do dolphins sometimes help?",
+      "options": [
+        "Fishermen on the beach",
+        "Baby whales only",
+        "People who are swimming",
+        "Sea turtles"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Sometimes dolphins help people who are swimming in the sea.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Sometimes dolphins help people who are swimming in the sea."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "How many hearts does an octopus have?",
+      "options": [
+        "One",
+        "Two",
+        "Eight",
+        "Three"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"The octopus has eight arms and three hearts.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "The octopus has eight arms and three hearts."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What does an octopus do if an enemy comes?",
+      "options": [
+        "It shoots out black ink.",
+        "It sings a song.",
+        "It jumps out of the water."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"If an enemy comes, it shoots out black ink and escapes.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "If an enemy comes, it shoots out black ink and escapes."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "Why is an octopus hard to see on the rocks?",
+      "options": [
+        "It is very small.",
+        "It can change its colour.",
+        "It lives under the sand."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It changes its colour to look like the rocks.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It can change its colour in a second, so it is hard to see when it hides on the rocks."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "Where does a mother turtle lay her eggs?",
+      "options": [
+        "In deep water",
+        "On a rock in the middle of the sea",
+        "On the beach where she was born"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"A mother turtle always comes back to the beach where she was born to lay her eggs.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "A mother turtle always comes back to the beach where she was born to lay her eggs."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Why are many turtles in danger?",
+      "options": [
+        "They cannot swim fast.",
+        "There are too many sharks.",
+        "They are too small.",
+        "They eat plastic bags."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"many turtles are in danger because they eat plastic bags, which look like jellyfish\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "many turtles are in danger because they eat plastic bags, which look like jellyfish"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 5, \"in danger\" means...",
+      "options": [
+        "very happy",
+        "might be hurt or killed",
+        "very big"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"many turtles are in danger because they eat plastic bags\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "many turtles are in danger because they eat plastic bags"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "Where do anglerfish live?",
+      "options": [
+        "Near the beach",
+        "Deep in the ocean, where it is dark",
+        "In rivers",
+        "On the rocks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Some animals live deep in the ocean, where it is very dark.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Some animals live deep in the ocean, where it is very dark."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What does the anglerfish have on its head?",
+      "options": [
+        "A little light",
+        "Two big eyes",
+        "A long arm"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"The anglerfish has a little light on its head.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The anglerfish has a little light on its head."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What happens to small fish that swim towards the light?",
+      "options": [
+        "They find food.",
+        "They go home.",
+        "They hide on the rocks.",
+        "The anglerfish catches them."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"Small fish swim towards the light, and then the anglerfish catches them.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Small fish swim towards the light, and then the anglerfish catches them."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What should we not do?",
+      "options": [
+        "Go swimming",
+        "Eat fish at home",
+        "Throw rubbish into the sea"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"We should not throw rubbish into the sea, and we should use fewer plastic bags.\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "We should not throw rubbish into the sea, and we should use fewer plastic bags."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why did the writer write the last paragraph?",
+      "options": [
+        "To tell us how to help ocean animals",
+        "To tell a funny story",
+        "To describe a new animal"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The last paragraph tells us what we can do to help.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "We can help ocean animals."
+        }
+      ]
+    }
+  ]
+}

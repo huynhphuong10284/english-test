@@ -1,0 +1,424 @@
+{
+  "id": "yl-f-my-robot-friend",
+  "title": "My Robot Friend",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "A boy builds a robot that helps him at home and at school.",
+  "instructions": "Read the story about Minh and his robot. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🤖 Minh loves science. Last winter, he started to build a robot in his bedroom. It took him three months, because he worked on it only at weekends. He called his robot Beep."
+    },
+    {
+      "id": "p2",
+      "text": "Beep is about one metre tall and has a round blue head. It has two big eyes, which light up when it is happy. Beep can walk, talk and carry small things, but it can't swim."
+    },
+    {
+      "id": "p3",
+      "text": "Every morning, Beep wakes Minh up. It says, 'Good morning! It's seven o'clock!' Then it brings him a glass of water. Minh's mum thinks that Beep is better than an alarm clock."
+    },
+    {
+      "id": "p4",
+      "text": "One day, Minh took Beep to school for the science fair. The other children were very excited. Anna asked, 'Can your robot do my homework?' Minh laughed. 'No, Beep says you should do it yourself!'"
+    },
+    {
+      "id": "p5",
+      "text": "During the fair, something went wrong. Beep stopped moving and its eyes went dark. 'Oh no! The battery is empty,' said Minh. He had forgotten to charge it the night before."
+    },
+    {
+      "id": "p6",
+      "text": "Fortunately, Mr Lee, the science teacher, had a charger in his office. After twenty minutes, Beep's eyes lit up again, and the fair continued. Minh felt very relieved."
+    },
+    {
+      "id": "p7",
+      "text": "At the end of the day, the judges gave Minh the first prize. 'Your robot is clever and friendly,' said one of them. Minh was so proud that he couldn't stop smiling."
+    },
+    {
+      "id": "p8",
+      "text": "Now Minh is planning to make a new robot that can help people at the hospital. 'If I work hard, I might finish it by next summer,' he says. Beep is going to help him, of course."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the story mainly about?",
+      "options": [
+        "A boy and the robot he built",
+        "A school science lesson",
+        "A robot that swims"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The story is about Minh and Beep.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "he started to build a robot in his bedroom"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "When did Minh build the robot?",
+      "options": [
+        "At weekends",
+        "Every evening",
+        "Only in the morning"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He worked on it only at weekends.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "he worked on it only at weekends"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How long did it take to build Beep?",
+      "options": [
+        "One month",
+        "Three months",
+        "One year"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It took three months.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It took him three months"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "How tall is Beep?",
+      "options": [
+        "About one metre",
+        "About two metres",
+        "About half a metre"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Beep is about one metre tall.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Beep is about one metre tall"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What happens when Beep is happy?",
+      "options": [
+        "It sings.",
+        "Its eyes light up.",
+        "It jumps."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Its eyes light up when it is happy.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "which light up when it is happy"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What can't Beep do?",
+      "options": [
+        "Swim",
+        "Walk",
+        "Talk"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Beep can't swim.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "but it can't swim"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What does Beep do every morning?",
+      "options": [
+        "It cooks breakfast.",
+        "It wakes Minh up.",
+        "It cleans the room."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Beep wakes Minh up and brings water.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Every morning, Beep wakes Minh up."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "Why does Minh's mum like Beep?",
+      "options": [
+        "It is better than an alarm clock.",
+        "It does all the housework.",
+        "It is very small."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She thinks Beep is better than an alarm clock.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Beep is better than an alarm clock"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Why did Minh take Beep to school?",
+      "options": [
+        "For a science fair",
+        "For a birthday party",
+        "For a football match"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He took it for the science fair.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Minh took Beep to school for the science fair."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did Anna ask?",
+      "options": [
+        "If Beep can sing",
+        "If Beep can do her homework",
+        "If Beep can play football"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Anna asked if Beep could do her homework.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Can your robot do my homework?"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What did Minh mean when he said, \"Beep says you should do it yourself\"?",
+      "options": [
+        "Beep is angry.",
+        "Children must do their own homework.",
+        "Beep is broken."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It was a funny way to say that she should do it herself.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Beep says you should do it yourself!"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What went wrong at the fair?",
+      "options": [
+        "Beep fell down.",
+        "The battery was empty.",
+        "Beep lost its head."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The battery was empty.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The battery is empty"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "Why was the battery empty?",
+      "options": [
+        "It was old.",
+        "It was wet.",
+        "Minh forgot to charge it."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Minh forgot to charge it the night before.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "He had forgotten to charge it the night before."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Who helped Minh?",
+      "options": [
+        "Mr Lee",
+        "Anna",
+        "His mum"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Lee had a charger in his office.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Mr Lee, the science teacher, had a charger in his office."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "How long did Beep need to charge?",
+      "options": [
+        "Two hours",
+        "Twenty minutes",
+        "Ten minutes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After twenty minutes, Beep's eyes lit up.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "After twenty minutes"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, \"relieved\" means ...",
+      "options": [
+        "sad because something is lost",
+        "angry about a problem",
+        "happy because a problem is over"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Relieved means you feel better after a worry.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Minh felt very relieved."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What did Minh win?",
+      "options": [
+        "The first prize",
+        "A new bicycle",
+        "A trip to the sea"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The judges gave him the first prize.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the judges gave Minh the first prize"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What did the judge say about the robot?",
+      "options": [
+        "It is fast and loud.",
+        "It is clever and friendly.",
+        "It is old and big."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The judge said Beep is clever and friendly.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Your robot is clever and friendly"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What is Minh planning to make now?",
+      "options": [
+        "A robot for the hospital",
+        "A bigger school",
+        "A toy car"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He wants to make a robot that helps in a hospital.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "a new robot that can help people at the hospital"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "When might Minh finish the new robot?",
+      "options": [
+        "Next summer",
+        "Next week",
+        "Next winter"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he might finish it by next summer.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "I might finish it by next summer"
+        }
+      ]
+    }
+  ]
+}

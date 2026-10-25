@@ -1,0 +1,323 @@
+{
+  "id": "w-yl-f-my-town",
+  "title": "My Town",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise town words, there is/are and relative clauses, then describe your town.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "There is / are",
+      "prompt": "Choose the correct word.",
+      "text": "🏙️ ___ a big park in my town.",
+      "options": [
+        "There are",
+        "There is",
+        "It is",
+        "Here are"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"There is\" with one thing."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write one word in the gap.",
+      "text": "The library is the place ___ I read books.",
+      "answers": [
+        "where"
+      ],
+      "points": 1,
+      "explanation": "Use \"where\" for places."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Present perfect",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "lived",
+        "I",
+        "here",
+        "have",
+        "years",
+        "for",
+        "ten"
+      ],
+      "answers": [
+        "I have lived here for ten years."
+      ],
+      "points": 1,
+      "explanation": "Subject + have + past participle + for + time."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Superlatives",
+      "prompt": "Choose the correct word.",
+      "text": "This is ___ shop in our town.",
+      "options": [
+        "bigger",
+        "the biggest",
+        "more big",
+        "biggest"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"the\" + adjective + -est for the top one."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Last Sunday we go to the market.",
+      "answers": [
+        "Last Sunday we went to the market."
+      ],
+      "points": 1,
+      "explanation": "\"Last Sunday\" is the past, so use went."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Present perfect",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "Minh came to this town five years ago.",
+      "keyword": "LIVED",
+      "answers": [
+        "Minh has lived in this town for five years.",
+        "Minh has lived here for five years."
+      ],
+      "points": 1,
+      "explanation": "Use has lived + for to talk about time until now."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions of place",
+      "prompt": "Choose the correct word.",
+      "text": "The cinema is ___ the bank and the café.",
+      "options": [
+        "between",
+        "behind",
+        "among",
+        "above"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Between\" is for two things, one on each side."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Comparatives",
+      "prompt": "Write one word in the gap.",
+      "text": "Our town is ___ than the city. (quiet)",
+      "answers": [
+        "quieter"
+      ],
+      "points": 1,
+      "explanation": "Short adjectives take -er: quieter."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Should",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "should",
+        "visit",
+        "the",
+        "you",
+        "old",
+        "bridge"
+      ],
+      "answers": [
+        "You should visit the old bridge."
+      ],
+      "points": 1,
+      "explanation": "Subject + should + base verb."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Present perfect",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ never been to the zoo in the city.",
+      "options": [
+        "am",
+        "was",
+        "have",
+        "did"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use have + never + past participle."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Countable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There are not much shops near my house.",
+      "answers": [
+        "There are not many shops near my house.",
+        "There aren't many shops near my house."
+      ],
+      "points": 1,
+      "explanation": "Use \"many\" with plural nouns."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "First conditional",
+      "prompt": "Write one word in the gap.",
+      "text": "If it rains tomorrow, we ___ go to the museum.",
+      "answers": [
+        "will"
+      ],
+      "points": 1,
+      "explanation": "If + present simple, then will + base verb."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Relative clauses",
+      "prompt": "Choose the correct word.",
+      "text": "Nam is the boy ___ lives next to the post office.",
+      "options": [
+        "which",
+        "where",
+        "who",
+        "whose"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"who\" for a person."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Past continuous",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "I was walking in the park and I saw Anna.",
+      "keyword": "WHEN",
+      "answers": [
+        "I saw Anna when I was walking in the park."
+      ],
+      "points": 1,
+      "explanation": "Put \"when\" before the longer action in progress."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Going to",
+      "prompt": "Write one word in the gap.",
+      "text": "We ___ going to build a new school next year.",
+      "answers": [
+        "are"
+      ],
+      "points": 1,
+      "explanation": "Use are going to with we."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Superlatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "street",
+        "the",
+        "longest",
+        "This",
+        "town",
+        "in",
+        "our"
+      ],
+      "answers": [
+        "This is the longest street in our town."
+      ],
+      "points": 1,
+      "explanation": "This is the + superlative + in + place."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Prepositions of movement",
+      "prompt": "Choose the correct word.",
+      "text": "Walk ___ the bridge and turn left.",
+      "options": [
+        "across",
+        "between",
+        "at",
+        "through the"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We walk across a bridge."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Plural verbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The streets in my town is very clean.",
+      "answers": [
+        "The streets in my town are very clean."
+      ],
+      "points": 1,
+      "explanation": "\"Streets\" is plural, so use \"are\"."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Comparatives",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "The market is smaller than the mall.",
+      "keyword": "BIGGER",
+      "answers": [
+        "The mall is bigger than the market."
+      ],
+      "points": 1,
+      "explanation": "Swap the two places and change smaller to bigger."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Past continuous",
+      "prompt": "Write one word in the gap.",
+      "text": "At eight o'clock yesterday, we ___ walking to school.",
+      "answers": [
+        "were"
+      ],
+      "points": 1,
+      "explanation": "Use were with we in the past continuous."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "A new friend from another country wants to know about your town. Write about it.",
+    "contentPoints": [
+      "Say where your town is.",
+      "Say what there is in your town.",
+      "Say what you like about it.",
+      "Say what visitors should do."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "I live in ...",
+      "There is a ... where ...",
+      "The best place is ...",
+      "You should ...",
+      "I like it because ..."
+    ],
+    "modelAnswer": "I live in a small town near the sea. There is a big park where children play and a market where people buy fresh fruit. The biggest building is the library. I like my town because it is quiet and friendly. If you visit, you should walk along the beach and try our noodle soup."
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "w-yl-s-my-family",
+  "title": "My Family",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise have got, be and family words, and write about your family.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Have got",
+      "prompt": "Choose the right word.",
+      "text": "My mum ___ got long hair.",
+      "options": [
+        "has",
+        "have",
+        "is"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"has got\" with one person: my mum has got."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "👩 This is my ___. (m, u, m)",
+      "answers": [
+        "mum"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"mum\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "This is",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "is",
+        "This",
+        "my",
+        "brother"
+      ],
+      "answers": [
+        "This is my brother."
+      ],
+      "points": 1,
+      "explanation": "This + is + my + family word."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Have got",
+      "prompt": "Choose the right word.",
+      "text": "I ___ one sister.",
+      "options": [
+        "has",
+        "have",
+        "are"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"have got\" with I."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "👨 This is my ___. (a, d, d)",
+      "answers": [
+        "dad"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"dad\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Be",
+      "prompt": "Write is, am or are.",
+      "text": "My sister ___ seven.",
+      "answers": [
+        "is"
+      ],
+      "points": 1,
+      "explanation": "Use \"is\" with one person."
+    },
+    {
+      "id": "e7",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "can",
+        "dad",
+        "My",
+        "cook"
+      ],
+      "answers": [
+        "My dad can cook."
+      ],
+      "points": 1,
+      "explanation": "My dad + can + action."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "👶 This is my ___. (b, a, y, b)",
+      "answers": [
+        "baby"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"baby\"."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "There are",
+      "prompt": "Choose the right word.",
+      "text": "There ___ four people in my family.",
+      "options": [
+        "is",
+        "am",
+        "are"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"there are\" with many people."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Love",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "love",
+        "I",
+        "family",
+        "my"
+      ],
+      "answers": [
+        "I love my family."
+      ],
+      "points": 1,
+      "explanation": "I + love + my family."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your family.",
+    "contentPoints": [
+      "Say who is in your family.",
+      "Say how old someone is.",
+      "Say what someone can do."
+    ],
+    "usefulLanguage": [
+      "There are ... people in my family.",
+      "I have got ...",
+      "My ... is ...",
+      "He/She can ...",
+      "I love my family."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "modelAnswer": "There are four people in my family. I have got a mum, a dad and a brother. My brother is five. He can run. I love my family."
+  }
+}

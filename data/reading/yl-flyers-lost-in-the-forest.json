@@ -1,0 +1,424 @@
+{
+  "id": "yl-f-lost-in-the-forest",
+  "title": "Lost in the Forest",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Two children get lost on a walk and find their way home.",
+  "instructions": "Read the story about Ben and Mia. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🌲 Last Sunday, Ben and his sister Mia went for a walk in the forest with their uncle. It was a warm day, and the birds were singing. They took sandwiches and a bottle of water."
+    },
+    {
+      "id": "p2",
+      "text": "While their uncle was taking photos of a butterfly, the children walked a little further. They found a small river and followed it. After half an hour, they looked round. Their uncle wasn't there."
+    },
+    {
+      "id": "p3",
+      "text": "'We're lost!' said Mia, and she started to cry. Ben put his arm round her. 'Don't cry,' he said. 'Our uncle told us that if we get lost, we should stay calm and stay in one place.'"
+    },
+    {
+      "id": "p4",
+      "text": "They sat on a big stone and ate their sandwiches. It was getting darker, and the forest was becoming cold. Ben put his jacket round Mia. They heard a strange noise, but it was only an owl."
+    },
+    {
+      "id": "p5",
+      "text": "'Let's shout together,' said Ben. They shouted, 'Help! We're here!' again and again. Nothing happened for a long time. Then they heard a dog barking, and the barking got louder."
+    },
+    {
+      "id": "p6",
+      "text": "A big brown dog ran out of the trees, and behind it came their uncle with a torch. 'There you are!' he said, and he hugged them tightly. 'You were very clever to stay here.'"
+    },
+    {
+      "id": "p7",
+      "text": "Their uncle explained that the dog, which belongs to a farmer, had found them by following their smell. The farmer was walking behind and he gave the children some warm tea from his flask."
+    },
+    {
+      "id": "p8",
+      "text": "On the way home, Mia said, 'I will never walk away from the group again.' Ben smiled. 'Next time, we should take a map,' he said. Their uncle promised to buy them one."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the story mainly about?",
+      "options": [
+        "Two children get lost and are found",
+        "A dog learns to swim",
+        "An uncle buys a map"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben and Mia got lost and their uncle found them.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Their uncle wasn't there."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Who went to the forest?",
+      "options": [
+        "Ben, Mia and their uncle",
+        "Ben and his dog",
+        "Mia and her mum"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben, Mia and their uncle went.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Ben and his sister Mia went for a walk in the forest with their uncle."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What was the weather like?",
+      "options": [
+        "Rainy",
+        "Warm",
+        "Snowy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It was a warm day.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It was a warm day"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What did the children take?",
+      "options": [
+        "Sandwiches and water",
+        "A tent and a map",
+        "Cakes and juice"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They took sandwiches and a bottle of water.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They took sandwiches and a bottle of water."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What was the uncle doing?",
+      "options": [
+        "Reading a book",
+        "Eating lunch",
+        "Taking photos of a butterfly"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He was taking photos of a butterfly.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "their uncle was taking photos of a butterfly"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What did the children follow?",
+      "options": [
+        "A dog",
+        "A small river",
+        "A path"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They found a small river and followed it.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They found a small river and followed it."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "How long did they walk before they looked round?",
+      "options": [
+        "Ten minutes",
+        "Half an hour",
+        "Two hours"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They walked for half an hour.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "After half an hour, they looked round."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did Mia do when she knew they were lost?",
+      "options": [
+        "She started to cry.",
+        "She started to run.",
+        "She started to sing."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mia started to cry.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "she started to cry"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What had their uncle told them to do if they got lost?",
+      "options": [
+        "Run home",
+        "Stay calm and stay in one place",
+        "Climb a tree"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He said to stay calm and stay in one place.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "we should stay calm and stay in one place"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did the children do on the big stone?",
+      "options": [
+        "They ate their sandwiches.",
+        "They took photos.",
+        "They went to sleep."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They sat on the stone and ate sandwiches.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "They sat on a big stone and ate their sandwiches."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "Why did Ben give Mia his jacket?",
+      "options": [
+        "He was too hot.",
+        "Mia was cold.",
+        "Mia lost hers."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The forest was becoming cold.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "the forest was becoming cold"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What made the strange noise?",
+      "options": [
+        "A dog",
+        "An uncle",
+        "An owl"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It was only an owl.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "but it was only an owl"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What did Ben suggest?",
+      "options": [
+        "Shouting together",
+        "Walking further",
+        "Making a fire"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben said, \"Let us shout together.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Let's shout together"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did the children hear?",
+      "options": [
+        "A car",
+        "A dog barking",
+        "A bell"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They heard a dog barking.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "they heard a dog barking"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "Who came behind the dog?",
+      "options": [
+        "A farmer",
+        "Their uncle",
+        "Their mum"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Their uncle came with a torch.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "behind it came their uncle with a torch"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, \"hugged\" means ...",
+      "options": [
+        "put arms round",
+        "shouted at",
+        "took a photo of"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "To hug is to hold someone in your arms.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "he hugged them tightly"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Who does the dog belong to?",
+      "options": [
+        "The uncle",
+        "A farmer",
+        "Mia"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The dog belongs to a farmer.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "which belongs to a farmer"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "How did the dog find the children?",
+      "options": [
+        "By following their smell",
+        "By looking at the map",
+        "By hearing Mia cry"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It followed their smell.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "had found them by following their smell"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What did the farmer give the children?",
+      "options": [
+        "Warm tea",
+        "Cold water",
+        "Biscuits"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He gave them warm tea from his flask.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "he gave the children some warm tea from his flask"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "What did Mia promise?",
+      "options": [
+        "To always take a map",
+        "Not to walk away from the group again",
+        "To buy a dog"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She said she would never walk away from the group again.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "I will never walk away from the group again."
+        }
+      ]
+    }
+  ]
+}

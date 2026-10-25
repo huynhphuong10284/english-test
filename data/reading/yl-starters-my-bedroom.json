@@ -1,0 +1,217 @@
+{
+  "id": "yl-s-my-bedroom",
+  "title": "My Bedroom",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Hoa shows us her bedroom.",
+  "instructions": "Read about Hoa's bedroom. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🌙 This is my bedroom. My name is Hoa. I like my room."
+    },
+    {
+      "id": "p2",
+      "text": "There is a bed. It is pink. My teddy is on the bed."
+    },
+    {
+      "id": "p3",
+      "text": "There is a desk next to the window. There are two books and a lamp on the desk."
+    },
+    {
+      "id": "p4",
+      "text": "There is a big chair, too. My bag is under the chair. My shoes are on the floor."
+    },
+    {
+      "id": "p5",
+      "text": "There are four pictures on the wall. It is small, but it is nice."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text about?",
+      "options": [
+        "Hoa's garden",
+        "Hoa's school",
+        "Hoa's bedroom"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Hoa says, 'This is my bedroom.'",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "This is my bedroom."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Is the bed blue?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The bed is pink.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "It is pink."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Is the teddy on the bed?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The teddy is on the bed.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "My teddy is on the bed."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Where is the desk?",
+      "options": [
+        "Next to the window",
+        "Under the bed",
+        "Next to the door"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The desk is next to the window.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "There is a desk next to the window."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Are there five books on the desk?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There are two books on the desk.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "There are two books and a lamp on the desk."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "text": "💡 A \"lamp\" is something that...",
+      "options": [
+        "plays music",
+        "gives light",
+        "gives water"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A lamp gives light.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "There are two books and a lamp on the desk."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Is the bag on the chair?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The bag is under the chair.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "My bag is under the chair."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Where are the shoes?",
+      "options": [
+        "In the bag",
+        "On the bed",
+        "On the floor"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The shoes are on the floor.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "My shoes are on the floor."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Are there four pictures on the wall?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "There are four pictures on the wall.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "There are four pictures on the wall."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What is the room like?",
+      "options": [
+        "Big and dirty",
+        "Small and nice",
+        "Big and cold"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The room is small, but it is nice.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It is small, but it is nice."
+        }
+      ]
+    }
+  ]
+}

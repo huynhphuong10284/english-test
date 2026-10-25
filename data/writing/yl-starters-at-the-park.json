@@ -1,0 +1,174 @@
+{
+  "id": "w-yl-s-at-the-park",
+  "title": "At the Park",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise present continuous and there are, and write about a day at the park.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "There are",
+      "prompt": "Choose the right word.",
+      "text": "🌳 There ___ many trees in the park.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"there are\" with many things."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🦆 This is a ___. (c, d, u, k)",
+      "answers": [
+        "duck"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"duck\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Be",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "is",
+        "The",
+        "big",
+        "park"
+      ],
+      "answers": [
+        "The park is big."
+      ],
+      "points": 1,
+      "explanation": "The + place + is + adjective."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Present continuous",
+      "prompt": "Choose the right word.",
+      "text": "The children ___ in the park.",
+      "options": [
+        "runs",
+        "are running",
+        "is running"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"are running\" for many people now."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🛝 I play on the ___. (d, s, l, i, e)",
+      "answers": [
+        "slide"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"slide\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Present continuous",
+      "prompt": "Write is or are.",
+      "text": "Anna and Ben ___ running.",
+      "answers": [
+        "are"
+      ],
+      "points": 1,
+      "explanation": "Use \"are\" with two people."
+    },
+    {
+      "id": "e7",
+      "type": "word-order",
+      "focus": "Have got",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "kite",
+        "a",
+        "Mai",
+        "has",
+        "got"
+      ],
+      "answers": [
+        "Mai has got a kite."
+      ],
+      "points": 1,
+      "explanation": "Mai + has got + a + thing."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🌸 This is a ___. (w, o, f, l, r, e)",
+      "answers": [
+        "flower"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"flower\"."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the right word.",
+      "text": "The dog is ___ the tree.",
+      "options": [
+        "is",
+        "at",
+        "under"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"under\" for below something."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Present simple",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "eat",
+        "We",
+        "ice cream",
+        "in the park"
+      ],
+      "answers": [
+        "We eat ice cream in the park."
+      ],
+      "points": 1,
+      "explanation": "We + eat + food + in the park."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about a day at the park.",
+    "contentPoints": [
+      "Say where you are.",
+      "Say what you play.",
+      "Say what you can see."
+    ],
+    "usefulLanguage": [
+      "I am at the park.",
+      "We play on ...",
+      "I can see ...",
+      "... is flying a kite.",
+      "I am happy."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "modelAnswer": "Today I am at the park with my friends. We play on the slide and the swings. Tom is flying a kite. It is red. I am very happy."
+  }
+}

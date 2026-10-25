@@ -1,0 +1,427 @@
+{
+  "id": "yl-f-the-cooking-competition",
+  "title": "The Cooking Competition",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Tom and Nam take part in a school cooking competition.",
+  "instructions": "Read about the cooking competition. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🍳 Every year, Tom's school has a cooking competition. This year, Tom and his friend Nam decided to make a pizza together. The winner would get a golden spoon and a free cooking class."
+    },
+    {
+      "id": "p2",
+      "text": "The competition started at ten o'clock in the school kitchen. There were eight teams, and each team had one hour. Mrs Clark, the head cook, was the judge. She walked around and looked at everything carefully."
+    },
+    {
+      "id": "p3",
+      "text": "Tom and Nam made the dough first. Tom mixed flour, water and a little salt, while Nam cut the vegetables. They were working very quickly when Tom dropped the bowl of tomatoes on the floor! Luckily, they had some more."
+    },
+    {
+      "id": "p4",
+      "text": "Next to them, Lucy and Mai were making a chocolate cake. Their cake looked beautiful, but Lucy forgot to turn on the oven. Mai noticed the problem after twenty minutes. 'Don't worry,' she said, 'we can still finish if we work fast.'"
+    },
+    {
+      "id": "p5",
+      "text": "While the pizzas were cooking, the kitchen smelled wonderful. Nam was washing the dishes and Tom was making a salad. A boy called Sam, who was in another team, burnt his soup and had to start again."
+    },
+    {
+      "id": "p6",
+      "text": "At eleven o'clock, Mrs Clark tried every dish. She said Sam's second soup was delicious, and she loved Lucy and Mai's cake, which was soft and sweet. When she tasted the pizza, she smiled and said, 'This is the best pizza I have ever eaten.'"
+    },
+    {
+      "id": "p7",
+      "text": "Tom and Nam won the golden spoon! Everyone clapped, and Tom's mum took a photo of them. 'If we practise more, we might win again next year,' said Nam. Tom agreed, and he is going to make pizza for his family on Saturday."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A birthday party",
+        "A cooking competition at school",
+        "A trip to a restaurant"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Every year, Tom's school has a cooking competition.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Every year, Tom's school has a cooking competition."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What did Tom and Nam decide to make?",
+      "options": [
+        "A cake",
+        "A soup",
+        "A pizza",
+        "A salad"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Tom and his friend Nam decided to make a pizza together.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Tom and his friend Nam decided to make a pizza together."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What would the winner get?",
+      "options": [
+        "A golden spoon and a free cooking class",
+        "A new oven",
+        "A big trophy and some money"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"The winner would get a golden spoon and a free cooking class.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "The winner would get a golden spoon and a free cooking class."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What time did the competition start?",
+      "options": [
+        "At nine o'clock",
+        "At ten o'clock",
+        "At eleven o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"The competition started at ten o'clock in the school kitchen.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The competition started at ten o'clock in the school kitchen."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "How many teams were there?",
+      "options": [
+        "Four",
+        "Eight",
+        "Ten",
+        "Twelve"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"There were eight teams, and each team had one hour.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "There were eight teams, and each team had one hour."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Who was the judge?",
+      "options": [
+        "Mrs Clark",
+        "Mrs Brown",
+        "Lucy's mum"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Mrs Clark, the head cook, was the judge.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Mrs Clark, the head cook, was the judge."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"judge\" means...",
+      "options": [
+        "a person who washes dishes",
+        "a person who decides who wins",
+        "a person who sells food"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The judge looks at the food and decides which team is the best.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Mrs Clark, the head cook, was the judge."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Who cut the vegetables?",
+      "options": [
+        "Nam",
+        "Tom",
+        "Mai",
+        "Lucy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Tom mixed flour, water and a little salt, while Nam cut the vegetables.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Tom mixed flour, water and a little salt, while Nam cut the vegetables."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What did Tom drop on the floor?",
+      "options": [
+        "A bowl of tomatoes",
+        "A bowl of flour",
+        "The pizza"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Tom dropped the bowl of tomatoes on the floor!\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Tom dropped the bowl of tomatoes on the floor!"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "Why was it lucky for Tom and Nam?",
+      "options": [
+        "The floor was clean.",
+        "They had more tomatoes.",
+        "The judge did not see."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Luckily, they had some more\" means they had more tomatoes.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Luckily, they had some more."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What were Lucy and Mai making?",
+      "options": [
+        "A pizza",
+        "Some soup",
+        "A chocolate cake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Lucy and Mai were making a chocolate cake.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Lucy and Mai were making a chocolate cake."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What did Lucy forget to do?",
+      "options": [
+        "Turn on the oven",
+        "Buy sugar",
+        "Wash her hands",
+        "Read the recipe"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Lucy forgot to turn on the oven.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Lucy forgot to turn on the oven."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "When did Mai notice the problem?",
+      "options": [
+        "After one hour",
+        "After twenty minutes",
+        "Before they started"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Mai noticed the problem after twenty minutes.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Mai noticed the problem after twenty minutes."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What was Tom doing while the pizzas were cooking?",
+      "options": [
+        "Washing the dishes",
+        "Cutting the vegetables",
+        "Making a salad"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Nam was washing the dishes and Tom was making a salad.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Nam was washing the dishes and Tom was making a salad."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "What happened to Sam's soup?",
+      "options": [
+        "He dropped it.",
+        "Nobody liked it.",
+        "He forgot to make it.",
+        "He burnt it."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"A boy called Sam, who was in another team, burnt his soup and had to start again.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "A boy called Sam, who was in another team, burnt his soup and had to start again."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"delicious\" means...",
+      "options": [
+        "very hot",
+        "very tasty",
+        "very small"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"She said Sam's second soup was delicious\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "She said Sam's second soup was delicious"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What was Lucy and Mai's cake like?",
+      "options": [
+        "Hard and sour",
+        "Soft and sweet",
+        "Cold and salty",
+        "Small and dry"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"she loved Lucy and Mai's cake, which was soft and sweet\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "she loved Lucy and Mai's cake, which was soft and sweet"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What did Mrs Clark say about the pizza?",
+      "options": [
+        "It was the best pizza she had ever eaten.",
+        "It needed more salt.",
+        "It was too hot."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"This is the best pizza I have ever eaten.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "This is the best pizza I have ever eaten."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "Who took a photo of Tom and Nam?",
+      "options": [
+        "Mrs Clark",
+        "Tom's mum",
+        "Lucy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Tom's mum took a photo of them.\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Tom's mum took a photo of them."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "What is Tom going to do on Saturday?",
+      "options": [
+        "Make pizza for his family",
+        "Go to a cooking class",
+        "Cook soup for Sam",
+        "Bake a cake"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"he is going to make pizza for his family on Saturday\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "he is going to make pizza for his family on Saturday"
+        }
+      ]
+    }
+  ]
+}

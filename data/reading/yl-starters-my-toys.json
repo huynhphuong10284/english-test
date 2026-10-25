@@ -1,0 +1,217 @@
+{
+  "id": "yl-s-my-toys",
+  "title": "My Toys",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Sam shows us his toys.",
+  "instructions": "Read about Sam's toys. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🧸 I am Sam. I am seven. I have got many toys."
+    },
+    {
+      "id": "p2",
+      "text": "I have got a red car and a blue robot. The robot is next to my bed."
+    },
+    {
+      "id": "p3",
+      "text": "I have got four balls. They are in a box. The box is under the table."
+    },
+    {
+      "id": "p4",
+      "text": "My favourite toy is my teddy bear. It is brown. It is soft."
+    },
+    {
+      "id": "p5",
+      "text": "My friend Mia has got a doll. We play together. We share our toys."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text about?",
+      "options": [
+        "Sam's pets",
+        "Sam's school",
+        "Sam's toys"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Sam says, 'I have got many toys.'",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I have got many toys."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Is Sam eight?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Sam is seven.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I am seven."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What colour is the robot?",
+      "options": [
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The robot is blue.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "I have got a red car and a blue robot."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Is the robot under the bed?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The robot is next to the bed.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The robot is next to my bed."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Has Sam got four balls?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sam has got four balls.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "I have got four balls."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Is the box under the table?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The box is under the table.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "The box is under the table."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Is the teddy bear black?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The teddy bear is brown.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It is brown."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "The word \"soft\" means...",
+      "options": [
+        "very big",
+        "not hard",
+        "very old"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Soft things are nice to touch, like a teddy bear.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It is soft."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What has Mia got?",
+      "options": [
+        "A car",
+        "A ball",
+        "A doll"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mia has got a doll.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "My friend Mia has got a doll."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Who plays with Sam?",
+      "options": [
+        "Tom",
+        "Linh",
+        "Mia"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Sam plays with his friend Mia.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "My friend Mia has got a doll. We play together."
+        }
+      ]
+    }
+  ]
+}

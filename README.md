@@ -4,9 +4,11 @@ This repo is for a small app which I develop for my kids' English practice.
 
 A desktop app built with [Electron](https://www.electronjs.org) for practising English **reading** and **writing**, with 15 exams per skill for each CEFR level from A1 to C2. Every exam has **20 questions** (reading) or **20 exercises** (writing).
 
+There is also a **Young Learners** group for children aged about 7–12, in the style of the Starters, Movers and Flyers exams: 15 reading and 15 writing exams per level, with short texts, pictures (emoji), larger text and shorter exams (Starters 10, Movers 15, Flyers 20 items). These are original practice exams, not official Cambridge material.
+
 ## Features
 
-1. **Exam list** (left sidebar): choose **Reading** or **Writing**, pick a CEFR level (A1 – C2) from the **Level** dropdown, then choose an exam. Your choices are remembered.
+1. **Exam list** (left sidebar): choose **Reading** or **Writing**, pick a level from the **Level** dropdown (General English A1 – C2, or Young Learners Starters, Movers, Flyers), then choose an exam. Your choices are remembered.
 2. **English Test tab**:
    - *Reading*: the passage, with numbered paragraphs, and 20 multiple-choice questions. On wide windows the passage stays visible next to the questions.
    - *Writing*: **Part 1** has 20 auto-marked exercises (multiple choice, gap fill, word order, error correction, sentence transformation). **Part 2** is a writing task (email, story, essay, report...) with the points to include, useful language and a live word counter.
@@ -18,7 +20,7 @@ A desktop app built with [Electron](https://www.electronjs.org) for practising E
    - your learning level and personalised advice
 4. **Saved results**: every submission is saved as an attempt. When you return to an exam you have submitted, its latest result opens. **Retake test** starts a new attempt and keeps the old ones, which are listed under **Attempt history**. The sidebar shows how many attempts you have made, your best score and your last score. Results are stored in `%APPDATA%\English Reading Test\results.json`. If an exam gets more questions later, older attempts are still marked against the questions they had, and are labelled as taken on an earlier version.
 5. **Writing results**: Part 1 is marked automatically, with the correct answer and an explanation for each exercise. Part 2 shows automatic checks (word count, paragraphs, linking words), then your text next to a **model answer**. You then rate your own writing with a **self-check** (content, organisation, grammar, vocabulary; 0–2 each), and that rating is added to your total mark. Until you rate it, the score covers the exercises only.
-6. **Dictionary**: **double-click** a word, or **right-click** any word (including in answer options), to see its meanings, example sentences and similar words, and to hear it read aloud (🔊, using the Windows voices). It covers about 147,000 words from WordNet, plus learner notes for grammar words (*the, although, whereas*) and modern words (*app, selfie*). Forms like *went*, *children* and *don't* lead to *go*, *child* and *do not*. During a reading test, words tested by a vocabulary question are locked until you submit.
+6. **Dictionary**: **double-click** a word, or **right-click** any word (including in answer options), to see its meanings in **English–Vietnamese (Anh–Việt, the default)** or **English–English (Anh–Anh)**, switched with the buttons in the popup and remembered. Every word used in the exams has Vietnamese meanings; the English definitions, example sentences and similar words are shown too, and you can hear the word read aloud (🔊, using the Windows voices). It covers about 147,000 words from WordNet, plus learner notes for grammar words (*the, although, whereas*) and modern words (*app, selfie*). Forms like *went*, *children* and *don't* lead to *go*, *child* and *do not*. During a reading test, words tested by a vocabulary question are locked until you submit.
 7. **Show full answers** (reading): every correct answer with an explanation. The passage is shown with the **main idea or evidence for each answer highlighted**. Click an answer card to jump to its highlight.
 
 ## Run
@@ -61,7 +63,7 @@ english-reading-test/
 ├── data/
 │   ├── reading/             # one JSON file per reading exam (a1-*.json … c2-*.json)
 │   ├── writing/             # one JSON file per writing exam
-│   └── dictionary/          # wordnet.json (generated) + supplement.json (learner notes)
+│   └── dictionary/          # wordnet.json (generated), supplement.json (learner notes), vi.json (Vietnamese meanings)
 
 ├── scripts/validate-exams.js
 └── src/
@@ -128,9 +130,10 @@ Create a new file named `<level>-<id>.json`, such as `data/reading/b1-my-exam.js
 ```
 
 - `level` is shown in the Level dropdown. Use one of: `A1 · Beginner`, `A2 · Elementary`, `B1 · Intermediate`, `B2 · Upper-intermediate`, `C1 · Advanced`, `C2 · Proficiency`. Exams with exactly the same `level` text are grouped together.
+- `group` (optional) puts the level under a heading in the dropdown. Children's exams use `"group": "Young Learners"` with the level `Starters · Pre-A1`, `Movers · A1` or `Flyers · A2`; they get larger text, and no "use more linking words" advice in writing.
 - `answer` is the index of the correct option, starting from 0 (0 = A, 1 = B, ...).
 - `type` must be one of `main-idea`, `detail`, `inference`, `vocabulary` or `purpose`.
-- Every exam must have exactly 20 questions (writing: 20 exercises).
+- Every exam must have exactly 20 questions (writing: 20 exercises). Young Learners exams have 10 (Starters), 15 (Movers) or 20 (Flyers).
 - To change an existing exam without breaking saved results, only **add** paragraphs and questions at the end, and never edit or reorder existing ones.
 - Each `evidence.quote` must be copied **exactly** from the paragraph, because that text is what gets highlighted. Run `npm run validate` to check.
 
@@ -176,15 +179,21 @@ Create `data/writing/<level>-<name>.json`. The `id` must start with `w-`. [data/
 
 ## Dictionary
 
-`data/dictionary/wordnet.json` is generated from WordNet 3.0 by `npm run build:dict` (`npm run dist` runs it for you). `data/dictionary/supplement.json` holds hand-written learner entries and is shown before WordNet's.
+`data/dictionary/wordnet.json` is generated from WordNet 3.0 by `npm run build:dict` (`npm run dist` runs it for you). `data/dictionary/supplement.json` holds hand-written learner entries and is shown before WordNet's. `data/dictionary/vi.json` holds the Vietnamese meanings (1–3 per word and part of speech) for every word used in the exams.
 
-When you add an exam, `npm run validate` lists any words in its text that the dictionary cannot explain (names that start a sentence also appear). Add useful ones to `supplement.json`:
+When you add an exam, `npm run validate` lists any words in its text that the dictionary cannot explain (names that start a sentence also appear), and any words that have no Vietnamese meaning yet. Add useful ones to `supplement.json` (English) and `vi.json` (Vietnamese):
 
 ```json
 "selfie": [["noun", "a photo you take of yourself, usually with a phone", "We took a selfie at the beach."]]
 ```
 
 Use `noun`, `verb`, `adjective` or `adverb` as the part of speech so that other forms (*selfies*) also match.
+
+```json
+"selfie": { "noun": ["ảnh tự chụp, ảnh selfie"] }
+```
+
+In `vi.json`, the key is the base word (*selfie*, not *selfies*) and the part of speech must match the one shown in the popup.
 
 ## Copyright
 

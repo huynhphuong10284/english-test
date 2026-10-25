@@ -1,0 +1,321 @@
+{
+  "id": "w-yl-f-an-invitation-to-a-friend",
+  "title": "An Invitation to a Friend",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise invitations, plans and polite questions, then write an invitation to a friend.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Invitations",
+      "prompt": "Choose the correct word.",
+      "text": "💌 Would you ___ to come to my house on Saturday?",
+      "options": [
+        "like",
+        "want",
+        "love to",
+        "enjoy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Would you like to ...?\" is a polite invitation."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Going to",
+      "prompt": "Write one word in the gap.",
+      "text": "We ___ going to have a barbecue in the garden.",
+      "answers": [
+        "are"
+      ],
+      "points": 1,
+      "explanation": "Use are going to with we."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Polite questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "you",
+        "Can",
+        "come",
+        "to",
+        "my",
+        "party"
+      ],
+      "answers": [
+        "Can you come to my party?"
+      ],
+      "points": 1,
+      "explanation": "Can + subject + base verb: Can you come?"
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Prepositions of time",
+      "prompt": "Choose the correct word.",
+      "text": "The party starts ___ half past four.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"at\" with clock times."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Prepositions of time",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "See you in Sunday afternoon!",
+      "answers": [
+        "See you on Sunday afternoon!"
+      ],
+      "points": 1,
+      "explanation": "Use \"on\" with days: on Sunday."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Would like",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "Do you want to watch a film with us?",
+      "keyword": "LIKE",
+      "answers": [
+        "Would you like to watch a film with us?"
+      ],
+      "points": 1,
+      "explanation": "\"Would you like to ...?\" is a polite way to ask."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Will",
+      "prompt": "Choose the correct word.",
+      "text": "I'm sorry, I can't come. I ___ be at my grandma's house.",
+      "options": [
+        "will",
+        "did",
+        "have",
+        "am"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"will\" for a future fact or plan."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write one word in the gap.",
+      "text": "My friend Nam, ___ lives next door, is coming too.",
+      "answers": [
+        "who"
+      ],
+      "points": 1,
+      "explanation": "Use \"who\" for a person."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Should",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "bring",
+        "should",
+        "swimming",
+        "You",
+        "your",
+        "costume"
+      ],
+      "answers": [
+        "You should bring your swimming costume."
+      ],
+      "points": 1,
+      "explanation": "Subject + should + base verb + object."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "First conditional",
+      "prompt": "Choose the correct word.",
+      "text": "If it rains, we ___ stay inside.",
+      "options": [
+        "will",
+        "would",
+        "are",
+        "did"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "If + present simple, then will + base verb."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Present perfect",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I have bought a present yesterday for you.",
+      "answers": [
+        "I bought a present for you yesterday."
+      ],
+      "points": 1,
+      "explanation": "With \"yesterday\" use the past simple: bought."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Present perfect",
+      "prompt": "Write one word in the gap.",
+      "text": "Have you ever ___ to a sleepover? (be)",
+      "answers": [
+        "been"
+      ],
+      "points": 1,
+      "explanation": "Use have + ever + past participle: been."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Could",
+      "prompt": "Choose the correct word.",
+      "text": "___ you tell me your address, please?",
+      "options": [
+        "Could",
+        "Did",
+        "Are",
+        "Do"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Could you ...?\" is a polite request."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Going to",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "I plan to invite ten friends.",
+      "keyword": "GOING",
+      "answers": [
+        "I am going to invite ten friends.",
+        "I'm going to invite ten friends."
+      ],
+      "points": 1,
+      "explanation": "Use am going to + base verb for a plan."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Past continuous",
+      "prompt": "Write one word in the gap.",
+      "text": "When you phoned, I ___ making sandwiches.",
+      "answers": [
+        "was"
+      ],
+      "points": 1,
+      "explanation": "Use was with I in the past continuous."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Linking words",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "but",
+        "I",
+        "can't",
+        "want",
+        "come",
+        "to",
+        "I"
+      ],
+      "answers": [
+        "I want to come but I can't.",
+        "I can't come but I want to."
+      ],
+      "points": 1,
+      "explanation": "Join two ideas with \"but\"."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Prepositions of place",
+      "prompt": "Choose the correct word.",
+      "text": "The party is ___ my house, next to the park.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"at\" with a house or an address."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Possessive adjectives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Please bring you friends too.",
+      "answers": [
+        "Please bring your friends too."
+      ],
+      "points": 1,
+      "explanation": "Use \"your\" before a noun."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Question forms",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "Tell me if you can come.",
+      "keyword": "WHETHER",
+      "answers": [
+        "Tell me whether you can come."
+      ],
+      "points": 1,
+      "explanation": "\"Whether\" can replace \"if\" here."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Might",
+      "prompt": "Write one word in the gap.",
+      "text": "I'm not sure about Saturday. I ___ have to help my mum.",
+      "answers": [
+        "might"
+      ],
+      "points": 1,
+      "explanation": "\"Might\" shows it is possible."
+    }
+  ],
+  "task": {
+    "genre": "Invitation",
+    "prompt": "You are having a party. Write an invitation to your friend.",
+    "contentPoints": [
+      "Say what the party is for.",
+      "Give the day, time and place.",
+      "Say what you are going to do.",
+      "Ask your friend to reply."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "Dear ...,",
+      "Would you like to come to ...?",
+      "It is on ... at ...",
+      "We are going to ...",
+      "Please tell me if you can come."
+    ],
+    "modelAnswer": "Dear Hoa,\n\nWould you like to come to my birthday party? It is on Saturday at four o'clock at my house. We are going to play games, watch a funny film and eat pizza. You should bring your swimming costume because we might swim in the garden.\n\nPlease tell me if you can come.\n\nLove,\nNam"
+  }
+}

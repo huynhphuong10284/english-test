@@ -1,0 +1,218 @@
+{
+  "id": "yl-s-in-the-garden",
+  "title": "In the Garden",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Anna and her dog are in the garden.",
+  "instructions": "Read about Anna in the garden. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🌻 Anna is in the garden with her dog, Rex. It is a lovely day."
+    },
+    {
+      "id": "p2",
+      "text": "There are six flowers. They are red, yellow and purple. Anna likes the yellow flowers best."
+    },
+    {
+      "id": "p3",
+      "text": "There is a big tree in the garden. A small bird is in the tree. It is singing."
+    },
+    {
+      "id": "p4",
+      "text": "Rex is under the tree. He is eating a bone."
+    },
+    {
+      "id": "p5",
+      "text": "Anna has got a green bucket. She is giving water to the flowers. 'Grow, flowers, grow!' she says."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the story about?",
+      "options": [
+        "Anna in the garden",
+        "Anna at school",
+        "Anna on a bus"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Anna is in the garden with her dog.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Anna is in the garden with her dog, Rex."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Is Rex a cat?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Rex is Anna's dog.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Anna is in the garden with her dog, Rex."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How many flowers are there?",
+      "options": [
+        "Four",
+        "Six",
+        "Ten"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There are six flowers.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "There are six flowers."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Which flowers does Anna like best?",
+      "options": [
+        "Red",
+        "Purple",
+        "Yellow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Anna likes the yellow flowers best.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Anna likes the yellow flowers best."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Is there a big tree in the garden?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, there is a big tree.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "There is a big tree in the garden."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Where is the bird?",
+      "options": [
+        "In the tree",
+        "Under the tree",
+        "On the table"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A small bird is in the tree.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "A small bird is in the tree."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 3, singing means...",
+      "options": [
+        "making music with your voice",
+        "sleeping",
+        "running"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The bird is making music with its voice.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "It is singing."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Where is Rex?",
+      "options": [
+        "In the tree",
+        "Under the tree",
+        "Next to the flowers"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Rex is under the tree.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Rex is under the tree."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Is Rex eating a bone?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, he is eating a bone.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "He is eating a bone."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Is Anna's bucket blue?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Anna has got a green bucket.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Anna has got a green bucket."
+        }
+      ]
+    }
+  ]
+}

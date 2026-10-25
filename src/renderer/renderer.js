@@ -92,18 +92,39 @@ function selectSkill(skill) {
   renderExamList();
 }
 
-// Fill the level dropdown with each distinct level of the selected skill (CEFR codes sort naturally: A1 < A2 < B1 ...).
+// Young Learners levels go from easiest to hardest; other levels are CEFR codes, which sort naturally (A1 < A2 < B1 ...).
+const YOUNG_LEARNER_ORDER = ['Starters', 'Movers', 'Flyers'];
+const DEFAULT_GROUP = 'General English';
+
+function compareLevels(a, b) {
+  const rank = (level) => {
+    const i = YOUNG_LEARNER_ORDER.findIndex((name) => level.startsWith(name));
+    return i === -1 ? YOUNG_LEARNER_ORDER.length : i;
+  };
+  return rank(a) - rank(b) || a.localeCompare(b);
+}
+
+// Fill the level dropdown with each distinct level of the selected skill, in one section per group.
 function renderLevelOptions() {
   const exams = state.exams.filter((e) => e.skill === state.skill);
   const counts = new Map();
-  for (const exam of exams) counts.set(exam.level, (counts.get(exam.level) ?? 0) + 1);
-  const levels = [...counts.keys()].sort();
+  const groups = new Map(); // group name -> Set of levels, in order of first appearance
+  for (const exam of exams) {
+    counts.set(exam.level, (counts.get(exam.level) ?? 0) + 1);
+    const group = exam.group ?? DEFAULT_GROUP;
+    if (!groups.has(group)) groups.set(group, new Set());
+    groups.get(group).add(exam.level);
+  }
+  const levels = [...counts.keys()];
+  const option = (level) => el('option', { value: level }, `${level} (${counts.get(level)})`);
+  // The default group comes first; with a single group no section headings are needed.
+  const names = [...groups.keys()].sort((a, b) => (b === DEFAULT_GROUP) - (a === DEFAULT_GROUP));
+  const sections = names.length > 1
+    ? names.map((name) => el('optgroup', { label: name }, ...[...groups.get(name)].sort(compareLevels).map(option)))
+    : levels.sort(compareLevels).map(option);
 
   // Keep the chosen level even if this skill has no exams for it yet.
-  $('level-select').replaceChildren(
-    el('option', { value: '' }, `All levels (${exams.length})`),
-    ...levels.map((level) => el('option', { value: level }, `${level} (${counts.get(level)})`))
-  );
+  $('level-select').replaceChildren(el('option', { value: '' }, `All levels (${exams.length})`), ...sections);
   $('level-select').value = levels.includes(state.level) ? state.level : '';
 }
 
@@ -192,6 +213,8 @@ function renderTest() {
   $('exam-title').textContent = exam.title;
   $('exam-meta').textContent = v.meta(exam);
   $('exam-level').textContent = exam.level;
+  // Larger, friendlier text for children's exams.
+  document.body.classList.toggle('young-learners', exam.group === 'Young Learners');
   $('exam-instructions').textContent = exam.instructions || v.defaultInstructions;
 
   v.renderBody();

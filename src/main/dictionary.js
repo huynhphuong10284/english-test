@@ -1,6 +1,11 @@
 // Offline English dictionary: WordNet 3.0 (~147,000 words, see scripts/build-dictionary.js)
 // plus a small learner supplement (data/dictionary/supplement.json) for grammar words and
-// modern words WordNet lacks. Loaded lazily on the first lookup (the WordNet file is ~17 MB).
+// modern words WordNet lacks, and Vietnamese meanings (data/dictionary/vi.json) for every
+// word used in the exams. Loaded lazily on the first lookup (the WordNet file is ~17 MB).
+//
+// Each entry carries "vi" (Vietnamese meanings for that word and part of speech, if any).
+// Notes about word forms come as English text ("note") and as data ("noteInfo") so the
+// popup can show them in Vietnamese too.
 
 const fs = require('fs');
 
@@ -49,11 +54,13 @@ function cleanWord(raw) {
 }
 
 class Dictionary {
-  constructor(wordnetFile, supplementFile) {
+  constructor(wordnetFile, supplementFile, viFile) {
     this.wordnetFile = wordnetFile;
     this.supplementFile = supplementFile;
+    this.viFile = viFile;
     this.wordnet = null;
     this.supplement = null;
+    this.vi = null;
   }
 
   load() {
@@ -63,6 +70,13 @@ class Dictionary {
       delete raw._about;
       this.supplement = raw;
     }
+    // { word: { "part of speech": ["nghĩa 1", ...] } }; optional, so English still works without it.
+    if (!this.vi) this.vi = this.viFile && fs.existsSync(this.viFile) ? JSON.parse(fs.readFileSync(this.viFile, 'utf8')) : {};
+  }
+
+  // Attach Vietnamese meanings to each entry.
+  withVietnamese(entries) {
+    return entries.map((e) => ({ ...e, vi: this.vi[e.lemma]?.[e.posLabel] ?? null }));
   }
 
   // Is there an entry for this base word and part of speech (WordNet or supplement)?
@@ -72,17 +86,70 @@ class Dictionary {
 
   // Possible base forms of a word for one part of speech, e.g. ("stopped", "v") -> ["stop"].
   baseForms(word, pos) {
-    const found = new Set(this.wordnet.exceptions[pos][word] ?? []);
-    if (this.has(word, pos)) found.add(word);
-    for (const [suffix, ending] of SUFFIX_RULES[pos]) {
-      if (!word.endsWith(suffix) || word.length <= suffix.length + 1) continue;
-      const base = word.slice(0, -suffix.length) + ending;
-      if (this.has(base, pos)) found.add(base);
-      // Doubled final consonant: "stopped" -> "stopp" -> "stop", "bigger" -> "bigg" -> "big".
-      const undoubled = base.replace(/([b-df-hj-np-tv-z])\1$/, '$1');
-      if (undoubled !== base && this.has(undoubled, pos)) found.add(undoubled);
+    return this.candidates(word).filter((c) => c.pos === pos).map((c) => c.lemma);
+  }
+
+  // Every (base word, part of speech) the word could be, with how it was found:
+  // "exact" (the word itself), "exception" (WordNet's irregular forms: went -> go) or
+  // "rule" (suffix rules: stopped -> stop). Suffix rules over-generate ("does" -> "doe",
+  // "pulls" -> "pul", "fines" -> "fin"), so their guesses are filtered.
+  candidates(word) {
+    const found = [];
+    const add = (lemma, pos, origin, suffix = null) => {
+      if (this.has(lemma, pos) && !found.some((c) => c.lemma === lemma && c.pos === pos)) found.push({ lemma, pos, origin, suffix });
+    };
+    for (const pos of Object.keys(POS_LABELS)) {
+      if (this.has(word, pos)) add(word, pos, 'exact');
+      for (const base of this.wordnet.exceptions[pos][word] ?? []) add(base, pos, 'exception');
     }
-    return [...found].filter((base) => this.has(base, pos));
+
+    // Spelling of plural/verb "-es": after ss, x, sh or tch the ending is "-es" ("crosses" -> cross,
+    // "watches" -> watch); otherwise the base keeps its e ("rates" -> rate, not "rat"). After o, a single
+    // s, z or ch both happen ("goes"/"toes", "buses"/"uses", "teaches"/"aches").
+    const exact = found.some((c) => c.origin === 'exact');
+    const esStem = word.endsWith('es') ? word.slice(0, -2) : null;
+    const sibilantStem = esStem !== null && /(ss|x|sh|tch)$/.test(esStem);
+    const eitherStem = esStem !== null && /([^s]s|z|[^t]ch|o)$/.test(esStem);
+
+    for (const pos of Object.keys(POS_LABELS)) {
+      for (const [suffix, ending] of SUFFIX_RULES[pos]) {
+        if (!word.endsWith(suffix) || word.length <= suffix.length + 1) continue;
+        // "-s" is not a plural/verb ending in "pass", nor in a word like "status", "bus" or "crisis" that is a
+        // dictionary word itself (but "menus" -> menu), nor after a sibilant ("crosses" is not "crosse" + s).
+        if (suffix === 's' && (/ss$/.test(word) || (/(us|is)$/.test(word) && exact) || sibilantStem)) continue;
+        if (suffix === 'es') {
+          if (ending === '' && !sibilantStem && !eitherStem) continue;
+          if (ending === 'e' && sibilantStem) continue;
+        }
+        const base = word.slice(0, -suffix.length) + ending;
+        add(base, pos, 'rule', suffix);
+        // Doubled final consonant only before -ed/-ing/-er/-est: "stopped" -> "stop", "bigger" -> "big".
+        if (['ed', 'ing', 'er', 'est'].includes(suffix)) {
+          const undoubled = base.replace(/([b-df-hj-np-tv-z])\1$/, '$1');
+          if (undoubled !== base) add(undoubled, pos, 'rule', suffix);
+        }
+      }
+    }
+
+    // Irregular forms and grammar words are reliable, so ignore rule guesses next to them
+    // ("has" -> have, not "ha"; "his" -> his, not "hi").
+    if (found.some((c) => c.origin === 'exception') || this.supplement[word]) {
+      return found.filter((c) => c.origin !== 'rule');
+    }
+
+    const meanings = (lemma) => Object.values(this.wordnet.lemmas[lemma] ?? {}).reduce((n, ids) => n + ids.length, 0) || 1;
+    const exactMeanings = found.some((c) => c.origin === 'exact') ? meanings(word) : 0;
+    const affix = ['ed', 'ing', 'er', 'est'];
+    return found.filter((c) => {
+      if (c.origin !== 'rule') return true;
+      // The clicked word is a dictionary word in its own right: drop rarer -s/-er guesses ("species" -> specie).
+      // -ed/-ing guesses stay, because the verb matters for learners ("annoyed" -> annoy, "running" -> run).
+      if (exactMeanings && !affix.slice(0, 2).includes(c.suffix) && meanings(c.lemma) <= exactMeanings) return false;
+      // Both X and X+e possible after -ed/-ing/-er ("stared" -> star / stare): the e form is right,
+      // because the -ed form of "star" doubles the consonant ("starred").
+      if (affix.includes(c.suffix) && found.some((o) => o.lemma === `${c.lemma}e` && affix.includes(o.suffix))) return false;
+      return true;
+    });
   }
 
   // All entries for an exact word (no fallbacks): supplement entries first, then WordNet.
@@ -127,7 +194,7 @@ class Dictionary {
     // so "stopped" shows the verb "stop" before the rare adjective "stopped".
     const score = (e) => e.senseCount + (e.lemma === word ? 5 : 0);
     wordnetEntries.sort((a, b) => score(b) - score(a));
-    return entries.concat(wordnetEntries);
+    return this.withVietnamese(entries.concat(wordnetEntries));
   }
 
   // Look up a word as clicked in a text. Always returns { word, entries, note? }.
@@ -145,28 +212,29 @@ class Dictionary {
     const fullForm = CONTRACTIONS[word] ?? CONTRACTION_ENDINGS.filter(([end]) => word.endsWith(end)).map(([end, full]) => word.slice(0, -end.length) + full)[0];
     if (fullForm) {
       const main = fullForm.split(' ')[0].toLowerCase();
-      return { word, entries: this.entriesFor(main), note: `"${shown}" is short for "${fullForm.replace(/^i\b/, 'I')}".` };
+      const full = fullForm.replace(/^i\b/, 'I');
+      return { word, entries: this.entriesFor(main), note: `"${shown}" is short for "${full}".`, noteInfo: { kind: 'contraction', word: shown, full } };
     }
 
     // Possessive: "Anna's" -> "anna", "teachers'" -> "teachers".
     if (possessive) {
       const base = word.endsWith("s'") ? word.slice(0, -1) : possessive[1];
       entries = this.entriesFor(base);
-      if (entries.length) return { word, entries, note: `"${shown}" is the possessive form of "${base}".` };
+      if (entries.length) return { word, entries, note: `"${shown}" is the possessive form of "${base}".`, noteInfo: { kind: 'possessive', word: shown, base } };
       word = base;
     }
 
     // British -ise spellings: "organise" -> "organize".
     const american = word.replace(/is(e|es|ed|ing|er|ers|ation|ations)$/, 'iz$1');
     if (american !== word && (entries = this.entriesFor(american)).length) {
-      return { word, entries, note: `"${word}" is the British spelling of "${american}".` };
+      return { word, entries, note: `"${word}" is the British spelling of "${american}".`, noteInfo: { kind: 'british', word, american } };
     }
 
     // Hyphenated words: explain each part ("four-day" = four + day).
     if (word.includes('-')) {
       const parts = word.split('-').filter(Boolean);
       entries = parts.flatMap((p) => this.entriesFor(p).slice(0, 1));
-      if (entries.length) return { word, entries, note: `"${word}" is made of: ${parts.join(' + ')}.` };
+      if (entries.length) return { word, entries, note: `"${word}" is made of: ${parts.join(' + ')}.`, noteInfo: { kind: 'parts', word, parts } };
     }
 
     // Prefixes and suffixes: "unmanaged" = un- (not) + managed, "seamlessly" = seamless + -ly.
@@ -174,14 +242,14 @@ class Dictionary {
       if (word.startsWith(prefix) && word.length > prefix.length + 3) {
         const rest = word.slice(prefix.length).replace(/^-/, '');
         entries = this.entriesFor(rest);
-        if (entries.length) return { word, entries, note: `"${word}" = ${prefix}- (${meaning}) + "${rest}".` };
+        if (entries.length) return { word, entries, note: `"${word}" = ${prefix}- (${meaning}) + "${rest}".`, noteInfo: { kind: 'prefix', word, prefix, rest } };
       }
     }
     for (const [suffix, ending, meaning] of SUFFIXES) {
       if (word.endsWith(suffix) && word.length > suffix.length + 3) {
         const base = word.slice(0, -suffix.length) + ending;
         entries = this.entriesFor(base);
-        if (entries.length) return { word, entries, note: `"${word}" means ${meaning} "${base}".` };
+        if (entries.length) return { word, entries, note: `"${word}" means ${meaning} "${base}".`, noteInfo: { kind: 'suffix', word, suffix, base } };
       }
     }
 

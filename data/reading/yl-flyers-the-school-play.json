@@ -1,0 +1,424 @@
+{
+  "id": "yl-f-the-school-play",
+  "title": "The School Play",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Children practise and perform a play at school.",
+  "instructions": "Read about the school play. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🎭 Every year, Class 5 does a play for the whole school. This year, the play is called 'The Dragon and the Princess'. Mrs Green, the English teacher, chose it because it is funny."
+    },
+    {
+      "id": "p2",
+      "text": "Minh wanted to be the dragon, but Tom got the part. Minh was a little sad. Then Mrs Green said, 'Minh, you can be the king. The king has the most words to say!' Minh smiled again."
+    },
+    {
+      "id": "p3",
+      "text": "The children practised after school every Tuesday and Thursday. Anna, who plays the princess, forgot her words many times. 'Don't worry,' said Mrs Green. 'You should read them again at home.'"
+    },
+    {
+      "id": "p4",
+      "text": "Hoa and Ben made the costumes. Hoa's mum, who is a tailor, helped them to sew a big green dragon suit. It had two long wings and a tail, which was almost two metres long."
+    },
+    {
+      "id": "p5",
+      "text": "On Friday, there was a problem. Tom was ill and he couldn't come to school. The children were worried. 'Maybe we can't do the play,' said Anna. Nobody knew what to do."
+    },
+    {
+      "id": "p6",
+      "text": "Then Ben had an idea. 'I watched every practice, so I know the dragon's words,' he said. 'I could play the dragon if Tom doesn't get better.' Mrs Green was happy and said he was very kind."
+    },
+    {
+      "id": "p7",
+      "text": "At seven o'clock, the hall was full. Ben put on the dragon suit and walked on to the stage. His legs were shaking, but he spoke clearly. Everybody laughed when the dragon sneezed."
+    },
+    {
+      "id": "p8",
+      "text": "After the play, the audience clapped for a long time. Tom came to watch with his mum, and he shouted, 'Well done, Ben!' Next year, they are going to do a play about pirates."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A teacher who is ill",
+        "A dragon that lives at school",
+        "Class 5 and their school play"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text is about how Class 5 prepared and did a play.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Every year, Class 5 does a play for the whole school."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Who does the play?",
+      "options": [
+        "Mrs Green",
+        "Class 5",
+        "The whole school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Class 5 does the play for the school.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Class 5 does a play for the whole school."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What is the play called?",
+      "options": [
+        "The King and the Dragon",
+        "The Funny Princess",
+        "The Dragon and the Princess"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The title is The Dragon and the Princess.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "the play is called 'The Dragon and the Princess'"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Why did Mrs Green choose the play?",
+      "options": [
+        "It is short.",
+        "It is funny.",
+        "It is easy."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She chose it because it is funny.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "chose it because it is funny"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Who got the dragon part first?",
+      "options": [
+        "Tom",
+        "Ben",
+        "Minh"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom got the part of the dragon.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Minh wanted to be the dragon, but Tom got the part."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Which part did Minh play?",
+      "options": [
+        "The princess",
+        "The king",
+        "The dragon"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mrs Green said Minh could be the king.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Minh, you can be the king."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 2, \"part\" means ...",
+      "options": [
+        "a holiday",
+        "a role in a play",
+        "a costume"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A part is the person you play in a play.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "but Tom got the part"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "When did the children practise?",
+      "options": [
+        "Every morning",
+        "Only on Fridays",
+        "On Tuesdays and Thursdays"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They practised on Tuesday and Thursday after school.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "every Tuesday and Thursday"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What did Anna forget?",
+      "options": [
+        "Her costume",
+        "Her words",
+        "Her bag"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She forgot her words many times.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "forgot her words many times"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did Mrs Green tell Anna to do?",
+      "options": [
+        "Stop being the princess",
+        "Practise in the hall",
+        "Read the words again at home"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She said Anna should read them again at home.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "You should read them again at home."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "Who made the costumes?",
+      "options": [
+        "Minh and Anna",
+        "Hoa and Ben",
+        "Tom and Mrs Green"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Hoa and Ben made the costumes.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Hoa and Ben made the costumes."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "Who is the tailor?",
+      "options": [
+        "Anna's mum",
+        "Mrs Green",
+        "Hoa's mum"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Hoa's mum is a tailor.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Hoa's mum, who is a tailor"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "How long was the dragon's tail?",
+      "options": [
+        "About one metre",
+        "Almost two metres",
+        "Ten metres"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The tail was almost two metres long.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "which was almost two metres long"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What was the problem on Friday?",
+      "options": [
+        "The hall was closed.",
+        "The costume was lost.",
+        "Tom was ill."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom was ill and could not come.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Tom was ill and he couldn't come to school."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "How did the children feel on Friday?",
+      "options": [
+        "Excited",
+        "Worried",
+        "Sleepy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They were worried about the play.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The children were worried."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "Why did Ben know the dragon's words?",
+      "options": [
+        "He read the book.",
+        "Tom told him.",
+        "He watched every practice."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ben watched every practice.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "I watched every practice, so I know the dragon's words"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "How did Ben feel on the stage?",
+      "options": [
+        "He was asleep.",
+        "His legs were shaking.",
+        "He was very angry."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His legs were shaking, but he spoke clearly.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "His legs were shaking, but he spoke clearly."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "Why did everybody laugh?",
+      "options": [
+        "The king fell down.",
+        "Anna forgot her words.",
+        "The dragon sneezed."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The dragon sneezed and people laughed.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Everybody laughed when the dragon sneezed."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What did Tom do after the play?",
+      "options": [
+        "He went home.",
+        "He shouted to Ben.",
+        "He cried."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom came to watch and shouted well done.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Well done, Ben!"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "What is the class going to do next year?",
+      "options": [
+        "A play about pirates",
+        "A play about dragons",
+        "A film about school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Next year they will do a play about pirates.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Next year, they are going to do a play about pirates."
+        }
+      ]
+    }
+  ]
+}

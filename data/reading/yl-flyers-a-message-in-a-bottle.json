@@ -1,0 +1,424 @@
+{
+  "id": "yl-f-a-message-in-a-bottle",
+  "title": "A Message in a Bottle",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "A girl finds a bottle on the beach with a message from a faraway boy.",
+  "instructions": "Read the story about Mai and the bottle. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🍾 One windy morning, Mai was walking along the beach with her dog, Bobo. Suddenly, Bobo started to bark at something in the sand. It was an old green bottle."
+    },
+    {
+      "id": "p2",
+      "text": "Mai picked up the bottle and looked inside. There was a piece of paper in it! She pulled it out carefully, because it was wet. The writing was small, but she could read it."
+    },
+    {
+      "id": "p3",
+      "text": "The message said, 'Hello! My name is Leo. I am nine years old and I live in a small town in Spain. I put this bottle in the sea on 3rd May. Please write to me if you find it!'"
+    },
+    {
+      "id": "p4",
+      "text": "Mai ran home to show her mum. 'Leo's bottle has travelled more than ten thousand kilometres!' said her mum. 'It must have been in the sea for a very long time.'"
+    },
+    {
+      "id": "p5",
+      "text": "That afternoon, Mai wrote a long letter to Leo. She told him about her school, her family and her dog. She also put a photo of Bobo in the envelope, which made her smile."
+    },
+    {
+      "id": "p6",
+      "text": "Her mum helped her find Leo's address on the computer. Then they went to the post office. The man there said, 'Your letter will arrive in about two weeks.'"
+    },
+    {
+      "id": "p7",
+      "text": "Three weeks later, a letter came for Mai. It was from Leo! He was very surprised that his bottle had arrived in Viet Nam. 'I have never had a friend in Asia before,' he wrote."
+    },
+    {
+      "id": "p8",
+      "text": "Now Mai and Leo write to each other every month. Next summer, Leo is going to visit Mai, and they will look for more bottles on the beach together."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the story mainly about?",
+      "options": [
+        "A dog who loves swimming",
+        "A girl who finds a bottle and makes a new friend",
+        "A boy who lives in Viet Nam"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai found a bottle and became friends with Leo.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Three weeks later, a letter came for Mai."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Where was Mai when the story started?",
+      "options": [
+        "At school",
+        "At home",
+        "On the beach"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She was walking along the beach.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Mai was walking along the beach with her dog, Bobo."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What did Bobo do in the story?",
+      "options": [
+        "He found the bottle.",
+        "He read the message.",
+        "He carried the letter."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Bobo barked at the bottle in the sand.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Bobo started to bark at something in the sand."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What colour was the bottle?",
+      "options": [
+        "Blue",
+        "Green",
+        "Clear"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It was an old green bottle.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It was an old green bottle."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Why did Mai pull the paper out carefully?",
+      "options": [
+        "It was wet.",
+        "It was very big.",
+        "It was hot."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The paper was wet, so she was careful.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "She pulled it out carefully, because it was wet."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "How old is Leo?",
+      "options": [
+        "Eight",
+        "Nine",
+        "Ten"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Leo is nine years old.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "I am nine years old"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Where does Leo live?",
+      "options": [
+        "In Spain",
+        "In Viet Nam",
+        "In England"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Leo lives in a small town in Spain.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "I live in a small town in Spain."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What does Leo ask people to do?",
+      "options": [
+        "Come to Spain",
+        "Write to him",
+        "Send a photo"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He asks the finder to write to him.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Please write to me if you find it!"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 4, \"travelled\" means ...",
+      "options": [
+        "went a long way",
+        "stayed",
+        "broke"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Travelled means went from one place to another.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "has travelled more than ten thousand kilometres"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "What does Mai's mum think?",
+      "options": [
+        "The bottle is new.",
+        "The message is a joke.",
+        "The bottle was in the sea for a long time."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum says it must have been in the sea a long time.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It must have been in the sea for a very long time."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What did Mai put in the envelope with the letter?",
+      "options": [
+        "A drawing",
+        "A photo of Bobo",
+        "A little bottle"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She put in a photo of Bobo.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "She also put a photo of Bobo in the envelope"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What did Mai tell Leo about?",
+      "options": [
+        "The weather and the sea",
+        "Her favourite books",
+        "Her school, her family and her dog"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She wrote about school, family and her dog.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "She told him about her school, her family and her dog."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "How did Mai find Leo's address?",
+      "options": [
+        "On the computer",
+        "In the bottle",
+        "At school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Her mum helped her find it on the computer.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Her mum helped her find Leo's address on the computer."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Where did Mai and her mum go next?",
+      "options": [
+        "To the beach",
+        "To the post office",
+        "To Leo's house"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They went to the post office.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Then they went to the post office."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "How long will the letter take to arrive?",
+      "options": [
+        "About two days",
+        "About two months",
+        "About two weeks"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The man said about two weeks.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Your letter will arrive in about two weeks."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "How long did Mai wait for Leo's letter?",
+      "options": [
+        "One week",
+        "Two weeks",
+        "Three weeks"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The letter came three weeks later.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Three weeks later, a letter came for Mai."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "How did Leo feel about Mai's letter?",
+      "options": [
+        "He was angry.",
+        "He was bored.",
+        "He was surprised and happy."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He was surprised that the bottle arrived in Viet Nam.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "He was very surprised that his bottle had arrived in Viet Nam."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 7, \"never\" means ...",
+      "options": [
+        "sometimes",
+        "not at any time",
+        "always"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Never means not at any time.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "I have never had a friend in Asia before"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "How often do Mai and Leo write to each other?",
+      "options": [
+        "Every week",
+        "Every month",
+        "Every year"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They write every month.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Mai and Leo write to each other every month."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "What are Mai and Leo going to do next summer?",
+      "options": [
+        "Visit Spain",
+        "Look for bottles together",
+        "Write a book"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Leo is going to visit Mai and they will look for bottles.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "they will look for more bottles on the beach together"
+        }
+      ]
+    }
+  ]
+}

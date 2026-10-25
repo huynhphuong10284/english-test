@@ -1,0 +1,243 @@
+{
+  "id": "w-yl-m-my-day",
+  "title": "My Day",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise daily routine words and the present simple, and write about your day.",
+  "instructions": "Do the exercises in Part 1. Then write about your day in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present simple: he/she",
+      "prompt": "Choose the correct word.",
+      "text": "⏰ Linh ___ up at six o'clock.",
+      "options": [
+        "get",
+        "gets",
+        "getting"
+      ],
+      "answer": 1,
+      "explanation": "With he, she and it we add -s: gets.",
+      "points": 1
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Time: at",
+      "prompt": "Write in, on or at.",
+      "text": "School starts ___ eight o'clock.",
+      "answers": [
+        "at"
+      ],
+      "explanation": "Use \"at\" with clock times: at eight o'clock.",
+      "points": 1
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Daily routine",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "breakfast",
+        "I",
+        "have",
+        "at seven"
+      ],
+      "answers": [
+        "I have breakfast at seven.",
+        "At seven I have breakfast."
+      ],
+      "explanation": "Subject + verb + thing + time: I have breakfast at seven.",
+      "points": 1
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Present simple: -s",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Tom brush his teeth every morning.",
+      "answers": [
+        "Tom brushes his teeth every morning."
+      ],
+      "explanation": "He, she, it + verb with -es: brushes.",
+      "points": 1
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Adverbs of frequency",
+      "prompt": "Choose the correct word.",
+      "text": "🌙 I ___ go to bed late. I go at nine o'clock.",
+      "options": [
+        "never",
+        "always",
+        "sometimes"
+      ],
+      "answer": 0,
+      "explanation": "\"Never\" means not at any time.",
+      "points": 1
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Daily routine: go",
+      "prompt": "Write the missing word.",
+      "text": "We ___ home at four o'clock after school.",
+      "answers": [
+        "go"
+      ],
+      "explanation": "We go home. \"Go\" fits with we.",
+      "points": 1
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions of time",
+      "prompt": "Choose the correct word.",
+      "text": "I do my homework ___ the afternoon.",
+      "options": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "We say \"in the morning / afternoon / evening\".",
+      "points": 1
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Present simple: questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "you",
+        "what time",
+        "do",
+        "get up"
+      ],
+      "answers": [
+        "What time do you get up?"
+      ],
+      "explanation": "Question word + do + you + verb: What time do you get up?",
+      "points": 1
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Present simple: does",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Does Mai goes to school by bus?",
+      "answers": [
+        "Does Mai go to school by bus?"
+      ],
+      "explanation": "After \"does\" use the base verb: go.",
+      "points": 1
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Present simple: negative",
+      "prompt": "Choose the correct word.",
+      "text": "🚌 My brother ___ walk to school. He goes by bus.",
+      "options": [
+        "don't",
+        "isn't",
+        "doesn't"
+      ],
+      "answer": 2,
+      "explanation": "With he, use \"doesn't\" + base verb.",
+      "points": 1
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Daily routine: have",
+      "prompt": "Write the missing word.",
+      "text": "We ___ lunch at school at twelve o'clock.",
+      "answers": [
+        "have",
+        "eat"
+      ],
+      "explanation": "We have lunch at school.",
+      "points": 1
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Comparative",
+      "prompt": "Choose the correct word.",
+      "text": "On Saturday I get up ___ than on Monday.",
+      "options": [
+        "late",
+        "later",
+        "latest"
+      ],
+      "answer": 1,
+      "explanation": "Use \"later\" to compare two times.",
+      "points": 1
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Time order",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "wash",
+        "then",
+        "I",
+        "my face"
+      ],
+      "answers": [
+        "Then I wash my face.",
+        "I then wash my face."
+      ],
+      "explanation": "Then + subject + verb: Then I wash my face.",
+      "points": 1
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Prepositions of time",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I go to bed on nine o'clock.",
+      "answers": [
+        "I go to bed at nine o'clock."
+      ],
+      "explanation": "Use \"at\" with clock times.",
+      "points": 1
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Daily routine: get",
+      "prompt": "Write the missing word.",
+      "text": "I ___ dressed and then I have breakfast.",
+      "answers": [
+        "get"
+      ],
+      "explanation": "\"Get dressed\" means put on clothes.",
+      "points": 1
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your day.",
+    "contentPoints": [
+      "Say what time you get up.",
+      "Say how you go to school.",
+      "Say what you do after school.",
+      "Say what time you go to bed."
+    ],
+    "minWords": 20,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "I get up at ...",
+      "I go to school by ...",
+      "After school I ...",
+      "I always / usually ...",
+      "I go to bed at ..."
+    ],
+    "modelAnswer": "I get up at six o'clock. I have breakfast and then I go to school by bike. School starts at seven. After school I do my homework and play with my friend Minh. I usually go to bed at nine o'clock."
+  }
+}

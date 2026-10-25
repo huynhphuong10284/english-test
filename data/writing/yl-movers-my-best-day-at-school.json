@@ -1,0 +1,243 @@
+{
+  "id": "w-yl-m-my-best-day-at-school",
+  "title": "My Best Day at School",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise school words and past simple, and write about your best day at school.",
+  "instructions": "Do the exercises in Part 1. Then write about your best day at school in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "School subjects",
+      "prompt": "Choose the correct word.",
+      "text": "🔬 In ___ lessons we learn about plants and animals.",
+      "options": [
+        "science",
+        "music",
+        "art"
+      ],
+      "answer": 0,
+      "explanation": "Science is about plants, animals and how things work.",
+      "points": 1
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: be",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "Yesterday ___ my best day at school. (be)",
+      "answers": [
+        "was"
+      ],
+      "explanation": "Use \"was\" with one thing in the past.",
+      "points": 1
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a story",
+        "the teacher",
+        "read",
+        "us"
+      ],
+      "answers": [
+        "The teacher read us a story."
+      ],
+      "explanation": "Subject + read + us + a story.",
+      "points": 1
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Past simple: irregular",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We singed a song in music class.",
+      "answers": [
+        "We sang a song in music class."
+      ],
+      "explanation": "\"Sing\" is irregular. The past is \"sang\".",
+      "points": 1
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the correct word.",
+      "text": "We have English ___ Monday morning.",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "Use \"on\" with days.",
+      "points": 1
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "🎨 Art is ___ than maths for me.",
+      "options": [
+        "easy",
+        "easiest",
+        "easier"
+      ],
+      "answer": 2,
+      "explanation": "Easy becomes easier.",
+      "points": 1
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "Past simple: win",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "Our class ___ the quiz and got a prize! (win)",
+      "answers": [
+        "won"
+      ],
+      "explanation": "\"Win\" is irregular. The past is \"won\".",
+      "points": 1
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "football",
+        "played",
+        "Sam",
+        "at break"
+      ],
+      "answers": [
+        "Sam played football at break.",
+        "At break Sam played football."
+      ],
+      "explanation": "Subject + verb + thing + time.",
+      "points": 1
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Past simple negative",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We didn't had homework.",
+      "answers": [
+        "We didn't have homework.",
+        "We did not have homework."
+      ],
+      "explanation": "After \"didn't\" use the base verb: have.",
+      "points": 1
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Superlatives",
+      "prompt": "Choose the correct word.",
+      "text": "It was the ___ day of the year.",
+      "options": [
+        "best",
+        "good",
+        "better"
+      ],
+      "answer": 0,
+      "explanation": "The best means number one.",
+      "points": 1
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Past simple: write",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "I ___ a long story in English class. (write)",
+      "answers": [
+        "wrote"
+      ],
+      "explanation": "\"Write\" is irregular. The past is \"wrote\".",
+      "points": 1
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Past simple questions",
+      "prompt": "Choose the correct word.",
+      "text": "___ you like the lesson?",
+      "options": [
+        "Did",
+        "Do",
+        "Does"
+      ],
+      "answer": 0,
+      "explanation": "Use \"Did\" to ask about the past.",
+      "points": 1
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Time order",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "we",
+        "sang",
+        "lunch",
+        "after"
+      ],
+      "answers": [
+        "After lunch we sang.",
+        "We sang after lunch."
+      ],
+      "explanation": "Time + subject + verb: After lunch we sang.",
+      "points": 1
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Adverbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Mai answered the question very good.",
+      "answers": [
+        "Mai answered the question very well."
+      ],
+      "explanation": "\"Well\" is the adverb of good.",
+      "points": 1
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Prepositions",
+      "prompt": "Write in, to or at.",
+      "text": "My teacher gave a prize ___ me.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "We give something to someone.",
+      "points": 1
+    }
+  ],
+  "task": {
+    "genre": "Short story",
+    "prompt": "Write about your best day at school.",
+    "contentPoints": [
+      "Say what day it was.",
+      "Say what you did in class.",
+      "Say what you did at break.",
+      "Say why it was your best day."
+    ],
+    "minWords": 20,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "My best day at school was ...",
+      "In the morning we ...",
+      "At break I ...",
+      "It was my best day because ...",
+      "My teacher ..."
+    ],
+    "modelAnswer": "My best day at school was last Friday. In the morning we sang songs in music class. At break I played football with Minh. In the afternoon our teacher read us a funny story. It was my best day because we had fun."
+  }
+}

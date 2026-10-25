@@ -1,0 +1,241 @@
+{
+  "id": "w-yl-m-a-message-to-grandma",
+  "title": "A Message to Grandma",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise past simple and present simple, and write a short message to your grandma.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present simple",
+      "prompt": "Choose the correct word.",
+      "text": "Dear Grandma, I ___ you very much.",
+      "options": [
+        "miss",
+        "misses",
+        "missing"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"miss\" with I: I miss you."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: go",
+      "prompt": "Write the missing word.",
+      "text": "🦁 Last week I ___ to the zoo with Dad. (go)",
+      "answers": [
+        "went"
+      ],
+      "points": 1,
+      "explanation": "The past of \"go\" is \"went\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Thanks",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "for",
+        "Thank",
+        "my present",
+        "you"
+      ],
+      "answers": [
+        "Thank you for my present."
+      ],
+      "points": 1,
+      "explanation": "Thank you for + thing: Thank you for my present."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Past simple: eat",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ your cake yesterday. It was lovely.",
+      "options": [
+        "eat",
+        "ate",
+        "eated"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The past of \"eat\" is \"ate\"."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Present simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I are happy because it is your birthday.",
+      "answers": [
+        "I am happy because it is your birthday."
+      ],
+      "points": 1,
+      "explanation": "Use \"am\" with I."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Infinitive of purpose",
+      "prompt": "Write the missing word.",
+      "text": "Please come ___ see us on Sunday.",
+      "answers": [
+        "to",
+        "and"
+      ],
+      "points": 1,
+      "explanation": "Use \"come to see\" or \"come and see\"."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Past simple: draw",
+      "prompt": "Choose the correct word.",
+      "text": "🎨 My sister ___ a picture for you.",
+      "options": [
+        "draw",
+        "drawed",
+        "drew"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The past of \"draw\" is \"drew\"."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Want to",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "to visit",
+        "want",
+        "you",
+        "I"
+      ],
+      "answers": [
+        "I want to visit you."
+      ],
+      "points": 1,
+      "explanation": "Subject + want to + verb: I want to visit you."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Present simple: has",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My brother have a new bike.",
+      "answers": [
+        "My brother has a new bike."
+      ],
+      "points": 1,
+      "explanation": "Use \"has\" with he, she and it."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Want to",
+      "prompt": "Choose the correct word.",
+      "text": "I want to ___ you a long letter.",
+      "options": [
+        "send",
+        "sends",
+        "sent"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After \"want to\" use the base verb: send."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Possessive adjectives",
+      "prompt": "Write the missing word.",
+      "text": "I am your grandson. ___ name is Nam.",
+      "answers": [
+        "My"
+      ],
+      "points": 1,
+      "explanation": "Use \"my\" for something that belongs to me."
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Questions",
+      "prompt": "Choose the correct word.",
+      "text": "How ___ you? I hope you are well.",
+      "options": [
+        "is",
+        "are",
+        "do"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"are\" with you: How are you?"
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "saw",
+        "we",
+        "a film",
+        "Yesterday"
+      ],
+      "answers": [
+        "Yesterday we saw a film.",
+        "We saw a film yesterday."
+      ],
+      "points": 1,
+      "explanation": "Put the time word first or last: Yesterday we saw a film."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Superlatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Grandma, you are the good cook in the world.",
+      "answers": [
+        "Grandma, you are the best cook in the world."
+      ],
+      "points": 1,
+      "explanation": "The superlative of \"good\" is \"the best\"."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Past simple: be",
+      "prompt": "Write the missing word.",
+      "text": "❤️ We ___ happy to see you last week. (be)",
+      "answers": [
+        "were"
+      ],
+      "points": 1,
+      "explanation": "Use \"were\" with we in the past."
+    }
+  ],
+  "task": {
+    "genre": "Message",
+    "prompt": "Write a short message to your grandma. Tell her about your week.",
+    "contentPoints": [
+      "Say hello and ask how she is.",
+      "Say what you did last weekend.",
+      "Say what you want to do with her."
+    ],
+    "minWords": 25,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "Dear Grandma,",
+      "How are you?",
+      "Last weekend I ...",
+      "I want to ...",
+      "Love from ..."
+    ],
+    "modelAnswer": "Dear Grandma,\n\nHow are you? I miss you very much. Last weekend I went to the park with my dad and we played football. I want to visit you soon. Can we make a cake together?\n\nLove from,\nMai"
+  }
+}

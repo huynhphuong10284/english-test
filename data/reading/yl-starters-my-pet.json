@@ -1,0 +1,217 @@
+{
+  "id": "yl-s-my-pet",
+  "title": "My Pet",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Tom tells us about his dog, Max.",
+  "instructions": "Read about Tom's dog. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🐶 This is my dog. His name is Max. He is brown and white."
+    },
+    {
+      "id": "p2",
+      "text": "Max is two. He has got big ears and a long tail."
+    },
+    {
+      "id": "p3",
+      "text": "Max can run and jump. He can't swim. He likes balls."
+    },
+    {
+      "id": "p4",
+      "text": "Max eats meat and rice. He drinks water. He sleeps under my bed."
+    },
+    {
+      "id": "p5",
+      "text": "I love Max. He is my best friend."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text about?",
+      "options": [
+        "Tom's cat",
+        "Tom's dog",
+        "Tom's bird"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom says, 'This is my dog.'",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "This is my dog."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Is Max brown and white?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Max is brown and white.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "He is brown and white."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Is Max three?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Max is two.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Max is two."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What has Max got?",
+      "options": [
+        "Small ears and a short tail",
+        "Big ears and a long tail",
+        "Big eyes and a short tail"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Max has got big ears and a long tail.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He has got big ears and a long tail."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "The word \"tail\" means...",
+      "options": [
+        "a toy for dogs",
+        "a kind of food",
+        "a part of a dog at the back"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A tail is the long part at the back of a dog.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He has got big ears and a long tail."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Can Max swim?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Max can run and jump, but he can't swim.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He can't swim."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "⚽ What does Max like?",
+      "options": [
+        "Balls",
+        "Books",
+        "Hats"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Max likes balls.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He likes balls."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Does Max drink milk?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Max drinks water.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "He drinks water."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Where does Max sleep?",
+      "options": [
+        "On the sofa",
+        "Under Tom's bed",
+        "In the garden"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Max sleeps under Tom's bed.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "He sleeps under my bed."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Is Max Tom's best friend?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom says Max is his best friend.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "He is my best friend."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "yl-s-at-school",
+  "title": "At School",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Mai has a happy day at school.",
+  "instructions": "Read about Mai at school. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🏫 Mai is at school. It is Monday. She has got a blue bag."
+    },
+    {
+      "id": "p2",
+      "text": "In her bag there are three books and two pens. She has got a ruler, too."
+    },
+    {
+      "id": "p3",
+      "text": "Her teacher is Mr Hung. He is in the classroom. There are twenty children in the class."
+    },
+    {
+      "id": "p4",
+      "text": "Mai sits next to Ben. They draw a picture. It is a big yellow sun."
+    },
+    {
+      "id": "p5",
+      "text": "At twelve o'clock, Mai eats lunch. She likes school."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text about?",
+      "options": [
+        "Mai's day at school",
+        "Mai's holiday",
+        "Mai's birthday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai is at school.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Mai is at school."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What colour is Mai's bag?",
+      "options": [
+        "Red",
+        "Green",
+        "Blue"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai has got a blue bag.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She has got a blue bag."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Are there three books in the bag?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "There are three books and two pens.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In her bag there are three books and two pens."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "How many pens are in the bag?",
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There are two pens.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In her bag there are three books and two pens."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "📏 A \"ruler\" is...",
+      "options": [
+        "something you use to draw lines",
+        "something you eat",
+        "something you wear"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "You use a ruler to draw straight lines.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "She has got a ruler, too."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Is Mr Hung in the playground?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He is in the classroom.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He is in the classroom."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "How many children are in the class?",
+      "options": [
+        "Ten",
+        "Twenty",
+        "Twelve"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There are twenty children.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "There are twenty children in the class."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Does Mai sit next to Ben?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai sits next to Ben.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Mai sits next to Ben."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "☀️ Is the sun in the picture blue?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It is a big yellow sun.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It is a big yellow sun."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Does Mai like school?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai likes school.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "She likes school."
+        }
+      ]
+    }
+  ]
+}

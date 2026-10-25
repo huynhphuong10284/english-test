@@ -1,0 +1,320 @@
+{
+  "id": "yl-m-a-trip-to-the-zoo",
+  "title": "A Trip to the Zoo",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Linh and her family have a fun day at the zoo.",
+  "instructions": "Read about Linh's day at the zoo. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🦁 Last Saturday, Linh went to the zoo with her brother Nam and her mum. They went by bus. It was a sunny day."
+    },
+    {
+      "id": "p2",
+      "text": "First, they saw the monkeys. The monkeys were very funny. One monkey ate a banana and jumped on a tree."
+    },
+    {
+      "id": "p3",
+      "text": "Next, they went to see the elephants. The elephants were the biggest animals in the zoo. Nam took a photo of a baby elephant."
+    },
+    {
+      "id": "p4",
+      "text": "At twelve o'clock, they were hungry. They sat on a bench and ate sandwiches and apples. Linh gave an apple to Nam."
+    },
+    {
+      "id": "p5",
+      "text": "🐧 After lunch, they walked to the penguins. The penguins swam in the cold water. Linh liked the penguins best because they were so cute."
+    },
+    {
+      "id": "p6",
+      "text": "At three o'clock, they bought a small toy penguin in the shop. Then they went home. Linh was tired but very happy."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text about?",
+      "options": [
+        "Linh's day at the zoo",
+        "Linh's school day",
+        "A birthday party"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text tells us what Linh did at the zoo.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last Saturday, Linh went to the zoo"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Who went to the zoo with Linh?",
+      "options": [
+        "Her dad and her friend",
+        "Her teacher",
+        "Her brother and her mum"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh went with her brother Nam and her mum.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Linh went to the zoo with her brother Nam and her mum."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How did they go to the zoo?",
+      "options": [
+        "By car",
+        "By bus",
+        "By bike"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They went by bus.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They went by bus."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What was the weather like?",
+      "options": [
+        "Rainy",
+        "Sunny",
+        "Windy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It was a sunny day.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It was a sunny day."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What did the monkey eat?",
+      "options": [
+        "An apple",
+        "A sandwich",
+        "A banana"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "One monkey ate a banana.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "One monkey ate a banana and jumped on a tree."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Did a monkey jump on a tree?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The monkey ate a banana and jumped on a tree.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "One monkey ate a banana and jumped on a tree."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Which were the biggest animals in the zoo?",
+      "options": [
+        "The elephants",
+        "The monkeys",
+        "The penguins"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The elephants were the biggest animals.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "The elephants were the biggest animals in the zoo."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did Nam take a photo of?",
+      "options": [
+        "A baby elephant",
+        "A penguin",
+        "A monkey"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam took a photo of a baby elephant.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Nam took a photo of a baby elephant."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What time were they hungry?",
+      "options": [
+        "At three o'clock",
+        "At twelve o'clock",
+        "At nine o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "At twelve o'clock, they were hungry.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "At twelve o'clock, they were hungry."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"bench\" means...",
+      "options": [
+        "a long seat for two or more people",
+        "a kind of food",
+        "a small bag"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A bench is a long seat. They sat on it to eat.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "They sat on a bench and ate sandwiches and apples."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "Who gave an apple to Nam?",
+      "options": [
+        "Mum",
+        "A monkey",
+        "Linh"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh gave an apple to Nam.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Linh gave an apple to Nam."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "Where did they walk after lunch?",
+      "options": [
+        "To the monkeys",
+        "To the penguins",
+        "To the bus"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After lunch, they walked to the penguins.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "After lunch, they walked to the penguins."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "Why did Linh like the penguins best?",
+      "options": [
+        "They were so cute",
+        "They were very big",
+        "They were very fast"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says the penguins were so cute.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Linh liked the penguins best because they were so cute."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did they buy in the shop?",
+      "options": [
+        "A photo",
+        "A banana",
+        "A toy penguin"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They bought a small toy penguin.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "they bought a small toy penguin in the shop"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "How did Linh feel at the end of the day?",
+      "options": [
+        "Tired but happy",
+        "Angry",
+        "Sad and cold"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh was tired but very happy.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Linh was tired but very happy."
+        }
+      ]
+    }
+  ]
+}

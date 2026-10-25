@@ -1,0 +1,321 @@
+{
+  "id": "w-yl-f-an-amazing-animal",
+  "title": "An Amazing Animal",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise comparatives, superlatives and relative clauses, then describe an amazing animal.",
+  "instructions": "Do the exercises in Part 1. Then write your description in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Superlatives",
+      "prompt": "Choose the correct word.",
+      "text": "🐘 The elephant is the ___ animal on land.",
+      "options": [
+        "bigger",
+        "biggest",
+        "most big"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Short adjectives take -est: the biggest."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Comparatives",
+      "prompt": "Write the correct form of the adjective in brackets.",
+      "text": "🐆 A cheetah is ___ (fast) than a horse.",
+      "answers": [
+        "faster"
+      ],
+      "points": 1,
+      "explanation": "Short adjectives take -er before \"than\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Present simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "pods",
+        "called",
+        "groups",
+        "in",
+        "live",
+        "Dolphins"
+      ],
+      "answers": [
+        "Dolphins live in groups called pods."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + in + groups: Dolphins live in groups called pods."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Relative clauses",
+      "prompt": "Choose the correct word.",
+      "text": "A giraffe is an animal ___ has a very long neck.",
+      "options": [
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"which\" for animals and things."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "A rabbit is more small than a dog.",
+      "answers": [
+        "A rabbit is smaller than a dog."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives take -er: small - smaller."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write who, which or where.",
+      "text": "A zoo is a place ___ we can see wild animals.",
+      "answers": [
+        "where"
+      ],
+      "points": 1,
+      "explanation": "Use \"where\" for places."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Can / can't",
+      "prompt": "Choose the correct word.",
+      "text": "Penguins are birds, but they ___ fly.",
+      "options": [
+        "can",
+        "can't",
+        "must"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"But\" shows a surprise: penguins are birds but they can't fly."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Superlatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "world",
+        "the",
+        "in",
+        "animal",
+        "biggest",
+        "the",
+        "is",
+        "whale",
+        "blue",
+        "The"
+      ],
+      "answers": [
+        "The blue whale is the biggest animal in the world."
+      ],
+      "points": 1,
+      "explanation": "The blue whale is the biggest animal in the world."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Present simple",
+      "prompt": "Choose the correct word.",
+      "text": "An owl ___ at night and sleeps in the day.",
+      "options": [
+        "hunts",
+        "hunting",
+        "hunt"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "With it, add -s: it hunts."
+    },
+    {
+      "id": "e10",
+      "type": "transformation",
+      "focus": "Comparatives",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word SLOWER. Begin: \"A ...\"",
+      "text": "A snail is not as fast as a tortoise.",
+      "keyword": "SLOWER",
+      "answers": [
+        "A snail is slower than a tortoise."
+      ],
+      "points": 1,
+      "explanation": "\"A is not as fast as B\" means \"A is slower than B\"."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Present perfect",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "🦁 I have ___ (see) a real lion at the zoo.",
+      "answers": [
+        "seen"
+      ],
+      "points": 1,
+      "explanation": "Present perfect = have + past participle. The past participle of see is seen."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Present simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "A bat sleep upside down.",
+      "answers": [
+        "A bat sleeps upside down."
+      ],
+      "points": 1,
+      "explanation": "With he, she or it add -s: it sleeps."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Might",
+      "prompt": "Choose the correct word.",
+      "text": "This animal ___ be a fish or a frog. I am not sure.",
+      "options": [
+        "will",
+        "might",
+        "does"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Might\" shows something is possible."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Have got",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "trunk",
+        "long",
+        "a",
+        "and",
+        "ears",
+        "big",
+        "got",
+        "has",
+        "It"
+      ],
+      "answers": [
+        "It has got big ears and a long trunk."
+      ],
+      "points": 1,
+      "explanation": "It has got big ears and a long trunk."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct word.",
+      "text": "Octopuses are clever ___ they can open jars.",
+      "options": [
+        "because",
+        "but",
+        "so"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Because\" gives a reason."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Quantifiers",
+      "prompt": "Write much or many.",
+      "text": "🐜 Ants are small, but there are very ___ of them.",
+      "answers": [
+        "many"
+      ],
+      "points": 1,
+      "explanation": "Use \"many\" with plural nouns."
+    },
+    {
+      "id": "e17",
+      "type": "transformation",
+      "focus": "Superlatives",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word TALLEST. Begin: \"The ...\"",
+      "text": "No other bird is as tall as an ostrich.",
+      "keyword": "TALLEST",
+      "answers": [
+        "The ostrich is the tallest bird."
+      ],
+      "points": 1,
+      "explanation": "\"No other ... is as tall as\" means \"the tallest\"."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Frogs can live in water and on the land, but they lay eggs at water.",
+      "answers": [
+        "Frogs can live in water and on the land, but they lay eggs in water."
+      ],
+      "points": 1,
+      "explanation": "We say \"in water\"."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "First conditional",
+      "prompt": "Choose the correct word.",
+      "text": "If we ___ trees, many animals will lose their homes.",
+      "options": [
+        "cut down",
+        "will cut down",
+        "cut"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After \"if\" use the present simple: if we cut down."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Should",
+      "prompt": "Write should or shouldn't.",
+      "text": "🐯 We ___ look after wild animals and their homes.",
+      "answers": [
+        "should"
+      ],
+      "points": 1,
+      "explanation": "\"Should\" gives advice."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about an amazing animal. Tell your friend about it.",
+    "contentPoints": [
+      "Say what the animal is and where it lives.",
+      "Say what it looks like.",
+      "Say what it eats or can do.",
+      "Say why it is amazing."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "My amazing animal is ...",
+      "It lives in ...",
+      "It has got ...",
+      "It can ... and it eats ...",
+      "It is amazing because ..."
+    ],
+    "modelAnswer": "My amazing animal is the dolphin. It lives in the sea and it swims in groups. It has got a smooth grey body and a long nose. Dolphins can jump very high and they eat fish. They are amazing because they are very clever and friendly. They can talk to each other with special sounds. I would love to see a dolphin one day."
+  }
+}

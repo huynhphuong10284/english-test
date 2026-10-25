@@ -1,0 +1,319 @@
+{
+  "id": "yl-m-a-new-classmate",
+  "title": "A New Classmate",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "A shy boy from England makes new friends.",
+  "instructions": "Read about Ben. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🎒 On Monday, a new boy came to Class 4. His name was Ben and he was from England."
+    },
+    {
+      "id": "p2",
+      "text": "Ben looked shy. The teacher, Mr Long, said, 'Please say hello to Ben.' All the children said hello and smiled."
+    },
+    {
+      "id": "p3",
+      "text": "Ben sat next to Minh. At break time, Minh asked, 'Do you like football?' 'Yes, I do!' said Ben. 'I play every day.'"
+    },
+    {
+      "id": "p4",
+      "text": "They played football in the playground. Ben ran very fast and he scored two goals. His new friends cheered."
+    },
+    {
+      "id": "p5",
+      "text": "At lunch, Ben tried some Vietnamese food. He ate spring rolls and he thought they were tasty. 'I want to learn Vietnamese,' he said."
+    },
+    {
+      "id": "p6",
+      "text": "After school, Minh taught Ben some words. Ben said 'xin chào' and everybody laughed. Ben was not shy now. He was happy."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A new boy makes friends at school",
+        "A football match in England",
+        "Mr Long's holiday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"On Monday, a new boy came to Class 4.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "On Monday, a new boy came to Class 4."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Where was Ben from?",
+      "options": [
+        "Vietnam",
+        "England",
+        "America"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"His name was Ben and he was from England.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "His name was Ben and he was from England."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Which class did Ben join?",
+      "options": [
+        "Class 3",
+        "Class 5",
+        "Class 4"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"a new boy came to Class 4\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "a new boy came to Class 4"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "🎒 Did Ben look shy?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Ben looked shy.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Ben looked shy."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Who is Mr Long?",
+      "options": [
+        "A student",
+        "The teacher",
+        "Ben's dad"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"The teacher, Mr Long, said\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The teacher, Mr Long, said"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Who sat next to Ben?",
+      "options": [
+        "Linh",
+        "Mr Long",
+        "Minh"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Ben sat next to Minh.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Ben sat next to Minh."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What did Minh ask Ben at break time?",
+      "options": [
+        "If he likes football",
+        "Where he lives",
+        "If he is hungry"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Do you like football?\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Do you like football?"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "How often does Ben play football?",
+      "options": [
+        "On Sundays",
+        "Every day",
+        "Never"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"I play every day.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "I play every day."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Did Ben run slowly?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Ben ran very fast\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Ben ran very fast"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "How many goals did Ben score?",
+      "options": [
+        "Two",
+        "One",
+        "Three"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"he scored two goals\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "he scored two goals"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"cheered\" means...",
+      "options": [
+        "went home",
+        "shouted happily",
+        "cried"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"His new friends cheered.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "His new friends cheered."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What did Ben eat at lunch?",
+      "options": [
+        "Noodles",
+        "Pizza",
+        "Spring rolls"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"He ate spring rolls\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "He ate spring rolls"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "What did Ben think about the food?",
+      "options": [
+        "He liked it",
+        "He did not like it",
+        "He was afraid of it"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"he thought they were tasty\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "he thought they were tasty"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did Minh teach Ben after school?",
+      "options": [
+        "Maths",
+        "Some words",
+        "Football"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Minh taught Ben some words.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Minh taught Ben some words."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "How did Ben feel at the end?",
+      "options": [
+        "Sad",
+        "Angry",
+        "Happy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Ben was not shy now.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Ben was not shy now."
+        }
+      ]
+    }
+  ]
+}

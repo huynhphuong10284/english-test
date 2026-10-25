@@ -1,0 +1,244 @@
+{
+  "id": "w-yl-m-my-town",
+  "title": "My Town",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise town words and prepositions, and write about your town.",
+  "instructions": "Do the exercises in Part 1. Then write about your town in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Town places",
+      "prompt": "Choose the correct word.",
+      "text": "🏥 You go to the ___ when you are ill.",
+      "options": [
+        "hospital",
+        "library",
+        "cinema"
+      ],
+      "answer": 0,
+      "explanation": "A hospital is where doctors help ill people.",
+      "points": 1
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "There is / there are",
+      "prompt": "Write is or are.",
+      "text": "There ___ a big park in my town.",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use \"there is\" with one thing.",
+      "points": 1
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Prepositions of place",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "the library",
+        "next to",
+        "the school"
+      ],
+      "answers": [
+        "The library is next to the school.",
+        "The school is next to the library."
+      ],
+      "explanation": "Thing + is + next to + thing.",
+      "points": 1
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "There are",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There is two cinemas in my town.",
+      "answers": [
+        "There are two cinemas in my town."
+      ],
+      "explanation": "Use \"there are\" with more than one thing.",
+      "points": 1
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the correct word.",
+      "text": "The bank is ___ the post office and the shop.",
+      "options": [
+        "under",
+        "between",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "\"Between\" means in the middle of two things.",
+      "points": 1
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Directions",
+      "prompt": "Write the missing word.",
+      "text": "Go ___ and turn left at the bridge. (s _ _ _ _ _ _ _)",
+      "answers": [
+        "straight"
+      ],
+      "explanation": "\"Go straight\" means do not turn.",
+      "points": 1
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "🚗 The road is ___ than our street.",
+      "options": [
+        "busy",
+        "busiest",
+        "busier"
+      ],
+      "answer": 2,
+      "explanation": "Busy becomes busier when we compare two things.",
+      "points": 1
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Present simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "to the market",
+        "we",
+        "on Sundays",
+        "go"
+      ],
+      "answers": [
+        "We go to the market on Sundays.",
+        "On Sundays we go to the market."
+      ],
+      "explanation": "Subject + verb + place + time.",
+      "points": 1
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My house is in front the school.",
+      "answers": [
+        "My house is in front of the school."
+      ],
+      "explanation": "We say \"in front of\".",
+      "points": 1
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Superlatives",
+      "prompt": "Choose the correct word.",
+      "text": "The tower is the ___ building in town.",
+      "options": [
+        "tallest",
+        "taller",
+        "tall"
+      ],
+      "answer": 0,
+      "explanation": "Use \"the + -est\" for the number one: the tallest.",
+      "points": 1
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Past simple: be",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "Last year there ___ no cinema here, but now there is. (be)",
+      "answers": [
+        "was"
+      ],
+      "explanation": "Use \"was\" with there + one thing in the past.",
+      "points": 1
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Has / have",
+      "prompt": "Choose the correct word.",
+      "text": "🛒 My town ___ got a big shopping centre.",
+      "options": [
+        "have",
+        "has",
+        "is"
+      ],
+      "answer": 1,
+      "explanation": "Use \"has got\" with it or a town.",
+      "points": 1
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Superlatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "my town",
+        "the",
+        "prettiest",
+        "in",
+        "park"
+      ],
+      "answers": [
+        "The prettiest park is in my town."
+      ],
+      "explanation": "Use \"the prettiest\" before the thing.",
+      "points": 1
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The bus is more fast than the bike.",
+      "answers": [
+        "The bus is faster than the bike."
+      ],
+      "explanation": "Short words add -er: faster.",
+      "points": 1
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Town: buy",
+      "prompt": "Write the missing word.",
+      "text": "We ___ bread at the baker's near my house.",
+      "answers": [
+        "buy",
+        "get"
+      ],
+      "explanation": "We buy food at shops.",
+      "points": 1
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your town.",
+    "contentPoints": [
+      "Say the name of your town.",
+      "Say what places there are.",
+      "Say what you like doing there."
+    ],
+    "minWords": 20,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "I live in ...",
+      "There is a ... / There are ...",
+      "It is next to ...",
+      "I like going to ...",
+      "My town is ..."
+    ],
+    "modelAnswer": "I live in Da Nang. It is a big and beautiful town. There is a long beach and there are two big parks. My school is next to a library. I like going to the beach with my family on Sundays."
+  }
+}

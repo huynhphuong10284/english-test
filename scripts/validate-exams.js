@@ -8,7 +8,16 @@ const { gradeWriting } = require('../src/main/writing-grader');
 const { Dictionary } = require('../src/main/dictionary');
 
 const dir = path.join(__dirname, '..', 'data');
-const ITEMS_PER_EXAM = 20; // questions per reading exam, exercises per writing exam
+// Questions per reading exam, exercises per writing exam. Young children get shorter exams.
+const ITEMS_PER_EXAM = 20;
+const YOUNG_LEARNER_ITEMS = { Starters: 10, Movers: 15, Flyers: 20 };
+
+function expectedItems(exam) {
+  if (exam.group !== 'Young Learners') return ITEMS_PER_EXAM;
+  const name = Object.keys(YOUNG_LEARNER_ITEMS).find((n) => exam.level.startsWith(n));
+  if (!name) throw new Error(`${exam.id}: Young Learners level must start with ${Object.keys(YOUNG_LEARNER_ITEMS).join(', ')}`);
+  return YOUNG_LEARNER_ITEMS[name];
+}
 
 // The perfect submission for an exam, using its answer key (and the model answer for writing).
 function perfectRun(exam) {
@@ -33,13 +42,15 @@ function reportMissingWords(exams) {
   const dictDir = path.join(dir, 'dictionary');
   let dictionary;
   try {
-    dictionary = new Dictionary(path.join(dictDir, 'wordnet.json'), path.join(dictDir, 'supplement.json'));
+    dictionary = new Dictionary(path.join(dictDir, 'wordnet.json'), path.join(dictDir, 'supplement.json'), path.join(dictDir, 'vi.json'));
     dictionary.load();
   } catch {
     console.log('\nDictionary not built yet: run "npm run build:dict" to check word coverage.');
     return;
   }
-  const missing = new Map();
+  const missing = new Map(); // no dictionary entry at all
+  const noVietnamese = new Map(); // base word -> exam ids, for words found but without a Vietnamese meaning
+  const note = (map, key, id) => map.set(key, [...(map.get(key) ?? []), id]);
   for (const exam of exams.values()) {
     const texts = exam.skill === 'writing' ? [exam.task.modelAnswer] : exam.paragraphs.map((p) => p.text);
     for (const text of texts) {
@@ -47,21 +58,32 @@ function reportMissingWords(exams) {
         const word = m[0];
         const before = text.slice(0, m.index).trimEnd();
         const nameLike = /^\p{Lu}/u.test(word) && before && !/[.!?:"]$/.test(before);
-        if (nameLike || dictionary.lookup(word).entries.length) continue;
-        missing.set(word.toLowerCase(), [...(missing.get(word.toLowerCase()) ?? []), exam.id]);
+        if (nameLike) continue;
+        const { entries } = dictionary.lookup(word);
+        if (!entries.length) note(missing, word.toLowerCase(), exam.id);
+        else if (!entries.some((e) => e.vi)) note(noVietnamese, entries[0].lemma, exam.id);
       }
     }
   }
-  if (missing.size === 0) return console.log('\nDictionary: every word in the exam texts can be looked up.');
-  console.log(`\nDictionary: ${missing.size} word(s) in exam texts have no entry (add useful ones to data/dictionary/supplement.json):`);
-  for (const [word, ids] of [...missing].sort()) console.log(`    ${word.padEnd(24)} ${[...new Set(ids)].join(', ')}`);
+  const list = (map) => [...map].sort().forEach(([word, ids]) => console.log(`    ${word.padEnd(24)} ${[...new Set(ids)].join(', ')}`));
+  if (missing.size === 0) console.log('\nDictionary: every word in the exam texts can be looked up.');
+  else {
+    console.log(`\nDictionary: ${missing.size} word(s) in exam texts have no entry (add useful ones to data/dictionary/supplement.json):`);
+    list(missing);
+  }
+  if (noVietnamese.size === 0) console.log('Vietnamese: every word in the exam texts has a Vietnamese meaning.');
+  else {
+    console.log(`\nVietnamese: ${noVietnamese.size} word(s) have no Vietnamese meaning yet (add them to data/dictionary/vi.json):`);
+    list(noVietnamese);
+  }
 }
 
 try {
   const exams = loadExams(dir);
   for (const exam of exams.values()) {
     const items = exam.skill === 'writing' ? exam.exercises.length : exam.questions.length;
-    if (items !== ITEMS_PER_EXAM) throw new Error(`${exam.id}: has ${items} ${exam.skill === 'writing' ? 'exercises' : 'questions'}, expected ${ITEMS_PER_EXAM}`);
+    const expected = expectedItems(exam);
+    if (items !== expected) throw new Error(`${exam.id}: has ${items} ${exam.skill === 'writing' ? 'exercises' : 'questions'}, expected ${expected}`);
     const result = perfectRun(exam);
     if (result.summary.percent !== 100) throw new Error(`${exam.id}: answer key does not grade to 100%`);
     console.log(`OK  ${exam.skill.padEnd(8)} ${exam.id.padEnd(40)} ${describe(exam, result)}`);
@@ -70,7 +92,7 @@ try {
 
   const counts = new Map();
   for (const exam of exams.values()) {
-    const key = `${exam.skill.padEnd(8)} ${exam.level}`;
+    const key = `${exam.skill.padEnd(8)} ${exam.group ?? 'General English'} · ${exam.level}`;
     counts.set(key, (counts.get(key) ?? 0) + 1);
   }
   for (const [key, n] of [...counts].sort()) console.log(`    ${key.padEnd(34)} ${n} exam(s)`);

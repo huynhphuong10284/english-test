@@ -1,0 +1,218 @@
+{
+  "id": "yl-s-colours-and-clothes",
+  "title": "Colours and Clothes",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Lucy and Tom get dressed for school.",
+  "instructions": "Read about Lucy's clothes. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "👗 Lucy is getting dressed for school. She looks at her clothes."
+    },
+    {
+      "id": "p2",
+      "text": "She has got a green skirt and a white T-shirt. They are her favourite clothes."
+    },
+    {
+      "id": "p3",
+      "text": "Her shoes are black. Her socks are pink. She has got a yellow hat too."
+    },
+    {
+      "id": "p4",
+      "text": "Lucy's brother Tom has got blue trousers and a red jumper. He is putting on his grey shoes."
+    },
+    {
+      "id": "p5",
+      "text": "Mum says, 'You look nice!' Lucy and Tom say, 'Thank you!' Now they are ready for school."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the story about?",
+      "options": [
+        "Lucy's birthday",
+        "Lucy getting dressed for school",
+        "Lucy's pet"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lucy is getting dressed for school.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Lucy is getting dressed for school."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What colour is Lucy's skirt?",
+      "options": [
+        "Red",
+        "Green",
+        "Blue"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lucy has got a green skirt.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "She has got a green skirt and a white T-shirt."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Is Lucy's T-shirt white?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, her T-shirt is white.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "She has got a green skirt and a white T-shirt."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 2, favourite means...",
+      "options": [
+        "the one you like best",
+        "the one you do not like",
+        "very old"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Favourite clothes are the clothes Lucy likes best.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They are her favourite clothes."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What colour are Lucy's socks?",
+      "options": [
+        "Black",
+        "White",
+        "Pink"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her socks are pink.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Her socks are pink."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Are Lucy's shoes red?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her shoes are black.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Her shoes are black."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What has Lucy got too?",
+      "options": [
+        "A yellow hat",
+        "A blue bag",
+        "A green coat"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She has got a yellow hat too.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She has got a yellow hat too."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Has Tom got a red jumper?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom has got blue trousers and a red jumper.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Lucy's brother Tom has got blue trousers and a red jumper."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Are Tom's shoes grey?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, he is putting on his grey shoes.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "He is putting on his grey shoes."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What does Mum say?",
+      "options": [
+        "'Go to bed!'",
+        "'Eat your lunch!'",
+        "'You look nice!'"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum says, 'You look nice!'",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Mum says, 'You look nice!'"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "id": "w-yl-m-a-day-at-the-funfair",
+  "title": "A Day at the Funfair",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise past simple and fun words, and write about a day at the funfair.",
+  "instructions": "Do the exercises in Part 1. Then write about a funfair day in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Funfair words",
+      "prompt": "Choose the correct word.",
+      "text": "🎡 We sat on the big ___ and saw the whole town.",
+      "options": [
+        "wheel",
+        "tent",
+        "boat"
+      ],
+      "answer": 0,
+      "explanation": "The big wheel goes round and up high.",
+      "points": 1
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: go",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "We ___ to the funfair on Saturday. (go)",
+      "answers": [
+        "went"
+      ],
+      "explanation": "\"Go\" is irregular. The past is \"went\".",
+      "points": 1
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the roller coaster",
+        "Tom",
+        "rode",
+        "on"
+      ],
+      "answers": [
+        "Tom rode on the roller coaster."
+      ],
+      "explanation": "Subject + rode + on + thing.",
+      "points": 1
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Past simple: irregular",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Lucy buyed a big ice cream.",
+      "answers": [
+        "Lucy bought a big ice cream."
+      ],
+      "explanation": "\"Buy\" is irregular. The past is \"bought\".",
+      "points": 1
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "The roller coaster was ___ than the train.",
+      "options": [
+        "scary",
+        "scarier",
+        "scariest"
+      ],
+      "answer": 1,
+      "explanation": "Scary becomes scarier when we compare two things.",
+      "points": 1
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Past simple: be",
+      "prompt": "Choose the correct word.",
+      "text": "🎠 The music ___ loud and everybody was happy.",
+      "options": [
+        "were",
+        "is",
+        "was"
+      ],
+      "answer": 2,
+      "explanation": "Use \"was\" with one thing in the past.",
+      "points": 1
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "Superlatives",
+      "prompt": "Write the missing word.",
+      "text": "This is the ___ ride in the funfair. (fast)",
+      "answers": [
+        "fastest"
+      ],
+      "explanation": "Add -est for the number one: the fastest.",
+      "points": 1
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Past simple negative",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "was",
+        "not",
+        "the queue",
+        "long"
+      ],
+      "answers": [
+        "The queue was not long."
+      ],
+      "explanation": "Subject + was not + adjective.",
+      "points": 1
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Past simple negative",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We didn't saw the clown.",
+      "answers": [
+        "We didn't see the clown.",
+        "We did not see the clown."
+      ],
+      "explanation": "After \"didn't\" use the base verb: see.",
+      "points": 1
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Past simple questions",
+      "prompt": "Choose the correct word.",
+      "text": "___ you have fun at the funfair?",
+      "options": [
+        "Did",
+        "Do",
+        "Were"
+      ],
+      "answer": 0,
+      "explanation": "Use \"Did\" to ask a question about the past.",
+      "points": 1
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Adverbs",
+      "prompt": "Write the missing word.",
+      "text": "We laughed ___ on the bumper cars. (loud)",
+      "answers": [
+        "loudly"
+      ],
+      "explanation": "Add -ly to say how: loudly.",
+      "points": 1
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the correct word.",
+      "text": "We met our friends ___ the gate at ten o'clock.",
+      "options": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer": 1,
+      "explanation": "We say \"at the gate\".",
+      "points": 1
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "popcorn",
+        "ate",
+        "Anna",
+        "and",
+        "Ben"
+      ],
+      "answers": [
+        "Anna and Ben ate popcorn.",
+        "Ben and Anna ate popcorn."
+      ],
+      "explanation": "Subjects + past verb + thing.",
+      "points": 1
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Plurals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We saw two clowns and three childs.",
+      "answers": [
+        "We saw two clowns and three children."
+      ],
+      "explanation": "The plural of child is children.",
+      "points": 1
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Past simple: win",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "Nam ___ a big teddy bear in the game. (win)",
+      "answers": [
+        "won"
+      ],
+      "explanation": "\"Win\" is irregular. The past is \"won\".",
+      "points": 1
+    }
+  ],
+  "task": {
+    "genre": "Short story",
+    "prompt": "Write about a day at the funfair.",
+    "contentPoints": [
+      "Say who you went with.",
+      "Say what you did.",
+      "Say what you ate.",
+      "Say how you felt."
+    ],
+    "minWords": 20,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "Last Saturday I went to ...",
+      "We rode on ...",
+      "I ate ...",
+      "It was ...",
+      "I felt ..."
+    ],
+    "modelAnswer": "Last Saturday I went to the funfair with my cousin Hoa. We rode on the big wheel and the bumper cars. Then we ate popcorn and ice cream. The roller coaster was very scary but fun. It was a great day!"
+  }
+}

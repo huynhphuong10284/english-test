@@ -1,0 +1,323 @@
+{
+  "id": "w-yl-f-how-to-make-a-sandwich",
+  "title": "How to Make a Sandwich",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise instructions and joining words, then explain how to make a sandwich.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Sequence words",
+      "prompt": "Choose the correct word.",
+      "text": "🥪 ___ , get two slices of bread.",
+      "options": [
+        "Finally",
+        "First",
+        "Last",
+        "Then"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "We use \"First\" to start the instructions."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Imperatives",
+      "prompt": "Write one word in the gap.",
+      "text": "Please ___ your hands before you cook.",
+      "answers": [
+        "wash"
+      ],
+      "points": 1,
+      "explanation": "Instructions use the base verb: wash your hands."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Imperatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the",
+        "butter",
+        "bread",
+        "Spread",
+        "on",
+        "the"
+      ],
+      "answers": [
+        "Spread the butter on the bread."
+      ],
+      "points": 1,
+      "explanation": "Start with the verb: Spread the butter on the bread."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Countable / uncountable",
+      "prompt": "Choose the correct word.",
+      "text": "🧀 Can I have ___ cheese, please?",
+      "options": [
+        "a",
+        "an",
+        "some",
+        "many"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Cheese is uncountable, so we use \"some\"."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Imperatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Cuts the tomato into thin slices.",
+      "answers": [
+        "Cut the tomato into thin slices."
+      ],
+      "points": 1,
+      "explanation": "In instructions we use the base verb: Cut, not Cuts."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Should",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "It is a good idea to use fresh bread.",
+      "keyword": "SHOULD",
+      "answers": [
+        "You should use fresh bread."
+      ],
+      "points": 1,
+      "explanation": "\"Should\" + base verb gives advice: You should use fresh bread."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Sequence words",
+      "prompt": "Choose the correct word.",
+      "text": "Put the cheese on the bread. ___ , add the lettuce.",
+      "options": [
+        "Before",
+        "Then",
+        "Because",
+        "Or"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Then\" shows the next step."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write one word in the gap.",
+      "text": "A knife is a thing ___ we use to cut food.",
+      "answers": [
+        "which",
+        "that"
+      ],
+      "points": 1,
+      "explanation": "Use \"which\" or \"that\" for things."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Linking words",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "too",
+        "hot",
+        "The",
+        "soup",
+        "eat",
+        "to"
+      ],
+      "answers": [
+        "The soup is too hot to eat."
+      ],
+      "points": 1,
+      "explanation": "too + adjective + to + verb: too hot to eat."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Quantifiers",
+      "prompt": "Choose the correct word.",
+      "text": "🍅 We haven't got ___ tomatoes today.",
+      "options": [
+        "some",
+        "any",
+        "a",
+        "much"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"any\" in negative sentences with plural nouns."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My sandwich is more big than yours.",
+      "answers": [
+        "My sandwich is bigger than yours."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives take -er: bigger than."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "First conditional",
+      "prompt": "Write one word in the gap.",
+      "text": "If you add too much butter, the bread ___ too oily. (be)",
+      "answers": [
+        "will be",
+        "will get",
+        "will become"
+      ],
+      "points": 1,
+      "explanation": "If + present simple, then will + verb."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the correct word.",
+      "text": "Put the sandwich ___ a plate.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "We put things on a plate."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Comparatives",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "This sandwich is bigger than that one.",
+      "keyword": "SMALLER",
+      "answers": [
+        "That sandwich is smaller than this one.",
+        "That one is smaller than this sandwich."
+      ],
+      "points": 1,
+      "explanation": "Swap the two things and change bigger to smaller."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Present perfect",
+      "prompt": "Write one word in the gap.",
+      "text": "Look! I ___ just made a sandwich. (have)",
+      "answers": [
+        "have",
+        "'ve"
+      ],
+      "points": 1,
+      "explanation": "Use have + just + past participle: I have just made."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Giving advice",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "wash",
+        "you",
+        "should",
+        "the",
+        "lettuce"
+      ],
+      "answers": [
+        "You should wash the lettuce."
+      ],
+      "points": 1,
+      "explanation": "Subject + should + base verb: You should wash the lettuce."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct word.",
+      "text": "When Dad came in, I ___ a sandwich.",
+      "options": [
+        "make",
+        "made",
+        "was making",
+        "am making"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use the past continuous for an action in progress: was making."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Adverbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Cut the bread careful.",
+      "answers": [
+        "Cut the bread carefully."
+      ],
+      "points": 1,
+      "explanation": "An adverb tells us how: carefully, not careful."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Going to",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "Mia plans to make a cheese sandwich.",
+      "keyword": "GOING",
+      "answers": [
+        "Mia is going to make a cheese sandwich."
+      ],
+      "points": 1,
+      "explanation": "Use is going to + base verb for a plan."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write one word in the gap.",
+      "text": "Linh is the girl ___ made the sandwiches.",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "points": 1,
+      "explanation": "Use \"who\" or \"that\" for people."
+    }
+  ],
+  "task": {
+    "genre": "Instructions",
+    "prompt": "Your friend wants to make a sandwich. Write how to make your favourite sandwich.",
+    "contentPoints": [
+      "Say what you need.",
+      "Write the steps in order.",
+      "Give one piece of advice."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "You need ...",
+      "First, ...",
+      "Then, ...",
+      "Finally, ...",
+      "You should ..."
+    ],
+    "modelAnswer": "How to make a cheese sandwich\n\nYou need two slices of bread, some butter, cheese and a tomato.\n\nFirst, spread the butter on the bread. Then put the cheese and the tomato on one slice. Next, put the other slice on top. Finally, cut the sandwich in half.\n\nYou should wash the tomato first. Enjoy your sandwich!"
+  }
+}

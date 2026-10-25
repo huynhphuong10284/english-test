@@ -19,6 +19,7 @@ function validateCommon(exam, fail) {
   if (!exam.id) fail('missing "id"');
   if (!exam.title) fail('missing "title"');
   if (!exam.level) fail('missing "level"');
+  if (exam.group !== undefined && (typeof exam.group !== 'string' || !exam.group)) fail('"group" must be a non-empty string when given');
 }
 
 function validateExam(exam, file) {
@@ -141,6 +142,7 @@ function toPublicExam(exam) {
     skill: exam.skill,
     title: exam.title,
     level: exam.level,
+    group: exam.group,
     description: exam.description,
     instructions: exam.instructions
   };

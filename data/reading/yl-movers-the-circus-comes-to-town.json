@@ -1,0 +1,320 @@
+{
+  "id": "yl-m-the-circus-comes-to-town",
+  "title": "The Circus Comes to Town",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Mai goes to the circus with her family.",
+  "instructions": "Read about Mai at the circus. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🎪 Last Saturday, a circus came to Mai's town. There was a big red and yellow tent near the river."
+    },
+    {
+      "id": "p2",
+      "text": "Mai went to the circus with her grandmother and her cousin Sam. The show started at seven o'clock."
+    },
+    {
+      "id": "p3",
+      "text": "First, three clowns came in. One clown had a very big nose and funny green shoes. Everybody laughed."
+    },
+    {
+      "id": "p4",
+      "text": "Then a girl walked on a rope high above the ground. Mai was scared and she closed her eyes. Her grandmother held her hand."
+    },
+    {
+      "id": "p5",
+      "text": "After that, there were four elephants. They danced to the music and one elephant played with a ball. Sam took lots of photos."
+    },
+    {
+      "id": "p6",
+      "text": "At the end, the clowns gave sweets to all the children. Mai got a red lollipop. On the way home, she said, 'It was the most exciting night of my life!'"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A night at the circus",
+        "A day at the zoo",
+        "A football match"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"a circus came to Mai's town\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "a circus came to Mai's town"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "When did the circus come to town?",
+      "options": [
+        "Last Sunday",
+        "Last Saturday",
+        "Last Friday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Last Saturday, a circus came to Mai's town.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last Saturday, a circus came to Mai's town."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What colour was the tent?",
+      "options": [
+        "Blue and white",
+        "Green and black",
+        "Red and yellow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"a big red and yellow tent\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "a big red and yellow tent"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Where was the tent?",
+      "options": [
+        "Near the river",
+        "Near the school",
+        "Near the market"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"near the river\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "near the river"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Who did Mai go with?",
+      "options": [
+        "Her mum and dad",
+        "Her grandmother and her cousin",
+        "Her teacher"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Mai went to the circus with her grandmother and her cousin Sam.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Mai went to the circus with her grandmother and her cousin Sam."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What time did the show start?",
+      "options": [
+        "At six o'clock",
+        "At eight o'clock",
+        "At seven o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"The show started at seven o'clock.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The show started at seven o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "How many clowns came in first?",
+      "options": [
+        "Three",
+        "Two",
+        "Four"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"three clowns came in\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "three clowns came in"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did one clown have?",
+      "options": [
+        "A red hat",
+        "A very big nose",
+        "A blue coat"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"One clown had a very big nose and funny green shoes.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "One clown had a very big nose and funny green shoes."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "🤡 Did everybody laugh at the clowns?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Everybody laughed.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Everybody laughed."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did the girl walk on?",
+      "options": [
+        "A rope",
+        "A ball",
+        "A horse"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"a girl walked on a rope high above the ground\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "a girl walked on a rope high above the ground"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "Why did Mai close her eyes?",
+      "options": [
+        "She was sleepy",
+        "She was scared",
+        "She was happy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Mai was scared and she closed her eyes.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Mai was scared and she closed her eyes."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "Who held Mai's hand?",
+      "options": [
+        "Sam",
+        "A clown",
+        "Her grandmother"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Her grandmother held her hand.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Her grandmother held her hand."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What did one elephant play with?",
+      "options": [
+        "A ball",
+        "A drum",
+        "A hat"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"one elephant played with a ball\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "one elephant played with a ball"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"exciting\" means...",
+      "options": [
+        "very boring",
+        "very interesting and fun",
+        "very quiet"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"It was the most exciting night of my life!\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "It was the most exciting night of my life!"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "What did Mai get at the end?",
+      "options": [
+        "A balloon",
+        "A toy",
+        "A red lollipop"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Mai got a red lollipop.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Mai got a red lollipop."
+        }
+      ]
+    }
+  ]
+}

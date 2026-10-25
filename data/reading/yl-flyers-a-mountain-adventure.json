@@ -1,0 +1,428 @@
+{
+  "id": "yl-f-a-mountain-adventure",
+  "title": "A Mountain Adventure",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Minh and An climb a mountain with their father.",
+  "instructions": "Read about the mountain adventure. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "⛰️ Last August, Minh and his sister An went camping in the mountains with their father. They had never climbed a mountain before, so they were a little nervous. Dad said, 'Don't worry. We will go slowly and take lots of rests.'"
+    },
+    {
+      "id": "p2",
+      "text": "They started walking at seven o'clock in the morning. The path went through a forest, where the trees were so tall that the sun could hardly get through. They heard birds singing and saw a small deer drinking water from a stream."
+    },
+    {
+      "id": "p3",
+      "text": "After three hours, it became colder and windy. An put on her warm jacket, but Minh had left his at the camp! Dad gave him his scarf and hat. 'You should always check your bag before a long walk,' he said."
+    },
+    {
+      "id": "p4",
+      "text": "At noon, they sat on a big rock and ate their lunch: sandwiches, apples and boiled eggs. A friendly mountain guide called Mr Hung walked past, and he told them about the weather. 'If you want to reach the top before dark, you should leave now,' he said."
+    },
+    {
+      "id": "p5",
+      "text": "The last part of the walk was the hardest. The path was steep and covered in stones, and Minh's legs were tired. An held his hand and said, 'We are nearly there!' After one more hour, they reached the top."
+    },
+    {
+      "id": "p6",
+      "text": "The view was incredible. They could see green valleys, a blue lake and clouds below their feet. It felt like standing in the sky. Dad took a photo of the three of them, and they shouted happily."
+    },
+    {
+      "id": "p7",
+      "text": "That night, they slept in a small tent and looked at the stars, which were brighter than in the city. Minh said, 'This is the best adventure of my life.' In the morning, they walked down, and next year they are going to climb a higher mountain."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A school trip to the sea",
+        "A day in the city",
+        "A family's walk up a mountain"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Last August, Minh and his sister An went camping in the mountains with their father.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last August, Minh and his sister An went camping in the mountains with their father."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Why were the children a little nervous?",
+      "options": [
+        "They had never climbed a mountain before.",
+        "They were afraid of animals.",
+        "They did not like camping."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"They had never climbed a mountain before, so they were a little nervous.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They had never climbed a mountain before, so they were a little nervous."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What did Dad say?",
+      "options": [
+        "They would go slowly and rest a lot.",
+        "They would run to the top.",
+        "They would sleep all day.",
+        "They would go home soon."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"We will go slowly and take lots of rests.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "We will go slowly and take lots of rests."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What time did they start walking?",
+      "options": [
+        "At six o'clock",
+        "At nine o'clock",
+        "At seven o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"They started walking at seven o'clock in the morning.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They started walking at seven o'clock in the morning."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Where did the path go?",
+      "options": [
+        "Along a river",
+        "Across a lake",
+        "Through a forest",
+        "Through a village"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"The path went through a forest\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The path went through a forest"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"stream\" means...",
+      "options": [
+        "a tall tree",
+        "a small river",
+        "a big rock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"saw a small deer drinking water from a stream\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "saw a small deer drinking water from a stream"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What animal did they see?",
+      "options": [
+        "A big bear",
+        "A monkey",
+        "A small deer"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"saw a small deer drinking water from a stream\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "saw a small deer drinking water from a stream"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "When did it become colder and windy?",
+      "options": [
+        "At noon",
+        "After three hours",
+        "In the evening",
+        "Before breakfast"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"After three hours, it became colder and windy.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "After three hours, it became colder and windy."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What had Minh left at the camp?",
+      "options": [
+        "His bag",
+        "His jacket",
+        "His lunch"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"His\" means his warm jacket. An put on her warm jacket, but Minh left his at the camp.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "but Minh had left his at the camp!"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did Dad give Minh?",
+      "options": [
+        "A jacket",
+        "Some gloves",
+        "A blanket",
+        "A scarf and a hat"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"Dad gave him his scarf and hat.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Dad gave him his scarf and hat."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "Why did Dad say, \"You should always check your bag\"?",
+      "options": [
+        "Minh forgot his jacket.",
+        "The bag was too heavy.",
+        "An lost her hat."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Minh did not have his jacket, so Dad wanted him to check his bag next time.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "You should always check your bag before a long walk,"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What did they eat for lunch?",
+      "options": [
+        "Rice and fish",
+        "Sandwiches, apples and boiled eggs",
+        "Noodles and fruit",
+        "Pizza and cake"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"sandwiches, apples and boiled eggs\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "sandwiches, apples and boiled eggs"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "Who is Mr Hung?",
+      "options": [
+        "A teacher",
+        "Their uncle",
+        "A mountain guide"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"A friendly mountain guide called Mr Hung walked past\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "A friendly mountain guide called Mr Hung walked past"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did Mr Hung say they should do?",
+      "options": [
+        "Leave soon to reach the top before dark",
+        "Go back down",
+        "Stay on the rock all day"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"If you want to reach the top before dark, you should leave now\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "If you want to reach the top before dark, you should leave now"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"steep\" means...",
+      "options": [
+        "going up very quickly",
+        "flat and easy",
+        "wet and cold",
+        "very long"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"The path was steep and covered in stones\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The path was steep and covered in stones"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "Who held Minh's hand?",
+      "options": [
+        "Dad",
+        "Mr Hung",
+        "An"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"An held his hand and said, 'We are nearly there!'\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "An held his hand and said, 'We are nearly there!'"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "How long did it take to reach the top after that?",
+      "options": [
+        "One more hour",
+        "Ten minutes",
+        "Three hours"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"After one more hour, they reached the top.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "After one more hour, they reached the top."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What could they see from the top?",
+      "options": [
+        "A big city",
+        "The sea and some ships",
+        "Houses and farms",
+        "Green valleys, a blue lake and clouds"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"They could see green valleys, a blue lake and clouds below their feet.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "They could see green valleys, a blue lake and clouds below their feet."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "How did Minh feel at the end of the trip?",
+      "options": [
+        "Bored",
+        "Afraid",
+        "Very happy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If it was the best adventure of his life, he was very happy.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "This is the best adventure of my life."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "What are they going to do next year?",
+      "options": [
+        "Stay at home",
+        "Climb a higher mountain",
+        "Go to the sea",
+        "Sleep in a hotel"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"next year they are going to climb a higher mountain\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "next year they are going to climb a higher mountain"
+        }
+      ]
+    }
+  ]
+}

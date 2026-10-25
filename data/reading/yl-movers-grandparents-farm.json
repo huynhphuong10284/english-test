@@ -1,0 +1,320 @@
+{
+  "id": "yl-m-grandparents-farm",
+  "title": "Grandparents' Farm",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "An spends ten happy days on his grandparents' farm.",
+  "instructions": "Read about An's days on the farm. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🐄 Last July, An visited his grandparents' farm. It was far from the city, so he went there by train. He stayed for ten days."
+    },
+    {
+      "id": "p2",
+      "text": "Early in the morning, Grandpa woke An up at six o'clock. They fed the chickens and the ducks. An found five eggs under a chicken."
+    },
+    {
+      "id": "p3",
+      "text": "Grandma was a very good cook. She made soup with vegetables from the garden. An thought it was the best soup in the world."
+    },
+    {
+      "id": "p4",
+      "text": "🐴 In the afternoon, An rode Grandpa's old brown horse. Its name was Lucky. At first, An was afraid, but then he enjoyed it."
+    },
+    {
+      "id": "p5",
+      "text": "One day, a baby cow was born. An helped Grandpa give it some milk. They called it Daisy."
+    },
+    {
+      "id": "p6",
+      "text": "In the evening, they sat outside and looked at the stars. There were no city lights, so the stars were very bright. An did not want to go home."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "An's visit to his grandparents' farm",
+        "An's school day",
+        "A trip to the zoo"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text tells us about An's days on the farm.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last July, An visited his grandparents' farm."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How did An go to the farm?",
+      "options": [
+        "By bus",
+        "By boat",
+        "By train"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "An went there by train.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "he went there by train"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How long did An stay?",
+      "options": [
+        "Two days",
+        "Ten days",
+        "Two weeks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He stayed for ten days.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "He stayed for ten days."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What time did Grandpa wake An up?",
+      "options": [
+        "At six o'clock",
+        "At nine o'clock",
+        "At eight o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Grandpa woke An up at six o'clock.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Grandpa woke An up at six o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What did they feed?",
+      "options": [
+        "The cows and the horse",
+        "The cats and the dogs",
+        "The chickens and the ducks"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They fed the chickens and the ducks.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They fed the chickens and the ducks."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Did An find ten eggs?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "An found five eggs.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "An found five eggs under a chicken."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What did Grandma make?",
+      "options": [
+        "Soup with vegetables",
+        "A big cake",
+        "Fish and chips"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Grandma made soup with vegetables.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She made soup with vegetables from the garden."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Where did the vegetables come from?",
+      "options": [
+        "The shop",
+        "The city",
+        "The garden"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They came from the garden.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "vegetables from the garden"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What colour was the horse?",
+      "options": [
+        "White",
+        "Brown",
+        "Black"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Grandpa's horse was old and brown.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "An rode Grandpa's old brown horse."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What was the horse's name?",
+      "options": [
+        "Lucky",
+        "Daisy",
+        "Milo"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Its name was Lucky.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Its name was Lucky."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"afraid\" means...",
+      "options": [
+        "angry",
+        "hungry",
+        "scared"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Afraid means scared.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "At first, An was afraid, but then he enjoyed it."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What was the baby cow called?",
+      "options": [
+        "Lucky",
+        "Daisy",
+        "Grandma"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They called it Daisy.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "They called it Daisy."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What did An and Grandpa give the baby cow?",
+      "options": [
+        "Some milk",
+        "Some soup",
+        "Some eggs"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They gave it some milk.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "An helped Grandpa give it some milk."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Why were the stars very bright?",
+      "options": [
+        "It was a sunny day",
+        "There was a big moon",
+        "There were no city lights"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "There were no city lights.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "There were no city lights, so the stars were very bright."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "How did An feel at the end?",
+      "options": [
+        "Happy to go home",
+        "Sad to leave the farm",
+        "Angry with Grandpa"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "An did not want to go home, so he was sad to leave.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "An did not want to go home."
+        }
+      ]
+    }
+  ]
+}

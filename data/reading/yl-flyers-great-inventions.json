@@ -1,0 +1,424 @@
+{
+  "id": "yl-f-great-inventions",
+  "title": "Great Inventions",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "A short text about inventions that changed our lives.",
+  "instructions": "Read the text about great inventions. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "💡 An invention is something new that someone makes for the first time. Some inventions are small, but they change our lives. Let's find out about four great ones."
+    },
+    {
+      "id": "p2",
+      "text": "The first one is the light bulb. Before it was invented, people used candles and lamps, which were not very bright. In 1879, Thomas Edison made a light bulb that could shine for a long time."
+    },
+    {
+      "id": "p3",
+      "text": "The second is the telephone. Alexander Graham Bell made the first telephone in 1876. Before that, if you wanted to speak to a friend in another town, you had to write a letter or visit him."
+    },
+    {
+      "id": "p4",
+      "text": "The third is the aeroplane. In 1903, the Wright brothers flew a plane for the first time. It stayed in the air for only twelve seconds. Today, planes carry millions of people across the world every day."
+    },
+    {
+      "id": "p5",
+      "text": "The fourth is the computer. The first computers were so big that they filled a whole room! Now we have small computers in our pockets, which can take photos, play music and help us with homework."
+    },
+    {
+      "id": "p6",
+      "text": "Not all inventions were made by famous people. A girl called Becky made a pair of gloves with lights when she was ten years old. She wanted to help people to ride bicycles safely in the dark."
+    },
+    {
+      "id": "p7",
+      "text": "Inventors usually fail many times before they succeed. Edison said, 'I haven't failed. I've just found ten thousand ways that won't work.' He never gave up, and that is why he is famous."
+    },
+    {
+      "id": "p8",
+      "text": "What would you like to invent? Maybe you can make a robot that cleans your room, or a bag that carries itself. If you have a good idea, you should write it down today!"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Famous people from history",
+        "Inventions that changed our lives",
+        "How to build a plane"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text tells us about great inventions.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Some inventions are small, but they change our lives."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "vocabulary",
+      "text": "What is an invention?",
+      "options": [
+        "Something new that someone makes for the first time",
+        "An old thing from a museum",
+        "A kind of lamp"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "An invention is something new that someone makes.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "An invention is something new that someone makes for the first time."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What did people use before the light bulb?",
+      "options": [
+        "Candles and lamps",
+        "Torches",
+        "Mobile phones"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They used candles and lamps.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "people used candles and lamps"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Who made a light bulb that could shine for a long time?",
+      "options": [
+        "Thomas Edison",
+        "Alexander Bell",
+        "The Wright brothers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Thomas Edison made it in 1879.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Thomas Edison made a light bulb that could shine for a long time."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "When did Edison make his light bulb?",
+      "options": [
+        "In 1876",
+        "In 1879",
+        "In 1903"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He made it in 1879.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In 1879"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Who made the first telephone?",
+      "options": [
+        "Thomas Edison",
+        "The Wright brothers",
+        "Alexander Graham Bell"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Alexander Graham Bell made it in 1876.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Alexander Graham Bell made the first telephone in 1876."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Before the telephone, how could you speak to a friend in another town?",
+      "options": [
+        "Write a letter or visit him",
+        "Send an email",
+        "Send a message by phone"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "You had to write a letter or visit him.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "you had to write a letter or visit him"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Who flew a plane for the first time in 1903?",
+      "options": [
+        "The Wright brothers",
+        "Bell and Edison",
+        "Becky and her dad"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The Wright brothers flew in 1903.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "the Wright brothers flew a plane for the first time"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "How long did the first plane stay in the air?",
+      "options": [
+        "Twelve seconds",
+        "Twelve minutes",
+        "Twelve hours"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It stayed in the air for twelve seconds.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It stayed in the air for only twelve seconds."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What do planes do today?",
+      "options": [
+        "They carry millions of people every day.",
+        "They fly only to the Moon.",
+        "They stay on the ground."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Planes carry millions of people across the world.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "planes carry millions of people across the world every day"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "How big were the first computers?",
+      "options": [
+        "Very small",
+        "They filled a whole room.",
+        "As big as a phone"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The first computers filled a whole room.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "they filled a whole room!"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What can small computers do today?",
+      "options": [
+        "Only play music",
+        "Take photos, play music and help with homework",
+        "Only make phone calls"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They can do many things.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "which can take photos, play music and help us with homework"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "How old was Becky when she made her gloves?",
+      "options": [
+        "Ten",
+        "Twelve",
+        "Fifteen"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She was ten years old.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "when she was ten years old"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What was special about Becky's gloves?",
+      "options": [
+        "They had lights.",
+        "They were very warm.",
+        "They were pink."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The gloves had lights.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "a pair of gloves with lights"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "purpose",
+      "text": "Why did Becky make the gloves?",
+      "options": [
+        "To win a prize",
+        "To help people ride safely in the dark",
+        "To sell them"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She wanted to help people ride bicycles safely in the dark.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "She wanted to help people to ride bicycles safely in the dark."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "What do inventors usually do before they succeed?",
+      "options": [
+        "They fail many times.",
+        "They sleep a lot.",
+        "They stop at once."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Inventors usually fail many times first.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Inventors usually fail many times before they succeed."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What did Edison think about failing?",
+      "options": [
+        "It means you should stop.",
+        "It helps you find what does not work.",
+        "It is bad luck."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He found ways that did not work.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "I've just found ten thousand ways that won't work."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "Why is Edison famous?",
+      "options": [
+        "He never gave up.",
+        "He was very rich.",
+        "He was a teacher."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says he never gave up.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "He never gave up, and that is why he is famous."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What does the writer say you should do if you have a good idea?",
+      "options": [
+        "Forget it",
+        "Write it down today",
+        "Ask a robot"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer says to write it down today.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "you should write it down today!"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "What invention does the writer give as an idea?",
+      "options": [
+        "A car that flies",
+        "A robot that cleans your room",
+        "A phone that sings"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer suggests a robot that cleans your room.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "a robot that cleans your room"
+        }
+      ]
+    }
+  ]
+}

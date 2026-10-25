@@ -1,0 +1,320 @@
+{
+  "id": "yl-m-a-snowy-day",
+  "title": "A Snowy Day",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Tom and Lucy have fun in the snow.",
+  "instructions": "Read about Tom and Lucy. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "⛄ When Tom woke up on Tuesday, he looked out of the window. Everything was white! It snowed all night."
+    },
+    {
+      "id": "p2",
+      "text": "There was no school because the roads were icy. Tom was very happy. He put on his warm coat, hat, scarf and gloves."
+    },
+    {
+      "id": "p3",
+      "text": "In the garden, Tom and his sister Lucy made a big snowman. They used two stones for his eyes and a carrot for his nose. Lucy gave him her blue scarf."
+    },
+    {
+      "id": "p4",
+      "text": "Then they went to the hill near their house. They went down the hill on a red sledge. It was fast and they shouted, 'Wheee!'"
+    },
+    {
+      "id": "p5",
+      "text": "After an hour, their hands were cold and their noses were red. They went home and Mum made hot soup. 'Take off your wet shoes first,' she said."
+    },
+    {
+      "id": "p6",
+      "text": "In the afternoon, the sun came out. The snow started to melt. By evening, the snowman was small, but Tom and Lucy were not sad. 'We can make a new one tomorrow,' said Lucy."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Tom and Lucy have fun in the snow",
+        "A hot summer day",
+        "A day at school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Everything was white! It snowed all night.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Everything was white! It snowed all night."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What did Tom see out of the window?",
+      "options": [
+        "Everything was green",
+        "Everything was white",
+        "The sun and blue sky"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Everything was white!\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Everything was white!"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "When did it snow?",
+      "options": [
+        "All morning",
+        "In the afternoon",
+        "All night"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"It snowed all night.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It snowed all night."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "⛄ Was there school on Tuesday?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"There was no school because the roads were icy.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "There was no school because the roads were icy."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"icy\" means...",
+      "options": [
+        "very hot",
+        "covered with ice",
+        "very dark"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"the roads were icy\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "the roads were icy"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What did Tom put on?",
+      "options": [
+        "Sunglasses",
+        "A swimsuit",
+        "A warm coat"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"He put on his warm coat, hat, scarf and gloves.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He put on his warm coat, hat, scarf and gloves."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What did Tom and Lucy make in the garden?",
+      "options": [
+        "A big snowman",
+        "A paper kite",
+        "A small house"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Tom and his sister Lucy made a big snowman.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Tom and his sister Lucy made a big snowman."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did they use for the snowman's nose?",
+      "options": [
+        "A stone",
+        "A carrot",
+        "A stick"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"a carrot for his nose\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "a carrot for his nose"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Whose scarf did the snowman get?",
+      "options": [
+        "Tom's red scarf",
+        "Mum's green scarf",
+        "Lucy's blue scarf"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Lucy gave him her blue scarf.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Lucy gave him her blue scarf."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Where did they go next?",
+      "options": [
+        "To the hill",
+        "To the shop",
+        "To school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Then they went to the hill near their house.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Then they went to the hill near their house."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What did they go down the hill on?",
+      "options": [
+        "A bike",
+        "A red sledge",
+        "A skateboard"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"They went down the hill on a red sledge.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "They went down the hill on a red sledge."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "How did Tom and Lucy feel on the sledge?",
+      "options": [
+        "Afraid",
+        "Bored",
+        "Happy and excited"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"It was fast and they shouted, 'Wheee!'\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It was fast and they shouted, 'Wheee!'"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What did Mum make?",
+      "options": [
+        "Hot soup",
+        "A cake",
+        "A pizza"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Mum made hot soup.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Mum made hot soup."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did Mum say to do first?",
+      "options": [
+        "Wash the dishes",
+        "Take off wet shoes",
+        "Go to bed"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Take off your wet shoes first,\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Take off your wet shoes first,"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why did the snowman get small?",
+      "options": [
+        "Lucy took it away",
+        "The wind was strong",
+        "The sun came out and the snow melted"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"The snow started to melt.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The snow started to melt."
+        }
+      ]
+    }
+  ]
+}

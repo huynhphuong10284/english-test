@@ -1,0 +1,426 @@
+{
+  "id": "yl-f-dinosaurs",
+  "title": "Dinosaurs",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Nam and Linh visit a dinosaur museum with their class.",
+  "instructions": "Read about the trip to the Dinosaur Museum. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🦕 Last Saturday, Nam and his sister Linh went to the Dinosaur Museum with their class. They were very excited because they love dinosaurs. Their teacher, Mr Brown, gave everyone a map."
+    },
+    {
+      "id": "p2",
+      "text": "In the first room, there was a huge skeleton of a Diplodocus. It was twenty-seven metres long, and its neck was very long. It ate only plants. Linh said, 'It is as long as three buses!'"
+    },
+    {
+      "id": "p3",
+      "text": "The next room was Nam's favourite. It had a model of a Tyrannosaurus rex, which had sharp teeth and very small arms. Scientists think it could run quite fast. Nam took a photo next to its big feet."
+    },
+    {
+      "id": "p4",
+      "text": "After that, they went to a room where children could look for fossils. A fossil is a part of an animal that died millions of years ago and turned into stone. Linh found a small fossil of a shell. She was very happy."
+    },
+    {
+      "id": "p5",
+      "text": "At twelve o'clock, they had lunch in the garden. Mia, Nam's friend, asked, 'Why did the dinosaurs disappear?' Mr Brown said, 'Many scientists think a big rock hit the Earth. The weather changed, and the dinosaurs could not find enough food.'"
+    },
+    {
+      "id": "p6",
+      "text": "Before they went home, they visited the shop. Nam bought a book about dinosaurs, and Linh bought a green toy Stegosaurus."
+    },
+    {
+      "id": "p7",
+      "text": "On the bus, Nam said, 'When I grow up, I am going to be a scientist. I will look for new dinosaur bones!' Linh laughed and said, 'I might help you.' It was a great day."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A school trip to a dinosaur museum",
+        "A day at the beach",
+        "A visit to a zoo"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Nam and his sister Linh went to the Dinosaur Museum with their class.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Nam and his sister Linh went to the Dinosaur Museum with their class."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Who gave everyone a map?",
+      "options": [
+        "Linh",
+        "Mr Brown",
+        "Mia"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Their teacher, Mr Brown, gave everyone a map.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Their teacher, Mr Brown, gave everyone a map."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Why were the children excited?",
+      "options": [
+        "They wanted to buy toys.",
+        "It was a holiday.",
+        "They love dinosaurs."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"They were very excited because they love dinosaurs.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They were very excited because they love dinosaurs."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "How long was the Diplodocus?",
+      "options": [
+        "Three metres",
+        "Seventeen metres",
+        "Seventy metres",
+        "Twenty-seven metres"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"It was twenty-seven metres long, and its neck was very long.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "It was twenty-seven metres long, and its neck was very long."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What did the Diplodocus eat?",
+      "options": [
+        "Only fish",
+        "Only plants",
+        "Small animals"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"It ate only plants.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "It ate only plants."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "What did Linh mean when she said, \"It is as long as three buses!\"?",
+      "options": [
+        "The dinosaur was very fast.",
+        "The dinosaur liked buses.",
+        "The dinosaur was very long."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Three buses together are very long, so the dinosaur was very long.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Linh said, 'It is as long as three buses!'"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Which room was Nam's favourite?",
+      "options": [
+        "The Tyrannosaurus rex room",
+        "The Diplodocus room",
+        "The fossil room"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"The next room was Nam's favourite.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "The next room was Nam's favourite."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did the Tyrannosaurus rex have?",
+      "options": [
+        "A long neck and big wings",
+        "Sharp teeth and very small arms",
+        "Short legs and a long tail only"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"which had sharp teeth and very small arms\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "which had sharp teeth and very small arms"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"fossil\" means...",
+      "options": [
+        "a kind of tree",
+        "a new toy",
+        "a part of an animal that turned into stone"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"A fossil is a part of an animal that died millions of years ago and turned into stone.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "A fossil is a part of an animal that died millions of years ago and turned into stone."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did Linh find?",
+      "options": [
+        "A small fossil of a shell",
+        "A dinosaur egg",
+        "A big bone"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Linh found a small fossil of a shell.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Linh found a small fossil of a shell."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "Where did the children have lunch?",
+      "options": [
+        "In the museum shop",
+        "On the bus",
+        "In the garden",
+        "In the fossil room"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"At twelve o'clock, they had lunch in the garden.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "At twelve o'clock, they had lunch in the garden."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "Who asked why the dinosaurs disappeared?",
+      "options": [
+        "Nam",
+        "Linh",
+        "Mia"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Mia, Nam's friend, asked, 'Why did the dinosaurs disappear?'\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Mia, Nam's friend, asked, 'Why did the dinosaurs disappear?'"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What do many scientists think?",
+      "options": [
+        "A big rock hit the Earth.",
+        "The dinosaurs went to the sea.",
+        "People hunted the dinosaurs.",
+        "It rained for a hundred years."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Many scientists think a big rock hit the Earth.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Many scientists think a big rock hit the Earth."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 5, \"disappear\" means...",
+      "options": [
+        "grow very big",
+        "go away and not be seen any more",
+        "run very fast"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "If animals disappear, they are gone and we cannot see them any more.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "'Why did the dinosaurs disappear?'"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "main-idea",
+      "text": "What is paragraph 6 mainly about?",
+      "options": [
+        "What the children ate for lunch",
+        "Where the children slept",
+        "What the children bought in the shop"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Before they went home, they visited the shop.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Before they went home, they visited the shop."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "What did Linh buy?",
+      "options": [
+        "A book about dinosaurs",
+        "A red toy T. rex",
+        "A fossil",
+        "A green toy Stegosaurus"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"Linh bought a green toy Stegosaurus.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Linh bought a green toy Stegosaurus."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Where were the children when Nam talked about his future?",
+      "options": [
+        "In the garden",
+        "On the bus",
+        "In the museum"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"On the bus, Nam said,\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "On the bus, Nam said,"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What is Nam going to be?",
+      "options": [
+        "A teacher",
+        "A scientist",
+        "A pilot",
+        "A cook"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"I am going to be a scientist.\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "I am going to be a scientist."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What might Linh do?",
+      "options": [
+        "Help Nam look for bones",
+        "Write a book",
+        "Buy a museum"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh said she might help Nam.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Linh laughed and said, 'I might help you.'"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "How did the children feel at the end of the day?",
+      "options": [
+        "Bored",
+        "Tired of dinosaurs",
+        "Worried",
+        "Happy"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A great day means a very good day, so they were happy.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "It was a great day."
+        }
+      ]
+    }
+  ]
+}

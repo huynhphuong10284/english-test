@@ -213,5 +213,10 @@
   "versa": [["adverb", "used in \"vice versa\": the other way round", "Cats chase dogs and vice versa."]],
   "st": [["abbreviation", "short for \"Street\" or \"Saint\"", "12 Green St"]],
   "rd": [["abbreviation", "short for \"Road\"", "45 Park Rd"]],
-  "dr": [["abbreviation", "short for \"Doctor\"", "Dr Patel"]]
+  "dr": [["abbreviation", "short for \"Doctor\"", "Dr Patel"]],
+  "lunchbox": [["noun", "a box that you carry your lunch in, for example to school", "My lunchbox has a sandwich and an apple in it."]],
+  "goodnight": [["exclamation", "something you say to someone before they go to bed or when you leave in the evening", "Goodnight, Mum! See you in the morning."]],
+  "headteacher": [["noun", "the teacher who is in charge of a school", "The headteacher gave prizes to the winners."]],
+  "keyring": [["noun", "a ring that you keep your keys on, often with a small toy or picture", "I bought a panda keyring at the zoo."]],
+  "mooncake": [["noun", "a round sweet cake eaten at the Mid-Autumn Festival", "We ate mooncakes and looked at the full moon."]]
 }

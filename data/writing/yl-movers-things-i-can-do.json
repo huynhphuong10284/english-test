@@ -1,0 +1,241 @@
+{
+  "id": "w-yl-m-things-i-can-do",
+  "title": "Things I Can Do",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise can, can't and comparatives, and write about what you can do.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Can",
+      "prompt": "Choose the correct word.",
+      "text": "🏊 I ___ swim very fast.",
+      "options": [
+        "can",
+        "cans",
+        "am can"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"can\" + base verb: I can swim."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Can't",
+      "prompt": "Complete with can or can't.",
+      "text": "My little brother ___ read yet. He is only three.",
+      "answers": [
+        "can't",
+        "cannot",
+        "can not"
+      ],
+      "points": 1,
+      "explanation": "Use \"can't\" when you are not able to do something."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "play",
+        "I",
+        "can",
+        "the guitar"
+      ],
+      "answers": [
+        "I can play the guitar."
+      ],
+      "points": 1,
+      "explanation": "Subject + can + verb + object."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "Ben runs ___ than me.",
+      "options": [
+        "fast",
+        "faster",
+        "fastest"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"faster than\" to compare two people."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Can + base verb",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "She can sings very well.",
+      "answers": [
+        "She can sing very well."
+      ],
+      "points": 1,
+      "explanation": "After \"can\" use the base verb: sing."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Prepositions",
+      "prompt": "Write the missing word.",
+      "text": "Nam is good ___ football.",
+      "answers": [
+        "at"
+      ],
+      "points": 1,
+      "explanation": "We say \"good at\" something."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Can: questions",
+      "prompt": "Choose the correct word.",
+      "text": "⚽ Can you ___ a bike?",
+      "options": [
+        "rides",
+        "riding",
+        "ride"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "After \"can you\" use the base verb: ride."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "can",
+        "cook",
+        "My sister",
+        "well"
+      ],
+      "answers": [
+        "My sister can cook well."
+      ],
+      "points": 1,
+      "explanation": "Subject + can + verb + well."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Adverbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I can swim very good.",
+      "answers": [
+        "I can swim very well."
+      ],
+      "points": 1,
+      "explanation": "Use the adverb \"well\" (not \"good\") after a verb."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Past simple",
+      "prompt": "Choose the correct word.",
+      "text": "Last week I ___ to climb a tree.",
+      "options": [
+        "learned",
+        "learn",
+        "learning"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Last week is the past, so use \"learned\"."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Short answers",
+      "prompt": "Complete with can or can't.",
+      "text": "Can you help me? Yes, I ___.",
+      "answers": [
+        "can"
+      ],
+      "points": 1,
+      "explanation": "Short answer: Yes, I can."
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Superlatives",
+      "prompt": "Choose the correct word.",
+      "text": "Hoa is the ___ singer in my class.",
+      "options": [
+        "better",
+        "best",
+        "good"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"the best\" to say nobody is better."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Can't",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "speak",
+        "I",
+        "French",
+        "can't"
+      ],
+      "answers": [
+        "I can't speak French."
+      ],
+      "points": 1,
+      "explanation": "Subject + can't + verb + object."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Can: he / she",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "He cans jump very high.",
+      "answers": [
+        "He can jump very high."
+      ],
+      "points": 1,
+      "explanation": "\"Can\" never changes: he can."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Want to",
+      "prompt": "Write the missing word.",
+      "text": "🎸 I want ___ be a good dancer.",
+      "answers": [
+        "to"
+      ],
+      "points": 1,
+      "explanation": "We say \"want to + verb\"."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about the things you can do and the things you can't do.",
+    "contentPoints": [
+      "Say two things you can do well.",
+      "Say one thing you can't do.",
+      "Say what you want to learn."
+    ],
+    "minWords": 25,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "I can ...",
+      "I can't ...",
+      "I am good at ...",
+      "I want to learn ...",
+      "My friend can ..."
+    ],
+    "modelAnswer": "I can swim and ride a bike. I am good at swimming, and I swim faster than my brother. I can't play the guitar, but I want to learn. My friend Anna can play it very well. She is my teacher!"
+  }
+}

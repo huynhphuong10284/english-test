@@ -1,0 +1,320 @@
+{
+  "id": "yl-m-sports-day-at-school",
+  "title": "Sports Day at School",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Minh and his friends have a busy and fun Sports Day.",
+  "instructions": "Read about Sports Day. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🏃 Last Friday was Sports Day at Minh's school. The weather was hot and sunny. All the children wore white T-shirts."
+    },
+    {
+      "id": "p2",
+      "text": "The first race was the running race. Minh ran very fast, but his friend Sam was faster. Minh came second."
+    },
+    {
+      "id": "p3",
+      "text": "Next, there was a jumping competition. Lucy jumped the highest in her class. She won a gold medal."
+    },
+    {
+      "id": "p4",
+      "text": "After that, the teachers had a tug-of-war. Mr Brown's team pulled very hard, but Miss Hoa's team won. Everybody laughed and clapped."
+    },
+    {
+      "id": "p5",
+      "text": "🥤 At eleven o'clock, the children had a drink and some orange slices. They sat under the trees because it was very hot."
+    },
+    {
+      "id": "p6",
+      "text": "At the end, the head teacher gave prizes to the winners. Minh got a blue ribbon. He was happy because he did his best."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text about?",
+      "options": [
+        "A football match on TV",
+        "A school trip",
+        "Sports Day at Minh's school"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text is about Sports Day at school.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last Friday was Sports Day at Minh's school."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What day was Sports Day?",
+      "options": [
+        "Monday",
+        "Friday",
+        "Sunday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Last Friday was Sports Day.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last Friday was Sports Day at Minh's school."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What colour were the children's T-shirts?",
+      "options": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "All the children wore white T-shirts.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "All the children wore white T-shirts."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Who was faster than Minh?",
+      "options": [
+        "Lucy",
+        "Mr Brown",
+        "Sam"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Minh's friend Sam was faster.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "his friend Sam was faster"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Did Minh win the running race?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Minh came second, so he did not win.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Minh came second."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Who jumped the highest in her class?",
+      "options": [
+        "Lucy",
+        "Mai",
+        "Sam"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lucy jumped the highest.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Lucy jumped the highest in her class."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What did Lucy win?",
+      "options": [
+        "A blue ribbon",
+        "A football",
+        "A gold medal"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lucy won a gold medal.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She won a gold medal."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Which team won the tug-of-war?",
+      "options": [
+        "Mr Brown's team",
+        "Miss Hoa's team",
+        "Sam's team"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Miss Hoa's team won.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Miss Hoa's team won."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"clapped\" means...",
+      "options": [
+        "hit hands together to show you are happy",
+        "ran very fast",
+        "jumped up high"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "People clap their hands when they are happy about something.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Everybody laughed and clapped."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did the children have at eleven o'clock?",
+      "options": [
+        "Pizza and cake",
+        "Rice and fish",
+        "A drink and some orange slices"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They had a drink and some orange slices.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "the children had a drink and some orange slices"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "Why did the children sit under the trees?",
+      "options": [
+        "It was raining",
+        "It was very hot",
+        "They were cold"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They sat under the trees because it was very hot.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "They sat under the trees because it was very hot."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "Who gave prizes to the winners?",
+      "options": [
+        "The head teacher",
+        "Minh's mum",
+        "Sam"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The head teacher gave the prizes.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the head teacher gave prizes to the winners"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"winners\" means...",
+      "options": [
+        "people who are late",
+        "people who are tired",
+        "people who come first"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Winners are the people who win.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the head teacher gave prizes to the winners"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did Minh get?",
+      "options": [
+        "A gold medal",
+        "A blue ribbon",
+        "A white T-shirt"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Minh got a blue ribbon.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Minh got a blue ribbon."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why was Minh happy?",
+      "options": [
+        "He did his best",
+        "He was the fastest",
+        "He went home early"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He was happy because he did his best.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "He was happy because he did his best."
+        }
+      ]
+    }
+  ]
+}

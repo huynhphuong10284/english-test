@@ -1,0 +1,424 @@
+{
+  "id": "yl-f-treasure-on-pirate-island",
+  "title": "Treasure on Pirate Island",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Three friends follow a map to find treasure on an island.",
+  "instructions": "Read the adventure story. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🏝️ Sam, Lucy and Linh were on holiday at the seaside. One rainy day, they found an old map in a box in the hotel. It showed a place called Pirate Island, and a big red X."
+    },
+    {
+      "id": "p2",
+      "text": "'It's a treasure map!' said Sam. 'We must find the treasure.' The next morning, the sun was shining. They asked a fisherman to take them to the island in his small boat."
+    },
+    {
+      "id": "p3",
+      "text": "On the island, they followed the map. First, they walked past a tall palm tree. Then they climbed over some big rocks, which were hot and difficult to climb."
+    },
+    {
+      "id": "p4",
+      "text": "Suddenly, Lucy shouted, 'Look! There's a cave!' It was dark and cold inside. Linh had a torch in her bag. 'If we stay together, we won't be afraid,' she said."
+    },
+    {
+      "id": "p5",
+      "text": "At the end of the cave, they saw a wooden box under a pile of stones. They moved the stones one by one. It took them nearly an hour because the stones were so heavy."
+    },
+    {
+      "id": "p6",
+      "text": "Sam opened the box slowly. Inside, there were no gold coins. There was only a small book and a note. The note said, 'The best treasure is a good story. Write yours here.'"
+    },
+    {
+      "id": "p7",
+      "text": "The children laughed. 'It isn't money, but it's special,' said Linh. They sat on the beach and wrote their names and their adventure in the book. Then Lucy drew the cave."
+    },
+    {
+      "id": "p8",
+      "text": "Before they left, they put the box back in the cave. 'Other children will find it one day,' said Sam. The fisherman was waiting for them, and he was smiling."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the best title for this story?",
+      "options": [
+        "A Rainy Day at the Hotel",
+        "The Fisherman's Boat",
+        "A Treasure Hunt on an Island"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The children look for treasure on Pirate Island.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It showed a place called Pirate Island, and a big red X."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Where were the children?",
+      "options": [
+        "At school",
+        "On holiday at the seaside",
+        "In a forest"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They were on holiday at the seaside.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Sam, Lucy and Linh were on holiday at the seaside."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Where did they find the map?",
+      "options": [
+        "On the beach",
+        "In a boat",
+        "In a box in the hotel"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They found it in a box in the hotel.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "they found an old map in a box in the hotel"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What was the weather like the next morning?",
+      "options": [
+        "Rainy",
+        "Sunny",
+        "Windy and cold"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The sun was shining.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The next morning, the sun was shining."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "How did they get to the island?",
+      "options": [
+        "By plane",
+        "By fisherman's boat",
+        "By bus"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A fisherman took them in his small boat.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They asked a fisherman to take them to the island in his small boat."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What did they pass first on the island?",
+      "options": [
+        "A cave",
+        "A tall palm tree",
+        "Some rocks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "First they walked past a palm tree.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "First, they walked past a tall palm tree."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 3, \"climbed\" means ...",
+      "options": [
+        "ran very fast",
+        "sat down",
+        "went up using hands and feet"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Climbed means went up something.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "they climbed over some big rocks"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What were the rocks like?",
+      "options": [
+        "Cold and wet",
+        "Hot and difficult to climb",
+        "Small and easy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The rocks were hot and difficult to climb.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "which were hot and difficult to climb"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Who saw the cave first?",
+      "options": [
+        "Lucy",
+        "Sam",
+        "Linh"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lucy shouted, \"Look! There is a cave!\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Suddenly, Lucy shouted"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did Linh have in her bag?",
+      "options": [
+        "A map",
+        "A torch",
+        "A sandwich"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh had a torch in her bag.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Linh had a torch in her bag."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "Why did Linh say they should stay together?",
+      "options": [
+        "So they can run",
+        "So they can sleep",
+        "So they will not be afraid"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Staying together makes them feel safe.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "If we stay together, we won't be afraid"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "Where was the wooden box?",
+      "options": [
+        "In a tree",
+        "In the boat",
+        "Under a pile of stones"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The box was under a pile of stones.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "a wooden box under a pile of stones"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "Why did moving the stones take an hour?",
+      "options": [
+        "The children were tired.",
+        "The stones were very heavy.",
+        "It was dark."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The stones were so heavy.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "because the stones were so heavy"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What was in the box?",
+      "options": [
+        "Gold coins",
+        "A small book and a note",
+        "A new map"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There was only a book and a note.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "There was only a small book and a note."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What is the \"best treasure\" in the note?",
+      "options": [
+        "A lot of money",
+        "A new boat",
+        "A good story"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The note says the best treasure is a good story.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The best treasure is a good story."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "How did Linh feel about the box?",
+      "options": [
+        "Angry",
+        "She thought it was special.",
+        "She was afraid."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh said it was special.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "It isn't money, but it's special"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What did Lucy do on the beach?",
+      "options": [
+        "She swam.",
+        "She cooked lunch.",
+        "She drew the cave."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lucy drew the cave in the book.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Then Lucy drew the cave."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What did they do with the box?",
+      "options": [
+        "Took it home",
+        "Put it back in the cave",
+        "Gave it to the fisherman"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They put the box back in the cave.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "they put the box back in the cave"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why did Sam want to leave the box in the cave?",
+      "options": [
+        "It was too heavy.",
+        "He didn't like it.",
+        "Other children can find it one day."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He wanted other children to find it.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Other children will find it one day"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "Who was waiting for the children at the end?",
+      "options": [
+        "Their parents",
+        "The fisherman",
+        "A pirate"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The fisherman was waiting for them.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "The fisherman was waiting for them"
+        }
+      ]
+    }
+  ]
+}

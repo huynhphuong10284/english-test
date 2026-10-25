@@ -1,0 +1,239 @@
+{
+  "id": "w-yl-m-a-visit-to-the-dentist",
+  "title": "A Visit to the Dentist",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise health words, must and past simple, and write about a visit to the dentist.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Articles",
+      "prompt": "Choose the correct word.",
+      "text": "🦷 I have ___ toothache.",
+      "options": [
+        "an",
+        "a",
+        "the"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"a\" before the word \"toothache\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: go",
+      "prompt": "Write the missing word.",
+      "text": "Yesterday I ___ to the dentist. (go)",
+      "answers": [
+        "went"
+      ],
+      "points": 1,
+      "explanation": "The past of \"go\" is \"went\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Must",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "brush",
+        "You",
+        "must",
+        "your teeth"
+      ],
+      "answers": [
+        "You must brush your teeth."
+      ],
+      "points": 1,
+      "explanation": "Subject + must + verb + object."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Past simple",
+      "prompt": "Choose the correct word.",
+      "text": "The dentist ___ my teeth carefully.",
+      "options": [
+        "look at",
+        "looking at",
+        "looked at"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use the past form \"looked at\" for yesterday."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Have",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I has a bad tooth.",
+      "answers": [
+        "I have a bad tooth."
+      ],
+      "points": 1,
+      "explanation": "Use \"have\" with I."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Have to",
+      "prompt": "Write the missing word.",
+      "text": "You have ___ brush your teeth twice a day.",
+      "answers": [
+        "to"
+      ],
+      "points": 1,
+      "explanation": "We say \"have to + verb\"."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Because",
+      "prompt": "Choose the correct word.",
+      "text": "Don't eat too many sweets ___ they are bad for your teeth.",
+      "options": [
+        "because",
+        "but",
+        "or"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"because\" to give a reason."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "opened",
+        "Linh",
+        "her mouth",
+        "wide"
+      ],
+      "answers": [
+        "Linh opened her mouth wide."
+      ],
+      "points": 1,
+      "explanation": "Subject + opened + object + wide."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Must + base verb",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The dentist said I must to brush more.",
+      "answers": [
+        "The dentist said I must brush more."
+      ],
+      "points": 1,
+      "explanation": "After \"must\" do not use \"to\"."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "🪥 The dentist is ___ than I thought.",
+      "options": [
+        "nice",
+        "nicer",
+        "nicest"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"nicer than\" to compare."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Past simple: take",
+      "prompt": "Write the missing word.",
+      "text": "Mum ___ me to the dentist. (take)",
+      "answers": [
+        "took"
+      ],
+      "points": 1,
+      "explanation": "The past of \"take\" is \"took\"."
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Mustn't",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ eat sweets before bed.",
+      "options": [
+        "must",
+        "have",
+        "mustn't"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"mustn't\" for things you should not do."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "sat",
+        "Nam",
+        "on a big chair"
+      ],
+      "answers": [
+        "Nam sat on a big chair."
+      ],
+      "points": 1,
+      "explanation": "Subject + sat + on + place."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My teeth are more clean than before.",
+      "answers": [
+        "My teeth are cleaner than before."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives add -er: cleaner."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Be: plural",
+      "prompt": "Write the missing word.",
+      "text": "😁 My teeth ___ very healthy. (be)",
+      "answers": [
+        "are"
+      ],
+      "points": 1,
+      "explanation": "Use \"are\" with plural nouns like teeth."
+    }
+  ],
+  "task": {
+    "genre": "Diary",
+    "prompt": "Write about a visit to the dentist. Say what happened.",
+    "contentPoints": [
+      "Say when you went and who took you.",
+      "Say what the dentist did.",
+      "Say what the dentist told you.",
+      "Say how you felt."
+    ],
+    "minWords": 25,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "Yesterday I went to ...",
+      "The dentist ...",
+      "He / She said I must ...",
+      "I felt ...",
+      "Now my teeth are ..."
+    ],
+    "modelAnswer": "Yesterday my mum took me to the dentist. The dentist looked at my teeth and said they were healthy. She said I must brush my teeth twice a day. I felt happy. Now my teeth are clean and strong."
+  }
+}

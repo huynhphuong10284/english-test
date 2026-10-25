@@ -1,0 +1,325 @@
+{
+  "id": "w-yl-f-helping-our-planet",
+  "title": "Helping Our Planet",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise should, will and if sentences, then write how to help the planet.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Should",
+      "prompt": "Choose the correct word.",
+      "text": "🌍 We ___ turn off the lights when we leave a room.",
+      "options": [
+        "should",
+        "are",
+        "did",
+        "might"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Should\" gives good advice."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "First conditional",
+      "prompt": "Write one word in the gap.",
+      "text": "If we recycle more, there ___ be less rubbish.",
+      "answers": [
+        "will"
+      ],
+      "points": 1,
+      "explanation": "If + present simple, then will + base verb."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Should",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "should",
+        "plastic",
+        "use",
+        "less",
+        "We"
+      ],
+      "answers": [
+        "We should use less plastic."
+      ],
+      "points": 1,
+      "explanation": "Subject + should + base verb + object."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Quantifiers",
+      "prompt": "Choose the correct word.",
+      "text": "There is too ___ rubbish on the beach.",
+      "options": [
+        "many",
+        "much",
+        "a",
+        "few"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Rubbish is uncountable, so use \"much\"."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Plural nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We can reuse old bottles and boxs.",
+      "answers": [
+        "We can reuse old bottles and boxes."
+      ],
+      "points": 1,
+      "explanation": "Add -es to words ending in -x: boxes."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Should",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "It is a good idea to walk to school.",
+      "keyword": "SHOULD",
+      "answers": [
+        "You should walk to school.",
+        "We should walk to school."
+      ],
+      "points": 1,
+      "explanation": "\"Should\" + base verb gives advice."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Present perfect",
+      "prompt": "Choose the correct word.",
+      "text": "Our class ___ planted ten trees this year.",
+      "options": [
+        "have",
+        "has",
+        "did",
+        "is"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Our class\" is one group, so use \"has\" + past participle."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write one word in the gap.",
+      "text": "A recycling bin is a box ___ we put paper and cans in.",
+      "answers": [
+        "where",
+        "which",
+        "that"
+      ],
+      "points": 1,
+      "explanation": "Use \"which\" or \"that\" for things."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Comparatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a",
+        "is",
+        "than",
+        "bike",
+        "car",
+        "cheaper",
+        "A"
+      ],
+      "answers": [
+        "A bike is cheaper than a car."
+      ],
+      "points": 1,
+      "explanation": "Subject + is + comparative + than + thing."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "First conditional",
+      "prompt": "Choose the correct word.",
+      "text": "If we ___ water, the rivers will stay clean.",
+      "options": [
+        "don't waste",
+        "didn't waste",
+        "won't waste",
+        "aren't wasting"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After \"if\" use the present simple."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Countable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I don't have many water in my bottle.",
+      "answers": [
+        "I don't have much water in my bottle.",
+        "I don't have a lot of water in my bottle."
+      ],
+      "points": 1,
+      "explanation": "Water is uncountable, so use \"much\"."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Present perfect",
+      "prompt": "Write one word in the gap.",
+      "text": "I ___ never thrown rubbish on the ground.",
+      "answers": [
+        "have",
+        "'ve"
+      ],
+      "points": 1,
+      "explanation": "Use have + never + past participle."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Might",
+      "prompt": "Choose the correct word.",
+      "text": "If we don't stop pollution, the sea ___ become dirty.",
+      "options": [
+        "might",
+        "did",
+        "is",
+        "has"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Might\" means it is possible."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Comparatives",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "Plastic bags are worse than paper bags.",
+      "keyword": "BETTER",
+      "answers": [
+        "Paper bags are better than plastic bags."
+      ],
+      "points": 1,
+      "explanation": "Swap the two things and change worse to better."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Going to",
+      "prompt": "Write one word in the gap.",
+      "text": "Our school ___ going to have a Clean-Up Day next week.",
+      "answers": [
+        "is"
+      ],
+      "points": 1,
+      "explanation": "Use is going to with \"our school\"."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "picked",
+        "we",
+        "up",
+        "the",
+        "rubbish",
+        "the",
+        "park",
+        "in"
+      ],
+      "answers": [
+        "We picked up the rubbish in the park."
+      ],
+      "points": 1,
+      "explanation": "Subject + past verb + object + place."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the correct word.",
+      "text": "We should use buses ___ cars to save energy.",
+      "options": [
+        "instead of",
+        "because",
+        "between",
+        "next"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Instead of\" means \"not this, but that\"."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Imperatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Don't to waste food.",
+      "answers": [
+        "Don't waste food."
+      ],
+      "points": 1,
+      "explanation": "After \"Don't\" use the base verb without \"to\"."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Because",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "We save energy so the Earth stays healthy.",
+      "keyword": "BECAUSE",
+      "answers": [
+        "We save energy because we want the Earth to stay healthy.",
+        "We save energy because we want the Earth to stay healthy."
+      ],
+      "points": 1,
+      "explanation": "Use \"because\" to give the reason."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Linking words: so",
+      "prompt": "Write one word in the gap.",
+      "text": "Trees give us clean air, ___ we must protect them.",
+      "answers": [
+        "so"
+      ],
+      "points": 1,
+      "explanation": "\"So\" shows a result."
+    }
+  ],
+  "task": {
+    "genre": "Poster text",
+    "prompt": "Write a short text for a school poster called \"Help Our Planet\".",
+    "contentPoints": [
+      "Say why we must help the planet.",
+      "Give two or three ideas.",
+      "Say what will happen if we help."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "We must ...",
+      "We should ...",
+      "Don't ...",
+      "If we ..., the Earth will ...",
+      "Let's ..."
+    ],
+    "modelAnswer": "Help Our Planet!\n\nOur Earth is our home, so we must look after it. We should recycle paper and cans. We should use less plastic and turn off the lights. Don't waste water. If we all help, the air will be cleaner and the rivers will be clear. Let's start today!"
+  }
+}

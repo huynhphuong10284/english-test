@@ -1,0 +1,218 @@
+{
+  "id": "yl-s-a-friendly-monster",
+  "title": "A Friendly Monster",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Linh draws a big green monster called Bobo.",
+  "instructions": "Read about Bobo the monster. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "👾 Linh draws a monster. Its name is Bobo. He is big and green, but he is very friendly."
+    },
+    {
+      "id": "p2",
+      "text": "Bobo has got three eyes. They are big and round. He has got a small red nose."
+    },
+    {
+      "id": "p3",
+      "text": "He has got a very big mouth and four white teeth. He can smile all day."
+    },
+    {
+      "id": "p4",
+      "text": "Bobo has got two long arms and six fingers. He has got big yellow feet."
+    },
+    {
+      "id": "p5",
+      "text": "Linh says, 'Bobo, you are my best friend!' Bobo smiles and waves his hand."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the story about?",
+      "options": [
+        "A friendly monster",
+        "A hungry dog",
+        "A new school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh draws a monster called Bobo.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Linh draws a monster."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Is Bobo green?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, Bobo is big and green.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "He is big and green, but he is very friendly."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 1, friendly means...",
+      "options": [
+        "kind",
+        "angry",
+        "sad"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A friendly monster is kind and nice.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "He is big and green, but he is very friendly."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "How many eyes has Bobo got?",
+      "options": [
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Bobo has got three eyes.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Bobo has got three eyes."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Is Bobo's nose big?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He has got a small red nose.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He has got a small red nose."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "How many teeth has Bobo got?",
+      "options": [
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He has got four white teeth.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He has got a very big mouth and four white teeth."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Has Bobo got a big mouth?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, he has got a very big mouth.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He has got a very big mouth and four white teeth."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "How many fingers has Bobo got?",
+      "options": [
+        "Five",
+        "Ten",
+        "Six"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Bobo has got six fingers.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Bobo has got two long arms and six fingers."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What colour are Bobo's feet?",
+      "options": [
+        "Blue",
+        "Yellow",
+        "Black"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He has got big yellow feet.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "He has got big yellow feet."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Is Bobo Linh's friend?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, Linh says Bobo is her best friend.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Linh says, 'Bobo, you are my best friend!'"
+        }
+      ]
+    }
+  ]
+}

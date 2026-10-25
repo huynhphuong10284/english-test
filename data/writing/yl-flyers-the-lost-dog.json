@@ -1,0 +1,321 @@
+{
+  "id": "w-yl-f-the-lost-dog",
+  "title": "The Lost Dog",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise past tenses and linking words, then write a short story about a lost dog.",
+  "instructions": "Do the exercises in Part 1. Then look at the story and write in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple",
+      "prompt": "Choose the correct word.",
+      "text": "🐶 Yesterday Nam ___ his dog in the park.",
+      "options": [
+        "lose",
+        "lost",
+        "loses"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Lose\" is irregular. The past simple is \"lost\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "It was sunny and Nam ___ (walk) with Max.",
+      "answers": [
+        "was walking"
+      ],
+      "points": 1,
+      "explanation": "Use \"was/were + verb-ing\" for an action in progress."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "cat",
+        "a",
+        "after",
+        "ran",
+        "Max"
+      ],
+      "answers": [
+        "Max ran after a cat."
+      ],
+      "points": 1,
+      "explanation": "Subject + past verb + after + noun: Max ran after a cat."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct word.",
+      "text": "While Nam was talking on the phone, Max ___ away.",
+      "options": [
+        "ran",
+        "was running",
+        "runs"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A short action that interrupts a longer one uses the past simple: Max ran away."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Nam shouted \"Max!\" but the dog not came.",
+      "answers": [
+        "Nam shouted \"Max!\" but the dog did not come.",
+        "Nam shouted \"Max!\" but the dog didn't come."
+      ],
+      "points": 1,
+      "explanation": "Use \"did not + base verb\" for a negative in the past: did not come."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Prepositions of place",
+      "prompt": "Write a word: in, on, under, behind or next to.",
+      "text": "🌳 Nam looked ___ the big tree, but Max wasn't there.",
+      "answers": [
+        "behind",
+        "under",
+        "next to"
+      ],
+      "points": 1,
+      "explanation": "Prepositions tell us where: behind the tree, under the tree."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Relative clauses",
+      "prompt": "Choose the correct word.",
+      "text": "Nam asked a man ___ was selling ice cream.",
+      "options": [
+        "which",
+        "who",
+        "where"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"who\" for people."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Past simple questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "dog",
+        "brown",
+        "small",
+        "a",
+        "see",
+        "you",
+        "Did"
+      ],
+      "answers": [
+        "Did you see a small brown dog."
+      ],
+      "points": 1,
+      "explanation": "\"Did\" + subject + base verb makes a past question: Did you see a small brown dog?"
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct word.",
+      "text": "Nam was sad ___ he loved his dog very much.",
+      "options": [
+        "because",
+        "but",
+        "so"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Because\" gives a reason."
+    },
+    {
+      "id": "e10",
+      "type": "transformation",
+      "focus": "Comparatives",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word FASTER. Begin: \"Nam ...\"",
+      "text": "The dog was not as fast as Nam.",
+      "keyword": "FASTER",
+      "answers": [
+        "Nam was faster than the dog.",
+        "Nam was faster than the dog was."
+      ],
+      "points": 1,
+      "explanation": "\"A is not as fast as B\" means \"B is faster than A\"."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Past simple",
+      "prompt": "Write the past simple of the verb in brackets.",
+      "text": "🔍 Nam and Linh ___ (look) for Max for an hour.",
+      "answers": [
+        "looked"
+      ],
+      "points": 1,
+      "explanation": "Regular verbs take -ed in the past simple: looked."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Then Linh sees a dog behind the school.",
+      "answers": [
+        "Then Linh saw a dog behind the school."
+      ],
+      "points": 1,
+      "explanation": "The story is in the past, so use \"saw\" (the past of see)."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "First conditional",
+      "prompt": "Choose the correct word.",
+      "text": "If we ___ him soon, his mum will be very worried.",
+      "options": [
+        "don't find",
+        "won't find",
+        "didn't find"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After \"if\" in a first conditional we use the present simple: if we don't find."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Will",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "you",
+        "see",
+        "to",
+        "happy",
+        "very",
+        "be",
+        "will",
+        "He"
+      ],
+      "answers": [
+        "He will be very happy to see you."
+      ],
+      "points": 1,
+      "explanation": "Subject + will + be + adjective: He will be very happy to see you."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Present perfect",
+      "prompt": "Choose the correct word.",
+      "text": "Linh said, \"I have ___ Max's red ball in the grass!\"",
+      "options": [
+        "find",
+        "found",
+        "finding"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Present perfect = have + past participle. The past participle of find is found."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write who, which or where.",
+      "text": "They ran to the place ___ Linh saw the ball.",
+      "answers": [
+        "where"
+      ],
+      "points": 1,
+      "explanation": "Use \"where\" for a place."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Could",
+      "prompt": "Choose the correct word.",
+      "text": "The dog was so happy that he ___ not stop jumping.",
+      "options": [
+        "could",
+        "can",
+        "must"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Could\" is the past of \"can\". \"He could not stop\" = he was not able to stop."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Present perfect",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word HAS. Begin: \"Nam ...\"",
+      "text": "Nam lost his dog and he found it again.",
+      "keyword": "HAS",
+      "answers": [
+        "Nam has found his dog.",
+        "Nam has found his dog again."
+      ],
+      "points": 1,
+      "explanation": "Use \"has + past participle\" when the result is important now: has found."
+    },
+    {
+      "id": "e19",
+      "type": "gap-fill",
+      "focus": "Should",
+      "prompt": "Write should or shouldn't.",
+      "text": "You ___ keep your dog on a lead in the park.",
+      "answers": [
+        "should"
+      ],
+      "points": 1,
+      "explanation": "\"Should\" gives advice: you should keep your dog on a lead."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Nam hugged Max and he gived him a big biscuit.",
+      "answers": [
+        "Nam hugged Max and he gave him a big biscuit."
+      ],
+      "points": 1,
+      "explanation": "\"Give\" is irregular. The past simple is \"gave\"."
+    }
+  ],
+  "task": {
+    "genre": "Short story",
+    "prompt": "Look at the story. Picture 1: Mai is playing with her puppy in the park. Picture 2: The puppy runs away after a ball. Picture 3: Mai is looking for the puppy. She is sad. Picture 4: A boy finds the puppy and brings it back. Write what happens.",
+    "contentPoints": [
+      "Say where Mai and her puppy were.",
+      "Say what happened to the puppy.",
+      "Say how Mai felt.",
+      "Say how the story ended."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "One sunny day, ...",
+      "Suddenly, ...",
+      "She was looking for ...",
+      "Luckily, ...",
+      "In the end, ..."
+    ],
+    "modelAnswer": "One sunny day, Mai was playing with her puppy in the park. Suddenly, the puppy ran after a ball and disappeared. Mai looked everywhere for him. She was very sad and she cried. Luckily, a kind boy found the puppy and brought him back. In the end, Mai was happy again and she said thank you to the boy."
+  }
+}

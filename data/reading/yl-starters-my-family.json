@@ -1,0 +1,218 @@
+{
+  "id": "yl-s-my-family",
+  "title": "My Family",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Linh tells us about her family.",
+  "instructions": "Read about Linh's family. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🏠 Hello! I am Linh. I am eight. This is my family."
+    },
+    {
+      "id": "p2",
+      "text": "This is my mum. She is a teacher. This is my dad. He can cook. He likes rice and fish."
+    },
+    {
+      "id": "p3",
+      "text": "I have got a brother. His name is Nam. He is five. He has got a red car."
+    },
+    {
+      "id": "p4",
+      "text": "I have got a grandma, too. She is old. She has got a big cat."
+    },
+    {
+      "id": "p5",
+      "text": "We are happy. I like my family."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text about?",
+      "options": [
+        "Linh's school",
+        "Linh's family",
+        "Linh's pet"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says, 'This is my family.'",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "This is my family."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Is Linh eight?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh says, 'I am eight.'",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I am eight."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "👩 What is Linh's mum?",
+      "options": [
+        "A cook",
+        "A doctor",
+        "A teacher"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her mum is a teacher.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "She is a teacher."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Can Linh's dad cook?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Her dad can cook.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He can cook."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What does Linh's dad like?",
+      "options": [
+        "Rice and fish",
+        "Cake and milk",
+        "Eggs and bread"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He likes rice and fish.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He likes rice and fish."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What is Linh's brother's name?",
+      "options": [
+        "Ben",
+        "Nam",
+        "Tom"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His name is Nam.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "His name is Nam."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Is Nam ten?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam is five, not ten.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He is five."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "🚗 What has Nam got?",
+      "options": [
+        "A blue bike",
+        "A green ball",
+        "A red car"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam has got a red car.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He has got a red car."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "The word \"grandma\" means...",
+      "options": [
+        "a mother's or father's mother",
+        "a big cat",
+        "a little boy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A grandma is the mother of your mum or dad.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "I have got a grandma, too."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Has Linh's grandma got a dog?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She has got a cat, not a dog.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "She has got a big cat."
+        }
+      ]
+    }
+  ]
+}

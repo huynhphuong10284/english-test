@@ -1,7 +1,7 @@
 {
   "name": "english-reading-test",
   "productName": "English Reading Test",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "description": "Desktop app for practicing English reading comprehension tests",
   "main": "src/main/main.js",
   "scripts": {

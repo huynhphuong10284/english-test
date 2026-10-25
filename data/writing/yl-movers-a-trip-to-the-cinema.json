@@ -1,0 +1,242 @@
+{
+  "id": "w-yl-m-a-trip-to-the-cinema",
+  "title": "A Trip to the Cinema",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise past simple and comparatives, and write about a trip to the cinema.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple: go",
+      "prompt": "Choose the correct word.",
+      "text": "🎬 We ___ to the cinema on Saturday.",
+      "options": [
+        "go",
+        "went",
+        "goes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The past of \"go\" is \"went\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present simple: -s",
+      "prompt": "Write the missing word.",
+      "text": "The film ___ at six o'clock. (start)",
+      "answers": [
+        "starts"
+      ],
+      "points": 1,
+      "explanation": "Add -s with it: the film starts."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "bought",
+        "Dad",
+        "the tickets"
+      ],
+      "answers": [
+        "Dad bought the tickets."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + object: Dad bought the tickets."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "The film was ___ than the book.",
+      "options": [
+        "funny",
+        "funniest",
+        "funnier"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"funnier than\" to compare two things."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Irregular past",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We buyed some popcorn.",
+      "answers": [
+        "We bought some popcorn."
+      ],
+      "points": 1,
+      "explanation": "The past of \"buy\" is \"bought\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Must",
+      "prompt": "Write the missing word.",
+      "text": "🍿 We ___ be quiet in the cinema.",
+      "answers": [
+        "must",
+        "have to"
+      ],
+      "points": 1,
+      "explanation": "Use \"must\" or \"have to\" for rules."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the correct word.",
+      "text": "I sat ___ my friend Lucy.",
+      "options": [
+        "next to",
+        "on",
+        "at"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Next to\" means by the side of."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Adverbs",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "very",
+        "The film",
+        "was",
+        "funny"
+      ],
+      "answers": [
+        "The film was very funny."
+      ],
+      "points": 1,
+      "explanation": "Put \"very\" before the adjective: very funny."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "She laugh a lot yesterday.",
+      "answers": [
+        "She laughed a lot yesterday."
+      ],
+      "points": 1,
+      "explanation": "Yesterday is the past, so add -ed: laughed."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Past simple: leave",
+      "prompt": "Choose the correct word.",
+      "text": "Tom ___ his coat at home yesterday.",
+      "options": [
+        "leave",
+        "left",
+        "leaves"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The past of \"leave\" is \"left\"."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Superlatives",
+      "prompt": "Write the missing word.",
+      "text": "It was the ___ film of the year. (good)",
+      "answers": [
+        "best"
+      ],
+      "points": 1,
+      "explanation": "The superlative of \"good\" is \"best\"."
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Questions",
+      "prompt": "Choose the correct word.",
+      "text": "What time ___ the film finish?",
+      "options": [
+        "do",
+        "is",
+        "does"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"does\" with it in present simple questions."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Time words",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "after",
+        "We",
+        "the film",
+        "had",
+        "pizza"
+      ],
+      "answers": [
+        "We had pizza after the film.",
+        "After the film we had pizza."
+      ],
+      "points": 1,
+      "explanation": "Subject + had + food + after + event."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The seats were more comfortable that my sofa.",
+      "answers": [
+        "The seats were more comfortable than my sofa."
+      ],
+      "points": 1,
+      "explanation": "Use \"than\" to compare."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Past simple: be",
+      "prompt": "Write the missing word.",
+      "text": "🎟️ Linh and Mai ___ at the cinema at five. (be)",
+      "answers": [
+        "were"
+      ],
+      "points": 1,
+      "explanation": "Use \"were\" with plural subjects in the past."
+    }
+  ],
+  "task": {
+    "genre": "Diary",
+    "prompt": "Write about a trip to the cinema. Say what happened.",
+    "contentPoints": [
+      "Say who you went with.",
+      "Say what film you saw.",
+      "Say what you ate.",
+      "Say if you liked it."
+    ],
+    "minWords": 25,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "On Saturday I went to ...",
+      "We saw ...",
+      "We ate ...",
+      "The film was ...",
+      "I liked it because ..."
+    ],
+    "modelAnswer": "On Saturday I went to the cinema with my friend Ben. We saw a funny film about a dog. We ate popcorn and drank orange juice. The film was better than the last one. I liked it because I laughed a lot."
+  }
+}

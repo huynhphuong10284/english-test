@@ -1,0 +1,324 @@
+{
+  "id": "w-yl-f-a-birthday-surprise",
+  "title": "A Birthday Surprise",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise past tenses, then write a short story about a birthday surprise.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple",
+      "prompt": "Choose the correct word.",
+      "text": "🎂 On Mai's birthday, her friends ___ a big surprise.",
+      "options": [
+        "plan",
+        "planned",
+        "planning",
+        "plans"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Add -ed for the past: planned."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past continuous",
+      "prompt": "Write one word in the gap.",
+      "text": "Mai was reading in her room while we ___ decorating the house.",
+      "answers": [
+        "were"
+      ],
+      "points": 1,
+      "explanation": "Use were with we in the past continuous."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "hid",
+        "the",
+        "Ben",
+        "present",
+        "wardrobe",
+        "in",
+        "the"
+      ],
+      "answers": [
+        "Ben hid the present in the wardrobe."
+      ],
+      "points": 1,
+      "explanation": "Subject + past verb + object + place."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct word.",
+      "text": "We wanted to buy a cake, ___ the shop was closed.",
+      "options": [
+        "so",
+        "because",
+        "but",
+        "or"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"But\" shows something unexpected."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Irregular past",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Dad buyed a big balloon for Mai.",
+      "answers": [
+        "Dad bought a big balloon for Mai."
+      ],
+      "points": 1,
+      "explanation": "The past of \"buy\" is \"bought\"."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Past simple negative",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "Mai knew about the party.",
+      "keyword": "DIDN'T",
+      "answers": [
+        "Mai didn't know about the party."
+      ],
+      "points": 1,
+      "explanation": "Use didn't + base verb to say something was not true."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct word.",
+      "text": "When Mai walked in, we ___ the birthday song.",
+      "options": [
+        "sing",
+        "sang",
+        "were singing",
+        "are singing"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use the past continuous for an action in progress."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write one word in the gap.",
+      "text": "Lucy is the friend ___ made the cake.",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "points": 1,
+      "explanation": "Use \"who\" or \"that\" for a person."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a",
+        "gave",
+        "Tom",
+        "her",
+        "book",
+        "new"
+      ],
+      "answers": [
+        "Tom gave her a new book."
+      ],
+      "points": 1,
+      "explanation": "Subject + gave + person + thing."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Time words",
+      "prompt": "Choose the correct word.",
+      "text": "Mai blew out the candles ___ she made a wish.",
+      "options": [
+        "before",
+        "if",
+        "because",
+        "but"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Before\" shows the first action."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Nobody didn't tell Mai about the party.",
+      "answers": [
+        "Nobody told Mai about the party."
+      ],
+      "points": 1,
+      "explanation": "\"Nobody\" is already negative, so use a positive verb: told."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Going to",
+      "prompt": "Write one word in the gap.",
+      "text": "Look at the sky! Mai ___ going to be late for her party.",
+      "answers": [
+        "is"
+      ],
+      "points": 1,
+      "explanation": "Use is going to with Mai."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Could",
+      "prompt": "Choose the correct word.",
+      "text": "We ___ not find the candles, so we used a torch.",
+      "options": [
+        "can",
+        "could",
+        "will",
+        "must"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Could\" is the past of \"can\"."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Past simple",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "We started the party at three o'clock and it finished at six.",
+      "keyword": "LASTED",
+      "answers": [
+        "The party lasted from three o'clock to six.",
+        "The party lasted three hours."
+      ],
+      "points": 1,
+      "explanation": "Use lasted to say how long something went on."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Past simple",
+      "prompt": "Write one word in the gap.",
+      "text": "Everyone ___ \"Surprise!\" when she opened the door. (shout)",
+      "answers": [
+        "shouted"
+      ],
+      "points": 1,
+      "explanation": "Add -ed to shout."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Be going to",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "we",
+        "are",
+        "a",
+        "going",
+        "to",
+        "dance",
+        "have",
+        "party"
+      ],
+      "answers": [
+        "We are going to have a dance party."
+      ],
+      "points": 1,
+      "explanation": "Subject + are going to + base verb."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Adverbs",
+      "prompt": "Choose the correct word.",
+      "text": "Mai opened the box ___ and found a puppy.",
+      "options": [
+        "careful",
+        "carefully",
+        "care",
+        "carer"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "An adverb tells how: carefully."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Past simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The cake were very big and tasty.",
+      "answers": [
+        "The cake was very big and tasty."
+      ],
+      "points": 1,
+      "explanation": "Use \"was\" with one thing: the cake was."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Past simple",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "Mai was very happy because she got a puppy.",
+      "keyword": "SO",
+      "answers": [
+        "Mai got a puppy so she was very happy.",
+        "Mai got a puppy, so she was very happy."
+      ],
+      "points": 1,
+      "explanation": "\"So\" shows the result."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Present perfect",
+      "prompt": "Write one word in the gap.",
+      "text": "This ___ the best birthday I have ever had!",
+      "answers": [
+        "is"
+      ],
+      "points": 1,
+      "explanation": "Use \"is\" with \"this\"."
+    }
+  ],
+  "task": {
+    "genre": "Short story",
+    "prompt": "Write a story called \"A Birthday Surprise\". Someone has a surprise party.",
+    "contentPoints": [
+      "Say whose birthday it was.",
+      "Say what the friends planned.",
+      "Say what happened when the person came in.",
+      "Say how everyone felt."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "It was ...'s birthday.",
+      "We planned to ...",
+      "While ... was ..., we ...",
+      "Suddenly, ...",
+      "Everyone felt ..."
+    ],
+    "modelAnswer": "It was my sister Linh's birthday. We planned a surprise party at home. While she was at school, we put balloons on the walls and made a big cake. When she came in, we shouted, \"Happy birthday!\" Linh was very surprised and began to laugh. Everyone sang and danced. It was the best day ever."
+  }
+}

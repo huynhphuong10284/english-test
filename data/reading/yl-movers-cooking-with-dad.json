@@ -1,0 +1,323 @@
+{
+  "id": "yl-m-cooking-with-dad",
+  "title": "Cooking with Dad",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Nam cooks a tasty dinner with his dad.",
+  "instructions": "Read about Nam and his dad. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🍳 On Saturday, Nam cooked dinner with his dad. Nam was very happy because he loves cooking."
+    },
+    {
+      "id": "p2",
+      "text": "First, they went to the shop. They bought rice, eggs, carrots and some chicken. Nam carried the heavy bag home."
+    },
+    {
+      "id": "p3",
+      "text": "Then Dad washed the vegetables and Nam cut the carrots. Dad said, 'You must be careful with the knife.' Nam cut them slowly."
+    },
+    {
+      "id": "p4",
+      "text": "Dad cooked the chicken in a big pan. Nam put the rice in a pot of hot water. It smelled delicious."
+    },
+    {
+      "id": "p5",
+      "text": "After thirty minutes, the food was ready. Nam's mother and his little sister Mai came to the table. They were very hungry."
+    },
+    {
+      "id": "p6",
+      "text": "Everybody liked the dinner. Mai said, 'This is the best chicken in the world!' Nam's face was red and he smiled."
+    },
+    {
+      "id": "p7",
+      "text": "After dinner, Nam washed the plates. Next Saturday, he wants to make a fruit cake."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Nam cooks dinner with his dad",
+        "Nam goes to school",
+        "Nam visits the zoo"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"On Saturday, Nam cooked dinner with his dad.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "On Saturday, Nam cooked dinner with his dad."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "When did Nam cook dinner?",
+      "options": [
+        "On Sunday",
+        "On Saturday",
+        "On Monday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"On Saturday, Nam cooked dinner with his dad.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "On Saturday, Nam cooked dinner with his dad."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "🍳 Does Nam love cooking?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Nam was very happy because he loves cooking.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Nam was very happy because he loves cooking."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Where did they go first?",
+      "options": [
+        "To the shop",
+        "To the park",
+        "To school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"First, they went to the shop.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "First, they went to the shop."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Which of these did they buy?",
+      "options": [
+        "Fish",
+        "Eggs",
+        "Bread"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"They bought rice, eggs, carrots and some chicken.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They bought rice, eggs, carrots and some chicken."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Who carried the heavy bag home?",
+      "options": [
+        "Dad",
+        "Mai",
+        "Nam"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Nam carried the heavy bag home.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Nam carried the heavy bag home."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"heavy\" means...",
+      "options": [
+        "not light",
+        "very small",
+        "very old"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Nam carried the heavy bag home.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Nam carried the heavy bag home."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did Nam cut?",
+      "options": [
+        "The chicken",
+        "The carrots",
+        "The eggs"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Dad washed the vegetables and Nam cut the carrots.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Dad washed the vegetables and Nam cut the carrots."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Did Nam cut the carrots quickly?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Nam cut them slowly.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Nam cut them slowly."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did Dad say Nam must be?",
+      "options": [
+        "Careful",
+        "Quiet",
+        "Fast"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"You must be careful with the knife.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "You must be careful with the knife."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "Where did Nam put the rice?",
+      "options": [
+        "In a pan",
+        "In a pot of hot water",
+        "In a bowl"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"Nam put the rice in a pot of hot water.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Nam put the rice in a pot of hot water."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"delicious\" means...",
+      "options": [
+        "very hot",
+        "very old",
+        "very good to eat"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"It smelled delicious.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It smelled delicious."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "How long was it before the food was ready?",
+      "options": [
+        "Thirty minutes",
+        "Ten minutes",
+        "One hour"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"After thirty minutes, the food was ready.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "After thirty minutes, the food was ready."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "How did Mai feel about the chicken?",
+      "options": [
+        "She did not like it",
+        "She liked it a lot",
+        "She was afraid of it"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"This is the best chicken in the world!\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "This is the best chicken in the world!"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "What does Nam want to make next Saturday?",
+      "options": [
+        "Soup",
+        "A pizza",
+        "A fruit cake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Next Saturday, he wants to make a fruit cake.\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Next Saturday, he wants to make a fruit cake."
+        }
+      ]
+    }
+  ]
+}

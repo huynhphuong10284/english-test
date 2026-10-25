@@ -1,0 +1,217 @@
+{
+  "id": "yl-s-at-the-zoo",
+  "title": "At the Zoo",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Lucy and her class visit the zoo.",
+  "instructions": "Read about Lucy at the zoo. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🦁 Today Lucy and her class are at the zoo. It is a big zoo."
+    },
+    {
+      "id": "p2",
+      "text": "There are two lions. They are big and yellow. One lion is sleeping."
+    },
+    {
+      "id": "p3",
+      "text": "Look at the monkeys! They are in the tree. They are eating bananas."
+    },
+    {
+      "id": "p4",
+      "text": "The elephant is very big. It has got a long nose. It is grey."
+    },
+    {
+      "id": "p5",
+      "text": "Lucy has got a camera. She takes a photo of a green bird. She loves the zoo!"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text about?",
+      "options": [
+        "A walk in the park",
+        "A trip to the zoo",
+        "A day at school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lucy and her class are at the zoo.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Today Lucy and her class are at the zoo."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Is the zoo big?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is a big zoo.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It is a big zoo."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How many lions are there?",
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There are two lions.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "There are two lions."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Are the lions blue?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The lions are big and yellow.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They are big and yellow."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Is one lion sleeping?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "One lion is sleeping.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "One lion is sleeping."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "🐒 Where are the monkeys?",
+      "options": [
+        "In the water",
+        "In the tree",
+        "On a chair"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The monkeys are in the tree.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "They are in the tree."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Are the monkeys eating apples?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They are eating bananas.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "They are eating bananas."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "The word \"nose\" is a part of your...",
+      "options": [
+        "hand",
+        "foot",
+        "face"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Your nose is on your face.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It has got a long nose."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Is the elephant grey?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The elephant is grey.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It is grey."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "📷 What colour is the bird?",
+      "options": [
+        "Red",
+        "Green",
+        "Blue"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lucy takes a photo of a green bird.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "She takes a photo of a green bird."
+        }
+      ]
+    }
+  ]
+}

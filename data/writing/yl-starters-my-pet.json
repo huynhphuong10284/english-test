@@ -1,0 +1,174 @@
+{
+  "id": "w-yl-s-my-pet",
+  "title": "My Pet",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise animals and can, and write about a pet.",
+  "instructions": "Do the exercises in Part 1. Then write in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Have got",
+      "prompt": "Choose the correct word.",
+      "text": "🐶 I ___ got a dog.",
+      "options": [
+        "has",
+        "have",
+        "am"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"have got\" with I."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🐱 This is a ___. (a, t, c)",
+      "answers": [
+        "cat"
+      ],
+      "points": 1,
+      "explanation": "The word is \"cat\"."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Can",
+      "prompt": "Choose the correct word.",
+      "text": "My dog ___ run.",
+      "options": [
+        "is",
+        "cans",
+        "can"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"can\" and then the verb."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Name",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "dog",
+        "My",
+        "Max"
+      ],
+      "answers": [
+        "My dog is Max.",
+        "Max is my dog."
+      ],
+      "points": 1,
+      "explanation": "My dog is + name."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🐰 This is a ___. (b, b, i, t, r, a)",
+      "answers": [
+        "rabbit"
+      ],
+      "points": 1,
+      "explanation": "The word is \"rabbit\"."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Be",
+      "prompt": "Choose the correct word.",
+      "text": "🐟 The fish ___ orange.",
+      "options": [
+        "are",
+        "is",
+        "have"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"is\" with one fish."
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "Can",
+      "prompt": "Write can or can't.",
+      "text": "🐦 A bird ___ fly.",
+      "answers": [
+        "can"
+      ],
+      "points": 1,
+      "explanation": "Birds can fly."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "swim",
+        "can",
+        "fish",
+        "My"
+      ],
+      "answers": [
+        "My fish can swim."
+      ],
+      "points": 1,
+      "explanation": "Subject + can + verb."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🐢 This is a ___. (r, t, l, e, t, u)",
+      "answers": [
+        "turtle"
+      ],
+      "points": 1,
+      "explanation": "The word is \"turtle\"."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Have got",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a",
+        "has",
+        "Ben",
+        "got",
+        "black cat"
+      ],
+      "answers": [
+        "Ben has got a black cat."
+      ],
+      "points": 1,
+      "explanation": "Name + has got + thing."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your pet or a pet you like.",
+    "contentPoints": [
+      "Say what it is.",
+      "Say what colour it is.",
+      "Say what it can do."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "usefulLanguage": [
+      "I have got a ...",
+      "It is ...",
+      "It can ...",
+      "I like my ..."
+    ],
+    "modelAnswer": "I have got a dog. It is brown and white. Its name is Coco. It can run and jump. I like my dog."
+  }
+}

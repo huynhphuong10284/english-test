@@ -1,0 +1,218 @@
+{
+  "id": "yl-s-sports-day",
+  "title": "Sports Day",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Children run, jump and play on sports day.",
+  "instructions": "Read about sports day. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "⚽ Today is sports day at Minh's school. The sun is hot and everybody is happy."
+    },
+    {
+      "id": "p2",
+      "text": "Minh runs in the race. He is very fast. He is number one."
+    },
+    {
+      "id": "p3",
+      "text": "Mia plays football with her friends. She kicks the ball into the goal. Her team has got four goals."
+    },
+    {
+      "id": "p4",
+      "text": "Sam is jumping. He can jump very high. The children say, 'Well done, Sam!'"
+    },
+    {
+      "id": "p5",
+      "text": "At the end, the teacher gives a medal to Minh. It is gold. He smiles and says, 'Thank you!'"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the story about?",
+      "options": [
+        "Sports day at school",
+        "A day at the beach",
+        "A birthday party"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is sports day at Minh's school.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Today is sports day at Minh's school."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Is it a cold day?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The sun is hot, so it is not cold.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "The sun is hot and everybody is happy."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What does Minh do?",
+      "options": [
+        "Plays football",
+        "Runs in a race",
+        "Jumps"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Minh runs in the race.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Minh runs in the race."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Is Minh fast?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, he is very fast.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He is very fast."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What does Mia play?",
+      "options": [
+        "Tennis",
+        "Football",
+        "Basketball"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mia plays football with her friends.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Mia plays football with her friends."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "How many goals has Mia's team got?",
+      "options": [
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her team has got four goals.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Her team has got four goals."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 3, kicks means...",
+      "options": [
+        "hits with your foot",
+        "holds with your hands",
+        "throws"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "You kick a ball with your foot.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She kicks the ball into the goal."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Can Sam jump high?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, he can jump very high.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "He can jump very high."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What does the teacher give Minh?",
+      "options": [
+        "A cake",
+        "A ball",
+        "A medal"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The teacher gives a medal to Minh.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "At the end, the teacher gives a medal to Minh."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Is the medal silver?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The medal is gold.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It is gold."
+        }
+      ]
+    }
+  ]
+}

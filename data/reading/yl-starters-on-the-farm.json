@@ -1,0 +1,218 @@
+{
+  "id": "yl-s-on-the-farm",
+  "title": "On the Farm",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "An shows us the animals on his farm.",
+  "instructions": "Read about An's farm. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🐄 An lives on a farm with his grandma. It is a big farm."
+    },
+    {
+      "id": "p2",
+      "text": "There are four cows and two horses in the field. The cows are black and white."
+    },
+    {
+      "id": "p3",
+      "text": "There are ten chickens next to the barn. An gives them food every morning."
+    },
+    {
+      "id": "p4",
+      "text": "Grandma has got a small brown dog. Its name is Max."
+    },
+    {
+      "id": "p5",
+      "text": "Under a tree, there is a pig. It is pink and very fat. An says, 'Hello, Pinky!'"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the story about?",
+      "options": [
+        "An's farm",
+        "An's school",
+        "An's bedroom"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "An lives on a farm and the text tells us about it.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "An lives on a farm with his grandma."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Does An live with his grandma?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, An lives on a farm with his grandma.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "An lives on a farm with his grandma."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How many cows are in the field?",
+      "options": [
+        "Two",
+        "Four",
+        "Ten"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There are four cows in the field.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "There are four cows and two horses in the field."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What colour are the cows?",
+      "options": [
+        "Brown and white",
+        "Pink",
+        "Black and white"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The cows are black and white.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The cows are black and white."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Are there ten chickens?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, there are ten chickens next to the barn.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "There are ten chickens next to the barn."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "text": "In paragraph 3, a barn is...",
+      "options": [
+        "a big building on a farm",
+        "a kind of food",
+        "a small toy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A barn is a big building on a farm.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "There are ten chickens next to the barn."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "When does An give the chickens food?",
+      "options": [
+        "Every morning",
+        "Every night",
+        "At lunch"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "An gives them food every morning.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "An gives them food every morning."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Is the dog big?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Grandma has got a small brown dog.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Grandma has got a small brown dog."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Where is the pig?",
+      "options": [
+        "In the barn",
+        "Under a tree",
+        "Next to the dog"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The pig is under a tree.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Under a tree, there is a pig."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Is the pig pink?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, the pig is pink and very fat.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It is pink and very fat."
+        }
+      ]
+    }
+  ]
+}

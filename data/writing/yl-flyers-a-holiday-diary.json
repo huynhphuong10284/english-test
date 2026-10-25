@@ -1,0 +1,320 @@
+{
+  "id": "w-yl-f-a-holiday-diary",
+  "title": "A Holiday Diary",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise past simple, past continuous and holiday words, then write a diary entry.",
+  "instructions": "Do the exercises in Part 1. Then write your diary entry in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple",
+      "prompt": "Choose the correct word.",
+      "text": "🏖️ Monday: We ___ to the seaside by train.",
+      "options": [
+        "travel",
+        "travelled",
+        "travelling"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use the past simple for finished actions: travelled."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple",
+      "prompt": "Write the past simple of the verb in brackets.",
+      "text": "I ___ (swim) in the sea in the afternoon.",
+      "answers": [
+        "swam"
+      ],
+      "points": 1,
+      "explanation": "\"Swim\" is irregular. The past simple is \"swam\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "beach",
+        "the",
+        "near",
+        "hotel",
+        "small",
+        "a",
+        "in",
+        "stayed",
+        "We"
+      ],
+      "answers": [
+        "We stayed in a small hotel near the beach."
+      ],
+      "points": 1,
+      "explanation": "Subject + past verb + in + place: We stayed in a small hotel near the beach."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct word.",
+      "text": "It was hot and the sun ___ brightly.",
+      "options": [
+        "is shining",
+        "shone",
+        "was shining"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"was shining\" to describe the weather at that time."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Tuesday: We goed to the market and bought some shells.",
+      "answers": [
+        "Tuesday: We went to the market and bought some shells."
+      ],
+      "points": 1,
+      "explanation": "\"Go\" is irregular. The past simple is \"went\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Past continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "🌊 While I ___ (build) a sandcastle, a big wave came.",
+      "answers": [
+        "was building"
+      ],
+      "points": 1,
+      "explanation": "Use \"was + verb-ing\" for the longer action."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Relative clauses",
+      "prompt": "Choose the correct word.",
+      "text": "We met a boy ___ was from Canada.",
+      "options": [
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"who\" for people."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Past simple questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "trip",
+        "boat",
+        "the",
+        "enjoy",
+        "you",
+        "Did"
+      ],
+      "answers": [
+        "Did you enjoy the boat trip."
+      ],
+      "points": 1,
+      "explanation": "\"Did\" + subject + base verb: Did you enjoy the boat trip?"
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "The sea was ___ than the swimming pool at home.",
+      "options": [
+        "warm",
+        "warmer",
+        "warmest"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"warmer\" with \"than\"."
+    },
+    {
+      "id": "e10",
+      "type": "transformation",
+      "focus": "Comparatives",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word NICER. Begin: \"The ...\"",
+      "text": "The hotel was not as nice as the beach.",
+      "keyword": "NICER",
+      "answers": [
+        "The beach was nicer than the hotel."
+      ],
+      "points": 1,
+      "explanation": "\"A is not as nice as B\" means \"B is nicer than A\"."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Prepositions of time",
+      "prompt": "Write in, on or at.",
+      "text": "We got up ___ six o'clock to see the sunrise.",
+      "answers": [
+        "at"
+      ],
+      "points": 1,
+      "explanation": "Use \"at\" with clock times."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Past simple negative",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Wednesday: It didn't rained, so we went on a long walk.",
+      "answers": [
+        "Wednesday: It didn't rain, so we went on a long walk."
+      ],
+      "points": 1,
+      "explanation": "After \"didn't\" we use the base verb: didn't rain."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Present perfect",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ never eaten fresh seafood before this holiday.",
+      "options": [
+        "has",
+        "have",
+        "did"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"have\" with I: I have never eaten."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "sunset",
+        "the",
+        "of",
+        "photos",
+        "of",
+        "lots",
+        "took",
+        "Dad"
+      ],
+      "answers": [
+        "Dad took lots of photos of the sunset."
+      ],
+      "points": 1,
+      "explanation": "Subject + took + photos: Dad took lots of photos of the sunset."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct word.",
+      "text": "I was tired ___ I slept very well.",
+      "options": [
+        "so",
+        "but",
+        "because"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"So\" shows the result."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Superlatives",
+      "prompt": "Write the correct form of the adjective in brackets.",
+      "text": "🍦 This was the ___ (good) ice cream I have ever eaten!",
+      "answers": [
+        "best"
+      ],
+      "points": 1,
+      "explanation": "\"Good\" is irregular. The superlative is \"the best\"."
+    },
+    {
+      "id": "e17",
+      "type": "transformation",
+      "focus": "Going to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word GOING. Begin: \"Tomorrow ...\"",
+      "text": "My plan for tomorrow is to visit the old lighthouse.",
+      "keyword": "GOING",
+      "answers": [
+        "Tomorrow I am going to visit the old lighthouse.",
+        "Tomorrow I'm going to visit the old lighthouse."
+      ],
+      "points": 1,
+      "explanation": "\"Going to\" talks about plans."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Friday: I sleeped late and then I ate breakfast on the balcony.",
+      "answers": [
+        "Friday: I slept late and then I ate breakfast on the balcony."
+      ],
+      "points": 1,
+      "explanation": "\"Sleep\" is irregular. The past simple is \"slept\"."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Could",
+      "prompt": "Choose the correct word.",
+      "text": "We ___ see dolphins from the boat. It was amazing!",
+      "options": [
+        "could",
+        "should",
+        "must"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Could\" is the past of \"can\"."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Will",
+      "prompt": "Write the correct form: I think I ___ remember this holiday for ever.",
+      "text": "💭 I think I ___ remember this holiday for ever.",
+      "answers": [
+        "will"
+      ],
+      "points": 1,
+      "explanation": "Use \"will\" for a prediction about the future."
+    }
+  ],
+  "task": {
+    "genre": "Diary",
+    "prompt": "Write a diary entry about one day of your holiday.",
+    "contentPoints": [
+      "Say where you were.",
+      "Say what you did in the morning and afternoon.",
+      "Say what the weather was like.",
+      "Say how you felt."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "Dear Diary,",
+      "Today we ...",
+      "In the morning ... In the afternoon ...",
+      "It was sunny/rainy ...",
+      "I felt ... because ..."
+    ],
+    "modelAnswer": "Dear Diary,\n\nToday was a fantastic day at the seaside. In the morning we walked along the beach and I found some beautiful shells. It was sunny and hot, so in the afternoon I swam in the sea with my brother. Later we ate fish and rice in a small restaurant. I felt very happy because I love the sea. Tomorrow we are going to visit an island.\n\nGoodnight!\nLinh"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "id": "w-yl-m-my-weekend",
+  "title": "My Weekend",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise the past simple and write about your weekend.",
+  "instructions": "Do the exercises in Part 1. Then write about your weekend in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple: go",
+      "prompt": "Choose the correct word.",
+      "text": "🏖️ Last Saturday, we ___ to the beach.",
+      "options": [
+        "go",
+        "goes",
+        "went"
+      ],
+      "answer": 2,
+      "explanation": "\"Go\" is irregular. Last week: went.",
+      "points": 1
+    },
+    {
+      "id": "e2",
+      "type": "choice",
+      "focus": "Past simple: be",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ very happy on Sunday.",
+      "options": [
+        "was",
+        "were",
+        "am"
+      ],
+      "answer": 0,
+      "explanation": "Use \"was\" with I, he, she and it in the past.",
+      "points": 1
+    },
+    {
+      "id": "e3",
+      "type": "gap-fill",
+      "focus": "Past simple: play",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "Yesterday I ___ football with my friends. (play)",
+      "answers": [
+        "played"
+      ],
+      "explanation": "Add -ed to play: played.",
+      "points": 1
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "my cousins",
+        "we",
+        "visited",
+        "on Saturday"
+      ],
+      "answers": [
+        "We visited my cousins on Saturday.",
+        "On Saturday we visited my cousins."
+      ],
+      "explanation": "Subject + past verb + object: We visited my cousins.",
+      "points": 1
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Past simple: irregular",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "On Sunday I eated rice and fish.",
+      "answers": [
+        "On Sunday I ate rice and fish."
+      ],
+      "explanation": "\"Eat\" is irregular. The past is \"ate\", not \"eated\".",
+      "points": 1
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Past simple questions",
+      "prompt": "Choose the correct word.",
+      "text": "🎬 ___ you watch a film last night?",
+      "options": [
+        "Do",
+        "Did",
+        "Are"
+      ],
+      "answer": 1,
+      "explanation": "Use \"Did\" to ask about the past.",
+      "points": 1
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "Past simple: have",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "We ___ a picnic in the park yesterday. (have)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "\"Have\" is irregular. The past is \"had\".",
+      "points": 1
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Past simple negative",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "not",
+        "I",
+        "go",
+        "did",
+        "to school"
+      ],
+      "answers": [
+        "I did not go to school."
+      ],
+      "explanation": "Subject + did not + base verb: I did not go to school.",
+      "points": 1
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Past simple negative",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We didn't went to the park.",
+      "answers": [
+        "We didn't go to the park.",
+        "We did not go to the park."
+      ],
+      "explanation": "After \"didn't\" use the base verb: go.",
+      "points": 1
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Days: prepositions",
+      "prompt": "Choose the correct word.",
+      "text": "We have no school ___ Saturday.",
+      "options": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer": 2,
+      "explanation": "Use \"on\" with days: on Saturday.",
+      "points": 1
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Past simple: see",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "🦁 We ___ lions at the zoo. (see)",
+      "answers": [
+        "saw"
+      ],
+      "explanation": "\"See\" is irregular. The past is \"saw\".",
+      "points": 1
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Adverbs",
+      "prompt": "Choose the correct word.",
+      "text": "I played football ___ with my brother.",
+      "options": [
+        "happily",
+        "happy",
+        "happier"
+      ],
+      "answer": 0,
+      "explanation": "Use an adverb to say how: happily.",
+      "points": 1
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Time expressions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "Sunday",
+        "went",
+        "Mai",
+        "on",
+        "shopping"
+      ],
+      "answers": [
+        "Mai went shopping on Sunday.",
+        "On Sunday Mai went shopping."
+      ],
+      "explanation": "Who + went + what + when: Mai went shopping on Sunday.",
+      "points": 1
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Past simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We was at my grandma's house on Sunday.",
+      "answers": [
+        "We were at my grandma's house on Sunday."
+      ],
+      "explanation": "Use \"were\" with we, you and they.",
+      "points": 1
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Time of day",
+      "prompt": "Write the missing word.",
+      "text": "I read a book in the morning and played games in the ___.",
+      "answers": [
+        "afternoon",
+        "evening"
+      ],
+      "explanation": "We say \"in the afternoon\" or \"in the evening\".",
+      "points": 1
+    }
+  ],
+  "task": {
+    "genre": "Short text",
+    "prompt": "Write about your weekend.",
+    "contentPoints": [
+      "Say where you went.",
+      "Say who you were with.",
+      "Say what you did.",
+      "Say if you liked it."
+    ],
+    "minWords": 20,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "On Saturday I ...",
+      "I went to ...",
+      "I played / ate / saw ...",
+      "It was ...",
+      "I liked it because ..."
+    ],
+    "modelAnswer": "Last weekend was great. On Saturday I went to the park with my brother Nam. We played football and ate ice cream. On Sunday I visited my grandma. She made noodles for us. I liked my weekend because it was fun."
+  }
+}

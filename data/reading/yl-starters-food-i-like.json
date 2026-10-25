@@ -1,0 +1,217 @@
+{
+  "id": "yl-s-food-i-like",
+  "title": "Food I Like",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Nam tells us about the food he likes.",
+  "instructions": "Read about Nam and food. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🍜 Hello! I am Nam. I like food."
+    },
+    {
+      "id": "p2",
+      "text": "In the morning, I eat bread and an egg. I drink milk."
+    },
+    {
+      "id": "p3",
+      "text": "At lunch, I eat rice and chicken. I like fish, too. I do not like carrots."
+    },
+    {
+      "id": "p4",
+      "text": "I love fruit. I like bananas and apples. Mangoes are my favourite."
+    },
+    {
+      "id": "p5",
+      "text": "My mum cooks soup for dinner. I like it. It is yummy!"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text about?",
+      "options": [
+        "Animals Nam likes",
+        "Toys Nam likes",
+        "Food Nam likes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam says, 'I like food.'",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I like food."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What does Nam eat in the morning?",
+      "options": [
+        "Rice and fish",
+        "Bread and an egg",
+        "Cake and milk"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He eats bread and an egg.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In the morning, I eat bread and an egg."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Does Nam drink juice?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam drinks milk.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "I drink milk."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What does Nam eat at lunch?",
+      "options": [
+        "Rice and chicken",
+        "Bread and cheese",
+        "Soup and eggs"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "At lunch he eats rice and chicken.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "At lunch, I eat rice and chicken."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Does Nam like fish?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam likes fish.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "I like fish, too."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "🥕 Does Nam like carrots?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam does not like carrots.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "I do not like carrots."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Does Nam like bananas?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam likes bananas and apples.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "I like bananas and apples."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "The word \"favourite\" means...",
+      "options": [
+        "the one you do not like",
+        "the one you like best",
+        "the one that is cold"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Your favourite is the one you like best.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Mangoes are my favourite."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "🍲 What does Nam's mum cook for dinner?",
+      "options": [
+        "Rice",
+        "Soup",
+        "Noodles"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His mum cooks soup.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "My mum cooks soup for dinner."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Does Nam like the soup?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam likes it and says it is yummy.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "I like it."
+        }
+      ]
+    }
+  ]
+}

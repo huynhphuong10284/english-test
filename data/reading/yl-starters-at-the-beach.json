@@ -1,0 +1,218 @@
+{
+  "id": "yl-s-at-the-beach",
+  "title": "At the Beach",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Nam has a fun day at the beach.",
+  "instructions": "Read about Nam at the beach. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🏖️ Nam is at the beach with his mum and dad. It is a hot, sunny day."
+    },
+    {
+      "id": "p2",
+      "text": "Nam has got a red bucket and a blue spade. He makes a big sand castle."
+    },
+    {
+      "id": "p3",
+      "text": "His sister Linh is in the sea. She can swim. She has got a yellow ball."
+    },
+    {
+      "id": "p4",
+      "text": "Nam sees two small crabs under a rock. Then he finds three shells."
+    },
+    {
+      "id": "p5",
+      "text": "Mum has got ice creams. Nam likes strawberry ice cream. Linh likes banana ice cream."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the story about?",
+      "options": [
+        "A day at the beach",
+        "A day at school",
+        "A day on the farm"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam is at the beach with his family.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Nam is at the beach with his mum and dad."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Is it a rainy day?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It is a hot, sunny day, not a rainy day.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It is a hot, sunny day."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What colour is Nam's bucket?",
+      "options": [
+        "Blue",
+        "Red",
+        "Yellow"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam has got a red bucket.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Nam has got a red bucket and a blue spade."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Does Nam make a sand castle?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He makes a big sand castle.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He makes a big sand castle."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Who is in the sea?",
+      "options": [
+        "Mum",
+        "Linh",
+        "Dad"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His sister Linh is in the sea.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "His sister Linh is in the sea."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What has Linh got?",
+      "options": [
+        "A yellow ball",
+        "A red ball",
+        "A blue spade"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh has got a yellow ball.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She has got a yellow ball."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Can Linh swim?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, she can swim in the sea.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She can swim."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Where are the crabs?",
+      "options": [
+        "On a rock",
+        "Under a rock",
+        "In the sea"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam sees two crabs under a rock.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Nam sees two small crabs under a rock."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 4, shells are...",
+      "options": [
+        "things you find on the beach",
+        "things you eat for lunch",
+        "clothes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam finds shells on the beach.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Then he finds three shells."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Does Nam like banana ice cream?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam likes strawberry ice cream. Linh likes banana.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Nam likes strawberry ice cream."
+        }
+      ]
+    }
+  ]
+}

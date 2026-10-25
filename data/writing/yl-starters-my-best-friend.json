@@ -1,0 +1,172 @@
+{
+  "id": "w-yl-s-my-best-friend",
+  "title": "My Best Friend",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise have got, can and be, and write about your best friend.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Have got",
+      "prompt": "Choose the right word.",
+      "text": "🧑 My best friend ___ got brown hair.",
+      "options": [
+        "has",
+        "have",
+        "is"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"has got\" for one person: she or he has got."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "👀 She has got two blue ___. (s, e, y, e)",
+      "answers": [
+        "eyes"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"eyes\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "This is",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "is",
+        "my",
+        "This",
+        "friend"
+      ],
+      "answers": [
+        "This is my friend."
+      ],
+      "points": 1,
+      "explanation": "This + is + my + friend."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Can",
+      "prompt": "Choose the right word.",
+      "text": "Nam ___ run fast.",
+      "options": [
+        "is",
+        "has",
+        "can"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"can\" + a verb to say what you can do."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "⚽ We play with a ___. (l, a, b, l)",
+      "answers": [
+        "ball"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"ball\"."
+    },
+    {
+      "id": "e6",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "can",
+        "jump",
+        "Nam",
+        "high"
+      ],
+      "answers": [
+        "Nam can jump high."
+      ],
+      "points": 1,
+      "explanation": "Who + can + action: Nam can jump high."
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "Be",
+      "prompt": "Write is, am or are.",
+      "text": "Tom and I ___ friends.",
+      "answers": [
+        "are"
+      ],
+      "points": 1,
+      "explanation": "Use \"are\" with two people: Tom and I are friends."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🎒 She has a red ___. (g, b, a)",
+      "answers": [
+        "bag"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"bag\"."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Articles",
+      "prompt": "Choose the right word.",
+      "text": "Mia has got ___ cat.",
+      "options": [
+        "a",
+        "two",
+        "is"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"a\" with one thing: a cat."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Be",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "we",
+        "happy",
+        "are"
+      ],
+      "answers": [
+        "We are happy."
+      ],
+      "points": 1,
+      "explanation": "We + are + happy."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your best friend.",
+    "contentPoints": [
+      "Say who your friend is.",
+      "Say what your friend looks like.",
+      "Say what your friend can do."
+    ],
+    "usefulLanguage": [
+      "This is my best friend.",
+      "Her/His name is ...",
+      "She/He has got ...",
+      "She/He can ...",
+      "I like ..."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "modelAnswer": "This is my best friend. Her name is Linh. She is eight. She has got long black hair. She can run fast. I like Linh."
+  }
+}

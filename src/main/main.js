@@ -16,7 +16,8 @@ let exams = new Map();
 let results; // ResultsStore, created once the app is ready (needs app.getPath)
 const dictionary = new Dictionary(
   path.join(DATA_DIR, 'dictionary', 'wordnet.json'),
-  path.join(DATA_DIR, 'dictionary', 'supplement.json')
+  path.join(DATA_DIR, 'dictionary', 'supplement.json'),
+  path.join(DATA_DIR, 'dictionary', 'vi.json')
 );
 
 function createWindow() {
@@ -110,6 +111,7 @@ function registerIpc() {
       skill: exam.skill,
       title: exam.title,
       level: exam.level,
+      group: exam.group,
       description: exam.description,
       ...(exam.skill === 'writing'
         ? { exerciseCount: exam.exercises.length, genre: exam.task.genre, minWords: exam.task.minWords, maxWords: exam.task.maxWords }

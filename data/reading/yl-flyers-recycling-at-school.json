@@ -1,0 +1,427 @@
+{
+  "id": "yl-f-recycling-at-school",
+  "title": "Recycling at School",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Children start a recycling project at their school.",
+  "instructions": "Read about the recycling project. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🌍 Last month, our school started a recycling project. Our headteacher said, 'We throw away too much rubbish, and it is bad for our planet.' Everyone in Class 5 wanted to help."
+    },
+    {
+      "id": "p2",
+      "text": "First, we put four big boxes in the playground. Each box has a different colour and a picture. The blue box is for paper, the green box is for glass, the yellow box is for plastic bottles, and the red box is for batteries."
+    },
+    {
+      "id": "p3",
+      "text": "Linh and Sam are the 'Recycling Captains'. Every morning, they check the boxes and put the right things in them. If someone puts a banana skin in the paper box, they take it out and explain the mistake."
+    },
+    {
+      "id": "p4",
+      "text": "Our teacher, Ms Green, told us that paper is made from trees. If we recycle paper, we can save many trees. We were very surprised when we heard that!"
+    },
+    {
+      "id": "p5",
+      "text": "We also had a competition to make something new from old things. Mai made a pencil box from a plastic bottle, and Ben made a robot from empty cans. The robot had two bottle-top eyes and it looked very funny. Ben won first prize."
+    },
+    {
+      "id": "p6",
+      "text": "Now our school has a rubbish-free day every Friday. Children bring their lunch in boxes instead of plastic bags, and they drink water from their own bottles. The canteen has stopped using plastic cups, too."
+    },
+    {
+      "id": "p7",
+      "text": "After two months, we have collected over three hundred kilos of paper and plastic. The headteacher says that the money from selling it will buy new books for the library. We are proud of our project, and we are going to ask other schools to join us."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A recycling project at a school",
+        "A school football match",
+        "A new school building"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Last month, our school started a recycling project.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last month, our school started a recycling project."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Who said, \"We throw away too much rubbish\"?",
+      "options": [
+        "Ms Green",
+        "The headteacher",
+        "Linh"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Our headteacher said, 'We throw away too much rubbish, and it is bad for our planet.'\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Our headteacher said, 'We throw away too much rubbish, and it is bad for our planet.'"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Which class is the writer in?",
+      "options": [
+        "Class 4",
+        "Class 6",
+        "Class 5",
+        "Class 1"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Everyone in Class 5 wanted to help.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Everyone in Class 5 wanted to help."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "How many big boxes did the school put in the playground?",
+      "options": [
+        "Two",
+        "Three",
+        "Five",
+        "Four"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says: \"First, we put four big boxes in the playground.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "First, we put four big boxes in the playground."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What is the blue box for?",
+      "options": [
+        "Glass",
+        "Paper",
+        "Batteries"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"The blue box is for paper\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The blue box is for paper"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What is the red box for?",
+      "options": [
+        "Plastic bottles",
+        "Batteries",
+        "Paper",
+        "Glass"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"and the red box is for batteries.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "and the red box is for batteries."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Who are the Recycling Captains?",
+      "options": [
+        "Linh and Sam",
+        "Mai and Ben",
+        "Ms Green and Linh"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Linh and Sam are the 'Recycling Captains'.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Linh and Sam are the 'Recycling Captains'."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What do the Captains do every morning?",
+      "options": [
+        "They cook lunch.",
+        "They check the boxes.",
+        "They clean the playground."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Every morning, they check the boxes and put the right things in them.\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Every morning, they check the boxes and put the right things in them."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 3, \"explain the mistake\" means...",
+      "options": [
+        "laugh at someone",
+        "take a photo",
+        "say why something is wrong"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "To explain means to tell someone why. The Captains tell why the banana skin is wrong.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "they take it out and explain the mistake"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What is paper made from?",
+      "options": [
+        "Glass",
+        "Trees",
+        "Plastic",
+        "Metal"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Our teacher, Ms Green, told us that paper is made from trees.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Our teacher, Ms Green, told us that paper is made from trees."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "How did the children feel about the news in paragraph 4?",
+      "options": [
+        "Bored",
+        "Surprised",
+        "Afraid"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"We were very surprised when we heard that!\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "We were very surprised when we heard that!"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What did Mai make?",
+      "options": [
+        "A robot from cans",
+        "A bag from paper",
+        "A pencil box from a plastic bottle"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Mai made a pencil box from a plastic bottle\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Mai made a pencil box from a plastic bottle"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What did Ben make his robot from?",
+      "options": [
+        "Empty cans",
+        "Old shoes",
+        "Glass bottles",
+        "Paper boxes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Ben made a robot from empty cans.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Ben made a robot from empty cans."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Who won first prize?",
+      "options": [
+        "Mai",
+        "Ben",
+        "Sam"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says: \"Ben won first prize.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Ben won first prize."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "Which day is the rubbish-free day?",
+      "options": [
+        "Monday",
+        "Sunday",
+        "Friday",
+        "Wednesday"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"Now our school has a rubbish-free day every Friday.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Now our school has a rubbish-free day every Friday."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "What do children bring their lunch in?",
+      "options": [
+        "Boxes",
+        "Plastic bags",
+        "Paper bags"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"Children bring their lunch in boxes instead of plastic bags\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Children bring their lunch in boxes instead of plastic bags"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What has the canteen stopped using?",
+      "options": [
+        "Plastic cups",
+        "Paper plates",
+        "Glass bottles",
+        "Metal spoons"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"The canteen has stopped using plastic cups, too.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The canteen has stopped using plastic cups, too."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What will the money from selling paper and plastic buy?",
+      "options": [
+        "New computers",
+        "Pencils for the class",
+        "New books for the library"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says: \"the money from selling it will buy new books for the library\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the money from selling it will buy new books for the library"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What are the children going to do next?",
+      "options": [
+        "Ask other schools to join them",
+        "Stop the project",
+        "Buy a new playground"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says: \"we are going to ask other schools to join us\"",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "we are going to ask other schools to join us"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why did the writer write this text?",
+      "options": [
+        "To sell recycled things",
+        "To tell us about the school's recycling project",
+        "To ask for money"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The whole text tells us what the school does to recycle.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last month, our school started a recycling project."
+        }
+      ]
+    }
+  ]
+}

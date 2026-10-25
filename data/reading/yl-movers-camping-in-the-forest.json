@@ -1,0 +1,319 @@
+{
+  "id": "yl-m-camping-in-the-forest",
+  "title": "Camping in the Forest",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Linh and Minh go camping with their uncle.",
+  "instructions": "Read about Linh and Minh. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "⛺ Last weekend, Linh and her brother Minh went camping in the forest with their uncle."
+    },
+    {
+      "id": "p2",
+      "text": "They walked for two hours. The path was long and the weather was hot. Minh was tired, but Linh was not."
+    },
+    {
+      "id": "p3",
+      "text": "At the top of the hill, they put up the tent next to a small river. Uncle made a fire and cooked sausages."
+    },
+    {
+      "id": "p4",
+      "text": "In the evening, they sat by the fire and sang songs. The sky was clear and they saw hundreds of stars."
+    },
+    {
+      "id": "p5",
+      "text": "At night, Minh heard a strange noise. 'What is that?' he asked. Uncle laughed. 'It is only an owl,' he said."
+    },
+    {
+      "id": "p6",
+      "text": "In the morning, they swam in the river. The water was very cold, but it was fun. They went home after lunch and slept in the car."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A camping trip in the forest",
+        "A day at school",
+        "A visit to the sea"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"Linh and her brother Minh went camping in the forest with their uncle.\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Linh and her brother Minh went camping in the forest with their uncle."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Who went camping with Linh and Minh?",
+      "options": [
+        "Their dad",
+        "Their uncle",
+        "Their teacher"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"went camping in the forest with their uncle\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "went camping in the forest with their uncle"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "When did they go camping?",
+      "options": [
+        "Last week",
+        "Last month",
+        "Last weekend"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Last weekend, Linh and her brother Minh went camping\"",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last weekend, Linh and her brother Minh went camping"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "How long did they walk?",
+      "options": [
+        "For two hours",
+        "For two days",
+        "For ten minutes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"They walked for two hours.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They walked for two hours."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "⛺ Was the weather cold?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"the weather was hot\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "the weather was hot"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "Who was tired?",
+      "options": [
+        "Linh",
+        "Uncle",
+        "Minh"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Minh was tired, but Linh was not.\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Minh was tired, but Linh was not."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Where did they put up the tent?",
+      "options": [
+        "Next to a small river",
+        "Under a big tree",
+        "In a field"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"they put up the tent next to a small river\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "they put up the tent next to a small river"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did Uncle cook?",
+      "options": [
+        "Fish",
+        "Sausages",
+        "Rice"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"cooked sausages\"",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "cooked sausages"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"path\" means...",
+      "options": [
+        "a big house",
+        "a kind of river",
+        "a small road for walking"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"The path was long\"",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The path was long"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did they do by the fire?",
+      "options": [
+        "They sang songs",
+        "They played football",
+        "They did homework"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"they sat by the fire and sang songs\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "they sat by the fire and sang songs"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "Did they see stars in the sky?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"they saw hundreds of stars\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "they saw hundreds of stars"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What did Minh hear at night?",
+      "options": [
+        "Some music",
+        "The rain",
+        "A strange noise"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"Minh heard a strange noise.\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Minh heard a strange noise."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "What made the noise?",
+      "options": [
+        "An owl",
+        "A dog",
+        "A car"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Look at the text: \"It is only an owl,\"",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It is only an owl,"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did they do in the morning?",
+      "options": [
+        "They climbed a hill",
+        "They swam in the river",
+        "They played football"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Look at the text: \"In the morning, they swam in the river.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "In the morning, they swam in the river."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "Where did they sleep on the way home?",
+      "options": [
+        "In the tent",
+        "On the bus",
+        "In the car"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Look at the text: \"slept in the car\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "slept in the car"
+        }
+      ]
+    }
+  ]
+}

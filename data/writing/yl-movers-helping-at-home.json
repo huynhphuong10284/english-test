@@ -1,0 +1,245 @@
+{
+  "id": "w-yl-m-helping-at-home",
+  "title": "Helping at Home",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise have to, must and housework words, and write about helping at home.",
+  "instructions": "Do the exercises in Part 1. Then write about helping at home in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Housework",
+      "prompt": "Choose the correct word.",
+      "text": "🧹 I ___ the floor with a brush.",
+      "options": [
+        "sweep",
+        "cook",
+        "wash"
+      ],
+      "answer": 0,
+      "explanation": "You sweep the floor with a brush.",
+      "points": 1
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Have to",
+      "prompt": "Write the missing word.",
+      "text": "I ___ to tidy my room every day.",
+      "answers": [
+        "have"
+      ],
+      "explanation": "\"Have to\" means you must do it.",
+      "points": 1
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Present simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the dishes",
+        "washes",
+        "Dad",
+        "after dinner"
+      ],
+      "answers": [
+        "Dad washes the dishes after dinner.",
+        "After dinner Dad washes the dishes."
+      ],
+      "explanation": "Subject + verb + thing + time.",
+      "points": 1
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Have to",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Mai have to help her mum on Saturday.",
+      "answers": [
+        "Mai has to help her mum on Saturday."
+      ],
+      "explanation": "With he, she, it we say \"has to\".",
+      "points": 1
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Must",
+      "prompt": "Choose the correct word.",
+      "text": "You ___ be kind and help your family.",
+      "options": [
+        "are",
+        "must",
+        "can't"
+      ],
+      "answer": 1,
+      "explanation": "\"Must\" shows something is important.",
+      "points": 1
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Prepositions",
+      "prompt": "Write in, on or under.",
+      "text": "Please put your toys ___ the box.",
+      "answers": [
+        "in",
+        "into"
+      ],
+      "explanation": "We put things in a box.",
+      "points": 1
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Present continuous",
+      "prompt": "Choose the correct word.",
+      "text": "🍳 Look! My dad ___ dinner now.",
+      "options": [
+        "cooks",
+        "cooked",
+        "is cooking"
+      ],
+      "answer": 2,
+      "explanation": "Use \"is cooking\" for something happening now.",
+      "points": 1
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Present continuous",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "am",
+        "the plants",
+        "watering",
+        "I"
+      ],
+      "answers": [
+        "I am watering the plants."
+      ],
+      "explanation": "I + am + verb-ing + thing.",
+      "points": 1
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Present continuous",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Linh is wash the car with her dad.",
+      "answers": [
+        "Linh is washing the car with her dad."
+      ],
+      "explanation": "After \"is\" use verb + -ing: washing.",
+      "points": 1
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Past simple",
+      "prompt": "Choose the correct word.",
+      "text": "Yesterday I ___ my grandma in the kitchen.",
+      "options": [
+        "helped",
+        "help",
+        "helps"
+      ],
+      "answer": 0,
+      "explanation": "Yesterday means the past: helped.",
+      "points": 1
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Past simple: make",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "My brother ___ his bed this morning. (make)",
+      "answers": [
+        "made"
+      ],
+      "explanation": "\"Make\" is irregular. The past is \"made\".",
+      "points": 1
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Adverbs",
+      "prompt": "Choose the correct word.",
+      "text": "I tidy my room ___ every morning.",
+      "options": [
+        "quick",
+        "quickly",
+        "quicker"
+      ],
+      "answer": 1,
+      "explanation": "Use an adverb to say how you do it.",
+      "points": 1
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Past simple negative",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "not",
+        "Tom",
+        "his",
+        "tidy",
+        "did",
+        "room"
+      ],
+      "answers": [
+        "Tom did not tidy his room."
+      ],
+      "explanation": "Subject + did not + base verb + thing.",
+      "points": 1
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Past simple negative",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I didn't cleaned my room.",
+      "answers": [
+        "I didn't clean my room.",
+        "I did not clean my room."
+      ],
+      "explanation": "After \"didn't\" use the base verb: clean.",
+      "points": 1
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Present simple",
+      "prompt": "Write the verb in brackets in the correct form.",
+      "text": "My mum and I ___ the dishes together after dinner. (wash)",
+      "answers": [
+        "wash"
+      ],
+      "explanation": "With I and plural subjects use the base verb: wash.",
+      "points": 1
+    }
+  ],
+  "task": {
+    "genre": "Short text",
+    "prompt": "Write about how you help at home.",
+    "contentPoints": [
+      "Say who you help.",
+      "Say what jobs you do.",
+      "Say when you do them.",
+      "Say how you feel."
+    ],
+    "minWords": 20,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "I help my ...",
+      "I have to ...",
+      "Every day I ...",
+      "Yesterday I ...",
+      "I feel ... because ..."
+    ],
+    "modelAnswer": "I help my mum and dad at home every day. I have to tidy my room and I wash the dishes after dinner. Yesterday I helped my dad in the garden. We watered the plants. I feel happy because I help my family."
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "id": "yl-s-a-birthday-party",
+  "title": "A Birthday Party",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Mai has a happy birthday party at home.",
+  "instructions": "Read about Mai's party. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🎂 Today is Mai's birthday. She is eight years old."
+    },
+    {
+      "id": "p2",
+      "text": "Mai has got a big party at home. Five friends are here. They are in the living room."
+    },
+    {
+      "id": "p3",
+      "text": "There is a pink cake on the table. It has got eight candles. There are also apples, sandwiches and juice."
+    },
+    {
+      "id": "p4",
+      "text": "Mai's friend Ben has got a present for her. It is a small brown teddy bear. Mai says, 'I love it!'"
+    },
+    {
+      "id": "p5",
+      "text": "The children sing 'Happy Birthday'. Then they dance and play games. Everyone is happy."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the story about?",
+      "options": [
+        "Mai's birthday party",
+        "A trip to the zoo",
+        "A school lesson"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is Mai's birthday and she has a party.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Today is Mai's birthday."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Is Mai eight years old?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, she is eight years old.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She is eight years old."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How many friends are at the party?",
+      "options": [
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Five friends are at the party.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Five friends are here."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Where are the children?",
+      "options": [
+        "In the garden",
+        "In the living room",
+        "In the kitchen"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They are in the living room.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They are in the living room."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What colour is the cake?",
+      "options": [
+        "Pink",
+        "White",
+        "Brown"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "There is a pink cake on the table.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "There is a pink cake on the table."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Are there ten candles on the cake?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The cake has got eight candles.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "It has got eight candles."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 4, a present is...",
+      "options": [
+        "something you give to a person",
+        "a kind of food",
+        "a room"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben gives Mai a present for her birthday.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Mai's friend Ben has got a present for her."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What is the present?",
+      "options": [
+        "A small brown dog",
+        "A small brown teddy bear",
+        "A big red ball"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The present is a small brown teddy bear.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It is a small brown teddy bear."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Do the children sing?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes, they sing 'Happy Birthday'.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The children sing 'Happy Birthday'."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What do the children do after the song?",
+      "options": [
+        "They go home",
+        "They watch TV",
+        "They dance and play games"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Then they dance and play games.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Then they dance and play games."
+        }
+      ]
+    }
+  ]
+}

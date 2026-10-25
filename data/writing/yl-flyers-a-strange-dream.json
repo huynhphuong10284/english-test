@@ -1,0 +1,325 @@
+{
+  "id": "w-yl-f-a-strange-dream",
+  "title": "A Strange Dream",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise past tenses and linking words, then write a short story about a dream.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple",
+      "prompt": "Choose the correct word.",
+      "text": "🌙 Last night I ___ a strange dream.",
+      "options": [
+        "have",
+        "had",
+        "has",
+        "having"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The past of \"have\" is \"had\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past continuous",
+      "prompt": "Write one word in the gap.",
+      "text": "I ___ flying over the town when I saw a giant bird.",
+      "answers": [
+        "was"
+      ],
+      "points": 1,
+      "explanation": "Use was with I in the past continuous."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a",
+        "opened",
+        "Tom",
+        "big",
+        "door",
+        "the",
+        "behind",
+        "tree"
+      ],
+      "answers": [
+        "Tom opened a big door behind the tree.",
+        "Behind the tree Tom opened a big door."
+      ],
+      "points": 1,
+      "explanation": "Subject + past verb + object + place."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct word.",
+      "text": "I was scared ___ the forest was very dark.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "if"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Because\" gives a reason."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Irregular past",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Then a fish swimmed up to me.",
+      "answers": [
+        "Then a fish swam up to me."
+      ],
+      "points": 1,
+      "explanation": "The past of \"swim\" is \"swam\"."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Past simple negative",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "The bird could talk.",
+      "keyword": "COULDN'T",
+      "answers": [
+        "The bird couldn't talk."
+      ],
+      "points": 1,
+      "explanation": "Use couldn't + base verb for something not possible in the past."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct word.",
+      "text": "While I ___ in the garden, it began to snow.",
+      "options": [
+        "walk",
+        "was walking",
+        "walked",
+        "am walking"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use the past continuous for a longer action: was walking."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write one word in the gap.",
+      "text": "I met a rabbit ___ wore a red hat.",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "points": 1,
+      "explanation": "Use \"who\" or \"that\" for a talking animal."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "ran",
+        "we",
+        "and",
+        "the",
+        "hid",
+        "cave",
+        "in"
+      ],
+      "answers": [
+        "We ran and hid in the cave."
+      ],
+      "points": 1,
+      "explanation": "Two past verbs joined with \"and\"."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Time words",
+      "prompt": "Choose the correct word.",
+      "text": "I woke up ___ I heard my alarm.",
+      "options": [
+        "when",
+        "if",
+        "but",
+        "or"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"When\" shows the time."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I didn't saw my mum in the dream.",
+      "answers": [
+        "I didn't see my mum in the dream."
+      ],
+      "points": 1,
+      "explanation": "After \"didn't\" use the base verb: see."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Might",
+      "prompt": "Write one word in the gap.",
+      "text": "Maybe the dream was about my exam. It ___ be true.",
+      "answers": [
+        "might",
+        "may"
+      ],
+      "points": 1,
+      "explanation": "\"Might\" talks about something possible."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Prepositions of movement",
+      "prompt": "Choose the correct word.",
+      "text": "The dragon flew ___ the mountain.",
+      "options": [
+        "over",
+        "at",
+        "in",
+        "on"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We fly over a mountain."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Adjectives",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "I was frightened of the big dog.",
+      "keyword": "AFRAID",
+      "answers": [
+        "I was afraid of the big dog."
+      ],
+      "points": 1,
+      "explanation": "\"Afraid\" and \"frightened\" mean the same thing."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Past simple",
+      "prompt": "Write one word in the gap.",
+      "text": "Suddenly, the floor ___ and I fell down. (disappear)",
+      "answers": [
+        "disappeared"
+      ],
+      "points": 1,
+      "explanation": "Add -ed to disappear."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Past continuous",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "were",
+        "the",
+        "stars",
+        "shining",
+        "brightly"
+      ],
+      "answers": [
+        "The stars were shining brightly."
+      ],
+      "points": 1,
+      "explanation": "Subject + were + verb-ing + adverb."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Adverbs",
+      "prompt": "Choose the correct word.",
+      "text": "The giant walked ___ across the field.",
+      "options": [
+        "slow",
+        "slowly",
+        "slower",
+        "slowness"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "An adverb tells how: slowly."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Past simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "In my dream, my cat were very big.",
+      "answers": [
+        "In my dream, my cat was very big."
+      ],
+      "points": 1,
+      "explanation": "Use \"was\" with one thing: my cat was."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Linking words",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "I woke up. After that I felt happy.",
+      "keyword": "FELT",
+      "answers": [
+        "After I woke up, I felt happy.",
+        "I felt happy after I woke up."
+      ],
+      "points": 1,
+      "explanation": "Use \"after\" to join the two events."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Present perfect",
+      "prompt": "Write one word in the gap.",
+      "text": "I ___ never had such a funny dream before.",
+      "answers": [
+        "have",
+        "'ve"
+      ],
+      "points": 1,
+      "explanation": "Use have + never + past participle."
+    }
+  ],
+  "task": {
+    "genre": "Short story",
+    "prompt": "Write a story called \"A Strange Dream\". Say what you dreamed about.",
+    "contentPoints": [
+      "Say where you were.",
+      "Say what strange thing happened.",
+      "Say how you felt.",
+      "Say how the dream ended."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "Last night I dreamed that ...",
+      "Suddenly, ...",
+      "I was ... when ...",
+      "I felt ...",
+      "Then I woke up."
+    ],
+    "modelAnswer": "Last night I dreamed that I was flying over my school. Suddenly, I saw a big yellow rabbit who was sitting on a cloud. It said, \"Come with me!\" I felt very happy, but a little afraid. We flew to a castle made of ice cream. Then my alarm rang and I woke up. I was hungry!"
+  }
+}

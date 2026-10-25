@@ -1,0 +1,174 @@
+{
+  "id": "w-yl-s-my-favourite-animal",
+  "title": "My Favourite Animal",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise can, has got and is, and write about your favourite animal.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Be",
+      "prompt": "Choose the right word.",
+      "text": "🐘 An elephant ___ big.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"is\" with one animal: an elephant is big."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🐶 This is a ___. (o, d, g)",
+      "answers": [
+        "dog"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"dog\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "It is",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "a",
+        "is",
+        "It",
+        "rabbit"
+      ],
+      "answers": [
+        "It is a rabbit."
+      ],
+      "points": 1,
+      "explanation": "It + is + a + animal."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Can",
+      "prompt": "Choose the right word.",
+      "text": "🐦 Birds can ___.",
+      "options": [
+        "fly",
+        "flies",
+        "flying"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After \"can\" we use the short verb: can fly."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🐟 A ___ can swim. (s, i, f, h)",
+      "answers": [
+        "fish"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"fish\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Has got",
+      "prompt": "Write has or have.",
+      "text": "A monkey ___ got a long tail.",
+      "answers": [
+        "has"
+      ],
+      "points": 1,
+      "explanation": "Use \"has got\" with one animal."
+    },
+    {
+      "id": "e7",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "can",
+        "jump",
+        "Frogs",
+        "high"
+      ],
+      "answers": [
+        "Frogs can jump high."
+      ],
+      "points": 1,
+      "explanation": "Animals + can + action."
+    },
+    {
+      "id": "e8",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the right word.",
+      "text": "🐱 The cat is ___ the box.",
+      "options": [
+        "to",
+        "at",
+        "in"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"in\" for inside a box."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🐰 A rabbit has long ___. (r, a, e, s)",
+      "answers": [
+        "ears"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"ears\"."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Has got",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "two",
+        "It",
+        "ears",
+        "has",
+        "big"
+      ],
+      "answers": [
+        "It has two big ears."
+      ],
+      "points": 1,
+      "explanation": "It + has + number + adjective + noun."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your favourite animal.",
+    "contentPoints": [
+      "Say what it is.",
+      "Say what colour it is.",
+      "Say what it can do."
+    ],
+    "usefulLanguage": [
+      "My favourite animal is ...",
+      "It is ...",
+      "It has got ...",
+      "It can ...",
+      "I like ..."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "modelAnswer": "My favourite animal is a cat. Its name is Kiki. It is white. It can jump and run. I like my cat."
+  }
+}

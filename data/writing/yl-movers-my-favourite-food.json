@@ -1,0 +1,239 @@
+{
+  "id": "w-yl-m-my-favourite-food",
+  "title": "My Favourite Food",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise food words, present simple and past simple, and write about your favourite food.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Be: plural",
+      "prompt": "Choose the correct word.",
+      "text": "🍜 Noodles ___ my favourite food.",
+      "options": [
+        "is",
+        "am",
+        "are"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Noodles is plural, so use \"are\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: eat",
+      "prompt": "Write the missing word.",
+      "text": "Yesterday I ___ rice and fish for dinner. (eat)",
+      "answers": [
+        "ate"
+      ],
+      "points": 1,
+      "explanation": "The past of \"eat\" is \"ate\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Adjectives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "hot soup",
+        "like",
+        "I"
+      ],
+      "answers": [
+        "I like hot soup."
+      ],
+      "points": 1,
+      "explanation": "Subject + like + adjective + noun: I like hot soup."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "🍦 Ice cream is ___ than fruit.",
+      "options": [
+        "sweeter",
+        "sweet",
+        "sweetest"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"sweeter than\" to compare two things."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Present simple: -s",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My mum cook very well.",
+      "answers": [
+        "My mum cooks very well."
+      ],
+      "points": 1,
+      "explanation": "Add -s to the verb with he, she and it: she cooks."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Because / but",
+      "prompt": "Complete with because or but.",
+      "text": "I do not like fish ___ it has bones.",
+      "answers": [
+        "because"
+      ],
+      "points": 1,
+      "explanation": "Use \"because\" to give a reason."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Must",
+      "prompt": "Choose the correct word.",
+      "text": "You ___ wash your hands before you eat.",
+      "options": [
+        "musts",
+        "must",
+        "are must"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"must\" for something you need to do."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Superlatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "makes",
+        "My dad",
+        "the best",
+        "pancakes"
+      ],
+      "answers": [
+        "My dad makes the best pancakes."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + the best + noun."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Superlatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "This is the most good cake.",
+      "answers": [
+        "This is the best cake."
+      ],
+      "points": 1,
+      "explanation": "The superlative of \"good\" is \"the best\"."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Do questions",
+      "prompt": "Choose the correct word.",
+      "text": "Do you ___ soup?",
+      "options": [
+        "likes",
+        "liking",
+        "like"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "After \"do you\" use the base verb: like."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Does not",
+      "prompt": "Write the missing word.",
+      "text": "Mai ___ not like spicy food. (do)",
+      "answers": [
+        "does"
+      ],
+      "points": 1,
+      "explanation": "Use \"does not\" with he, she and it."
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Past simple: have",
+      "prompt": "Choose the correct word.",
+      "text": "🍕 We ___ pizza last Friday.",
+      "options": [
+        "had",
+        "have",
+        "has"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The past of \"have\" is \"had\"."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Meals",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "for lunch",
+        "I",
+        "a sandwich",
+        "had"
+      ],
+      "answers": [
+        "I had a sandwich for lunch."
+      ],
+      "points": 1,
+      "explanation": "Subject + had + food + for + meal."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Want to",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I want eat some fruit.",
+      "answers": [
+        "I want to eat some fruit."
+      ],
+      "points": 1,
+      "explanation": "We say \"want to + verb\"."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "There is / are",
+      "prompt": "Write the missing word.",
+      "text": "There ___ a lot of apples in the bowl.",
+      "answers": [
+        "are"
+      ],
+      "points": 1,
+      "explanation": "Use \"there are\" with plural nouns."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your favourite food. Say why you like it.",
+    "contentPoints": [
+      "Say what your favourite food is.",
+      "Say why you like it.",
+      "Say who makes it.",
+      "Say what you ate yesterday."
+    ],
+    "minWords": 25,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "My favourite food is ...",
+      "I like it because ...",
+      "My mum / dad makes ...",
+      "Yesterday I ate ...",
+      "It is better than ..."
+    ],
+    "modelAnswer": "My favourite food is pizza. I like it because it is hot and tasty. My dad makes the best pizza. He puts cheese and tomatoes on it. Yesterday I ate pizza for dinner. It was better than rice and fish!"
+  }
+}

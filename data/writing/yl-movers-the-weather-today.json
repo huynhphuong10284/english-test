@@ -1,0 +1,249 @@
+{
+  "id": "w-yl-m-the-weather-today",
+  "title": "The Weather Today",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise weather words, past simple and comparatives, and write about the weather.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present continuous",
+      "prompt": "Choose the correct word.",
+      "text": "🌧️ It ___ raining today.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"is\" with it: it is raining."
+    },
+    {
+      "id": "e2",
+      "type": "choice",
+      "focus": "Past simple: be",
+      "prompt": "Choose the correct word.",
+      "text": "Yesterday it ___ sunny.",
+      "options": [
+        "is",
+        "was",
+        "were"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Yesterday is the past, so use \"was\" with it."
+    },
+    {
+      "id": "e3",
+      "type": "gap-fill",
+      "focus": "Past simple: wear",
+      "prompt": "Write the missing word.",
+      "text": "Yesterday was cold, so I ___ my warm coat. (wear)",
+      "answers": [
+        "wore"
+      ],
+      "points": 1,
+      "explanation": "The past of \"wear\" is \"wore\"."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Word order",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "windy",
+        "It",
+        "today"
+      ],
+      "answers": [
+        "It is windy today.",
+        "Today it is windy."
+      ],
+      "points": 1,
+      "explanation": "Start with the subject: It is windy today."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "☀️ Summer is ___ than winter.",
+      "options": [
+        "hot",
+        "hottest",
+        "hotter"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"hotter than\" to compare two seasons."
+    },
+    {
+      "id": "e6",
+      "type": "error-correction",
+      "focus": "Present continuous",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It is rain now.",
+      "answers": [
+        "It is raining now."
+      ],
+      "points": 1,
+      "explanation": "After \"is\" we use the -ing form: raining."
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "Must / have to",
+      "prompt": "Write the missing word.",
+      "text": "You ___ take your umbrella when it rains.",
+      "answers": [
+        "must",
+        "have to"
+      ],
+      "points": 1,
+      "explanation": "Use \"must\" or \"have to\" for something you need to do."
+    },
+    {
+      "id": "e8",
+      "type": "choice",
+      "focus": "Superlatives",
+      "prompt": "Choose the correct word.",
+      "text": "Today is the ___ day of the week.",
+      "options": [
+        "hottest",
+        "hotter",
+        "hot"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"the hottest\" when you compare more than two days."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "went",
+        "to",
+        "We",
+        "the park",
+        "yesterday"
+      ],
+      "answers": [
+        "We went to the park yesterday.",
+        "Yesterday we went to the park."
+      ],
+      "points": 1,
+      "explanation": "Subject + went + to + place: We went to the park yesterday."
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Irregular past",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Yesterday it snowed and we goed outside.",
+      "answers": [
+        "Yesterday it snowed and we went outside."
+      ],
+      "points": 1,
+      "explanation": "The past of \"go\" is \"went\", not \"goed\"."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Weather words",
+      "prompt": "Choose the correct word.",
+      "text": "It is ___ in winter. We wear scarves.",
+      "options": [
+        "hot",
+        "cold",
+        "sunny"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "We wear scarves when it is cold."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Weather adjectives",
+      "prompt": "Write the missing word.",
+      "text": "⛈️ It was very ___ yesterday, so we stayed at home. (rain)",
+      "answers": [
+        "rainy"
+      ],
+      "points": 1,
+      "explanation": "The adjective for rain is \"rainy\"."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Adverbs of frequency",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "doesn't",
+        "often",
+        "rain",
+        "It",
+        "here"
+      ],
+      "answers": [
+        "It doesn't often rain here.",
+        "It doesn't rain here often."
+      ],
+      "points": 1,
+      "explanation": "Put \"often\" before the verb: It doesn't often rain here."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Today is more hot than yesterday.",
+      "answers": [
+        "Today is hotter than yesterday."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives add -er: hotter, not \"more hot\"."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Questions with be",
+      "prompt": "Choose the correct word.",
+      "text": "What ___ the weather like today?",
+      "options": [
+        "are",
+        "does",
+        "is"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"is\" with \"the weather\": What is the weather like?"
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about the weather today. Say what it is like and what you are doing.",
+    "contentPoints": [
+      "Say what the weather is like today.",
+      "Say what you are wearing.",
+      "Say what you are doing.",
+      "Say what the weather was like yesterday."
+    ],
+    "minWords": 25,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "Today it is ...",
+      "I am wearing ...",
+      "I am ...",
+      "Yesterday it was ...",
+      "I like / don't like this weather because ..."
+    ],
+    "modelAnswer": "Today it is sunny and hot. I am wearing a T-shirt and a hat. My friends and I are playing football in the park. Yesterday it was rainy and cold, so we stayed at home. I like sunny days because I can play outside."
+  }
+}

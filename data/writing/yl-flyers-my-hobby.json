@@ -1,0 +1,319 @@
+{
+  "id": "w-yl-f-my-hobby",
+  "title": "My Hobby",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise present perfect, like + -ing and frequency words, then write about your hobby.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Like + -ing",
+      "prompt": "Choose the correct word.",
+      "text": "🎨 My hobby is painting. I love ___ pictures of animals.",
+      "options": [
+        "draw",
+        "drawing",
+        "to drawing"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After \"love\" we can use the verb + -ing: love drawing."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present perfect",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "I have ___ (play) the guitar for two years.",
+      "answers": [
+        "played"
+      ],
+      "points": 1,
+      "explanation": "Present perfect = have + past participle: have played."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Frequency",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "school",
+        "after",
+        "practise",
+        "usually",
+        "I"
+      ],
+      "answers": [
+        "I usually practise after school."
+      ],
+      "points": 1,
+      "explanation": "Subject + usually + verb: I usually practise after school."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Prepositions of time",
+      "prompt": "Choose the correct word.",
+      "text": "I play chess ___ Saturdays.",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"on\" with days of the week: on Saturdays."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Present simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My brother don't like swimming.",
+      "answers": [
+        "My brother doesn't like swimming.",
+        "My brother does not like swimming."
+      ],
+      "points": 1,
+      "explanation": "With he, she or it we use \"doesn't\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Present perfect",
+      "prompt": "Write for or since.",
+      "text": "⚽ Minh has played football ___ he was five.",
+      "answers": [
+        "since"
+      ],
+      "points": 1,
+      "explanation": "Use \"since\" with a starting point in time."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Relative clauses",
+      "prompt": "Choose the correct word.",
+      "text": "My coach is a woman ___ teaches us to swim.",
+      "options": [
+        "which",
+        "who",
+        "where"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"who\" for people."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Present perfect questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "piano",
+        "the",
+        "played",
+        "you",
+        "have",
+        "long",
+        "How"
+      ],
+      "answers": [
+        "How long have you played the piano."
+      ],
+      "points": 1,
+      "explanation": "How long + have + subject + past participle: How long have you played the piano?"
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "Playing the guitar is ___ than playing the drums.",
+      "options": [
+        "more quiet",
+        "quieter",
+        "quietest"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Short adjectives take -er: quieter."
+    },
+    {
+      "id": "e10",
+      "type": "transformation",
+      "focus": "Present perfect",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word SINCE. Begin: \"I ...\"",
+      "text": "I started collecting stamps in 2022 and I still collect them.",
+      "keyword": "SINCE",
+      "answers": [
+        "I have collected stamps since 2022.",
+        "I have been collecting stamps since 2022."
+      ],
+      "points": 1,
+      "explanation": "Use \"since\" with a starting point: since 2022."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Past simple",
+      "prompt": "Write the past simple of the verb in brackets.",
+      "text": "📚 Last week I ___ (read) three books about space.",
+      "answers": [
+        "read"
+      ],
+      "points": 1,
+      "explanation": "\"Read\" has the same spelling in the past, but we say \"red\"."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Yesterday I maked a model plane with my dad.",
+      "answers": [
+        "Yesterday I made a model plane with my dad."
+      ],
+      "points": 1,
+      "explanation": "\"Make\" is irregular. The past simple is \"made\"."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Will",
+      "prompt": "Choose the correct word.",
+      "text": "I am sure that I ___ win the next match.",
+      "options": [
+        "am",
+        "will",
+        "do"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"will\" for a prediction."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Should",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "day",
+        "every",
+        "practise",
+        "to",
+        "try",
+        "should",
+        "You"
+      ],
+      "answers": [
+        "You should try to practise every day."
+      ],
+      "points": 1,
+      "explanation": "You should try to practise every day."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "First conditional",
+      "prompt": "Choose the correct word.",
+      "text": "If I practise a lot, I ___ better.",
+      "options": [
+        "get",
+        "got",
+        "will get"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "First conditional: if + present simple, will + base verb."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Prepositions",
+      "prompt": "Write in, on or at.",
+      "text": "🏊 I go swimming ___ the weekend with my sister.",
+      "answers": [
+        "at",
+        "on"
+      ],
+      "points": 1,
+      "explanation": "In English we say \"at the weekend\" (or \"on the weekend\")."
+    },
+    {
+      "id": "e17",
+      "type": "transformation",
+      "focus": "Going to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word GOING. Begin: \"Next ...\"",
+      "text": "My plan is to join the chess club next year.",
+      "keyword": "GOING",
+      "answers": [
+        "Next year I am going to join the chess club.",
+        "Next year I'm going to join the chess club."
+      ],
+      "points": 1,
+      "explanation": "\"Going to\" talks about plans."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Dancing is more fun that watching TV.",
+      "answers": [
+        "Dancing is more fun than watching TV."
+      ],
+      "points": 1,
+      "explanation": "We use \"than\" to compare things."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Must / have to",
+      "prompt": "Choose the correct word.",
+      "text": "You ___ wear a helmet when you ride a bike.",
+      "options": [
+        "must",
+        "can",
+        "might"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Must\" means it is very important."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Linking words",
+      "prompt": "Write because, so or but.",
+      "text": "🎸 I want to be in a band, ___ I practise the guitar every day.",
+      "answers": [
+        "so"
+      ],
+      "points": 1,
+      "explanation": "\"So\" shows the result."
+    }
+  ],
+  "task": {
+    "genre": "Short text",
+    "prompt": "Write about your hobby. Tell a new friend about it.",
+    "contentPoints": [
+      "Say what your hobby is.",
+      "Say how long you have done it.",
+      "Say when and where you do it.",
+      "Say why you like it."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "My hobby is ...",
+      "I have ... for ...",
+      "I usually ... on ...",
+      "I like it because ...",
+      "I am going to ..."
+    ],
+    "modelAnswer": "My hobby is playing football. I have played it for three years. I usually play with my friends in the park on Saturday morning. My coach, who is very kind, teaches us new skills. I like it because it is fun and it keeps me healthy. If I practise a lot, I will be a better player. Next year I am going to join the school team."
+  }
+}

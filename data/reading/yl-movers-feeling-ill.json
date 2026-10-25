@@ -1,0 +1,320 @@
+{
+  "id": "yl-m-feeling-ill",
+  "title": "Feeling Ill",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Mai is ill and goes to see the doctor.",
+  "instructions": "Read about Mai's visit to the doctor. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🤒 On Monday morning, Mai did not feel well. She had a headache and a sore throat. She did not want any breakfast."
+    },
+    {
+      "id": "p2",
+      "text": "Her mum took her temperature. It was thirty-eight degrees. 'You have a fever,' said Mum. 'We must go to the doctor.'"
+    },
+    {
+      "id": "p3",
+      "text": "They went to the doctor's by taxi. There were five people in the waiting room. Mai read a magazine and waited for twenty minutes."
+    },
+    {
+      "id": "p4",
+      "text": "Dr Green was a kind woman. She looked at Mai's throat and listened to her chest. 'You have a bad cold,' she said."
+    },
+    {
+      "id": "p5",
+      "text": "💊 The doctor gave Mai some medicine. 'Take it twice a day,' she said. 'Drink a lot of water and stay in bed for two days.'"
+    },
+    {
+      "id": "p6",
+      "text": "Mai went home and slept all afternoon. In the evening, her friend Anna called her. 'Get well soon!' said Anna. Mai felt a little better."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Mai is ill and sees a doctor",
+        "Mai's birthday party",
+        "Mai plays with Anna"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text tells us how Mai felt ill and went to the doctor.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "On Monday morning, Mai did not feel well."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What was wrong with Mai?",
+      "options": [
+        "She had a sore foot",
+        "She had a toothache",
+        "She had a headache and a sore throat"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai had a headache and a sore throat.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She had a headache and a sore throat."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Did Mai want breakfast?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She did not want any breakfast.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She did not want any breakfast."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What was Mai's temperature?",
+      "options": [
+        "Thirty-eight degrees",
+        "Thirty degrees",
+        "Twenty degrees"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It was thirty-eight degrees.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "It was thirty-eight degrees."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What must Mai and her mum do?",
+      "options": [
+        "Go to school",
+        "Go shopping",
+        "Go to the doctor"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum said they must go to the doctor.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "We must go to the doctor."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "How did they go to the doctor's?",
+      "options": [
+        "By bus",
+        "By taxi",
+        "On foot"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They went by taxi.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "They went to the doctor's by taxi."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "How many people were in the waiting room?",
+      "options": [
+        "Five",
+        "Two",
+        "Ten"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "There were five people in the waiting room.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "There were five people in the waiting room."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did Mai do in the waiting room?",
+      "options": [
+        "She played a game",
+        "She slept",
+        "She read a magazine"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai read a magazine and waited.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Mai read a magazine and waited for twenty minutes."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"kind\" means...",
+      "options": [
+        "very tall",
+        "nice to other people",
+        "very old"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A kind person is nice and helps others.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Dr Green was a kind woman."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did the doctor say Mai had?",
+      "options": [
+        "A bad cold",
+        "A broken leg",
+        "A stomach ache"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The doctor said Mai had a bad cold.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "You have a bad cold,"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "How often must Mai take the medicine?",
+      "options": [
+        "Once a week",
+        "Five times a day",
+        "Twice a day"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The doctor said to take it twice a day.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Take it twice a day,"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What must Mai do for two days?",
+      "options": [
+        "Go to school",
+        "Stay in bed",
+        "Play football"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai must stay in bed for two days.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "stay in bed for two days"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 5, \"medicine\" is something you...",
+      "options": [
+        "take to get better",
+        "wear on your feet",
+        "read in a book"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Medicine helps you get better when you are ill.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The doctor gave Mai some medicine."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Who called Mai in the evening?",
+      "options": [
+        "Dr Green",
+        "Her teacher",
+        "Anna"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her friend Anna called her.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "her friend Anna called her"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "How did Mai feel at the end?",
+      "options": [
+        "Much worse",
+        "A little better",
+        "Very angry"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai felt a little better.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Mai felt a little better."
+        }
+      ]
+    }
+  ]
+}

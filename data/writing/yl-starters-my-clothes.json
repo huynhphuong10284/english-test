@@ -1,0 +1,174 @@
+{
+  "id": "w-yl-s-my-clothes",
+  "title": "My Clothes",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise clothes words and write about what you wear.",
+  "instructions": "Do the exercises in Part 1. Then write in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Have got",
+      "prompt": "Choose the correct word.",
+      "text": "👕 I ___ got a red T-shirt.",
+      "options": [
+        "has",
+        "have",
+        "is"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"have got\" with I."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🧢 This is my ___. (a, p, c)",
+      "answers": [
+        "cap"
+      ],
+      "points": 1,
+      "explanation": "The word is \"cap\"."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Present continuous",
+      "prompt": "Choose the correct word.",
+      "text": "Mia is ___ a blue dress.",
+      "options": [
+        "wear",
+        "wearing",
+        "wears"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"is wearing\" for now."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "This is",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "my",
+        "This",
+        "coat"
+      ],
+      "answers": [
+        "This is my coat."
+      ],
+      "points": 1,
+      "explanation": "This + is + my + thing."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "👗 This is a ___. (e, s, s, d, r)",
+      "answers": [
+        "dress"
+      ],
+      "points": 1,
+      "explanation": "The word is \"dress\"."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Plural: be",
+      "prompt": "Choose the correct word.",
+      "text": "🥾 These ___ my boots.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"are\" with these."
+    },
+    {
+      "id": "e7",
+      "type": "word-order",
+      "focus": "Present continuous",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "wearing",
+        "Mia",
+        "a",
+        "is",
+        "skirt"
+      ],
+      "answers": [
+        "Mia is wearing a skirt."
+      ],
+      "points": 1,
+      "explanation": "Name + is wearing + clothes."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🧦 These are ___. (c, k, s, s, o)",
+      "answers": [
+        "socks"
+      ],
+      "points": 1,
+      "explanation": "The word is \"socks\"."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Have got",
+      "prompt": "Write has or have.",
+      "text": "Tom ___ got a green hat.",
+      "answers": [
+        "has"
+      ],
+      "points": 1,
+      "explanation": "Use \"has got\" with he, she and Tom."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Have got",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "got",
+        "I",
+        "have",
+        "shoes",
+        "new"
+      ],
+      "answers": [
+        "I have got new shoes."
+      ],
+      "points": 1,
+      "explanation": "I + have got + thing."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your clothes.",
+    "contentPoints": [
+      "Say what you are wearing.",
+      "Say the colour.",
+      "Say what you like."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "usefulLanguage": [
+      "I am wearing ...",
+      "It is ...",
+      "I have got ...",
+      "I like my ..."
+    ],
+    "modelAnswer": "I am wearing a white T-shirt and blue trousers. I have got red shoes. I like my shoes. They are new."
+  }
+}

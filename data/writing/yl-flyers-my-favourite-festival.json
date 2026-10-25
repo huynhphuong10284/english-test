@@ -1,0 +1,321 @@
+{
+  "id": "w-yl-f-my-favourite-festival",
+  "title": "My Favourite Festival",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise relative clauses, present perfect and time words, then write about a favourite festival.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Prepositions of time",
+      "prompt": "Choose the correct word.",
+      "text": "🏮 The Mid-Autumn Festival is ___ September or October.",
+      "options": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"in\" with months."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write who, which or where.",
+      "text": "Tet is a festival ___ Vietnamese families love.",
+      "answers": [
+        "which",
+        "that"
+      ],
+      "points": 1,
+      "explanation": "Use \"which\" for things."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Present simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "Tet",
+        "at",
+        "cakes",
+        "special",
+        "eat",
+        "We"
+      ],
+      "answers": [
+        "We eat special cakes at Tet.",
+        "At Tet we eat special cakes."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + object + at + festival: We eat special cakes at Tet."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Present simple",
+      "prompt": "Choose the correct word.",
+      "text": "My grandma ___ the house before Tet.",
+      "options": [
+        "clean",
+        "cleans",
+        "cleaning"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "With he, she or it add -s: she cleans."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Last year we visited my grandparents and we eated lots of food.",
+      "answers": [
+        "Last year we visited my grandparents and we ate lots of food."
+      ],
+      "points": 1,
+      "explanation": "\"Eat\" is irregular. The past simple is \"ate\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Past continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "🎆 While we ___ (watch) the fireworks, it began to rain.",
+      "answers": [
+        "were watching"
+      ],
+      "points": 1,
+      "explanation": "Use \"were + verb-ing\" for a longer action in the past."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Relative clauses",
+      "prompt": "Choose the correct word.",
+      "text": "I have a cousin ___ lives in Hue.",
+      "options": [
+        "where",
+        "which",
+        "who"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"who\" for people."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Present perfect",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "carnival",
+        "a",
+        "to",
+        "been",
+        "never",
+        "have",
+        "I"
+      ],
+      "answers": [
+        "I have never been to a carnival."
+      ],
+      "points": 1,
+      "explanation": "Subject + have + never + been: I have never been to a carnival."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "This festival is ___ than my birthday party.",
+      "options": [
+        "more exciting",
+        "most exciting",
+        "exciting"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Long adjectives use \"more ... than\"."
+    },
+    {
+      "id": "e10",
+      "type": "transformation",
+      "focus": "Superlatives",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word BEST. Begin: \"Tet ...\"",
+      "text": "No festival is as good as Tet for me.",
+      "keyword": "BEST",
+      "answers": [
+        "Tet is the best festival for me.",
+        "Tet is the best festival."
+      ],
+      "points": 1,
+      "explanation": "\"No ... is as good as\" means \"the best\"."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Will",
+      "prompt": "Write will or won't.",
+      "text": "Don't worry! The shops ___ be open tomorrow.",
+      "answers": [
+        "will"
+      ],
+      "points": 1,
+      "explanation": "Use \"will\" for a prediction about the future."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Present continuous",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Look! The children are danceing in the street.",
+      "answers": [
+        "Look! The children are dancing in the street."
+      ],
+      "points": 1,
+      "explanation": "Verbs ending in -e drop the -e before -ing: dance - dancing."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "First conditional",
+      "prompt": "Choose the correct word.",
+      "text": "If the weather is nice, we ___ a picnic.",
+      "options": [
+        "have",
+        "had",
+        "will have"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "First conditional: if + present simple, will + base verb."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "festival",
+        "the",
+        "at",
+        "do",
+        "usually",
+        "you",
+        "do",
+        "What"
+      ],
+      "answers": [
+        "What do you usually do at the festival."
+      ],
+      "points": 1,
+      "explanation": "Question word + do + subject + usually + verb: What do you usually do at the festival?"
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct word.",
+      "text": "We wear new clothes ___ it brings good luck.",
+      "options": [
+        "because",
+        "but",
+        "or"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Because\" gives a reason."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Prepositions",
+      "prompt": "Write in, on or at.",
+      "text": "🎁 Children get lucky money ___ the first day of the new year.",
+      "answers": [
+        "on"
+      ],
+      "points": 1,
+      "explanation": "Use \"on\" with days."
+    },
+    {
+      "id": "e17",
+      "type": "transformation",
+      "focus": "Present perfect",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word FOR. Begin: \"I ...\"",
+      "text": "I started to learn the lion dance two years ago and I still learn it.",
+      "keyword": "FOR",
+      "answers": [
+        "I have learned the lion dance for two years.",
+        "I have learnt the lion dance for two years."
+      ],
+      "points": 1,
+      "explanation": "Use \"for\" with a length of time: for two years."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Should",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "You should to try the sweet rice balls.",
+      "answers": [
+        "You should try the sweet rice balls."
+      ],
+      "points": 1,
+      "explanation": "After \"should\" use the base verb without \"to\"."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Going to",
+      "prompt": "Choose the correct word.",
+      "text": "Next year we ___ visit my uncle for the festival.",
+      "options": [
+        "are going to",
+        "is going to",
+        "will to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"are going to\" for plans with \"we\"."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Superlatives",
+      "prompt": "Write the correct form of the adjective in brackets.",
+      "text": "🥮 The mooncakes are the ___ (sweet) food I know!",
+      "answers": [
+        "sweetest"
+      ],
+      "points": 1,
+      "explanation": "Short adjectives take -est: the sweetest."
+    }
+  ],
+  "task": {
+    "genre": "Short text",
+    "prompt": "Write about your favourite festival.",
+    "contentPoints": [
+      "Say what the festival is and when it is.",
+      "Say what people do.",
+      "Say what food you eat.",
+      "Say why you like it."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "My favourite festival is ...",
+      "It is in ...",
+      "We usually ...",
+      "We eat ...",
+      "I like it because ..."
+    ],
+    "modelAnswer": "My favourite festival is the Mid-Autumn Festival. It is in September or October. In the evening we usually carry colourful lanterns and watch the big round moon. We eat sweet mooncakes and fruit. My cousins, who live in Hue, always come to my house. I like it because everyone is happy and we play together."
+  }
+}

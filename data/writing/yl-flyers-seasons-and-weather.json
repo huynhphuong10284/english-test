@@ -1,0 +1,320 @@
+{
+  "id": "w-yl-f-seasons-and-weather",
+  "title": "Seasons and Weather",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Practise weather words and future forms, then write about your favourite season.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Weather",
+      "prompt": "Choose the correct word.",
+      "text": "☀️ It is very ___ in summer, so we swim a lot.",
+      "options": [
+        "cold",
+        "hot",
+        "windy",
+        "foggy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "We swim in summer because it is hot."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Future: will",
+      "prompt": "Write one word in the gap.",
+      "text": "Look at the black clouds. It ___ rain soon.",
+      "answers": [
+        "will"
+      ],
+      "points": 1,
+      "explanation": "Use will for a prediction."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Going to",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "going",
+        "is",
+        "to",
+        "It",
+        "snow",
+        "tonight"
+      ],
+      "answers": [
+        "It is going to snow tonight."
+      ],
+      "points": 1,
+      "explanation": "Subject + is going to + base verb."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "Winter is ___ than autumn.",
+      "options": [
+        "cold",
+        "colder",
+        "coldest",
+        "more cold"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Short adjectives take -er: colder."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Present simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "In spring, flowers grows in the garden.",
+      "answers": [
+        "In spring, flowers grow in the garden."
+      ],
+      "points": 1,
+      "explanation": "\"Flowers\" is plural, so no -s on the verb."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "First conditional",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "Take an umbrella or you will get wet.",
+      "keyword": "IF",
+      "answers": [
+        "If you don't take an umbrella, you will get wet.",
+        "If you do not take an umbrella, you will get wet."
+      ],
+      "points": 1,
+      "explanation": "\"Or\" becomes \"if you don't\"."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "First conditional",
+      "prompt": "Choose the correct word.",
+      "text": "If it ___ tomorrow, we will have a picnic.",
+      "options": [
+        "will be sunny",
+        "is sunny",
+        "was sunny",
+        "being sunny"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After \"if\" use the present simple."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Write one word in the gap.",
+      "text": "Autumn is the season ___ the leaves fall.",
+      "answers": [
+        "when"
+      ],
+      "points": 1,
+      "explanation": "Use \"when\" for times."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Should",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "should",
+        "coat",
+        "warm",
+        "wear",
+        "a",
+        "You"
+      ],
+      "answers": [
+        "You should wear a warm coat."
+      ],
+      "points": 1,
+      "explanation": "Subject + should + base verb + thing."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct word.",
+      "text": "It ___ when we left the house.",
+      "options": [
+        "rains",
+        "rained",
+        "was raining",
+        "is raining"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use the past continuous for rain that was in progress."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Superlatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "July is the most hot month of the year.",
+      "answers": [
+        "July is the hottest month of the year."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives take -est: the hottest."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Present perfect",
+      "prompt": "Write one word in the gap.",
+      "text": "It ___ rained all week. I am tired of it!",
+      "answers": [
+        "has"
+      ],
+      "points": 1,
+      "explanation": "Use has + past participle with \"it\"."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Might",
+      "prompt": "Choose the correct word.",
+      "text": "Take a hat. It ___ be sunny later.",
+      "options": [
+        "might",
+        "must",
+        "are",
+        "do"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Might\" means possibly."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Comparatives",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "Summer is hotter than spring.",
+      "keyword": "COOLER",
+      "answers": [
+        "Spring is cooler than summer."
+      ],
+      "points": 1,
+      "explanation": "Swap the seasons and change hotter to cooler."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Because / so",
+      "prompt": "Write one word in the gap.",
+      "text": "It was very cold, ___ we stayed at home.",
+      "answers": [
+        "so"
+      ],
+      "points": 1,
+      "explanation": "\"So\" shows a result."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Superlatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the",
+        "is",
+        "season",
+        "best",
+        "Spring",
+        "for",
+        "flowers"
+      ],
+      "answers": [
+        "Spring is the best season for flowers."
+      ],
+      "points": 1,
+      "explanation": "Spring is the best + noun + for + thing."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Quantifiers",
+      "prompt": "Choose the correct word.",
+      "text": "There isn't ___ snow in my city.",
+      "options": [
+        "some",
+        "a",
+        "any",
+        "many"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"any\" in negative sentences."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Going to",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Tomorrow it are going to be windy.",
+      "answers": [
+        "Tomorrow it is going to be windy."
+      ],
+      "points": 1,
+      "explanation": "Use \"is\" with \"it\"."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Will",
+      "prompt": "Finish the second sentence so it means the same. Use the word in capitals.",
+      "text": "I think it is going to be warm tomorrow.",
+      "keyword": "WILL",
+      "answers": [
+        "I think it will be warm tomorrow."
+      ],
+      "points": 1,
+      "explanation": "\"Will\" and \"going to\" can both give predictions."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Adverbs",
+      "prompt": "Write one word in the gap.",
+      "text": "The wind was blowing ___ , so we flew our kites. (strong)",
+      "answers": [
+        "strongly",
+        "hard"
+      ],
+      "points": 1,
+      "explanation": "Use an adverb to say how the wind blew: strongly."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your favourite season for a class magazine.",
+    "contentPoints": [
+      "Say which season you like best.",
+      "Say what the weather is like.",
+      "Say what you do in this season."
+    ],
+    "minWords": 35,
+    "maxWords": 70,
+    "usefulLanguage": [
+      "My favourite season is ...",
+      "In ..., the weather is ...",
+      "I like it because ...",
+      "We usually ...",
+      "If it is ..., I will ..."
+    ],
+    "modelAnswer": "My favourite season is spring. In spring the weather is warm and sometimes it rains. Flowers grow in the garden and the trees are green. I like it because it is not too hot or too cold. At the weekend we usually go for a picnic. If it is sunny tomorrow, I will ride my bike with my friends."
+  }
+}

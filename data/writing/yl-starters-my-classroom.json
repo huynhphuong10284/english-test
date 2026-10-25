@@ -1,0 +1,174 @@
+{
+  "id": "w-yl-s-my-classroom",
+  "title": "My Classroom",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise there is, there are and this, and write about your classroom.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "There are",
+      "prompt": "Choose the right word.",
+      "text": "There ___ ten chairs in my classroom.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"there are\" with many things."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "📖 This is a ___. (k, o, b, o)",
+      "answers": [
+        "book"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"book\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "This is",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "is",
+        "This",
+        "my",
+        "desk"
+      ],
+      "answers": [
+        "This is my desk."
+      ],
+      "points": 1,
+      "explanation": "This + is + my + thing."
+    },
+    {
+      "id": "e4",
+      "type": "choice",
+      "focus": "This / these",
+      "prompt": "Choose the right word.",
+      "text": "___ is my teacher.",
+      "options": [
+        "These",
+        "This",
+        "They"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"this\" for one person or thing."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "✏️ I write with a ___. (n, e, p, c, i, l)",
+      "answers": [
+        "pencil"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"pencil\"."
+    },
+    {
+      "id": "e6",
+      "type": "word-order",
+      "focus": "Present simple",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "two",
+        "I",
+        "windows",
+        "see"
+      ],
+      "answers": [
+        "I see two windows."
+      ],
+      "points": 1,
+      "explanation": "I + see + number + noun."
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "There is",
+      "prompt": "Write is or are.",
+      "text": "There ___ a clock on the wall.",
+      "answers": [
+        "is"
+      ],
+      "points": 1,
+      "explanation": "Use \"there is\" with one thing."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🎒 Put your books in your ___. (a, b, g)",
+      "answers": [
+        "bag"
+      ],
+      "points": 1,
+      "explanation": "The letters make the word \"bag\"."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Plurals",
+      "prompt": "Choose the right word.",
+      "text": "I have got three ___.",
+      "options": [
+        "pencil",
+        "pencils",
+        "a pencil"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "With three, we use the plural: pencils."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Present simple",
+      "prompt": "Put the words in the right order.",
+      "words": [
+        "sit",
+        "We",
+        "the",
+        "in",
+        "classroom"
+      ],
+      "answers": [
+        "We sit in the classroom."
+      ],
+      "points": 1,
+      "explanation": "We + sit + in + the classroom."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your classroom.",
+    "contentPoints": [
+      "Say what it is like.",
+      "Say what there is in it.",
+      "Say what you like."
+    ],
+    "usefulLanguage": [
+      "This is my classroom.",
+      "It is ...",
+      "There is ...",
+      "There are ...",
+      "I like ..."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "modelAnswer": "This is my classroom. It is big. There are twenty desks. There is a board and a clock. I like my classroom."
+  }
+}

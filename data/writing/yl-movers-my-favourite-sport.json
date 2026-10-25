@@ -1,0 +1,241 @@
+{
+  "id": "w-yl-m-my-favourite-sport",
+  "title": "My Favourite Sport",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Practise sports words and write about your favourite sport.",
+  "instructions": "Do the exercises in Part 1. Then write about your favourite sport in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Sports",
+      "prompt": "Choose the correct word.",
+      "text": "⚽ You kick the ball in ___.",
+      "options": [
+        "football",
+        "tennis",
+        "swimming"
+      ],
+      "answer": 0,
+      "explanation": "Football players kick a ball.",
+      "points": 1
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Play / go / do",
+      "prompt": "Write play, go or do.",
+      "text": "I ___ tennis on Saturdays.",
+      "answers": [
+        "play"
+      ],
+      "explanation": "We play sports with a ball, and we go swimming.",
+      "points": 1
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Like + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "playing",
+        "Nam",
+        "likes",
+        "basketball"
+      ],
+      "answers": [
+        "Nam likes playing basketball."
+      ],
+      "explanation": "Subject + likes + verb-ing + thing.",
+      "points": 1
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Play / go",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Mai plays swimming every Friday.",
+      "answers": [
+        "Mai goes swimming every Friday."
+      ],
+      "explanation": "We say \"go swimming\", not \"play swimming\".",
+      "points": 1
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct word.",
+      "text": "Tom runs ___ than me.",
+      "options": [
+        "fast",
+        "faster",
+        "fastest"
+      ],
+      "answer": 1,
+      "explanation": "Compare two people: faster than.",
+      "points": 1
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Superlatives",
+      "prompt": "Write the missing word.",
+      "text": "Football is the ___ popular sport in my school. (most / more)",
+      "answers": [
+        "most"
+      ],
+      "explanation": "Long words use \"the most\": the most popular.",
+      "points": 1
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Can / can't",
+      "prompt": "Choose the correct word.",
+      "text": "🏊 I ___ swim. I am learning now.",
+      "options": [
+        "can't",
+        "can",
+        "must"
+      ],
+      "answer": 0,
+      "explanation": "\"Can't\" means I am not able to yet.",
+      "points": 1
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Adverbs",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "well",
+        "plays",
+        "Linh",
+        "badminton"
+      ],
+      "answers": [
+        "Linh plays badminton well."
+      ],
+      "explanation": "Put \"well\" after the thing: plays badminton well.",
+      "points": 1
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Adverbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Ben runs very quick.",
+      "answers": [
+        "Ben runs very quickly."
+      ],
+      "explanation": "Use \"quickly\" to say how he runs.",
+      "points": 1
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Have to / must",
+      "prompt": "Choose the correct word.",
+      "text": "🧢 You ___ wear a helmet when you ride a bike.",
+      "options": [
+        "are",
+        "can't",
+        "must"
+      ],
+      "answer": 2,
+      "explanation": "\"Must\" means it is very important.",
+      "points": 1
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Past simple",
+      "prompt": "Write the past simple of the word in brackets.",
+      "text": "Last week my team ___ the match. (win)",
+      "answers": [
+        "won"
+      ],
+      "explanation": "\"Win\" is irregular. The past is \"won\".",
+      "points": 1
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Prepositions",
+      "prompt": "Choose the correct word.",
+      "text": "We have training ___ Wednesday and Friday.",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "Use \"on\" with days.",
+      "points": 1
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "my team",
+        "the game",
+        "lost",
+        "last Sunday"
+      ],
+      "answers": [
+        "My team lost the game last Sunday.",
+        "Last Sunday my team lost the game."
+      ],
+      "explanation": "Subject + past verb + object + time.",
+      "points": 1
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Yesterday I play tennis with my dad.",
+      "answers": [
+        "Yesterday I played tennis with my dad."
+      ],
+      "explanation": "Yesterday means the past: played.",
+      "points": 1
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Present simple: does",
+      "prompt": "Write the missing word.",
+      "text": "Does your brother ___ football every day?",
+      "answers": [
+        "play"
+      ],
+      "explanation": "After \"does\" use the base verb: play.",
+      "points": 1
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your favourite sport.",
+    "contentPoints": [
+      "Say what the sport is.",
+      "Say who you play with.",
+      "Say when you play.",
+      "Say why you like it."
+    ],
+    "minWords": 20,
+    "maxWords": 45,
+    "usefulLanguage": [
+      "My favourite sport is ...",
+      "I play it with ...",
+      "We play on ...",
+      "I like it because ...",
+      "I am good at ..."
+    ],
+    "modelAnswer": "My favourite sport is football. I play it with my friends Minh and Sam. We play in the park on Saturdays. Last week my team won the game. I like football because it is fun and I run fast."
+  }
+}

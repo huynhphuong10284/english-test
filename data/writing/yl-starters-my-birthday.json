@@ -1,0 +1,173 @@
+{
+  "id": "w-yl-s-my-birthday",
+  "title": "My Birthday",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise birthday words and write about your birthday.",
+  "instructions": "Do the exercises in Part 1. Then write in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Be",
+      "prompt": "Choose the correct word.",
+      "text": "🎂 Today ___ my birthday.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"is\" with my birthday."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🎂 This is a ___. (k, e, c, a)",
+      "answers": [
+        "cake"
+      ],
+      "points": 1,
+      "explanation": "The word is \"cake\"."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Numbers",
+      "prompt": "Choose the correct word.",
+      "text": "I am ___ years old.",
+      "options": [
+        "eight",
+        "eights",
+        "an eight"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Say the number: I am eight years old."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Be",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "eight",
+        "am",
+        "I",
+        "today"
+      ],
+      "answers": [
+        "I am eight today."
+      ],
+      "points": 1,
+      "explanation": "I + am + number."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🎈 This is a ___. (l, l, o, o, n, b, a)",
+      "answers": [
+        "balloon"
+      ],
+      "points": 1,
+      "explanation": "The word is \"balloon\"."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "There is / are",
+      "prompt": "Choose the correct word.",
+      "text": "🎁 There ___ five presents.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"there are\" with more than one."
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "Be",
+      "prompt": "Write is or are.",
+      "text": "Mai ___ nine today.",
+      "answers": [
+        "is"
+      ],
+      "points": 1,
+      "explanation": "Use \"is\" with Mai (she)."
+    },
+    {
+      "id": "e8",
+      "type": "word-order",
+      "focus": "Like",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "cake",
+        "like",
+        "I",
+        "chocolate"
+      ],
+      "answers": [
+        "I like chocolate cake."
+      ],
+      "points": 1,
+      "explanation": "I + like + thing."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🕯️ This is a ___. (n, d, l, e, c, a)",
+      "answers": [
+        "candle"
+      ],
+      "points": 1,
+      "explanation": "The word is \"candle\"."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Present simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "eat",
+        "We",
+        "cake",
+        "and",
+        "play"
+      ],
+      "answers": [
+        "We eat cake and play."
+      ],
+      "points": 1,
+      "explanation": "We + eat cake and play."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about your birthday.",
+    "contentPoints": [
+      "Say how old you are.",
+      "Say what you eat.",
+      "Say what you like."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "usefulLanguage": [
+      "I am ... years old.",
+      "We eat ...",
+      "I have got ...",
+      "I like ..."
+    ],
+    "modelAnswer": "Today is my birthday. I am eight years old. I have got a big cake and some presents. My friends are here. We eat cake and play games."
+  }
+}

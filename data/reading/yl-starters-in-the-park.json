@@ -1,0 +1,217 @@
+{
+  "id": "yl-s-in-the-park",
+  "title": "In the Park",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Ben and his sister play in the park.",
+  "instructions": "Read about Ben in the park. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🌳 It is Saturday. Ben is in the park with his sister Anna."
+    },
+    {
+      "id": "p2",
+      "text": "It is sunny. There are many trees and flowers. There is a big lake."
+    },
+    {
+      "id": "p3",
+      "text": "Anna is on the swing. Ben is on the slide. They are very happy."
+    },
+    {
+      "id": "p4",
+      "text": "Look! A boy is playing with a red kite. Two girls are running. A dog is under a tree."
+    },
+    {
+      "id": "p5",
+      "text": "Ben has got an ice cream. It is cold and sweet. He likes the park."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text about?",
+      "options": [
+        "A day at school",
+        "A day at the park",
+        "A day at the zoo"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben is in the park with his sister.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Ben is in the park with his sister Anna."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Who is with Ben?",
+      "options": [
+        "His mum",
+        "His sister",
+        "His dad"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben is with his sister Anna.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Ben is in the park with his sister Anna."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Is it rainy?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It is sunny.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "It is sunny."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What is big?",
+      "options": [
+        "The house",
+        "The tree",
+        "The lake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "There is a big lake.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "There is a big lake."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Is Anna on the swing?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Anna is on the swing.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Anna is on the swing."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Is Ben on the slide?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben is on the slide.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Ben is on the slide."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "🪁 Is the kite green?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The kite is red.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "A boy is playing with a red kite."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "A \"kite\" is...",
+      "options": [
+        "an animal",
+        "a toy that flies in the sky",
+        "a kind of food"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A kite is a toy that flies high in the sky.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "A boy is playing with a red kite."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Is the dog under a tree?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The dog is under a tree.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "A dog is under a tree."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "🍦 What has Ben got?",
+      "options": [
+        "A cake",
+        "An ice cream",
+        "A kite"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben has got an ice cream.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Ben has got an ice cream."
+        }
+      ]
+    }
+  ]
+}

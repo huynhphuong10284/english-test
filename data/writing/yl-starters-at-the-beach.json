@@ -1,0 +1,173 @@
+{
+  "id": "w-yl-s-at-the-beach",
+  "title": "At the Beach",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Practise beach words and write about a day at the beach.",
+  "instructions": "Do the exercises in Part 1. Then write in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Weather",
+      "prompt": "Choose the correct word.",
+      "text": "☀️ It is ___ today.",
+      "options": [
+        "hot",
+        "hat",
+        "hand"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Hot is a word for weather."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🏖️ I like the ___. (n, d, s, a)",
+      "answers": [
+        "sand"
+      ],
+      "points": 1,
+      "explanation": "The word is \"sand\"."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Present continuous",
+      "prompt": "Choose the correct word.",
+      "text": "We ___ swimming in the sea.",
+      "options": [
+        "is",
+        "am",
+        "are"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"are\" with we."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "I can see",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "can",
+        "a",
+        "I",
+        "boat",
+        "see"
+      ],
+      "answers": [
+        "I can see a boat."
+      ],
+      "points": 1,
+      "explanation": "I can see + thing."
+    },
+    {
+      "id": "e5",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🐚 This is a ___. (e, l, l, s, h)",
+      "answers": [
+        "shell"
+      ],
+      "points": 1,
+      "explanation": "The word is \"shell\"."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "There is / are",
+      "prompt": "Choose the correct word.",
+      "text": "There ___ many shells.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"there are\" with many things."
+    },
+    {
+      "id": "e7",
+      "type": "word-order",
+      "focus": "Present continuous",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "are",
+        "swimming",
+        "The",
+        "children"
+      ],
+      "answers": [
+        "The children are swimming."
+      ],
+      "points": 1,
+      "explanation": "The children + are + verb-ing."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Spelling",
+      "prompt": "Look at the letters and write the word.",
+      "text": "🦀 This is a ___. (a, b, c, r)",
+      "answers": [
+        "crab"
+      ],
+      "points": 1,
+      "explanation": "The word is \"crab\"."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "There is",
+      "prompt": "Write is or are.",
+      "text": "🦀 There ___ a crab on the sand.",
+      "answers": [
+        "is"
+      ],
+      "points": 1,
+      "explanation": "Use \"there is\" with one thing."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Like",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "like",
+        "the",
+        "We",
+        "beach"
+      ],
+      "answers": [
+        "We like the beach."
+      ],
+      "points": 1,
+      "explanation": "We + like + the beach."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Write about a day at the beach.",
+    "contentPoints": [
+      "Say who is with you.",
+      "Say what you can see.",
+      "Say what you are doing."
+    ],
+    "minWords": 10,
+    "maxWords": 30,
+    "usefulLanguage": [
+      "I am at the beach with ...",
+      "I can see ...",
+      "We are ...",
+      "I like ..."
+    ],
+    "modelAnswer": "I am at the beach with my family. It is hot. I can see a boat and a crab. We are swimming in the sea. I like the beach."
+  }
+}

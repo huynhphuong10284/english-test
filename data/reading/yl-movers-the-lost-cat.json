@@ -1,0 +1,319 @@
+{
+  "id": "yl-m-the-lost-cat",
+  "title": "The Lost Cat",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Mia looks for her cat Milo and finds him with some help.",
+  "instructions": "Read about Mia and her cat. Then choose the right answer.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "🐱 Mia had a small grey cat called Milo. One Monday afternoon, Milo was not at home. Mia looked in the kitchen and under her bed, but she could not find him."
+    },
+    {
+      "id": "p2",
+      "text": "Mia was very worried. She went into the garden and called, 'Milo! Milo!' There was no answer."
+    },
+    {
+      "id": "p3",
+      "text": "Then she asked her neighbour, Mr Lee. 'Did you see a grey cat?' she said. 'No, sorry,' he said. 'But I can help you look.'"
+    },
+    {
+      "id": "p4",
+      "text": "They walked down the street together. Some boys were playing football in the park. 'We saw a cat near the school,' they said."
+    },
+    {
+      "id": "p5",
+      "text": "🏫 Mia and Mr Lee ran to the school. Mia heard a small sound from a tree. Milo was in the tree! He was afraid and could not get down."
+    },
+    {
+      "id": "p6",
+      "text": "Mr Lee climbed a ladder and carried Milo down. Mia hugged her cat and said, 'Thank you!' That night, Milo slept on her bed."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Mia goes to school",
+        "Mia looks for her lost cat",
+        "Mia plays football"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text tells us how Mia found her lost cat.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Milo was not at home."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What colour is Milo?",
+      "options": [
+        "Grey",
+        "Black",
+        "White"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Milo is a small grey cat.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Mia had a small grey cat called Milo."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Where did Mia look first?",
+      "options": [
+        "In the park",
+        "At school",
+        "In the kitchen and under her bed"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She looked in the kitchen and under her bed.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Mia looked in the kitchen and under her bed"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Did Mia find Milo at home?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She could not find him.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "she could not find him"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"worried\" means...",
+      "options": [
+        "not happy because you think something bad can happen",
+        "very happy",
+        "very sleepy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mia was not happy because Milo was lost.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Mia was very worried."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Where did Mia call for Milo?",
+      "options": [
+        "In the kitchen",
+        "At the shop",
+        "In the garden"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She went into the garden and called.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "She went into the garden and called, 'Milo! Milo!'"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Who did Mia ask?",
+      "options": [
+        "Her teacher",
+        "Her neighbour, Mr Lee",
+        "Her mum"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She asked her neighbour, Mr Lee.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Then she asked her neighbour, Mr Lee."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Did Mr Lee see a grey cat?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Lee said, 'No, sorry.'",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "'No, sorry,' he said."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What were the boys doing in the park?",
+      "options": [
+        "Eating lunch",
+        "Reading books",
+        "Playing football"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Some boys were playing football in the park.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Some boys were playing football in the park."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Where did the boys see a cat?",
+      "options": [
+        "Near the shop",
+        "Near the school",
+        "Near the zoo"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They saw a cat near the school.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "We saw a cat near the school,"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "Where was Milo?",
+      "options": [
+        "In a tree",
+        "In a box",
+        "Under a car"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Milo was in the tree.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Milo was in the tree!"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "Why could Milo not get down?",
+      "options": [
+        "He was asleep",
+        "He was happy",
+        "He was afraid"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says he was afraid and could not get down.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "He was afraid and could not get down."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "Who carried Milo down?",
+      "options": [
+        "Mia",
+        "Mr Lee",
+        "A boy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Lee carried Milo down.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Mr Lee climbed a ladder and carried Milo down."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did Mr Lee climb?",
+      "options": [
+        "A ladder",
+        "A wall",
+        "A bus"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Lee climbed a ladder.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Mr Lee climbed a ladder"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "Where did Milo sleep that night?",
+      "options": [
+        "In the garden",
+        "In the tree",
+        "On Mia's bed"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Milo slept on her bed.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "That night, Milo slept on her bed."
+        }
+      ]
+    }
+  ]
+}
