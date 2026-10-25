@@ -8,17 +8,27 @@ const { gradeExam } = require('./grader');
 const { gradeWriting, cleanSelfAssessment, WRITING_MAX } = require('./writing-grader');
 const { ResultsStore } = require('./results-store');
 const { Dictionary } = require('./dictionary');
+const { ExamUpdater } = require('./exam-updater');
+const pkg = require('../../package.json');
 
 const DATA_DIR = path.join(__dirname, '..', '..', 'data'); // data/reading and data/writing
 const MAX_ESSAY_LENGTH = 20000; // characters; guards the results file against huge pastes
 
 let exams = new Map();
 let results; // ResultsStore, created once the app is ready (needs app.getPath)
-const dictionary = new Dictionary(
-  path.join(DATA_DIR, 'dictionary', 'wordnet.json'),
-  path.join(DATA_DIR, 'dictionary', 'supplement.json'),
-  path.join(DATA_DIR, 'dictionary', 'vi.json')
-);
+let updater; // ExamUpdater, also needs app.getPath
+let dictionary;
+
+// Bundled exams, plus any newer ones downloaded with the Update button.
+function loadAllExams() {
+  exams = loadExams([DATA_DIR, updater.dataDir], { strict: false, onError: (err) => console.error(`Skipped exam: ${err.message}`) });
+}
+
+// The dictionary uses downloaded learner and Vietnamese files when there are any.
+function createDictionary() {
+  const file = (name) => updater.downloadedFile('dictionary', name) ?? path.join(DATA_DIR, 'dictionary', name);
+  return new Dictionary(path.join(DATA_DIR, 'dictionary', 'wordnet.json'), file('supplement.json'), file('vi.json'));
+}
 
 function createWindow() {
   const win = new BrowserWindow({
@@ -113,6 +123,7 @@ function registerIpc() {
       level: exam.level,
       group: exam.group,
       description: exam.description,
+      isNew: updater.isNew(exam.id),
       ...(exam.skill === 'writing'
         ? { exerciseCount: exam.exercises.length, genre: exam.task.genre, minWords: exam.task.minWords, maxWords: exam.task.maxWords }
         : { paragraphCount: exam.paragraphs.length, questionCount: exam.questions.length }),
@@ -121,6 +132,21 @@ function registerIpc() {
   );
 
   ipcMain.handle('exams:get', (_event, examId) => toPublicExam(getExamOrThrow(examId)));
+
+  // Opening a new exam removes its "New" label.
+  ipcMain.handle('exams:seen', (_event, examId) => updater.markSeen(String(examId)));
+
+  // Update button: download new and changed exams from GitHub, then reload them.
+  ipcMain.handle('exams:update', async () => {
+    const result = await updater.update(new Set(exams.keys()));
+    if (result.added || result.changed) loadAllExams();
+    if (result.dictionary) {
+      dictionary = createDictionary();
+      setTimeout(() => dictionary.load(), 0);
+    }
+    for (const msg of result.skipped) console.error(`Update skipped ${msg}`);
+    return { added: result.added, changed: result.changed, skipped: result.skipped.length };
+  });
 
   // Grade, save as a new attempt (earlier attempts are kept), and return the result.
   ipcMain.handle('exams:submit', (_event, examId, answers) => {
@@ -164,7 +190,14 @@ function registerIpc() {
 }
 
 app.whenReady().then(() => {
-  exams = loadExams(DATA_DIR, { strict: false, onError: (err) => console.error(`Skipped exam: ${err.message}`) });
+  updater = new ExamUpdater({
+    ...pkg.examUpdates,
+    bundledDir: DATA_DIR,
+    userDataDir: app.getPath('userData'),
+    appVersion: app.getVersion()
+  });
+  loadAllExams();
+  dictionary = createDictionary();
   // e.g. %APPDATA%\English Reading Test\results.json on Windows
   results = new ResultsStore(path.join(app.getPath('userData'), 'results.json'));
   registerIpc();

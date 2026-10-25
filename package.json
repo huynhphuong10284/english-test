@@ -1,7 +1,7 @@
 {
   "name": "english-reading-test",
   "productName": "English Reading Test",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "Desktop app for practicing English reading comprehension tests",
   "main": "src/main/main.js",
   "scripts": {
@@ -12,6 +12,10 @@
     "dist": "npm run validate && npm run build:dict && electron-builder --win"
   },
   "author": "phuonghv",
+  "examUpdates": {
+    "repo": "huynhphuong10284/english-test",
+    "branch": "main"
+  },
   "license": "MIT",
   "devDependencies": {
     "electron": "^44.0.0",

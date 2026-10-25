@@ -13,6 +13,11 @@
       <div class="sidebar-header">
         <h1>English Reading &amp; Writing</h1>
         <p class="muted">Choose a skill, a level and an exam</p>
+        <div class="app-actions">
+          <button id="btn-update" class="btn btn-secondary btn-small" title="Download new exams from the internet">⟳ Update exams</button>
+          <button id="btn-donate" class="btn btn-secondary btn-small" title="Support this app">♥ Donate</button>
+        </div>
+        <p id="update-status" class="update-status" role="status" hidden></p>
         <div class="skill-toggle" role="radiogroup" aria-label="Skill">
           <button class="skill-btn active" data-skill="reading" role="radio" aria-checked="true">Reading</button>
           <button class="skill-btn" data-skill="writing" role="radio" aria-checked="false">Writing</button>
@@ -25,6 +30,13 @@
         </label>
       </div>
       <ul id="exam-list" class="exam-list" aria-label="Exams"></ul>
+      <dialog id="donate-dialog" class="donate-dialog" aria-labelledby="donate-title">
+        <h2 id="donate-title">Support this app</h2>
+        <p class="muted">If this app helps you learn English, you can support its development. Thank you!<br />Cảm ơn bạn đã ủng hộ ứng dụng!</p>
+        <img src="assets/donate-qr.png" alt="Techcombank VietQR code for donations" class="donate-qr" />
+        <p class="muted donate-hint">Scan with your banking app (VietQR / Napas 247).<br />Quét mã bằng ứng dụng ngân hàng của bạn.</p>
+        <form method="dialog"><button class="btn btn-primary">Close</button></form>
+      </dialog>
       <footer class="sidebar-footer">&copy; 2026 phuonghv. All rights reserved.</footer>
     </aside>
 

@@ -108,18 +108,24 @@ function validateWritingExam(exam, file) {
 }
 
 // Loads data/<skill>/*.json for every skill into one Map keyed by exam id.
+// dataDirs: one data folder, or several (bundled exams, then downloaded updates):
+// a file in a later folder replaces the file with the same name in an earlier one.
 // strict (default): the first invalid file throws. Not strict (used by the app):
 // invalid files are skipped and reported to onError, so one bad file can't stop the app.
-function loadExams(dataDir, { strict = true, onError = () => {} } = {}) {
+function loadExams(dataDirs, { strict = true, onError = () => {} } = {}) {
   const exams = new Map();
   for (const skill of SKILLS) {
-    const dir = path.join(dataDir, skill);
-    if (!fs.existsSync(dir)) continue;
-    for (const file of fs.readdirSync(dir).filter((f) => f.endsWith('.json')).sort()) {
+    const files = new Map(); // file name -> full path
+    for (const dataDir of [dataDirs].flat()) {
+      const dir = path.join(dataDir, skill);
+      if (!fs.existsSync(dir)) continue;
+      for (const file of fs.readdirSync(dir).filter((f) => f.endsWith('.json'))) files.set(file, path.join(dir, file));
+    }
+    for (const file of [...files.keys()].sort()) {
       try {
         let exam;
         try {
-          exam = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8'));
+          exam = JSON.parse(fs.readFileSync(files.get(file), 'utf8'));
         } catch (err) {
           throw new Error(`${skill}/${file}: invalid JSON (${err.message})`);
         }

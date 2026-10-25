@@ -21,7 +21,9 @@ There is also a **Young Learners** group for children aged about 7–12, in the 
 4. **Saved results**: every submission is saved as an attempt. When you return to an exam you have submitted, its latest result opens. **Retake test** starts a new attempt and keeps the old ones, which are listed under **Attempt history**. The sidebar shows how many attempts you have made, your best score and your last score. Results are stored in `%APPDATA%\English Reading Test\results.json`. If an exam gets more questions later, older attempts are still marked against the questions they had, and are labelled as taken on an earlier version.
 5. **Writing results**: Part 1 is marked automatically, with the correct answer and an explanation for each exercise. Part 2 shows automatic checks (word count, paragraphs, linking words), then your text next to a **model answer**. You then rate your own writing with a **self-check** (content, organisation, grammar, vocabulary; 0–2 each), and that rating is added to your total mark. Until you rate it, the score covers the exercises only.
 6. **Dictionary**: **double-click** a word, or **right-click** any word (including in answer options), to see its meanings in **English–Vietnamese (Anh–Việt, the default)** or **English–English (Anh–Anh)**, switched with the buttons in the popup and remembered. Every word used in the exams has Vietnamese meanings; the English definitions, example sentences and similar words are shown too, and you can hear the word read aloud (🔊, using the Windows voices). It covers about 147,000 words from WordNet, plus learner notes for grammar words (*the, although, whereas*) and modern words (*app, selfie*). Forms like *went*, *children* and *don't* lead to *go*, *child* and *do not*. During a reading test, words tested by a vocabulary question are locked until you submit.
-7. **Show full answers** (reading): every correct answer with an explanation. The passage is shown with the **main idea or evidence for each answer highlighted**. Click an answer card to jump to its highlight.
+7. **Update exams** (sidebar button): downloads new and changed exams, and new dictionary meanings, from the GitHub repository (see [Publishing new exams](#publishing-new-exams)). New exams are marked **NEW** and shown at the top of the list until you open them.
+8. **Donate** (sidebar button): shows a VietQR code for supporting the app.
+9. **Show full answers** (reading): every correct answer with an explanation. The passage is shown with the **main idea or evidence for each answer highlighted**. Click an answer card to jump to its highlight.
 
 ## Run
 
@@ -74,12 +76,14 @@ english-reading-test/
     │   ├── grader.js        # reading: scoring, dashboard stats, advice
     │   ├── writing-grader.js# writing: exercise marking, text checks, self-check score
     │   ├── text-utils.js    # answer comparison, word count, linking words
-    │   └── dictionary.js    # dictionary lookup (word forms, contractions, fallbacks)
+    │   ├── dictionary.js    # dictionary lookup (word forms, contractions, fallbacks)
+    │   └── exam-updater.js  # Update button: downloads new exams from GitHub
     ├── preload/
     │   └── preload.js       # contextBridge: exposes window.examApi
     └── renderer/            # RENDERER process (web page)
         ├── index.html
         ├── styles.css
+        ├── assets/donate-qr.png # QR code shown by the Donate button
         ├── dictionary.js    # dictionary popup (double-click / right-click a word)
         ├── writing.js       # writing view (exercises, task, self-check)
         └── renderer.js      # shared UI + reading view
@@ -93,6 +97,8 @@ renderer.js ──window.examApi.getExam(id)──▶ ...        ──'exams:ge
 renderer.js ──window.examApi.submitExam(id, answers)──▶ 'exams:submit'  (graded + saved in main process)
 renderer.js ──window.examApi.getResult(id, attemptId)──▶ 'results:get' (a saved attempt; latest if no attemptId)
 dictionary.js ──window.examApi.lookupWord(word)──▶ 'dict:lookup'
+renderer.js ──window.examApi.updateExams()──▶ 'exams:update'  (download from GitHub, reload exams)
+renderer.js ──window.examApi.markExamSeen(id)──▶ 'exams:seen'  (remove the NEW label)
 writing.js  ──window.examApi.assessWriting(id, attemptId, rating)──▶ 'results:assess' (save self-check, re-score)
 ```
 
@@ -176,6 +182,21 @@ Create `data/writing/<level>-<name>.json`. The `id` must start with `w-`. [data/
 
 `.
 - Run `npm run validate` to check all of these.
+
+## Publishing new exams
+
+Installed apps (version 1.7.0 or later) get new exams with the **Update exams** button, without a new installer:
+
+1. Add or edit exam files in `data/reading/` or `data/writing/` (and Vietnamese meanings in `data/dictionary/vi.json`).
+2. Run `npm run validate` and fix any errors.
+3. Commit and push to the `main` branch of the repository named in `package.json` → `examUpdates`.
+
+When a user clicks **Update exams**, the app asks GitHub for the list of files in `data/reading`, `data/writing` and the dictionary's `vi.json` and `supplement.json`, and downloads only the files that differ from its own copy. Every exam is checked with the same rules as `npm run validate`; a file that fails is skipped. Downloads are saved in `%APPDATA%\English Reading Test\updates\`, because the installed app's own files are read-only, and are removed when a new version of the app is installed (its exams already include them).
+
+Notes:
+- The repository must be public, and the user needs an internet connection. GitHub allows about 30 update checks per hour from one network.
+- Only exams and dictionary meanings are updated. Changes to the app itself (code, design) still need a new installer.
+- Exams are never deleted by an update, so saved results stay valid. Keep the same `id` when you correct an exam.
 
 ## Dictionary
 

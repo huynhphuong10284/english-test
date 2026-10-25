@@ -594,3 +594,35 @@ mark.active { background: var(--mark-active); outline: 2px solid var(--warn); }
 .young-learners .option { font-size: 17px; }
 .young-learners .ex-sentence { font-size: 18px; }
 .young-learners .task-prompt { font-size: 17px; }
+
+/* ---------------- Update and Donate ---------------- */
+.app-actions { display: flex; gap: 8px; margin-top: 12px; }
+.btn-small { padding: 5px 12px; font-size: 13px; flex: 1; }
+.update-status { margin: 8px 0 0; font-size: 13px; padding: 6px 10px; border-radius: 6px; }
+.update-status.good { background: var(--good-soft); color: var(--good); }
+.update-status.bad { background: var(--bad-soft); color: var(--bad); }
+.exam-item.is-new { border-color: var(--warn); background: var(--warn-soft); }
+.new-badge {
+  display: inline-block;
+  margin-right: 6px;
+  padding: 0 7px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 700;
+  vertical-align: 2px;
+  background: var(--warn);
+  color: var(--surface);
+}
+.donate-dialog {
+  max-width: 380px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 22px 24px;
+  text-align: center;
+  background: var(--surface);
+  color: var(--text);
+}
+.donate-dialog::backdrop { background: rgba(0, 0, 0, 0.45); }
+.donate-dialog h2 { margin: 0 0 6px; }
+.donate-qr { width: 260px; max-width: 100%; display: block; margin: 12px auto; border-radius: 8px; }
+.donate-hint { font-size: 13px; }

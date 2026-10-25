@@ -5,6 +5,8 @@ const { contextBridge, ipcRenderer } = require('electron');
 contextBridge.exposeInMainWorld('examApi', {
   listExams: () => ipcRenderer.invoke('exams:list'),
   getExam: (examId) => ipcRenderer.invoke('exams:get', examId),
+  markExamSeen: (examId) => ipcRenderer.invoke('exams:seen', examId),
+  updateExams: () => ipcRenderer.invoke('exams:update'),
   submitExam: (examId, answers) => ipcRenderer.invoke('exams:submit', examId, answers),
   getResult: (examId, attemptId) => ipcRenderer.invoke('results:get', examId, attemptId),
   assessWriting: (examId, attemptId, selfAssessment) => ipcRenderer.invoke('results:assess', examId, attemptId, selfAssessment),

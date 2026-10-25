@@ -137,7 +137,10 @@ function selectLevel(level) {
 function renderExamList() {
   const list = $('exam-list');
   const level = $('level-select').value; // may differ from state.level if this skill lacks that level
-  const visible = state.exams.filter((exam) => exam.skill === state.skill && (!level || exam.level === level));
+  // New exams from the last update come first (sort keeps the order otherwise).
+  const visible = state.exams
+    .filter((exam) => exam.skill === state.skill && (!level || exam.level === level))
+    .sort((a, b) => b.isNew - a.isNew);
   if (visible.length === 0) {
     list.replaceChildren(el('li', { className: 'muted empty' }, `No ${state.skill} exams for this level yet.`));
     return;
@@ -146,10 +149,10 @@ function renderExamList() {
     ...visible.map((exam) =>
       el('li', {},
         el('button', {
-          className: 'exam-item' + (state.exam?.id === exam.id ? ' active' : ''),
+          className: 'exam-item' + (state.exam?.id === exam.id ? ' active' : '') + (exam.isNew ? ' is-new' : ''),
           onclick: () => selectExam(exam.id)
         },
-          el('span', { className: 'title' }, exam.title),
+          el('span', { className: 'title' }, exam.isNew ? el('span', { className: 'new-badge' }, 'NEW') : null, exam.title),
           el('span', { className: 'meta' }, `${exam.level} · ${view(exam.skill).listMeta(exam)}`),
           progressNote(exam)
         )
@@ -180,6 +183,11 @@ async function selectExam(examId) {
   const [exam, result] = await Promise.all([window.examApi.getExam(examId), window.examApi.getResult(examId)]);
   state.exam = exam;
   state.result = result;
+  const listed = state.exams.find((e) => e.id === examId);
+  if (listed?.isNew) {
+    listed.isNew = false;
+    window.examApi.markExamSeen(examId);
+  }
 
   if (state.drafts[examId] || !result) {
     // Continue an unfinished attempt, or start the first one.
@@ -198,6 +206,49 @@ async function selectExam(examId) {
   showTab(state.submitted ? 'result' : 'test');
   $('panel-test').scrollTop = 0;
   $('panel-result').scrollTop = 0;
+}
+
+/* ---------------- Update and Donate buttons ---------------- */
+
+function showUpdateStatus(text, tone) {
+  const status = $('update-status');
+  status.textContent = text;
+  status.className = `update-status ${tone}`;
+  status.hidden = false;
+}
+
+// Download new exams from GitHub, then show them at the top of the list.
+async function updateExams() {
+  const btn = $('btn-update');
+  btn.disabled = true;
+  btn.textContent = '⟳ Checking…';
+  try {
+    const { added, changed, skipped } = await window.examApi.updateExams();
+    state.exams = await window.examApi.listExams();
+    if (added) {
+      const bySkill = ['reading', 'writing']
+        .map((skill) => [skill, state.exams.filter((e) => e.isNew && e.skill === skill).length])
+        .filter(([, n]) => n)
+        .map(([skill, n]) => `${n} ${skill}`);
+      // Show all levels so every new exam is visible at the top of the list.
+      $('level-select').value = '';
+      selectLevel('');
+      showUpdateStatus(`${added} new exam${added > 1 ? 's' : ''} (${bySkill.join(', ')}), marked NEW at the top of the list.`, 'good');
+    } else if (changed) {
+      showUpdateStatus(`${changed} exam${changed > 1 ? 's were' : ' was'} updated. No new exams.`, 'good');
+    } else {
+      showUpdateStatus('You already have the latest exams.', 'good');
+    }
+    if (skipped) console.warn(`${skipped} downloaded file(s) were invalid and skipped.`);
+    renderLevelOptions();
+    renderExamList();
+  } catch (err) {
+    const message = String(err.message).replace(/^Error invoking remote method '[^']+': (Error: )?/, '');
+    showUpdateStatus(`Could not update: ${message.includes('fetch failed') ? 'no internet connection.' : message}`, 'bad');
+  } finally {
+    btn.disabled = false;
+    btn.textContent = '⟳ Update exams';
+  }
 }
 
 /* ---------------- Test tab (shared) ---------------- */
@@ -600,6 +651,8 @@ async function init() {
   $('btn-view-result').addEventListener('click', () => showTab('result'));
   $('btn-toggle-answers').addEventListener('click', toggleAnswers);
   $('level-select').addEventListener('change', (e) => selectLevel(e.target.value));
+  $('btn-update').addEventListener('click', updateExams);
+  $('btn-donate').addEventListener('click', () => $('donate-dialog').showModal());
   initDictionary(); // dictionary.js: double-click / right-click a word to look it up
 
   state.level = recall(LEVEL_KEY, '');
