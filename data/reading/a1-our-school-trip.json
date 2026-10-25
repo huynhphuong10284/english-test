@@ -1,0 +1,439 @@
+{
+  "id": "our-school-trip",
+  "title": "Our School Trip",
+  "level": "A1 · Beginner",
+  "description": "A short story about a class trip to the zoo.",
+  "instructions": "Read the text about a school trip, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Last Friday, my class went on a trip to the zoo. We went there by bus. Our teacher, Miss Green, came with us. The weather was sunny and warm."
+    },
+    {
+      "id": "p2",
+      "text": "First, we saw the lions. They were sleeping under a big tree. Then we visited the monkeys. They were very funny and they jumped from tree to tree."
+    },
+    {
+      "id": "p3",
+      "text": "At twelve o'clock, we had lunch on the grass. After lunch, we gave food to the goats. My favourite animal was the elephant because it was huge. We were tired but happy on the bus home."
+    },
+    {
+      "id": "p4",
+      "text": "Before we went home, we visited the zoo shop. I bought a small toy elephant for my little sister. It cost three dollars. My friend Sara bought a pen with a monkey on it."
+    },
+    {
+      "id": "p5",
+      "text": "On the bus, we sang songs. Miss Green asked, 'What did you learn today?' Tom said, 'Elephants drink a lot of water.' Sara said, 'Monkeys eat bananas and leaves.' Miss Green smiled."
+    },
+    {
+      "id": "p6",
+      "text": "We got back to school at four o'clock. My mum was at the school gate. I told her about the lions, the monkeys and the goats. At home, I gave the toy elephant to my sister. She was very happy."
+    },
+    {
+      "id": "p7",
+      "text": "The next day, we drew pictures of our favourite animals in class. I drew the big elephant. Miss Green put all the pictures on the classroom wall. Now our classroom looks like a zoo!"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A class trip to the zoo",
+        "A day at the beach",
+        "Miss Green's pets",
+        "A bus that broke down"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The whole text is about the class visiting the zoo and the animals they saw.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last Friday, my class went on a trip to the zoo."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How did the class go to the zoo?",
+      "options": [
+        "By train",
+        "By car",
+        "By bus",
+        "On foot"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says they went there by bus.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "We went there by bus."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What were the lions doing?",
+      "options": [
+        "Eating food",
+        "Jumping from tree to tree",
+        "Playing with the goats",
+        "Sleeping under a big tree"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The lions were sleeping under a big tree. The monkeys were the animals that jumped.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They were sleeping under a big tree."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"huge\" means...",
+      "options": [
+        "very fast",
+        "very big",
+        "very quiet",
+        "very small"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Huge\" means very big. Elephants are very big animals.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "My favourite animal was the elephant because it was huge."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What did the children do after lunch?",
+      "options": [
+        "They saw the lions",
+        "They slept on the grass",
+        "They gave food to the goats",
+        "They visited the monkeys"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "After lunch, they gave food to the goats.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "After lunch, we gave food to the goats."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "When did the class go to the zoo?",
+      "options": [
+        "Last Monday",
+        "Last Friday",
+        "Last Sunday",
+        "Yesterday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Last Friday, the class went on a trip to the zoo.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last Friday, my class went on a trip to the zoo."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What was the weather like?",
+      "options": [
+        "Rainy and cold",
+        "Windy and grey",
+        "Snowy",
+        "Sunny and warm"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The weather was sunny and warm.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "The weather was sunny and warm."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Who is Miss Green?",
+      "options": [
+        "The class teacher",
+        "A zoo worker",
+        "The bus driver",
+        "The writer's mum"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Miss Green is the teacher who came with the class.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Our teacher, Miss Green, came with us."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What did the monkeys do?",
+      "options": [
+        "They slept under a tree",
+        "They ate bananas on the grass",
+        "They jumped from tree to tree",
+        "They swam in the water"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The monkeys were funny and jumped from tree to tree.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They were very funny and they jumped from tree to tree."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What time did the class have lunch?",
+      "options": [
+        "At eleven o'clock",
+        "At one o'clock",
+        "At four o'clock",
+        "At twelve o'clock"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "At twelve o'clock, they had lunch on the grass.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "At twelve o'clock, we had lunch on the grass."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What was the writer's favourite animal at the zoo?",
+      "options": [
+        "The lion",
+        "The elephant",
+        "The monkey",
+        "The goat"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer's favourite animal was the elephant.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "My favourite animal was the elephant because it was huge."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What did the writer buy at the zoo shop?",
+      "options": [
+        "A small toy elephant",
+        "A pen with a monkey on it",
+        "A lion poster",
+        "A bag of bananas"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer bought a small toy elephant. Sara bought the pen.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "I bought a small toy elephant for my little sister."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "How much did the toy elephant cost?",
+      "options": [
+        "Two dollars",
+        "Five dollars",
+        "Ten dollars",
+        "Three dollars"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "It cost three dollars.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It cost three dollars."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Singing and talking on the bus home",
+        "Buying things at the zoo shop",
+        "Giving food to the goats",
+        "A problem with the bus"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 5 is about the class singing and talking about the animals on the bus.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "On the bus, we sang songs."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "What did Tom learn about elephants?",
+      "options": [
+        "They eat bananas and leaves",
+        "They sleep under trees",
+        "They drink a lot of water",
+        "They jump from tree to tree"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom said, 'Elephants drink a lot of water.' Sara talked about monkeys.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Tom said, 'Elephants drink a lot of water.'"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, \"got back to school\" means...",
+      "options": [
+        "left the school",
+        "returned to school",
+        "cleaned the school",
+        "looked for the school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After the trip, the class came back, or returned, to school at four o'clock.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "We got back to school at four o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Who was waiting at the school gate?",
+      "options": [
+        "The writer's mum",
+        "The writer's sister",
+        "Miss Green",
+        "Sara"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer's mum was at the school gate.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "My mum was at the school gate."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "Why was the writer's sister very happy?",
+      "options": [
+        "She went to the zoo",
+        "She saw the lions",
+        "She got a toy elephant",
+        "She drew a picture"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer gave her the toy elephant, so she was very happy.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "At home, I gave the toy elephant to my sister. She was very happy."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What did the class do the next day?",
+      "options": [
+        "They went back to the zoo",
+        "They wrote a story about the bus",
+        "They sang songs in the classroom",
+        "They drew pictures of their favourite animals"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The next day, they drew pictures of their favourite animals.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "The next day, we drew pictures of our favourite animals in class."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "Why does the classroom look like a zoo?",
+      "options": [
+        "There are real animals in it",
+        "There are animal pictures on the wall",
+        "The children brought their pets",
+        "Miss Green bought a toy lion"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Miss Green put all the animal pictures on the classroom wall.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Miss Green put all the pictures on the classroom wall. Now our classroom looks like a zoo!"
+        }
+      ]
+    }
+  ]
+}

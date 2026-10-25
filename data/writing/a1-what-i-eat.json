@@ -1,0 +1,319 @@
+{
+  "id": "w-what-i-eat",
+  "title": "What I Eat",
+  "level": "A1 · Beginner",
+  "description": "Practise the present simple and like + -ing, and write a message about the food you eat.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present simple: negative",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ eat meat. I am vegetarian.",
+      "options": [
+        "doesn't",
+        "not",
+        "don't",
+        "am not"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "With I, make the negative with don't + base verb: I don't eat."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Like + -ing",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "I like ___ (cook) with my mum.",
+      "answers": [
+        "cooking",
+        "to cook"
+      ],
+      "points": 1,
+      "explanation": "After like, we usually use the -ing form: I like cooking."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Word order: time phrases",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "for breakfast",
+        "eat",
+        "I",
+        "bread and eggs"
+      ],
+      "answers": [
+        "I eat bread and eggs for breakfast.",
+        "For breakfast I eat bread and eggs."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + object + for + meal: I eat bread and eggs for breakfast."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Present simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We has dinner at seven o'clock.",
+      "answers": [
+        "We have dinner at seven o'clock."
+      ],
+      "points": 1,
+      "explanation": "With we, use \"have\", not \"has\": we have dinner."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the best word to join the ideas.",
+      "text": "I don't like fish ___ it smells bad.",
+      "options": [
+        "and",
+        "because",
+        "but",
+        "or"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Because\" gives the reason: I don't like fish because it smells bad."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Present simple: questions",
+      "prompt": "Write one word to complete the question.",
+      "text": "What ___ you usually eat for lunch?",
+      "answers": [
+        "do"
+      ],
+      "points": 1,
+      "explanation": "Make present simple questions with you using do: What do you eat?"
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Articles: a / an",
+      "prompt": "Choose the correct word.",
+      "text": "I eat ___ apple every day.",
+      "options": [
+        "a",
+        "any",
+        "two",
+        "an"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound: an apple."
+    },
+    {
+      "id": "e8",
+      "type": "error-correction",
+      "focus": "Plurals: -es",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I eat two sandwichs for lunch.",
+      "answers": [
+        "I eat two sandwiches for lunch."
+      ],
+      "points": 1,
+      "explanation": "Nouns ending in -ch take -es in the plural: sandwiches."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Present simple: third person -s",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "My sister ___ (drink) milk every morning.",
+      "answers": [
+        "drinks"
+      ],
+      "points": 1,
+      "explanation": "With he, she and it, add -s to the verb: she drinks."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Present simple: third person -s",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "spicy food",
+        "likes",
+        "my dad"
+      ],
+      "answers": [
+        "My dad likes spicy food."
+      ],
+      "points": 1,
+      "explanation": "With he, she and it, add -s to the verb: my dad likes."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "There is",
+      "prompt": "Choose the correct word.",
+      "text": "There ___ some milk in the fridge.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Milk\" is uncountable, so use \"there is\": there is some milk."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Possessive 's",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My brothers favourite food is pizza.",
+      "answers": [
+        "My brother's favourite food is pizza.",
+        "My brothers' favourite food is pizza."
+      ],
+      "points": 1,
+      "explanation": "Add 's to a person to show that something belongs to them: my brother's favourite food."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Prepositions of time: at",
+      "prompt": "Choose the correct word.",
+      "text": "We have lunch ___ one o'clock.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"at\" with clock times: at one o'clock."
+    },
+    {
+      "id": "e14",
+      "type": "gap-fill",
+      "focus": "Can't",
+      "prompt": "Complete with can or can't.",
+      "text": "I ___ eat nuts. They make me ill.",
+      "answers": [
+        "can't",
+        "cannot",
+        "can not"
+      ],
+      "points": 1,
+      "explanation": "Use \"can't\" (cannot) when something is not possible."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Have got",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "some eggs",
+        "have",
+        "we",
+        "got"
+      ],
+      "answers": [
+        "We have got some eggs.",
+        "Have we got some eggs?"
+      ],
+      "points": 1,
+      "explanation": "Subject + have got + noun: We have got some eggs."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Present simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Vegetables is good for you.",
+      "answers": [
+        "Vegetables are good for you."
+      ],
+      "points": 1,
+      "explanation": "Use \"are\" with plural nouns: vegetables are."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Linking words: but",
+      "prompt": "Choose the correct word.",
+      "text": "I like apples, ___ I don't like bananas.",
+      "options": [
+        "but",
+        "and",
+        "because",
+        "so"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"but\" to join two different or opposite ideas."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Present simple: questions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Does she eats meat?",
+      "answers": [
+        "Does she eat meat?"
+      ],
+      "points": 1,
+      "explanation": "After \"does\" in a question, use the base form of the verb: Does she eat ...?"
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Prepositions of time: on",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "fish",
+        "we",
+        "on Fridays",
+        "eat"
+      ],
+      "answers": [
+        "We eat fish on Fridays.",
+        "On Fridays we eat fish."
+      ],
+      "points": 1,
+      "explanation": "Use \"on\" with days of the week: on Fridays."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Possessive adjectives",
+      "prompt": "Write the possessive adjective for the word in brackets.",
+      "text": "Tom and Lucy love ___ (they) grandma's soup.",
+      "answers": [
+        "their"
+      ],
+      "points": 1,
+      "explanation": "The possessive adjective for \"they\" is \"their\": their grandma."
+    }
+  ],
+  "task": {
+    "genre": "Short message",
+    "prompt": "Your English friend is coming to stay with your family. Write a message about the food you eat.",
+    "contentPoints": [
+      "Say what you usually eat for breakfast.",
+      "Say what your family eats for dinner.",
+      "Say one food you love and one food you don't like.",
+      "Ask what food your friend likes."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "Hi ...,",
+      "For breakfast I usually eat ...",
+      "In the evening we have ...",
+      "I love ..., but I don't like ...",
+      "What food do you like?"
+    ],
+    "modelAnswer": "Hi Emma,\n\nFor breakfast I usually eat bread and eggs. In the evening my family has rice, vegetables and fish. I love noodles, but I don't like cheese. What food do you like? My mum can cook it for you!\n\nSee you soon,\nLan"
+  }
+}

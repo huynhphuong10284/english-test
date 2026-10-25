@@ -1,0 +1,439 @@
+{
+  "id": "a-busy-morning",
+  "title": "A Busy Morning",
+  "level": "A1 · Beginner",
+  "description": "A mother gets her family ready for the day.",
+  "instructions": "Read the text about a busy morning, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Mrs Davis gets up at six o'clock every morning. She makes breakfast for her family. She cooks eggs and toast."
+    },
+    {
+      "id": "p2",
+      "text": "At half past six, she wakes up her two sons. The boys wash their faces and put on their school clothes. They eat breakfast quickly."
+    },
+    {
+      "id": "p3",
+      "text": "At seven o'clock, Mrs Davis walks the boys to school. Then she takes the bus to work. She is tired, but she loves her family."
+    },
+    {
+      "id": "p4",
+      "text": "Before they leave, Mrs Davis makes lunch for the boys. She puts sandwiches, an apple and a bottle of water in each lunch box. She also gives food to the family dog, Rex."
+    },
+    {
+      "id": "p5",
+      "text": "This morning, there was a problem. Her younger son, Ben, could not find his left shoe. Everyone looked for it. At last, Mrs Davis found it under the sofa. Rex was asleep next to it!"
+    },
+    {
+      "id": "p6",
+      "text": "The walk to school takes fifteen minutes. On the way, the boys talk about their friends and their lessons. Mrs Davis holds an umbrella because it often rains in the morning. At the school gate, she kisses the boys goodbye."
+    },
+    {
+      "id": "p7",
+      "text": "Then Mrs Davis waits at the bus stop. This morning, the bus was ten minutes late. She was worried, but she got to work at eight o'clock, just in time. She sat down at her desk and smiled. Her busy morning was over."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Mrs Davis's busy morning",
+        "A school trip",
+        "How to cook eggs",
+        "A day at the office"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text tells us what Mrs Davis does every morning before work.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Mrs Davis gets up at six o'clock every morning."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What time does Mrs Davis get up?",
+      "options": [
+        "At seven o'clock",
+        "At half past six",
+        "At six o'clock",
+        "At eight o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She gets up at six o'clock. She wakes her sons at half past six.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Mrs Davis gets up at six o'clock every morning."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How many sons does Mrs Davis have?",
+      "options": [
+        "One",
+        "Three",
+        "Four",
+        "Two"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She wakes up her two sons.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "At half past six, she wakes up her two sons."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"quickly\" means...",
+      "options": [
+        "slowly",
+        "fast",
+        "quietly",
+        "happily"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Quickly\" means fast. The boys do not have much time before school.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They eat breakfast quickly."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "How does Mrs Davis go to work?",
+      "options": [
+        "By car",
+        "On foot",
+        "By bike",
+        "By bus"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She walks the boys to school, then she takes the bus to work.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Then she takes the bus to work."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What does Mrs Davis cook for breakfast?",
+      "options": [
+        "Eggs and toast",
+        "Rice and fish",
+        "Pancakes",
+        "Soup and bread"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She cooks eggs and toast for her family.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She cooks eggs and toast."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What time does Mrs Davis wake up her sons?",
+      "options": [
+        "At six o'clock",
+        "At half past six",
+        "At seven o'clock",
+        "At eight o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "At half past six, she wakes up her two sons.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "At half past six, she wakes up her two sons."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "How does Mrs Davis feel about her family?",
+      "options": [
+        "She is angry with them",
+        "She wants to live alone",
+        "She loves them very much",
+        "She does not know them well"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says she is tired, but she loves her family.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She is tired, but she loves her family."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What does Mrs Davis put in each lunch box?",
+      "options": [
+        "Sandwiches, an apple and water",
+        "Eggs and toast",
+        "Cake and orange juice",
+        "Rice and milk"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She puts sandwiches, an apple and a bottle of water in each lunch box.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "She puts sandwiches, an apple and a bottle of water in each lunch box."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What is the name of the family dog?",
+      "options": [
+        "Ben",
+        "Max",
+        "Rex",
+        "Sam"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mrs Davis gives food to the family dog, Rex. Ben is her younger son.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "She also gives food to the family dog, Rex."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "A sick dog",
+        "A lost shoe",
+        "A new sofa",
+        "A late bus"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 5 tells how Ben could not find his shoe and how his mum found it.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Her younger son, Ben, could not find his left shoe."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "Where was Ben's shoe?",
+      "options": [
+        "In the garden",
+        "Under his bed",
+        "In the bathroom",
+        "Under the sofa"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Mrs Davis found the shoe under the sofa.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "At last, Mrs Davis found it under the sofa."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the words \"at last\" mean...",
+      "options": [
+        "at the start",
+        "in the end, after some time",
+        "very quickly",
+        "never"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Everyone looked for the shoe for some time, and in the end Mrs Davis found it.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Everyone looked for it. At last, Mrs Davis found it under the sofa."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "How long is the walk to school?",
+      "options": [
+        "Five minutes",
+        "Thirty minutes",
+        "One hour",
+        "Fifteen minutes"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The walk to school takes fifteen minutes.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The walk to school takes fifteen minutes."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why does Mrs Davis hold an umbrella?",
+      "options": [
+        "It often rains in the morning",
+        "The sun is very hot",
+        "It is a present for the boys",
+        "The boys like umbrellas"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She holds an umbrella because it often rains in the morning.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Mrs Davis holds an umbrella because it often rains in the morning."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"gate\" means...",
+      "options": [
+        "a big classroom",
+        "a school bus",
+        "a door in a wall or fence",
+        "a small garden"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A gate is a kind of door in a wall or fence. Mrs Davis says goodbye at the school gate.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "At the school gate, she kisses the boys goodbye."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "How late was the bus this morning?",
+      "options": [
+        "Five minutes",
+        "Twenty minutes",
+        "One hour",
+        "Ten minutes"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "This morning, the bus was ten minutes late.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "This morning, the bus was ten minutes late."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"worried\" means...",
+      "options": [
+        "afraid that something bad will happen",
+        "very happy",
+        "very hungry",
+        "very sleepy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The bus was late, so Mrs Davis was afraid she would be late for work.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "She was worried, but she got to work at eight o'clock, just in time."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "Was Mrs Davis late for work this morning?",
+      "options": [
+        "Yes, she was ten minutes late",
+        "No, she got there just in time",
+        "Yes, she was one hour late",
+        "She did not go to work"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The bus was late, but she got to work at eight o'clock, just in time.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "she got to work at eight o'clock, just in time"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "What did Mrs Davis do when she got to work?",
+      "options": [
+        "She drank a cup of coffee",
+        "She called her sons",
+        "She sat down at her desk and smiled",
+        "She went back home"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She sat down at her desk and smiled.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "She sat down at her desk and smiled."
+        }
+      ]
+    }
+  ]
+}

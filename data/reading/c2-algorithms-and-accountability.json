@@ -1,0 +1,447 @@
+{
+  "id": "algorithms-and-accountability",
+  "title": "Algorithms and Accountability",
+  "level": "C2 · Proficiency",
+  "description": "An essay on the challenges of holding automated decision-making systems, and the people behind them, to account.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Decisions that were once the province of human officials, such as who receives a loan, which job applicants are shortlisted, or which neighbourhoods are allocated additional policing, are increasingly informed, and sometimes effectively made, by automated systems. Proponents argue that such systems promise consistency and efficiency, free from the fatigue, favouritism and idiosyncrasy that afflict human judgement. A clerk may be swayed by an applicant's accent; a well-designed model, they contend, attends only to the variables it has been given."
+    },
+    {
+      "id": "p2",
+      "text": "That very claim, however, conceals a difficulty. A model trained on historical data inherits the patterns embedded in that data, including patterns produced by past discrimination. If, for example, a particular group has historically been subjected to more intensive scrutiny, records will show more recorded offences among its members, and a system that learns from those records may recommend yet more scrutiny, reinforcing the very disparity it ostensibly measures. Excluding sensitive attributes such as ethnicity does not necessarily solve the problem, since other variables, such as postcode, may serve as proxies."
+    },
+    {
+      "id": "p3",
+      "text": "Compounding the risk of bias is the problem of opacity. Some of the most powerful techniques produce models whose internal workings resist straightforward explanation even by their designers. When an applicant is refused, it may be genuinely difficult to say why, beyond pointing to a complex interaction among thousands of weighted factors. Further opacity arises when proprietary systems are shielded by commercial confidentiality, so that neither the affected individuals nor, in some cases, the public bodies deploying the systems can scrutinise their logic."
+    },
+    {
+      "id": "p4",
+      "text": "Responses to these concerns have taken several forms. Some advocate mandatory audits, in which independent experts test systems for discriminatory outcomes before and after deployment. Others emphasise a right to explanation, entitling individuals to a meaningful account of decisions that significantly affect them. Still others argue that certain decisions, particularly those involving liberty or fundamental rights, should never be delegated to automated systems at all, whatever their measured accuracy."
+    },
+    {
+      "id": "p5",
+      "text": "Each proposal confronts difficulties. Audits can reveal disparities in outcomes, but determining which disparities are unjust requires choosing among competing definitions of fairness, some of which, researchers have shown, cannot in general be satisfied simultaneously. Explanations that are faithful to a complex model may be unintelligible to a layperson, while intelligible ones may be simplifications that misrepresent the model's actual reasoning. And blanket prohibitions risk returning decisions to human officials whose biases, though more familiar, are no less real."
+    },
+    {
+      "id": "p6",
+      "text": "Underlying these technical debates is a more fundamental question about responsibility. When a harmful decision emerges from the interaction of data collected by one party, a model built by another and a deployment chosen by a third, it becomes tempting for each to disclaim responsibility, attributing the outcome to the system itself. Accountability, however, is a relation between persons and institutions, not between people and machines. Whatever the technical remedies adopted, they are likely to prove inadequate unless they are anchored in clear lines of human responsibility for the choices that systems embody."
+    },
+    {
+      "id": "p7",
+      "text": "One frequently proposed safeguard is to keep a human in the loop, requiring that an official review each automated recommendation before it takes effect. The arrangement has an obvious appeal, but its protective value may be more apparent than real. Research on automation bias suggests that people tend to defer to machine outputs, particularly when they are under time pressure or lack the expertise to evaluate them, so that review can degenerate into a formality. Worse, the presence of a nominal reviewer may lend the decision an air of human deliberation that it does not in fact possess, making it harder rather than easier to contest. A safeguard of this kind is only as meaningful as the authority, time and information granted to the person who exercises it."
+    },
+    {
+      "id": "p8",
+      "text": "Accountability is further complicated by the fact that automated systems are rarely static. Models are periodically retrained on fresh data, thresholds are adjusted, and the populations to which they are applied change over time, so that a system audited and approved in one year may behave quite differently in the next. This suggests that accountability cannot be secured by a single act of certification; it requires continuing obligations, such as the keeping of records that allow a particular decision to be reconstructed after the fact, and the monitoring of outcomes for signs of drift. Several regulatory frameworks now classify systems according to the risks they pose and impose heavier duties of documentation and oversight on those deemed high-risk, though how effectively such duties will be enforced remains, for the present, an open question."
+    },
+    {
+      "id": "p9",
+      "text": "None of this implies that automated decision-making should simply be abandoned. The comparison that matters is not between flawed algorithms and some idealised human judge, but between imperfect systems and the imperfect institutions they supplement or replace. What the preceding considerations do suggest is that the most pressing questions are less technical than political: who decides which systems are deployed, on whose behalf, and with what means of redress for those who are harmed. A society that treats these as engineering problems to be solved by better models may find that it has improved the accuracy of its decisions while quietly eroding the conditions under which anyone can be held to answer for them."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the writer's central argument?",
+      "options": [
+        "Automated systems should replace human officials because they are free from bias.",
+        "Technical fixes for algorithmic bias and opacity are useful but must be grounded in clear human responsibility.",
+        "Algorithms are inherently more discriminatory than human decision-makers.",
+        "Commercial confidentiality is the main obstacle to fair automated decisions."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The final paragraph argues that technical remedies are inadequate unless anchored in human responsibility.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "they are likely to prove inadequate unless they are anchored in clear lines of human responsibility"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to proponents, what advantage do automated systems have over human decision-makers?",
+      "options": [
+        "They are completely transparent.",
+        "They are cheaper to build than to operate.",
+        "They are consistent and free from human fatigue and favouritism.",
+        "They never use historical data."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Proponents claim consistency and freedom from fatigue, favouritism and idiosyncrasy.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "promise consistency and efficiency, free from the fatigue, favouritism and idiosyncrasy that afflict human judgement"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "What does the example in paragraph 2 suggest about systems trained on historical records?",
+      "options": [
+        "They may create a feedback loop that intensifies existing inequalities.",
+        "They always correct the biases of past human decisions.",
+        "They are accurate as long as ethnicity is excluded.",
+        "They are unaffected by how data was originally collected."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "More scrutiny produces more records, leading to recommendations of more scrutiny, reinforcing disparity.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "reinforcing the very disparity it ostensibly measures"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"proxies\" is closest in meaning to",
+      "options": [
+        "errors",
+        "substitutes",
+        "barriers",
+        "witnesses"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Variables such as postcode can stand in for excluded attributes.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "other variables, such as postcode, may serve as proxies"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "According to paragraph 3, which is a source of opacity in automated systems?",
+      "options": [
+        "Designers refusing to test their models.",
+        "The use of too few variables.",
+        "Laws requiring all decisions to be explained.",
+        "Commercial confidentiality protecting proprietary systems."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Proprietary systems shielded by commercial confidentiality are named as a further source of opacity.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "proprietary systems are shielded by commercial confidentiality"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "What is the purpose of paragraph 5?",
+      "options": [
+        "To show that each proposed response involves its own difficulties or trade-offs.",
+        "To prove that none of the proposals in paragraph 4 has any value.",
+        "To argue that human officials are less biased than algorithms.",
+        "To describe how audits are carried out in practice."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The paragraph opens \"Each proposal confronts difficulties\" and discusses each in turn; it does not reject them outright.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Each proposal confronts difficulties."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What can be inferred about the problem of defining fairness?",
+      "options": [
+        "There is a single agreed definition that audits can apply.",
+        "Fairness can be measured simply by comparing outcomes.",
+        "Choosing which definition of fairness to apply involves value judgements that audits alone cannot settle.",
+        "Researchers have shown that fairness is impossible to achieve in any sense."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Competing definitions cannot all be satisfied, so one must choose among them. The final option overgeneralises the claim.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "determining which disparities are unjust requires choosing among competing definitions of fairness"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "purpose",
+      "text": "Why does the writer describe data collected by one party, a model built by another and a deployment chosen by a third?",
+      "options": [
+        "To illustrate how responsibility can become diffused so that each party may disclaim it.",
+        "To explain the technical process of building an algorithm.",
+        "To argue that only the model builder should be held responsible.",
+        "To show that machines can be held legally accountable."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The scenario shows how fragmented involvement makes it tempting for each party to deny responsibility.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "it becomes tempting for each to disclaim responsibility, attributing the outcome to the system itself"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"disclaim\" most nearly means",
+      "options": [
+        "claim strongly",
+        "deny",
+        "share equally",
+        "explain"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "To disclaim responsibility is to deny or renounce it.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "disclaim responsibility"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "Which view would the writer most likely endorse?",
+      "options": [
+        "If an algorithm causes harm, the algorithm itself should be blamed.",
+        "Accountability for automated decisions ultimately rests with the people and institutions behind them.",
+        "Automated systems should never be used in any context.",
+        "A right to explanation would solve all the problems discussed."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer states that accountability is \"a relation between persons and institutions, not between people and machines\".",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Accountability, however, is a relation between persons and institutions, not between people and machines."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "According to paragraph 7, why may human review of automated recommendations offer less protection than it appears to?",
+      "options": [
+        "Reviewers are usually less qualified than the designers of the system.",
+        "Reviewers are legally prevented from overturning automated recommendations.",
+        "Human review always takes too long to be practical.",
+        "People tend to defer to machine outputs, especially under time pressure or without relevant expertise."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The paragraph cites research on automation bias: people defer to machine outputs when pressed for time or lacking expertise.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "people tend to defer to machine outputs, particularly when they are under time pressure or lack the expertise to evaluate them"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the phrase \"degenerate into\" is closest in meaning to",
+      "options": [
+        "develop rapidly into",
+        "be officially converted into",
+        "deteriorate into",
+        "be confused with"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Review that degenerates into a formality declines into something empty and merely procedural.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "review can degenerate into a formality"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "What does the writer imply about the presence of a nominal human reviewer?",
+      "options": [
+        "It may make a decision harder to challenge by giving it a misleading appearance of deliberation.",
+        "It guarantees that affected individuals will be able to appeal.",
+        "It is always worse than having no safeguard at all.",
+        "It eliminates the effects of automation bias."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The reviewer may lend the decision an air of deliberation it lacks, making it harder to contest. The third option overgeneralises a hedged claim.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "may lend the decision an air of human deliberation that it does not in fact possess, making it harder rather than easier to contest"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer end paragraph 7 with the sentence about the \"authority, time and information\" granted to the reviewer?",
+      "options": [
+        "To reject human review as entirely worthless.",
+        "To argue that human reviewers should be replaced by further automated checks.",
+        "To summarise the findings of research on automation bias.",
+        "To indicate the conditions under which human review could provide genuine protection."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The sentence does not dismiss review; it specifies what would make it meaningful.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "A safeguard of this kind is only as meaningful as the authority, time and information granted to the person who exercises it."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 8, why might a system approved in one year behave differently in the next?",
+      "options": [
+        "Auditors adopt a different definition of fairness every year.",
+        "Regulators routinely withdraw approval after twelve months.",
+        "Models are retrained, thresholds are adjusted and the populations they are applied to change.",
+        "Designers deliberately conceal changes from the public."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The paragraph lists retraining, adjusted thresholds and changing populations.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Models are periodically retrained on fresh data, thresholds are adjusted, and the populations to which they are applied change over time"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 8 about certifying a system once before deployment?",
+      "options": [
+        "It is unnecessary for systems that are considered low-risk.",
+        "It is insufficient on its own, because systems continue to change after approval.",
+        "It is the most reliable means of securing accountability.",
+        "It has been abandoned by all current regulatory frameworks."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Accountability cannot be secured by a single act of certification and requires continuing obligations.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "accountability cannot be secured by a single act of certification"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "According to paragraph 8, what do several regulatory frameworks now do?",
+      "options": [
+        "Prohibit the use of all high-risk systems.",
+        "Require every system to be retrained annually.",
+        "Exempt proprietary systems from documentation requirements.",
+        "Impose heavier duties of documentation and oversight on systems deemed high-risk."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Frameworks classify systems by risk and place heavier duties on high-risk ones.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "impose heavier duties of documentation and oversight on those deemed high-risk"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What is the writer's attitude towards risk-based regulatory frameworks?",
+      "options": [
+        "Cautiously uncertain about how effectively they will be enforced.",
+        "Confident that they have resolved the problem of accountability.",
+        "Dismissive, regarding them as purely symbolic gestures.",
+        "Indifferent, since they concern only technical matters."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer reports the frameworks neutrally but notes that their enforcement remains an open question.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "how effectively such duties will be enforced remains, for the present, an open question"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "vocabulary",
+      "text": "In paragraph 9, the word \"redress\" is closest in meaning to",
+      "options": [
+        "explanation",
+        "redistribution",
+        "remedy",
+        "re-examination"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Means of redress are ways for those harmed to obtain a remedy or compensation.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "with what means of redress for those who are harmed"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "Which statement best summarises the point of the final paragraph?",
+      "options": [
+        "Automated decision-making should be abandoned because it erodes accountability.",
+        "Better models will eventually resolve the political questions raised by automated decisions.",
+        "Algorithms should be judged against the standard of an ideal human judge.",
+        "The most pressing questions about automated decisions are political, concerning who decides and how those harmed can seek redress."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The paragraph states that the most pressing questions are less technical than political. It explicitly rejects abandonment and the comparison with an idealised judge.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "the most pressing questions are less technical than political"
+        }
+      ]
+    }
+  ]
+}

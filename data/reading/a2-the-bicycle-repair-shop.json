@@ -1,0 +1,451 @@
+{
+  "id": "the-bicycle-repair-shop",
+  "title": "The Bicycle Repair Shop",
+  "level": "A2 · Elementary",
+  "description": "An old man opens a bicycle repair shop and teaches young people.",
+  "instructions": "Read the text about a bicycle repair shop, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Mr Okafor worked in a car factory for forty years. When he stopped working, he felt bored at home. He loved bicycles, so he opened a small repair shop in his garage. The shop is open every afternoon except Sunday."
+    },
+    {
+      "id": "p2",
+      "text": "People bring him bicycles with flat tyres, broken chains and old brakes. Mr Okafor fixes most of them in less than an hour. He does not ask for much money. Sometimes, if a child cannot pay, he repairs the bike for free."
+    },
+    {
+      "id": "p3",
+      "text": "One day, a teenager called Jake brought in a very old bike. It was rusty, and the wheels did not turn. Mr Okafor showed Jake how to clean it and change the parts. After two weeks of work together, the bike looked like new."
+    },
+    {
+      "id": "p4",
+      "text": "Now Jake comes to the shop after school three times a week. He is learning to repair bicycles himself. Mr Okafor says Jake is his best student. Jake wants to open his own shop one day."
+    },
+    {
+      "id": "p5",
+      "text": "Last spring, Jake had an idea. Many old bicycles were in people's garages, and nobody used them. He asked his neighbours to give them to the shop. In two months, people brought more than thirty old bikes. Some were very dirty, and some had no wheels, but Mr Okafor smiled. 'We can fix most of them,' he said. 'But we are going to need more help.'"
+    },
+    {
+      "id": "p6",
+      "text": "Every Saturday, Jake and Mr Okafor worked on the bikes together. Some of Jake's friends from school came to help too. They painted the bikes in bright colours, and they put new tyres and lights on them. The garage was full of noise and laughter. Mr Okafor said he felt younger than he did in many years."
+    },
+    {
+      "id": "p7",
+      "text": "In the summer, they gave the bikes to children from poor families in the town. Many of the children never had a bike before, and some of them cried with happiness. A local newspaper wrote a story about them, with a big photo of Mr Okafor and Jake. Now people from other towns call the shop for advice. Mr Okafor is not bored any more. 'I am busier now than when I worked at the factory,' he says with a laugh."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the best title for the text?",
+      "options": [
+        "Life in a Car Factory",
+        "How to Ride a Bicycle Safely",
+        "The Best Bicycle Races",
+        "An Old Man and His Bike Shop"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text is about Mr Okafor's repair shop and the people he helps there.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "he opened a small repair shop in his garage"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Why did Mr Okafor open the shop?",
+      "options": [
+        "He was bored at home and loved bicycles",
+        "He needed a lot of money",
+        "The car factory closed",
+        "Jake asked him to do it"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He felt bored after he stopped working, and he loved bicycles.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "he felt bored at home"
+        },
+        {
+          "paragraphId": "p1",
+          "quote": "He loved bicycles, so he opened a small repair shop"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"rusty\" describes metal that is...",
+      "options": [
+        "shiny and new",
+        "painted bright red",
+        "old, brown and damaged by water and air",
+        "very light"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The bike was very old and the wheels did not turn, so the metal was damaged.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "It was rusty, and the wheels did not turn."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "purpose",
+      "text": "Why does the writer say that Mr Okafor sometimes repairs bikes for free?",
+      "options": [
+        "To show that his shop is losing money",
+        "To show that he is kind and generous",
+        "To explain why he is often bored",
+        "To show that children break bikes often"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Fixing a child's bike without payment shows his kindness.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "if a child cannot pay, he repairs the bike for free"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can we say about Jake?",
+      "options": [
+        "He does not like Mr Okafor",
+        "He sold his old bike",
+        "He works in a car factory",
+        "He enjoys working with bicycles"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Jake comes to the shop often, is learning repairs and wants his own shop one day.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Jake comes to the shop after school three times a week"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Jake wants to open his own shop one day."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "How long did it take to repair Jake's old bike?",
+      "options": [
+        "Two weeks",
+        "Less than an hour",
+        "One afternoon",
+        "Forty days"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After two weeks of work together, the bike looked like new.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "After two weeks of work together, the bike looked like new."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "How long did Mr Okafor work in the car factory?",
+      "options": [
+        "Fourteen years",
+        "Forty years",
+        "Four years",
+        "Thirty years"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He worked in a car factory for forty years.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Mr Okafor worked in a car factory for forty years."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"bored\" means...",
+      "options": [
+        "tired because there is nothing interesting to do",
+        "very busy with work",
+        "ill and in bed",
+        "angry with other people"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After he stopped working, he had nothing interesting to do at home.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "When he stopped working, he felt bored at home."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, a \"flat\" tyre is a tyre that...",
+      "options": [
+        "is brand new",
+        "is very big",
+        "is painted in bright colours",
+        "has no air in it"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A flat tyre has lost its air, so the bike cannot be ridden well.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "People bring him bicycles with flat tyres"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "How long does Mr Okafor usually need to fix a bike?",
+      "options": [
+        "Two weeks",
+        "Less than an hour",
+        "A whole day",
+        "About three hours"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He fixes most of them in less than an hour.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Mr Okafor fixes most of them in less than an hour."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"fixes\" is closest in meaning to...",
+      "options": [
+        "sells",
+        "paints",
+        "repairs",
+        "buys"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "To fix something means to repair it.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Mr Okafor fixes most of them"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "How often does Jake come to the shop?",
+      "options": [
+        "Every day before school",
+        "Three times a week after school",
+        "Once a month",
+        "Only on Sundays"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Jake comes to the shop after school three times a week.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Now Jake comes to the shop after school three times a week."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "What can we understand about Mr Okafor's feelings for Jake?",
+      "options": [
+        "He thinks Jake is lazy",
+        "He wants Jake to stop coming",
+        "He is proud of him",
+        "He is afraid of Jake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He calls Jake his best student, so he is proud of him.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Mr Okafor says Jake is his best student."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer say that \"nobody used\" the old bicycles?",
+      "options": [
+        "To show that the bikes were very expensive",
+        "To explain why Jake asked people to give them away",
+        "To show that Jake did not like bikes",
+        "To explain why the shop is closed on Sunday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The bikes were not used, so Jake asked his neighbours to give them to the shop.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Many old bicycles were in people's garages, and nobody used them."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "How many old bikes did people bring in two months?",
+      "options": [
+        "About ten",
+        "Exactly twenty",
+        "More than thirty",
+        "More than a hundred"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In two months, people brought more than thirty old bikes.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "In two months, people brought more than thirty old bikes."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"laughter\" means...",
+      "options": [
+        "the sound of machines",
+        "a kind of paint",
+        "a long, quiet rest",
+        "the sound of people laughing"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The garage was full of the happy sound of people laughing.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The garage was full of noise and laughter."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "Why did Mr Okafor feel younger?",
+      "options": [
+        "Working with the young people made him happy and full of energy",
+        "He stopped working on bikes",
+        "He started to ride a bike again every day",
+        "He went back to the car factory"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The garage was full of young people, noise and laughter, and this made him feel young.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Mr Okafor said he felt younger than he did in many years."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "Who received the repaired bikes?",
+      "options": [
+        "People from other towns",
+        "Jake's friends from school",
+        "Children from poor families in the town",
+        "Workers at the car factory"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They gave the bikes to children from poor families in the town.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "they gave the bikes to children from poor families in the town"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer mention the newspaper story?",
+      "options": [
+        "To show that Mr Okafor wants to be a writer",
+        "To explain why the bikes were dirty",
+        "To show that Jake sold the bikes",
+        "To show that the project became well known"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "After the newspaper story, people from other towns started to call the shop.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "A local newspaper wrote a story about them"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What can we understand from Mr Okafor's words at the end?",
+      "options": [
+        "His old problem of being bored is gone",
+        "He wants to go back to the factory",
+        "He is tired of repairing bikes",
+        "He does not like the newspaper story"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "At the start he was bored at home, but now he is busier than before.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "'I am busier now than when I worked at the factory,'"
+        },
+        {
+          "paragraphId": "p1",
+          "quote": "he felt bored at home"
+        }
+      ]
+    }
+  ]
+}

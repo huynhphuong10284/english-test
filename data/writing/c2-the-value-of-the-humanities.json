@@ -1,0 +1,321 @@
+{
+  "id": "w-the-value-of-the-humanities",
+  "title": "The Value of the Humanities",
+  "level": "C2 · Proficiency",
+  "description": "Practise conditional inversion, concession and hedging, then write an essay defending or questioning the value of the humanities.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Conditional inversion",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Were funding ___ further, many departments would be forced to close.",
+      "options": [
+        "cutting",
+        "to be cut",
+        "been cut",
+        "to cut"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Were + subject + to be + past participle\" is a formal inverted conditional about a hypothetical future event: were funding to be cut ..."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Studying history helps us to see current events in ___.",
+      "answers": [
+        "perspective",
+        "context"
+      ],
+      "points": 1,
+      "explanation": "To see something \"in perspective\" or \"in context\" means to judge its importance accurately against a wider background."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Hedging",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "seem",
+        "would",
+        "the humanities",
+        "to foster",
+        "empathy"
+      ],
+      "answers": [
+        "The humanities would seem to foster empathy."
+      ],
+      "points": 1,
+      "explanation": "\"Would seem to + infinitive\" is a cautious way of presenting a claim, common in academic writing."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Inversion",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Not only the humanities teach critical thinking, but they also nurture empathy.",
+      "answers": [
+        "Not only do the humanities teach critical thinking, but they also nurture empathy."
+      ],
+      "points": 1,
+      "explanation": "When \"not only\" begins a sentence, an auxiliary must come before the subject: not only do the humanities teach ..."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Concession",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"No ...\".",
+      "text": "However useful science is, it cannot answer every question.",
+      "keyword": "matter",
+      "answers": [
+        "No matter how useful science is, it cannot answer every question.",
+        "No matter how useful science may be, it cannot answer every question.",
+        "No matter how useful science might be, it cannot answer every question.",
+        "No matter how useful science is, it can't answer every question."
+      ],
+      "points": 1,
+      "explanation": "\"No matter how + adjective\" means the same as \"however + adjective\" and introduces a concession."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"On no ...\".",
+      "text": "We should not, under any circumstances, dismiss these subjects as a luxury.",
+      "keyword": "account",
+      "answers": [
+        "On no account should we dismiss these subjects as a luxury."
+      ],
+      "points": 1,
+      "explanation": "\"On no account\" at the start of a sentence is an emphatic negative followed by inversion: on no account should we ..."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Critics ...\".",
+      "text": "Critics often fail to understand the main purpose of a humanities degree.",
+      "keyword": "point",
+      "answers": [
+        "Critics often miss the point of a humanities degree.",
+        "Critics often miss the main point of a humanities degree.",
+        "Critics often miss the whole point of a humanities degree."
+      ],
+      "points": 1,
+      "explanation": "\"Miss the point (of something)\" means to fail to understand its main purpose or idea."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Substitution",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Some argue that the humanities are a luxury; I would argue ___.",
+      "answers": [
+        "otherwise",
+        "the opposite",
+        "the contrary"
+      ],
+      "points": 1,
+      "explanation": "\"Otherwise\" can replace a whole clause to express the opposite view: I would argue otherwise (= that they are not a luxury)."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "A grounding in philosophy is invaluable ___ anyone who must weigh competing arguments.",
+      "options": [
+        "to",
+        "at",
+        "with",
+        "on"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Invaluable to\" (or \"for\") someone means extremely useful to them."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The humanities are sometimes dismissed as ___ (practical) indulgences in an age of technology.",
+      "answers": [
+        "impractical",
+        "unpractical"
+      ],
+      "points": 1,
+      "explanation": "The usual negative of \"practical\" is \"impractical\" (not useful or realistic); \"unpractical\" is a less common alternative."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Noun + preposition",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Literature gives us insight to lives very different from our own.",
+      "answers": [
+        "Literature gives us insight into lives very different from our own."
+      ],
+      "points": 1,
+      "explanation": "The noun \"insight\" is followed by \"into\": insight into a problem, insight into other lives."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Recent research lends ...\".",
+      "text": "Recent research supports the view that reading fiction builds empathy.",
+      "keyword": "weight",
+      "answers": [
+        "Recent research lends weight to the view that reading fiction builds empathy.",
+        "Recent research lends further weight to the view that reading fiction builds empathy.",
+        "Recent research lends considerable weight to the view that reading fiction builds empathy.",
+        "Recent research lends some weight to the view that reading fiction builds empathy."
+      ],
+      "points": 1,
+      "explanation": "To \"lend weight to\" an argument or view means to make it seem more likely to be true."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Verb collocations",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The value of the humanities cannot be ___ in purely economic terms.",
+      "options": [
+        "sized",
+        "numbered",
+        "measured",
+        "tallied"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Value is \"measured\" in particular terms; \"sized\", \"numbered\" and \"tallied\" do not collocate with \"value\" in this way."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Fronting",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "of particular importance",
+        "the ability",
+        "to",
+        "question",
+        "assumptions"
+      ],
+      "answers": [
+        "Of particular importance is the ability to question assumptions.",
+        "The ability to question assumptions is of particular importance."
+      ],
+      "points": 1,
+      "explanation": "A phrase such as \"of particular importance\" can be fronted to highlight it, with the verb before a long subject."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "History teaches us to be skeptic of simple explanations.",
+      "answers": [
+        "History teaches us to be sceptical of simple explanations.",
+        "History teaches us to be skeptical of simple explanations."
+      ],
+      "points": 1,
+      "explanation": "\"Sceptic\" (American \"skeptic\") is a noun for a person; after \"be\" we need the adjective \"sceptical\" (or \"skeptical\")."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Studying literature is valuable ...\".",
+      "text": "Studying literature is valuable for its own sake, not just as a route to a career.",
+      "keyword": "right",
+      "answers": [
+        "Studying literature is valuable in its own right, not just as a route to a career."
+      ],
+      "points": 1,
+      "explanation": "\"In its own right\" means because of its own qualities, independently of anything else."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Formal vocabulary",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Funding cuts have ___ the closure of several classics departments.",
+      "options": [
+        "precipitous",
+        "precipitation",
+        "participated",
+        "precipitated"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "To \"precipitate\" an event means to make it happen suddenly or sooner than expected; it is a formal verb."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "A society that neglects its history is ___ to repeat its mistakes. (one word, beginning with D)",
+      "answers": [
+        "doomed",
+        "destined"
+      ],
+      "points": 1,
+      "explanation": "\"Doomed to\" (or \"destined to\") repeat something means certain to repeat it. The phrase echoes a famous saying about history."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Passive with fixed phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Graduates who can write clearly are ...\".",
+      "text": "Employers greatly value graduates who can write clearly.",
+      "keyword": "regard",
+      "answers": [
+        "Graduates who can write clearly are held in high regard by employers.",
+        "Graduates who can write clearly are held in great regard by employers."
+      ],
+      "points": 1,
+      "explanation": "To \"hold someone in high regard\" means to respect and value them greatly; in the passive: they are held in high regard by ..."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Subject-verb agreement",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Each of these disciplines offer a distinct way of understanding the world.",
+      "answers": [
+        "Each of these disciplines offers a distinct way of understanding the world."
+      ],
+      "points": 1,
+      "explanation": "\"Each of + plural noun\" takes a singular verb, because the subject is \"each\"."
+    }
+  ],
+  "task": {
+    "genre": "Essay",
+    "prompt": "Write an essay for your tutor responding to the claim: \"In a technological age, studying the humanities is a luxury society can no longer afford.\"",
+    "contentPoints": [
+      "Present the economic arguments against funding the humanities.",
+      "Explain what skills and understanding the humanities provide.",
+      "Discuss how the humanities relate to science and technology.",
+      "State and justify your own conclusion."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "It is often claimed that ...",
+      "Not only do ... but they also ...",
+      "would seem to ...",
+      "No matter how ..., ...",
+      "Critics miss the point ...",
+      "On no account should ..."
+    ],
+    "modelAnswer": "It is often claimed that, in an economy driven by technology, universities should concentrate their resources on science, engineering and medicine. Subjects such as history, philosophy and literature are increasingly portrayed as pleasant indulgences rather than essential forms of knowledge. I would argue otherwise.\n\nThe economic case against the humanities is easy to state. Graduates in these subjects often earn less, at least at the start of their careers, than their counterparts in technical fields. At a time of limited public spending, governments understandably wish to fund degrees that appear to lead directly to employment and growth. Were funding to be cut further, many humanities departments would be forced to close, and some politicians would regard this as a reasonable price to pay.\n\nYet such arguments rest on a narrow view of value. Not only do the humanities teach students to analyse complex texts and construct persuasive arguments, but they also cultivate the ability to understand perspectives very different from one's own. Reading novels and studying the past would seem to foster empathy and judgement, qualities that no employer, and no democracy, can do without. Studying history in particular helps us to see current events in perspective.\n\nMoreover, the supposed opposition between the humanities and technology is largely false. No matter how useful science is, it cannot answer every question. It can tell us how to edit genes or build artificial intelligence, but not whether we should, or for whose benefit. Ethical, legal and cultural questions are becoming more urgent precisely because technology is advancing so quickly. Critics who dismiss these disciplines often miss the point of a humanities degree, which is to prepare people to ask such questions well.\n\nIn conclusion, the humanities are not a luxury but a necessity. On no account should we dismiss them in pursuit of short-term efficiency, since a society that understands its tools but not itself is poorly equipped for the future."
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "id": "w-a-documentary-review",
+  "title": "A Documentary Review",
+  "level": "C1 · Advanced",
+  "description": "Practise inversion, cleft sentences and evaluative language, then write a review of a documentary film.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Inversion after \"Only\"",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Only at the very end ___ the director's true purpose become clear.",
+      "options": [
+        "is",
+        "has",
+        "does",
+        "do"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "After \"Only + time phrase\" at the start of a sentence, invert the auxiliary and subject. \"Purpose\" is singular and the verb is present simple, so use \"does\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The film offers a ___ (thought) portrait of life in a remote fishing village.",
+      "answers": [
+        "thought-provoking",
+        "thought provoking"
+      ],
+      "points": 1,
+      "explanation": "\"Thought-provoking\" (= making you think seriously) is a common compound adjective in reviews."
+    },
+    {
+      "id": "e3",
+      "type": "transformation",
+      "focus": "Cleft sentences",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ the soundtrack.\"",
+      "text": "The soundtrack impressed me most.",
+      "keyword": "WHAT",
+      "answers": [
+        "What impressed me most was the soundtrack.",
+        "What impressed me the most was the soundtrack.",
+        "What most impressed me was the soundtrack."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft (What + clause + was + focus) builds up to the key point, which is very effective in reviews."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Advanced passives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The documentary is said to have been film over five years.",
+      "answers": [
+        "The documentary is said to have been filmed over five years."
+      ],
+      "points": 1,
+      "explanation": "The perfect passive infinitive is \"to have been + past participle\", so the verb must be \"filmed\"."
+    },
+    {
+      "id": "e5",
+      "type": "word-order",
+      "focus": "Hedging",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "felt",
+        "rushed",
+        "ending",
+        "somewhat",
+        "the"
+      ],
+      "answers": [
+        "The ending felt somewhat rushed."
+      ],
+      "points": 1,
+      "explanation": "Softening adverbs such as \"somewhat\" make criticism more measured, which suits an advanced review."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Cohesion",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The pacing is slow in places. ___, the stunning photography holds the viewer's attention.",
+      "options": [
+        "Consequently",
+        "Even so",
+        "To this end",
+        "Likewise"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Even so\" introduces a contrast with the previous sentence, meaning \"despite this\"."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Inversion with \"Never\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ such breathtaking footage.\"",
+      "text": "I have never seen such breathtaking footage.",
+      "keyword": "NEVER",
+      "answers": [
+        "Never have I seen such breathtaking footage.",
+        "Never before have I seen such breathtaking footage."
+      ],
+      "points": 1,
+      "explanation": "When \"Never\" begins a sentence for emphasis, the auxiliary comes before the subject: Never have I seen ..."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Nominalisation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The director's ___ (decide) to let the villagers tell their own story pays off.",
+      "answers": [
+        "decision"
+      ],
+      "points": 1,
+      "explanation": "After a possessive we need a noun, so the verb \"decide\" becomes \"decision\"."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Inversion with \"So\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the final scene",
+        "that",
+        "close to tears",
+        "moving",
+        "I was",
+        "was",
+        "so"
+      ],
+      "answers": [
+        "So moving was the final scene that I was close to tears.",
+        "The final scene was so moving that I was close to tears."
+      ],
+      "points": 1,
+      "explanation": "\"So + adjective + was + subject + that ...\" is an emphatic inversion used for dramatic effect in reviews."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The film ___ a vivid picture of a community under threat.",
+      "options": [
+        "paints",
+        "draws",
+        "makes",
+        "builds"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We say a film, book or report \"paints a picture\" of something when it describes it in a particular way."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The documentary sheds light into a little-known way of life.",
+      "answers": [
+        "The documentary sheds light on a little-known way of life.",
+        "The documentary throws light on a little-known way of life."
+      ],
+      "points": 1,
+      "explanation": "The fixed expression is \"shed light on\" something, meaning to help explain it."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Conditional inversion with \"Had it not been for\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ funding from viewers, the film would not have been made.\"",
+      "text": "Without funding from viewers, the film would not have been made.",
+      "keyword": "HAD",
+      "answers": [
+        "Had it not been for funding from viewers, the film would not have been made.",
+        "Had it not been for the funding from viewers, the film would not have been made."
+      ],
+      "points": 1,
+      "explanation": "\"Had it not been for + noun\" is a formal inverted third conditional meaning \"If it had not been for\" or \"Without\"."
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The narration is ___ (understate) but powerful.",
+      "answers": [
+        "understated"
+      ],
+      "points": 1,
+      "explanation": "An adjective is needed after \"is\": understated means quiet and restrained, used as praise."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "\"Worth\" + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The film is worth to watch for its photography alone.",
+      "answers": [
+        "The film is worth watching for its photography alone.",
+        "The film is worth seeing for its photography alone."
+      ],
+      "points": 1,
+      "explanation": "\"Worth\" is followed by an -ing form, not a to-infinitive: worth watching."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Cleft sentences with \"All\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the film",
+        "a clear",
+        "all",
+        "structure",
+        "is",
+        "lacks"
+      ],
+      "answers": [
+        "All the film lacks is a clear structure.",
+        "A clear structure is all the film lacks."
+      ],
+      "points": 1,
+      "explanation": "An \"all\" cleft (All + clause + is + focus) means \"the only thing\" and is useful for a mild criticism."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The director is clearly sympathetic ___ the villagers' cause.",
+      "options": [
+        "at",
+        "for",
+        "about",
+        "to"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The adjective \"sympathetic\" is followed by \"to\": sympathetic to a cause or point of view."
+    },
+    {
+      "id": "e17",
+      "type": "transformation",
+      "focus": "Concession with \"may ... but\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The film ___ never feels slow.\"",
+      "text": "Although the film is long, it never feels slow.",
+      "keyword": "MAY",
+      "answers": [
+        "The film may be long, but it never feels slow.",
+        "The film may well be long, but it never feels slow."
+      ],
+      "points": 1,
+      "explanation": "\"May ... but ...\" concedes a point before making a stronger, contrasting one."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "The film is a powerful ___ (r) of how fragile such communities are.",
+      "answers": [
+        "reminder"
+      ],
+      "points": 1,
+      "explanation": "\"A powerful/stark reminder of\" is a common collocation meaning something that makes us remember or realise a fact."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The villagers speak with remarkable honest about their struggles.",
+      "answers": [
+        "The villagers speak with remarkable honesty about their struggles."
+      ],
+      "points": 1,
+      "explanation": "After the preposition \"with\" and the adjective \"remarkable\" we need a noun: honest becomes honesty."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Word formation",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The film made me ___ overfishing.\"",
+      "text": "Thanks to the film, I now know much more about overfishing.",
+      "keyword": "AWARE",
+      "answers": [
+        "The film made me much more aware of overfishing.",
+        "The film made me far more aware of overfishing.",
+        "The film made me a lot more aware of overfishing.",
+        "The film made me more aware of overfishing.",
+        "The film made me much more aware of the problem of overfishing."
+      ],
+      "points": 1,
+      "explanation": "The adjective \"aware\" is followed by \"of\": make someone (more) aware of something."
+    }
+  ],
+  "task": {
+    "genre": "Review",
+    "prompt": "A film website has asked readers to review a documentary they have seen recently. Write a review describing the documentary, evaluating its strengths and weaknesses, and saying who would enjoy it.",
+    "contentPoints": [
+      "Briefly describe what the documentary is about.",
+      "Evaluate its main strengths.",
+      "Mention at least one weakness.",
+      "Say who you would recommend it to and why."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "What impressed me most was ...",
+      "Never have I seen ...",
+      "The film is not without its flaws.",
+      "Even so, ...",
+      "I would recommend it to anyone who ..."
+    ],
+    "modelAnswer": "The Last Tide: a quiet masterpiece\n\nFilmed over five years in a remote fishing village in Norway, The Last Tide follows three generations of one family as they struggle to keep an ancient way of life alive. It is the kind of documentary that stays with you long after the credits roll.\n\nWhat impressed me most was the director's decision to let the villagers tell their own story. There is no narrator; instead, we hear the fishermen themselves, whose dry humour and quiet dignity make them far more compelling than any presenter. The photography, too, is breathtaking. Never have I seen the sea captured in such a variety of moods, from glassy calm to terrifying fury.\n\nThe film is not without its flaws. The pacing is slow in places, and the middle section, which focuses on a dispute over fishing quotas, may test the patience of some viewers. The ending also felt somewhat rushed. Even so, these are minor complaints about a film of rare sensitivity.\n\nUltimately, The Last Tide is a thought-provoking portrait of a community facing the end of its traditions. Only at the very end does its true purpose become clear: it is less about fishing than about belonging. I would recommend it to anyone who appreciates patient, honest filmmaking, although those looking for fast-paced entertainment might be better off elsewhere."
+  }
+}

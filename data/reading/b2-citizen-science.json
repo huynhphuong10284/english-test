@@ -1,0 +1,447 @@
+{
+  "id": "citizen-science",
+  "title": "Science for Everyone: The Rise of Citizen Science",
+  "level": "B2 · Upper-intermediate",
+  "description": "How ordinary volunteers are helping scientists collect and analyse data.",
+  "instructions": "Read the article about citizen science, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Scientific research is usually imagined as the work of trained experts in laboratories. Increasingly, however, ordinary members of the public are making genuine contributions to scientific knowledge. This approach, known as citizen science, invites volunteers to collect or analyse data, often with nothing more than a smartphone, a notebook or a home computer."
+    },
+    {
+      "id": "p2",
+      "text": "The idea is not entirely new. For more than a century, amateur birdwatchers in several countries have taken part in organised counts, and their records now provide valuable information about how bird populations have changed. What is new is the scale made possible by digital technology. Online platforms now allow hundreds of thousands of people to classify images of distant galaxies, transcribe old weather records or report sightings of plants and animals in their gardens."
+    },
+    {
+      "id": "p3",
+      "text": "For scientists, the main attraction is the sheer volume of data that volunteers can gather. No research team could afford to send professionals to monitor every pond, park and hedgerow in a country, but thousands of volunteers spread across a wide area can do exactly that. In some cases, volunteers have even made unexpected discoveries, spotting unusual objects in astronomical images that automated programs had overlooked."
+    },
+    {
+      "id": "p4",
+      "text": "Critics have sometimes questioned the reliability of data collected by non-specialists. Volunteers may misidentify species or record measurements inconsistently. Project designers have responded by providing clear training materials, asking several volunteers to examine the same item, and using statistical methods to detect and correct errors. When these safeguards are in place, studies have found that citizen science data can be comparable in quality to data collected by professionals."
+    },
+    {
+      "id": "p5",
+      "text": "The benefits are not limited to science itself. Participants often report that they have learned a great deal and feel more connected to nature or to the research process. Some projects have also encouraged communities to gather evidence about local issues, such as air or water quality, giving residents a stronger voice in discussions with authorities. In this sense, citizen science can help to narrow the gap between the scientific world and the public it ultimately serves."
+    },
+    {
+      "id": "p6",
+      "text": "Running a successful project is not as simple as it might appear, however. Volunteers need to feel that their efforts are valued, and many projects lose a large share of their participants after the first few weeks. Organisers have found that people are more likely to stay involved when they receive regular updates explaining how their data has been used, or when their names are mentioned in the papers that result from their work. Other projects keep volunteers motivated by turning tasks into games, with points or levels for completed work. Without this kind of feedback, even enthusiastic beginners may drift away, leaving researchers with incomplete records."
+    },
+    {
+      "id": "p7",
+      "text": "There are also questions about who takes part. Studies of some projects suggest that volunteers tend to be relatively well educated and to have plenty of free time, which means that certain groups and places are under-represented. As a result, data may be plentiful for wealthy suburbs and popular parks but scarce for poorer neighbourhoods or remote rural areas. Some organisers are trying to address this imbalance by working with schools, translating materials into several languages and designing tasks that require no special equipment. Such efforts matter, because a map of sightings that reflects where volunteers live rather than where animals live can easily give a misleading picture."
+    },
+    {
+      "id": "p8",
+      "text": "Looking ahead, citizen science seems likely to grow rather than shrink. Cheap sensors, smartphone cameras and apps that help users identify plants or birds are making it easier than ever to contribute. Some researchers expect artificial intelligence to take over routine tasks, such as sorting simple images, leaving volunteers to concentrate on the cases that require human judgement. Whatever form it takes, the movement reflects a broader change in attitudes: science is increasingly seen not as something done only by experts behind closed doors, but as a shared activity in which anyone with curiosity and a little patience can play a meaningful role."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Professional scientists are no longer needed.",
+        "Members of the public are making useful contributions to research through citizen science.",
+        "Birdwatching is the oldest hobby in the world.",
+        "Data collected by volunteers is always unreliable."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The article describes how volunteers contribute to science, how data quality is protected and the wider benefits.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "ordinary members of the public are making genuine contributions to scientific knowledge"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "purpose",
+      "text": "Why does the writer mention amateur birdwatchers in paragraph 2?",
+      "options": [
+        "To show that public involvement in science has a long history",
+        "To argue that birds are disappearing",
+        "To explain how to identify birds",
+        "To criticise amateur scientists"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The birdwatchers are an example supporting the statement that the idea is not new.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The idea is not entirely new."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "According to paragraph 2, what has changed in recent years?",
+      "options": [
+        "Volunteers are now paid for their work.",
+        "Birdwatchers have stopped counting birds.",
+        "Only experts are allowed to classify galaxies.",
+        "Digital technology allows far more people to take part."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The new element is the scale made possible by technology.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "What is new is the scale made possible by digital technology."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"sheer\" is used to:",
+      "options": [
+        "show that the data is accurate",
+        "suggest that the data is limited",
+        "emphasise how large the amount is",
+        "indicate that the data is expensive"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"The sheer volume\" stresses the very large quantity of data.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the sheer volume of data that volunteers can gather"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can be inferred from the fact that volunteers spotted objects that automated programs had overlooked?",
+      "options": [
+        "Computer programs are useless in astronomy.",
+        "Volunteers are better trained than scientists.",
+        "Human observers can sometimes notice things that computers miss.",
+        "Astronomical images are always of poor quality."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The volunteers found things the programs missed, showing the value of human observation.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "spotting unusual objects in astronomical images that automated programs had overlooked"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Which of the following is NOT mentioned as a way of improving data quality?",
+      "options": [
+        "Paying experts to repeat every observation",
+        "Providing training materials",
+        "Asking several volunteers to check the same item",
+        "Using statistical methods to find errors"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 4 lists training, multiple volunteers and statistics, but not paying experts.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "providing clear training materials, asking several volunteers to examine the same item, and using statistical methods to detect and correct errors"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"comparable\" is closest in meaning to:",
+      "options": [
+        "inferior",
+        "similar",
+        "unrelated",
+        "superior"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "With safeguards, volunteer data can be of similar quality to professional data.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "comparable in quality to data collected by professionals"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What does paragraph 5 suggest about communities that collect their own data?",
+      "options": [
+        "They are not interested in science.",
+        "Authorities always refuse to listen to them.",
+        "They live in areas with clean air.",
+        "They can use the evidence to influence local decisions."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Gathering evidence gives residents a stronger voice with authorities.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "giving residents a stronger voice in discussions with authorities"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises the writer's overall view of citizen science?",
+      "options": [
+        "It has replaced the need for professional research teams.",
+        "It is a passing trend that will soon disappear.",
+        "It is valuable and growing, although it brings challenges that organisers must manage.",
+        "It is useful only for counting birds."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer presents many benefits, discusses problems such as data quality and participation, and expects the movement to grow.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "When these safeguards are in place"
+        },
+        {
+          "paragraphId": "p8",
+          "quote": "citizen science seems likely to grow rather than shrink"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 1, what do volunteers often need in order to take part?",
+      "options": [
+        "Only simple everyday items, such as a smartphone or a notebook",
+        "Expensive laboratory instruments",
+        "Equipment supplied by universities",
+        "Professional cameras and telescopes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer says volunteers often need nothing more than a smartphone, a notebook or a home computer.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "often with nothing more than a smartphone, a notebook or a home computer"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does paragraph 3 suggest about professional research teams?",
+      "options": [
+        "They are less skilled than most volunteers.",
+        "They are no longer interested in fieldwork.",
+        "They prefer to study ponds rather than parks.",
+        "They do not have the resources to collect data everywhere themselves."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "No team could afford to monitor every location, which implies that professionals alone cannot cover such a wide area.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "No research team could afford to send professionals to monitor every pond, park and hedgerow in a country"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 6, what helps to keep volunteers involved in a project?",
+      "options": [
+        "Being paid for each observation they make",
+        "Working alone without contact with organisers",
+        "Receiving updates about how their data has been used",
+        "Passing a test before they start"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "People are more likely to stay when they receive regular updates or are mentioned in research papers.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "people are more likely to stay involved when they receive regular updates explaining how their data has been used"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the phrase \"drift away\" is closest in meaning to:",
+      "options": [
+        "move to another country",
+        "gradually stop taking part",
+        "argue with the organisers",
+        "work more slowly"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Without feedback, volunteers slowly lose interest and leave, which is why records become incomplete.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "even enthusiastic beginners may drift away"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What does paragraph 6 imply about many volunteers?",
+      "options": [
+        "They want to know that their contribution makes a difference.",
+        "They mainly take part in order to earn money.",
+        "They prefer to work without any feedback.",
+        "They usually stay involved for many years."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Volunteers stay longer when they hear how their data is used, which suggests they want their work to matter.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Volunteers need to feel that their efforts are valued"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, what is true of volunteers in some projects?",
+      "options": [
+        "They are mostly young school children.",
+        "They usually live in remote rural areas.",
+        "They rarely own a smartphone.",
+        "They tend to be well educated and to have plenty of free time."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Studies suggest that volunteers are often relatively well educated and have time to spare.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "volunteers tend to be relatively well educated and to have plenty of free time"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"under-represented\" means that certain groups are:",
+      "options": [
+        "described unfairly in the media",
+        "present in smaller numbers than they should be",
+        "not allowed to vote",
+        "paid less than other groups"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Some groups and places take part less than others, so they appear less often in the data than they should.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "certain groups and places are under-represented"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What can be inferred about poorer neighbourhoods from paragraph 7?",
+      "options": [
+        "Their wildlife may be less well recorded than that of wealthier areas.",
+        "They have fewer plants and animals than wealthy suburbs.",
+        "Their residents are not interested in nature.",
+        "They are closed to researchers."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Data is scarce for poorer areas because fewer volunteers live there, not necessarily because there is less wildlife.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "data may be plentiful for wealthy suburbs and popular parks but scarce for poorer neighbourhoods"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "purpose",
+      "text": "Why does the writer mention a map of sightings in paragraph 7?",
+      "options": [
+        "To show how accurate volunteer data usually is",
+        "To explain how animals choose where to live",
+        "To illustrate how uneven participation can distort results",
+        "To encourage readers to download a mapping app"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The map example shows that results can reflect where volunteers live rather than where animals really are.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "a map of sightings that reflects where volunteers live rather than where animals live can easily give a misleading picture"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What role do some researchers expect artificial intelligence to play in citizen science?",
+      "options": [
+        "Replacing volunteers completely",
+        "Checking the identity of every volunteer",
+        "Designing new projects without human help",
+        "Handling routine tasks so that volunteers can focus on harder cases"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "AI may sort simple images, leaving the cases that need human judgement to volunteers.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "leaving volunteers to concentrate on the cases that require human judgement"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "What is the purpose of the final sentence of the article?",
+      "options": [
+        "To warn readers about the dangers of artificial intelligence",
+        "To place citizen science within a wider change in how science is viewed",
+        "To ask readers to donate money to research",
+        "To summarise the problems with volunteer data"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer ends by linking citizen science to a broader shift: science as a shared activity, not only for experts.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the movement reflects a broader change in attitudes"
+        }
+      ]
+    }
+  ]
+}

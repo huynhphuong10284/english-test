@@ -1,0 +1,330 @@
+{
+  "id": "w-a-letter-to-the-council-about-noise",
+  "title": "A Letter to the Council About Noise",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise passives, wish and formal linking, then write a formal letter to the council about noise in your area.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Passive voice",
+      "prompt": "Choose the correct answer.",
+      "text": "Since the new bar opened, residents ___ by loud music every night.",
+      "options": [
+        "are disturbing",
+        "have disturbed",
+        "have been disturbed",
+        "were disturbing"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use the present perfect passive (have been + past participle) with \"since\" for a situation continuing up to now."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Wish / if only",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Many of my neighbours wish the council ___ (take) action sooner.",
+      "answers": [
+        "had taken"
+      ],
+      "points": 1,
+      "explanation": "Wish + past perfect expresses regret that something did not happen in the past."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Formal language",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "be taken",
+        "I",
+        "urgent action",
+        "that",
+        "request"
+      ],
+      "answers": [
+        "I request that urgent action be taken."
+      ],
+      "points": 1,
+      "explanation": "In very formal requests, \"request that\" is followed by the base form of the verb (the subjunctive), here in the passive: that urgent action be taken."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Participle clauses",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Having been woke up at 3 a.m. again, I couldn't get back to sleep.",
+      "answers": [
+        "Having been woken up at 3 a.m. again, I couldn't get back to sleep.",
+        "Having been woken up at 3 a.m. again, I could not get back to sleep."
+      ],
+      "points": 1,
+      "explanation": "A passive perfect participle clause is having been + past participle. The past participle of \"wake\" is \"woken\", not \"woke\"."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "Several complaints have been made. ___, the problem has continued.",
+      "options": [
+        "Consequently",
+        "Nevertheless",
+        "Whereas",
+        "Since"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Nevertheless\" shows that the second fact is surprising after the first."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Reported speech",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "When I spoke to the bar owner, he promised that the music ___ (turn) down after 11 p.m.",
+      "answers": [
+        "would be turned"
+      ],
+      "points": 1,
+      "explanation": "In reported speech, \"will be turned\" moves back to \"would be turned\" after a past reporting verb."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Passive voice",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The noise levels at night ___.\"",
+      "text": "Somebody should check the noise levels at night.",
+      "keyword": "CHECKED",
+      "answers": [
+        "The noise levels at night should be checked.",
+        "The noise levels at night should be checked by somebody.",
+        "The noise levels at night ought to be checked."
+      ],
+      "points": 1,
+      "explanation": "Modal passive: should + be + past participle (should be checked)."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Third conditional",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"If the council ___ the bar a late licence, the problems would not have started.\"",
+      "text": "The council gave the bar a late licence, so the problems started.",
+      "keyword": "GIVEN",
+      "answers": [
+        "If the council had not given the bar a late licence, the problems would not have started.",
+        "If the council hadn't given the bar a late licence, the problems would not have started."
+      ],
+      "points": 1,
+      "explanation": "In a third conditional, the if-clause uses the past perfect: had not given."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Modals of deduction",
+      "prompt": "Choose the correct answer.",
+      "text": "The music ___ be coming from the new bar; there is nowhere else open at that time.",
+      "options": [
+        "must",
+        "can't",
+        "should",
+        "needn't"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Must + infinitive shows you are almost certain something is true now, based on evidence."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "The noise has become completely ___ (bear) for families with young children.",
+      "answers": [
+        "unbearable"
+      ],
+      "points": 1,
+      "explanation": "Add un- (negative) and -able to bear to make the adjective unbearable (impossible to accept)."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Causative have",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "fitted",
+        "we",
+        "double-glazed",
+        "had to",
+        "windows",
+        "have"
+      ],
+      "answers": [
+        "We had to have double-glazed windows fitted.",
+        "We had to have fitted double-glazed windows."
+      ],
+      "points": 1,
+      "explanation": "Causative have + object + past participle shows that someone else did the work for us: have windows fitted."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Reported speech: say / tell",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The owner told that he would keep the doors closed.",
+      "answers": [
+        "The owner said that he would keep the doors closed.",
+        "The owner told us that he would keep the doors closed.",
+        "The owner told me that he would keep the doors closed.",
+        "The owner told the residents that he would keep the doors closed."
+      ],
+      "points": 1,
+      "explanation": "Tell needs a person as its object (told us); say does not (said that)."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Passive reporting verbs",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The bar owner ___ all the warnings.\"",
+      "text": "People say that the bar owner has ignored all the warnings.",
+      "keyword": "SAID",
+      "answers": [
+        "The bar owner is said to have ignored all the warnings."
+      ],
+      "points": 1,
+      "explanation": "For an earlier action, use the perfect infinitive after a passive reporting verb: is said to have ignored."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Formal linking: in spite of",
+      "prompt": "Choose the correct answer.",
+      "text": "___ the council's promises, nothing has been done so far.",
+      "options": [
+        "Although",
+        "However",
+        "Whereas",
+        "In spite of"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "In spite of is followed by a noun phrase (the council's promises); although and whereas need a full clause."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Articles",
+      "prompt": "Complete the sentence with one word.",
+      "text": "I have lived in ___ same flat for twenty years and have never had such problems.",
+      "answers": [
+        "the"
+      ],
+      "points": 1,
+      "explanation": "Same is always used with the definite article: the same."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Mixed conditionals",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "now",
+        "we",
+        "had not opened",
+        "the bar",
+        "if",
+        "would be sleeping well"
+      ],
+      "answers": [
+        "If the bar had not opened, we would be sleeping well now.",
+        "We would be sleeping well now if the bar had not opened.",
+        "Now we would be sleeping well if the bar had not opened."
+      ],
+      "points": 1,
+      "explanation": "A mixed conditional links a past condition (if + past perfect) to a present result (would + infinitive)."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Get-passive",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Something must be done before someone gets hurting.",
+      "answers": [
+        "Something must be done before someone gets hurt."
+      ],
+      "points": 1,
+      "explanation": "Get + past participle forms a passive, especially for accidents: someone gets hurt."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "It's time + past simple",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"It ___ stricter opening hours.\"",
+      "text": "The council should introduce stricter opening hours now.",
+      "keyword": "TIME",
+      "answers": [
+        "It is time the council introduced stricter opening hours.",
+        "It's time the council introduced stricter opening hours.",
+        "It is high time the council introduced stricter opening hours.",
+        "It's high time the council introduced stricter opening hours.",
+        "It is about time the council introduced stricter opening hours.",
+        "It's about time the council introduced stricter opening hours.",
+        "It is time for the council to introduce stricter opening hours.",
+        "It's time for the council to introduce stricter opening hours."
+      ],
+      "points": 1,
+      "explanation": "It's (high) time + subject + past simple says that something should already be happening."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Collective nouns: the police",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We have complained to the police twice, but the police has done nothing.",
+      "answers": [
+        "We have complained to the police twice, but the police have done nothing.",
+        "We have complained to the police twice, but they have done nothing."
+      ],
+      "points": 1,
+      "explanation": "The police always takes a plural verb: the police have."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Reported requests",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The residents ___ the music down after 11 p.m.\"",
+      "text": "\"Could you turn the music down after 11 p.m., please?\" the residents said to the owner.",
+      "keyword": "ASKED",
+      "answers": [
+        "The residents asked the owner to turn the music down after 11 p.m.",
+        "The residents asked him to turn the music down after 11 p.m."
+      ],
+      "points": 1,
+      "explanation": "Polite requests are reported with ask + object + to + infinitive."
+    }
+  ],
+  "task": {
+    "genre": "Formal letter",
+    "prompt": "For several months there has been a serious noise problem in the street where you live. Write a letter to your local council describing the problem and asking for action.",
+    "contentPoints": [
+      "Explain where you live and what is causing the noise.",
+      "Describe how the noise affects you and your neighbours.",
+      "Say what you have already done to try to solve the problem.",
+      "Suggest what the council should do."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "Dear Sir or Madam,",
+      "I am writing to draw your attention to ...",
+      "Residents have been disturbed by ...",
+      "Despite ...",
+      "I would therefore urge the council to ...",
+      "Yours faithfully,"
+    ],
+    "modelAnswer": "Dear Sir or Madam,\n\nI am writing to draw your attention to a serious noise problem in Station Road, where I have lived for the past ten years.\n\nSince a new nightclub opened at the end of the street in May, residents have been disturbed by loud music almost every night. The club stays open until 4 a.m. at weekends, and large groups of people often shout and sing in the street after it closes. In addition, rubbish is regularly left outside our houses.\n\nThe effects on local people have been considerable. Many of my neighbours are elderly or have young children, and they say they have not had a full night's sleep for months. Personally, I have found it increasingly difficult to concentrate at work because I am so tired.\n\nSeveral of us have spoken to the owner of the club, who promised that the music would be turned down after midnight. Nevertheless, nothing has changed, despite the fact that we have also contacted the police twice.\n\nI would therefore urge the council to review the club's licence and to require it to close at midnight. I would also suggest that noise levels be checked regularly at night.\n\nI look forward to receiving your reply.\n\nYours faithfully,\n\nMaria Kowalski"
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "id": "w-ai-in-education",
+  "title": "AI in Education",
+  "level": "C1 · Advanced",
+  "description": "Practise advanced passives, cleft sentences and nominalisation, then write an article about artificial intelligence in schools.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Advanced passives",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "AI tutors are thought ___ students' test scores in last year's pilot scheme.",
+      "options": [
+        "to improve",
+        "to have improved",
+        "improving",
+        "having improved"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The belief is present but the action is past, so use the perfect infinitive after the passive reporting verb: are thought to have improved."
+    },
+    {
+      "id": "e2",
+      "type": "word-order",
+      "focus": "Inversion with \"No sooner\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "than",
+        "been",
+        "sooner",
+        "students",
+        "the",
+        "shortcuts",
+        "had",
+        "app",
+        "found",
+        "launched",
+        "no"
+      ],
+      "answers": [
+        "No sooner had the app been launched than students found shortcuts."
+      ],
+      "points": 1,
+      "explanation": "\"No sooner\" at the start of a sentence takes inverted word order (had + subject + past participle) and is followed by \"than\"."
+    },
+    {
+      "id": "e3",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Teachers fear that students will become ___ (heavy) reliant on chatbots.",
+      "answers": [
+        "heavily"
+      ],
+      "points": 1,
+      "explanation": "\"Heavily reliant/dependent\" is a fixed collocation. We need an adverb to modify the adjective \"reliant\"."
+    },
+    {
+      "id": "e4",
+      "type": "transformation",
+      "focus": "Cleft sentences",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ inspire students.\"",
+      "text": "Teachers, not machines, inspire students.",
+      "keyword": "IT",
+      "answers": [
+        "It is teachers, not machines, who inspire students.",
+        "It is teachers, not machines, that inspire students.",
+        "It is teachers and not machines who inspire students.",
+        "It is teachers and not machines that inspire students.",
+        "It's teachers, not machines, who inspire students.",
+        "It's teachers, not machines, that inspire students.",
+        "It's teachers and not machines who inspire students.",
+        "It's teachers and not machines that inspire students."
+      ],
+      "points": 1,
+      "explanation": "An \"it\" cleft (It is + focus + who/that + clause) emphasises a contrast, here between teachers and machines."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Concession",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Notwithstanding of the risks, many teachers welcome AI.",
+      "answers": [
+        "Notwithstanding the risks, many teachers welcome AI.",
+        "Despite the risks, many teachers welcome AI.",
+        "In spite of the risks, many teachers welcome AI."
+      ],
+      "points": 1,
+      "explanation": "\"Notwithstanding\" is followed directly by a noun phrase, without \"of\": Notwithstanding the risks, ..."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Evidence on AI tutors is limited, so it would be ___ to claim they outperform human teachers.",
+      "options": [
+        "untimely",
+        "precocious",
+        "immature",
+        "premature"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"It would be premature to ...\" is a cautious academic phrase meaning it is too early to say something with confidence."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Nominalisation",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ in schools worries parents.\"",
+      "text": "Schools are increasingly using AI, which worries parents.",
+      "keyword": "USE",
+      "answers": [
+        "The increasing use of AI in schools worries parents.",
+        "The growing use of AI in schools worries parents.",
+        "The increased use of AI in schools worries parents."
+      ],
+      "points": 1,
+      "explanation": "Nominalisation turns a clause into a noun phrase: \"Schools are increasingly using AI\" becomes \"The increasing use of AI in schools\", which can then be the subject."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Cohesion",
+      "prompt": "Complete the gap with one suitable word or phrase.",
+      "text": "AI can free teachers from marking. By the same ___, it could free students from thinking for themselves.",
+      "answers": [
+        "token"
+      ],
+      "points": 1,
+      "explanation": "\"By the same token\" introduces a point that follows from the same reasoning as the previous one."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Some teachers remain sceptical ___ the benefits of AI tutors.",
+      "options": [
+        "about",
+        "in",
+        "for",
+        "with"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The adjective \"sceptical\" is followed by \"about\" (or \"of\"): sceptical about a claim."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Cleft sentences with \"What\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the risk",
+        "is",
+        "what",
+        "of plagiarism",
+        "worries teachers most"
+      ],
+      "answers": [
+        "What worries teachers most is the risk of plagiarism.",
+        "The risk of plagiarism is what worries teachers most."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft (What + clause + is + focus) moves the key information to the end of the sentence."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Students should be taught to use AI responsibly rather than prevented to use it.",
+      "answers": [
+        "Students should be taught to use AI responsibly rather than prevented from using it.",
+        "Students should be taught to use AI responsibly rather than stopped from using it."
+      ],
+      "points": 1,
+      "explanation": "The verb \"prevent\" is followed by object + from + -ing: prevent someone from doing something."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Inversion with \"Only recently\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Only recently ___ to use AI for marking.\"",
+      "text": "Teachers have only recently begun to use AI for marking.",
+      "keyword": "HAVE",
+      "answers": [
+        "Only recently have teachers begun to use AI for marking.",
+        "Only recently have teachers started to use AI for marking."
+      ],
+      "points": 1,
+      "explanation": "When \"Only recently\" begins a sentence, the auxiliary comes before the subject: have teachers begun."
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Over-reliance on AI could weaken students' ___ (critic) thinking skills.",
+      "answers": [
+        "critical"
+      ],
+      "points": 1,
+      "explanation": "\"Critical thinking\" is a fixed collocation; the adjective of critic here is critical."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "AI makes it possible to ___ feedback to each learner's needs.",
+      "options": [
+        "suit",
+        "fit",
+        "tailor",
+        "meet"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Tailor something to someone's needs\" means to adapt it for a particular person or purpose."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Inversion with \"Under no circumstances\"",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Under no circumstances students should submit AI-generated work as their own.",
+      "answers": [
+        "Under no circumstances should students submit AI-generated work as their own.",
+        "Students should under no circumstances submit AI-generated work as their own."
+      ],
+      "points": 1,
+      "explanation": "A negative phrase such as \"Under no circumstances\" at the start of a sentence requires inversion: should students submit."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Linking with \"regardless of\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Students, ___, need guidance on using AI.\"",
+      "text": "Whatever their age, students need guidance on using AI.",
+      "keyword": "REGARDLESS",
+      "answers": [
+        "Students, regardless of their age, need guidance on using AI.",
+        "Students, regardless of age, need guidance on using AI.",
+        "Students, regardless of how old they are, need guidance on using AI."
+      ],
+      "points": 1,
+      "explanation": "\"Regardless of + noun\" means \"whatever\" or \"without being affected by\" something."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Conditional inversion with \"Were\"",
+      "prompt": "Complete the gap using the words in brackets in the correct order. Add any word you need.",
+      "text": "___ (AI / ban) outright, students would simply use it at home.",
+      "answers": [
+        "Were AI to be banned",
+        "Were AI banned"
+      ],
+      "points": 1,
+      "explanation": "In formal second conditionals, \"If AI were banned\" can become \"Were AI (to be) banned\", with no \"if\"."
+    },
+    {
+      "id": "e18",
+      "type": "word-order",
+      "focus": "Hedging",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is unlikely",
+        "in the foreseeable future",
+        "teachers",
+        "AI",
+        "to replace"
+      ],
+      "answers": [
+        "AI is unlikely to replace teachers in the foreseeable future.",
+        "In the foreseeable future AI is unlikely to replace teachers."
+      ],
+      "points": 1,
+      "explanation": "\"Be unlikely to\" makes a cautious prediction, and \"in the foreseeable future\" limits the claim in time."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "AI tools are becoming increasing sophisticated.",
+      "answers": [
+        "AI tools are becoming increasingly sophisticated."
+      ],
+      "points": 1,
+      "explanation": "An adverb is needed to modify the adjective \"sophisticated\": increasingly."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Expressing purpose",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Schools have introduced clear rules ___ cheating.\"",
+      "text": "Schools have introduced clear rules so that students do not cheat.",
+      "keyword": "PREVENT",
+      "answers": [
+        "Schools have introduced clear rules to prevent students from cheating.",
+        "Schools have introduced clear rules in order to prevent students from cheating.",
+        "Schools have introduced clear rules so as to prevent students from cheating.",
+        "Schools have introduced clear rules to prevent cheating.",
+        "Schools have introduced clear rules in order to prevent cheating.",
+        "Schools have introduced clear rules so as to prevent cheating.",
+        "Schools have introduced clear rules to prevent students cheating."
+      ],
+      "points": 1,
+      "explanation": "\"Prevent\" expresses purpose and is followed by an object + from + -ing (prevent students from cheating) or by a noun (prevent cheating)."
+    }
+  ],
+  "task": {
+    "genre": "Article",
+    "prompt": "An education magazine has invited articles with the title \"Will robots replace teachers?\". Write an article discussing the benefits and risks of artificial intelligence in schools and suggesting how it should be used.",
+    "contentPoints": [
+      "Describe how students currently use AI.",
+      "Discuss the main benefits of AI in education.",
+      "Discuss the main risks.",
+      "Suggest how schools should approach AI."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "There is no denying that ...",
+      "No sooner had ... than ...",
+      "By the same token, ...",
+      "So what is the solution?",
+      "It is teachers who ...",
+      "It would be premature to ..."
+    ],
+    "modelAnswer": "Will robots replace teachers?\n\nWalk into almost any classroom today and you will find students using artificial intelligence, whether to check their grammar, solve equations or generate ideas for essays. The question is no longer whether AI belongs in education, but how it should be used.\n\nThere is no denying the benefits. AI tutors can give instant feedback, adapt exercises to each learner's level and remain endlessly patient. Last year's pilot schemes are thought to have improved results among weaker students in particular. AI can also free teachers from hours of marking, giving them more time to plan engaging lessons.\n\nHowever, the increasing use of AI in schools worries many parents, and with good reason. No sooner had the first chatbots appeared than students found ways to let them write their homework. If young people become heavily reliant on machines, they may never learn to think for themselves. By the same token, a tool that always provides the answer may undermine the patience needed for genuine learning.\n\nSo what is the solution? Banning AI would be both impractical and short-sighted. Instead, schools should teach students to use it critically, treating it as a starting point rather than a final authority. After all, it is teachers, not machines, who inspire students to be curious and to persevere when things get difficult.\n\nAI may well transform the classroom, but it would be premature to imagine a school without teachers."
+  }
+}

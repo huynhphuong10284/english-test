@@ -1,0 +1,443 @@
+{
+  "id": "my-new-neighbour",
+  "title": "My New Neighbour",
+  "level": "A1 · Beginner",
+  "description": "A short text about a new family next door and their daily life.",
+  "instructions": "Read the text about a new neighbour, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "A new family lives next to us now. Their name is Rossi. They came from Italy in May. Mr Rossi is a cook and Mrs Rossi is a nurse."
+    },
+    {
+      "id": "p2",
+      "text": "They have a son. His name is Leo and he is eight. Every morning, Leo walks to school with his dog, Max. After school, he plays football in the park."
+    },
+    {
+      "id": "p3",
+      "text": "Last Sunday, Mrs Rossi gave us a big cake. It was very tasty. My mum said, 'Thank you! Please come for dinner on Friday.' Now we are good friends."
+    },
+    {
+      "id": "p4",
+      "text": "On Friday, the Rossi family came to our house for dinner. They brought a big bowl of pasta. My dad made fish and potatoes. We sat at the table for three hours. Everyone talked and laughed a lot."
+    },
+    {
+      "id": "p5",
+      "text": "Leo cannot speak much English yet. He speaks Italian at home. At dinner, he taught me some Italian words. 'Ciao' means 'hello' and 'grazie' means 'thank you'. I taught him some English words too."
+    },
+    {
+      "id": "p6",
+      "text": "Now Leo and I walk to school together every morning. Max comes with us to the school gate. Then Mrs Rossi takes him home. Leo is in my class. We sit next to each other."
+    },
+    {
+      "id": "p7",
+      "text": "On Saturday, I played football with Leo in the park. He is very good. He scored three goals! Next month, Leo wants to visit Italy with his family. He says, 'You can come too!' I am very excited."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A trip to Italy",
+        "A new family next door",
+        "A football game in the park",
+        "How to make a cake"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text tells us about the Rossi family, who now live next to the writer.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "A new family lives next to us now."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What is Mrs Rossi's job?",
+      "options": [
+        "She is a cook",
+        "She is a teacher",
+        "She is a nurse",
+        "She is a doctor"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says Mrs Rossi is a nurse. Mr Rossi is the cook.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Mrs Rossi is a nurse"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Who walks to school with Leo?",
+      "options": [
+        "His dog, Max",
+        "His mum",
+        "His friend",
+        "Mr Rossi"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Every morning Leo walks to school with his dog, Max.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Leo walks to school with his dog, Max"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"tasty\" means...",
+      "options": [
+        "very big",
+        "very old",
+        "cold",
+        "good to eat"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Food that is \"tasty\" has a good flavour - it is good to eat.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "It was very tasty."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "When will the Rossi family come for dinner?",
+      "options": [
+        "On Sunday",
+        "On Friday",
+        "In May",
+        "Every morning"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer's mum invites them to come for dinner on Friday.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Please come for dinner on Friday."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Where did the Rossi family come from?",
+      "options": [
+        "Italy",
+        "Spain",
+        "France",
+        "Greece"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They came from Italy in May.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They came from Italy in May."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "When did the Rossi family come?",
+      "options": [
+        "In June",
+        "In April",
+        "Last Friday",
+        "In May"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They came from Italy in May.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They came from Italy in May."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What is Mr Rossi's job?",
+      "options": [
+        "He is a nurse",
+        "He is a teacher",
+        "He is a cook",
+        "He is a driver"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mr Rossi is a cook and Mrs Rossi is a nurse.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Mr Rossi is a cook and Mrs Rossi is a nurse."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "How old is Leo?",
+      "options": [
+        "Eight",
+        "Six",
+        "Nine",
+        "Ten"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Leo is eight.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "His name is Leo and he is eight."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What does Leo do after school?",
+      "options": [
+        "He swims in the pool",
+        "He reads in the library",
+        "He plays football in the park",
+        "He cooks with his dad"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "After school, Leo plays football in the park.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "After school, he plays football in the park."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What did the Rossi family bring to dinner?",
+      "options": [
+        "A big cake",
+        "Fish and potatoes",
+        "A pizza",
+        "A big bowl of pasta"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They brought a big bowl of pasta. The writer's dad made the fish and potatoes.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "They brought a big bowl of pasta."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"brought\" means...",
+      "options": [
+        "cooked very fast",
+        "carried something with them",
+        "bought in a shop",
+        "ate all of it"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The Rossi family carried a bowl of pasta with them to the writer's house.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "They brought a big bowl of pasta."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "How long did everyone sit at the table?",
+      "options": [
+        "One hour",
+        "Two hours",
+        "Three hours",
+        "Thirty minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They sat at the table for three hours.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "We sat at the table for three hours."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Leo's new school",
+        "Italian food",
+        "A trip to Italy",
+        "Leo and the writer learn words from each other"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 5 is about Leo teaching Italian words and the writer teaching English words.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "At dinner, he taught me some Italian words."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "I taught him some English words too."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the Italian word \"grazie\" means...",
+      "options": [
+        "hello",
+        "thank you",
+        "goodbye",
+        "please"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says 'grazie' means 'thank you'.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "'grazie' means 'thank you'"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "Why can Leo not speak much English yet?",
+      "options": [
+        "He comes from Italy and speaks Italian at home",
+        "He is very shy",
+        "He is only two years old",
+        "He does not like English"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Leo's family came from Italy and he speaks Italian at home.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "He speaks Italian at home."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Who takes Max home from the school gate?",
+      "options": [
+        "Mr Rossi",
+        "Leo",
+        "The writer's mum",
+        "Mrs Rossi"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Max comes to the school gate, then Mrs Rossi takes him home.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Then Mrs Rossi takes him home."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "Where does Leo sit in class?",
+      "options": [
+        "Next to the writer",
+        "Near the window",
+        "At the back of the class",
+        "Next to the teacher"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Leo is in the writer's class and they sit next to each other.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "We sit next to each other."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "How many goals did Leo score on Saturday?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Leo scored three goals.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "He scored three goals!"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "How does the writer feel about the trip to Italy?",
+      "options": [
+        "Bored",
+        "Excited",
+        "Angry",
+        "Sad"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Leo says the writer can come too, and the writer says, 'I am very excited.'",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "I am very excited."
+        }
+      ]
+    }
+  ]
+}

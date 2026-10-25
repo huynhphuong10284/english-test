@@ -1,0 +1,447 @@
+{
+  "id": "street-food-around-the-world",
+  "title": "Street Food Around the World",
+  "level": "B1 · Intermediate",
+  "description": "Why street food is popular, what it tells us about culture, and how to enjoy it safely.",
+  "instructions": "Read the article about street food, then choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "In almost every country, you can find people cooking and selling food on the street. Street food is usually cheap, quick and full of flavour, which makes it popular with workers, students and tourists. It is often sold from small carts, stalls or vans that can move from place to place. For many travellers, trying local street food is one of the best ways to discover a new culture."
+    },
+    {
+      "id": "p2",
+      "text": "Each region has its own famous dishes. In Mexico, tacos filled with meat, beans or vegetables are sold on busy corners. In Vietnam, people sit on low plastic stools to eat bowls of hot noodle soup for breakfast. In Turkey, sellers grill meat and wrap it in thin bread, while in India, crispy snacks are served with spicy sauces."
+    },
+    {
+      "id": "p3",
+      "text": "Street food is also important for local economies. Running a food stall requires much less money than opening a restaurant, so it gives many people a chance to start their own business. Recipes are often passed down from parents to children, and some families have sold the same dish in the same spot for generations. In this way, street food helps to keep traditional cooking alive."
+    },
+    {
+      "id": "p4",
+      "text": "However, some visitors worry about hygiene when eating outdoors. A useful tip is to choose stalls with long queues of local customers, because popular stalls usually serve fresh food. It is also wise to watch the food being cooked and to make sure it is served hot. With a little care, street food can be a safe and memorable part of any trip."
+    },
+    {
+      "id": "p5",
+      "text": "In recent years, street food has also become fashionable in places where it was once rare. In many European and North American cities, food trucks park outside offices at lunchtime, offering everything from Korean barbecue to fresh pizza. Old warehouses and car parks are turned into weekend markets where dozens of sellers cook side by side. Some young chefs prefer to start with a food truck rather than a restaurant, because it lets them test their ideas cheaply and move to wherever the customers are."
+    },
+    {
+      "id": "p6",
+      "text": "Life as a street food seller, however, is not always easy. Sellers often work very long hours, starting early to buy fresh ingredients and finishing late at night. They have to cope with heat, rain and cold, and their income can change a lot from day to day. In some cities, the authorities have moved stalls away from busy streets to reduce traffic or improve cleanliness. Supporters of the sellers argue that such rules can destroy small businesses and take away part of the city's character."
+    },
+    {
+      "id": "p7",
+      "text": "Perhaps the greatest charm of street food is the way it brings people together. At night markets in many Asian cities, families, friends and strangers share tables and try each other's dishes. Office workers and students stand side by side at the same counter. Unlike a formal restaurant, there are no reservations and no dress code. Whether it is a simple snack or a full meal, street food offers a taste of everyday life, and that is something no guidebook can fully describe."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the best title for this passage?",
+      "options": [
+        "How to Open a Restaurant",
+        "The Dangers of Eating Outdoors",
+        "Breakfast in Vietnam",
+        "Street Food: Cheap, Tasty and Full of Culture"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The passage describes street food as cheap and tasty and as a way to discover culture. The other titles cover only small parts or are not the topic.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Street food is usually cheap, quick and full of flavour"
+        },
+        {
+          "paragraphId": "p1",
+          "quote": "trying local street food is one of the best ways to discover a new culture"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, what do people in Vietnam often eat for breakfast?",
+      "options": [
+        "Tacos",
+        "Hot noodle soup",
+        "Grilled meat in thin bread",
+        "Crispy snacks with sauce"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 2 says people in Vietnam eat hot noodle soup for breakfast.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "eat bowls of hot noodle soup for breakfast"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "purpose",
+      "text": "Why does the writer describe dishes from Mexico, Vietnam, Turkey and India?",
+      "options": [
+        "To show which country has the best food",
+        "To explain how to cook these dishes at home",
+        "To give examples of the variety of street food around the world",
+        "To warn readers about spicy food"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The examples support the point that each region has its own famous dishes.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Each region has its own famous dishes."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Why does street food give many people a chance to start a business?",
+      "options": [
+        "A food stall costs much less than a restaurant.",
+        "The government gives free stalls to everyone.",
+        "Street sellers do not need to cook.",
+        "Tourists pay very high prices."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 3 says a food stall requires much less money than a restaurant.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Running a food stall requires much less money than opening a restaurant"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the phrase \"passed down\" means:",
+      "options": [
+        "sold cheaply",
+        "written in a book",
+        "given from older family members to younger ones",
+        "forgotten over time"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Recipes passed down from parents to children are given from one generation to the next.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Recipes are often passed down from parents to children"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "What can we infer about local customers?",
+      "options": [
+        "They prefer restaurants to stalls.",
+        "They never eat street food.",
+        "They only buy food from tourists' stalls.",
+        "They probably know which stalls serve good, fresh food."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer advises following local customers, which suggests locals know which stalls are good and fresh.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "choose stalls with long queues of local customers, because popular stalls usually serve fresh food"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What is the writer's overall opinion of street food?",
+      "options": [
+        "It is too dangerous for visitors.",
+        "It is a positive experience if people are careful.",
+        "It is only suitable for local workers.",
+        "It is more expensive than restaurant food."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer admits some worries about hygiene but concludes that, with care, street food is safe and memorable.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "With a little care, street food can be a safe and memorable part of any trip."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "According to paragraph 1, where is street food often sold from?",
+      "options": [
+        "Small carts, stalls or vans",
+        "Large supermarkets",
+        "Hotel kitchens",
+        "School canteens"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 1 says it is sold from small carts, stalls or vans.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It is often sold from small carts, stalls or vans that can move from place to place."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"flavour\" is closest in meaning to:",
+      "options": [
+        "colour",
+        "taste",
+        "price",
+        "smell of smoke"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Street food is described as cheap, quick and full of flavour, meaning it has a strong, pleasant taste.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Street food is usually cheap, quick and full of flavour"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 2, what do street sellers in Turkey do?",
+      "options": [
+        "They grill meat and wrap it in thin bread.",
+        "They serve hot noodle soup for breakfast.",
+        "They fill tacos with beans and vegetables.",
+        "They serve crispy snacks with spicy sauces."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 2 says that in Turkey sellers grill meat and wrap it in thin bread.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In Turkey, sellers grill meat and wrap it in thin bread"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Food trucks are more expensive than restaurants.",
+        "Korean barbecue is the most popular street food.",
+        "Street food has become popular in cities where it used to be rare.",
+        "Young chefs no longer want to open restaurants."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 describes food trucks and weekend markets in European and North American cities, where street food was once rare.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "street food has also become fashionable in places where it was once rare"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 5, what are old warehouses and car parks sometimes turned into?",
+      "options": [
+        "New office buildings",
+        "Cooking schools for young chefs",
+        "Car parks for food trucks",
+        "Weekend markets with many food sellers"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 5 says they are turned into weekend markets where dozens of sellers cook side by side.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Old warehouses and car parks are turned into weekend markets where dozens of sellers cook side by side."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "Why do some young chefs prefer to start with a food truck?",
+      "options": [
+        "It allows them to cook only at weekends.",
+        "It lets them test their ideas cheaply and go where the customers are.",
+        "They are not allowed to open restaurants.",
+        "Food trucks always earn more than restaurants."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 5 says a food truck lets them test their ideas cheaply and move to wherever the customers are.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "it lets them test their ideas cheaply and move to wherever the customers are"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the phrase \"cope with\" is closest in meaning to:",
+      "options": [
+        "complain loudly about",
+        "stay away from",
+        "enjoy very much",
+        "deal successfully with something difficult"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Sellers have to deal with difficult conditions such as heat, rain and cold.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "They have to cope with heat, rain and cold"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What can we infer from the fact that a seller's income can change a lot from day to day?",
+      "options": [
+        "It may be difficult for sellers to plan their money.",
+        "Sellers earn more than office workers.",
+        "Sellers are paid by the city every week.",
+        "Sellers never have a bad day."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "If income changes a lot from day to day, sellers cannot be sure how much they will earn.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "their income can change a lot from day to day"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "According to paragraph 6, why have some cities moved stalls away from busy streets?",
+      "options": [
+        "To give sellers bigger stalls",
+        "To attract more tourists to the streets",
+        "To reduce traffic or improve cleanliness",
+        "To help sellers earn more money"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 6 says the authorities moved stalls to reduce traffic or improve cleanliness.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the authorities have moved stalls away from busy streets to reduce traffic or improve cleanliness"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer mention the supporters of the sellers in paragraph 6?",
+      "options": [
+        "To explain how to get a licence for a stall",
+        "To show the other side of the argument about moving stalls",
+        "To prove that the cities made the right decision",
+        "To describe the best places to buy street food"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After explaining why cities moved stalls, the writer gives the opposite view: such rules can harm small businesses and the city's character.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Supporters of the sellers argue that such rules can destroy small businesses and take away part of the city's character."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"charm\" is closest in meaning to:",
+      "options": [
+        "a quality that makes something pleasant and attractive",
+        "a small piece of jewellery",
+        "a type of night market",
+        "a rule that customers must follow"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The greatest charm of street food is the attractive way it brings people together.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Perhaps the greatest charm of street food is the way it brings people together."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer suggest by saying that no guidebook can fully describe street food?",
+      "options": [
+        "Guidebooks about street food are badly written.",
+        "Street food is too new to appear in guidebooks.",
+        "Tourists should not read guidebooks.",
+        "You need to experience it in person to really understand it."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer says street food offers a taste of everyday life, something that words in a book cannot fully capture.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "street food offers a taste of everyday life, and that is something no guidebook can fully describe"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the last paragraph?",
+      "options": [
+        "Night markets are only found in Asia.",
+        "Restaurants have stricter rules than street stalls.",
+        "Street food brings many different kinds of people together.",
+        "Students prefer street food to home cooking."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 7 describes families, strangers, office workers and students sharing street food.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the way it brings people together"
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "Office workers and students stand side by side at the same counter."
+        }
+      ]
+    }
+  ]
+}

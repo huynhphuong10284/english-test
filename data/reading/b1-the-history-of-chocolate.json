@@ -1,0 +1,451 @@
+{
+  "id": "the-history-of-chocolate",
+  "title": "The History of Chocolate",
+  "level": "B1 · Intermediate",
+  "description": "How chocolate changed from an ancient bitter drink into an everyday treat.",
+  "instructions": "Read the passage about the history of chocolate, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Chocolate is one of the most popular foods in the world, but its story began thousands of years ago in Central and South America. Ancient peoples there grew cacao trees and used the beans to make a bitter drink. They often mixed it with water, chilli and spices rather than sugar. For some groups, the drink was so valuable that it was used in religious ceremonies and served to important people."
+    },
+    {
+      "id": "p2",
+      "text": "Cacao beans were also used as a kind of money. People could exchange them for food, clothes and other goods at local markets. When Spanish explorers arrived in the sixteenth century, they noticed how much the beans were valued. They took cacao back to Europe, where it slowly became a fashionable drink among rich families."
+    },
+    {
+      "id": "p3",
+      "text": "Europeans changed the taste of chocolate to suit their own preferences. They added sugar and sometimes vanilla or cinnamon to make the drink sweeter. For a long time, however, chocolate remained expensive because it was imported from far away and prepared by hand. Only wealthy people could afford to enjoy it regularly."
+    },
+    {
+      "id": "p4",
+      "text": "Everything changed during the nineteenth century, when new machines made production faster and cheaper. Inventors found ways to turn cacao into solid bars and to make milk chocolate with a smoother texture. As a result, chocolate became an everyday treat that ordinary families could buy. Today, it is enjoyed in almost every country, although many people are now concerned about the low incomes of cacao farmers."
+    },
+    {
+      "id": "p5",
+      "text": "Today, cacao trees are grown in hot, wet regions close to the equator. Although the plant first came from the Americas, a large share of the world's cacao now comes from West Africa. Most of it is produced on small family farms rather than on large plantations, and the work is still done mostly by hand. Farmers cut the large, colourful pods from the trees with long knives, open them and take out the beans. The beans are then left to ferment for several days and dried in the sun before they are sold."
+    },
+    {
+      "id": "p6",
+      "text": "Life for many of these farmers is difficult. The price they receive for their beans can rise and fall sharply, and many earn only a small part of the money that people pay for a chocolate bar in a shop. There have also been serious concerns about children working on some farms instead of going to school. In response, some companies and organisations have introduced fair trade schemes, which promise farmers a fairer price. Shoppers can look for special labels on the packet if they want to support these schemes."
+    },
+    {
+      "id": "p7",
+      "text": "Chocolate also has an interesting relationship with health. Dark chocolate contains natural substances that some researchers believe may be good for the heart, but most chocolate bars also contain a lot of sugar and fat. Doctors therefore suggest enjoying it as an occasional treat rather than an everyday snack. Looking to the future, climate change could make it harder to grow cacao in some areas, as the trees need very particular conditions. The long story of chocolate, it seems, is far from over."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the passage?",
+      "options": [
+        "Chocolate was invented by Spanish explorers.",
+        "Chocolate has changed from a bitter, valuable drink into a popular everyday food.",
+        "Chocolate is healthier today than it was in the past.",
+        "Cacao farmers are the richest people in South America."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The passage follows chocolate from an ancient bitter drink to a cheap everyday treat.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "its story began thousands of years ago in Central and South America"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "chocolate became an everyday treat that ordinary families could buy"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 1, what did ancient peoples mix with cacao?",
+      "options": [
+        "Water, chilli and spices",
+        "Milk and sugar",
+        "Vanilla and cinnamon",
+        "Coffee and honey"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 1 says they mixed it with water, chilli and spices rather than sugar. Sugar, vanilla and cinnamon were added later by Europeans.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They often mixed it with water, chilli and spices rather than sugar."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"exchange\" is closest in meaning to:",
+      "options": [
+        "throw away",
+        "grow",
+        "cook",
+        "trade"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "To exchange beans for food or clothes means to give the beans and get the goods in return, that is, to trade.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "People could exchange them for food, clothes and other goods at local markets."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Why did chocolate remain expensive in Europe for a long time?",
+      "options": [
+        "It was only sold in churches.",
+        "Kings did not allow ordinary people to buy it.",
+        "It was imported from far away and made by hand.",
+        "It contained a lot of milk."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 3 gives two reasons: it was imported from far away and prepared by hand.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "chocolate remained expensive because it was imported from far away and prepared by hand"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can we infer about the Spanish explorers?",
+      "options": [
+        "They did not like the taste of cacao.",
+        "They grew the first cacao trees.",
+        "They realised cacao was important and valuable.",
+        "They invented milk chocolate."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They noticed how much the beans were valued and took them back to Europe, so they understood their value.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "they noticed how much the beans were valued"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer mention new machines in paragraph 4?",
+      "options": [
+        "To explain how chocolate became cheaper and more widely available",
+        "To complain about factory working conditions",
+        "To describe how cacao trees are grown",
+        "To compare European and American inventors"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The machines made production faster and cheaper, which is why ordinary families could start buying chocolate.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "new machines made production faster and cheaper"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What does the writer suggest about cacao farmers today?",
+      "options": [
+        "They earn more money than ever before.",
+        "They have stopped growing cacao.",
+        "They only sell to rich families.",
+        "They may not be paid fairly for their work."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "People are concerned about the farmers' low incomes, which suggests they may not earn enough.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "many people are now concerned about the low incomes of cacao farmers"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "According to paragraph 1, how did some groups use the cacao drink?",
+      "options": [
+        "As a medicine for children",
+        "In religious ceremonies and for important people",
+        "As food for soldiers during wars",
+        "As a gift for Spanish explorers"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 1 says the drink was used in religious ceremonies and served to important people.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "it was used in religious ceremonies and served to important people"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"preferences\" is closest in meaning to:",
+      "options": [
+        "the prices of imported goods",
+        "the rules of a country",
+        "the ingredients in a recipe",
+        "the things that a person likes more than others"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Europeans changed chocolate to suit what they liked, for example by adding sugar to make it sweeter.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Europeans changed the taste of chocolate to suit their own preferences."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"texture\" refers to:",
+      "options": [
+        "the colour of something",
+        "the way something feels in your mouth or to the touch",
+        "the smell of something",
+        "the shape of the packet"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Milk chocolate with a smoother texture feels softer and smoother in the mouth.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "make milk chocolate with a smoother texture"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Where cacao is grown today and how the beans are prepared",
+        "Why cacao trees can no longer grow in the Americas",
+        "How chocolate bars are made in modern factories",
+        "Why large plantations are better than small farms"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 5 describes the regions where cacao grows and the steps farmers follow to prepare the beans.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Today, cacao trees are grown in hot, wet regions close to the equator."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "The beans are then left to ferment for several days and dried in the sun before they are sold."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 5, where does a large share of the world's cacao come from today?",
+      "options": [
+        "Central America",
+        "Spain",
+        "West Africa",
+        "Northern Europe"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 says a large share of the world's cacao now comes from West Africa.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "a large share of the world's cacao now comes from West Africa"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "What can we infer from paragraph 5 about the history of cacao growing?",
+      "options": [
+        "It has always been based mainly in West Africa.",
+        "It stopped completely in the Americas.",
+        "It moved to Europe because of the weather.",
+        "It has spread a long way from the place where it began."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The plant first came from the Americas, but much of it is now grown in West Africa, so cacao growing has spread.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Although the plant first came from the Americas, a large share of the world's cacao now comes from West Africa."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What happens to the cacao beans after farmers take them out of the pods?",
+      "options": [
+        "They are immediately turned into chocolate bars.",
+        "They are mixed with sugar and milk.",
+        "They are left to ferment and then dried in the sun.",
+        "They are planted to grow new trees."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 says the beans are left to ferment for several days and dried in the sun before they are sold.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The beans are then left to ferment for several days and dried in the sun before they are sold."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "main-idea",
+      "text": "What is paragraph 6 mainly about?",
+      "options": [
+        "Many cacao farmers face difficulties, and some schemes try to help them.",
+        "Chocolate shops are charging too much money.",
+        "Children should learn how to grow cacao.",
+        "Fair trade labels are difficult to find."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 6 describes low and changing incomes and other problems, then introduces fair trade schemes as a response.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Life for many of these farmers is difficult."
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "some companies and organisations have introduced fair trade schemes"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"sharply\" in \"rise and fall sharply\" means:",
+      "options": [
+        "slowly and gently",
+        "suddenly and by a large amount",
+        "in a dangerous way",
+        "at the same time every year"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Prices that rise and fall sharply change quickly and by a lot, which makes farmers' lives difficult.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The price they receive for their beans can rise and fall sharply"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer mention children working on some farms?",
+      "options": [
+        "To praise families who work together",
+        "To explain how cacao pods are opened",
+        "To suggest that children enjoy farm work",
+        "To show one of the serious problems that led to fair trade schemes"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer lists this as a serious concern, and the next sentence begins \"In response\", introducing fair trade schemes.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "There have also been serious concerns about children working on some farms instead of going to school. In response"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What do fair trade schemes promise farmers?",
+      "options": [
+        "Free machines for their farms",
+        "Jobs in chocolate factories",
+        "A fairer price for their beans",
+        "Free education in Europe"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 6 says fair trade schemes promise farmers a fairer price.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "fair trade schemes, which promise farmers a fairer price"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "According to paragraph 7, what do doctors suggest?",
+      "options": [
+        "Eating dark chocolate every day",
+        "Eating chocolate as an occasional treat",
+        "Never eating chocolate at all",
+        "Eating chocolate instead of fruit"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 7 says doctors suggest enjoying it as an occasional treat rather than an everyday snack.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Doctors therefore suggest enjoying it as an occasional treat rather than an everyday snack."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What does paragraph 7 suggest about cacao growing in the future?",
+      "options": [
+        "It may face new difficulties because of climate change.",
+        "It will become much easier everywhere.",
+        "It will move back to Europe.",
+        "It will no longer need any special conditions."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Cacao trees need very particular conditions, and climate change could make it harder to grow them in some areas.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "climate change could make it harder to grow cacao in some areas, as the trees need very particular conditions"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "id": "w-tourism-benefits-and-drawbacks",
+  "title": "Tourism: Benefits and Drawbacks",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise passives, participle clauses and contrast linkers, then write an article about tourism in your area.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Passive reporting verbs",
+      "prompt": "Choose the correct answer.",
+      "text": "The old harbour ___ to be the oldest in the region.",
+      "options": [
+        "says",
+        "is said",
+        "has said",
+        "is saying"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Passive reporting verbs follow the pattern subject + is said/thought/believed + to-infinitive."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Passive voice",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Hundreds of new hotels ___ (build) along the coast over the last ten years.",
+      "answers": [
+        "have been built"
+      ],
+      "points": 1,
+      "explanation": "Use the present perfect passive (have been + past participle) with periods of time up to now, such as \"over the last ten years\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Participle clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the island",
+        "by",
+        "visited",
+        "is",
+        "two million tourists a year",
+        "now crowded"
+      ],
+      "answers": [
+        "Visited by two million tourists a year, the island is now crowded."
+      ],
+      "points": 1,
+      "explanation": "A past participle clause at the start (Visited by ...) gives background information with a passive meaning."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Linking words",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Tourism creates jobs; on other hand, it can damage the environment.",
+      "answers": [
+        "Tourism creates jobs; on the other hand, it can damage the environment.",
+        "Tourism creates jobs. On the other hand, it can damage the environment."
+      ],
+      "points": 1,
+      "explanation": "The fixed phrase is \"on the other hand\", with \"the\"."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "Local people need the money tourists bring. ___, they are tired of the noise and crowds.",
+      "options": [
+        "Consequently",
+        "Whereas",
+        "Therefore",
+        "Nevertheless"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Nevertheless\" shows contrast: they need the money, but they are still tired of the crowds."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Wish / if only",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "If only the town council ___ (limit) the number of cruise ships years ago!",
+      "answers": [
+        "had limited"
+      ],
+      "points": 1,
+      "explanation": "If only + past perfect expresses strong regret about something that did not happen in the past."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Third conditional",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The village would not have become famous ___ there.\"",
+      "text": "The village became famous because a film was made there.",
+      "keyword": "IF",
+      "answers": [
+        "The village would not have become famous if a film had not been made there.",
+        "The village would not have become famous if a film hadn't been made there."
+      ],
+      "points": 1,
+      "explanation": "Third conditional: if + past perfect (here passive: had not been made) for an unreal past condition."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Passive voice",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The animals in the park ___ by visitors.\"",
+      "text": "Visitors must not feed the animals in the park.",
+      "keyword": "BE",
+      "answers": [
+        "The animals in the park must not be fed by visitors.",
+        "The animals in the park mustn't be fed by visitors."
+      ],
+      "points": 1,
+      "explanation": "Modal passive: modal + be + past participle (must not be fed)."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Causative have",
+      "prompt": "Choose the correct answer.",
+      "text": "At the hotel, we ___ our luggage carried to the room by a porter.",
+      "options": [
+        "had",
+        "made",
+        "let",
+        "got to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Causative have + object + past participle: the porter carried our luggage for us."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Mass tourism can cause serious ___ (environment) damage.",
+      "answers": [
+        "environmental"
+      ],
+      "points": 1,
+      "explanation": "Add -al to the noun environment to form the adjective environmental before the noun damage."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Modals of deduction (past)",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "beautiful",
+        "have",
+        "before the hotels were built",
+        "the old town",
+        "been",
+        "must"
+      ],
+      "answers": [
+        "The old town must have been beautiful before the hotels were built.",
+        "Before the hotels were built, the old town must have been beautiful."
+      ],
+      "points": 1,
+      "explanation": "Must have been is a confident deduction about a past situation."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Articles: countries",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Tourism is important for the economy of Spain and the Italy.",
+      "answers": [
+        "Tourism is important for the economy of Spain and Italy."
+      ],
+      "points": 1,
+      "explanation": "Most country names take no article: Spain, Italy (but the UK, the USA)."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Collocations: make a complaint",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Local people ___ about the noise.\"",
+      "text": "Local people complained about the noise.",
+      "keyword": "COMPLAINTS",
+      "answers": [
+        "Local people made complaints about the noise."
+      ],
+      "points": 1,
+      "explanation": "The noun complaint collocates with make: make a complaint about something."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Linking: thanks to",
+      "prompt": "Choose the correct answer.",
+      "text": "The island attracts many visitors ___ its beautiful beaches.",
+      "options": [
+        "because",
+        "due",
+        "thanks to",
+        "although"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Thanks to (like because of and due to) is followed by a noun phrase and gives a positive reason."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Passive -ing form",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Many locals hate ___ (photograph) by tourists without permission.",
+      "answers": [
+        "being photographed"
+      ],
+      "points": 1,
+      "explanation": "After verbs like hate, use the -ing form; the passive -ing form is being + past participle."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Reported warnings",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "us",
+        "swim",
+        "the tour guide",
+        "after dark",
+        "warned",
+        "not to"
+      ],
+      "answers": [
+        "The tour guide warned us not to swim after dark."
+      ],
+      "points": 1,
+      "explanation": "Warn + object + not to + infinitive reports a warning."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Despite vs although",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Despite the town is crowded, it is still charming.",
+      "answers": [
+        "Although the town is crowded, it is still charming.",
+        "Even though the town is crowded, it is still charming.",
+        "Though the town is crowded, it is still charming.",
+        "Despite being crowded, the town is still charming.",
+        "In spite of being crowded, the town is still charming.",
+        "Despite the fact that the town is crowded, it is still charming.",
+        "In spite of the fact that the town is crowded, it is still charming.",
+        "Despite the crowds, the town is still charming.",
+        "In spite of the crowds, the town is still charming."
+      ],
+      "points": 1,
+      "explanation": "Despite is followed by a noun or -ing form, not a clause; use although before subject + verb."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Passive voice (present perfect)",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"A new cruise terminal ___ opened.\"",
+      "text": "They have recently opened a new cruise terminal.",
+      "keyword": "HAS",
+      "answers": [
+        "A new cruise terminal has recently been opened."
+      ],
+      "points": 1,
+      "explanation": "Present perfect passive: has been + past participle; adverbs like recently go after has."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Infinitive of purpose",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Many tourists come here for see the old harbour.",
+      "answers": [
+        "Many tourists come here to see the old harbour.",
+        "Many tourists come here in order to see the old harbour.",
+        "Many tourists come here so as to see the old harbour."
+      ],
+      "points": 1,
+      "explanation": "To express purpose with a verb, use to + infinitive (or in order to), not for + infinitive."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Modals of deduction (past)",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Tourism ___ the coral reef.\"",
+      "text": "Perhaps tourism damaged the coral reef.",
+      "keyword": "MIGHT",
+      "answers": [
+        "Tourism might have damaged the coral reef."
+      ],
+      "points": 1,
+      "explanation": "Might have + past participle expresses a possibility about the past."
+    }
+  ],
+  "task": {
+    "genre": "Article",
+    "prompt": "An international online magazine is publishing a series called \"Tourism: Blessing or Curse?\". Write an article about how tourism affects a place you know well.",
+    "contentPoints": [
+      "Introduce the place and explain why tourists visit it.",
+      "Describe the benefits tourism brings to local people.",
+      "Describe the problems tourism causes.",
+      "Suggest how the problems could be reduced."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "Imagine ...",
+      "It is hardly surprising that ...",
+      "What many visitors do not realise is that ...",
+      "On the other hand, ...",
+      "If only ..."
+    ],
+    "modelAnswer": "Paradise Under Pressure\n\nImagine a small fishing town with white houses, narrow streets and a sandy beach. Twenty years ago, my hometown of Porto Azul was exactly like that. Today, it is visited by more than a million tourists every summer, and it is hardly surprising that local people have mixed feelings.\n\nThere is no doubt that tourism has brought many benefits. Hundreds of jobs have been created in hotels, restaurants and shops, so young people no longer have to move to the city to find work. Moreover, the money from tourism has been used to build a new hospital and improve the roads.\n\nOn the other hand, what many visitors do not realise is how difficult life has become for residents. Rents have risen so much that some families have been forced to leave the old town. In August, the beaches are so crowded that local people avoid them, and the streets are full of litter.\n\nNevertheless, I believe that these problems can be solved. The council could limit the number of holiday apartments and introduce a small tourist tax to pay for cleaning. If only these measures had been introduced earlier! With careful planning, tourists and residents could share our beautiful town in harmony."
+  }
+}

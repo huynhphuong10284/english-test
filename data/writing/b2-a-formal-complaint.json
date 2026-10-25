@@ -1,0 +1,326 @@
+{
+  "id": "w-a-formal-complaint",
+  "title": "A Formal Complaint",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise reported speech, passives and formal linking, then write a formal email of complaint.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Reported speech",
+      "prompt": "Choose the correct answer.",
+      "text": "The receptionist told me that the room ___ ready by noon.",
+      "options": [
+        "will be",
+        "would be",
+        "is being",
+        "has been"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "In reported speech, \"will\" usually changes to \"would\" after a past reporting verb: she said it would be ready."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Passive voice",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "I was informed that my order ___ (send) the day before, but it never arrived.",
+      "answers": [
+        "had been sent"
+      ],
+      "points": 1,
+      "explanation": "Use the past perfect passive (had been + past participle) for an action completed before another past moment."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Reported questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "me",
+        "whether",
+        "the manager",
+        "had kept",
+        "asked",
+        "I",
+        "the receipt"
+      ],
+      "answers": [
+        "The manager asked me whether I had kept the receipt."
+      ],
+      "points": 1,
+      "explanation": "Reported questions use statement word order (subject before verb) after \"whether\" or \"if\": asked me whether I had kept ..."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Formal linking",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Despite of the long delay, nobody offered us an apology.",
+      "answers": [
+        "Despite the long delay, nobody offered us an apology.",
+        "In spite of the long delay, nobody offered us an apology."
+      ],
+      "points": 1,
+      "explanation": "\"Despite\" is never followed by \"of\". Use \"despite + noun\" or \"in spite of + noun\"."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "The product arrived damaged. ___, I would like a full refund.",
+      "options": [
+        "Whereas",
+        "Although",
+        "Nevertheless",
+        "Consequently"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Consequently\" introduces a result: because the product was damaged, I want a refund."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Third conditional",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "If the staff ___ (warn) us about the delay, we would have booked another flight.",
+      "answers": [
+        "had warned"
+      ],
+      "points": 1,
+      "explanation": "The if-clause of a third conditional uses the past perfect: if the staff had warned us ..."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Reported speech",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The manager ___ me back the next day.\"",
+      "text": "\"I will call you back tomorrow,\" the manager said to me.",
+      "keyword": "PROMISED",
+      "answers": [
+        "The manager promised to call me back the next day.",
+        "The manager promised he would call me back the next day.",
+        "The manager promised she would call me back the next day.",
+        "The manager promised he'd call me back the next day.",
+        "The manager promised she'd call me back the next day.",
+        "The manager promised that he would call me back the next day.",
+        "The manager promised that she would call me back the next day."
+      ],
+      "points": 1,
+      "explanation": "\"Promise\" can be followed by an infinitive (promised to call) or a that-clause (promised he would call). \"Tomorrow\" becomes \"the next day\"."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Passive voice",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"My previous email ___ yet.\"",
+      "text": "They have not answered my previous email yet.",
+      "keyword": "BEEN",
+      "answers": [
+        "My previous email has not been answered yet.",
+        "My previous email hasn't been answered yet."
+      ],
+      "points": 1,
+      "explanation": "The present perfect passive is has/have + been + past participle: has not been answered."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Causative have",
+      "prompt": "Choose the correct answer.",
+      "text": "Last winter I had to ___ the heating repaired three times.",
+      "options": [
+        "have",
+        "make",
+        "let",
+        "do"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Causative have + object + past participle (have the heating repaired) means you paid or arranged for someone else to do it."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "I am writing to express my ___ (satisfy) with the service I received.",
+      "answers": [
+        "dissatisfaction"
+      ],
+      "points": 1,
+      "explanation": "The negative prefix dis- and the suffix -action turn satisfy into the noun dissatisfaction."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Formal language",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "within fourteen days",
+        "expect",
+        "a full",
+        "I",
+        "to receive",
+        "refund"
+      ],
+      "answers": [
+        "I expect to receive a full refund within fourteen days.",
+        "Within fourteen days I expect to receive a full refund."
+      ],
+      "points": 1,
+      "explanation": "Expect is followed by to + infinitive. A clear deadline makes a formal complaint stronger."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Formal phrases",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I am writing for complaining about the poor service I received in your restaurant last Saturday.",
+      "answers": [
+        "I am writing to complain about the poor service I received in your restaurant last Saturday."
+      ],
+      "points": 1,
+      "explanation": "The standard opening of a formal letter is I am writing to + infinitive, which shows purpose."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Modals of deduction (passive)",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The parcel ___ to the right address.\"",
+      "text": "I am sure the parcel was not delivered to the right address.",
+      "keyword": "CAN'T",
+      "answers": [
+        "The parcel can't have been delivered to the right address."
+      ],
+      "points": 1,
+      "explanation": "Can't have been + past participle is a passive past deduction: you are sure something did not happen."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Formal linking: furthermore",
+      "prompt": "Choose the correct answer.",
+      "text": "The hotel was not as advertised. ___, the pool was closed and the Wi-Fi did not work.",
+      "options": [
+        "Whereas",
+        "Nevertheless",
+        "Furthermore",
+        "Otherwise"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Furthermore adds another point that supports what you have already said; it is common in formal writing."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Perfect participle clauses",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "___ (pay) for express delivery, I expected the parcel to arrive the next day.",
+      "answers": [
+        "Having paid"
+      ],
+      "points": 1,
+      "explanation": "Having + past participle shows that one action was completed before the next one: first I paid, then I expected."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Modal passive (past)",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "been",
+        "of the change",
+        "should",
+        "we",
+        "informed",
+        "have"
+      ],
+      "answers": [
+        "We should have been informed of the change.",
+        "Should we have been informed of the change?"
+      ],
+      "points": 1,
+      "explanation": "Should have been + past participle criticises something that did not happen in the past, in the passive."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Articles",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The manager was not in office when I called.",
+      "answers": [
+        "The manager was not in the office when I called.",
+        "The manager was not in his office when I called.",
+        "The manager was not in her office when I called."
+      ],
+      "points": 1,
+      "explanation": "Office is a countable noun, so it needs a determiner such as the or his/her."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Reported speech: refuse",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The shop assistant ___ a refund.\"",
+      "text": "\"I will not give you a refund,\" the shop assistant said.",
+      "keyword": "REFUSED",
+      "answers": [
+        "The shop assistant refused to give me a refund.",
+        "The shop assistant refused to give us a refund."
+      ],
+      "points": 1,
+      "explanation": "Refuse + to + infinitive reports a negative statement about what someone will not do."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Look forward to + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I look forward to hear from you as soon as possible.",
+      "answers": [
+        "I look forward to hearing from you as soon as possible."
+      ],
+      "points": 1,
+      "explanation": "In look forward to, to is a preposition, so it is followed by the -ing form: hearing."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Get-passive",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"My suitcase ___ during the flight.\"",
+      "text": "Someone damaged my suitcase during the flight.",
+      "keyword": "GOT",
+      "answers": [
+        "My suitcase got damaged during the flight."
+      ],
+      "points": 1,
+      "explanation": "Get + past participle is an informal passive, often used for accidents and unexpected events."
+    }
+  ],
+  "task": {
+    "genre": "Formal email",
+    "prompt": "You recently bought a pair of headphones online, but there were problems with the order. Write an email to the company's customer service department.",
+    "contentPoints": [
+      "Explain what you ordered and when.",
+      "Describe the problems you experienced.",
+      "Say how the company dealt with you when you contacted them.",
+      "State clearly what you want the company to do."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "Dear Sir or Madam,",
+      "I am writing to complain about ...",
+      "I was assured that ...",
+      "I would be grateful if you could ...",
+      "I look forward to hearing from you.",
+      "Yours faithfully,"
+    ],
+    "modelAnswer": "Dear Sir or Madam,\n\nI am writing to complain about a pair of wireless headphones which I ordered from your website on 3rd March. Unfortunately, the experience has been extremely disappointing.\n\nAccording to your website, the headphones would be delivered within three working days. However, the parcel did not arrive until almost two weeks later. When I finally opened it, I discovered that the box had been damaged and the left earphone did not work at all.\n\nI immediately phoned your customer service line. The assistant I spoke to was polite, but she told me that nothing could be done until a manager had examined my complaint. She promised that someone would contact me within 48 hours. Nevertheless, I have still not received a call or an email, despite the fact that a week has passed.\n\nI have been a loyal customer for several years, so I find this lack of response particularly frustrating. Consequently, I would be grateful if you could arrange a full refund, including the delivery charge, as soon as possible. I would also like you to collect the faulty headphones from my home at no extra cost.\n\nI look forward to hearing from you.\n\nYours faithfully,\n\nDaniel Moreno"
+  }
+}

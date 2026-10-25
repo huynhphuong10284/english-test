@@ -1,0 +1,455 @@
+{
+  "id": "the-decline-of-insects",
+  "title": "The Quiet Disappearance of Insects",
+  "level": "C1 · Advanced",
+  "description": "An article on the evidence for insect decline, its causes and possible remedies.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Insects are by far the most diverse group of animals on Earth, and they perform functions without which terrestrial ecosystems would scarcely be recognisable. They pollinate a large proportion of flowering plants, including many crops, break down dead organic matter, recycle nutrients and form a crucial part of the diet of countless birds, fish and mammals. It is therefore a matter of serious concern that a growing body of research points to substantial declines in insect populations in many parts of the world."
+    },
+    {
+      "id": "p2",
+      "text": "Some of the most striking evidence has come from long-term monitoring projects, in which researchers have collected insects using the same methods at the same sites over several decades. Several such studies have reported dramatic falls in the total mass of flying insects. Anecdotal observations echo these findings: many older drivers recall that, in their youth, car windscreens would be covered in insects after a summer journey, something that appears far less common today."
+    },
+    {
+      "id": "p3",
+      "text": "Establishing the full extent of the problem is nonetheless difficult. Long-term data exist for only a small fraction of species, and they are heavily concentrated in Europe and North America, leaving vast regions, including the species-rich tropics, poorly studied. Moreover, insect numbers fluctuate naturally from year to year, so short or patchy records can easily give a misleading impression. Some scientists have therefore cautioned against apocalyptic headlines, while emphasising that the available evidence is nonetheless cause for alarm."
+    },
+    {
+      "id": "p4",
+      "text": "The drivers of decline appear to be multiple and interacting. The conversion of meadows, wetlands and forests into intensive farmland and urban areas destroys habitats, while the widespread use of pesticides harms not only target species but many others besides. Climate change, light pollution and invasive species add further pressures. Because these factors frequently act in combination, it is often impossible to attribute a particular decline to any single cause."
+    },
+    {
+      "id": "p5",
+      "text": "Encouragingly, insects tend to reproduce rapidly, which means that populations can recover relatively quickly when conditions improve. Measures such as reducing pesticide use, restoring wildflower habitats and leaving parts of farms and gardens less intensively managed have shown promising local results. The challenge lies in implementing such measures on a scale commensurate with the problem, and in doing so before the losses become irreversible."
+    },
+    {
+      "id": "p6",
+      "text": "The consequences of continued decline could extend far beyond insects themselves. Many crops depend to some degree on animal pollination, and although staple cereals such as wheat and rice are largely pollinated by wind, a substantial share of the fruits, vegetables and nuts that provide essential nutrients rely on insect visitors. Declines in insect abundance may also ripple upwards through food webs, since many birds feed their chicks almost exclusively on insects even if the adults themselves eat mainly seeds. Researchers have noted parallel declines in some insect-eating bird species, although, as with insects themselves, disentangling the various causes is far from straightforward. What is clear is that the loss of insects would not be a self-contained event but one with consequences for whole ecosystems and for human food security."
+    },
+    {
+      "id": "p7",
+      "text": "Public concern has tended to focus on a small number of charismatic species, above all honeybees and butterflies. Yet honeybees are a managed, domesticated species whose numbers depend largely on beekeepers, and campaigns to 'save the bees' can inadvertently divert attention from the thousands of wild bee species, flies, beetles and moths that also pollinate plants and are often far less studied. Addressing the gaps in knowledge identified by scientists will require monitoring a much wider range of insects. Here, volunteers can play a valuable role: citizen science projects, in which members of the public record sightings or set simple traps according to standardised methods, have already generated datasets that would be prohibitively expensive for professional researchers to collect alone."
+    },
+    {
+      "id": "p8",
+      "text": "Ultimately, reversing insect decline will require changes in how land is used across entire landscapes rather than in isolated reserves alone. Because much of the land in many countries is farmed, the cooperation of farmers is essential, and agricultural subsidies could be redirected to reward practices that support insects, such as planting flower-rich field margins or reducing the use of chemicals. Urban areas, too, can contribute: parks, road verges and private gardens, if managed with insects in mind, can provide food and shelter across extensive networks. Even modest changes, such as mowing lawns less often, can make a noticeable difference locally. None of these steps is especially costly or technically demanding; what they require above all is a recognition that the small creatures which are so easy to overlook are in fact indispensable to the living world, and to us."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best summarises the passage?",
+      "options": [
+        "Insect declines are confined to Europe and North America.",
+        "Pesticides are the single cause of falling insect numbers.",
+        "Insects are ecologically vital and appear to be declining for several reasons, though recovery is still possible.",
+        "Concern about insect decline is largely exaggerated."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The passage explains why insects matter, presents evidence of decline and its multiple causes, and ends by noting that populations can recover.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "a growing body of research points to substantial declines in insect populations"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "populations can recover relatively quickly when conditions improve"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What made the long-term monitoring projects in paragraph 2 particularly valuable?",
+      "options": [
+        "They covered every region of the world.",
+        "They relied on the memories of older drivers.",
+        "They focused exclusively on pollinating species.",
+        "They used consistent methods at the same locations over many years."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Consistency of method and site over decades allows genuine trends to be identified.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "using the same methods at the same sites over several decades"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "purpose",
+      "text": "Why does the writer mention car windscreens in paragraph 2?",
+      "options": [
+        "To prove scientifically that insect numbers have fallen",
+        "To offer informal, everyday evidence consistent with the scientific data",
+        "To suggest that cars are a major cause of insect decline",
+        "To show that older people exaggerate changes in nature"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The windscreen memories are described as anecdotal observations that \"echo\" the scientific findings; they are not proof.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Anecdotal observations echo these findings"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can be inferred about the scientists who caution against \"apocalyptic headlines\"?",
+      "options": [
+        "They believe the decline is real but that its scale should not be overstated.",
+        "They deny that insect populations are falling.",
+        "They think tropical insects are increasing in number.",
+        "They believe further research in Europe is unnecessary."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "They warn against exaggeration while still regarding the evidence as \"cause for alarm\".",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Some scientists have therefore cautioned against apocalyptic headlines, while emphasising that the available evidence is nonetheless cause for alarm."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "According to paragraph 3, why is it difficult to establish the full extent of insect decline?",
+      "options": [
+        "Insects are too small to be counted accurately.",
+        "Data are limited, and insect numbers vary naturally from year to year.",
+        "Scientists are unwilling to study the tropics.",
+        "Monitoring projects have been running for too long."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Long-term data cover only a few species and regions, and natural fluctuations can make short records misleading.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Long-term data exist for only a small fraction of species"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "insect numbers fluctuate naturally from year to year"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "What does paragraph 4 suggest about efforts to tackle insect decline?",
+      "options": [
+        "Banning pesticides would immediately reverse the decline.",
+        "Light pollution is the most urgent problem to solve.",
+        "Addressing a single pressure on its own may not be sufficient.",
+        "Climate change has little effect on insects."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Since the causes are multiple and act in combination, removing only one is unlikely to solve the problem.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "The drivers of decline appear to be multiple and interacting."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "these factors frequently act in combination"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the phrase \"commensurate with\" is closest in meaning to:",
+      "options": [
+        "proportionate to",
+        "in competition with",
+        "unrelated to",
+        "smaller than"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The challenge is to act on a scale that matches the size of the problem.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "on a scale commensurate with the problem"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Why does the writer consider that insect populations can recover relatively quickly?",
+      "options": [
+        "Insects can migrate over long distances.",
+        "Pesticides break down quickly in the soil.",
+        "Habitats regenerate naturally within a year.",
+        "Insects tend to reproduce rapidly."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 5 links quick recovery to the rapid reproduction of insects.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "insects tend to reproduce rapidly, which means that populations can recover relatively quickly"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 6 to 8?",
+      "options": [
+        "Insect decline mainly threatens honeybees, which should therefore be the focus of conservation.",
+        "Harvests of staple cereals such as wheat and rice will fail if insect decline continues.",
+        "Insect decline has wide ecological and agricultural consequences, and tackling it requires broader monitoring and action across whole landscapes.",
+        "Insect decline can be reversed simply by creating more nature reserves."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The final paragraphs cover the knock-on effects of decline, the need to monitor neglected groups and landscape-wide solutions.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "reversing insect decline will require changes in how land is used across entire landscapes rather than in isolated reserves alone"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, which crops are largely pollinated by wind?",
+      "options": [
+        "Most fruits and vegetables",
+        "Nuts that provide essential nutrients",
+        "Flowering plants grown in gardens",
+        "Staple cereals such as wheat and rice"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer notes that wheat and rice are largely wind-pollinated.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "staple cereals such as wheat and rice are largely pollinated by wind"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "Why might insect decline affect bird species whose adults eat mainly seeds?",
+      "options": [
+        "Pesticides used against insects also poison seeds.",
+        "Their young depend heavily on insects for food.",
+        "Seed-eating birds compete with insects for food.",
+        "Insects spread diseases among bird populations."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Many birds feed their chicks almost entirely on insects, so even seed-eating species may be affected.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "many birds feed their chicks almost exclusively on insects even if the adults themselves eat mainly seeds"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"disentangling\" is closest in meaning to:",
+      "options": [
+        "separating and identifying",
+        "ignoring",
+        "combining",
+        "predicting"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is hard to separate out the different causes of bird declines.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "disentangling the various causes is far from straightforward"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "purpose",
+      "text": "Why does the writer mention that wheat and rice are largely pollinated by wind?",
+      "options": [
+        "To argue that insect decline will have no effect on food supplies",
+        "To give a balanced picture by acknowledging the limits of agriculture's dependence on insects",
+        "To show that wind pollination is more efficient than insect pollination",
+        "To criticise farmers for growing too many cereal crops"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer concedes that staple cereals do not need insects before stressing that many nutritious foods do.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "a substantial share of the fruits, vegetables and nuts that provide essential nutrients rely on insect visitors"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 7, why are honeybees an imperfect focus for concern about insect decline?",
+      "options": [
+        "Their numbers depend largely on beekeepers rather than on wild conditions.",
+        "They are unable to pollinate most crops.",
+        "Their numbers are rising in every region.",
+        "They have been studied less than other insects."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Honeybees are managed and domesticated, so they are a poor guide to wild insect populations.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "honeybees are a managed, domesticated species whose numbers depend largely on beekeepers"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What does the writer imply about campaigns to \"save the bees\"?",
+      "options": [
+        "They have directly caused declines in wild bee populations.",
+        "They are the main reason honeybee numbers have increased.",
+        "They may give the public an incomplete picture of which insects need attention.",
+        "They should be abandoned because bees are not important."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "By focusing on honeybees, such campaigns can divert attention from many other important, less-studied pollinators.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "campaigns to 'save the bees' can inadvertently divert attention from the thousands of wild bee species, flies, beetles and moths"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the phrase \"prohibitively expensive\" means:",
+      "options": [
+        "illegal to pay for",
+        "slightly over budget",
+        "funded by governments",
+        "too costly to be practical"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Professional researchers could not afford to collect such data alone.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "datasets that would be prohibitively expensive for professional researchers to collect alone"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What do citizen science projects involve, according to paragraph 7?",
+      "options": [
+        "Volunteers keeping honeybee hives in their own gardens",
+        "Members of the public recording sightings or setting traps using standardised methods",
+        "Researchers training farmers to use fewer chemicals",
+        "Members of the public paying for research on rare species"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Volunteers record sightings or set simple traps following standard procedures.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "members of the public record sightings or set simple traps according to standardised methods"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 8 about nature reserves?",
+      "options": [
+        "They do more harm than good to insect populations.",
+        "They already cover most of the land in many countries.",
+        "They are useful but not sufficient on their own to reverse insect decline.",
+        "They should be converted into insect-friendly farmland."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer says change is needed across whole landscapes rather than in isolated reserves alone, implying reserves help but are not enough.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "rather than in isolated reserves alone"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"indispensable\" is closest in meaning to:",
+      "options": [
+        "absolutely necessary",
+        "easily replaced",
+        "barely noticeable",
+        "potentially harmful"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Insects are essential to the living world and to humans.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "are in fact indispensable to the living world, and to us"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why does the writer stress that the steps in paragraph 8 are not \"especially costly or technically demanding\"?",
+      "options": [
+        "To argue that farmers alone should pay for them",
+        "To show that the measures are unlikely to be effective",
+        "To contrast them with the cost of citizen science projects",
+        "To suggest that the main obstacle is a lack of recognition rather than a lack of resources"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer says what is needed above all is recognition of how important insects are.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "what they require above all is a recognition that the small creatures which are so easy to overlook are in fact indispensable"
+        }
+      ]
+    }
+  ]
+}

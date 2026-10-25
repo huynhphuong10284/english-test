@@ -1,0 +1,325 @@
+{
+  "id": "w-an-email-giving-advice",
+  "title": "An Email Giving Advice",
+  "level": "B1 · Intermediate",
+  "description": "Practise modals of advice and conditionals, then write an email to help a friend at a new school.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Modals of advice",
+      "prompt": "Choose the correct answer.",
+      "text": "If you feel nervous, you ___ talk to your teacher.",
+      "options": [
+        "should",
+        "must to",
+        "ought",
+        "had better to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use should + infinitive without \"to\" to give advice: you should talk."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present perfect",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "I ___ (just / read) your email and I want to help.",
+      "answers": [
+        "have just read",
+        "'ve just read"
+      ],
+      "points": 1,
+      "explanation": "Use the present perfect with \"just\" for something that happened a very short time ago: I have just read."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Second conditional",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "I",
+        "join",
+        "were",
+        "would",
+        "a club",
+        "you",
+        "if",
+        "I"
+      ],
+      "answers": [
+        "If I were you, I would join a club.",
+        "I would join a club if I were you."
+      ],
+      "points": 1,
+      "explanation": "\"If I were you, I would ...\" is a common way to give advice. It uses the second conditional: if + past, would + infinitive."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Modals of advice",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "You should to try to make one new friend every week.",
+      "answers": [
+        "You should try to make one new friend every week."
+      ],
+      "points": 1,
+      "explanation": "After should, use the infinitive without \"to\": you should try."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "The first week is hard. ___, it gets easier after a while.",
+      "options": [
+        "Although",
+        "However",
+        "Because",
+        "As a result"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"However\" introduces a contrast with the previous sentence and is followed by a comma."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "First conditional",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "If you ___ (join) the football team, you will meet lots of people.",
+      "answers": [
+        "join"
+      ],
+      "points": 1,
+      "explanation": "In the first conditional, use the present simple after \"if\" and will + infinitive in the other clause."
+    },
+    {
+      "id": "e7",
+      "type": "error-correction",
+      "focus": "Present perfect vs past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I have moved to a new school last year, so I know how you feel.",
+      "answers": [
+        "I moved to a new school last year, so I know how you feel."
+      ],
+      "points": 1,
+      "explanation": "With a finished time like \"last year\", use the past simple, not the present perfect."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Modals of advice",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word SHOULD. Begin: \"You ...\"",
+      "text": "It's a good idea for you to talk to your parents.",
+      "keyword": "SHOULD",
+      "answers": [
+        "You should talk to your parents."
+      ],
+      "points": 1,
+      "explanation": "\"It's a good idea for you to ...\" means the same as \"You should ...\"."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Gerund after prepositions",
+      "prompt": "Choose the correct answer.",
+      "text": "Don't be afraid of ___ questions.",
+      "options": [
+        "ask",
+        "to ask",
+        "asked",
+        "asking"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "After a preposition such as \"of\", use the -ing form: afraid of asking."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation: -ly adjectives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Most students will be ___ (friend) if you smile and say hello.",
+      "answers": [
+        "friendly"
+      ],
+      "points": 1,
+      "explanation": "We need an adjective after \"be\". The adjective from \"friend\" is \"friendly\"."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Modals: don't have to",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "like",
+        "to",
+        "don't",
+        "you",
+        "everyone",
+        "have"
+      ],
+      "answers": [
+        "You don't have to like everyone."
+      ],
+      "points": 1,
+      "explanation": "\"Don't have to\" means it is not necessary: you don't have to like everyone."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Making friends gets more easy after the first month.",
+      "answers": [
+        "Making friends gets easier after the first month."
+      ],
+      "points": 1,
+      "explanation": "Two-syllable adjectives ending in -y change to -ier: easy - easier."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Relative clauses: who",
+      "prompt": "Choose the correct answer.",
+      "text": "Find a classmate ___ likes the same things as you.",
+      "options": [
+        "which",
+        "whose",
+        "who",
+        "where"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"who\" (or \"that\") for people: a classmate who likes ..."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "First conditional: unless",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word UNLESS. Begin: \"People won't know you ...\"",
+      "text": "If you don't talk to people, they won't know you.",
+      "keyword": "UNLESS",
+      "answers": [
+        "People won't know you unless you talk to them.",
+        "People won't know you unless you talk to people."
+      ],
+      "points": 1,
+      "explanation": "\"Unless\" means \"if ... not\": if you don't talk = unless you talk."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Used to",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "I ___ (use) to feel shy too, but now I talk to everyone.",
+      "answers": [
+        "used"
+      ],
+      "points": 1,
+      "explanation": "Use \"used to + infinitive\" for a past situation that has changed."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Linking words: in addition",
+      "prompt": "Choose the correct answer.",
+      "text": "You will meet new people at the club. ___, you will practise your English.",
+      "options": [
+        "In addition",
+        "However",
+        "Although",
+        "Because"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"In addition\" adds another positive point. \"However\" would show a contrast."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Gerund as subject",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "way",
+        "joining",
+        "make",
+        "a",
+        "is",
+        "friends",
+        "good",
+        "club",
+        "to",
+        "a"
+      ],
+      "answers": [
+        "Joining a club is a good way to make friends.",
+        "A good way to make friends is joining a club."
+      ],
+      "points": 1,
+      "explanation": "The -ing form can be the subject of a sentence: Joining a club is ..."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Present perfect with yet",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Have you spoke to your teacher yet?",
+      "answers": [
+        "Have you spoken to your teacher yet?"
+      ],
+      "points": 1,
+      "explanation": "The present perfect is have + past participle. The past participle of \"speak\" is \"spoken\"."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Modals: mustn't",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word MUSTN'T. Begin: \"You ...\"",
+      "text": "Don't be late on your first day.",
+      "keyword": "MUSTN'T",
+      "answers": [
+        "You mustn't be late on your first day."
+      ],
+      "points": 1,
+      "explanation": "\"Mustn't\" means it is not allowed or very important not to do something."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Suggestions: how about",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word ABOUT. Begin: \"How ...\"",
+      "text": "Why don't you invite some classmates to your house?",
+      "keyword": "ABOUT",
+      "answers": [
+        "How about inviting some classmates to your house?"
+      ],
+      "points": 1,
+      "explanation": "\"How about\" is followed by the -ing form: How about inviting ...?"
+    }
+  ],
+  "task": {
+    "genre": "Informal email",
+    "prompt": "Your friend Sam has just moved to a new town and feels lonely at the new school. Write an email to Sam giving advice.",
+    "contentPoints": [
+      "Show that you understand how Sam feels.",
+      "Give at least two pieces of advice.",
+      "Say something about your own experience.",
+      "End with some encouragement."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "Thanks for your email.",
+      "I'm sorry to hear that ...",
+      "If I were you, I'd ...",
+      "Why don't you ...?",
+      "You should ...",
+      "Write back soon,"
+    ],
+    "modelAnswer": "Hi Sam,\n\nThanks for your email. I'm sorry to hear that you feel lonely at your new school. It's completely normal, and I'm sure it won't last long.\n\nIf I were you, I'd join a club or a sports team. That's the easiest way to meet people who like the same things as you. You should also try to talk to one new person every day, even if it's just about homework. In addition, why don't you ask your teacher if there's a student who can show you around?\n\nWhen I moved schools two years ago, I felt exactly the same. However, after a month I had a great group of friends.\n\nDon't worry, things will get better soon!\n\nWrite back soon,\nAlex"
+  }
+}

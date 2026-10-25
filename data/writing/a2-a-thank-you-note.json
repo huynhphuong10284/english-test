@@ -1,0 +1,323 @@
+{
+  "id": "w-a-thank-you-note",
+  "title": "A Thank-You Note",
+  "level": "A2 · Elementary",
+  "description": "Practise the past simple, comparatives and adverbs of frequency, then write a thank-you note for a present.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Choose the correct answer.",
+      "text": "My aunt ___ me a lovely scarf for my birthday.",
+      "options": [
+        "give",
+        "gived",
+        "gave",
+        "given"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The past simple of \"give\" is irregular: give - gave. \"Given\" is the past participle, not the past simple."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "I ___ (wear) it to school yesterday.",
+      "answers": [
+        "wore"
+      ],
+      "points": 1,
+      "explanation": "\"Yesterday\" tells us to use the past simple. \"Wear\" is irregular: wear - wore."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Superlatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the",
+        "it",
+        "in",
+        "is",
+        "shop",
+        "most beautiful",
+        "the",
+        "scarf"
+      ],
+      "answers": [
+        "It is the most beautiful scarf in the shop.",
+        "Is it the most beautiful scarf in the shop?"
+      ],
+      "points": 1,
+      "explanation": "Long adjectives make the superlative with \"the most\": the most beautiful scarf in the shop."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It is more warm than my old scarf.",
+      "answers": [
+        "It is warmer than my old scarf.",
+        "It's warmer than my old scarf."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives add -er to make the comparative: warm - warmer. Do not use \"more\" with them."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Adverbs of frequency",
+      "prompt": "Choose the correct answer.",
+      "text": "I ___ wear red, so this colour is a nice change for me.",
+      "options": [
+        "always",
+        "usually",
+        "often",
+        "rarely"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Rarely\" means almost never. It fits because the red scarf is a change from what I normally wear."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Linking words: because",
+      "prompt": "Complete the sentence with \"so\" or \"because\".",
+      "text": "I love it ___ blue is my favourite colour.",
+      "answers": [
+        "because"
+      ],
+      "points": 1,
+      "explanation": "\"Because\" gives a reason: I love it (result) because blue is my favourite colour (reason)."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Much / many",
+      "prompt": "Choose the correct answer.",
+      "text": "Thank you very ___ for the present.",
+      "options": [
+        "much",
+        "many",
+        "lot",
+        "lots"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The fixed phrase is \"Thank you very much\". \"Many\" is only used with plural nouns."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Prepositions: thank you for",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "Thank you ___ the lovely books.",
+      "answers": [
+        "for"
+      ],
+      "points": 1,
+      "explanation": "We say \"thank you for\" + noun or -ing: thank you for the books, thank you for coming."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "sent",
+        "a lovely card",
+        "my grandma",
+        "me"
+      ],
+      "answers": [
+        "My grandma sent me a lovely card."
+      ],
+      "points": 1,
+      "explanation": "Send + person + thing: My grandma sent me a card. \"Send\" is irregular: send - sent."
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Your letter maked me very happy.",
+      "answers": [
+        "Your letter made me very happy."
+      ],
+      "points": 1,
+      "explanation": "\"Make\" is irregular: make - made."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Will for offers",
+      "prompt": "Choose the correct answer.",
+      "text": "Next time you visit, I ___ cook dinner for you!",
+      "options": [
+        "am",
+        "will",
+        "going",
+        "would to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "We use \"will\" + base verb to make an offer or a promise: I will cook dinner for you."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Going to for plans",
+      "prompt": "Complete the sentence with \"going to\" and the verb in brackets.",
+      "text": "I ___ (wear) the scarf to the party on Saturday.",
+      "answers": [
+        "am going to wear",
+        "'m going to wear"
+      ],
+      "points": 1,
+      "explanation": "For a plan we use am/is/are + going to + verb: I am going to wear it."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Linking words: so",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "I wore",
+        "it was",
+        "so",
+        "my new scarf",
+        "cold"
+      ],
+      "answers": [
+        "It was cold, so I wore my new scarf."
+      ],
+      "points": 1,
+      "explanation": "\"So\" introduces a result: It was cold (reason), so I wore my scarf (result)."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Some / any",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I don't need some more scarves now!",
+      "answers": [
+        "I don't need any more scarves now!"
+      ],
+      "points": 1,
+      "explanation": "In negative sentences we use \"any\", not \"some\": I don't need any more."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Past simple: regular verbs",
+      "prompt": "Choose the correct answer.",
+      "text": "Thank you for inviting me. I really ___ the dinner last night.",
+      "options": [
+        "enjoyed",
+        "enjoy",
+        "enjoying",
+        "enjoys"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Last night\" is in the past, so we use the past simple: enjoy - enjoyed."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Object pronouns",
+      "prompt": "Complete the sentence with one word.",
+      "text": "Thank you for the books. I love ___ all!",
+      "answers": [
+        "them"
+      ],
+      "points": 1,
+      "explanation": "We use the object pronoun \"them\" for plural things: the books - them."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Adverbs of frequency",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "wear",
+        "always",
+        "to school",
+        "it",
+        "I"
+      ],
+      "answers": [
+        "I always wear it to school."
+      ],
+      "points": 1,
+      "explanation": "Adverbs of frequency go before the main verb: I always wear it."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Prepositions of time",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I opened your present in my birthday.",
+      "answers": [
+        "I opened your present on my birthday."
+      ],
+      "points": 1,
+      "explanation": "We use \"on\" with special days and dates: on my birthday, on 5th May."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct answer.",
+      "text": "When your parcel arrived, I ___ my homework.",
+      "options": [
+        "did",
+        "was doing",
+        "am doing",
+        "were doing"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "We use the past continuous for an action in progress when something else happened: I was doing my homework."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Past simple: negatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I didn't expected such a nice present.",
+      "answers": [
+        "I didn't expect such a nice present."
+      ],
+      "points": 1,
+      "explanation": "After \"didn't\" we use the base verb: didn't expect, not \"didn't expected\"."
+    }
+  ],
+  "task": {
+    "genre": "Note",
+    "prompt": "Your aunt sent you a present for your birthday. Write a thank-you note to her.",
+    "contentPoints": [
+      "Thank her and say what the present is.",
+      "Say why you like it.",
+      "Say when you used it.",
+      "Invite her to visit or suggest meeting soon."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "Dear Aunt ...,",
+      "Thank you very much for ...",
+      "I love it because ...",
+      "I wore/used it ...",
+      "Please come and visit us soon.",
+      "Love,"
+    ],
+    "modelAnswer": "Dear Aunt Rosa,\n\nThank you very much for the beautiful blue scarf. It was the best present of my birthday! I love it because blue is my favourite colour. I wore it to school yesterday and all my friends liked it. It is warmer than my old scarf, too.\n\nPlease come and visit us soon. Mum is going to make your favourite cake.\n\nLove,\nEmma"
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "id": "a-day-without-electricity",
+  "title": "A Day Without Electricity",
+  "level": "A2 · Elementary",
+  "description": "A family spends a whole day without power after a storm.",
+  "instructions": "Read the text about a day without electricity, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Last winter, there was a big storm in our town. In the morning, the electricity stopped working in every house on our street. We could not use the lights, the TV or the computer. My brother Sam and I could not charge our phones either."
+    },
+    {
+      "id": "p2",
+      "text": "At first, Sam was very unhappy. 'What can we do all day?' he asked. My mother found some old board games in a box under the bed. We sat at the kitchen table and played for hours."
+    },
+    {
+      "id": "p3",
+      "text": "We could not use the electric cooker, so my father made a fire in the garden. We cooked sausages and potatoes on it for lunch. It was cold outside, but the food tasted wonderful. Our neighbour, Mrs Green, came and ate with us."
+    },
+    {
+      "id": "p4",
+      "text": "In the evening, we lit candles and my grandfather told us stories about his childhood. The electricity came back at ten o'clock at night. Sam looked at his phone, then put it down again. 'That was a good day,' he said quietly."
+    },
+    {
+      "id": "p5",
+      "text": "The next morning, the electricity was working and the house was warm again. But at breakfast, Sam asked a strange question. Usually he loved his phone more than anything, so we were very surprised. 'Can we have a day with no electricity every month?' My parents looked at each other and laughed. Then my father said, 'Why not? Let's try it on the first Sunday of every month.'"
+    },
+    {
+      "id": "p6",
+      "text": "So now we have our 'dark Sunday' once a month. We turn off the TV, the computers and our phones. We play games, read books and go for long walks in the park. In the evening, we all cook dinner together, and everyone helps. Sometimes we invite Mrs Green for lunch, and she brings a big apple pie. She says our family is quieter and friendlier than before."
+    },
+    {
+      "id": "p7",
+      "text": "Of course, it is not always easy. Last month it was very hot, and we really wanted to use the fan, but we went swimming in the river instead. My grandfather now knows more games than anyone, and he is teaching us to play chess. I think our dark Sundays are better than a normal weekend. Sam agrees, but he still checks his phone at ten o'clock at night!"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "How to fix electricity after a storm",
+        "Mrs Green's garden",
+        "How a family spent a day after the power went off",
+        "Why phones are bad for children"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text tells what the family did during a day without electricity.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "the electricity stopped working in every house on our street"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What did the family do in the morning?",
+      "options": [
+        "They played board games",
+        "They watched TV",
+        "They went to the shops",
+        "They cooked sausages"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Their mother found old board games and they played for hours at the kitchen table.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "We sat at the kitchen table and played for hours."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "purpose",
+      "text": "Why does the writer say \"We could not use the electric cooker\"?",
+      "options": [
+        "To show that the family was very poor",
+        "To explain why the father made a fire in the garden",
+        "To explain why Mrs Green was cold",
+        "To show that the cooker was new"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Because the cooker did not work, the father made a fire to cook lunch.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "We could not use the electric cooker, so my father made a fire in the garden."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"unhappy\" is closest in meaning to...",
+      "options": [
+        "hungry",
+        "excited",
+        "tired",
+        "sad"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Sam did not know what to do without electricity, so he was sad.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "At first, Sam was very unhappy."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "How did Sam feel at the end of the day?",
+      "options": [
+        "He was angry about his phone",
+        "He enjoyed the day more than he expected",
+        "He wanted to play more games on his phone",
+        "He was afraid of the dark"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He put his phone down and said it was a good day, so he enjoyed it after all.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Sam looked at his phone, then put it down again."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "'That was a good day,' he said quietly."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "When did the electricity come back?",
+      "options": [
+        "In the afternoon",
+        "At lunchtime",
+        "At ten o'clock at night",
+        "The next morning"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The electricity came back at ten o'clock at night.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "The electricity came back at ten o'clock at night."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What could the writer and Sam not do with their phones?",
+      "options": [
+        "Find them",
+        "Charge them",
+        "Sell them",
+        "Lend them to Mrs Green"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There was no electricity, so they could not charge their phones.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "My brother Sam and I could not charge our phones either."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What can we say about the storm?",
+      "options": [
+        "It caused problems for many families on the street",
+        "It only damaged the writer's house",
+        "It happened in the summer",
+        "It broke all the family's phones"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The electricity stopped in every house on the street, so many families had the same problem.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "the electricity stopped working in every house on our street"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Where did the mother find the board games?",
+      "options": [
+        "In a kitchen cupboard",
+        "At Mrs Green's house",
+        "In a box under the bed",
+        "In the garden"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The mother found the old board games in a box under the bed.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "My mother found some old board games in a box under the bed."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"wonderful\" is closest in meaning to...",
+      "options": [
+        "very good",
+        "very cold",
+        "strange",
+        "too salty"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Even though it was cold, the food tasted very good.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "It was cold outside, but the food tasted wonderful."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"childhood\" means...",
+      "options": [
+        "a story for small children",
+        "a house for children",
+        "the time when a person is a child",
+        "a game that children play"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The grandfather told stories about the time when he was a child.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "my grandfather told us stories about his childhood"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What did Sam ask at breakfast the next morning?",
+      "options": [
+        "If they could buy a new phone",
+        "If the storm was going to come back",
+        "If Mrs Green could have breakfast with them",
+        "If they could have a day with no electricity every month"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Sam asked if they could have a day with no electricity every month.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "'Can we have a day with no electricity every month?'"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "purpose",
+      "text": "Why does the writer say \"My parents looked at each other and laughed\"?",
+      "options": [
+        "To show that Sam's question surprised them",
+        "To show that they were angry with Sam",
+        "To explain why breakfast was late",
+        "To show that they did not hear Sam"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sam usually loves his phone, so his question was a surprise, and the parents laughed.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "My parents looked at each other and laughed."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What does the family turn off on a \"dark Sunday\"?",
+      "options": [
+        "Only the lights in the house",
+        "The cooker and the fridge",
+        "The heating in every room",
+        "The TV, the computers and their phones"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "On dark Sundays they turn off the TV, the computers and their phones.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "We turn off the TV, the computers and our phones."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What does Mrs Green think about the dark Sundays?",
+      "options": [
+        "They are boring for the children",
+        "They are good for the family",
+        "They are too cold in winter",
+        "They are a waste of time"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the family is quieter and friendlier than before, so she thinks the change is good.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "She says our family is quieter and friendlier than before."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"quieter\" means...",
+      "options": [
+        "more tired",
+        "more hungry",
+        "busier",
+        "making less noise"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Quieter is the comparative of quiet: making less noise.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "our family is quieter and friendlier than before"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What can we understand from \"it is not always easy\" in paragraph 7?",
+      "options": [
+        "The family wants to stop the dark Sundays",
+        "Sometimes the family misses having electricity",
+        "The games are too difficult for Sam",
+        "The river is too far from their house"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "On a very hot day they really wanted to use the fan, so sometimes they miss electricity.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Last month it was very hot, and we really wanted to use the fan"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What did the family do on the very hot day?",
+      "options": [
+        "They used the fan",
+        "They stayed in bed all day",
+        "They went swimming in the river",
+        "They went to the cinema"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They wanted to use the fan, but they went swimming in the river instead.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "we went swimming in the river instead"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"agrees\" means Sam...",
+      "options": [
+        "has the same opinion",
+        "is very angry",
+        "does not understand",
+        "wants to leave"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sam has the same opinion as the writer: dark Sundays are better than a normal weekend.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Sam agrees"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why does the writer say Sam \"still checks his phone at ten o'clock at night\"?",
+      "options": [
+        "To show that Sam's phone is broken",
+        "To explain why Sam goes to bed late",
+        "To show that Sam hates dark Sundays",
+        "To end with a funny link to the time the power came back"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "On the first day the electricity came back at ten o'clock, so this is a funny link to that night.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "he still checks his phone at ten o'clock at night!"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "The electricity came back at ten o'clock at night."
+        }
+      ]
+    }
+  ]
+}

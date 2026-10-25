@@ -1,0 +1,447 @@
+{
+  "id": "moving-to-a-new-town",
+  "title": "Moving to a New Town",
+  "level": "A2 · Elementary",
+  "description": "A girl moves to a new town and slowly makes friends.",
+  "instructions": "Read the text about moving to a new town, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "In March, Sofia's family moved from a big city to a small town by the sea. Her mother got a new job at the hospital there. Sofia was twelve, and she did not want to leave her old school. She cried when she said goodbye to her best friend, Clara."
+    },
+    {
+      "id": "p2",
+      "text": "The first week at the new school was difficult. Sofia did not know anyone, and she ate her lunch alone. The other students were not unkind, but they already had their own friends. In the evenings, she called Clara and talked for a long time."
+    },
+    {
+      "id": "p3",
+      "text": "Then the music teacher asked Sofia to join the school choir. At the first practice, a girl called Nadia sat next to her. Nadia was also new in town, and she loved singing too. They walked home together after practice and laughed all the way."
+    },
+    {
+      "id": "p4",
+      "text": "Now Sofia has three good friends, and she likes her new town. On Saturdays, they swim in the sea or ride their bikes along the beach. She still calls Clara every week. In the summer, Clara is coming to stay with her for a week."
+    },
+    {
+      "id": "p5",
+      "text": "In July, Clara arrived by train for her visit. Sofia showed her the little harbour, the market and her favourite ice cream shop. Clara was surprised because the town was so quiet and clean. 'It is much nicer than I thought,' she said. Nadia and the other girls took Clara to the beach, and they all became friends quickly."
+    },
+    {
+      "id": "p6",
+      "text": "One evening, Clara asked Sofia a question. 'Do you want to come back to the city?' Sofia thought for a long time. She missed the big shops and her old school a little. But she loved the sea, her new friends and the choir. 'No,' she said. 'I think this is my home now.'"
+    },
+    {
+      "id": "p7",
+      "text": "At the end of the week, Sofia and her mother took Clara to the station. The two girls hugged and promised to write letters, not only messages. Clara is going to come again at Christmas, and Sofia is going to visit the city in the spring. On the way home, Sofia's mother smiled. 'You were so sad in March,' she said. 'Now look at you!'"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Why Sofia's mother works at a hospital",
+        "How Sofia got used to life in a new town",
+        "A singing competition at school",
+        "A holiday by the sea"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text follows Sofia from being sad about moving to having friends and liking the town.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Sofia's family moved from a big city to a small town by the sea"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "she likes her new town"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Why did Sofia's family move?",
+      "options": [
+        "Sofia wanted to live by the sea",
+        "Her old school closed",
+        "Her mother got a new job",
+        "Clara moved away"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They moved because her mother got a new job at the hospital in the town.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Her mother got a new job at the hospital there."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "How did Sofia feel in her first week at the new school?",
+      "options": [
+        "Lonely",
+        "Excited",
+        "Angry with her teacher",
+        "Very popular"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She did not know anyone and ate lunch alone, so she felt lonely.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Sofia did not know anyone, and she ate her lunch alone."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, a \"choir\" is...",
+      "options": [
+        "a kind of sports team",
+        "a room for eating lunch",
+        "a music shop",
+        "a group of people who sing together"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Sofia and Nadia both loved singing and went to choir practice, so a choir is a singing group.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "asked Sofia to join the school choir"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "she loved singing too"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention that Nadia was also new in town?",
+      "options": [
+        "To show that many families move to the town",
+        "To explain why Nadia could not sing well",
+        "To explain why the two girls understood each other and became friends",
+        "To show that Nadia knew Clara"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Both girls were new and both loved singing, which helped them become friends quickly.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Nadia was also new in town, and she loved singing too."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What do Sofia and her friends do on Saturdays?",
+      "options": [
+        "They sing in the choir",
+        "They swim in the sea or ride bikes on the beach",
+        "They visit Clara",
+        "They work at the hospital"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "On Saturdays they swim in the sea or ride their bikes along the beach.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "On Saturdays, they swim in the sea or ride their bikes along the beach."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "How old was Sofia when her family moved?",
+      "options": [
+        "Ten",
+        "Fourteen",
+        "Sixteen",
+        "Twelve"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Sofia was twelve when they moved.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Sofia was twelve"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did Sofia do in the evenings during her first week?",
+      "options": [
+        "She called Clara and talked for a long time",
+        "She practised with the choir",
+        "She swam in the sea",
+        "She did homework with Nadia"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "In the evenings, she called Clara and talked for a long time.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In the evenings, she called Clara and talked for a long time."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"unkind\" means...",
+      "options": [
+        "not clever",
+        "not busy",
+        "not nice to other people",
+        "not tired"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The other students were not unkind; they just had their own friends.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The other students were not unkind"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Who asked Sofia to join the school choir?",
+      "options": [
+        "The music teacher",
+        "Nadia",
+        "Her mother",
+        "Clara"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The music teacher asked Sofia to join the choir.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Then the music teacher asked Sofia to join the school choir."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"practice\" means...",
+      "options": [
+        "a lesson about history",
+        "a big concert for parents",
+        "a test at the end of the year",
+        "a time when people meet to get better at something"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The choir meets for practice so the singers get better.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "At the first practice, a girl called Nadia sat next to her."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "How did Clara travel to Sofia's town?",
+      "options": [
+        "By car",
+        "By bus",
+        "By train",
+        "By plane"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Clara arrived by train in July.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "In July, Clara arrived by train for her visit."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"harbour\" means...",
+      "options": [
+        "a big shop in the town centre",
+        "a place where boats stay near the land",
+        "a small park with trees",
+        "a station for trains"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The town is by the sea, and a harbour is where boats stay.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Sofia showed her the little harbour"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What did Clara think of the town before her visit?",
+      "options": [
+        "She thought it was too big and busy",
+        "She already knew it very well",
+        "She thought it had no sea",
+        "She did not expect it to be very nice"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She said it was much nicer than she thought, so she expected less.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "'It is much nicer than I thought,'"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What can we say about Nadia and the other girls?",
+      "options": [
+        "They did not want to meet Clara",
+        "They were friendly to Clara",
+        "They were jealous of Clara",
+        "They did not like the beach"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They took Clara to the beach and they all became friends quickly.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Nadia and the other girls took Clara to the beach, and they all became friends quickly."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer say \"Sofia thought for a long time\"?",
+      "options": [
+        "To show that Clara's question was not easy for her",
+        "To show that Sofia did not hear the question",
+        "To show that Sofia was angry with Clara",
+        "To explain why Sofia was tired"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sofia still missed some things in the city, so it was hard to answer.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Sofia thought for a long time."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What does Sofia miss about the city?",
+      "options": [
+        "The sea and the beach",
+        "The big shops and her old school",
+        "The choir and her music teacher",
+        "Her bike and her house"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She missed the big shops and her old school a little.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "She missed the big shops and her old school a little."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"promised\" means the girls...",
+      "options": [
+        "forgot to do it",
+        "asked someone else to do it",
+        "did not want to do it",
+        "said they would really do it"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They said they would really write letters to each other.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "promised to write letters, not only messages"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer mention Clara's visit at Christmas and Sofia's visit in the spring?",
+      "options": [
+        "To show that Sofia is moving back to the city",
+        "To explain why Clara cried at the station",
+        "To show that their friendship is going to continue",
+        "To show that Clara does not like the town"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They are planning more visits, so they are going to stay friends.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Clara is going to come again at Christmas, and Sofia is going to visit the city in the spring."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What can we understand from the mother's words at the end?",
+      "options": [
+        "Sofia has changed a lot since they moved",
+        "Sofia is still sad about the move",
+        "The mother wants to move again",
+        "The mother is angry with Sofia"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sofia was sad in March, but now she is happy in the new town.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "'You were so sad in March,' she said. 'Now look at you!'"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "id": "translation-and-untranslatability",
+  "title": "The Myth and Reality of the Untranslatable",
+  "level": "C2 · Proficiency",
+  "description": "An essay examining claims that some words and texts cannot be translated, and what translators actually do.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Lists of so-called untranslatable words enjoy a perennial popularity. A term from one language that designates the particular melancholy of a rainy Sunday, another that names the look shared between two people each hoping the other will speak first: such items are offered as evidence that languages carve up experience in incommensurable ways, and that something precious inevitably perishes whenever meaning crosses a linguistic border. The appeal of these lists is understandable, but the conclusion they are made to support is considerably less secure than their charm suggests."
+    },
+    {
+      "id": "p2",
+      "text": "The most obvious objection is that the very lists which proclaim a word untranslatable proceed to translate it, usually in a phrase or a sentence. What is absent is not the meaning but a single lexical item that conveys it with comparable economy. That a concept requires a periphrasis in one language and a single word in another tells us something about which distinctions a culture has found it convenient to lexicalise; it does not establish that speakers of the second language are incapable of grasping the concept."
+    },
+    {
+      "id": "p3",
+      "text": "Translators themselves tend to be impatient with the rhetoric of impossibility, not because they deny that difficulties exist, but because they encounter them daily and resolve them as a matter of professional routine. A pun may be replaced with a different pun; a culturally specific allusion may be glossed, transposed or quietly omitted; the rhythm of a line of verse may be sacrificed to its sense, or vice versa. Each solution involves loss, but also, frequently, invention. The translated text is not a degraded copy but a new work standing in a particular relation to its source."
+    },
+    {
+      "id": "p4",
+      "text": "None of this means that translation is a neutral transfer of content. Some theorists have emphasised that every translation embodies choices about how far to domesticate a foreign text, smoothing it into the idioms of the target language, and how far to preserve its strangeness. A fluent translation may read pleasantly while erasing precisely those features that made the original distinctive; a deliberately foreignising one may preserve them at the cost of readability. Neither strategy is innocent, and each carries implicit assumptions about the reader and about the relative standing of the cultures involved."
+    },
+    {
+      "id": "p5",
+      "text": "Where untranslatability has a stronger claim is in philosophical and literary texts whose force depends on the interplay of particular words. A philosophical argument that turns on the double meaning of a term, or a poem whose effect depends on the sound of its syllables, may resist reproduction more stubbornly. Even here, however, the more fruitful response has often been not to abandon the attempt but to multiply it, so that several translations, read together, illuminate dimensions of the original that no single version could capture."
+    },
+    {
+      "id": "p6",
+      "text": "Seen in this light, untranslatability is perhaps best understood not as a wall but as a horizon: a limit that recedes as one approaches it, that can never be finally reached, and that nonetheless orients the whole enterprise. To translate is to accept that something will be lost while insisting that something worth having can still be carried across."
+    },
+    {
+      "id": "p7",
+      "text": "The distinction between domesticating and foreignising strategies has a long pedigree. In a lecture delivered in 1813, the German theologian Friedrich Schleiermacher argued that a translator may either leave the author undisturbed and move the reader towards him, or leave the reader undisturbed and move the author towards the reader, and that attempts to mix the two are liable to fail. More recently, the translation theorist Lawrence Venuti has contended that the preference for fluent, domesticating translation in the English-speaking world renders the translator invisible, fostering the illusion that the reader is encountering the original rather than a mediated version of it. Whether or not one accepts his diagnosis in full, it serves as a salutary reminder that the smoothness admired by reviewers may itself be an effect of choices that deserve scrutiny."
+    },
+    {
+      "id": "p8",
+      "text": "The rapid improvement of machine translation has given these debates fresh relevance. Systems trained on vast bodies of parallel text now produce versions of everyday prose that are, for many practical purposes, serviceable, and their existence has done more than any argument to undermine the claim that translation is impossible. Yet their characteristic strengths and weaknesses are instructive. Because such systems tend to favour the most statistically probable rendering, they excel at the conventional and struggle with the idiosyncratic, smoothing away ambiguities, wordplay and deliberate oddities of style. In this sense they may be thought of as domesticating by default. Some observers worry that as more text passes through them, the range of expression available in target languages could gradually narrow, although the extent of any such effect remains, at present, uncertain."
+    },
+    {
+      "id": "p9",
+      "text": "It is telling that one of the most ambitious recent projects in this field, a dictionary of philosophical terms edited by Barbara Cassin, took untranslatables as its organising theme while treating them not as words that cannot be translated but as words that are translated again and again, never to complete satisfaction. The definition captures something essential. The untranslatable is less a fixed property of certain words than a symptom of their richness, the mark of a meaning that continues to provoke new attempts. On this understanding, the lists with which this essay began are not wrong to celebrate such words; they are wrong only in supposing that celebration requires us to declare the work of translation futile."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the writer's central argument?",
+      "options": [
+        "Translation is impossible because languages divide experience in incompatible ways.",
+        "Untranslatability is best seen as a limit that shapes translation rather than a barrier that prevents it.",
+        "Lists of untranslatable words are entirely worthless.",
+        "Fluent translations are always superior to foreignising ones."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer rejects the rhetoric of impossibility while acknowledging loss, concluding with the image of a horizon.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "untranslatability is perhaps best understood not as a wall but as a horizon"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, what is actually missing when a word is called untranslatable?",
+      "options": [
+        "The meaning of the word.",
+        "Any way of expressing the concept in the other language.",
+        "A single word that expresses the meaning as concisely.",
+        "Speakers who have experienced the emotion described."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The meaning can be conveyed; what is lacking is a single lexical item with the same economy.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "What is absent is not the meaning but a single lexical item that conveys it with comparable economy."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"periphrasis\" most nearly means",
+      "options": [
+        "a roundabout expression using several words",
+        "a grammatical error",
+        "a borrowed foreign term",
+        "a figure of speech based on sound"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The contrast is with \"a single word\": a periphrasis expresses something indirectly in more words.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "a concept requires a periphrasis in one language and a single word in another"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "Why are translators described as \"impatient with the rhetoric of impossibility\"?",
+      "options": [
+        "Because they believe translation involves no real difficulties.",
+        "Because they consider literary texts too trivial to discuss.",
+        "Because they prefer to omit difficult passages rather than translate them.",
+        "Because their daily experience shows that difficulties, though real, can be practically resolved."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer specifies that their impatience is \"not because they deny that difficulties exist\" but because they routinely resolve them.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "not because they deny that difficulties exist, but because they encounter them daily and resolve them as a matter of professional routine"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "According to paragraph 4, what is a possible drawback of a fluent translation?",
+      "options": [
+        "It may remove the very features that made the original distinctive.",
+        "It is usually harder for readers to understand.",
+        "It always reflects a lack of respect for the source culture.",
+        "It preserves too much of the original's strangeness."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A fluent translation may read pleasantly while erasing distinctive features. \"Always\" overgeneralises the writer's claim.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "A fluent translation may read pleasantly while erasing precisely those features that made the original distinctive"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "What is the purpose of paragraph 4 in the development of the argument?",
+      "options": [
+        "To retract the claim that translation is possible.",
+        "To qualify the preceding defence of translation by acknowledging that it is never a neutral process.",
+        "To prove that foreignising translations are always better.",
+        "To introduce a new list of untranslatable words."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Having defended translation, the writer adds the caveat \"None of this means that translation is a neutral transfer of content.\"",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "None of this means that translation is a neutral transfer of content."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What does the writer suggest about texts whose effect depends on the interplay of particular words?",
+      "options": [
+        "They should not be translated at all.",
+        "They can be fully captured by a single sufficiently skilled translator.",
+        "Multiple translations considered together may reveal more of them than any one version.",
+        "Their difficulty has been greatly exaggerated by theorists."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer advocates multiplying translations so that together they illuminate the original.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "several translations, read together, illuminate dimensions of the original that no single version could capture"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "purpose",
+      "text": "Why does the writer use the image of a \"horizon\" in the final paragraph?",
+      "options": [
+        "To suggest that translation will eventually become perfect with technological progress.",
+        "To indicate that translators should stop before reaching difficult passages.",
+        "To argue that the limits of translation are imaginary.",
+        "To convey that perfect translation is unattainable yet still gives the activity its direction."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "A horizon is never reached but \"nonetheless orients the whole enterprise\".",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "that can never be finally reached, and that nonetheless orients the whole enterprise"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"incommensurable\" is closest in meaning to",
+      "options": [
+        "enormous",
+        "unmeasurable by any common standard",
+        "temporary",
+        "unpronounceable"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Incommensurable\" describes things that cannot be compared by a shared measure.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "languages carve up experience in incommensurable ways"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 7, what choice did Schleiermacher say a translator faces?",
+      "options": [
+        "Whether to move the reader towards the author or the author towards the reader.",
+        "Whether to translate literally or freely, ideally combining both approaches.",
+        "Whether to translate poetry or prose.",
+        "Whether to work alone or with the original author."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Schleiermacher described these two directions and warned that mixing them is liable to fail, which rules out the second option.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "leave the author undisturbed and move the reader towards him, or leave the reader undisturbed and move the author towards the reader"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does Venuti's argument imply about fluent, domesticating translation?",
+      "options": [
+        "It is always inaccurate.",
+        "It tends to make translators famous.",
+        "It is less popular with readers than foreignising translation.",
+        "It can conceal the translator's role, giving readers the false impression that they are reading the original."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Fluency renders the translator invisible and fosters the illusion of reading the original. The first option overgeneralises.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "renders the translator invisible, fostering the illusion that the reader is encountering the original"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"salutary\" is closest in meaning to",
+      "options": [
+        "polite",
+        "alarming",
+        "beneficial",
+        "brief"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A salutary reminder is a useful or beneficial one, even if not entirely welcome.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "it serves as a salutary reminder"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "What is the writer's attitude towards Venuti's diagnosis?",
+      "options": [
+        "The writer values it as a reminder without necessarily accepting it in full.",
+        "The writer rejects it as entirely mistaken.",
+        "The writer accepts it without any reservation.",
+        "The writer considers it irrelevant to English-language publishing."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "'Whether or not one accepts his diagnosis in full', the writer finds it a useful reminder.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Whether or not one accepts his diagnosis in full"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 8, what are the characteristic strengths and weaknesses of machine translation?",
+      "options": [
+        "It excels at wordplay but struggles with everyday prose.",
+        "It struggles with conventional language but handles stylistic oddities well.",
+        "It excels at the conventional and struggles with the idiosyncratic.",
+        "It works well only for poetry and philosophical texts."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Favouring the most probable rendering, it handles the conventional well but smooths away the idiosyncratic.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "they excel at the conventional and struggle with the idiosyncratic"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "purpose",
+      "text": "Why does the writer describe machine translation systems as \"domesticating by default\"?",
+      "options": [
+        "To praise their fluency.",
+        "To argue that they should not be used.",
+        "To show that they preserve the strangeness of foreign texts.",
+        "To link their tendency to smooth away oddities with the domesticating strategy discussed earlier."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The phrase connects machine translation to the domesticating strategy introduced in paragraph 4 and paragraph 7.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "In this sense they may be thought of as domesticating by default."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What does the writer suggest about the effect of machine translation on the claim that translation is impossible?",
+      "options": [
+        "It has confirmed the claim.",
+        "It has seriously undermined the claim.",
+        "It has no bearing on the claim.",
+        "It has proved that all translation can now be automated."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Its existence 'has done more than any argument to undermine' the claim. The last option overgeneralises.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "their existence has done more than any argument to undermine the claim that translation is impossible"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "How does the writer regard the worry that machine translation could narrow the range of expression in target languages?",
+      "options": [
+        "As plausible but not yet established.",
+        "As confirmed by extensive research.",
+        "As absurd and not worth considering.",
+        "As disproved by recent studies."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer reports the worry but notes that the extent of any such effect 'remains, at present, uncertain'.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "although the extent of any such effect remains, at present, uncertain"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 9, how did the dictionary edited by Barbara Cassin treat untranslatables?",
+      "options": [
+        "As words that cannot be translated at all.",
+        "As words that translators should avoid.",
+        "As words best handled by machine translation.",
+        "As words that are translated again and again, never to complete satisfaction."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The dictionary treated them as words repeatedly translated, not as words that cannot be translated.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "as words that are translated again and again, never to complete satisfaction"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "vocabulary",
+      "text": "In paragraph 9, the word \"futile\" is closest in meaning to",
+      "options": [
+        "difficult",
+        "expensive",
+        "pointless",
+        "temporary"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Declaring translation futile would mean declaring it pointless.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "declare the work of translation futile"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main point of the final paragraph?",
+      "options": [
+        "Lists of untranslatable words are wrong in every respect.",
+        "Untranslatability signals a word's richness and invites repeated translation rather than proving translation futile.",
+        "Cassin's dictionary proves that some words cannot be translated.",
+        "Philosophical terms should always be left in their original language."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The untranslatable is 'a symptom of their richness'; the lists are wrong only in declaring translation futile.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "The untranslatable is less a fixed property of certain words than a symptom of their richness"
+        }
+      ]
+    }
+  ]
+}

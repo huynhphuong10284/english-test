@@ -1,0 +1,451 @@
+{
+  "id": "automation-and-the-future-of-work",
+  "title": "Will the Robots Take Our Jobs?",
+  "level": "C1 · Advanced",
+  "description": "An article on automation, employment and the choices that will shape the future of work.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Anxiety about machines replacing human workers is as old as industrialisation itself. In the early nineteenth century, English textile workers known as Luddites destroyed the mechanised machinery that threatened their livelihoods, and similar fears have resurfaced with almost every subsequent wave of technological change. Today, advances in robotics and artificial intelligence have revived the debate with renewed intensity, as machines become capable of performing tasks that were long thought to require distinctly human abilities."
+    },
+    {
+      "id": "p2",
+      "text": "Historically, the most pessimistic predictions have not been borne out. Although technology has destroyed many specific occupations, it has also created new ones, frequently in industries that could scarcely have been imagined beforehand. Rising productivity has made goods cheaper, increasing demand and generating employment elsewhere in the economy. As a result, the proportion of people in work has not declined over the long term, despite centuries of mechanisation."
+    },
+    {
+      "id": "p3",
+      "text": "Some economists argue, however, that the current wave of automation may differ from its predecessors. Earlier machines largely replaced physical labour, whereas modern software can increasingly perform cognitive tasks, such as analysing documents, translating text or diagnosing faults. Many analysts now find it more useful to think in terms of tasks rather than entire jobs: most occupations consist of a mixture of activities, only some of which are readily automated, so technology tends to reshape jobs rather than abolish them outright."
+    },
+    {
+      "id": "p4",
+      "text": "Even if overall employment holds up, the transition may be painful. Workers whose skills are made obsolete do not necessarily find it easy to move into the new jobs that technology creates, which may require different qualifications or be located in different regions. There is also evidence that automation has contributed to a polarisation of the labour market, with growth in both highly paid and poorly paid work but a hollowing out of middle-income routine occupations."
+    },
+    {
+      "id": "p5",
+      "text": "The consequences of automation are therefore not predetermined by technology alone; they depend substantially on the choices made by governments, businesses and educational institutions. Policies that support lifelong learning, assist workers in changing careers and ensure that the gains from higher productivity are widely shared could do much to determine whether automation leads to broad prosperity or to deepening inequality."
+    },
+    {
+      "id": "p6",
+      "text": "Education is often presented as the most promising response, but its role is more complicated than it first appears. If machines are becoming increasingly adept at routine cognitive work, then the skills least vulnerable to automation may be those that involve creativity, complex communication and the ability to deal with unpredictable situations. Schools and universities, however, have traditionally rewarded the accurate recall of information and the application of established procedures, precisely the kinds of tasks that software performs well. Retraining programmes for adults, moreover, have a mixed record: they tend to be most successful when they are closely linked to the needs of local employers, and least successful when they offer generic courses that bear little relation to the jobs actually available. Simply urging people to acquire new skills is therefore unlikely to be sufficient on its own."
+    },
+    {
+      "id": "p7",
+      "text": "The debate about automation has also tended to focus on the number of jobs at the expense of their quality. Digital technologies have made it possible to divide work into small, discrete tasks that can be allocated to workers on demand, often through online platforms. For some people, this arrangement offers welcome flexibility; for others, it means irregular income, an absence of the protections traditionally associated with employment, and constant monitoring by software that sets the pace of work and evaluates performance. In such cases, technology does not eliminate the worker but changes the balance of power between worker and employer. Whether these changes are regarded as progress depends partly on how labour law adapts, since many existing regulations were designed for an era in which employment typically meant a stable contract with a single organisation."
+    },
+    {
+      "id": "p8",
+      "text": "None of this means that the future of work is necessarily bleak. Technology has the potential to remove some of the most dangerous and tedious tasks from human hands, and to free people to concentrate on work that is more varied and rewarding. Shorter working weeks, once regarded as utopian, have been discussed more seriously in recent years as one possible way of distributing the benefits of higher productivity. The lesson of history, however, is that such benefits do not arrive automatically. They have generally been secured through deliberate institutional reforms, from the spread of public education to the regulation of working hours, and there is little reason to expect the present transition to be any different. The real question is less whether machines will change work than whether societies will actively shape that change or merely react to it."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best expresses the main idea of the passage?",
+      "options": [
+        "Automation will inevitably lead to mass unemployment.",
+        "Automation has never caused any job losses.",
+        "Only physical jobs are at risk from new technology.",
+        "The effects of automation on work are uncertain and will depend largely on how society chooses to respond."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer reviews history and current debates and concludes that outcomes depend on the choices of governments, businesses and educators.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The consequences of automation are therefore not predetermined by technology alone"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "purpose",
+      "text": "Why does the writer mention the Luddites in paragraph 1?",
+      "options": [
+        "To show that fears about machines replacing workers have a long history",
+        "To argue that destroying machines is an effective form of protest",
+        "To prove that textile workers lost their jobs permanently",
+        "To suggest that today's workers should resist artificial intelligence"
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The Luddites are an early example supporting the claim that such anxiety is as old as industrialisation.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Anxiety about machines replacing human workers is as old as industrialisation itself."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "According to paragraph 2, why has the proportion of people in work not fallen in the long term?",
+      "options": [
+        "Governments have banned the most disruptive technologies.",
+        "Technology has created new occupations, and cheaper goods have increased demand.",
+        "Workers have refused to use new machines.",
+        "Most occupations have never been affected by technology."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "New jobs have appeared, and higher productivity has lowered prices, increasing demand and employment elsewhere.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "it has also created new ones"
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "increasing demand and generating employment elsewhere in the economy"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "According to some economists, what distinguishes the current wave of automation?",
+      "options": [
+        "It is replacing entire occupations all at once.",
+        "It is slower than earlier waves of mechanisation.",
+        "It can increasingly perform cognitive rather than only physical tasks.",
+        "It affects only highly paid workers."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Earlier machines replaced mainly physical labour; modern software can perform cognitive tasks.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "modern software can increasingly perform cognitive tasks"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What does the task-based view described in paragraph 3 suggest?",
+      "options": [
+        "Most jobs will be fully automated within a decade.",
+        "Many workers are more likely to see their jobs change than disappear.",
+        "Only jobs with no routine tasks will survive.",
+        "Automation has no effect on the content of jobs."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Because only some tasks within a job can be automated, technology tends to reshape jobs rather than eliminate them.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "technology tends to reshape jobs rather than abolish them outright"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"obsolete\" is closest in meaning to:",
+      "options": [
+        "more valuable",
+        "highly specialised",
+        "temporarily unavailable",
+        "no longer useful"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Workers whose skills are no longer needed struggle to move into new jobs.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Workers whose skills are made obsolete"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the phrase \"hollowing out\" refers to:",
+      "options": [
+        "a shrinking of the middle",
+        "a rapid expansion",
+        "a rise in wages",
+        "a move to another region"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Growth at the top and bottom of the labour market, with middle-income jobs declining, empties out the middle.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "growth in both highly paid and poorly paid work but a hollowing out of middle-income routine occupations"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "Which statement would the writer most likely agree with?",
+      "options": [
+        "Technology alone determines the future of work.",
+        "Governments should try to halt automation.",
+        "Retraining and a fair distribution of gains can make automation more beneficial.",
+        "Education has little influence on the effects of automation."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer argues that lifelong learning, career support and widely shared gains could lead to broad prosperity.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Policies that support lifelong learning"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "ensure that the gains from higher productivity are widely shared"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises the argument of paragraphs 6 to 8?",
+      "options": [
+        "Better education alone will be enough to protect workers from the effects of automation.",
+        "Whether automation benefits workers depends on deliberate choices about education, labour law and how productivity gains are shared.",
+        "Automation will inevitably make work less secure and more closely monitored for everyone.",
+        "Rising productivity will automatically lead to shorter working hours and better jobs."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The final paragraphs examine education, job quality and working hours, concluding that benefits depend on deliberate reforms rather than arriving automatically.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "The lesson of history, however, is that such benefits do not arrive automatically."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, which skills may be least vulnerable to automation?",
+      "options": [
+        "Accurate recall of information and following established procedures",
+        "Routine cognitive work such as analysing and translating documents",
+        "Technical skills closely matched to the needs of local employers",
+        "Creativity, complex communication and dealing with unpredictable situations"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer suggests that creativity, complex communication and handling unpredictability are hardest for machines to replicate.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the skills least vulnerable to automation may be those that involve creativity, complex communication and the ability to deal with unpredictable situations"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does the writer imply about traditional schooling?",
+      "options": [
+        "It has already prepared most students well for an automated economy.",
+        "It should stop teaching factual knowledge altogether.",
+        "It has tended to reward abilities that software is increasingly able to replicate.",
+        "It matters less than retraining programmes for adults."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Schools have rewarded recall and the application of procedures, which the writer describes as exactly what software does well.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "precisely the kinds of tasks that software performs well"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 6, when are retraining programmes for adults most successful?",
+      "options": [
+        "When they are closely linked to the needs of local employers",
+        "When they offer broad courses suitable for almost any job",
+        "When they focus on creativity rather than practical skills",
+        "When they are delivered by schools and universities"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Programmes work best when tied to local employers and worst when generic.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "they tend to be most successful when they are closely linked to the needs of local employers"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"adept\" is closest in meaning to:",
+      "options": [
+        "limited",
+        "expensive",
+        "skilled",
+        "dependent"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Machines are becoming increasingly good at routine cognitive work.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "increasingly adept at routine cognitive work"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer open paragraph 7 by saying the debate has focused on \"the number of jobs at the expense of their quality\"?",
+      "options": [
+        "To introduce an aspect of automation that discussions have tended to overlook",
+        "To argue that the number of jobs no longer matters",
+        "To accuse economists of exaggerating future job losses",
+        "To restate the conclusion of the previous paragraph"
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The sentence shifts attention from how many jobs exist to what those jobs are like, a theme the paragraph then develops.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "The debate about automation has also tended to focus on the number of jobs at the expense of their quality."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, what drawbacks can on-demand platform work bring for some people?",
+      "options": [
+        "Less flexibility in choosing when and where to work",
+        "Irregular income, weaker protections and constant monitoring by software",
+        "Lower productivity than traditional forms of employment",
+        "Long contracts that tie them to a single organisation"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraph lists irregular income, missing employment protections and software monitoring.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "it means irregular income, an absence of the protections traditionally associated with employment, and constant monitoring by software"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What does the writer suggest by saying that technology \"changes the balance of power between worker and employer\"?",
+      "options": [
+        "Platform workers now have more power than their employers.",
+        "Employers can no longer monitor how their workers perform.",
+        "Technology will eventually remove the need for employers.",
+        "Technology can affect workers' conditions and control over their work even when it does not remove their jobs."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The worker remains, but software-managed arrangements shift control and conditions, usually towards the employer.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "technology does not eliminate the worker but changes the balance of power between worker and employer"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 7 about existing labour regulations?",
+      "options": [
+        "They were written specifically with online platforms in mind.",
+        "They may fit poorly with work that does not involve a stable contract with one employer.",
+        "They already give platform workers adequate protection.",
+        "They are the main reason platform work has spread so quickly."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The rules were designed for stable employment with a single organisation, so they may not suit fragmented, on-demand work.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "many existing regulations were designed for an era in which employment typically meant a stable contract with a single organisation"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"utopian\" is closest in meaning to:",
+      "options": [
+        "practical and modest",
+        "dangerous and irresponsible",
+        "idealistic and unrealistic",
+        "old-fashioned and outdated"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Shorter working weeks were once seen as an attractive but impractical ideal.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Shorter working weeks, once regarded as utopian"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer mention \"the spread of public education\" and \"the regulation of working hours\"?",
+      "options": [
+        "As evidence that earlier technological changes caused no hardship",
+        "To argue that education matters more than regulation",
+        "To show that governments have usually resisted new technology",
+        "As historical examples of reforms through which the gains from technology were secured"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "They illustrate the claim that benefits have been won through deliberate institutional reform.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "They have generally been secured through deliberate institutional reforms, from the spread of public education to the regulation of working hours"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "Which potential benefit of technology is mentioned in paragraph 8?",
+      "options": [
+        "Taking some of the most dangerous and tedious tasks away from people",
+        "Guaranteeing a shorter working week for all employees",
+        "Making institutional reform unnecessary in the future",
+        "Ending economic inequality between different regions"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer says technology could remove dangerous and tedious tasks; shorter weeks are only discussed as a possibility.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Technology has the potential to remove some of the most dangerous and tedious tasks from human hands"
+        }
+      ]
+    }
+  ]
+}

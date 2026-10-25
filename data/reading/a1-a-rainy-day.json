@@ -1,0 +1,439 @@
+{
+  "id": "a-rainy-day",
+  "title": "A Rainy Day",
+  "level": "A1 · Beginner",
+  "description": "A girl finds fun things to do on a rainy day.",
+  "instructions": "Read the text about a rainy day, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Yesterday was a rainy day. Mia could not play in the garden. She stood at the window and looked at the grey sky."
+    },
+    {
+      "id": "p2",
+      "text": "Her dad had an idea. They made a little house with chairs and blankets in the living room. Mia read books inside it with a torch."
+    },
+    {
+      "id": "p3",
+      "text": "In the afternoon, the rain stopped. Mia put on her red boots. She jumped in the big puddles outside. Her boots got very wet, but she laughed."
+    },
+    {
+      "id": "p4",
+      "text": "Next, Mia looked up at the sky. She saw a big rainbow over the houses. It had many colours. Mia ran inside and called her dad. 'Dad, come and look!' she said. They stood in the garden and looked at it together."
+    },
+    {
+      "id": "p5",
+      "text": "Mia's boots and socks were very wet. Her feet were cold. Her dad said, 'Take them off, please.' He put her boots near the door. Then Mia put on dry socks and a warm pink jumper."
+    },
+    {
+      "id": "p6",
+      "text": "Then they made hot chocolate in the kitchen. Mia put three marshmallows in her cup. They sat on the sofa and drank it. Outside, it started to rain again, but Mia did not mind."
+    },
+    {
+      "id": "p7",
+      "text": "In the evening, Mia drew a picture of the rainbow for her mum. Her mum came home from work at six o'clock. She loved the picture and put it on the fridge. Mia said, 'I like rainy days now!'"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Mia's first day at school",
+        "A sunny day at the park",
+        "What Mia did on a rainy day",
+        "How to make chairs"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text tells us what Mia did on a rainy day, inside and outside.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Yesterday was a rainy day."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What did Mia and her dad make?",
+      "options": [
+        "A cake",
+        "A little house with chairs and blankets",
+        "A kite",
+        "A snowman"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They made a little house with chairs and blankets in the living room.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They made a little house with chairs and blankets in the living room."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What did Mia use to read inside the little house?",
+      "options": [
+        "A torch",
+        "A lamp",
+        "A phone",
+        "A candle"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mia read books inside it with a torch.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Mia read books inside it with a torch."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"puddles\" means...",
+      "options": [
+        "tall boxes",
+        "wet clothes",
+        "big trees",
+        "small pools of water on the ground"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Puddles\" are small pools of water on the ground after rain. Mia jumped in them and her boots got wet.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She jumped in the big puddles outside."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What colour were Mia's boots?",
+      "options": [
+        "Blue",
+        "Yellow",
+        "Red",
+        "Green"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mia put on her red boots.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Mia put on her red boots."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What could Mia not do in the morning?",
+      "options": [
+        "Play in the garden",
+        "Go to school",
+        "Watch TV",
+        "Eat lunch"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It was raining, so Mia could not play in the garden.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Mia could not play in the garden."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What colour was the sky?",
+      "options": [
+        "Blue",
+        "Grey",
+        "Black",
+        "White"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mia looked at the grey sky.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She stood at the window and looked at the grey sky."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Whose idea was the little house?",
+      "options": [
+        "Her mum's",
+        "Mia's",
+        "Her friend's",
+        "Her dad's"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Her dad had an idea, and they made a little house.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Her dad had an idea."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "When did the rain stop?",
+      "options": [
+        "In the afternoon",
+        "In the morning",
+        "In the evening",
+        "At night"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "In the afternoon, the rain stopped.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "In the afternoon, the rain stopped."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "How did Mia feel when she jumped in the puddles?",
+      "options": [
+        "Angry",
+        "Sad",
+        "Happy",
+        "Scared"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her boots got wet, but she laughed, so she was happy.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Her boots got very wet, but she laughed."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 4 mainly about?",
+      "options": [
+        "Mia loses her red boots",
+        "Mia and her dad look at a rainbow",
+        "Mia goes to school",
+        "Mia's dad cooks dinner"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 4 tells how Mia saw a rainbow and looked at it with her dad.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "They stood in the garden and looked at it together."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"rainbow\" means...",
+      "options": [
+        "a big dark cloud",
+        "a kind of bird",
+        "a tall tree",
+        "a curve of many colours in the sky"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A rainbow is a curve of colours in the sky. The text says it had many colours.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "She saw a big rainbow over the houses. It had many colours."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "Where did Mia see the rainbow?",
+      "options": [
+        "Over the school",
+        "Over the houses",
+        "Over the sea",
+        "In the living room"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She saw a big rainbow over the houses.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "She saw a big rainbow over the houses."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Where did Mia's dad put her boots?",
+      "options": [
+        "In the garden",
+        "Under the bed",
+        "On the sofa",
+        "Near the door"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He put her boots near the door.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "He put her boots near the door."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"dry\" means...",
+      "options": [
+        "not wet",
+        "very old",
+        "very big",
+        "dirty"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mia's socks were wet, so she put on dry socks, which are not wet.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Then Mia put on dry socks and a warm pink jumper."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "How many marshmallows did Mia put in her cup?",
+      "options": [
+        "Two",
+        "Four",
+        "Three",
+        "One"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mia put three marshmallows in her cup.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Mia put three marshmallows in her cup."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 6, \"Mia did not mind\" means...",
+      "options": [
+        "Mia was very angry",
+        "Mia was scared",
+        "Mia did not see it",
+        "Mia was not unhappy about it"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "It rained again, but this was not a problem for Mia. She was not unhappy about it.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Outside, it started to rain again, but Mia did not mind."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What did Mia draw for her mum?",
+      "options": [
+        "A picture of the rainbow",
+        "A picture of her dad",
+        "A picture of a dog",
+        "A picture of her boots"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "In the evening, Mia drew a picture of the rainbow for her mum.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "In the evening, Mia drew a picture of the rainbow for her mum."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What time did Mia's mum come home?",
+      "options": [
+        "At five o'clock",
+        "At six o'clock",
+        "At seven o'clock",
+        "At four o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her mum came home from work at six o'clock.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Her mum came home from work at six o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What does Mia think about rainy days at the end of the text?",
+      "options": [
+        "She hates them",
+        "She is scared of them",
+        "She likes them now",
+        "She thinks they are boring"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mia says, 'I like rainy days now!'",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Mia said, 'I like rainy days now!'"
+        }
+      ]
+    }
+  ]
+}

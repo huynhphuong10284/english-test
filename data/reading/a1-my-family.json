@@ -1,0 +1,439 @@
+{
+  "id": "my-family",
+  "title": "My Family",
+  "level": "A1 · Beginner",
+  "description": "A girl talks about the people in her family.",
+  "instructions": "Read the text about a family, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "My name is Lily and I am eight years old. I live in a small house with my family. There are five people in my family."
+    },
+    {
+      "id": "p2",
+      "text": "My dad is a cook. He makes very good soup. My mum is a nurse at the hospital. She helps sick people every day."
+    },
+    {
+      "id": "p3",
+      "text": "I have one brother and one sister. My brother, Sam, is ten. My sister, Rosa, is a baby. On Sundays, we all eat dinner together."
+    },
+    {
+      "id": "p4",
+      "text": "My brother Sam likes football. He plays every day after school. He is in a team at our school. Sometimes he plays with me in the garden. He is a good brother, but he is very noisy!"
+    },
+    {
+      "id": "p5",
+      "text": "My sister Rosa is only one year old. She cannot walk yet. She has big brown eyes and very little hair. She laughs when I sing to her. I love her very much."
+    },
+    {
+      "id": "p6",
+      "text": "My grandparents live in a house near the sea. They do not live with us. We visit them every summer. My grandpa has a small boat. He takes us out on the sea and we catch fish for dinner."
+    },
+    {
+      "id": "p7",
+      "text": "On Sundays, my dad cooks a big dinner. He makes soup, chicken and rice. My mum makes the salad and I help her. After dinner, we play a game together. I love Sundays with my family."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Lily's new school",
+        "Lily and her family",
+        "A day at the hospital",
+        "A cooking class"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lily talks about the people in her family in all three paragraphs.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I live in a small house with my family."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How many people are there in Lily's family?",
+      "options": [
+        "Three",
+        "Four",
+        "Six",
+        "Five"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says there are five people in her family.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "There are five people in my family."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What is Lily's mum's job?",
+      "options": [
+        "She is a nurse",
+        "She is a cook",
+        "She is a teacher",
+        "She is a doctor"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lily's mum is a nurse. Her dad is the cook.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "My mum is a nurse at the hospital."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"sick\" means...",
+      "options": [
+        "very happy",
+        "very tall",
+        "not well",
+        "very hungry"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Sick\" means not well. Nurses help people who are not well.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "She helps sick people every day."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "When does the family eat dinner together?",
+      "options": [
+        "On Saturdays",
+        "On Sundays",
+        "Every morning",
+        "On Fridays"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They all eat dinner together on Sundays.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "On Sundays, we all eat dinner together."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "How old is Lily?",
+      "options": [
+        "Eight",
+        "Ten",
+        "Nine",
+        "Seven"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lily says she is eight years old.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "My name is Lily and I am eight years old."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Where does Lily live?",
+      "options": [
+        "In a big flat",
+        "In a house near the sea",
+        "On a farm",
+        "In a small house"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Lily lives in a small house with her family.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I live in a small house with my family."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What is Lily's dad's job?",
+      "options": [
+        "He is a nurse",
+        "He is a teacher",
+        "He is a cook",
+        "He is a doctor"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lily's dad is a cook.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "My dad is a cook."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What does Lily's dad make very well?",
+      "options": [
+        "Soup",
+        "Cake",
+        "Bread",
+        "Pizza"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He makes very good soup.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He makes very good soup."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "How old is Lily's brother, Sam?",
+      "options": [
+        "Eight",
+        "One",
+        "Ten",
+        "Twelve"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her brother, Sam, is ten.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "My brother, Sam, is ten."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What sport does Sam like?",
+      "options": [
+        "Tennis",
+        "Swimming",
+        "Basketball",
+        "Football"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Sam likes football and plays every day after school.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "My brother Sam likes football."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"noisy\" means...",
+      "options": [
+        "very quiet",
+        "making a lot of loud sound",
+        "very tall",
+        "very lazy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Sam is noisy: he makes a lot of loud sound.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "He is a good brother, but he is very noisy!"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Lily's brother",
+        "Lily's grandparents",
+        "Lily's baby sister",
+        "Lily's new school"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 is all about Rosa, Lily's baby sister.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "My sister Rosa is only one year old."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "Why can Rosa not walk yet?",
+      "options": [
+        "She hurt her leg",
+        "She is very lazy",
+        "She is always tired",
+        "She is still a baby"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Rosa is only one year old, so she is still a baby and cannot walk yet.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "My sister Rosa is only one year old. She cannot walk yet."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "What colour are Rosa's eyes?",
+      "options": [
+        "Blue",
+        "Brown",
+        "Green",
+        "Black"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Rosa has big brown eyes.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "She has big brown eyes and very little hair."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "Where do Lily's grandparents live?",
+      "options": [
+        "In a house near the sea",
+        "In Lily's house",
+        "Next to the hospital",
+        "In a big city"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lily's grandparents live in a house near the sea.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "My grandparents live in a house near the sea."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"catch\" means...",
+      "options": [
+        "cook food",
+        "buy food",
+        "swim fast",
+        "take and hold an animal"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They catch fish: they take the fish out of the sea and hold them.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "we catch fish for dinner"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "When does Lily see her grandparents?",
+      "options": [
+        "In the summer",
+        "Every Sunday",
+        "Every day after school",
+        "Only at Christmas"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lily's grandparents do not live with her. The family visits them every summer.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "We visit them every summer."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "Who makes the salad on Sundays?",
+      "options": [
+        "Lily's dad",
+        "Sam",
+        "Lily's mum",
+        "Lily's grandpa"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lily's mum makes the salad and Lily helps her.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "My mum makes the salad and I help her."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "What does the family do after dinner on Sundays?",
+      "options": [
+        "They watch TV",
+        "They play a game together",
+        "They go for a walk",
+        "They go fishing"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After dinner, they play a game together.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "After dinner, we play a game together."
+        }
+      ]
+    }
+  ]
+}

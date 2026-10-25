@@ -1,0 +1,325 @@
+{
+  "id": "w-a-person-i-admire",
+  "title": "A Person I Admire",
+  "level": "B1 · Intermediate",
+  "description": "Practise the present perfect and relative clauses, then write an article about someone who inspires you.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Relative clauses: whose",
+      "prompt": "Choose the correct answer.",
+      "text": "My aunt is a doctor ___ work takes her all over the world.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"whose\" to show possession: a doctor whose work = a doctor + her work."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present perfect",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "She ___ (help) hundreds of people in her career.",
+      "answers": [
+        "has helped",
+        "'s helped"
+      ],
+      "points": 1,
+      "explanation": "Use the present perfect for experiences and achievements when we do not say exactly when: she has helped."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Relative clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "who",
+        "the person",
+        "is",
+        "I most admire",
+        "my grandmother"
+      ],
+      "answers": [
+        "The person who I most admire is my grandmother.",
+        "My grandmother is the person who I most admire."
+      ],
+      "points": 1,
+      "explanation": "The relative clause \"who I most admire\" comes straight after \"the person\"."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Present perfect vs past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "She has started her own company in 2015.",
+      "answers": [
+        "She started her own company in 2015."
+      ],
+      "points": 1,
+      "explanation": "With a past date like \"in 2015\", use the past simple: she started."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "She had very little money. ___, she never gave up.",
+      "options": [
+        "As a result",
+        "However",
+        "In addition",
+        "Because"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"However\" introduces something surprising or contrasting after the previous sentence."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Second conditional",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "If I ___ (be) as brave as her, I would travel the world.",
+      "answers": [
+        "were",
+        "was"
+      ],
+      "points": 1,
+      "explanation": "In the second conditional, use the past simple after \"if\". \"Were\" is used with all persons, especially in writing: If I were."
+    },
+    {
+      "id": "e7",
+      "type": "error-correction",
+      "focus": "Present perfect: for and since",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I have known her since five years.",
+      "answers": [
+        "I have known her for five years.",
+        "I've known her for five years."
+      ],
+      "points": 1,
+      "explanation": "Use \"for\" with a period of time (five years) and \"since\" with a starting point (since 2020)."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Relative clauses",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word WHO. Begin: \"I admire my uncle ...\"",
+      "text": "I admire my uncle. He climbed Mount Everest.",
+      "keyword": "WHO",
+      "answers": [
+        "I admire my uncle, who climbed Mount Everest.",
+        "I admire my uncle, who has climbed Mount Everest."
+      ],
+      "points": 1,
+      "explanation": "Use \"who\" to join two sentences about the same person. \"Who\" replaces \"he\"."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Used to",
+      "prompt": "Choose the correct answer.",
+      "text": "When she was younger, my aunt ___ work in a hospital in Kenya.",
+      "options": [
+        "used to",
+        "use to",
+        "was used",
+        "using to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"used to + infinitive\" for past habits and situations that are not true now."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation: adjectives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "She is one of the most ___ (create) people I know.",
+      "answers": [
+        "creative"
+      ],
+      "points": 1,
+      "explanation": "We need an adjective after \"the most\". The adjective from \"create\" is \"creative\"."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Verb + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "new",
+        "learning",
+        "she",
+        "languages",
+        "enjoys"
+      ],
+      "answers": [
+        "She enjoys learning new languages."
+      ],
+      "points": 1,
+      "explanation": "Some verbs, such as enjoy, finish and mind, are followed by the -ing form: enjoys learning."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "She works more hard than anyone else in our family.",
+      "answers": [
+        "She works harder than anyone else in our family."
+      ],
+      "points": 1,
+      "explanation": "\"Hard\" is a short word, so the comparative is \"harder\", not \"more hard\"."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Modals of obligation",
+      "prompt": "Choose the correct answer.",
+      "text": "As a nurse, she ___ work at night twice a week.",
+      "options": [
+        "must to",
+        "has",
+        "has to",
+        "have to"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"have to / has to\" + infinitive for obligations, especially rules of a job. With \"she\" use \"has to\"."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Phrasal verbs: give up",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word UP. Begin: \"She never ...\"",
+      "text": "She never stopped trying, even when things were hard.",
+      "keyword": "UP",
+      "answers": [
+        "She never gave up, even when things were hard.",
+        "She never gave up trying, even when things were hard."
+      ],
+      "points": 1,
+      "explanation": "\"Give up\" means to stop trying. The past simple is \"gave up\"."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Linking words: as a result",
+      "prompt": "Complete the sentence with one word.",
+      "text": "She trained every day. As a ___, she won a gold medal.",
+      "answers": [
+        "result"
+      ],
+      "points": 1,
+      "explanation": "\"As a result\" introduces the consequence of what happened before."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Present perfect with just",
+      "prompt": "Choose the correct answer.",
+      "text": "She has ___ written her third book, and it comes out next month.",
+      "options": [
+        "just",
+        "yet",
+        "ever",
+        "since"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"just\" between \"has/have\" and the past participle for something that happened a very short time ago."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Superlatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "know",
+        "generous",
+        "is",
+        "person",
+        "the",
+        "I",
+        "most",
+        "she"
+      ],
+      "answers": [
+        "She is the most generous person I know."
+      ],
+      "points": 1,
+      "explanation": "Long adjectives form the superlative with \"the most\": the most generous person."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Verb + to-infinitive",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "She has always wanted helping people in need.",
+      "answers": [
+        "She has always wanted to help people in need."
+      ],
+      "points": 1,
+      "explanation": "\"Want\" is followed by the to-infinitive, not the -ing form: wanted to help."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Used to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word USED. Begin: \"My grandfather ...\"",
+      "text": "My grandfather was a fisherman, but he isn't now.",
+      "keyword": "USED",
+      "answers": [
+        "My grandfather used to be a fisherman."
+      ],
+      "points": 1,
+      "explanation": "Use \"used to + infinitive\" for a past situation that is no longer true."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Comparatives with than",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word THAN. Begin: \"My mother ...\"",
+      "text": "Nobody in my family is as patient as my mother.",
+      "keyword": "THAN",
+      "answers": [
+        "My mother is more patient than anyone else in my family.",
+        "My mother is more patient than anyone in my family.",
+        "My mother is more patient than anybody else in my family.",
+        "My mother is more patient than anybody in my family.",
+        "My mother is more patient than everyone else in my family.",
+        "My mother is more patient than everybody else in my family."
+      ],
+      "points": 1,
+      "explanation": "Long adjectives form the comparative with \"more ... than\": more patient than anyone else."
+    }
+  ],
+  "task": {
+    "genre": "Article",
+    "prompt": "An international students' magazine is running a series called \"People who inspire us\". Write an article about a person you admire.",
+    "contentPoints": [
+      "Say who the person is and how you know them.",
+      "Describe what they have done or achieved.",
+      "Explain the qualities you admire in them.",
+      "Say what you have learned from them."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "The person I admire most is ...",
+      "He/She has ...",
+      "What I admire most is ...",
+      "Although ..., he/she ...",
+      "He/She has taught me that ..."
+    ],
+    "modelAnswer": "My Grandmother, My Hero\n\nThe person I admire most is my grandmother, Rosa. She is seventy-five, but she is more active than most people I know.\n\nWhen she was young, her family was very poor, and she had to leave school at fourteen. However, she never gave up. She worked in a factory during the day and studied at night. At the age of thirty, she opened a small bakery, which is still the most popular one in our village.\n\nWhat I admire most is her energy and her kindness. Although she works hard, she always has time for other people. She has helped many young people who needed a job.\n\nShe has taught me that it is never too late to follow your dreams. I hope I will be as brave as her one day."
+  }
+}

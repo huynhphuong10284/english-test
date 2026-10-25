@@ -1,0 +1,447 @@
+{
+  "id": "the-psychology-of-colour",
+  "title": "Seeing Red: The Psychology of Colour",
+  "level": "B2 · Upper-intermediate",
+  "description": "What research really says about how colours affect our feelings and behaviour.",
+  "instructions": "Read the article about colour psychology, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Colour surrounds us so constantly that we rarely stop to think about it, yet businesses, designers and architects spend considerable time and money choosing exactly the right shades. The assumption behind these choices is that colour influences how we feel and behave. But how strong is the evidence for this belief, and how much of it is simply popular myth?"
+    },
+    {
+      "id": "p2",
+      "text": "Some effects do appear to be supported by research. Red, for example, is often associated with danger and urgency, which may explain why it is used for warning signs and emergency buttons. Several experiments have suggested that seeing red shortly before a test can slightly lower performance, perhaps because the colour unconsciously signals threat. Blue, on the other hand, is frequently linked with calm and trust, which is one reason it appears so often in the logos of banks and technology companies."
+    },
+    {
+      "id": "p3",
+      "text": "However, many of the most confident claims about colour are poorly supported. Popular articles sometimes state that pink walls reduce aggression or that yellow rooms make babies cry, but attempts to repeat such findings have often failed. Psychologists warn that early studies in this field were frequently small, and that striking results tend to be widely reported while later, less exciting research receives little attention."
+    },
+    {
+      "id": "p4",
+      "text": "Another complication is that the meaning of colour is shaped by culture as well as biology. In many Western countries, white is traditionally worn at weddings, whereas in parts of East Asia it has long been associated with mourning. Personal experience matters too: a colour that reminds one person of a happy childhood holiday may have no particular significance for someone else. As a result, it is risky to assume that any colour will produce the same reaction in everyone."
+    },
+    {
+      "id": "p5",
+      "text": "None of this means that colour is unimportant. Context seems to be crucial: the same shade of red that feels exciting on a sports car may feel alarming on a hospital wall. For designers, the most sensible approach is to treat colour as one ingredient among many, testing choices with real users rather than relying on simple rules about what particular colours supposedly mean."
+    },
+    {
+      "id": "p6",
+      "text": "The commercial world nonetheless continues to take colour very seriously. Companies may spend months choosing the colour of a new logo or package, partly because a distinctive shade can make a brand instantly recognisable on a crowded shelf. In this case, the value of colour lies less in any direct effect on emotions than in familiarity: once customers have learned to connect a particular colour with a particular product, they can find it quickly and may trust it more. This is why a sudden change to a well-known brand's colours can confuse loyal customers. Some firms have even tried to protect their signature colours legally, so that competitors cannot copy them."
+    },
+    {
+      "id": "p7",
+      "text": "Colour also interacts with light in ways that are easy to overlook. Even the same paint can look noticeably different on two walls of one room, depending on which way they face. A wall that looks warm and welcoming in the soft light of a showroom may appear dull or cold under harsh office lighting, and natural daylight changes the appearance of colours throughout the day. For this reason, architects designing schools, hospitals and offices often pay as much attention to windows and lamps as to paint. Some researchers argue that access to daylight and views of nature may influence well-being more reliably than the colour of the walls themselves."
+    },
+    {
+      "id": "p8",
+      "text": "Perhaps the most useful lesson from colour research is a general one about how we evaluate claims. Simple, memorable statements, such as 'blue makes you productive', spread easily because they are easy to repeat and seem to offer quick solutions. Real findings, by contrast, are usually more cautious and depend on circumstances. Being aware of this difference does not mean ignoring colour altogether. Rather, it means enjoying and using it thoughtfully, while remaining a little sceptical whenever someone promises that a single shade will transform the way we think or feel."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Colour can affect us, but its effects are less simple and universal than is often claimed.",
+        "Red is the most powerful colour in design.",
+        "Colour has no effect at all on human behaviour.",
+        "All banks should use blue in their logos."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer accepts some effects of colour but shows that many claims are weak and that culture and context matter.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "how much of it is simply popular myth"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "None of this means that colour is unimportant."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What have experiments suggested about seeing red before a test?",
+      "options": [
+        "It improves concentration.",
+        "It may slightly reduce performance.",
+        "It makes people feel calm.",
+        "It has no measurable effect."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 2 says seeing red can slightly lower test performance.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "seeing red shortly before a test can slightly lower performance"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"unconsciously\" is closest in meaning to:",
+      "options": [
+        "very loudly",
+        "on purpose",
+        "without a person being aware of it",
+        "only occasionally"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The threat signal affects people without them noticing it.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "the colour unconsciously signals threat"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "purpose",
+      "text": "Why does the writer mention pink walls and yellow rooms?",
+      "options": [
+        "To recommend colours for children's bedrooms",
+        "To show that research on colour is always reliable",
+        "To explain why babies cry",
+        "To give examples of popular claims that lack strong evidence"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "These are examples of confident claims that later studies often failed to repeat.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "many of the most confident claims about colour are poorly supported"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 3 about how research is reported?",
+      "options": [
+        "Small studies are always more accurate than large ones.",
+        "Psychologists refuse to study colour.",
+        "The public may hear more about surprising findings than about later studies that question them.",
+        "Journalists report only boring results."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Striking results are widely reported, while later, less exciting research is largely ignored.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "striking results tend to be widely reported while later, less exciting research receives little attention"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "According to paragraph 4, in parts of East Asia white has traditionally been:",
+      "options": [
+        "worn at weddings",
+        "linked with mourning",
+        "considered lucky",
+        "used for warning signs"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text contrasts Western weddings with East Asian mourning.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "in parts of East Asia it has long been associated with mourning"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What does the example of the sports car and the hospital wall show?",
+      "options": [
+        "The same colour can create different feelings depending on where it is used.",
+        "Red should never be used in hospitals.",
+        "Sports cars are always painted red.",
+        "Most people dislike the colour red."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The example supports the point that context is crucial.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Context seems to be crucial"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"supposedly\" is closest in meaning to:",
+      "options": [
+        "definitely",
+        "officially",
+        "rarely",
+        "according to what is claimed, though it may not be true"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer doubts the simple rules about what colours mean.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "what particular colours supposedly mean"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which title would best suit the article as a whole?",
+      "options": [
+        "Colour and the Mind: Separating Evidence from Myth",
+        "How to Paint Your Bedroom",
+        "The History of Wedding Traditions",
+        "Why Red Is a Dangerous Colour"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The article examines which claims about colour are supported by evidence and which are popular myths.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "how strong is the evidence for this belief, and how much of it is simply popular myth?"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 2, why does blue often appear in the logos of banks?",
+      "options": [
+        "It is the cheapest colour to print.",
+        "It is linked with calm and trust.",
+        "It signals danger and urgency.",
+        "It is especially popular with young customers."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Blue is frequently associated with calm and trust, which suits banks and technology companies.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Blue, on the other hand, is frequently linked with calm and trust"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "According to paragraph 6, why may companies spend months choosing a colour?",
+      "options": [
+        "Colours must be approved by the government.",
+        "Customers vote on the colours of new products.",
+        "Printing companies require a long time to mix colours.",
+        "A distinctive shade can make a brand easy to recognise."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A distinctive colour helps a brand stand out on a crowded shelf.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "a distinctive shade can make a brand instantly recognisable on a crowded shelf"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What does paragraph 6 suggest about the main value of colour for brands?",
+      "options": [
+        "It comes from colour's direct effect on people's emotions.",
+        "It is greater for cheap products than for expensive ones.",
+        "It comes mainly from customers learning to connect a colour with a product.",
+        "It disappears once customers know the brand well."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer says the value lies less in emotional effects than in familiarity.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the value of colour lies less in any direct effect on emotions than in familiarity"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the phrase \"signature colours\" refers to colours that:",
+      "options": [
+        "are used for signing documents",
+        "are closely identified with a particular company",
+        "are chosen by famous artists",
+        "are the most expensive to produce"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A signature colour is one that people strongly associate with a particular brand.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "protect their signature colours legally"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer mention that some firms have tried to protect their colours legally?",
+      "options": [
+        "To criticise competitors who copy products",
+        "To explain trademark law in detail",
+        "To argue that nobody should be able to own a colour",
+        "To show how much value companies place on their colours"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Taking legal action to protect a colour shows how important it is to a company.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "so that competitors cannot copy them"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"overlook\" is closest in meaning to:",
+      "options": [
+        "look down on",
+        "examine closely",
+        "fail to notice",
+        "supervise"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The ways colour interacts with light are easy to miss.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Colour also interacts with light in ways that are easy to overlook."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "According to paragraph 7, what can make a warm-looking wall appear dull or cold?",
+      "options": [
+        "Soft showroom lighting",
+        "Views of nature",
+        "A fresh coat of paint",
+        "Harsh office lighting"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The same wall can look dull or cold under harsh office lighting.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "may appear dull or cold under harsh office lighting"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What do the researchers mentioned at the end of paragraph 7 suggest?",
+      "options": [
+        "Wall colour is the most important factor in a building.",
+        "Daylight has no effect on how people feel.",
+        "Wall colour may matter less for well-being than is often assumed.",
+        "Hospitals should not have any windows."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If daylight and views of nature have a more reliable effect, wall colour is probably less important than many people think.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "may influence well-being more reliably than the colour of the walls themselves"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "purpose",
+      "text": "Why does the writer quote the statement \"blue makes you productive\" in paragraph 8?",
+      "options": [
+        "As an example of a simple claim that spreads easily",
+        "To give advice on decorating offices",
+        "To report the result of a large study",
+        "To show that blue is the writer's favourite colour"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The statement illustrates the kind of memorable, simple claim that is repeated widely.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "spread easily because they are easy to repeat"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "According to paragraph 8, how do real research findings usually differ from popular claims?",
+      "options": [
+        "They are easier to remember.",
+        "They are more cautious and depend on circumstances.",
+        "They promise quicker solutions.",
+        "They are always more exciting."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Real findings are described as more cautious and dependent on circumstances.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Real findings, by contrast, are usually more cautious and depend on circumstances."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What attitude towards colour does the writer recommend at the end of the article?",
+      "options": [
+        "Using colour thoughtfully while doubting exaggerated promises",
+        "Ignoring colour completely",
+        "Believing every claim made about colour",
+        "Avoiding bright colours at all times"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer says we should enjoy and use colour but stay a little sceptical about big promises.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "while remaining a little sceptical whenever someone promises that a single shade will transform the way we think or feel"
+        }
+      ]
+    }
+  ]
+}

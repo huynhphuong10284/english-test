@@ -1,0 +1,463 @@
+{
+  "id": "learning-a-second-language",
+  "title": "Learning a Second Language",
+  "level": "B1 · Intermediate",
+  "description": "How children and adults learn languages, and what helps learners succeed.",
+  "instructions": "Read the passage about learning languages, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Learning a second language is one of the most useful skills a person can develop. It can open doors to new jobs, make travelling easier and help people make friends from other countries. Many people believe that only children can learn languages well, but this is not entirely true. Adults may learn in a different way, yet they can still make excellent progress."
+    },
+    {
+      "id": "p2",
+      "text": "Children have some clear advantages. They often copy sounds very accurately, which helps them develop a natural accent. They are also less afraid of making mistakes, so they are happy to try speaking even when they know only a few words. Adults, on the other hand, are better at understanding grammar rules and can use their experience of their first language to help them."
+    },
+    {
+      "id": "p3",
+      "text": "Experts agree that regular practice is more important than talent. Studying for fifteen minutes every day is usually more effective than studying for two hours once a week. Listening to songs, watching films with subtitles and reading simple books can all make learning more enjoyable. Speaking with other people, even if it feels uncomfortable at first, is one of the fastest ways to improve."
+    },
+    {
+      "id": "p4",
+      "text": "Learning a language also seems to be good for the brain. Switching between two languages exercises the mind, as it has to choose the right words and ignore others. Some researchers think this may help people stay mentally active as they get older. Whatever the reason for starting, learners who stay patient and curious usually find the journey very rewarding."
+    },
+    {
+      "id": "p5",
+      "text": "Technology has made learning a language easier than ever before. Mobile apps offer short lessons that can be done on a bus or during a coffee break, and many of them turn learning into a game with points and rewards. Learners can also join video calls with teachers or speakers of the language from the other side of the world. However, apps are usually best at teaching single words and simple phrases. Most teachers agree that they are a useful extra, but they cannot fully replace real conversations with other people."
+    },
+    {
+      "id": "p6",
+      "text": "Almost every learner reaches a point where progress seems to stop. After the excitement of the first few months, it can feel as if no new words are staying in the memory. This stage is often called a plateau, and it is completely normal. One way to get through it is to set small, clear goals, such as learning ten new words a week or ordering a meal in the new language. Changing activities can also help, for example moving from textbook exercises to watching a television series or keeping a simple diary."
+    },
+    {
+      "id": "p7",
+      "text": "Finally, learning a language means learning about a culture as well. Words and expressions often reflect the history and values of the people who use them. For instance, some languages have several different ways of saying 'you', depending on how well you know the person or how old they are. Understanding these differences helps learners avoid embarrassing mistakes and show respect. In this way, a new language does not only give people a new way of speaking, but also a new way of seeing the world."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the passage?",
+      "options": [
+        "Only children can learn a second language well.",
+        "Learning a second language is valuable and possible at any age with regular practice.",
+        "Grammar is the most important part of learning a language.",
+        "Watching films is the only way to learn a language."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The passage says language learning is useful, that adults can also make progress, and that regular practice matters most.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Learning a second language is one of the most useful skills a person can develop."
+        },
+        {
+          "paragraphId": "p1",
+          "quote": "Adults may learn in a different way, yet they can still make excellent progress."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, why do children often develop a natural accent?",
+      "options": [
+        "They study grammar carefully.",
+        "They travel more than adults.",
+        "They copy sounds very accurately.",
+        "They use their first language to help them."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 2 says children copy sounds very accurately, which helps their accent.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They often copy sounds very accurately, which helps them develop a natural accent."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "purpose",
+      "text": "Why does the writer compare fifteen minutes a day with two hours once a week?",
+      "options": [
+        "To show that languages take many years to learn",
+        "To suggest that people should study for two hours every day",
+        "To criticise language schools",
+        "To show that regular practice is more effective than long, rare sessions"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The comparison supports the point that regular practice matters more than talent or long sessions.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Studying for fifteen minutes every day is usually more effective than studying for two hours once a week."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can we infer about learners who are afraid of making mistakes?",
+      "options": [
+        "They may speak less and so improve more slowly.",
+        "They usually learn faster than children.",
+        "They have a better accent.",
+        "They do not need to practise speaking."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Speaking is one of the fastest ways to improve, and learners who are less afraid of mistakes speak more. So fearful learners may speak less and improve more slowly.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They are also less afraid of making mistakes, so they are happy to try speaking even when they know only a few words."
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "Speaking with other people, even if it feels uncomfortable at first, is one of the fastest ways to improve."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"rewarding\" is closest in meaning to:",
+      "options": [
+        "satisfying and worthwhile",
+        "expensive",
+        "boring",
+        "dangerous"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Patient, curious learners enjoy the benefits of their effort, so the journey is satisfying and worthwhile.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "usually find the journey very rewarding"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What do adults have that helps them learn, according to paragraph 2?",
+      "options": [
+        "A more natural accent",
+        "Less fear of mistakes",
+        "More free time",
+        "A better understanding of grammar rules"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 2 says adults are better at understanding grammar rules. The accent and lack of fear are children's advantages.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Adults, on the other hand, are better at understanding grammar rules"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What does the writer suggest about the effect of speaking two languages on the brain?",
+      "options": [
+        "It is proved to stop all memory problems.",
+        "It makes the brain tired and slow.",
+        "It may help keep the mind active in later life.",
+        "It has no effect at all."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer says some researchers think it may help people stay mentally active as they get older. This is a possibility, not a proven fact.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Some researchers think this may help people stay mentally active as they get older."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the phrase \"open doors to\" is closest in meaning to:",
+      "options": [
+        "unlock the doors of buildings",
+        "create new opportunities for",
+        "close a business",
+        "travel by car to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A second language can open doors to new jobs, meaning it gives people new chances and opportunities.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It can open doors to new jobs, make travelling easier and help people make friends from other countries."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "According to paragraph 3, which activities can make learning more enjoyable?",
+      "options": [
+        "Listening to songs, watching films with subtitles and reading simple books",
+        "Studying grammar rules for two hours once a week",
+        "Copying sounds from a dictionary",
+        "Taking difficult tests every day"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 3 lists songs, films with subtitles and simple books as ways to make learning more enjoyable.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Listening to songs, watching films with subtitles and reading simple books can all make learning more enjoyable."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Why does switching between two languages exercise the mind?",
+      "options": [
+        "Because it makes people speak more quickly",
+        "Because it stops people from forgetting their first language",
+        "Because the mind has to choose the right words and ignore others",
+        "Because it requires a lot of physical energy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 4 explains that the mind has to choose the right words and ignore others.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Switching between two languages exercises the mind, as it has to choose the right words and ignore others."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Mobile apps are the only way to learn a language today.",
+        "Technology helps language learners, but it has some limits.",
+        "Video calls are too expensive for most learners.",
+        "Teachers do not want students to use technology."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 5 describes how apps and video calls help, then explains that apps cannot fully replace real conversations.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Technology has made learning a language easier than ever before."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "they cannot fully replace real conversations with other people"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 5, how do many apps make learning fun?",
+      "options": [
+        "They give learners free trips abroad.",
+        "They only teach long and difficult texts.",
+        "They connect learners with famous singers.",
+        "They turn learning into a game with points and rewards."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 5 says many apps turn learning into a game with points and rewards.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "many of them turn learning into a game with points and rewards"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "What would most teachers probably say to a learner who only uses an app?",
+      "options": [
+        "You should also practise speaking with real people.",
+        "You do not need to do anything else.",
+        "You should stop learning single words.",
+        "You should delete the app immediately."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Teachers see apps as a useful extra that cannot replace real conversations, so they would advise speaking practice too.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Most teachers agree that they are a useful extra, but they cannot fully replace real conversations with other people."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"plateau\" refers to:",
+      "options": [
+        "the first exciting months of learning",
+        "a type of language exam",
+        "a stage when a learner's progress seems to stop",
+        "a place where learners meet to practise"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer uses plateau for the point where progress seems to stop and no new words seem to stay in the memory.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Almost every learner reaches a point where progress seems to stop."
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "This stage is often called a plateau"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "Which of these is given as an example of a small, clear goal?",
+      "options": [
+        "Studying for two hours once a week",
+        "Learning ten new words a week",
+        "Reading a whole novel in one day",
+        "Moving to live in another country"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 6 gives learning ten new words a week and ordering a meal as examples of small, clear goals.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "such as learning ten new words a week or ordering a meal in the new language"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer say that the plateau is \"completely normal\"?",
+      "options": [
+        "To warn learners that they should give up",
+        "To show that the first months are the most difficult",
+        "To explain why some people never start learning",
+        "To encourage learners who feel they are no longer improving"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "By saying almost every learner experiences it, the writer reassures learners and then gives advice on how to get through it.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "This stage is often called a plateau, and it is completely normal."
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "One way to get through it is to set small, clear goals"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"reflect\" is closest in meaning to:",
+      "options": [
+        "send light back",
+        "show or express",
+        "forget about",
+        "change completely"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Words and expressions show the history and values of the people who use them.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Words and expressions often reflect the history and values of the people who use them."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 7, what decides which word for 'you' is used in some languages?",
+      "options": [
+        "The time of day when you are speaking",
+        "Whether you are speaking or writing",
+        "How well you know the person or how old they are",
+        "How many people are listening"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 7 says the choice depends on how well you know the person or how old they are.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "depending on how well you know the person or how old they are"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What can we infer might happen to a learner who does not understand these cultural differences?",
+      "options": [
+        "They will learn grammar more quickly.",
+        "They will never be able to speak at all.",
+        "They will be more respected by native speakers.",
+        "They might seem rude without meaning to be."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Understanding the differences helps learners avoid embarrassing mistakes and show respect, so not understanding them could make a learner seem rude.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Understanding these differences helps learners avoid embarrassing mistakes and show respect."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the last paragraph?",
+      "options": [
+        "Learning a language also means understanding the culture of the people who speak it.",
+        "Every language has many words for 'you'.",
+        "Culture is more important than grammar.",
+        "Learners should not travel before they speak a language well."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 7 begins by saying that learning a language means learning about a culture as well, and ends with the idea of a new way of seeing the world.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Finally, learning a language means learning about a culture as well."
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "but also a new way of seeing the world"
+        }
+      ]
+    }
+  ]
+}

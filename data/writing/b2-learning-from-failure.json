@@ -1,0 +1,319 @@
+{
+  "id": "w-learning-from-failure",
+  "title": "Learning from Failure",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise third conditionals, wish and participle clauses, then write a story about learning from a mistake.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Third conditional",
+      "prompt": "Choose the correct answer.",
+      "text": "If I ___ harder, I would have passed the driving test.",
+      "options": [
+        "practised",
+        "had practised",
+        "would practise",
+        "have practised"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The if-clause of a third conditional uses the past perfect: if I had practised."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Wish / if only",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Looking back, I wish I ___ (listen) to my coach's advice.",
+      "answers": [
+        "had listened"
+      ],
+      "points": 1,
+      "explanation": "Wish + past perfect expresses regret about a past action: I wish I had listened."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Participle clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the results",
+        "she",
+        "having seen",
+        "to try again",
+        "decided"
+      ],
+      "answers": [
+        "Having seen the results, she decided to try again."
+      ],
+      "points": 1,
+      "explanation": "A perfect participle clause (Having seen ...) shows the first action finished before the second one."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Reported speech",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My teacher said me that failure is part of learning.",
+      "answers": [
+        "My teacher told me that failure is part of learning.",
+        "My teacher told me that failure was part of learning.",
+        "My teacher said that failure is part of learning.",
+        "My teacher said that failure was part of learning.",
+        "My teacher said to me that failure is part of learning.",
+        "My teacher said to me that failure was part of learning."
+      ],
+      "points": 1,
+      "explanation": "\"Say\" is not followed directly by a person. Use \"tell someone\" or \"say (to someone) that\"."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "I had trained for months. ___, I came last in the race.",
+      "options": [
+        "Consequently",
+        "Whereas",
+        "Nevertheless",
+        "Therefore"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Nevertheless\" introduces a result that is surprising after what was said before."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Mixed conditionals",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "If I had given up after that first defeat, I ___ (not / be) a professional player today.",
+      "answers": [
+        "would not be",
+        "wouldn't be"
+      ],
+      "points": 1,
+      "explanation": "A mixed conditional links a past condition (had given up) with a present result (would not be today)."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Wish / if only",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"If ___ my parents the truth.\"",
+      "text": "I regret not telling my parents the truth.",
+      "keyword": "ONLY",
+      "answers": [
+        "If only I had told my parents the truth.",
+        "If only I'd told my parents the truth."
+      ],
+      "points": 1,
+      "explanation": "\"If only + past perfect\" expresses strong regret about the past."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Third conditional",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"If I hadn't missed the bus, I ___ late for the interview.\"",
+      "text": "I missed the bus, so I was late for the interview.",
+      "keyword": "WOULD",
+      "answers": [
+        "If I hadn't missed the bus, I would not have been late for the interview."
+      ],
+      "points": 1,
+      "explanation": "The result clause of a third conditional is would (not) have + past participle."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Modals of deduction",
+      "prompt": "Choose the correct answer.",
+      "text": "You trained so hard. You ___ have been very disappointed when you didn't get into the team.",
+      "options": [
+        "must",
+        "can't",
+        "needn't",
+        "shouldn't"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Must have + past participle is a confident deduction about someone's past feelings, based on what you know."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "She refused to let one ___ (success) attempt stop her from trying again.",
+      "answers": [
+        "unsuccessful"
+      ],
+      "points": 1,
+      "explanation": "Add un- and -ful to success to make the negative adjective unsuccessful."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Phrasal verbs in the passive",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "by",
+        "turned down",
+        "twelve publishers",
+        "was",
+        "my first",
+        "novel"
+      ],
+      "answers": [
+        "My first novel was turned down by twelve publishers."
+      ],
+      "points": 1,
+      "explanation": "In the passive, a phrasal verb keeps its particle: was turned down (= was rejected)."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Articles",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Failure is often a best teacher.",
+      "answers": [
+        "Failure is often the best teacher."
+      ],
+      "points": 1,
+      "explanation": "Superlatives such as best take the definite article the."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Should have (past criticism)",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"I ___ for the interview.\"",
+      "text": "It was a mistake not to prepare for the interview.",
+      "keyword": "SHOULD",
+      "answers": [
+        "I should have prepared for the interview."
+      ],
+      "points": 1,
+      "explanation": "Should have + past participle expresses regret or criticism about something that did not happen."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Although vs despite",
+      "prompt": "Choose the correct answer.",
+      "text": "___ failing the exam twice, he never gave up.",
+      "options": [
+        "Although",
+        "However",
+        "Even though",
+        "Despite"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Despite can be followed by an -ing form; although and even though need a subject and verb."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Reported commands",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "My coach told me ___ (not / give) up.",
+      "answers": [
+        "not to give"
+      ],
+      "points": 1,
+      "explanation": "Negative commands are reported with tell + object + not to + infinitive."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "It takes + object + to-infinitive",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "to pass",
+        "took",
+        "three attempts",
+        "it",
+        "my driving test",
+        "me"
+      ],
+      "answers": [
+        "It took me three attempts to pass my driving test."
+      ],
+      "points": 1,
+      "explanation": "It takes/took + person + time or attempts + to-infinitive describes how much effort something needs."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Verb patterns: succeed in",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "In the end, she succeeded to pass the exam.",
+      "answers": [
+        "In the end, she succeeded in passing the exam.",
+        "In the end, she managed to pass the exam."
+      ],
+      "points": 1,
+      "explanation": "Succeed is followed by in + -ing; manage is followed by to + infinitive."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Passive reporting verbs",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Edison ___ thousands of times before he invented the light bulb.\"",
+      "text": "People say that Edison failed thousands of times before he invented the light bulb.",
+      "keyword": "SAID",
+      "answers": [
+        "Edison is said to have failed thousands of times before he invented the light bulb."
+      ],
+      "points": 1,
+      "explanation": "For a past action, use is said + perfect infinitive: is said to have failed."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "The more ..., the more ...",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The more you practise, more confident you become.",
+      "answers": [
+        "The more you practise, the more confident you become.",
+        "The more you practice, the more confident you become."
+      ],
+      "points": 1,
+      "explanation": "In double comparatives, both parts start with the: the more ..., the more ..."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Unless",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"You won't improve ___ from your mistakes.\"",
+      "text": "You won't improve if you don't learn from your mistakes.",
+      "keyword": "UNLESS",
+      "answers": [
+        "You won't improve unless you learn from your mistakes."
+      ],
+      "points": 1,
+      "explanation": "Unless means if not and is followed by a positive verb."
+    }
+  ],
+  "task": {
+    "genre": "Story",
+    "prompt": "Your English teacher has asked you to write a story for the school magazine. Your story must begin with this sentence: \"As soon as I saw the list on the noticeboard, I knew I had failed.\"",
+    "contentPoints": [
+      "Begin with the sentence given.",
+      "Explain what the character had failed and why.",
+      "Describe how the character felt and what they did next.",
+      "Show what the character learned from the experience."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "At first, ...",
+      "Having ..., I ...",
+      "I wish I had ...",
+      "It was only later that ...",
+      "From that day on, ..."
+    ],
+    "modelAnswer": "As soon as I saw the list on the noticeboard, I knew I had failed. My name was not among the eleven players chosen for the school football team, even though I had been certain I would be selected.\n\nAt first, I felt angry and embarrassed. All my friends were on the list, and I told myself that the coach simply did not like me. That evening I refused to talk to anyone, and I even considered giving up football completely.\n\nThe next day, however, the coach called me into his office. He explained that I was a talented player, but that I had arrived late for training several times and rarely passed the ball to my teammates. \"Talent is not enough,\" he told me. \"You need to work for the team.\"\n\nIt was only later that I realised he was right. If I had been more disciplined, I would have been selected. Having accepted this, I started arriving early, practising extra drills and encouraging the others.\n\nThree months later, I was finally chosen for the team. From that day on, I understood that failure is not the end of something. Sometimes it is exactly what we need to become better."
+  }
+}

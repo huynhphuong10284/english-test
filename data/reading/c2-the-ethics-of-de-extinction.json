@@ -1,0 +1,455 @@
+{
+  "id": "the-ethics-of-de-extinction",
+  "title": "The Ethics of De-extinction",
+  "level": "C2 · Proficiency",
+  "description": "An essay weighing the arguments for and against bringing extinct species back to life.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Until recently, extinction was regarded as the one truly irreversible outcome in conservation biology: a species, once lost, was lost for good. Advances in genome sequencing and gene editing have begun to unsettle that certainty. Several research groups now speak openly of reconstructing, if not the exact organisms that once existed, then at least functional approximations of them, by editing the genomes of their closest living relatives to incorporate traits recovered from preserved remains. The prospect has generated considerable excitement, but also a degree of unease that is not easily dismissed."
+    },
+    {
+      "id": "p2",
+      "text": "Advocates advance a number of arguments in the project's favour. Some invoke a principle of restitution: if human activity drove a species to extinction, there is a moral case for undoing the damage where we are able to. Others emphasise ecological function, contending that certain lost species once played roles, such as dispersing seeds or maintaining grasslands, that their return might help to restore. Still others point to the scientific spin-offs, noting that techniques developed for de-extinction could equally be deployed to bolster the genetic diversity of endangered populations that are still extant."
+    },
+    {
+      "id": "p3",
+      "text": "Critics, however, contend that such arguments are less straightforward than they appear. The ecosystems that extinct species once inhabited have, in many cases, been transformed beyond recognition, so that a resurrected animal might find no suitable habitat, or might itself behave as an invasive species. Moreover, a creature produced from an edited genome and raised by surrogate parents of another species would lack the learned behaviours that were transmitted socially among its ancestors; whether such an organism can meaningfully be said to belong to the lost species is, at best, debatable."
+    },
+    {
+      "id": "p4",
+      "text": "Perhaps the most persistent objection concerns opportunity cost. Conservation budgets are chronically insufficient, and every resource devoted to reviving a vanished species is, in principle, a resource not spent on protecting the many thousands currently in decline. There is also a subtler worry, sometimes described as moral hazard: if extinction comes to be seen as reversible, the urgency that currently motivates habitat protection might be dissipated, and governments or industries might feel less compunction about activities that threaten vulnerable species."
+    },
+    {
+      "id": "p5",
+      "text": "Proponents are not without replies. They observe that much de-extinction research is funded privately, by donors who would not otherwise contribute to conventional conservation, so that the zero-sum framing may be misleading. They argue, too, that the moral hazard argument proves too much, since similar reasoning might be used to oppose any technology that mitigates the consequences of harmful behaviour, from seat belts to vaccines."
+    },
+    {
+      "id": "p6",
+      "text": "It may be that the debate is most usefully conducted not in the abstract but case by case. The revival of a species whose habitat survives largely intact, and whose ecological role is well understood, raises quite different considerations from the resurrection of a megafaunal giant whose world has long since vanished. What seems clear is that the technical question of whether we can bring back lost species has, for the moment, outpaced the ethical question of whether, and under what conditions, we should."
+    },
+    {
+      "id": "p7",
+      "text": "Recent events have lent these questions a new immediacy. A biotechnology company announced the birth of animals it described as revived dire wolves, a large predator that disappeared at the end of the last ice age, produced by editing a modest number of genes in the grey wolf. The announcement attracted extensive publicity, but many specialists objected that the animals were more accurately described as modified grey wolves bearing a handful of traits associated with their extinct relative. The dispute was in part terminological, yet it touched on a substantive issue. International conservation guidelines have tended to speak of creating proxies of extinct species rather than of resurrecting the species themselves, a formulation that some regard as admirably candid and others as a tacit admission that the more ambitious claims cannot be sustained."
+    },
+    {
+      "id": "p8",
+      "text": "A further set of concerns relates to the welfare of the animals involved. Cloning and related techniques have historically required many attempts for each successful birth, and the surrogate mothers involved may undergo invasive procedures with no benefit to themselves. The cautionary precedent most often cited is that of the Pyrenean ibex, a subspecies whose last known member died in 2000; a clone produced from preserved cells was born a few years later but survived only minutes, owing to a severe defect in its lungs. Defenders note that techniques have improved considerably since then, and that comparable costs are tolerated in conventional captive breeding programmes. Even so, it is arguably incumbent on those who would create sentient creatures for experimental purposes to show that the expected benefits are commensurate with the suffering they risk imposing."
+    },
+    {
+      "id": "p9",
+      "text": "Underlying all of these disputes is a question that de-extinction has the merit of forcing into the open: what, precisely, is it that we value when we value a species? If the answer is an unbroken genealogical lineage, then even the most faithful reconstruction will fall short, since the line has already been severed. If it is the ecological function the species performed, then a sufficiently close proxy might serve, and the label attached to it matters less. If, finally, it is something closer to wonder at the diversity of living forms, the argument may cut in either direction. Whatever answer one favours, the attempt to articulate it may prove one of the more durable contributions of a technology whose practical achievements remain, at present, uncertain."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best summarises the essay?",
+      "options": [
+        "De-extinction is technically impossible and therefore not worth discussing.",
+        "De-extinction raises competing ethical arguments that are best judged case by case, and ethics lags behind the technology.",
+        "De-extinction should be pursued for every extinct species as a matter of restitution.",
+        "De-extinction is the most effective way to fight the current decline in biodiversity."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The essay sets out arguments on both sides and concludes that the issue should be considered case by case, noting that technology has outpaced ethics.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "It may be that the debate is most usefully conducted not in the abstract but case by case."
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "has, for the moment, outpaced the ethical question"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 1, how would researchers create approximations of extinct species?",
+      "options": [
+        "By cloning cells taken directly from living members of the species.",
+        "By breeding the last surviving individuals in captivity.",
+        "By editing the genomes of closely related living species.",
+        "By reconstructing animals entirely from fossil bones."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Researchers would edit the genomes of the closest living relatives to include recovered traits.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "by editing the genomes of their closest living relatives to incorporate traits recovered from preserved remains"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Which of the following is presented as an argument in favour of de-extinction?",
+      "options": [
+        "Techniques developed for it could help increase genetic diversity in endangered populations.",
+        "It would reduce the overall cost of conservation.",
+        "Resurrected animals would retain all their ancestors' learned behaviours.",
+        "It would make habitat protection unnecessary."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Advocates point to scientific spin-offs that could bolster genetic diversity of extant populations.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "could equally be deployed to bolster the genetic diversity of endangered populations that are still extant"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"extant\" is closest in meaning to",
+      "options": [
+        "extinct",
+        "endangered",
+        "enormous",
+        "still in existence"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "'Extant' means still existing, in contrast to extinct.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "endangered populations that are still extant"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What does paragraph 3 imply about a resurrected animal raised by surrogate parents of another species?",
+      "options": [
+        "It would be genetically identical to its extinct ancestors.",
+        "It would inevitably become an invasive species.",
+        "Its identity as a member of the lost species is open to question.",
+        "It would quickly relearn its ancestors' social behaviours."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Lacking socially transmitted behaviours, it is 'at best, debatable' whether it belongs to the lost species. The text says it 'might' behave invasively, not that it inevitably would.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "whether such an organism can meaningfully be said to belong to the lost species is, at best, debatable"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What is meant by the \"moral hazard\" objection in paragraph 4?",
+      "options": [
+        "Scientists may act unethically when experimenting on animals.",
+        "Perceiving extinction as reversible could weaken the motivation to protect vulnerable species.",
+        "Donors may withdraw funding from conservation projects.",
+        "Resurrected species could pose a danger to humans."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "If extinction seems reversible, the urgency behind habitat protection may diminish.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "if extinction comes to be seen as reversible, the urgency that currently motivates habitat protection might be dissipated"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "Why do proponents mention seat belts and vaccines in paragraph 5?",
+      "options": [
+        "To show that the moral hazard reasoning, if accepted, would condemn widely accepted technologies.",
+        "To argue that de-extinction is as safe as medical technology.",
+        "To suggest that de-extinction research should be funded by health budgets.",
+        "To prove that moral hazard never occurs in practice."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The examples are a reductio: the same logic would oppose clearly beneficial technologies, so the argument 'proves too much'.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "the moral hazard argument proves too much"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "from seat belts to vaccines"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "How does private funding bear on the opportunity-cost objection, according to proponents?",
+      "options": [
+        "It shows that conservation budgets are no longer insufficient.",
+        "It proves that de-extinction costs nothing.",
+        "It means that governments should stop funding conservation.",
+        "It suggests that money spent on de-extinction might not otherwise have gone to conservation at all."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "If donors would not otherwise fund conservation, de-extinction spending does not directly divert resources, so the zero-sum framing may mislead.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "by donors who would not otherwise contribute to conventional conservation, so that the zero-sum framing may be misleading"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "inference",
+      "text": "Which case would the writer most likely regard as more ethically defensible?",
+      "options": [
+        "Reviving a megafaunal species whose habitat has disappeared.",
+        "Reviving any species, provided the technology exists.",
+        "Reviving a species whose habitat largely survives and whose ecological role is well understood.",
+        "Reviving no species under any circumstances."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer contrasts such a case with resurrecting a giant whose world has vanished, implying the former raises fewer concerns.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The revival of a species whose habitat survives largely intact, and whose ecological role is well understood, raises quite different considerations"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "purpose",
+      "text": "What is the purpose of the final sentence of the essay?",
+      "options": [
+        "To celebrate the technical achievements of de-extinction research.",
+        "To highlight that ethical deliberation has not kept pace with technological capability.",
+        "To announce that the ethical debate has been resolved.",
+        "To recommend an immediate ban on gene editing."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The sentence stresses that the 'can we' question has outpaced the 'should we' question.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the technical question of whether we can bring back lost species has, for the moment, outpaced the ethical question of whether, and under what conditions, we should"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "According to paragraph 7, how were the animals described as revived dire wolves produced?",
+      "options": [
+        "By editing a modest number of genes in the grey wolf.",
+        "By cloning cells taken from a preserved dire wolf.",
+        "By crossbreeding wolves with domestic dogs.",
+        "By reconstructing the complete genome of the dire wolf."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The animals were produced by editing a modest number of genes in the grey wolf.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "produced by editing a modest number of genes in the grey wolf"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What can be inferred about the specialists' objection to the announcement?",
+      "options": [
+        "They doubted that dire wolves had ever existed.",
+        "They objected only to the amount of publicity the announcement received.",
+        "They believed the animals were genetically identical to dire wolves.",
+        "They considered the claim of revival overstated, since the animals carried only a few traits of the extinct species."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Specialists preferred to call them modified grey wolves with a handful of dire-wolf traits, implying the claim of revival went too far.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the animals were more accurately described as modified grey wolves bearing a handful of traits associated with their extinct relative"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"candid\" is closest in meaning to",
+      "options": [
+        "cautious",
+        "misleading",
+        "frank",
+        "technical"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Speaking of proxies is seen by some as frank about what the technology can actually achieve.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "a formulation that some regard as admirably candid"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer mention that conservation guidelines speak of creating \"proxies\" of extinct species?",
+      "options": [
+        "To highlight the contested question of whether de-extinction revives species or merely creates approximations of them.",
+        "To show that international guidelines prohibit de-extinction research.",
+        "To define a technical term used in genome sequencing.",
+        "To praise the honesty of the company that announced the dire wolves."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The term 'proxies' shows that the dispute is not merely terminological but touches the substantive issue of what is being created.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "The dispute was in part terminological, yet it touched on a substantive issue."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 8, what happened to the cloned Pyrenean ibex?",
+      "options": [
+        "It lived for several years in captivity.",
+        "It was released into its former habitat.",
+        "It was never successfully born.",
+        "It survived only minutes because of a severe lung defect."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The clone was born but survived only minutes owing to a defect in its lungs.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "survived only minutes, owing to a severe defect in its lungs"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What does the writer imply about the surrogate mothers used in de-extinction research?",
+      "options": [
+        "They benefit from the improved veterinary care they receive.",
+        "They bear the costs of invasive procedures without gaining anything themselves.",
+        "They must always belong to the extinct species being revived.",
+        "They are no longer needed thanks to recent technical advances."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "They may undergo invasive procedures 'with no benefit to themselves', which raises a welfare concern.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the surrogate mothers involved may undergo invasive procedures with no benefit to themselves"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the phrase \"incumbent on\" is closest in meaning to",
+      "options": [
+        "a duty of",
+        "impossible for",
+        "advantageous to",
+        "forbidden to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "If something is incumbent on someone, it is their duty or responsibility.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "it is arguably incumbent on those who would create sentient creatures"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the phrase \"commensurate with\" is closest in meaning to",
+      "options": [
+        "unrelated to",
+        "much greater than",
+        "measured by",
+        "proportionate to"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Benefits commensurate with suffering are benefits in proportion to it.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the expected benefits are commensurate with the suffering they risk imposing"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "According to the reasoning in paragraph 9, which view of what we value in a species would be most favourable to accepting a proxy?",
+      "options": [
+        "Valuing the species as an unbroken genealogical lineage.",
+        "Valuing the sense of wonder at the diversity of life.",
+        "Valuing the ecological function that the species performed.",
+        "Valuing the name traditionally attached to the species."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "If we value ecological function, 'a sufficiently close proxy might serve'. The lineage view makes any reconstruction fall short, and the wonder view cuts either way.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "If it is the ecological function the species performed, then a sufficiently close proxy might serve"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the final paragraph?",
+      "options": [
+        "Species have no value beyond their ecological function.",
+        "De-extinction forces us to clarify what we value in species, which may be one of its most lasting contributions.",
+        "The genealogical view of species is the only defensible one.",
+        "De-extinction has already achieved most of its practical goals."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraph says de-extinction forces the question into the open and that articulating an answer may be its most durable contribution.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "the attempt to articulate it may prove one of the more durable contributions of a technology"
+        }
+      ]
+    }
+  ]
+}

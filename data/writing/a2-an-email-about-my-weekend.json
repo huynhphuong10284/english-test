@@ -1,0 +1,323 @@
+{
+  "id": "w-an-email-about-my-weekend",
+  "title": "An Email About My Weekend",
+  "level": "A2 · Elementary",
+  "description": "Practise the past simple and linking words, then write an email to a friend about your weekend.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Choose the correct answer.",
+      "text": "On Saturday we ___ to the beach with my cousins.",
+      "options": [
+        "goed",
+        "went",
+        "gone",
+        "go"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The past simple of \"go\" is irregular: go - went. We do not add -ed."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: regular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "I ___ (watch) a film with my sister on Sunday evening.",
+      "answers": [
+        "watched"
+      ],
+      "points": 1,
+      "explanation": "For most regular verbs, add -ed to make the past simple: watch - watched."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Linking words",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "had",
+        "after that",
+        "a",
+        "we",
+        "lunch",
+        "picnic"
+      ],
+      "answers": [
+        "After that, we had a picnic lunch.",
+        "We had a picnic lunch after that."
+      ],
+      "points": 1,
+      "explanation": "\"After that\" shows the next event in a story. It usually goes at the start of the sentence, followed by a comma."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Past simple: negatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We didn't went to the cinema because it was closed.",
+      "answers": [
+        "We didn't go to the cinema because it was closed.",
+        "We did not go to the cinema because it was closed."
+      ],
+      "points": 1,
+      "explanation": "After \"didn't\" we use the base form of the verb: didn't go, not didn't went."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Prepositions of time",
+      "prompt": "Choose the correct answer.",
+      "text": "I usually sleep late ___ Sunday mornings.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"on\" with days and with days + parts of the day: on Sunday, on Sunday mornings."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Linking words: so",
+      "prompt": "Complete the sentence with \"so\" or \"because\".",
+      "text": "It was very hot, ___ we went swimming in the sea.",
+      "answers": [
+        "so"
+      ],
+      "points": 1,
+      "explanation": "\"So\" introduces a result: it was hot (cause), so we went swimming (result)."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct answer.",
+      "text": "It ___ when we left the beach.",
+      "options": [
+        "was raining",
+        "is raining",
+        "were raining",
+        "raining"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We use the past continuous (was/were + -ing) for an action in progress in the past. With \"it\" we use \"was\"."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "My cousins ___ (swim) in the sea for hours.",
+      "answers": [
+        "swam"
+      ],
+      "points": 1,
+      "explanation": "\"Swim\" is irregular: swim - swam - swum."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Past simple: questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "go",
+        "on Saturday",
+        "did",
+        "where",
+        "you"
+      ],
+      "answers": [
+        "Where did you go on Saturday?"
+      ],
+      "points": 1,
+      "explanation": "Question word + did + subject + base verb: Where did you go?"
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Prepositions: arrive home",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We arrived in home very late on Sunday.",
+      "answers": [
+        "We arrived home very late on Sunday."
+      ],
+      "points": 1,
+      "explanation": "We say \"arrive home\" and \"get home\" with no preposition."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Superlatives",
+      "prompt": "Choose the correct answer.",
+      "text": "Sunday was the ___ day of the weekend.",
+      "options": [
+        "hot",
+        "hotter",
+        "hotest",
+        "hottest"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Short adjectives ending in one vowel + one consonant double the consonant: hot - the hottest."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Some / any",
+      "prompt": "Complete the sentence with \"some\" or \"any\".",
+      "text": "We bought ___ ice cream on the beach.",
+      "answers": [
+        "some"
+      ],
+      "points": 1,
+      "explanation": "We use \"some\" in positive sentences with uncountable nouns like \"ice cream\"."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Past continuous",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "building",
+        "were",
+        "sandcastles",
+        "my cousins"
+      ],
+      "answers": [
+        "My cousins were building sandcastles.",
+        "Were my cousins building sandcastles?"
+      ],
+      "points": 1,
+      "explanation": "Subject + was/were + -ing: My cousins were building sandcastles."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Past simple: spelling",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We plaied volleyball on the beach.",
+      "answers": [
+        "We played volleyball on the beach."
+      ],
+      "points": 1,
+      "explanation": "Verbs ending in vowel + y keep the y and add -ed: play - played."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Much / many",
+      "prompt": "Choose the correct answer.",
+      "text": "We didn't have ___ time, so we only swam for an hour.",
+      "options": [
+        "much",
+        "many",
+        "a few",
+        "lots"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Time\" is uncountable here, so we use \"much\" in negative sentences."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Comparatives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The sea was ___ (warm) than the swimming pool.",
+      "answers": [
+        "warmer"
+      ],
+      "points": 1,
+      "explanation": "Short adjectives add -er to make the comparative: warm - warmer than."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Going to: questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "do",
+        "are",
+        "next weekend",
+        "what",
+        "you",
+        "going to"
+      ],
+      "answers": [
+        "What are you going to do next weekend?"
+      ],
+      "points": 1,
+      "explanation": "Question word + am/is/are + subject + going to + verb: What are you going to do?"
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Adverbs of frequency with be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I usually am tired on Monday mornings.",
+      "answers": [
+        "I am usually tired on Monday mornings."
+      ],
+      "points": 1,
+      "explanation": "Adverbs of frequency go after the verb \"be\": I am usually tired."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Will for offers",
+      "prompt": "Choose the correct answer.",
+      "text": "A: I can't open this bottle. B: Give it to me. I ___ open it for you.",
+      "options": [
+        "am",
+        "going to",
+        "do",
+        "will"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We use \"will\" + base verb to offer help at the moment of speaking: I will open it."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Linking words: because",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We stayed at home on Sunday so it was raining.",
+      "answers": [
+        "We stayed at home on Sunday because it was raining.",
+        "It was raining, so we stayed at home on Sunday."
+      ],
+      "points": 1,
+      "explanation": "\"Because\" introduces a reason; \"so\" introduces a result. The rain was the reason, so we need \"because\"."
+    }
+  ],
+  "task": {
+    "genre": "Email",
+    "prompt": "Write an email to your friend Sam about what you did last weekend.",
+    "contentPoints": [
+      "Say where you went and who you were with.",
+      "Describe two things you did.",
+      "Say how you felt about the weekend.",
+      "Ask about your friend's weekend."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "Hi Sam, How are you?",
+      "On Saturday I went ...",
+      "After that, we ...",
+      "It was ..., so I ...",
+      "What did you do at the weekend?",
+      "Write soon!"
+    ],
+    "modelAnswer": "Hi Sam,\n\nHow are you? I had a great weekend! On Saturday I went to the beach with my cousins. We swam in the sea and then we ate fish and chips. On Sunday it rained, so I stayed at home and watched two films with my sister. I was very tired but happy.\n\nWhat did you do at the weekend? Write soon!\n\nLove,\nMia"
+  }
+}

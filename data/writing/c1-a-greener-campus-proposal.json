@@ -1,0 +1,328 @@
+{
+  "id": "w-a-greener-campus-proposal",
+  "title": "A Greener Campus Proposal",
+  "level": "C1 · Advanced",
+  "description": "Practise conditional inversion, nominalisation and formal linking, then write a proposal to make your college more sustainable.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The college could significantly ___ its carbon footprint by installing solar panels.",
+      "options": [
+        "decline",
+        "reduce",
+        "shorten",
+        "subside"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "We \"reduce\" a carbon footprint. \"Decline\" and \"subside\" are intransitive, and \"shorten\" is used for length or time."
+    },
+    {
+      "id": "e2",
+      "type": "transformation",
+      "focus": "Conditional inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ in solar panels, it would save money in the long run.\"",
+      "text": "If the college invested in solar panels, it would save money in the long run.",
+      "keyword": "WERE",
+      "answers": [
+        "Were the college to invest in solar panels, it would save money in the long run."
+      ],
+      "points": 1,
+      "explanation": "In formal writing, \"If + subject + past simple\" can become \"Were + subject + to-infinitive\", with no \"if\"."
+    },
+    {
+      "id": "e3",
+      "type": "gap-fill",
+      "focus": "Advanced passives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Over 2,000 plastic cups ___ (estimate) to be thrown away on campus every day.",
+      "answers": [
+        "are estimated"
+      ],
+      "points": 1,
+      "explanation": "Subject + be estimated + to-infinitive is an impersonal passive that presents figures objectively: cups are estimated to be thrown away."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Cohesion",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "propose",
+        "this",
+        "to",
+        "scheme",
+        "we",
+        "end",
+        "a",
+        "bike-sharing"
+      ],
+      "answers": [
+        "To this end, we propose a bike-sharing scheme.",
+        "We propose a bike-sharing scheme to this end."
+      ],
+      "points": 1,
+      "explanation": "\"To this end\" (= in order to achieve this) links an aim to the action that will achieve it, and usually comes at the start of the sentence."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Cleft sentences",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It is the canteen where produces most waste.",
+      "answers": [
+        "It is the canteen that produces most waste.",
+        "It is the canteen which produces most waste."
+      ],
+      "points": 1,
+      "explanation": "In an \"it\" cleft that focuses on the subject, use \"that\" (or \"which\" for things) to introduce the clause, not \"where\"."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the most appropriately cautious option.",
+      "text": "Introducing a reusable cup scheme ___ cut waste by as much as half.",
+      "options": [
+        "is bound to",
+        "could well",
+        "must certainly",
+        "will definitely"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Could well\" expresses a strong but cautious possibility, which suits a proposal; the other options overstate certainty."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Nominalisation",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ will save energy.\"",
+      "text": "If we replace the old lighting, we will save energy.",
+      "keyword": "REPLACEMENT",
+      "answers": [
+        "The replacement of the old lighting will save energy.",
+        "Replacement of the old lighting will save energy."
+      ],
+      "points": 1,
+      "explanation": "Nominalisation turns the verb \"replace\" into the noun \"replacement\", making the sentence shorter and more formal: The replacement of the old lighting ..."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Concession",
+      "prompt": "Complete the gap with one suitable word or phrase.",
+      "text": "___ the initial cost, the scheme would pay for itself within three years.",
+      "answers": [
+        "Notwithstanding",
+        "Despite",
+        "In spite of",
+        "Regardless of"
+      ],
+      "points": 1,
+      "explanation": "\"Notwithstanding\" is a formal preposition meaning \"despite\"; it is followed directly by a noun phrase, with no \"of\"."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Cheaper bus passes would encourage students to switch ___ public transport.",
+      "options": [
+        "to",
+        "for",
+        "into",
+        "at"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We \"switch to\" a new option, product or habit."
+    },
+    {
+      "id": "e10",
+      "type": "transformation",
+      "focus": "Cleft sentences with \"What\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ a change in attitude, not just new technology.\"",
+      "text": "We need a change in attitude, not just new technology.",
+      "keyword": "WHAT",
+      "answers": [
+        "What we need is a change in attitude, not just new technology.",
+        "What is needed is a change in attitude, not just new technology."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft (What + clause + is + focus) places the key idea at the end for emphasis."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Inversion with \"On no account\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "lights",
+        "be left on",
+        "account",
+        "should",
+        "on no",
+        "overnight"
+      ],
+      "answers": [
+        "On no account should lights be left on overnight.",
+        "Lights should on no account be left on overnight."
+      ],
+      "points": 1,
+      "explanation": "After \"On no account\" at the start of a sentence, the modal comes before the subject: should lights be left."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Food waste could be turned into compost, which is both cheap and ___ (environment) friendly.",
+      "answers": [
+        "environmentally"
+      ],
+      "points": 1,
+      "explanation": "In compound adjectives like \"environmentally friendly\", the first part is an adverb."
+    },
+    {
+      "id": "e13",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Many students are concerned on the amount of packaging in the canteen.",
+      "answers": [
+        "Many students are concerned about the amount of packaging in the canteen.",
+        "Many students are concerned by the amount of packaging in the canteen."
+      ],
+      "points": 1,
+      "explanation": "When \"concerned\" means worried, it is followed by \"about\" (or \"by\"), not \"on\"."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Causative \"have\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The college should ___ by an expert.\"",
+      "text": "The college should get an expert to audit its energy use.",
+      "keyword": "HAVE",
+      "answers": [
+        "The college should have its energy use audited by an expert.",
+        "The college should have energy use audited by an expert.",
+        "The college should have the energy use audited by an expert."
+      ],
+      "points": 1,
+      "explanation": "The causative \"have + object + past participle\" is a formal way to say that someone else does a job for us."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Cohesion",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Solar panels are expensive to install; ___, they would pay for themselves within a decade.",
+      "options": [
+        "therefore",
+        "moreover",
+        "consequently",
+        "nonetheless"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Nonetheless\" introduces a contrast with the previous point; the other options add a point or a result."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Preposition + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We propose a scheme whereby students would receive a discount for bring their own cups.",
+      "answers": [
+        "We propose a scheme whereby students would receive a discount for bringing their own cups."
+      ],
+      "points": 1,
+      "explanation": "After a preposition such as \"for\", use the -ing form of the verb."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "Students should be encouraged to ___ (o) for reusable bottles.",
+      "answers": [
+        "opt"
+      ],
+      "points": 1,
+      "explanation": "\"Opt for\" means to choose something, and is a slightly formal verb suitable for a proposal."
+    },
+    {
+      "id": "e18",
+      "type": "word-order",
+      "focus": "Modal perfect passive",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "been",
+        "the bins",
+        "replaced",
+        "should",
+        "years ago",
+        "have"
+      ],
+      "answers": [
+        "The bins should have been replaced years ago.",
+        "Years ago the bins should have been replaced."
+      ],
+      "points": 1,
+      "explanation": "\"Should have been + past participle\" criticises something that was not done in the past."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The scheme would be economic viable within five years.",
+      "answers": [
+        "The scheme would be economically viable within five years."
+      ],
+      "points": 1,
+      "explanation": "An adverb is needed to modify the adjective \"viable\": economically viable."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Inversion with \"Not until\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Not ___ in every corridor did students start recycling.\"",
+      "text": "Students only started recycling after bins were placed in every corridor.",
+      "keyword": "UNTIL",
+      "answers": [
+        "Not until bins were placed in every corridor did students start recycling.",
+        "Not until bins had been placed in every corridor did students start recycling.",
+        "Not until recycling bins were placed in every corridor did students start recycling.",
+        "Not until the bins were placed in every corridor did students start recycling."
+      ],
+      "points": 1,
+      "explanation": "\"Not until + clause\" at the start of a sentence is followed by inversion in the main clause: did students start."
+    }
+  ],
+  "task": {
+    "genre": "Proposal",
+    "prompt": "The principal of your college has invited students to submit proposals for making the campus more environmentally friendly. Write a proposal suggesting practical measures and explaining how they could be funded.",
+    "contentPoints": [
+      "Describe the current environmental situation on campus.",
+      "Suggest at least two specific measures.",
+      "Explain how the measures could be funded.",
+      "Persuade the principal of the benefits of your proposal."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "This proposal outlines ...",
+      "At present, ...",
+      "We propose that ...",
+      "Notwithstanding the initial cost, ...",
+      "Were the college to adopt these proposals, ..."
+    ],
+    "modelAnswer": "Introduction\n\nThis proposal outlines three practical ways in which our college could reduce its environmental impact, and explains how they could be funded.\n\nCurrent situation\n\nAt present, the campus is far from sustainable. Over 2,000 disposable cups are estimated to be thrown away every day, most lighting is still fluorescent, and the majority of staff drive to work even though many live within five kilometres of the college.\n\nProposed measures\n\nFirstly, the canteen should switch to reusable cups, with a small deposit charged on each one. Secondly, the old lighting should be replaced with energy-efficient LED lamps fitted with motion sensors. Thirdly, we propose a bike-sharing scheme, with thirty bicycles available to students and staff free of charge.\n\nCosts and funding\n\nNotwithstanding the initial investment of approximately 40,000 pounds, these measures would largely pay for themselves. The replacement of the lighting alone is expected to cut electricity bills by around a quarter. Part of the remaining cost could be covered by a regional sustainability grant, while local businesses might be invited to sponsor the bicycles in exchange for advertising.\n\nConclusion\n\nWere the college to adopt these proposals, it would not only reduce waste and emissions but also set a valuable example to its students. I would therefore urge the management to consider them at the next board meeting and to involve the student council in planning their introduction."
+  }
+}

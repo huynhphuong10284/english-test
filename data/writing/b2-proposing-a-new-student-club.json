@@ -1,0 +1,327 @@
+{
+  "id": "w-proposing-a-new-student-club",
+  "title": "Proposing a New Student Club",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise passives, conditionals and formal linking, then write a proposal for a new student club.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Passive voice",
+      "prompt": "Choose the correct answer.",
+      "text": "It is suggested that the club ___ once a week after school.",
+      "options": [
+        "meet",
+        "meets",
+        "is meeting",
+        "will meet"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After \"suggest that\" in formal English, the base form of the verb (the subjunctive) is used: that the club meet."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Passive voice",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "The equipment could ___ (buy) with money from the student council.",
+      "answers": [
+        "be bought"
+      ],
+      "points": 1,
+      "explanation": "After a modal verb, the passive is be + past participle: could be bought."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Linking words",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the club",
+        "consequently",
+        "many students",
+        "would",
+        "join"
+      ],
+      "answers": [
+        "Consequently many students would join the club.",
+        "Many students would consequently join the club."
+      ],
+      "points": 1,
+      "explanation": "\"Consequently\" introduces a result and usually goes at the start of the clause, or before the main verb."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Second conditional",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "If the school would provide a room, we could start the club next month.",
+      "answers": [
+        "If the school provided a room, we could start the club next month.",
+        "If the school were to provide a room, we could start the club next month."
+      ],
+      "points": 1,
+      "explanation": "In the if-clause of a second conditional, use the past simple (provided), not \"would\"."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Wish / if only",
+      "prompt": "Choose the correct answer.",
+      "text": "Many students wish there ___ more activities for them after school.",
+      "options": [
+        "are",
+        "will be",
+        "were",
+        "have been"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use wish + past simple (were) to talk about a present situation you would like to be different."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Participle clauses",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "___ (run) by students, the club would cost the school very little.",
+      "answers": [
+        "Run",
+        "Being run"
+      ],
+      "points": 1,
+      "explanation": "A past participle clause (Run by students) has a passive meaning: because it would be run by students."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Passive voice",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"All the activities ___ older students.\"",
+      "text": "Older students will organise all the activities.",
+      "keyword": "ORGANISED",
+      "answers": [
+        "All the activities will be organised by older students."
+      ],
+      "points": 1,
+      "explanation": "The future passive is will be + past participle, with \"by\" to show who does the action."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Mixed conditionals",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"If somebody had suggested a chess club in the past, ___ one now.\"",
+      "text": "There is no chess club because nobody suggested one in the past.",
+      "keyword": "WOULD",
+      "answers": [
+        "If somebody had suggested a chess club in the past, there would be one now."
+      ],
+      "points": 1,
+      "explanation": "A mixed conditional links a past condition (had suggested) to a present result (there would be now)."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct answer.",
+      "text": "We would like to ___ an event to raise money for the club.",
+      "options": [
+        "do",
+        "hold",
+        "make",
+        "take"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "We hold (or organise) an event, a meeting or a competition."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Taking part would improve students' ___ (confident).",
+      "answers": [
+        "confidence"
+      ],
+      "points": 1,
+      "explanation": "Change the adjective confident into the noun confidence after the possessive students'."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Causative get",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "printed",
+        "we",
+        "for free",
+        "get",
+        "could",
+        "the posters"
+      ],
+      "answers": [
+        "We could get the posters printed for free.",
+        "Could we get the posters printed for free?"
+      ],
+      "points": 1,
+      "explanation": "Causative get + object + past participle: someone else will print the posters for us."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Quantifiers: all",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The club would be open to the all students.",
+      "answers": [
+        "The club would be open to all students.",
+        "The club would be open to all the students.",
+        "The club would be open to all of the students."
+      ],
+      "points": 1,
+      "explanation": "The article comes after all, not before it: all (the) students."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Passive voice (present perfect)",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Our proposal ___ by the head teacher.\"",
+      "text": "The head teacher has approved our proposal.",
+      "keyword": "BEEN",
+      "answers": [
+        "Our proposal has been approved by the head teacher."
+      ],
+      "points": 1,
+      "explanation": "Present perfect passive: has/have been + past participle."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Contrast: whereas",
+      "prompt": "Choose the correct answer.",
+      "text": "Some students prefer sport, ___ others are more interested in music.",
+      "options": [
+        "despite",
+        "however",
+        "consequently",
+        "whereas"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Whereas joins two clauses that contrast with each other in one sentence."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "It's time + past simple",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "It's time the school ___ (offer) more clubs for older students.",
+      "answers": [
+        "offered"
+      ],
+      "points": 1,
+      "explanation": "After It's time + subject, use the past simple to say something should happen now."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Participle clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "would",
+        "the club",
+        "many members",
+        "by",
+        "attract",
+        "led",
+        "an experienced teacher"
+      ],
+      "answers": [
+        "Led by an experienced teacher, the club would attract many members.",
+        "The club, led by an experienced teacher, would attract many members."
+      ],
+      "points": 1,
+      "explanation": "A past participle clause (Led by ...) has a passive meaning and describes the subject of the main clause."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Subject-verb agreement in relative clauses",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Students who joins the club will learn new skills.",
+      "answers": [
+        "Students who join the club will learn new skills."
+      ],
+      "points": 1,
+      "explanation": "In a relative clause, the verb agrees with the noun that who refers to: students who join."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Be bound to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Many students ___ interested.\"",
+      "text": "I'm sure many students will be interested.",
+      "keyword": "BOUND",
+      "answers": [
+        "Many students are bound to be interested."
+      ],
+      "points": 1,
+      "explanation": "Be bound to + infinitive means something is certain to happen."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Passive with modals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "A small fee would charge to cover the costs.",
+      "answers": [
+        "A small fee would be charged to cover the costs."
+      ],
+      "points": 1,
+      "explanation": "The fee does not charge anyone; it is charged. Modal passive: would be + past participle."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Reported speech: suggest",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Anna ___ a photography club.\"",
+      "text": "\"Let's start a photography club,\" said Anna.",
+      "keyword": "SUGGESTED",
+      "answers": [
+        "Anna suggested starting a photography club.",
+        "Anna suggested setting up a photography club.",
+        "Anna suggested that we start a photography club.",
+        "Anna suggested we start a photography club.",
+        "Anna suggested that we should start a photography club.",
+        "Anna suggested we should start a photography club.",
+        "Anna suggested that we set up a photography club.",
+        "Anna suggested we set up a photography club.",
+        "Anna suggested that we should set up a photography club.",
+        "Anna suggested we should set up a photography club."
+      ],
+      "points": 1,
+      "explanation": "Suggest is followed by -ing or by that + subject + (should) + infinitive, never by to + infinitive."
+    }
+  ],
+  "task": {
+    "genre": "Proposal",
+    "prompt": "Your school has some money available to start a new student club. The principal has asked students to send in proposals. Write a proposal describing the club you would like to start.",
+    "contentPoints": [
+      "Describe the club and its activities.",
+      "Explain why the club is needed.",
+      "Say what equipment, space or money would be required.",
+      "Explain how students and the school would benefit."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "The purpose of this proposal is to ...",
+      "It is suggested that ...",
+      "The club would require ...",
+      "This would enable students to ...",
+      "For these reasons, ..."
+    ],
+    "modelAnswer": "Introduction\n\nThe purpose of this proposal is to suggest starting a film club at our school and to explain why it would be a valuable addition to student life.\n\nThe club and its activities\n\nIt is suggested that the club meet every Thursday after school. Members would watch films from different countries and periods, followed by a short discussion. In the second term, students would also be given the chance to write and shoot their own short films.\n\nWhy it is needed\n\nAt present, most after-school activities are sports clubs, whereas students with creative interests have very few options. In a recent survey, more than sixty students said they would join a film club if one existed.\n\nRequirements\n\nThe club would require a classroom with a projector, which the school already has. However, a video camera and editing software would need to be bought. Consequently, I estimate the total cost at around 600 euros.\n\nBenefits\n\nThe club would help students improve their language and critical thinking skills, and it would encourage them to work in teams. Furthermore, the best student films could be shown at the end-of-year festival.\n\nFor these reasons, I strongly recommend that the proposal be accepted."
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "id": "w-privacy-and-surveillance",
+  "title": "Privacy and Surveillance",
+  "level": "C1 · Advanced",
+  "description": "Practise inversion, hedging and nominalisation, then write an essay on the balance between security and privacy.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Advanced passives",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Millions of CCTV cameras ___ installed in British cities over the past decade.",
+      "options": [
+        "have been",
+        "had been",
+        "are being",
+        "were being"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Over the past decade\" describes a period up to now, so use the present perfect passive: have been installed."
+    },
+    {
+      "id": "e2",
+      "type": "word-order",
+      "focus": "Inversion with \"Under no circumstances\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "data",
+        "circumstances",
+        "be",
+        "no",
+        "personal",
+        "should",
+        "sold",
+        "under"
+      ],
+      "answers": [
+        "Under no circumstances should personal data be sold."
+      ],
+      "points": 1,
+      "explanation": "After \"Under no circumstances\" at the start of a sentence, the modal comes before the subject: should personal data be sold."
+    },
+    {
+      "id": "e3",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one suitable word or phrase.",
+      "text": "Facial recognition technology raises serious concerns about civil ___ .",
+      "answers": [
+        "liberties",
+        "rights"
+      ],
+      "points": 1,
+      "explanation": "\"Civil liberties\" and \"civil rights\" are fixed collocations for the basic freedoms of citizens."
+    },
+    {
+      "id": "e4",
+      "type": "transformation",
+      "focus": "Hedging",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Surveillance ___ some crime.\"",
+      "text": "Surveillance probably deters some crime.",
+      "keyword": "LIKELY",
+      "answers": [
+        "Surveillance is likely to deter some crime.",
+        "Surveillance is quite likely to deter some crime.",
+        "Surveillance is very likely to deter some crime."
+      ],
+      "points": 1,
+      "explanation": "\"Be likely to + verb\" is a hedging structure that expresses probability without claiming certainty."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Cleft sentences",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It is not the cameras themselves but how the footage is used what worries people.",
+      "answers": [
+        "It is not the cameras themselves but how the footage is used that worries people."
+      ],
+      "points": 1,
+      "explanation": "In an \"it\" cleft, the clause after the focus is introduced by \"that\", not \"what\"."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Concession",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Governments argue that surveillance keeps us safe. ___, they rarely explain how the data is stored.",
+      "options": [
+        "Notwithstanding",
+        "Yet",
+        "To this end",
+        "By the same token"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Yet\" introduces a contrast at the start of a sentence. \"Notwithstanding\" needs a noun phrase after it."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Nominalisation",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Citizens are concerned about ___ data.\"",
+      "text": "Citizens are concerned that their data might be misused.",
+      "keyword": "MISUSE",
+      "answers": [
+        "Citizens are concerned about the possible misuse of their data.",
+        "Citizens are concerned about the potential misuse of their data.",
+        "Citizens are concerned about the misuse of their data.",
+        "Citizens are concerned about possible misuse of their data.",
+        "Citizens are concerned about potential misuse of their data."
+      ],
+      "points": 1,
+      "explanation": "Nominalisation turns \"their data might be misused\" into \"the possible misuse of their data\", which can follow the preposition \"about\"."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Inversion with \"At no time\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"At ___ the risks.\"",
+      "text": "We have never properly considered the risks.",
+      "keyword": "TIME",
+      "answers": [
+        "At no time have we properly considered the risks.",
+        "At no time have we considered the risks properly."
+      ],
+      "points": 1,
+      "explanation": "\"At no time\" at the start of a sentence means \"never\" and is followed by auxiliary + subject: At no time have we ..."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Personal data must not be stored ___ (definite).",
+      "answers": [
+        "indefinitely"
+      ],
+      "points": 1,
+      "explanation": "An adverb is needed to modify \"stored\", and the meaning is negative: definite becomes indefinitely (with no time limit)."
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Facial recognition has been criticised on its lack of accuracy.",
+      "answers": [
+        "Facial recognition has been criticised for its lack of accuracy."
+      ],
+      "points": 1,
+      "explanation": "We criticise someone or something \"for\" a fault: criticised for its lack of accuracy."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Many citizens are wary ___ sharing personal data online.",
+      "options": [
+        "in",
+        "for",
+        "of",
+        "to"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The adjective \"wary\" (cautious) is followed by \"of\": wary of doing something."
+    },
+    {
+      "id": "e12",
+      "type": "word-order",
+      "focus": "Cleft sentences with \"The thing that\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "to the data",
+        "concerns me",
+        "the thing that",
+        "has access",
+        "who"
+      ],
+      "answers": [
+        "The thing that concerns me is who has access to the data.",
+        "Who has access to the data is the thing that concerns me."
+      ],
+      "points": 1,
+      "explanation": "A cleft with \"The thing that ... is\" focuses attention on the key issue at the end of the sentence."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Verb patterns with \"lead\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Excessive surveillance can ___ the government.\"",
+      "text": "Excessive surveillance can make people distrust the government.",
+      "keyword": "LEAD",
+      "answers": [
+        "Excessive surveillance can lead people to distrust the government.",
+        "Excessive surveillance can lead to distrust of the government.",
+        "Excessive surveillance can lead to a distrust of the government.",
+        "Excessive surveillance can lead to a lack of trust in the government.",
+        "Excessive surveillance can lead to mistrust of the government.",
+        "Excessive surveillance can lead people to mistrust the government."
+      ],
+      "points": 1,
+      "explanation": "\"Lead someone to do something\" means to cause them to do it; \"lead to + noun\" describes a result."
+    },
+    {
+      "id": "e14",
+      "type": "gap-fill",
+      "focus": "Cohesion",
+      "prompt": "Complete the gap with one suitable word or phrase.",
+      "text": "Governments must protect citizens' data. To this ___, they should introduce stricter laws.",
+      "answers": [
+        "end"
+      ],
+      "points": 1,
+      "explanation": "\"To this end\" means \"in order to achieve this aim\" and links a goal to the action taken."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Constant surveillance can have a chilling effect on free expressive.",
+      "answers": [
+        "Constant surveillance can have a chilling effect on free expression."
+      ],
+      "points": 1,
+      "explanation": "After the adjective \"free\" we need a noun: expressive (adjective) becomes expression."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Critics say that mass surveillance ___ the right to privacy.",
+      "options": [
+        "harms",
+        "hurts",
+        "offends",
+        "infringes"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Infringe (on) a right\" is the formal collocation meaning to limit or break someone's legal right."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Conditional inversion with \"Should\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the consequences",
+        "be leaked",
+        "could",
+        "should",
+        "the data",
+        "be serious"
+      ],
+      "answers": [
+        "Should the data be leaked, the consequences could be serious.",
+        "The consequences could be serious should the data be leaked."
+      ],
+      "points": 1,
+      "explanation": "\"Should + subject + verb\" replaces \"If\" in formal first conditionals: Should the data be leaked ..."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Passive gerund",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Many people strongly dislike ___ (watch) wherever they go.",
+      "answers": [
+        "being watched"
+      ],
+      "points": 1,
+      "explanation": "After verbs like \"dislike\", a passive action uses being + past participle: dislike being watched."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Agreement with \"which\"",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Some countries rate citizens on their behaviour, which raise serious ethical concerns.",
+      "answers": [
+        "Some countries rate citizens on their behaviour, which raises serious ethical concerns."
+      ],
+      "points": 1,
+      "explanation": "When \"which\" refers to a whole previous clause, it takes a singular verb: which raises."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Prepositional phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Companies should not collect data ___ consent.\"",
+      "text": "Companies should not collect data unless users agree to it.",
+      "keyword": "WITHOUT",
+      "answers": [
+        "Companies should not collect data without users' consent.",
+        "Companies should not collect data without the users' consent.",
+        "Companies should not collect data without user consent.",
+        "Companies should not collect data without the consent of users.",
+        "Companies should not collect data without the consent of the users.",
+        "Companies should not collect data without their users' consent.",
+        "Companies should not collect data without users giving their consent.",
+        "Companies should not collect data without users giving consent.",
+        "Companies should not collect data without the user's consent."
+      ],
+      "points": 1,
+      "explanation": "\"Without + noun\" can replace \"unless\" + clause: unless users agree becomes without users' consent."
+    }
+  ],
+  "task": {
+    "genre": "Essay",
+    "prompt": "Your class has been discussing the growth of surveillance technology. Write an essay discussing whether increased surveillance is a price worth paying for greater security, and give your own opinion.",
+    "contentPoints": [
+      "Explain the arguments in favour of surveillance.",
+      "Explain the risks to privacy.",
+      "Give and justify your own opinion on how surveillance should be controlled."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "In recent years, ...",
+      "There are strong arguments in favour of ...",
+      "However, the risks should not be underestimated.",
+      "Under no circumstances should ...",
+      "In my opinion, ...",
+      "In conclusion, ..."
+    ],
+    "modelAnswer": "In recent years, millions of CCTV cameras have been installed in cities around the world, and facial recognition technology is becoming increasingly common. While governments insist that surveillance keeps us safe, many citizens fear that their privacy is being sacrificed.\n\nThere are strong arguments in favour of surveillance. Cameras help the police to identify suspects quickly, and surveillance is likely to deter some crime, particularly in busy public spaces. Similarly, monitoring online communication has allowed security services to prevent a number of serious attacks. For many people, giving up a little privacy seems a small price to pay.\n\nHowever, the risks should not be underestimated. Facial recognition raises serious concerns about civil liberties, since it allows authorities to track people's movements without their knowledge. It is not the cameras themselves but how the footage is used that worries people most. Citizens are also concerned about the possible misuse of their data by private companies. Moreover, governments rarely explain how the data is stored or who has access to it.\n\nIn my opinion, a degree of surveillance is necessary, but it must be strictly controlled. Independent bodies should oversee how data is collected, and under no circumstances should personal data be sold without consent. At no time have we, as a society, properly considered the long-term consequences of these technologies.\n\nIn conclusion, security and privacy need not be incompatible. With clear laws and genuine transparency, it should be possible to protect the public without turning our cities into places where everyone is constantly watched."
+  }
+}

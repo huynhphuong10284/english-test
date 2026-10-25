@@ -1,0 +1,322 @@
+{
+  "id": "w-my-town",
+  "title": "My Town",
+  "level": "A1 · Beginner",
+  "description": "Practise there is/are, has got and can, and write a short description of your town.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "There is / there are",
+      "prompt": "Choose the correct word.",
+      "text": "There ___ some nice cafes in the town centre.",
+      "options": [
+        "is",
+        "am",
+        "be",
+        "are"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"there are\" with plural nouns: there are some nice cafes."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "There is / there are: negative",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "There ___ (not / be) a cinema in my town.",
+      "answers": [
+        "isn't",
+        "is not"
+      ],
+      "points": 1,
+      "explanation": "The negative of \"there is\" is \"there isn't\" (there is not): there isn't a cinema."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Have got",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a",
+        "river",
+        "has got",
+        "my town"
+      ],
+      "answers": [
+        "My town has got a river."
+      ],
+      "points": 1,
+      "explanation": "Subject + has got + noun: My town has got a river."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Have got",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My town have got a big park.",
+      "answers": [
+        "My town has got a big park.",
+        "My town's got a big park.",
+        "My town has a big park."
+      ],
+      "points": 1,
+      "explanation": "My town = it, so use \"has got\": my town has got."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the best word to join the ideas.",
+      "text": "My town is small ___ beautiful.",
+      "options": [
+        "because",
+        "but",
+        "or",
+        "so"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"But\" joins two ideas that are a little different: small, but beautiful."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Can / can't",
+      "prompt": "Complete the sentence with can or can't.",
+      "text": "You ___ swim in the river. It is dangerous.",
+      "answers": [
+        "can't",
+        "cannot",
+        "can not"
+      ],
+      "points": 1,
+      "explanation": "Use \"can't\" (cannot) to say something is not possible or not allowed: you can't swim."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions of place: next to",
+      "prompt": "Choose the correct answer.",
+      "text": "The bank is ___ the post office.",
+      "options": [
+        "next to",
+        "from",
+        "of",
+        "to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"next to\" for something beside another thing: next to the post office."
+    },
+    {
+      "id": "e8",
+      "type": "error-correction",
+      "focus": "Plurals: -ies",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There are two big librarys in my town.",
+      "answers": [
+        "There are two big libraries in my town."
+      ],
+      "points": 1,
+      "explanation": "Nouns ending in consonant + y change y to -ies: library, libraries."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Articles: a / an",
+      "prompt": "Write a or an.",
+      "text": "There is ___ old castle on the hill.",
+      "answers": [
+        "an"
+      ],
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound: an old castle."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Like + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "walking",
+        "I",
+        "like",
+        "in the park"
+      ],
+      "answers": [
+        "I like walking in the park.",
+        "In the park I like walking."
+      ],
+      "points": 1,
+      "explanation": "Like + verb-ing: I like walking."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Present simple: be",
+      "prompt": "Choose the correct word.",
+      "text": "The people in my town ___ very friendly.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"People\" is plural, so use \"are\": the people are."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Can",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "You can buys fresh fruit at the market.",
+      "answers": [
+        "You can buy fresh fruit at the market."
+      ],
+      "points": 1,
+      "explanation": "After \"can\", use the base form of the verb (no -s): you can buy."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Linking words: so",
+      "prompt": "Choose the correct word.",
+      "text": "My town is near the sea, ___ there are lots of boats.",
+      "options": [
+        "because",
+        "or",
+        "so",
+        "but"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"so\" to give a result."
+    },
+    {
+      "id": "e14",
+      "type": "gap-fill",
+      "focus": "Present simple: -es",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "The bus ___ (go) to the city centre every ten minutes.",
+      "answers": [
+        "goes"
+      ],
+      "points": 1,
+      "explanation": "With he, she and it, \"go\" becomes \"goes\"."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "There is",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a park",
+        "near my house",
+        "there",
+        "is"
+      ],
+      "answers": [
+        "There is a park near my house.",
+        "Near my house there is a park.",
+        "Is there a park near my house?"
+      ],
+      "points": 1,
+      "explanation": "There is + a singular noun + place: There is a park near my house."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Prepositions of time: on",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The shops close at Sunday.",
+      "answers": [
+        "The shops close on Sunday."
+      ],
+      "points": 1,
+      "explanation": "Use \"on\" with days of the week: on Sunday."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Possessive adjectives",
+      "prompt": "Choose the correct word.",
+      "text": "Our town is famous for ___ old bridge.",
+      "options": [
+        "its",
+        "it's",
+        "it",
+        "his"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"its\" (no apostrophe) for something that belongs to a thing: its bridge. \"It's\" means \"it is\"."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Present simple: questions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Does your town has a museum?",
+      "answers": [
+        "Does your town have a museum?"
+      ],
+      "points": 1,
+      "explanation": "After \"does\" in a question, use the base form of the verb: Does it have ...?"
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Prepositions of place",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "live",
+        "a small town",
+        "I",
+        "in"
+      ],
+      "answers": [
+        "I live in a small town."
+      ],
+      "points": 1,
+      "explanation": "Use \"in\" with towns and cities: I live in a small town."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Have got: negative",
+      "prompt": "Write the negative form of have.",
+      "text": "My town ___ (not / have) got a zoo.",
+      "answers": [
+        "hasn't",
+        "has not"
+      ],
+      "points": 1,
+      "explanation": "Use \"hasn't got\" (has not got) with he, she and it: my town hasn't got a zoo."
+    }
+  ],
+  "task": {
+    "genre": "Short description",
+    "prompt": "Write about your town or city.",
+    "contentPoints": [
+      "Say the name of your town and where it is.",
+      "Say what there is in your town.",
+      "Say what people can do there.",
+      "Say if you like your town and why."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "I live in ...",
+      "It is near ...",
+      "There is / There are ...",
+      "You can ...",
+      "I like my town because ..."
+    ],
+    "modelAnswer": "I live in Hoi An. It is a small town near the sea. There are lots of old houses, cafes and a market. You can ride a bike or go to the beach. I like my town because it is quiet and beautiful."
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "id": "the-sharing-economy",
+  "title": "Borrowing Instead of Buying: The Sharing Economy",
+  "level": "B2 · Upper-intermediate",
+  "description": "How online platforms have changed the way people use cars, homes and tools, and the problems this has created.",
+  "instructions": "Read the article about the sharing economy, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Over the past two decades, a new way of doing business has spread rapidly across the world. Instead of buying their own cars, tools or holiday homes, many people now borrow or rent them from strangers through online platforms. This model, often called the sharing economy, promises to make better use of resources that would otherwise sit idle for most of the time."
+    },
+    {
+      "id": "p2",
+      "text": "Supporters point out that the average private car is parked for the vast majority of its life, and that a typical electric drill is used for only a few minutes before being returned to a cupboard. By allowing owners to rent out such items, sharing platforms can reduce the number of goods that need to be manufactured, which in turn lowers consumption of energy and raw materials. For owners, the arrangement also provides a welcome source of extra income."
+    },
+    {
+      "id": "p3",
+      "text": "Yet the reality has turned out to be more complicated than the early enthusiasm suggested. Some of the best-known platforms have grown into enormous commercial operations, and critics argue that the word 'sharing' is now little more than a marketing label. In several popular tourist cities, for example, investors have bought entire apartment buildings simply to rent them to short-term visitors, pushing up housing costs for local residents."
+    },
+    {
+      "id": "p4",
+      "text": "Trust is another central issue. When a transaction takes place between two strangers, neither side can be entirely sure that the other will behave honestly. Platforms have tried to address this concern through rating systems, in which users review each other after every exchange. These systems work reasonably well, but they are far from perfect: people often hesitate to leave negative reviews, so scores tend to be inflated and may conceal genuine problems."
+    },
+    {
+      "id": "p5",
+      "text": "In response to these challenges, many local governments have begun to introduce regulations, such as limiting the number of nights a home can be rented out each year. Whether such rules will preserve the original spirit of the sharing economy remains to be seen. What is clear, however, is that the idea of access rather than ownership has permanently changed the way many people think about the things they use."
+    },
+    {
+      "id": "p6",
+      "text": "The sharing economy has also changed the nature of work for many people. Platforms that connect customers with drivers, cleaners or handymen often describe these workers as independent partners rather than employees. This gives them freedom to decide when to work, but it can also leave them without the protections that traditional jobs provide, such as a guaranteed minimum income or paid leave. For some, renting out a spare room or offering occasional rides is a pleasant way to earn extra money; for others, it has become a main source of income on which they depend heavily."
+    },
+    {
+      "id": "p7",
+      "text": "Not all sharing is commercial, however. Alongside the large platforms, many smaller, community-based schemes have appeared, such as tool libraries, where neighbours can borrow equipment for free, and repair cafes, where volunteers help people fix broken items instead of throwing them away. Some also organise regular events, such as seed swaps or book exchanges. These projects rarely make headlines, and they operate on a much smaller scale, but participants often say that the social contact they offer is as valuable as the money saved. In a sense, they return to the older meaning of sharing, based on generosity and local relationships rather than profit."
+    },
+    {
+      "id": "p8",
+      "text": "Even the environmental benefits of the sharing economy have been questioned. If renting a car through an app is cheap and convenient, some people may drive more often than they would otherwise, or choose a car instead of taking a bus. Supporters reply that the convenience of sharing has also helped some city households to give up owning a car entirely. Similarly, low-cost short-term accommodation may encourage additional trips that would not have happened without it. Researchers therefore argue that the overall effect depends on how the services are used. Sharing can reduce waste, but only if it genuinely replaces ownership rather than simply adding to the total amount of consumption."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Online sharing platforms should be banned in tourist cities.",
+        "Rating systems are the most important invention of the internet age.",
+        "The sharing economy offers real benefits but has also created problems that need managing.",
+        "Most people now prefer renting to owning everything they use."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraphs 1-2 describe the benefits of the sharing economy, paragraphs 3-4 describe its problems and paragraph 5 discusses regulation.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "many people now borrow or rent them from strangers through online platforms"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "the reality has turned out to be more complicated than the early enthusiasm suggested"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, how can sharing platforms help the environment?",
+      "options": [
+        "By encouraging people to drive electric vehicles",
+        "By reducing the number of goods that have to be produced",
+        "By recycling old tools and cars",
+        "By persuading owners to keep items in cupboards"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Renting out items means fewer goods need to be manufactured, which saves energy and raw materials.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "sharing platforms can reduce the number of goods that need to be manufactured"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"idle\" is closest in meaning to:",
+      "options": [
+        "broken",
+        "expensive",
+        "hidden",
+        "not being used"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Resources that \"sit idle\" are resources that are not in use, like a parked car or a drill in a cupboard.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "resources that would otherwise sit idle for most of the time"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can be inferred about the critics mentioned in paragraph 3?",
+      "options": [
+        "They believe some platforms are now driven mainly by profit rather than by sharing.",
+        "They want more tourists to visit popular cities.",
+        "They think apartment buildings should be rented to visitors.",
+        "They invented the term \"sharing economy\"."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Calling \"sharing\" a marketing label implies that the platforms have become commercial businesses rather than genuine sharing.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the word 'sharing' is now little more than a marketing label"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention investors buying entire apartment buildings?",
+      "options": [
+        "To show that property is a good investment",
+        "To explain how rating systems work",
+        "To suggest that tourists should stay in hotels",
+        "To give an example of how the sharing economy can harm local communities"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The example shows a negative effect: housing costs rise for local residents.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "pushing up housing costs for local residents"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "According to paragraph 4, why are rating scores often inflated?",
+      "options": [
+        "Platforms delete all bad reviews.",
+        "Users are reluctant to write negative reviews.",
+        "Owners pay customers for good ratings.",
+        "Most transactions go perfectly."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says people hesitate to leave negative reviews, so scores are higher than they should be.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "people often hesitate to leave negative reviews"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"conceal\" is closest in meaning to:",
+      "options": [
+        "solve",
+        "report",
+        "hide",
+        "create"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Inflated scores can hide real problems from other users.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "scores tend to be inflated and may conceal genuine problems"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What does the writer suggest about new regulations in paragraph 5?",
+      "options": [
+        "Their long-term effect is still uncertain.",
+        "They have already destroyed the sharing economy.",
+        "Governments are not interested in introducing them.",
+        "They will make people return to owning everything."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Remains to be seen\" means that nobody knows yet what the result will be.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Whether such rules will preserve the original spirit of the sharing economy remains to be seen."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which title would best suit the article as a whole?",
+      "options": [
+        "How to Buy a Holiday Home",
+        "Why Cars Are Bad for Cities",
+        "The History of the Electric Drill",
+        "Borrowing from Strangers: The Promise and Problems of the Sharing Economy"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The article describes the benefits the sharing economy promised and the problems that have appeared since.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the reality has turned out to be more complicated than the early enthusiasm suggested"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "purpose",
+      "text": "Why does the writer mention a typical electric drill in paragraph 2?",
+      "options": [
+        "To illustrate how rarely some privately owned items are used",
+        "To advertise a new type of drill",
+        "To explain how drills are manufactured",
+        "To show that tools are expensive to rent"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A drill used for only a few minutes is an example of a resource that sits idle most of the time.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "a typical electric drill is used for only a few minutes before being returned to a cupboard"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "According to paragraph 6, how do platforms often describe drivers and cleaners?",
+      "options": [
+        "As full-time members of staff",
+        "As independent partners rather than employees",
+        "As unpaid volunteers",
+        "As customers of the platform"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Platforms often call these workers independent partners rather than employees.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "often describe these workers as independent partners rather than employees"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"guaranteed\" is closest in meaning to:",
+      "options": [
+        "very high",
+        "paid in cash",
+        "temporary",
+        "certain to be provided"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A guaranteed minimum income is one that a worker can be sure of receiving.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "such as a guaranteed minimum income or paid leave"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "What can be inferred about people for whom platform work is their main source of income?",
+      "options": [
+        "They earn more than traditional employees.",
+        "They only work occasionally.",
+        "The lack of job protections affects them more seriously.",
+        "They prefer having no paid leave."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "People who depend heavily on this income have more to lose when there is no guaranteed income or paid leave.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "it has become a main source of income on which they depend heavily"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What is a tool library, according to paragraph 7?",
+      "options": [
+        "A shop selling second-hand tools",
+        "A library of books about repairing things",
+        "A company that rents tools to businesses",
+        "A scheme where neighbours can borrow equipment for free"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "In a tool library, neighbours can borrow equipment without paying.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "tool libraries, where neighbours can borrow equipment for free"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the phrase \"make headlines\" means:",
+      "options": [
+        "earn large profits",
+        "receive a lot of attention in the news",
+        "write newspaper articles",
+        "break the law"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Community projects are small and rarely reported in the news.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "These projects rarely make headlines"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What does paragraph 7 suggest about people who take part in community sharing schemes?",
+      "options": [
+        "They value the chance to meet others, not just the money they save.",
+        "They mostly want to make a profit.",
+        "They have no interest in reducing waste.",
+        "They do not get on with their neighbours."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Participants say the social contact is as valuable as the money saved.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the social contact they offer is as valuable as the money saved"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer say that community schemes \"return to the older meaning of sharing\"?",
+      "options": [
+        "To suggest that sharing was invented recently",
+        "To contrast them with large platforms that are driven by profit",
+        "To criticise volunteers for being old-fashioned",
+        "To explain how tool libraries began"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Community schemes are based on generosity and relationships, unlike commercial platforms where \"sharing\" can be a marketing label.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "based on generosity and local relationships rather than profit"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 8, how might cheap car rental through an app affect people's behaviour?",
+      "options": [
+        "They might sell their bicycles.",
+        "They might stop travelling altogether.",
+        "They might drive more often or choose a car instead of a bus.",
+        "They might buy a second car."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Cheap, convenient rental may lead people to drive more or to use a car instead of public transport.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "some people may drive more often than they would otherwise, or choose a car instead of taking a bus"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "According to researchers, what does the overall environmental effect of the sharing economy depend on?",
+      "options": [
+        "How the services are used",
+        "The price of petrol",
+        "The number of platforms",
+        "Government advertising"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Researchers say the overall effect depends on how the services are used.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the overall effect depends on how the services are used"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What does the final sentence of the article imply about sharing that simply adds to consumption?",
+      "options": [
+        "It always reduces waste.",
+        "It is the most environmentally friendly option.",
+        "It may bring little or no environmental benefit.",
+        "It is illegal in some countries."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Sharing only reduces waste when it replaces ownership; if it just adds more consumption, the benefit disappears.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "but only if it genuinely replaces ownership rather than simply adding to the total amount of consumption"
+        }
+      ]
+    }
+  ]
+}

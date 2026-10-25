@@ -1,0 +1,330 @@
+{
+  "id": "w-a-museum-review",
+  "title": "A Museum Review",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise passives, participle clauses and contrast linkers, then write a review of a museum you have visited.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Passive voice",
+      "prompt": "Choose the correct answer.",
+      "text": "The museum ___ in 1895 by a wealthy collector.",
+      "options": [
+        "founded",
+        "was founding",
+        "was founded",
+        "has founded"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use the past simple passive (was + past participle) for a past event when the receiver of the action is the subject."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Passive voice",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Photography is not allowed while the paintings ___ (restore).",
+      "answers": [
+        "are being restored"
+      ],
+      "points": 1,
+      "explanation": "The present continuous passive (am/is/are being + past participle) describes an action in progress now."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Participle clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "from",
+        "the dinosaur skeleton",
+        "impresses",
+        "every visitor",
+        "the ceiling",
+        "hanging"
+      ],
+      "answers": [
+        "The dinosaur skeleton hanging from the ceiling impresses every visitor.",
+        "Hanging from the ceiling, the dinosaur skeleton impresses every visitor."
+      ],
+      "points": 1,
+      "explanation": "A participle clause (hanging from the ceiling) can follow a noun and replace a relative clause (which hangs from the ceiling)."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Mixed conditionals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "If I had known how big the museum was, I would spend more time there.",
+      "answers": [
+        "If I had known how big the museum was, I would have spent more time there.",
+        "If I had known how big the museum was, I'd have spent more time there.",
+        "If I'd known how big the museum was, I would have spent more time there.",
+        "If I'd known how big the museum was, I'd have spent more time there."
+      ],
+      "points": 1,
+      "explanation": "Both the condition and the result are in the past, so this is a third conditional: would have spent."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "The ticket is quite expensive. ___, I think it is worth every penny.",
+      "options": [
+        "Whereas",
+        "Nevertheless",
+        "Consequently",
+        "Because"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Nevertheless\" introduces a contrast with the previous sentence: it is expensive, but still worth it."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Linking words",
+      "prompt": "Complete the sentence with one linking word.",
+      "text": "The ground floor was crowded, ___ the top floor was almost empty.",
+      "answers": [
+        "whereas",
+        "while",
+        "but"
+      ],
+      "points": 1,
+      "explanation": "\"Whereas\" (or \"while\") compares two different situations in one sentence."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Passive voice",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"A new wing for modern art ___.\"",
+      "text": "They are building a new wing for modern art.",
+      "keyword": "BUILT",
+      "answers": [
+        "A new wing for modern art is being built."
+      ],
+      "points": 1,
+      "explanation": "The present continuous passive is am/is/are + being + past participle: is being built."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Reported speech",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The guide ___ closed at five.\"",
+      "text": "\"The café closes at five,\" the guide said.",
+      "keyword": "TOLD",
+      "answers": [
+        "The guide told us that the café closed at five.",
+        "The guide told us the café closed at five.",
+        "The guide told me that the café closed at five.",
+        "The guide told me the café closed at five.",
+        "The guide told us that the cafe closed at five.",
+        "The guide told us the cafe closed at five.",
+        "The guide told me that the cafe closed at five.",
+        "The guide told me the cafe closed at five."
+      ],
+      "points": 1,
+      "explanation": "\"Tell\" needs an object (told us/me). The present simple moves back to the past simple in reported speech."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Modals of deduction",
+      "prompt": "Choose the correct answer.",
+      "text": "This vase ___ be very old; it looks brand new.",
+      "options": [
+        "can't",
+        "must",
+        "has to",
+        "should"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Can't + infinitive shows you are sure something is not true, based on evidence."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "The exhibition of ancient jewellery was absolutely ___ (fascinate).",
+      "answers": [
+        "fascinating"
+      ],
+      "points": 1,
+      "explanation": "Use the -ing adjective (fascinating) to describe the thing that causes the feeling."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Causative get",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "taken",
+        "our photo",
+        "we",
+        "by a guard",
+        "got"
+      ],
+      "answers": [
+        "We got our photo taken by a guard."
+      ],
+      "points": 1,
+      "explanation": "Causative get + object + past participle means someone else did something for us."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Articles",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The museum is closed on the Mondays.",
+      "answers": [
+        "The museum is closed on Mondays."
+      ],
+      "points": 1,
+      "explanation": "For repeated days (every Monday), use on + plural day with no article: on Mondays."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Third conditional",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"We would have seen the dinosaur room ___ late.\"",
+      "text": "We didn't see the dinosaur room because we arrived late.",
+      "keyword": "IF",
+      "answers": [
+        "We would have seen the dinosaur room if we had not arrived late.",
+        "We would have seen the dinosaur room if we'd not arrived late."
+      ],
+      "points": 1,
+      "explanation": "The third conditional imagines the opposite of a past fact: would have + past participle ... if + past perfect."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct answer.",
+      "text": "The guided tour ___ my expectations; I learned so much.",
+      "options": [
+        "made",
+        "did",
+        "reached",
+        "exceeded"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We say something exceeds (or meets) your expectations."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Passive reporting verbs",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "The painting ___ (think) to be worth over ten million pounds.",
+      "answers": [
+        "is thought"
+      ],
+      "points": 1,
+      "explanation": "Subject + passive reporting verb + to-infinitive reports a general opinion: is thought to be."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Reported questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "had been built",
+        "asked",
+        "the museum",
+        "we",
+        "when",
+        "the guide"
+      ],
+      "answers": [
+        "We asked the guide when the museum had been built."
+      ],
+      "points": 1,
+      "explanation": "In a reported question, the word order is like a statement (the museum had been built), not a question."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Wish / if only",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I wish I took more photos of the Egyptian rooms.",
+      "answers": [
+        "I wish I had taken more photos of the Egyptian rooms.",
+        "I wish I'd taken more photos of the Egyptian rooms."
+      ],
+      "points": 1,
+      "explanation": "To express regret about the past, use wish + past perfect."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Passive: be allowed to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Visitors ___ the exhibits.\"",
+      "text": "Visitors must not touch the exhibits.",
+      "keyword": "ALLOWED",
+      "answers": [
+        "Visitors are not allowed to touch the exhibits."
+      ],
+      "points": 1,
+      "explanation": "Be (not) allowed to + infinitive is a passive way to talk about permission and rules."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Relative clauses",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The room which the mummies are kept is on the second floor.",
+      "answers": [
+        "The room where the mummies are kept is on the second floor.",
+        "The room in which the mummies are kept is on the second floor.",
+        "The room which the mummies are kept in is on the second floor."
+      ],
+      "points": 1,
+      "explanation": "For a place, use where (or in which); which alone cannot replace in the room."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Formal linking: despite",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"___, the museum has an impressive collection.\"",
+      "text": "Although the museum is small, it has an impressive collection.",
+      "keyword": "DESPITE",
+      "answers": [
+        "Despite being small, the museum has an impressive collection.",
+        "Despite its small size, the museum has an impressive collection.",
+        "Despite the fact that it is small, the museum has an impressive collection.",
+        "Despite the fact that it's small, the museum has an impressive collection."
+      ],
+      "points": 1,
+      "explanation": "Despite is followed by a noun or -ing form, or by the fact that + clause."
+    }
+  ],
+  "task": {
+    "genre": "Review",
+    "prompt": "A travel website is asking for reviews of museums that would interest young visitors. Write a review of a museum you have visited.",
+    "contentPoints": [
+      "Say which museum you visited and what it is about.",
+      "Describe the most interesting exhibits or activities.",
+      "Mention any problems or disadvantages.",
+      "Say whether you would recommend it and to whom."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "Located in ...",
+      "The highlight of the visit was ...",
+      "I was particularly impressed by ...",
+      "The only drawback is that ...",
+      "It is well worth a visit if ..."
+    ],
+    "modelAnswer": "If you think museums are boring, the National Science Museum in the city centre will make you change your mind.\n\nLocated in a beautiful old railway station, the museum tells the story of science and technology from the earliest inventions to space travel. Unlike many museums, it is designed to be interactive. Visitors are encouraged to touch the exhibits, try simple experiments and take part in short workshops led by friendly staff.\n\nThe highlight of my visit was the space gallery. A real rocket engine is displayed in the middle of the hall, and you can even climb inside a copy of a space station to see how astronauts live. I was also impressed by the robotics room, where children were programming small robots to move around a track.\n\nThe only drawback is that the museum gets extremely crowded at weekends, so some activities have long queues. In addition, the café is rather expensive, whereas the food is quite ordinary. If I had known this, I would have brought my own lunch.\n\nNevertheless, it is well worth a visit, especially for families and teenagers who are curious about how things work. Make sure you go on a weekday morning and allow at least four hours."
+  }
+}

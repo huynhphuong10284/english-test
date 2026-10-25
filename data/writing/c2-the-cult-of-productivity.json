@@ -1,0 +1,318 @@
+{
+  "id": "w-the-cult-of-productivity",
+  "title": "The Cult of Productivity",
+  "level": "C2 · Proficiency",
+  "description": "Practise inversion, cleft sentences and idioms, then write a magazine article questioning our obsession with productivity.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Inversion with \"so\"",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "So obsessed ___ with output that we have forgotten how to rest.",
+      "options": [
+        "we have become",
+        "have we become",
+        "we became",
+        "became we"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "When \"so + adjective\" is fronted for emphasis, the auxiliary comes before the subject: so obsessed have we become that ..."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Subjunctive and unreal past",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "It is high time we ___ (stop) measuring our worth in hours worked.",
+      "answers": [
+        "stopped"
+      ],
+      "points": 1,
+      "explanation": "After \"it is (high) time\", use a past form to talk about the present: it is high time we stopped."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Hedging",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "arguably",
+        "the problem",
+        "productivity apps",
+        "part of",
+        "are"
+      ],
+      "answers": [
+        "Productivity apps are arguably part of the problem.",
+        "Arguably, productivity apps are part of the problem.",
+        "Productivity apps are part of the problem, arguably."
+      ],
+      "points": 1,
+      "explanation": "\"Arguably\" is a stance marker that presents a claim as reasonable but open to debate. It usually goes after \"be\" or at the start of the sentence."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Idiomatic collocations",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Many workers are burning the candle at both sides.",
+      "answers": [
+        "Many workers are burning the candle at both ends."
+      ],
+      "points": 1,
+      "explanation": "The idiom is \"burn the candle at both ends\", meaning to exhaust yourself by working late and starting early."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"No sooner ...\".",
+      "text": "As soon as she finished one task, she started another.",
+      "keyword": "sooner",
+      "answers": [
+        "No sooner had she finished one task than she started another.",
+        "No sooner had she finished one task than she began another."
+      ],
+      "points": 1,
+      "explanation": "\"No sooner\" at the start of a sentence takes inversion with the past perfect and is followed by \"than\": no sooner had she finished ... than ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Cleft sentences",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"What we need ...\".",
+      "text": "We do not need more apps; we need more time to think.",
+      "keyword": "what",
+      "answers": [
+        "What we need is not more apps but more time to think.",
+        "What we need is more time to think, not more apps.",
+        "What we need isn't more apps but more time to think.",
+        "What we need is not more apps, but more time to think."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft sentence puts the important information at the end for emphasis: what we need is more time to think."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Stance markers",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The ...\".",
+      "text": "Busyness has become a status symbol, which is ironic.",
+      "keyword": "irony",
+      "answers": [
+        "The irony is that busyness has become a status symbol.",
+        "The irony is busyness has become a status symbol."
+      ],
+      "points": 1,
+      "explanation": "\"The irony is that ...\" is a stance frame which tells the reader how to interpret the fact that follows."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Ellipsis and substitution",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Some people thrive on a packed schedule; others clearly ___ not.",
+      "answers": [
+        "do"
+      ],
+      "points": 1,
+      "explanation": "The auxiliary \"do\" stands in for the whole verb phrase (thrive on a packed schedule), avoiding repetition."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Verb + preposition",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Constant busyness is often ___ for genuine achievement.",
+      "options": [
+        "mistaken",
+        "misled",
+        "misjudged",
+        "misread"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "To \"mistake A for B\" means to wrongly think that A is B; in the passive: busyness is mistaken for achievement."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The pressure to be ___ (relent) productive is exhausting us.",
+      "answers": [
+        "relentlessly"
+      ],
+      "points": 1,
+      "explanation": "\"Relentless\" means never stopping or weakening; the adverb \"relentlessly\" modifies the adjective \"productive\"."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Fixed phrases",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Productivity apps promise to help us make the most from every minute.",
+      "answers": [
+        "Productivity apps promise to help us make the most of every minute.",
+        "Productivity apps promise to help us make the most out of every minute."
+      ],
+      "points": 1,
+      "explanation": "The fixed phrase is \"make the most of\" something, meaning to use it to the greatest advantage."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Hedging",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"There ...\".",
+      "text": "People tend to equate being busy with being important.",
+      "keyword": "tendency",
+      "answers": [
+        "There is a tendency to equate being busy with being important.",
+        "There is a tendency for people to equate being busy with being important.",
+        "There is a tendency among people to equate being busy with being important.",
+        "There is a general tendency to equate being busy with being important.",
+        "There's a tendency to equate being busy with being important.",
+        "There's a tendency for people to equate being busy with being important."
+      ],
+      "points": 1,
+      "explanation": "\"There is a tendency (for people) to ...\" is an impersonal, hedged way of describing typical behaviour."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "It would be ___ to suggest that all productivity advice is worthless.",
+      "options": [
+        "misled",
+        "mislead",
+        "misleading",
+        "misleadingly"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"It would be + adjective + to suggest\" is a polite, hedged way of rejecting an overstatement. We need the adjective \"misleading\"."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Fronting for emphasis",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "are",
+        "gone",
+        "when",
+        "the days",
+        "work ended at five"
+      ],
+      "answers": [
+        "Gone are the days when work ended at five.",
+        "The days when work ended at five are gone."
+      ],
+      "points": 1,
+      "explanation": "\"Gone are the days when ...\" fronts the participle for emphasis and inverts the verb and subject; it is a common fixed pattern."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Comparative structures",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We are working harder than ever, and yet we feel less productive as ever.",
+      "answers": [
+        "We are working harder than ever, and yet we feel less productive than ever."
+      ],
+      "points": 1,
+      "explanation": "A comparative (\"less productive\") is followed by \"than\", not \"as\": less productive than ever."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Idiomatic expressions",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Many professionals now work ...\".",
+      "text": "Many professionals now work continuously, day and night.",
+      "keyword": "clock",
+      "answers": [
+        "Many professionals now work round the clock.",
+        "Many professionals now work around the clock."
+      ],
+      "points": 1,
+      "explanation": "To work \"round the clock\" (or \"around the clock\") means all day and all night without stopping."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Formal vocabulary",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Rest is not a luxury but a ___ for sustained creativity.",
+      "options": [
+        "premise",
+        "presumption",
+        "predecessor",
+        "prerequisite"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A \"prerequisite for\" something is a condition that must exist before it can happen."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Burnout is now so widespread that it has reached ___ proportions. (one word, beginning with E)",
+      "answers": [
+        "epidemic"
+      ],
+      "points": 1,
+      "explanation": "Something that has \"reached epidemic proportions\" has become extremely common and is a serious problem."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Conditional inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Were ...\".",
+      "text": "If we stopped measuring ourselves by our output, we might be happier.",
+      "keyword": "were",
+      "answers": [
+        "Were we to stop measuring ourselves by our output, we might be happier."
+      ],
+      "points": 1,
+      "explanation": "\"Were + subject + to-infinitive\" is a formal inverted form of a hypothetical \"if\" clause: were we to stop ..."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Advanced word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The idea that every minute must be productive is fundamentally flawed and, ultimately, self-defeated.",
+      "answers": [
+        "The idea that every minute must be productive is fundamentally flawed and, ultimately, self-defeating."
+      ],
+      "points": 1,
+      "explanation": "\"Self-defeating\" (an -ing adjective) describes something that prevents itself from succeeding."
+    }
+  ],
+  "task": {
+    "genre": "Article",
+    "prompt": "A lifestyle magazine has invited articles titled \"The Cult of Productivity\". Write an article questioning whether our obsession with getting more done is healthy.",
+    "contentPoints": [
+      "Describe how the pressure to be productive shows itself in everyday life.",
+      "Explain why this pressure has become so strong.",
+      "Discuss the personal or social costs of constant productivity.",
+      "Suggest a healthier attitude to work and time."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "So ... have we become that ...",
+      "What we need is not ... but ...",
+      "The irony is that ...",
+      "It is high time we ...",
+      "Arguably, ..."
+    ],
+    "modelAnswer": "Ask a friend how they are, and the chances are they will say \"busy\". It is no longer a complaint but a quiet boast. Somewhere along the way, being productive stopped being a means to an end and became a measure of personal worth.\n\nThe signs are everywhere. We listen to podcasts at double speed, fill our commutes with emails and download apps that track not only our working hours but our sleep, our steps and even our moments of calm. Weekends are planned like projects. Hobbies are judged by whether they might one day be turned into a side business.\n\nWhy has this mindset taken such a hold? Part of the answer lies in insecure employment: when jobs feel precarious, visible effort becomes a form of insurance. Technology plays its part too, since a device that is always on makes us feel that we should be as well. And, arguably, social media has turned productivity into a performance, rewarding those who share their morning routines and achievements.\n\nThe costs, however, are considerable. So obsessed have we become with output that many of us have forgotten how to rest without guilt. Burnout is increasingly common, and constant busyness leaves little room for the slow, unstructured thinking from which genuinely good ideas tend to emerge. The irony is that the cult of productivity may be making us less productive, not more.\n\nIt is high time we stopped measuring our value in completed tasks. This does not mean abandoning ambition, but rather distinguishing between work that matters and activity that merely fills time. What we need is not another app but the courage to leave some hours empty. A walk with no destination, an evening with no plan: these are not wasted time. They may well be the most valuable hours of the week."
+  }
+}

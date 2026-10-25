@@ -1,0 +1,447 @@
+{
+  "id": "the-gig-economy",
+  "title": "Freedom or Insecurity? The Gig Economy",
+  "level": "B2 · Upper-intermediate",
+  "description": "The advantages and disadvantages of short-term work arranged through digital platforms.",
+  "instructions": "Read the article about the gig economy, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "The term 'gig' was once used mainly by musicians to describe a single paid performance. Today it refers to a much wider range of short-term jobs, from delivering food and driving passengers to designing websites and translating documents. In the so-called gig economy, workers are typically hired for individual tasks through digital platforms rather than being employed on permanent contracts."
+    },
+    {
+      "id": "p2",
+      "text": "For many workers, the greatest attraction is flexibility. Gig work allows people to choose when and how much they work, which can suit students, parents with caring responsibilities or those who want to earn extra money alongside another job. Some skilled freelancers also value the opportunity to work for clients around the world without leaving home."
+    },
+    {
+      "id": "p3",
+      "text": "However, this flexibility often comes at a price. Because gig workers are usually classified as self-employed, they may not be entitled to benefits such as sick pay, paid holidays or pension contributions. Their income can be unpredictable, rising and falling with demand, and platforms can change their pay rates or rules with little warning. For those who depend on gig work as their main source of income, these uncertainties can be a constant source of stress."
+    },
+    {
+      "id": "p4",
+      "text": "Another concern is the role of algorithms. Many platforms use automated systems to allocate tasks, set prices and even evaluate performance. Workers have complained that they do not understand how these decisions are made and that they have no one to appeal to when something goes wrong. In some cases, a sudden drop in customer ratings can lead to a worker being removed from a platform without any explanation."
+    },
+    {
+      "id": "p5",
+      "text": "Courts and governments in various countries are now debating whether some gig workers should be reclassified as employees, which would give them greater protection. Platforms argue that such changes would reduce the flexibility that workers value and raise prices for consumers. Finding a balance between freedom and security is likely to remain one of the central challenges in the world of work for years to come."
+    },
+    {
+      "id": "p6",
+      "text": "Gig workers have also begun to organise themselves in new ways. Because they rarely share a workplace and may never meet each other, traditional trade unions have found it difficult to represent them. Instead, many workers communicate through online forums and messaging groups, where they exchange advice, warn each other about unreliable customers and occasionally coordinate protests by logging off at the same time. In a few countries, new organisations have been formed specifically to represent platform workers. These actions have sometimes persuaded platforms to raise rates or change unpopular policies, showing that technology can be used by workers as well as by the companies that employ them."
+    },
+    {
+      "id": "p7",
+      "text": "Consumers, too, play a part in shaping the gig economy. The convenience of ordering a meal or a ride with a few taps on a screen has made these services hugely popular, and many customers rarely think about the conditions of the person who delivers them. Reviews and ratings left by customers can also have a direct effect on a worker's future income. Some people are now more willing to pay a little extra or to leave a generous tip when they know that a larger share goes to the worker. Others, however, choose the cheapest option available, which puts pressure on platforms to keep prices low and, in turn, on the pay of those doing the work."
+    },
+    {
+      "id": "p8",
+      "text": "Looking further ahead, the gig economy may itself be transformed by technology. Companies are already testing delivery robots and self-driving vehicles, which could one day replace some of the very jobs that platforms currently offer. At the same time, more professional work, such as accounting, design and consulting, is being divided into short projects and offered online. This could bring opportunities for highly qualified workers, but it may also spread insecurity to occupations that were once considered stable. The gig economy, in other words, is unlikely to disappear, but its shape will keep changing, and the rules that govern it will need to change along with it."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Gig work is only suitable for musicians.",
+        "Algorithms have made gig work completely fair.",
+        "Gig work offers flexibility but can leave workers without security or protection.",
+        "Most people now work in the gig economy."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The article weighs the flexibility of gig work against its insecurity and the debate over regulation.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "the greatest attraction is flexibility"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "this flexibility often comes at a price"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "purpose",
+      "text": "Why does the writer explain the original meaning of the word \"gig\"?",
+      "options": [
+        "To argue that musicians are badly paid",
+        "To suggest that gig work is mainly artistic",
+        "To criticise the use of informal language",
+        "To show how the meaning of the word has broadened"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The word once meant a musical performance but now covers many kinds of short-term work.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Today it refers to a much wider range of short-term jobs"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "According to paragraph 2, who might gig work particularly suit?",
+      "options": [
+        "Students and parents with caring responsibilities",
+        "People who want a good pension",
+        "Workers who need a fixed income",
+        "People who dislike technology"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text names students, parents and people wanting extra money.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "which can suit students, parents with caring responsibilities"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the phrase \"entitled to\" is closest in meaning to:",
+      "options": [
+        "forced to pay",
+        "having the right to receive",
+        "unaware of",
+        "interested in"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "As self-employed workers, they may have no right to sick pay or paid holidays.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "they may not be entitled to benefits such as sick pay"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can be inferred about people who rely on gig work as their main income?",
+      "options": [
+        "They are more affected by unpredictable pay than people who do it occasionally.",
+        "They earn more than permanent employees.",
+        "They prefer not to take holidays.",
+        "They can easily change their pay rates."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer singles out those who depend on gig work, implying the uncertainty hits them hardest.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "For those who depend on gig work as their main source of income, these uncertainties can be a constant source of stress."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What do workers complain about in paragraph 4?",
+      "options": [
+        "They are given too many tasks.",
+        "Customers never rate them.",
+        "Algorithms pay them too much.",
+        "They do not understand how automated decisions are made."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Workers say automated decisions are unclear and they cannot appeal.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "they do not understand how these decisions are made"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"allocate\" is closest in meaning to:",
+      "options": [
+        "cancel",
+        "advertise",
+        "give out or assign",
+        "complete"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Automated systems decide which worker receives which task.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "automated systems to allocate tasks"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What do platforms argue about reclassifying gig workers as employees?",
+      "options": [
+        "It would give workers too little protection.",
+        "It would reduce flexibility and increase prices.",
+        "It should be decided by customers.",
+        "It would make consumers happier."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 5 states the platforms' argument directly.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "such changes would reduce the flexibility that workers value and raise prices for consumers"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which title would best suit the article as a whole?",
+      "options": [
+        "How to Become a Professional Musician",
+        "The Best Apps for Ordering Food",
+        "Why Robots Will Replace All Workers",
+        "Freedom or Insecurity? Life in the Gig Economy"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The article balances the flexibility of gig work against the lack of security and protection it can bring.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Finding a balance between freedom and security"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "What does paragraph 2 suggest about skilled freelancers?",
+      "options": [
+        "They earn less than other gig workers.",
+        "Digital platforms can give them access to a much wider range of clients.",
+        "They would rather work in an office.",
+        "They are not allowed to work for foreign clients."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Being able to work for clients around the world implies far more opportunities than a local market could offer.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "the opportunity to work for clients around the world without leaving home"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "According to paragraph 6, why have traditional trade unions found it difficult to represent gig workers?",
+      "options": [
+        "Gig workers are not interested in their rights.",
+        "Unions are banned from digital platforms.",
+        "Gig workers earn too much to need a union.",
+        "Gig workers rarely share a workplace or meet each other."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Because gig workers rarely share a workplace and may never meet, unions struggle to represent them.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Because they rarely share a workplace and may never meet each other"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "How do some gig workers protest, according to paragraph 6?",
+      "options": [
+        "By refusing to pay taxes",
+        "By logging off at the same time",
+        "By setting up their own platforms",
+        "By writing letters to newspapers"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Workers sometimes coordinate protests by logging off together.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "coordinate protests by logging off at the same time"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"coordinate\" is closest in meaning to:",
+      "options": [
+        "organise so that people act together",
+        "cancel",
+        "criticise",
+        "record"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Workers plan their protests so that they all log off at the same moment.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "occasionally coordinate protests"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What does the writer imply in the final sentence of paragraph 6?",
+      "options": [
+        "Technology always benefits companies more than workers.",
+        "Workers can use digital tools to strengthen their own position.",
+        "Platforms have stopped using algorithms.",
+        "Online protests never succeed."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer suggests that technology is not only a tool for companies; workers can also use it to gain influence.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "technology can be used by workers as well as by the companies that employ them"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"convenience\" refers to:",
+      "options": [
+        "a low price",
+        "high quality",
+        "the quality of being easy and saving time",
+        "safety"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ordering with a few taps on a screen is quick and easy, which explains the services' popularity.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "The convenience of ordering a meal or a ride with a few taps on a screen"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer discuss consumers in paragraph 7?",
+      "options": [
+        "To show that customers' choices also affect gig workers' conditions",
+        "To advise readers on how to order food cheaply",
+        "To argue that tipping should be banned",
+        "To explain how algorithms set prices"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The paragraph explains how customers' decisions about price and tips influence workers' pay.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Consumers, too, play a part in shaping the gig economy."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 7 about customers who always choose the cheapest option?",
+      "options": [
+        "They usually leave generous tips.",
+        "They are mostly gig workers themselves.",
+        "They may indirectly contribute to lower pay for workers.",
+        "They care more about workers than other customers do."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Choosing the cheapest option pushes platforms to keep prices low, which in turn puts pressure on workers' pay.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "which puts pressure on platforms to keep prices low and, in turn, on the pay of those doing the work"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 8, what are some companies already testing?",
+      "options": [
+        "Delivery robots and self-driving vehicles",
+        "New payment systems for workers",
+        "Platforms run by trade unions",
+        "Shared offices for gig workers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Companies are testing delivery robots and self-driving vehicles.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Companies are already testing delivery robots and self-driving vehicles"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does paragraph 8 suggest about some people who do gig work today?",
+      "options": [
+        "They will all become accountants.",
+        "Their pay is certain to rise.",
+        "Their jobs could eventually be done by machines.",
+        "They will soon be classified as employees."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Robots and self-driving vehicles could replace some of the jobs that platforms currently offer.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "which could one day replace some of the very jobs that platforms currently offer"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "What is the purpose of the final sentence of the article?",
+      "options": [
+        "To predict that the gig economy will soon end",
+        "To recommend that readers look for permanent jobs",
+        "To summarise the history of the word \"gig\"",
+        "To conclude that the gig economy will keep changing, and so must its rules"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer ends by saying the gig economy will not disappear but will keep changing, and regulation must adapt too.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the rules that govern it will need to change along with it"
+        }
+      ]
+    }
+  ]
+}

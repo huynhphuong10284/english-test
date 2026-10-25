@@ -1,0 +1,447 @@
+{
+  "id": "the-idea-of-progress",
+  "title": "The Idea of Progress",
+  "level": "C2 · Proficiency",
+  "description": "An essay tracing the rise of the belief in historical progress, its critics and the case for a more qualified version.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "The conviction that history moves, on the whole, in a direction of improvement is so familiar in modern societies that it is easy to forget how recent and how contestable it is. For much of recorded history, many cultures conceived of time as cyclical, or else as a decline from a lost golden age. It was chiefly in the European Enlightenment that thinkers such as the Marquis de Condorcet articulated a confident vision of indefinite advance, in which the spread of reason and scientific knowledge would progressively dispel ignorance, superstition and tyranny."
+    },
+    {
+      "id": "p2",
+      "text": "In the nineteenth century this vision acquired additional momentum. Rapid technological change, rising productivity and the expansion of scientific understanding appeared to furnish empirical confirmation, while philosophies of history, from Hegel's to Marx's, presented progress not merely as a hope but as a structural feature of historical development. Popular misreadings of evolutionary theory reinforced the impression, casting natural history itself as a story of ascent, a reading that Darwin's own account, emphasising variation and adaptation to local circumstances, did little to warrant."
+    },
+    {
+      "id": "p3",
+      "text": "The twentieth century dealt the idea a series of grievous blows. Two world wars, genocides carried out with industrial efficiency and the development of weapons capable of annihilating civilisation itself suggested that technical mastery could coexist with, and even amplify, moral catastrophe. Many intellectuals concluded that the faith in progress had been not merely naive but complicit, lending a veneer of inevitability to projects that sacrificed present generations for the sake of a promised future."
+    },
+    {
+      "id": "p4",
+      "text": "In recent decades, a number of writers have mounted a vigorous defence, pointing to long-term trends in life expectancy, child mortality, literacy and extreme poverty as evidence that human welfare has, by many measures, improved dramatically. Critics of this defence do not generally dispute the trends themselves, but question what they are taken to show. Aggregate improvements, they observe, may conceal profound inequalities in who benefits; gains purchased at the cost of ecological degradation may prove unsustainable; and the selection of indicators is itself a value-laden exercise that may privilege what is easily measured over what matters most."
+    },
+    {
+      "id": "p5",
+      "text": "A further objection concerns the logical status of the claim. That certain conditions have improved in the past does not entail that they will continue to do so; to treat a historical trend as a law is to commit precisely the error that critics of nineteenth-century philosophies of history identified. Progress, if it occurs, is an achievement sustained by particular institutions, discoveries and choices, and it is as vulnerable to reversal as any other human accomplishment."
+    },
+    {
+      "id": "p6",
+      "text": "What may be salvageable, then, is a chastened conception of progress: neither a guarantee written into history nor an illusion to be discarded, but a possibility whose realisation depends on effort and whose measures must be continually debated. Such a conception lacks the consoling grandeur of Condorcet's vision. It may, however, be more conducive to the vigilance that genuine improvement requires, since those who believe progress to be inevitable have little reason to defend it."
+    },
+    {
+      "id": "p7",
+      "text": "The distinction between material and moral progress complicates matters further. Few would deny that the abolition of legal slavery in most of the world, or the gradual extension of political rights to groups once excluded from them, represents a moral advance. The philosopher Peter Singer has described such developments as an expanding circle of moral concern, in which the range of beings whose interests are taken into account has widened over time. Sceptics such as John Gray, however, have argued that whereas scientific knowledge tends to accumulate, gains in ethics and politics do not: they must be defended anew by each generation and can be lost with alarming speed. On this view, the analogy between scientific and moral progress, which Enlightenment thinkers largely took for granted, is precisely what ought to be questioned."
+    },
+    {
+      "id": "p8",
+      "text": "Environmental considerations have lent a particular urgency to these debates. Some historians have described what they call progress traps, in which solutions that serve a society well in the short term generate, at a larger scale, problems that it lacks the means to solve. Methods of hunting, farming or energy production that once enabled populations to flourish may, when intensified, exhaust the very resources on which they depend. Whether contemporary industrial civilisation is caught in such a trap is a matter of intense dispute, and the analogy with earlier societies should not be pressed too far. Nevertheless, the concept serves as a reminder that improvements measured over decades may look rather different when assessed over centuries, and that progress in one dimension can be purchased at the expense of another."
+    },
+    {
+      "id": "p9",
+      "text": "If progress is to remain a meaningful aspiration, then, it may be best understood less as a description of history than as a standard by which to judge it, one that must be specified, defended and revised in public argument. Such an understanding requires us to ask, of any proposed advance, for whom it is an advance, at what cost and over what span of time. These questions admit of no final answers, and the disagreements they provoke are unlikely to disappear. But a society willing to keep asking them is perhaps better placed to secure genuine improvements than one that assumes, with the confidence of an earlier age, that history will deliver them unbidden."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best expresses the writer's overall position?",
+      "options": [
+        "Progress is an illusion that should be abandoned entirely.",
+        "Progress is a law of history guaranteed by science and reason.",
+        "Recent statistics have settled the debate in favour of progress.",
+        "A more modest idea of progress, as a fragile possibility rather than a guarantee, is worth retaining."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer advocates \"a chastened conception of progress\".",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "What may be salvageable, then, is a chastened conception of progress"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 1, how did many cultures traditionally view time?",
+      "options": [
+        "As a steady line of improvement.",
+        "As cyclical, or as a decline from a golden age.",
+        "As irrelevant to human affairs.",
+        "As controlled entirely by reason."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The passage contrasts the modern belief in progress with cyclical and declinist views.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "many cultures conceived of time as cyclical, or else as a decline from a lost golden age"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "What does the writer suggest about the relationship between Darwin's theory and the idea of progress?",
+      "options": [
+        "Darwin explicitly presented evolution as a story of ascent.",
+        "Darwin's theory was the main source of Enlightenment optimism.",
+        "Popular interpretations attributed a progressive meaning to evolution that Darwin's account did not really support.",
+        "Darwin rejected all forms of scientific progress."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer calls these \"popular misreadings\" that Darwin's own account \"did little to warrant\".",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "a reading that Darwin's own account, emphasising variation and adaptation to local circumstances, did little to warrant"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"veneer\" is closest in meaning to",
+      "options": [
+        "a superficial appearance",
+        "a solid foundation",
+        "a hidden danger",
+        "an official approval"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A veneer is a thin surface layer; the faith gave projects a superficial appearance of inevitability.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "lending a veneer of inevitability to projects"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention world wars, genocides and weapons of mass destruction in paragraph 3?",
+      "options": [
+        "To show that technological progress stopped in the twentieth century.",
+        "To illustrate how technical advance could accompany or even intensify moral disaster.",
+        "To argue that the Enlightenment caused these events directly.",
+        "To demonstrate that progress had been achieved in moral matters."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "These examples suggest technical mastery could \"coexist with, and even amplify, moral catastrophe\".",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "technical mastery could coexist with, and even amplify, moral catastrophe"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "How do critics respond to the recent defence of progress described in paragraph 4?",
+      "options": [
+        "They reject the statistics on life expectancy and literacy as false.",
+        "They agree that the trends prove progress is inevitable.",
+        "They argue that only economic indicators matter.",
+        "They generally accept the trends but question what conclusions can be drawn from them."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Critics \"do not generally dispute the trends themselves, but question what they are taken to show\".",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Critics of this defence do not generally dispute the trends themselves, but question what they are taken to show."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What logical error does the writer identify in paragraph 5?",
+      "options": [
+        "Assuming that past improvement guarantees future improvement.",
+        "Refusing to collect statistics on human welfare.",
+        "Believing that history moves in cycles.",
+        "Confusing scientific knowledge with superstition."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Treating a historical trend as a law ignores that past improvement does not entail continuation.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "to treat a historical trend as a law is to commit precisely the error"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"chastened\" most nearly means",
+      "options": [
+        "punished severely",
+        "made more modest and restrained",
+        "abandoned completely",
+        "made more ambitious"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A chastened conception has been humbled by experience, made less grandiose.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Such a conception lacks the consoling grandeur of Condorcet's vision."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "purpose",
+      "text": "What is the function of the final clause, \"since those who believe progress to be inevitable have little reason to defend it\"?",
+      "options": [
+        "To argue that belief in progress is always harmful.",
+        "To suggest that progress will continue without effort.",
+        "To explain why a chastened conception may better encourage efforts to sustain improvement.",
+        "To praise Condorcet's optimism."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "If progress is not guaranteed, people have reason to be vigilant in defending it.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "It may, however, be more conducive to the vigilance that genuine improvement requires"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 7, how has Peter Singer described developments such as the extension of rights?",
+      "options": [
+        "As an expanding circle of moral concern.",
+        "As a cyclical return to earlier moral standards.",
+        "As a decline from a lost golden age.",
+        "As the inevitable by-product of scientific progress."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Singer describes a widening circle of beings whose interests are taken into account.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "an expanding circle of moral concern"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does John Gray's view, as described in paragraph 7, imply about moral and political gains?",
+      "options": [
+        "They are impossible to achieve in the first place.",
+        "They accumulate steadily, in the same way as scientific knowledge.",
+        "They matter less than material improvements.",
+        "They are fragile and must be continually defended."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Gray argues such gains must be defended anew by each generation and can be lost quickly.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "they must be defended anew by each generation and can be lost with alarming speed"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "purpose",
+      "text": "Why does the writer mention the abolition of legal slavery in paragraph 7?",
+      "options": [
+        "To prove that moral progress is inevitable.",
+        "To give an example that few would deny is a moral advance, before introducing scepticism about moral progress.",
+        "To argue that material progress was its main cause.",
+        "To criticise the Enlightenment for ignoring slavery."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The example establishes common ground ('Few would deny') before the sceptics' challenge is introduced.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Few would deny that the abolition of legal slavery in most of the world"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "Which assumption of Enlightenment thinkers does the end of paragraph 7 call into question?",
+      "options": [
+        "That moral progress works in the same way as scientific progress.",
+        "That scientific knowledge tends to accumulate over time.",
+        "That slavery was morally acceptable.",
+        "That political rights should be extended to excluded groups."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The analogy between scientific and moral progress, largely taken for granted by Enlightenment thinkers, is what 'ought to be questioned'.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the analogy between scientific and moral progress, which Enlightenment thinkers largely took for granted, is precisely what ought to be questioned"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 8, what is a \"progress trap\"?",
+      "options": [
+        "A policy deliberately designed to halt technological change.",
+        "A situation in which a society refuses to adopt new technology.",
+        "A situation in which short-term solutions generate larger problems the society cannot solve.",
+        "A period of economic recession following rapid growth."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Progress traps occur when short-term solutions generate, at a larger scale, problems that cannot be solved.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "solutions that serve a society well in the short term generate, at a larger scale, problems that it lacks the means to solve"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"intensified\" is closest in meaning to",
+      "options": [
+        "abandoned",
+        "regulated",
+        "shared",
+        "increased in degree"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Methods that are intensified are carried out on a greater scale or with greater force.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "may, when intensified, exhaust the very resources on which they depend"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What is the writer's attitude towards the question of whether contemporary industrial civilisation is caught in a progress trap?",
+      "options": [
+        "Confident that it is already trapped.",
+        "Confident that it has escaped any such trap.",
+        "Cautious, treating the question as disputed while still finding the concept useful.",
+        "Uninterested, since the concept applies only to earlier societies."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer calls the question disputed and warns against pressing the analogy, yet says the concept 'serves as a reminder'.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the analogy with earlier societies should not be pressed too far. Nevertheless, the concept serves as a reminder"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "According to paragraph 8, what does the concept of progress traps remind us?",
+      "options": [
+        "Improvements measured over decades may look different over centuries, and progress in one dimension may cost another.",
+        "All apparent progress is ultimately an illusion.",
+        "Earlier societies were more sustainable than modern ones.",
+        "Progress can be measured reliably only over periods of a few decades."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The concept reminds us that timescale matters and that gains in one dimension can come at another's expense.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "improvements measured over decades may look rather different when assessed over centuries"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 9, the word \"unbidden\" is closest in meaning to",
+      "options": [
+        "unwillingly",
+        "slowly",
+        "unfairly",
+        "without being asked for"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "History delivering improvements unbidden means delivering them without anyone seeking or working for them.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "that history will deliver them unbidden"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer imply about societies that assume history will deliver improvement?",
+      "options": [
+        "They are better placed to secure genuine improvements.",
+        "They may be less likely to secure genuine improvements, since they do not scrutinise or work for them.",
+        "They no longer exist in the modern world.",
+        "They have already resolved questions about the costs of progress."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "By contrast with a society that keeps asking questions, such societies are implied to be worse placed, echoing paragraph 6.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "a society willing to keep asking them is perhaps better placed to secure genuine improvements than one that assumes"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the final paragraph?",
+      "options": [
+        "Progress is an illusion that should be abandoned.",
+        "History guarantees progress to societies that are patient.",
+        "Progress is best treated as a standard to be specified and debated publicly rather than as a description of history.",
+        "The questions raised by progress can be given final answers."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer proposes understanding progress 'less as a description of history than as a standard by which to judge it'.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "it may be best understood less as a description of history than as a standard by which to judge it"
+        }
+      ]
+    }
+  ]
+}

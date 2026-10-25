@@ -1,0 +1,459 @@
+{
+  "id": "fast-fashion",
+  "title": "Fast Fashion",
+  "level": "B1 · Intermediate",
+  "description": "The hidden costs of cheap clothes and how some shoppers are changing their habits.",
+  "instructions": "Read the article about fast fashion, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Fast fashion is the name given to clothes that are designed, made and sold very quickly and cheaply. Some large clothing companies bring out new styles every few weeks, copying ideas from fashion shows and celebrities. Because the prices are low, shoppers can buy new outfits often. For many young people, this makes it easy to follow the latest trends."
+    },
+    {
+      "id": "p2",
+      "text": "However, cheap clothes often come with hidden costs. Producing clothing uses large amounts of water and energy, and some dyes can pollute rivers. Many garments are made from synthetic materials that release tiny pieces of plastic when they are washed. Because these clothes are not designed to last, many are thrown away after being worn only a few times."
+    },
+    {
+      "id": "p3",
+      "text": "There are also concerns about the people who make the clothes. In some factories, workers earn very low wages and work long hours in difficult conditions. To keep prices down, companies may put pressure on factories to produce more for less money. Campaigners argue that customers should know more about where and how their clothes are made."
+    },
+    {
+      "id": "p4",
+      "text": "Some shoppers are now changing their habits. They buy fewer items of better quality, choose second-hand clothes or swap clothes with friends. Others learn to repair a torn shirt instead of replacing it. Although these changes may seem small, many experts believe that if enough people make them, the fashion industry will be forced to change too."
+    },
+    {
+      "id": "p5",
+      "text": "In response to these criticisms, some fashion brands have started to present themselves as more responsible. They launch special collections made from recycled or organic materials, and some shops have boxes where customers can leave old clothes for recycling. These steps are welcome, but critics say they are sometimes more about advertising than real change. When a company sells a few green items while still producing huge amounts of cheap clothing, the overall effect on the planet may be very small. This practice is often called greenwashing."
+    },
+    {
+      "id": "p6",
+      "text": "Recycling clothes is also more difficult than many people think. Most garments are made from a mixture of fibres, such as cotton and polyester, and these are hard to separate. As a result, only a small part of old clothing is turned into new clothes. Much of it is burned, buried in the ground or sent abroad, where it may end up in large rubbish sites. In those places, the second-hand clothes can also make life harder for local tailors and small clothing businesses. For this reason, many experts say that the best solution is not to recycle more, but to buy less in the first place."
+    },
+    {
+      "id": "p7",
+      "text": "New business ideas may also help. Some companies now rent out clothes for special occasions, so people do not need to buy an outfit they will wear only once. Online platforms make it simple to sell clothes you no longer want and to buy items that someone else has already used. In the end, however, changing fast fashion will probably need action from everyone: shoppers, companies and governments. A simple question before every purchase, such as 'Will I really wear this many times?', could be a good place to start."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Second-hand clothes are always better quality.",
+        "Fashion shows are the best place to buy clothes.",
+        "Young people spend too much time shopping.",
+        "Fast fashion is cheap and popular, but it causes problems for people and the planet."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The article explains why fast fashion is popular, then describes its environmental and human costs.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Fast fashion is the name given to clothes that are designed, made and sold very quickly and cheaply."
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "However, cheap clothes often come with hidden costs."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 1, why can shoppers buy new outfits often?",
+      "options": [
+        "Because the prices are low",
+        "Because shops give clothes away",
+        "Because clothes last a long time",
+        "Because celebrities pay for them"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 1 says shoppers can buy often because the prices are low.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Because the prices are low, shoppers can buy new outfits often."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the phrase \"hidden costs\" refers to:",
+      "options": [
+        "prices that are not shown on the label",
+        "taxes paid by shops",
+        "problems and damage that are not obvious when you buy something",
+        "money that shoppers hide at home"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The paragraph goes on to describe pollution and waste, harms that are not obvious from the low price.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "However, cheap clothes often come with hidden costs."
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "some dyes can pollute rivers"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What happens when synthetic clothes are washed?",
+      "options": [
+        "They change colour.",
+        "They release tiny pieces of plastic.",
+        "They become stronger.",
+        "They use no water."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 2 says synthetic materials release tiny pieces of plastic when washed.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "release tiny pieces of plastic when they are washed"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention factory workers in paragraph 3?",
+      "options": [
+        "To show that factory jobs are well paid",
+        "To show that fast fashion can also harm the people who make the clothes",
+        "To explain how to make clothes at home",
+        "To advertise a clothing company"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 3 adds a second type of problem: the effect on workers, not only on the environment.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "There are also concerns about the people who make the clothes."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "What can we infer about companies that put pressure on factories?",
+      "options": [
+        "They want to pay workers more.",
+        "They make clothes more slowly.",
+        "They care most about the environment.",
+        "Their low prices may be partly paid for by poorly treated workers."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Companies push factories to produce more for less money to keep prices down, which suggests workers pay part of the cost.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "To keep prices down, companies may put pressure on factories to produce more for less money."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What is the writer's view of the small changes some shoppers are making?",
+      "options": [
+        "They could make a real difference if enough people join in.",
+        "They are completely useless.",
+        "They will make clothes more expensive for everyone.",
+        "They are only popular with older people."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer reports that experts believe enough small changes could force the industry to change.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "if enough people make them, the fashion industry will be forced to change too"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "main-idea",
+      "text": "What is the main idea of paragraph 5?",
+      "options": [
+        "Fashion brands have completely stopped making cheap clothes.",
+        "Recycling boxes in shops have solved the problem of clothing waste.",
+        "Some brands say they are more responsible, but their actions may not change much.",
+        "Customers no longer believe any fashion advertising."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 describes the brands' green steps and then explains that critics see them as more about advertising than real change.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "some fashion brands have started to present themselves as more responsible"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "critics say they are sometimes more about advertising than real change"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"greenwashing\" describes:",
+      "options": [
+        "washing clothes with natural products",
+        "painting shops in a green colour",
+        "using less water to produce clothes",
+        "making a company seem better for the environment than it really is"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The word is used for a company that sells a few green items while still producing huge amounts of cheap clothing, so its image is better than its real effect.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "When a company sells a few green items while still producing huge amounts of cheap clothing, the overall effect on the planet may be very small. This practice is often called greenwashing."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 5, what can customers do in some shops?",
+      "options": [
+        "Exchange old clothes for free new ones",
+        "Leave their old clothes in boxes for recycling",
+        "Design their own special collections",
+        "Have torn clothes repaired for free"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 5 says some shops have boxes where customers can leave old clothes for recycling.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "some shops have boxes where customers can leave old clothes for recycling"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does the writer suggest about a company that sells a few green items but still makes huge amounts of cheap clothing?",
+      "options": [
+        "It is the most responsible company in the industry.",
+        "It will probably close very soon.",
+        "It is not really doing much to help the environment.",
+        "It only sells expensive clothes."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer says the overall effect on the planet may be very small, so the company is not really helping much.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "the overall effect on the planet may be very small"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "Why is it difficult to recycle most clothes?",
+      "options": [
+        "They are made from a mixture of fibres that are hard to separate.",
+        "They are usually too old and dirty to use.",
+        "Shops refuse to accept them.",
+        "There are no machines that can wash them."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 6 explains that most garments mix fibres such as cotton and polyester, which are hard to separate.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Most garments are made from a mixture of fibres, such as cotton and polyester, and these are hard to separate."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "According to paragraph 6, what happens to much of the old clothing?",
+      "options": [
+        "It is turned into new clothes.",
+        "It is given back to factory workers.",
+        "It is burned, buried or sent to other countries.",
+        "It is sold again by the same brands."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 6 says much of it is burned, buried in the ground or sent abroad.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Much of it is burned, buried in the ground or sent abroad"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the phrase \"in the first place\" is closest in meaning to:",
+      "options": [
+        "from the beginning, before the problem starts",
+        "in the most important shop",
+        "in first position in a competition",
+        "at the top of a shopping list"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Buying less in the first place means not buying the clothes at the start, so there is less to recycle later.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the best solution is not to recycle more, but to buy less in the first place"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "purpose",
+      "text": "Why does the writer describe the problems of recycling in paragraph 6?",
+      "options": [
+        "To persuade readers to stop washing their clothes",
+        "To show that recycling alone cannot solve the problem of clothing waste",
+        "To explain how recycling machines are built",
+        "To praise countries that receive old clothes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraph shows that little clothing is really recycled and ends with the idea that buying less is the best solution.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "only a small part of old clothing is turned into new clothes"
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "many experts say that the best solution is not to recycle more, but to buy less in the first place"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "Why do some people rent clothes, according to paragraph 7?",
+      "options": [
+        "Because the law does not allow them to buy clothes",
+        "Because rented clothes are always brand new",
+        "Because they want to start a fashion business",
+        "So they do not have to buy an outfit they will wear only once"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 7 says renting for special occasions means people do not need to buy an outfit they will wear only once.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "so people do not need to buy an outfit they will wear only once"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"platforms\" in \"Online platforms\" means:",
+      "options": [
+        "raised areas where people wait for trains",
+        "websites or apps where people can do something, such as buy and sell",
+        "shoes with very thick soles",
+        "plans that a political party makes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The online platforms are places on the internet where people sell clothes they no longer want and buy used items.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Online platforms make it simple to sell clothes you no longer want and to buy items that someone else has already used."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What does the writer believe about solving the problem of fast fashion?",
+      "options": [
+        "Only governments are responsible for it.",
+        "Companies will change without any pressure.",
+        "Nothing can be done about it.",
+        "Shoppers cannot solve it on their own."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer says change will need action from shoppers, companies and governments, so shoppers alone are not enough.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "changing fast fashion will probably need action from everyone: shoppers, companies and governments"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What question does the writer suggest asking before buying clothes?",
+      "options": [
+        "Whether you will really wear the item many times",
+        "Whether the item is in fashion this season",
+        "Whether your friends already own the item",
+        "Whether the item is the cheapest in the shop"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer suggests asking 'Will I really wear this many times?' before every purchase.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "'Will I really wear this many times?'"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the last paragraph?",
+      "options": [
+        "Renting clothes is always cheaper than buying them.",
+        "Online shopping is the main cause of fast fashion.",
+        "New ideas can help, but changing fast fashion needs everyone to take part.",
+        "Governments should close all cheap clothes shops."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 7 mentions renting and resale platforms, then says change will need action from shoppers, companies and governments.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "New business ideas may also help."
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "changing fast fashion will probably need action from everyone"
+        }
+      ]
+    }
+  ]
+}

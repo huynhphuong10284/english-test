@@ -1,0 +1,451 @@
+{
+  "id": "the-paradox-of-tolerance",
+  "title": "The Paradox of Tolerance",
+  "level": "C2 · Proficiency",
+  "description": "An essay examining the argument that a tolerant society must sometimes refuse to tolerate intolerance, and the dangers of applying it.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "In a note appended to The Open Society and Its Enemies, published in 1945, the philosopher Karl Popper formulated what he called the paradox of tolerance. Unlimited tolerance, he suggested, may lead to the disappearance of tolerance itself: if a society extends tolerance even to those who are intolerant, and is not prepared to defend itself against their onslaught, the tolerant will be destroyed and tolerance with them. Written in the shadow of totalitarian movements that had exploited democratic freedoms in order to abolish them, the observation carried an evident historical urgency."
+    },
+    {
+      "id": "p2",
+      "text": "The paradox is frequently invoked today, often in abbreviated form, to justify restrictions on speech or association deemed hostile to democratic values. Yet the abbreviated version tends to omit a significant qualification. Popper did not, in fact, argue that intolerant philosophies should be suppressed as a matter of course. As long as they could be countered by rational argument and kept in check by public opinion, he considered suppression unwise. The right to suppress them arose, in his view, chiefly when their adherents refused to engage in argument altogether and were prepared to answer it with fists or weapons."
+    },
+    {
+      "id": "p3",
+      "text": "This qualification matters because the paradox, stripped of it, becomes a dangerously elastic principle. Almost any view can be characterised as intolerant by those who oppose it, and the power to determine which views fall beyond the pale is itself a power that can be abused. A principle intended to protect an open society could, in the wrong hands, become an instrument for closing it. Liberal theorists such as John Rawls, for example, argued that a just society should tolerate even intolerant groups unless the tolerant have a reasonable belief that their own security and the institutions of liberty are genuinely in danger."
+    },
+    {
+      "id": "p4",
+      "text": "Critics from another direction contend that this cautious position is naive about the dynamics of contemporary communication. When intolerant movements can reach vast audiences instantaneously, and when the cost of spreading falsehoods is negligible compared with the effort of refuting them, the faith that rational argument and public opinion will keep such movements in check may be misplaced. On this account, waiting until intolerance turns to violence is to wait too long."
+    },
+    {
+      "id": "p5",
+      "text": "Between these positions, a range of intermediate approaches has been proposed. Some distinguish between expressing an intolerant belief and inciting concrete harm against identifiable people; others focus on the conduct of organisations rather than the content of opinions; still others prefer to rely on counter-speech, education and the refusal of institutional platforms rather than on legal prohibition. None of these distinctions is entirely free of ambiguity, but each attempts to preserve the paradox's insight while limiting the scope for abuse."
+    },
+    {
+      "id": "p6",
+      "text": "Perhaps the deepest lesson of the paradox is that tolerance cannot be a self-sufficient principle. It presupposes a framework of shared commitments, among them a willingness to settle disagreements through argument rather than force, that it cannot by itself guarantee. Maintaining that framework requires judgement, and judgement can err in either direction, toward complacency or toward repression. Acknowledging this does not resolve the paradox, but it may at least discourage those who invoke it from imagining that it settles more than it does."
+    },
+    {
+      "id": "p7",
+      "text": "The practical stakes of these debates are visible in the constitutional arrangements of several democracies. The political scientist Karl Loewenstein, writing in the 1930s, argued that democracies confronting movements bent on their destruction must be prepared to become militant, using legal means to defend themselves. Post-war Germany embodied something of this idea in its Basic Law, which permits the prohibition of parties that seek to undermine the democratic order, and its constitutional court banned two parties in the 1950s. More recently, however, the same court declined to ban a far-right party whose aims it judged incompatible with the constitution, reasoning that the party was too marginal to have any realistic prospect of achieving them. The decision illustrates how even a militant democracy may calibrate its response to the actual danger posed."
+    },
+    {
+      "id": "p8",
+      "text": "The United States offers an instructive contrast. Its constitutional tradition, as interpreted by the Supreme Court since the late 1960s, protects even the advocacy of violence unless that advocacy is directed to inciting imminent lawless action and is likely to produce it. Defenders regard this standard as a bulwark against the abuses described earlier, since it denies officials the discretion to suppress views merely because they find them abhorrent. Critics reply that a test focused on imminence is ill-suited to forms of incitement that operate gradually, by shifting the boundaries of what audiences regard as thinkable. That two mature democracies have reached such different settlements suggests that the paradox does not dictate a single solution, and that historical experience shapes where a society chooses to draw its lines."
+    },
+    {
+      "id": "p9",
+      "text": "A further complication is that many of the most consequential decisions about the limits of tolerance are now taken not by legislatures or courts but by the private companies that operate the principal channels of public communication. Their moderation policies, enforced at enormous scale and often by automated means, determine in practice which views reach a wide audience. This shift raises questions that Popper could scarcely have anticipated: whether entities accountable chiefly to shareholders should exercise such influence over public discourse, and whether the procedural safeguards that constrain state censorship ought, in some form, to apply to them. The paradox of tolerance, in other words, has not been resolved so much as relocated."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main point of the passage?",
+      "options": [
+        "Popper argued that all intolerant views should be banned immediately.",
+        "The paradox of tolerance contains a genuine insight, but applying it requires careful judgement to avoid both complacency and repression.",
+        "Tolerance is a self-sufficient principle that needs no further justification.",
+        "Modern communication has made the paradox of tolerance irrelevant."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer defends the insight while warning against its misuse and stressing judgement.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "judgement can err in either direction, toward complacency or toward repression"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to the passage, under what circumstances did Popper think intolerant philosophies might rightly be suppressed?",
+      "options": [
+        "Whenever they were expressed in public.",
+        "Whenever public opinion disapproved of them.",
+        "Chiefly when their adherents rejected argument and were ready to use violence.",
+        "Only when they were published in books."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Popper saw suppression as justified chiefly when adherents refused argument and resorted to force.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "when their adherents refused to engage in argument altogether and were prepared to answer it with fists or weapons"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "What does the writer imply about the way the paradox is often invoked today?",
+      "options": [
+        "It is frequently presented in a simplified form that leaves out Popper's important qualification.",
+        "It is usually quoted accurately and in full.",
+        "It is mainly used to defend unlimited free speech.",
+        "It is rarely mentioned in contemporary debates."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer notes that the abbreviated version \"tends to omit a significant qualification\".",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "the abbreviated version tends to omit a significant qualification"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"elastic\" is closest in meaning to",
+      "options": [
+        "flexible to the point of being easily stretched or misapplied",
+        "strong and durable",
+        "temporary",
+        "scientifically precise"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "An elastic principle can be stretched to cover almost any view, which is why it is dangerous.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "becomes a dangerously elastic principle"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention John Rawls in paragraph 3?",
+      "options": [
+        "To show that Rawls rejected tolerance entirely.",
+        "To give an example of a liberal theorist who also set a high threshold before intolerant groups could be restricted.",
+        "To argue that Rawls disagreed with every aspect of Popper's view.",
+        "To prove that intolerant groups are never dangerous."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Rawls is cited as holding that intolerant groups should be tolerated unless security and liberty are genuinely endangered.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "a just society should tolerate even intolerant groups unless the tolerant have a reasonable belief that their own security and the institutions of liberty are genuinely in danger"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "What concern underlies the critics' view in paragraph 4?",
+      "options": [
+        "That rational argument is always more powerful than falsehood.",
+        "That Popper overestimated the dangers of intolerance.",
+        "That legal prohibitions are too easily abused.",
+        "That the speed and cheapness of spreading falsehoods may allow intolerance to grow before argument can check it."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The critics argue that falsehoods spread faster than they can be refuted, so waiting for violence is waiting too long.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "the cost of spreading falsehoods is negligible compared with the effort of refuting them"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Which of the following is NOT mentioned in paragraph 5 as an intermediate approach?",
+      "options": [
+        "Distinguishing intolerant belief from incitement to concrete harm.",
+        "Focusing on the conduct of organisations.",
+        "Relying on counter-speech and education.",
+        "Requiring citizens to swear loyalty to democratic values."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Loyalty oaths are not mentioned; the other three approaches are.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Some distinguish between expressing an intolerant belief and inciting concrete harm against identifiable people"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the phrase \"beyond the pale\" means",
+      "options": [
+        "outside the limits of acceptable views",
+        "too complex to understand",
+        "historically outdated",
+        "protected by law"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Beyond the pale\" refers to what lies outside acceptable boundaries.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the power to determine which views fall beyond the pale"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "purpose",
+      "text": "What is the purpose of the final sentence of the passage?",
+      "options": [
+        "To claim that the paradox has finally been resolved.",
+        "To caution against treating the paradox as a ready-made answer to difficult cases.",
+        "To argue that the paradox should be abandoned.",
+        "To praise those who frequently invoke the paradox."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer warns that the paradox does not settle as much as those who invoke it imagine.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "it may at least discourage those who invoke it from imagining that it settles more than it does"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 7, what did Karl Loewenstein argue?",
+      "options": [
+        "Democracies should never restrict any political party.",
+        "Only the courts, not legislatures, should defend democracy.",
+        "Democracies confronting movements bent on their destruction must be prepared to defend themselves by legal means.",
+        "Democracies may use force against any movement they consider dangerous."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Loewenstein argued democracies must be prepared to become militant, using legal means.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "must be prepared to become militant, using legal means to defend themselves"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does the German court's more recent refusal to ban a far-right party suggest?",
+      "options": [
+        "Even a militant democracy may tailor its response to the actual level of danger.",
+        "The court no longer regards anti-constitutional aims as relevant.",
+        "The court judged the party's aims to be compatible with the constitution.",
+        "Germany has abolished the possibility of banning parties."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The court found the aims incompatible but declined a ban because the party was too marginal to achieve them.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "The decision illustrates how even a militant democracy may calibrate its response to the actual danger posed."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"calibrate\" is closest in meaning to",
+      "options": [
+        "abandon",
+        "publicise",
+        "accelerate",
+        "adjust precisely"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "To calibrate a response is to adjust it carefully to the circumstances, here the level of danger.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "may calibrate its response to the actual danger posed"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "According to paragraph 8, when does the American constitutional tradition permit restriction of the advocacy of violence?",
+      "options": [
+        "Whenever officials find the views expressed abhorrent.",
+        "Whenever the advocacy is published online.",
+        "When it is directed to inciting imminent lawless action and is likely to produce it.",
+        "Under no circumstances whatsoever."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Advocacy is protected unless directed to inciting imminent lawless action and likely to produce it.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "unless that advocacy is directed to inciting imminent lawless action and is likely to produce it"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What concern underlies the critics' view of the imminence test in paragraph 8?",
+      "options": [
+        "It is too harsh on peaceful political speech.",
+        "It may fail to address incitement that works gradually by changing what audiences regard as thinkable.",
+        "It gives officials too much discretion to suppress views.",
+        "It applies only to printed publications."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Critics say the test is ill-suited to incitement that operates gradually. The third option reverses the defenders' point.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "a test focused on imminence is ill-suited to forms of incitement that operate gradually"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"bulwark\" is closest in meaning to",
+      "options": [
+        "threat",
+        "loophole",
+        "compromise",
+        "protective barrier"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A bulwark is a defence; the standard protects against abuses of the power to suppress.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Defenders regard this standard as a bulwark against the abuses described earlier"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer contrast the approaches of Germany and the United States?",
+      "options": [
+        "To show that the American approach is clearly superior.",
+        "To show that the German approach is outdated.",
+        "To suggest that the paradox does not dictate a single solution and that history shapes where lines are drawn.",
+        "To describe the procedures followed by constitutional courts."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer concludes that different settlements show the paradox does not dictate a single solution.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "suggests that the paradox does not dictate a single solution, and that historical experience shapes where a society chooses to draw its lines"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "How does the defenders' view of the American standard relate to the concern raised in paragraph 3?",
+      "options": [
+        "It responds to the worry that the power to decide which views are unacceptable can itself be abused.",
+        "It ignores the concern raised in paragraph 3 entirely.",
+        "It confirms the position of the critics described in paragraph 4.",
+        "It reproduces Rawls's position exactly."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Paragraph 3 warns that the power to put views beyond the pale can be abused; the standard denies officials that discretion.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "it denies officials the discretion to suppress views merely because they find them abhorrent"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "the power to determine which views fall beyond the pale is itself a power that can be abused"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 9, who now takes many of the most consequential decisions about the limits of tolerance?",
+      "options": [
+        "National legislatures.",
+        "International courts.",
+        "Universities and schools.",
+        "Private companies that operate the principal channels of public communication."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Such decisions are taken 'not by legislatures or courts' but by private companies.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "by the private companies that operate the principal channels of public communication"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer imply about the moderation decisions of private companies?",
+      "options": [
+        "They are already subject to the same safeguards as state censorship.",
+        "They have little practical effect on public discourse.",
+        "They exercise considerable influence over public discourse without the safeguards that constrain states.",
+        "They should be replaced entirely by government regulation."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer questions whether such entities should have such influence and whether state safeguards ought to apply, implying they currently do not.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "whether the procedural safeguards that constrain state censorship ought, in some form, to apply to them"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 7 to 9?",
+      "options": [
+        "All democracies have adopted the same solution to Popper's paradox.",
+        "Different democracies, and now private platforms, deal with the limits of tolerance in different ways, so the paradox persists without a single solution.",
+        "The American approach has been adopted by Germany.",
+        "Private companies have finally resolved the paradox of tolerance."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraphs compare national approaches and note that the paradox 'has not been resolved so much as relocated'.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "The paradox of tolerance, in other words, has not been resolved so much as relocated."
+        }
+      ]
+    }
+  ]
+}

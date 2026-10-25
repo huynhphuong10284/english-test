@@ -1,0 +1,451 @@
+{
+  "id": "remote-islands-and-tourism",
+  "title": "Paradise Under Pressure: Remote Islands and Tourism",
+  "level": "B2 · Upper-intermediate",
+  "description": "The economic benefits and environmental and cultural costs of tourism on small islands.",
+  "instructions": "Read the article about tourism on remote islands, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "For centuries, small remote islands were among the most isolated communities on Earth, reachable only after long and often dangerous sea voyages. Cheaper air travel and the spread of images through social media have changed that dramatically. Places that once received a handful of visitors a year now welcome thousands, attracted by white beaches, coral reefs and the promise of an unspoilt escape from modern life."
+    },
+    {
+      "id": "p2",
+      "text": "For many island economies, tourism has become a lifeline. Traditional industries such as fishing and farming rarely generate much income, and young people have often been forced to leave in search of work. Hotels, restaurants and tour companies provide jobs that allow families to stay together, while the money spent by visitors can help to fund schools, clinics and better transport links."
+    },
+    {
+      "id": "p3",
+      "text": "However, the very qualities that attract tourists are easily damaged by them. Islands typically have limited supplies of fresh water, and a single large hotel may consume as much as an entire village. Waste is another serious difficulty, since rubbish that cannot be burned or buried often has to be shipped back to the mainland at great expense. Meanwhile, coral reefs can be harmed by careless snorkellers, boat anchors and certain chemicals found in sun creams."
+    },
+    {
+      "id": "p4",
+      "text": "There are also cultural concerns. When a large share of income comes from visitors, local traditions may gradually be reshaped to suit outside expectations. Ceremonies that once had deep religious meaning can turn into performances staged for cameras, and some residents complain that they feel like strangers in their own homes during the busy season."
+    },
+    {
+      "id": "p5",
+      "text": "In response, a number of island governments have begun to experiment with alternative approaches. Some limit the number of visitors allowed each day, while others charge an environmental fee on arrival and use the money for conservation. A few have chosen to market themselves exclusively to small groups of high-spending travellers, arguing that fewer guests who stay longer cause less damage. None of these strategies is perfect, but they reflect a growing recognition that tourism must be managed rather than simply encouraged."
+    },
+    {
+      "id": "p6",
+      "text": "Tourism also places islands in an awkward position with regard to climate change. Low-lying islands are among the places most threatened by rising sea levels and stronger storms, yet almost every visitor arrives by plane, and flying is one of the most carbon-intensive ways to travel. Some travellers have responded by staying longer and travelling less often, while some airlines and tour operators offer schemes that claim to balance out the emissions of a journey. Critics doubt whether such schemes achieve much, but the dilemma remains: the industry that keeps many islands alive economically may also be contributing to the threat to their survival."
+    },
+    {
+      "id": "p7",
+      "text": "Another important question is who actually benefits from the money that visitors spend. When hotels are owned by large foreign companies and much of the food and equipment they use is imported, a significant part of tourist spending may leave the island almost immediately. Locally owned guesthouses, family restaurants and tours run by residents tend to keep more of the income within the community. For this reason, some development experts encourage islands to support small local businesses rather than relying entirely on large resorts, even if this means growing more slowly. Training residents for skilled and managerial roles, rather than only low-paid service jobs, can also help to spread the benefits more widely."
+    },
+    {
+      "id": "p8",
+      "text": "Visitors themselves can also make a difference. Choosing accommodation that uses water and energy carefully, respecting local customs and dress codes, using reef-safe sun cream and buying souvenirs made on the island are small decisions that add up when they are made by thousands of people. Perhaps most importantly, tourists can approach these places with curiosity and humility, seeing them not as a backdrop for holiday photographs but as real communities with their own history and concerns. If both hosts and guests accept their share of responsibility, tourism may yet become a force that helps remote islands to thrive."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Remote islands should close their borders to tourists.",
+        "Social media is the main cause of environmental damage.",
+        "Fishing is more profitable than tourism on most islands.",
+        "Tourism brings important income to remote islands but must be controlled to protect them."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The article describes the economic benefits of tourism and its costs, ending with the need to manage it.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "tourism has become a lifeline"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "tourism must be managed rather than simply encouraged"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, why have young islanders often left their homes?",
+      "options": [
+        "There was little work available.",
+        "They wanted to study abroad.",
+        "The islands were too dangerous.",
+        "Hotels refused to employ them."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Traditional industries produce little income, so young people left to find work.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "young people have often been forced to leave in search of work"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"lifeline\" is closest in meaning to:",
+      "options": [
+        "a dangerous risk",
+        "a temporary hobby",
+        "something essential for survival",
+        "a type of boat"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tourism provides jobs and money that island economies depend on.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "For many island economies, tourism has become a lifeline."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "purpose",
+      "text": "Why does the writer compare a large hotel to an entire village?",
+      "options": [
+        "To show that hotels are physically larger than villages",
+        "To emphasise how much water tourism can use",
+        "To suggest that villagers should work in hotels",
+        "To explain where tourists prefer to stay"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The comparison highlights the pressure that tourism puts on limited fresh water.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "a single large hotel may consume as much as an entire village"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Which of the following is NOT mentioned as a cause of damage to coral reefs?",
+      "options": [
+        "Rising sea temperatures",
+        "Careless snorkellers",
+        "Boat anchors",
+        "Chemicals in sun creams"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 3 lists snorkellers, anchors and sun cream chemicals, but not sea temperatures.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "coral reefs can be harmed by careless snorkellers, boat anchors and certain chemicals found in sun creams"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "What can be inferred about some residents from paragraph 4?",
+      "options": [
+        "They want even more tourists to come.",
+        "They have stopped holding ceremonies.",
+        "They feel that tourism has changed their sense of belonging.",
+        "They work as professional photographers."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Feeling like \"strangers in their own homes\" suggests they no longer feel the island fully belongs to them.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "they feel like strangers in their own homes during the busy season"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Why do some islands market themselves only to high-spending travellers?",
+      "options": [
+        "They think wealthy tourists are more polite.",
+        "They believe fewer visitors who stay longer cause less damage.",
+        "They consider environmental fees unfair.",
+        "They believe short visits are better for coral reefs."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text states their argument directly.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "fewer guests who stay longer cause less damage"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"exclusively\" is closest in meaning to:",
+      "options": [
+        "rarely",
+        "openly",
+        "cheaply",
+        "only"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "These islands target only small groups of high-spending travellers, not everyone.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "market themselves exclusively to small groups of high-spending travellers"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which title would best suit the article as a whole?",
+      "options": [
+        "The Best Beaches in the World",
+        "How to Become a Travel Influencer",
+        "Paradise Under Pressure: Managing Island Tourism",
+        "Why Fishing Is Disappearing"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The article weighs the benefits of tourism for islands against the damage it can cause, and discusses how it can be managed.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "tourism must be managed rather than simply encouraged"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "What does the phrase \"the promise of an unspoilt escape from modern life\" suggest about tourists?",
+      "options": [
+        "They are attracted by the idea that the islands are untouched by the modern world.",
+        "They want to move to the islands permanently.",
+        "They prefer islands with modern shopping centres.",
+        "They are mainly interested in the history of sea travel."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tourists are drawn by the idea of a place that has not been changed or damaged by modern life.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "the promise of an unspoilt escape from modern life"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "purpose",
+      "text": "Why does the writer say that islands are in \"an awkward position\" with regard to climate change?",
+      "options": [
+        "Because islands produce more emissions than large countries",
+        "Because islanders refuse to discuss climate change",
+        "Because storms make flights to islands impossible",
+        "Because the flights that bring income also add to a threat the islands face"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Islands depend on tourists who fly, yet flying contributes to the climate change that threatens them.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the industry that keeps many islands alive economically may also be contributing to the threat to their survival"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 6, how have some travellers responded to concerns about flying?",
+      "options": [
+        "By travelling only by boat",
+        "By staying longer and travelling less often",
+        "By refusing to visit islands at all",
+        "By taking shorter holidays"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Some travellers now stay longer and travel less often.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Some travellers have responded by staying longer and travelling less often"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"dilemma\" is closest in meaning to:",
+      "options": [
+        "a serious mistake",
+        "a popular opinion",
+        "a difficult situation with no easy solution",
+        "a legal agreement"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Islands need tourism but tourism may add to the danger they face, so there is no simple answer.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the dilemma remains"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What can be inferred about schemes that \"claim to balance out the emissions of a journey\"?",
+      "options": [
+        "They have completely solved the problem of flying.",
+        "It is not clear how effective they really are.",
+        "They are required by law for all flights.",
+        "They are only offered to island residents."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The word \"claim\" and the critics' doubts suggest that their effect is uncertain.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Critics doubt whether such schemes achieve much"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, why may much tourist spending leave an island quickly?",
+      "options": [
+        "Most tourists pay for everything online before they arrive.",
+        "Islanders keep most of their savings abroad.",
+        "Taxes on tourists are paid to the mainland.",
+        "Many hotels are foreign-owned and import much of what they use."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Foreign ownership and imported food and equipment mean that money flows out of the island.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "When hotels are owned by large foreign companies and much of the food and equipment they use is imported"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What can be inferred about supporting small local businesses, according to paragraph 7?",
+      "options": [
+        "It is the fastest way to increase visitor numbers.",
+        "It means closing all large resorts.",
+        "It may lead to slower growth but more benefit for residents.",
+        "Most development experts are against it."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Local businesses keep more income in the community, even though this may mean growing more slowly.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "keep more of the income within the community"
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "even if this means growing more slowly"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer list choices such as using reef-safe sun cream and buying local souvenirs?",
+      "options": [
+        "To advertise products sold on the islands",
+        "To show that small actions by many visitors can have a combined effect",
+        "To suggest that visitors cause most of the damage",
+        "To describe the writer's own holiday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer says these small decisions add up when thousands of people make them.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "small decisions that add up when they are made by thousands of people"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"humility\" is closest in meaning to:",
+      "options": [
+        "a modest and respectful attitude",
+        "great excitement",
+        "strong self-confidence",
+        "impatience"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tourists are encouraged to approach islands modestly, respecting the people who live there.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "tourists can approach these places with curiosity and humility"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer imply about some tourists by saying islands are not \"a backdrop for holiday photographs\"?",
+      "options": [
+        "They are not allowed to take photographs on the islands.",
+        "They take photographs mainly for scientific research.",
+        "They do not enjoy their holidays.",
+        "They pay more attention to their pictures than to the people who live there."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer suggests that some visitors treat islands as scenery for photos and forget that real communities live there.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "seeing them not as a backdrop for holiday photographs but as real communities"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "According to the final sentence of the article, under what condition could tourism help remote islands to thrive?",
+      "options": [
+        "If both hosts and guests accept their share of responsibility",
+        "If the number of flights is doubled",
+        "If all hotels are owned by foreign companies",
+        "If islands stop charging environmental fees"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer says tourism may help islands thrive if both hosts and guests take responsibility.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "If both hosts and guests accept their share of responsibility"
+        }
+      ]
+    }
+  ]
+}

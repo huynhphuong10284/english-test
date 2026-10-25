@@ -1,0 +1,325 @@
+{
+  "id": "w-my-house",
+  "title": "My House",
+  "level": "A1 · Beginner",
+  "description": "Practise there is/are and have got, and write a short description of your home.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "There is / there are",
+      "prompt": "Choose the correct word.",
+      "text": "There ___ two bedrooms in my house.",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"there are\" with plural nouns: there are two bedrooms."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Have got",
+      "prompt": "Complete the sentence with have or has.",
+      "text": "We ___ got a big garden.",
+      "answers": [
+        "have"
+      ],
+      "points": 1,
+      "explanation": "Use \"have got\" with I, you, we and they: we have got."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "There is / there are",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "the kitchen",
+        "there",
+        "a table",
+        "in"
+      ],
+      "answers": [
+        "There is a table in the kitchen.",
+        "In the kitchen there is a table.",
+        "Is there a table in the kitchen?"
+      ],
+      "points": 1,
+      "explanation": "There is + a singular noun + place: There is a table in the kitchen."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "There is / there are",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There are a sofa in the living room.",
+      "answers": [
+        "There is a sofa in the living room.",
+        "There's a sofa in the living room."
+      ],
+      "points": 1,
+      "explanation": "Use \"there is\" (there's) with one thing: there is a sofa."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Possessive adjectives",
+      "prompt": "Choose the correct word.",
+      "text": "This is ___ bedroom. I love it!",
+      "options": [
+        "my",
+        "me",
+        "I",
+        "mine"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"my\" before a noun to show that something belongs to you: my bedroom."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Possessive 's",
+      "prompt": "Write the word in brackets with 's.",
+      "text": "My ___ (sister) room is pink.",
+      "answers": [
+        "sister's"
+      ],
+      "points": 1,
+      "explanation": "Add 's to a person to show that something belongs to them: my sister's room."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions of place: on",
+      "prompt": "Choose the correct word.",
+      "text": "The cat is ___ the sofa.",
+      "options": [
+        "at",
+        "on",
+        "of",
+        "to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"on\" for a surface: on the sofa, on the table."
+    },
+    {
+      "id": "e8",
+      "type": "error-correction",
+      "focus": "Plurals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We have got two bathroom.",
+      "answers": [
+        "We have got two bathrooms."
+      ],
+      "points": 1,
+      "explanation": "After a number bigger than one, add -s to the noun: two bathrooms."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Articles: a / an",
+      "prompt": "Write a or an.",
+      "text": "There is ___ armchair in my bedroom.",
+      "answers": [
+        "an"
+      ],
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound: an armchair."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Prepositions of place",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "plays",
+        "the garden",
+        "my dog",
+        "in"
+      ],
+      "answers": [
+        "My dog plays in the garden.",
+        "In the garden my dog plays."
+      ],
+      "points": 1,
+      "explanation": "Use \"in\" for the garden: in the garden."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Have got: he / she / it",
+      "prompt": "Choose the correct word.",
+      "text": "Our flat ___ got a balcony.",
+      "options": [
+        "have",
+        "is",
+        "are",
+        "has"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"has got\" with it (our flat = it): our flat has got."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Present simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The kitchen are very big.",
+      "answers": [
+        "The kitchen is very big.",
+        "The kitchens are very big."
+      ],
+      "points": 1,
+      "explanation": "Use \"is\" with one thing (the kitchen) and \"are\" with more than one."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Linking words: but",
+      "prompt": "Choose the correct word.",
+      "text": "My room is small, ___ it is very nice.",
+      "options": [
+        "but",
+        "and",
+        "because",
+        "so"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"but\" to join two different or opposite ideas."
+    },
+    {
+      "id": "e14",
+      "type": "gap-fill",
+      "focus": "Present simple: third person -s",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "My dad ___ (cook) in the kitchen every evening.",
+      "answers": [
+        "cooks"
+      ],
+      "points": 1,
+      "explanation": "With he, she and it, add -s to the verb: my dad cooks."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Like + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "reading",
+        "I",
+        "in my bedroom",
+        "like"
+      ],
+      "answers": [
+        "I like reading in my bedroom.",
+        "In my bedroom I like reading."
+      ],
+      "points": 1,
+      "explanation": "Like + verb-ing: I like reading."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Prepositions of place: on",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The lamp is in the table.",
+      "answers": [
+        "The lamp is on the table.",
+        "The lamp is under the table.",
+        "The lamp is next to the table.",
+        "The lamp is near the table.",
+        "The lamp is by the table."
+      ],
+      "points": 1,
+      "explanation": "Use \"on\" for a surface: the lamp is on the table. We are not \"in\" a table."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "There are: questions",
+      "prompt": "Choose the correct word.",
+      "text": "___ there any windows in the bathroom?",
+      "options": [
+        "Is",
+        "Have",
+        "Are",
+        "Do"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Make questions with \"Are there\" + a plural noun: Are there any windows?"
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Possessive adjectives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Me house is near the park.",
+      "answers": [
+        "My house is near the park."
+      ],
+      "points": 1,
+      "explanation": "Use \"my\" (not \"me\") before a noun: my house."
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "see",
+        "from my window",
+        "I",
+        "the sea",
+        "can"
+      ],
+      "answers": [
+        "I can see the sea from my window.",
+        "From my window I can see the sea.",
+        "Can I see the sea from my window?"
+      ],
+      "points": 1,
+      "explanation": "Subject + can + verb: I can see the sea."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Prepositions of time: at",
+      "prompt": "Write in, on or at.",
+      "text": "We have dinner in the kitchen ___ seven o'clock.",
+      "answers": [
+        "at"
+      ],
+      "points": 1,
+      "explanation": "Use \"at\" with clock times: at seven o'clock."
+    }
+  ],
+  "task": {
+    "genre": "Short description",
+    "prompt": "Write about your house or flat.",
+    "contentPoints": [
+      "Say where your home is and if it is big or small.",
+      "Say what rooms there are.",
+      "Say what your favourite room is and why."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "I live in a ...",
+      "There is / There are ...",
+      "We have got ...",
+      "My favourite room is ... because ..."
+    ],
+    "modelAnswer": "I live in a small house in the city. There are three bedrooms, a kitchen and a living room. We have got a little garden with flowers. My favourite room is my bedroom because it is blue and quiet. I read and play games there."
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "id": "w-a-birthday-invitation",
+  "title": "A Birthday Invitation",
+  "level": "A1 · Beginner",
+  "description": "Practise be, can and possessives, and write an invitation to a birthday party.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present simple: be",
+      "prompt": "Choose the correct word.",
+      "text": "My party ___ on Saturday 12th May.",
+      "options": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"is\" with one thing: my party is on Saturday."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Can: questions",
+      "prompt": "Complete the sentence with can or can't.",
+      "text": "___ you come to my party?",
+      "answers": [
+        "Can"
+      ],
+      "points": 1,
+      "explanation": "Use \"Can you + base verb?\" to ask someone: Can you come?"
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Present simple: be",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "in",
+        "Green Street",
+        "is",
+        "my house"
+      ],
+      "answers": [
+        "My house is in Green Street.",
+        "Is my house in Green Street?"
+      ],
+      "points": 1,
+      "explanation": "Subject + be + in + street name: My house is in Green Street."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Possessive adjectives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Please bring you swimming costume.",
+      "answers": [
+        "Please bring your swimming costume."
+      ],
+      "points": 1,
+      "explanation": "Use \"your\" (not \"you\") before a noun to show it belongs to someone: your swimming costume."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the best word to join the ideas.",
+      "text": "We can swim ___ play games in the garden.",
+      "options": [
+        "because",
+        "so",
+        "and",
+        "but"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"And\" joins two things that go together: swim and play games."
+    },
+    {
+      "id": "e6",
+      "type": "word-order",
+      "focus": "Present simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "starts",
+        "the party",
+        "three o'clock",
+        "at"
+      ],
+      "answers": [
+        "The party starts at three o'clock.",
+        "At three o'clock the party starts."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + at + time: The party starts at three o'clock."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions of time: on",
+      "prompt": "Choose the correct word.",
+      "text": "The party is ___ Saturday.",
+      "options": [
+        "in",
+        "at",
+        "to",
+        "on"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"on\" with days of the week: on Saturday."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Articles: a / an",
+      "prompt": "Write a or an.",
+      "text": "We have got ___ big chocolate cake for the party.",
+      "answers": [
+        "a"
+      ],
+      "points": 1,
+      "explanation": "Use \"a\" before a consonant sound: a big cake."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Irregular plurals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There are ten childs at the party.",
+      "answers": [
+        "There are ten children at the party."
+      ],
+      "points": 1,
+      "explanation": "The plural of \"child\" is \"children\", not \"childs\"."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Have got: he / she / it",
+      "prompt": "Choose the correct word.",
+      "text": "My mum ___ got a surprise for you.",
+      "options": [
+        "has",
+        "have",
+        "is",
+        "are"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"has got\" with he, she and it (my mum = she): my mum has got."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Prepositions of time: in",
+      "prompt": "Write in, on or at.",
+      "text": "My birthday is ___ May.",
+      "answers": [
+        "in"
+      ],
+      "points": 1,
+      "explanation": "Use \"in\" with months: in May."
+    },
+    {
+      "id": "e12",
+      "type": "word-order",
+      "focus": "Like + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "dancing",
+        "like",
+        "my friends"
+      ],
+      "answers": [
+        "My friends like dancing."
+      ],
+      "points": 1,
+      "explanation": "Like + verb-ing: my friends like dancing."
+    },
+    {
+      "id": "e13",
+      "type": "error-correction",
+      "focus": "Possessive 's",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It's my sister birthday too.",
+      "answers": [
+        "It's my sister's birthday too.",
+        "It is my sister's birthday too."
+      ],
+      "points": 1,
+      "explanation": "Add 's to a person to show that something belongs to them: my sister's birthday."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "There are",
+      "prompt": "Choose the correct word.",
+      "text": "There ___ games and music at the party.",
+      "options": [
+        "is",
+        "am",
+        "be",
+        "are"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"there are\" with plural nouns: there are games."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Can't",
+      "prompt": "Complete with can or can't.",
+      "text": "My cousin ___ come because he is on holiday.",
+      "answers": [
+        "can't",
+        "cannot",
+        "can not"
+      ],
+      "points": 1,
+      "explanation": "Use \"can't\" (cannot) when something is not possible: he can't come."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Articles: a / an",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Please bring a umbrella if it rains.",
+      "answers": [
+        "Please bring an umbrella if it rains."
+      ],
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound: an umbrella."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Have got",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a",
+        "have",
+        "big garden",
+        "got",
+        "we"
+      ],
+      "answers": [
+        "We have got a big garden.",
+        "Have we got a big garden?"
+      ],
+      "points": 1,
+      "explanation": "Subject + have got + thing: We have got a big garden."
+    },
+    {
+      "id": "e18",
+      "type": "choice",
+      "focus": "Possessive adjectives",
+      "prompt": "Choose the correct word.",
+      "text": "Come and meet my cousins. ___ names are Lily and Max.",
+      "options": [
+        "They",
+        "Their",
+        "There",
+        "Them"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"their\" before a noun to talk about something that belongs to them: their names."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Present simple: -es",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The party finish at six o'clock.",
+      "answers": [
+        "The party finishes at six o'clock."
+      ],
+      "points": 1,
+      "explanation": "With he, she or it, verbs ending in -sh take -es: it finishes."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Linking words: because",
+      "prompt": "Complete with because or but.",
+      "text": "We can play in the garden ___ it is big.",
+      "answers": [
+        "because"
+      ],
+      "points": 1,
+      "explanation": "Use \"because\" to give a reason: we can play there because it is big."
+    }
+  ],
+  "task": {
+    "genre": "Invitation",
+    "prompt": "Write an invitation to your birthday party.",
+    "contentPoints": [
+      "Say what the party is for.",
+      "Give the day, time and place.",
+      "Say what you can do at the party.",
+      "Ask your friend to reply."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "Dear ...,",
+      "Please come to my ... party!",
+      "It is on ... at ...",
+      "We can ...",
+      "Please tell me if you can come."
+    ],
+    "modelAnswer": "Dear Lily,\n\nPlease come to my birthday party! I am ten on Saturday. The party is at my house in Green Street. It starts at three o'clock. We can swim, play games and eat cake.\n\nPlease tell me if you can come.\n\nLove,\nRosa"
+  }
+}

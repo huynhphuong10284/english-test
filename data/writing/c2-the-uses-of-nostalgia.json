@@ -1,0 +1,320 @@
+{
+  "id": "w-the-uses-of-nostalgia",
+  "title": "The Uses of Nostalgia",
+  "level": "C2 · Proficiency",
+  "description": "Practise inversion, hedging and the unreal past, then write an essay on whether nostalgia helps or harms us.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Nostalgia is, ___, a form of selective memory.",
+      "options": [
+        "at some extent",
+        "to some extent",
+        "in some extent",
+        "on some extent"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The fixed hedging phrase is \"to some extent\", meaning partly but not completely."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Nostalgia tends to view the past through rose-___ spectacles.",
+      "answers": [
+        "tinted",
+        "coloured",
+        "colored"
+      ],
+      "points": 1,
+      "explanation": "\"Rose-tinted (or rose-coloured) spectacles\" describe an unrealistically positive view of something."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Inversion with \"such\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "such",
+        "of nostalgia",
+        "the pull",
+        "that",
+        "advertisers",
+        "exploit it",
+        "constantly"
+      ],
+      "answers": [
+        "Such is the pull of nostalgia that advertisers constantly exploit it.",
+        "Such is the pull of nostalgia that advertisers exploit it constantly."
+      ],
+      "points": 1,
+      "explanation": "\"Such is + noun phrase + that ...\" is an emphatic inverted structure meaning \"the pull is so strong that ...\"."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Unreal past",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It is high time we stop romanticising the past.",
+      "answers": [
+        "It is high time we stopped romanticising the past.",
+        "It is high time we stopped romanticizing the past."
+      ],
+      "points": 1,
+      "explanation": "After \"it is high time\", use a past form even though the meaning is present: it is high time we stopped."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Inversion with \"only\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Only ...\".",
+      "text": "We only appreciate some experiences once they are over.",
+      "keyword": "only",
+      "answers": [
+        "Only once they are over do we appreciate some experiences.",
+        "Only when they are over do we appreciate some experiences.",
+        "Only after they are over do we appreciate some experiences."
+      ],
+      "points": 1,
+      "explanation": "When \"only + time clause\" is fronted, the inversion comes in the main clause: only once they are over do we appreciate ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Hedging",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Nostalgia ...\".",
+      "text": "Nostalgia probably serves a psychological purpose.",
+      "keyword": "likely",
+      "answers": [
+        "Nostalgia is likely to serve a psychological purpose.",
+        "Nostalgia likely serves a psychological purpose.",
+        "Nostalgia most likely serves a psychological purpose."
+      ],
+      "points": 1,
+      "explanation": "\"Be likely to + infinitive\" expresses probability in a neutral, academic way."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Politicians ...\".",
+      "text": "Politicians often exploit our longing for the past.",
+      "keyword": "advantage",
+      "answers": [
+        "Politicians often take advantage of our longing for the past."
+      ],
+      "points": 1,
+      "explanation": "\"Take advantage of\" can mean to exploit something for your own benefit, often unfairly."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Substitution",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Many people say the music of their youth was better, and perhaps it ___.",
+      "answers": [
+        "was"
+      ],
+      "points": 1,
+      "explanation": "The auxiliary \"was\" replaces the repeated part of the clause (was better), avoiding repetition."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Nostalgia is often tinged ___ a gentle sadness.",
+      "options": [
+        "with",
+        "by",
+        "of",
+        "in"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "If something is \"tinged with\" a feeling, it contains a small amount of it: tinged with sadness, tinged with regret."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Nostalgia invites us to view the past ___ (sentiment), forgetting its hardships.",
+      "answers": [
+        "sentimentally"
+      ],
+      "points": 1,
+      "explanation": "From the noun \"sentiment\" we form the adjective \"sentimental\" and the adverb \"sentimentally\"."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Verb + preposition",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Many people long after a simpler time that never really existed.",
+      "answers": [
+        "Many people long for a simpler time that never really existed."
+      ],
+      "points": 1,
+      "explanation": "The verb \"long\" (= want something very much) is followed by \"for\": to long for a simpler time."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"With ...\".",
+      "text": "Looking back, the past always seems simpler than it was.",
+      "keyword": "hindsight",
+      "answers": [
+        "With hindsight, the past always seems simpler than it was.",
+        "With the benefit of hindsight, the past always seems simpler than it was."
+      ],
+      "points": 1,
+      "explanation": "\"With hindsight\" (or \"with the benefit of hindsight\") means looking back at an event after it has happened."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Nostalgia is not ___ harmful; it can foster a sense of continuity and belonging.",
+      "options": [
+        "inherent",
+        "inheritably",
+        "inherently",
+        "inheritedly"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Not inherently\" means not by its very nature; it qualifies a claim without rejecting it entirely."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Cleft sentences with \"not until\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "that",
+        "it was not until",
+        "I",
+        "I had left home",
+        "appreciated it"
+      ],
+      "answers": [
+        "It was not until I had left home that I appreciated it."
+      ],
+      "points": 1,
+      "explanation": "\"It was not until ... that ...\" emphasises the moment when something finally happened."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Memories, like old photographs, fade with time and become ever more idealise.",
+      "answers": [
+        "Memories, like old photographs, fade with time and become ever more idealised.",
+        "Memories, like old photographs, fade with time and become ever more idealized."
+      ],
+      "points": 1,
+      "explanation": "After \"become ever more\" we need an adjective; the past participle \"idealised\" works as one here."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Handwritten letters have ...\".",
+      "text": "Handwritten letters no longer play a part in most people's lives.",
+      "keyword": "thing",
+      "answers": [
+        "Handwritten letters have become a thing of the past for most people.",
+        "Handwritten letters have become a thing of the past in most people's lives.",
+        "Handwritten letters have largely become a thing of the past.",
+        "Handwritten letters have become a thing of the past."
+      ],
+      "points": 1,
+      "explanation": "Something that is \"a thing of the past\" no longer exists or is no longer common."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Phrasal verbs",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Political slogans that ___ to a golden age are often deeply misleading.",
+      "options": [
+        "draw back",
+        "set back",
+        "put back",
+        "hark back"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "To \"hark back to\" a time means to remember it or refer to it, often with longing."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Phrasal verbs",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "We tend to remember the good times and conveniently gloss ___ the bad. (one word, beginning with O)",
+      "answers": [
+        "over"
+      ],
+      "points": 1,
+      "explanation": "To \"gloss over\" something means to avoid dealing with it fully or to treat it as unimportant."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Inversion with \"so\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"So ...\".",
+      "text": "Our longing for the past is so strong that we forgive its faults.",
+      "keyword": "so",
+      "answers": [
+        "So strong is our longing for the past that we forgive its faults."
+      ],
+      "points": 1,
+      "explanation": "For emphasis, \"so + adjective\" can be fronted, followed by inversion: so strong is our longing ... that ..."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "\"Used to\" and \"be used to\"",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My grandparents are used to say that life was better in their day.",
+      "answers": [
+        "My grandparents used to say that life was better in their day."
+      ],
+      "points": 1,
+      "explanation": "\"Used to + infinitive\" describes past habits. \"Be used to + -ing\" means be accustomed to something, which does not fit here."
+    }
+  ],
+  "task": {
+    "genre": "Essay",
+    "prompt": "Write an essay for your tutor discussing whether nostalgia is a harmless pleasure or something that prevents us from facing the present.",
+    "contentPoints": [
+      "Define nostalgia and explain why people feel it.",
+      "Discuss the positive functions of nostalgia for individuals.",
+      "Discuss how nostalgia can be exploited or become harmful.",
+      "Give your own balanced conclusion."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "To some extent, ...",
+      "Such is ... that ...",
+      "Only once ... do we ...",
+      "is likely to ...",
+      "through rose-tinted spectacles",
+      "It is high time we ..."
+    ],
+    "modelAnswer": "Nostalgia, the bittersweet longing for a time that has passed, was once regarded as a kind of illness. Today it is more often treated as a harmless indulgence, visible in vintage fashion, remastered films and endless lists of the best songs of past decades. Whether it is merely pleasant, or something more troubling, depends largely on how it is used.\n\nPart of nostalgia's appeal lies in the way memory works. We tend to forget the boredom and anxiety of earlier years while retaining their highlights, so the past is, to some extent, a version we have edited ourselves. Only once certain experiences are over do we appreciate them fully, and looking back allows us to enjoy them a second time.\n\nThere is good reason to think that this can be beneficial. Nostalgia is likely to serve a genuine psychological purpose: recalling shared memories can strengthen our sense of identity, remind us that we are loved and offer comfort during periods of uncertainty or loss. Families and communities often use it to bind generations together.\n\nThe difficulty arises when longing turns into a lens through which the present is judged and found wanting. Such is the pull of nostalgia that advertisers constantly exploit it, persuading us that a product will return us to simpler days. More worryingly, politicians often take advantage of our longing for an imagined golden age, promising to restore a past that, on closer inspection, was far less fair or comfortable than we remember. Viewed through rose-tinted spectacles, history becomes an argument against change.\n\nIn my view, nostalgia is neither entirely harmless nor inherently dangerous. As a private source of comfort and continuity, it enriches our lives. As a political or commercial tool, however, it deserves scepticism. It is high time we stopped treating the past as a lost paradise and began using it instead as a source of understanding."
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "w-free-speech-online",
+  "title": "Free Speech Online",
+  "level": "C2 · Proficiency",
+  "description": "Practise the subjunctive, negative inversion and persuasive hedging, then write a letter to the editor about free speech on the internet.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Your correspondent's claim is, ___, somewhat overstated.",
+      "options": [
+        "I would suggest",
+        "I am suggesting",
+        "I suggested",
+        "I will suggest"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"I would suggest\" is a polite, tentative way of disagreeing. The other forms sound either too direct or wrong in tense."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Subjunctive",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "I would insist that every platform ___ (be) transparent about its moderation rules.",
+      "answers": [
+        "be"
+      ],
+      "points": 1,
+      "explanation": "After \"insist that\", formal English can use the subjunctive base form \"be\" for every subject."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Inversion",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "should",
+        "be",
+        "censorship",
+        "on no account",
+        "confused with",
+        "moderation"
+      ],
+      "answers": [
+        "On no account should moderation be confused with censorship.",
+        "On no account should censorship be confused with moderation."
+      ],
+      "points": 1,
+      "explanation": "A negative phrase such as \"on no account\" at the start of a sentence takes inversion: on no account should moderation be ..."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Idiomatic collocations",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Freedom of speech does not give anyone free reign to harass others.",
+      "answers": [
+        "Freedom of speech does not give anyone free rein to harass others."
+      ],
+      "points": 1,
+      "explanation": "The idiom is \"free rein\" (from the reins used to control a horse), not \"reign\". It means complete freedom to act."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Under no ...\".",
+      "text": "Platforms must not silence legitimate debate under any circumstances.",
+      "keyword": "circumstances",
+      "answers": [
+        "Under no circumstances must platforms silence legitimate debate.",
+        "Under no circumstances should platforms silence legitimate debate."
+      ],
+      "points": 1,
+      "explanation": "\"Under no circumstances\" at the start of a sentence is followed by inversion: under no circumstances must platforms silence ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Concession",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"While ...\".",
+      "text": "Even though I share your concern about abuse, I disagree with your conclusion.",
+      "keyword": "while",
+      "answers": [
+        "While I share your concern about abuse, I disagree with your conclusion.",
+        "While sharing your concern about abuse, I disagree with your conclusion."
+      ],
+      "points": 1,
+      "explanation": "\"While\" introduces a concession politely before a disagreement: while I share your concern, I disagree ..."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"It is difficult to decide ...\".",
+      "text": "It is difficult to decide where acceptable speech ends.",
+      "keyword": "line",
+      "answers": [
+        "It is difficult to decide where to draw the line.",
+        "It is difficult to decide where the line should be drawn.",
+        "It is difficult to decide where the line is."
+      ],
+      "points": 1,
+      "explanation": "\"Draw the line\" means to set a limit on what is acceptable."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Substitution",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Your editorial suggests that all moderation is censorship. I do not believe ___.",
+      "answers": [
+        "so",
+        "that",
+        "this",
+        "it"
+      ],
+      "points": 1,
+      "explanation": "After verbs such as believe, think and hope, \"so\" can replace a whole clause: I do not believe so. \"That\", \"this\" or \"it\" are also possible here."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Formal vocabulary",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Your editorial claims that moderation is ___ to censorship, which is simply not the case.",
+      "options": [
+        "paramount",
+        "tantamount",
+        "synonymous",
+        "identified"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Tantamount to\" means equivalent in effect to something bad. \"Synonymous\" takes \"with\", and \"paramount\" means most important."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Dependent prepositions",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Platforms cannot reasonably be held accountable ___ every comment posted by their users.",
+      "answers": [
+        "for"
+      ],
+      "points": 1,
+      "explanation": "We are \"accountable to\" a person or body \"for\" our actions: held accountable for every comment."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Noun + preposition",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Free speech is the cornerstone on any democracy.",
+      "answers": [
+        "Free speech is the cornerstone of any democracy."
+      ],
+      "points": 1,
+      "explanation": "\"The cornerstone of\" something is its most important foundation; the noun is followed by \"of\"."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Idiomatic expressions",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Many platforms ...\".",
+      "text": "Many platforms claim to support transparency but do little to achieve it.",
+      "keyword": "lip",
+      "answers": [
+        "Many platforms pay lip service to transparency.",
+        "Many platforms only pay lip service to transparency.",
+        "Many platforms merely pay lip service to transparency.",
+        "Many platforms pay only lip service to transparency."
+      ],
+      "points": 1,
+      "explanation": "To \"pay lip service to\" an idea means to say you support it without doing anything to put it into practice."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Fixed phrases",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Your correspondent's argument is, on the ___ of it, persuasive.",
+      "options": [
+        "top",
+        "front",
+        "face",
+        "head"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"On the face of it\" means \"at first sight\"; it signals that a closer look may reveal a different picture."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Inversion after \"only by\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "can",
+        "only by",
+        "we",
+        "protect",
+        "free expression",
+        "moderating abuse"
+      ],
+      "answers": [
+        "Only by moderating abuse can we protect free expression.",
+        "We can protect free expression only by moderating abuse."
+      ],
+      "points": 1,
+      "explanation": "When \"only by + -ing\" starts a sentence, the main clause is inverted: only by moderating abuse can we protect ..."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Irregular plurals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Anonymity emboldens people to say things they would never say face to face, a well-documented phenomena.",
+      "answers": [
+        "Anonymity emboldens people to say things they would never say face to face, a well-documented phenomenon."
+      ],
+      "points": 1,
+      "explanation": "\"Phenomena\" is the plural; after \"a\" we need the singular form \"phenomenon\"."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Stance",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"There is ...\".",
+      "text": "Nobody can deny that some content causes real harm.",
+      "keyword": "denying",
+      "answers": [
+        "There is no denying that some content causes real harm.",
+        "There is no denying the fact that some content causes real harm.",
+        "There's no denying that some content causes real harm."
+      ],
+      "points": 1,
+      "explanation": "\"There is no denying (that)\" is an emphatic way of stating that something is certainly true."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Fixed phrases with prepositions",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The new law has been criticised for being at ___ with the principle of open debate.",
+      "options": [
+        "ends",
+        "edges",
+        "opposites",
+        "odds"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "To be \"at odds with\" something means to be in conflict or disagreement with it."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The rapid ___ (proliferate) of misinformation online is a genuine concern.",
+      "answers": [
+        "proliferation"
+      ],
+      "points": 1,
+      "explanation": "The noun of \"proliferate\" (increase rapidly in number) is \"proliferation\"."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Stance",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"It ...\".",
+      "text": "Obviously, threats of violence should be removed.",
+      "keyword": "saying",
+      "answers": [
+        "It goes without saying that threats of violence should be removed."
+      ],
+      "points": 1,
+      "explanation": "\"It goes without saying that\" introduces something so obvious that it hardly needs to be stated."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Fixed phrases",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Whether we like it or no, platforms already shape public debate.",
+      "answers": [
+        "Whether we like it or not, platforms already shape public debate."
+      ],
+      "points": 1,
+      "explanation": "The fixed expression is \"whether we like it or not\"; \"or no\" is not used here."
+    }
+  ],
+  "task": {
+    "genre": "Letter to the editor",
+    "prompt": "A newspaper editorial argued that any moderation of content on social media is a form of censorship. Write a letter to the editor responding to it.",
+    "contentPoints": [
+      "Refer to the editorial and state your overall position.",
+      "Acknowledge the importance of free speech.",
+      "Explain why some limits on online speech may be justified.",
+      "Suggest how online platforms could balance freedom and safety."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "I read with interest your editorial ...",
+      "While I share ..., ...",
+      "I would suggest that ...",
+      "On no account should ...",
+      "free rein",
+      "It is difficult to know where to draw the line."
+    ],
+    "modelAnswer": "Dear Editor,\n\nI read with interest your editorial of 3 May, which argued that any moderation of content on social media amounts to censorship. While I share your concern about the power of technology companies, I believe your conclusion is mistaken, and the claim that every removed post is an attack on liberty is, I would suggest, somewhat overstated.\n\nLet me be clear: freedom of expression is one of the foundations of a democratic society. The right to criticise those in power, to voice unpopular opinions and to offend is precisely what distinguishes an open society from an authoritarian one. Under no circumstances should platforms silence legitimate debate simply because it is uncomfortable or controversial.\n\nHowever, freedom of speech has never been absolute, either offline or on the internet. It does not give anyone free rein to harass others, to incite violence or to spread deliberate falsehoods that endanger public health. Your editorial suggests that removing such material is censorship. I do not believe so. On no account should moderation be confused with censorship: the latter is imposed by the state to suppress dissent, whereas the former is a set of rules that private platforms apply in order to keep their spaces usable for everyone. Without them, the loudest and most abusive voices would drown out the rest, which hardly serves free expression.\n\nAdmittedly, it is difficult to decide where to draw the line, and platforms have often done so inconsistently. The solution, though, is not to abandon moderation but to make it accountable. I would insist that every platform be transparent about its rules, publish regular data on what it removes and offer users a fair and rapid right of appeal. Independent oversight would further reduce the risk of abuse.\n\nFree speech and online safety are not opposites. With clear and accountable rules, we can protect both.\n\nYours faithfully,\nDaniel Reyes"
+  }
+}

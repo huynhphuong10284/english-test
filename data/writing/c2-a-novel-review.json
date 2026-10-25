@@ -1,0 +1,320 @@
+{
+  "id": "w-a-novel-review",
+  "title": "A Novel Review",
+  "level": "C2 · Proficiency",
+  "description": "Practise inversion, fronting and evaluative collocations, then review a novel for a literary website.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Concessive clauses",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The ending, ___ satisfying, feels somewhat rushed.",
+      "options": [
+        "despite",
+        "however",
+        "while",
+        "in spite"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"While\" can introduce a reduced concessive clause before an adjective (while satisfying = although it is satisfying). \"Despite\" and \"in spite of\" need a noun or -ing form."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The author has a keen ___ for dialogue, and every character sounds distinct.",
+      "answers": [
+        "ear"
+      ],
+      "points": 1,
+      "explanation": "We say someone has \"a keen ear for\" dialogue, music or language, meaning they notice and reproduce its details well."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Fronting",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the novel",
+        "lies",
+        "at the heart of",
+        "a family secret"
+      ],
+      "answers": [
+        "At the heart of the novel lies a family secret.",
+        "A family secret lies at the heart of the novel."
+      ],
+      "points": 1,
+      "explanation": "A prepositional phrase of place can be fronted for emphasis, with the verb before the subject: at the heart of the novel lies a family secret."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Inversion",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Rarely a debut novel has been so assured.",
+      "answers": [
+        "Rarely has a debut novel been so assured."
+      ],
+      "points": 1,
+      "explanation": "When \"rarely\" starts a sentence, the auxiliary must come before the subject: rarely has a debut novel been ..."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Not until ...\".",
+      "text": "The reader only understands the title in the final chapter.",
+      "keyword": "until",
+      "answers": [
+        "Not until the final chapter does the reader understand the title.",
+        "Not until the last chapter does the reader understand the title."
+      ],
+      "points": 1,
+      "explanation": "\"Not until + time expression\" at the start of a sentence is followed by inversion: not until the final chapter does the reader understand ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The novel ...\".",
+      "text": "The novel did not meet my expectations.",
+      "keyword": "short",
+      "answers": [
+        "The novel fell short of my expectations.",
+        "The novel fell short of what I had expected.",
+        "The novel fell short of what I expected."
+      ],
+      "points": 1,
+      "explanation": "\"Fall short of\" means fail to reach a standard or expectation: the novel fell short of my expectations."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Hedging",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Some readers ...\".",
+      "text": "It is possible that some readers will find the pace frustrating.",
+      "keyword": "may",
+      "answers": [
+        "Some readers may find the pace frustrating.",
+        "Some readers may well find the pace frustrating."
+      ],
+      "points": 1,
+      "explanation": "A modal such as \"may\" is a concise way to hedge a prediction; \"may well\" makes it slightly more likely."
+    },
+    {
+      "id": "e8",
+      "type": "choice",
+      "focus": "Idiomatic collocations",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Overall, the book is a ___ achievement, if an uneven one.",
+      "options": [
+        "heavy",
+        "plentiful",
+        "abundant",
+        "considerable"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Considerable achievement\" is a natural collocation. \"If an uneven one\" is a concise concession typical of reviews."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The novel's portrayal of grief is steeped ___ a quiet, understated melancholy.",
+      "options": [
+        "in",
+        "with",
+        "by",
+        "on"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We say something is \"steeped in\" a quality or tradition, meaning it is thoroughly filled with it."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The narrator's ___ (rely) becomes apparent as her memories begin to contradict one another.",
+      "answers": [
+        "unreliability"
+      ],
+      "points": 1,
+      "explanation": "From \"rely\" we form \"reliable\", then the negative \"unreliable\" and the noun \"unreliability\". An \"unreliable narrator\" is a key term in literary criticism."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Fixed phrases",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The novel is a far cry of the author's earlier, more playful work.",
+      "answers": [
+        "The novel is a far cry from the author's earlier, more playful work."
+      ],
+      "points": 1,
+      "explanation": "The fixed phrase is \"a far cry from\", meaning very different from something."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Conditional inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Were it ...\".",
+      "text": "Without its vivid secondary characters, the novel would be rather dull.",
+      "keyword": "were",
+      "answers": [
+        "Were it not for its vivid secondary characters, the novel would be rather dull."
+      ],
+      "points": 1,
+      "explanation": "\"Were it not for + noun\" is a formal inverted form of \"if it were not for\", meaning \"without\"."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Fixed phrases",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The prose is lyrical, ___ to the point of excess.",
+      "options": [
+        "on times",
+        "at times",
+        "by times",
+        "for times"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"At times\" is a fixed phrase meaning \"occasionally\"; it is a useful way to limit a criticism in a review."
+    },
+    {
+      "id": "e14",
+      "type": "gap-fill",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "___ it to say that the final twist is well worth the wait. (one word, beginning with S)",
+      "answers": [
+        "Suffice"
+      ],
+      "points": 1,
+      "explanation": "\"Suffice it to say (that)\" is a formal fixed phrase in the subjunctive, used to say something briefly without going into detail."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Inversion with \"so\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "that",
+        "is",
+        "some passages",
+        "so dense",
+        "rereading",
+        "the prose",
+        "demand"
+      ],
+      "answers": [
+        "So dense is the prose that some passages demand rereading.",
+        "The prose is so dense that some passages demand rereading."
+      ],
+      "points": 1,
+      "explanation": "For emphasis, \"so + adjective\" can be fronted, followed by inversion of the verb and subject: so dense is the prose that ..."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "For all its originality, the central premise is somewhat implausibility.",
+      "answers": [
+        "For all its originality, the central premise is somewhat implausible."
+      ],
+      "points": 1,
+      "explanation": "After \"is somewhat\" we need an adjective, \"implausible\", not the noun \"implausibility\". Note also \"for all\" meaning \"despite\"."
+    },
+    {
+      "id": "e17",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The novel follows a woman who is struggling ...\".",
+      "text": "The novel follows a woman who is struggling to accept her mother's death.",
+      "keyword": "terms",
+      "answers": [
+        "The novel follows a woman who is struggling to come to terms with her mother's death.",
+        "The novel follows a woman who is struggling to come to terms with the death of her mother."
+      ],
+      "points": 1,
+      "explanation": "\"Come to terms with\" something painful means gradually learning to accept it."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The plot ___ credulity at times, relying on a string of unlikely coincidences. (one word, beginning with S)",
+      "answers": [
+        "strains",
+        "stretches"
+      ],
+      "points": 1,
+      "explanation": "To \"strain\" or \"stretch credulity\" means to be very difficult to believe."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The film adaptation ...\".",
+      "text": "The film adaptation fails to capture the richness of the novel.",
+      "keyword": "justice",
+      "answers": [
+        "The film adaptation does not do justice to the richness of the novel.",
+        "The film adaptation does not do the richness of the novel justice.",
+        "The film adaptation does not do justice to the novel's richness.",
+        "The film adaptation does not do the novel's richness justice.",
+        "The film adaptation fails to do justice to the richness of the novel.",
+        "The film adaptation fails to do the richness of the novel justice.",
+        "The film adaptation fails to do justice to the novel's richness.",
+        "The film adaptation fails to do the novel's richness justice."
+      ],
+      "points": 1,
+      "explanation": "To \"do justice to\" something (or \"do something justice\") means to show or represent it as well as it deserves."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Agreement with correlative conjunctions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Neither the narrator nor her brothers seems able to forgive their father.",
+      "answers": [
+        "Neither the narrator nor her brothers seem able to forgive their father."
+      ],
+      "points": 1,
+      "explanation": "With \"neither ... nor\", the verb agrees with the nearer subject: \"her brothers\" is plural, so the verb is \"seem\"."
+    }
+  ],
+  "task": {
+    "genre": "Review",
+    "prompt": "A literary website has asked readers to review a novel that explores family or memory. Write your review.",
+    "contentPoints": [
+      "Give a brief outline of the plot without revealing the ending.",
+      "Evaluate the characterisation and the writing style.",
+      "Point out at least one weakness of the novel.",
+      "Say who would enjoy the book and give your overall recommendation."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "At the heart of the novel lies ...",
+      "The author has a keen ear for ...",
+      "Where the novel falls short is ...",
+      "Rarely has a writer ...",
+      "It is, if anything, ...",
+      "I would wholeheartedly recommend it to ..."
+    ],
+    "modelAnswer": "Rarely has a debut novel announced its author with such quiet confidence. The Salt Orchard, by Mira Halden, is a slim book about a large subject: the way families decide, often without ever discussing it, what they will remember and what they will agree to forget.\n\nThe story is set over a single summer on a fruit farm near the coast. Ilse, a translator in her forties, returns home to help her elderly father sell the land, only to discover a box of letters suggesting that the version of the past she grew up with was carefully edited. To say more would spoil the pleasure of watching the truth surface, one hesitant conversation at a time.\n\nAt the heart of the novel lies the relationship between Ilse and her father, and it is here that Halden excels. Neither character is allowed to become a villain or a victim; both are stubborn, funny and capable of sudden tenderness. Halden has a keen ear for dialogue, particularly for the half-finished sentences in which families say the most. Her prose is spare but never cold, and certain images, such as the orchard trees bent permanently by the wind, linger long after the book is closed.\n\nWhere the novel falls short is in its final chapters. Having built the tension so patiently, Halden resolves it rather too neatly, and a late revelation about a minor character feels engineered rather than earned. Some readers may also find the slow opening frustrating, although I would argue that its pace is deliberate.\n\nThese reservations aside, The Salt Orchard is a considerable achievement, if an uneven one. It will appeal above all to readers who enjoy character-driven fiction and are willing to let a story unfold gradually. I would recommend it wholeheartedly to anyone who has ever wondered how much of their family history they really know."
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "id": "w-university-tuition-fees",
+  "title": "University Tuition Fees",
+  "level": "C1 · Advanced",
+  "description": "Practise inversion, cleft sentences and hedging, then write an essay on how higher education should be funded.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Inversion after \"Not only\"",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Not only ___ tuition fees deter poorer students, but they also leave graduates with lasting debt.",
+      "options": [
+        "do",
+        "are",
+        "have",
+        "will"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "When a sentence begins with a negative expression such as \"Not only\", the subject and auxiliary are inverted; in the present simple we add \"do\": Not only do fees deter ..."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "Rising fees have ___ (s) a heated debate about who should pay for higher education.",
+      "answers": [
+        "sparked",
+        "stoked"
+      ],
+      "points": 1,
+      "explanation": "\"Spark a debate\" is a strong collocation meaning to cause a debate to start suddenly."
+    },
+    {
+      "id": "e3",
+      "type": "transformation",
+      "focus": "Cleft sentences",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"What ___ the cost of living, rather than tuition.\"",
+      "text": "The cost of living, rather than tuition, worries most students.",
+      "keyword": "WHAT",
+      "answers": [
+        "What worries most students is the cost of living, rather than tuition.",
+        "What most students worry about is the cost of living, rather than tuition.",
+        "What most students are worried about is the cost of living, rather than tuition.",
+        "What worries most students most is the cost of living, rather than tuition."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft puts the focus at the end: What + clause + is + focus. It is useful for emphasising the key point in an essay."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Hedging",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "argued",
+        "fees",
+        "it",
+        "that",
+        "be",
+        "raise",
+        "could",
+        "standards"
+      ],
+      "answers": [
+        "It could be argued that fees raise standards."
+      ],
+      "points": 1,
+      "explanation": "\"It could be argued that ...\" is an impersonal hedging phrase that introduces a view without claiming it as a certain fact."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Nominalisation: agreement",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The introduction of fees have led to a fall in applications.",
+      "answers": [
+        "The introduction of fees has led to a fall in applications."
+      ],
+      "points": 1,
+      "explanation": "With a nominal phrase, the verb agrees with the head noun (\"introduction\"), not with the nearest noun (\"fees\"): The introduction ... has led."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Cohesion",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Free tuition benefits wealthy families most. ___, abolishing fees may not reduce inequality.",
+      "options": [
+        "Notwithstanding",
+        "To this end",
+        "By the same token",
+        "Consequently"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Consequently\" introduces a result. \"Notwithstanding\" needs an object, \"To this end\" introduces a purpose, and \"By the same token\" adds a parallel point."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Advanced passives",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The new system ___ access.\"",
+      "text": "People believe that the new system has widened access.",
+      "keyword": "BELIEVED",
+      "answers": [
+        "The new system is believed to have widened access."
+      ],
+      "points": 1,
+      "explanation": "Use subject + passive reporting verb + perfect infinitive (to have + past participle) when the belief is present but the action is past."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Inversion after negative phrases",
+      "prompt": "Complete the gap using the words in brackets in the correct order. Add any word you need.",
+      "text": "Under no circumstances ___ (should / universities) be allowed to raise fees without consultation.",
+      "answers": [
+        "should universities"
+      ],
+      "points": 1,
+      "explanation": "After a negative phrase such as \"Under no circumstances\" at the start of a sentence, put the auxiliary before the subject: should universities."
+    },
+    {
+      "id": "e9",
+      "type": "transformation",
+      "focus": "Hedging",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Abolishing fees ___ inequality.\"",
+      "text": "Abolishing fees probably will not reduce inequality.",
+      "keyword": "UNLIKELY",
+      "answers": [
+        "Abolishing fees is unlikely to reduce inequality."
+      ],
+      "points": 1,
+      "explanation": "\"Be unlikely to + verb\" is a cautious way to say that something probably will not happen."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Students from low-income families are often deterred ___ applying by the cost.",
+      "options": [
+        "of",
+        "from",
+        "against",
+        "to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The verb \"deter\" is followed by \"from + -ing\": deter someone from doing something."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Cleft sentences with \"What\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "financial support",
+        "is",
+        "students need",
+        "while they study",
+        "what"
+      ],
+      "answers": [
+        "What students need is financial support while they study.",
+        "What students need while they study is financial support.",
+        "Financial support while they study is what students need."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft (What + clause + is + focus) gives special emphasis to the information after \"is\"."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The ___ (abolish) of fees would cost the government billions.",
+      "answers": [
+        "abolition"
+      ],
+      "points": 1,
+      "explanation": "After \"The\" and before \"of\" we need a noun: abolish becomes abolition."
+    },
+    {
+      "id": "e13",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Rising debt among graduates has resulted to growing frustration.",
+      "answers": [
+        "Rising debt among graduates has resulted in growing frustration.",
+        "Rising debt among graduates has led to growing frustration."
+      ],
+      "points": 1,
+      "explanation": "\"Result in\" introduces a consequence; \"result from\" introduces a cause. \"Result to\" is not possible."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Conditional inversion with \"Were ... to\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ for tuition, taxes would have to rise.\"",
+      "text": "If the government paid for tuition, taxes would have to rise.",
+      "keyword": "WERE",
+      "answers": [
+        "Were the government to pay for tuition, taxes would have to rise."
+      ],
+      "points": 1,
+      "explanation": "In formal writing, \"If + subject + past simple\" can become \"Were + subject + to-infinitive\"."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Many graduates ___ debts of more than 50,000 pounds.",
+      "options": [
+        "make",
+        "do",
+        "incur",
+        "gain"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Incur debts\" is a formal collocation meaning to become responsible for paying money."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "\"Fewer\" vs \"less\"",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The higher the fees, the less students apply.",
+      "answers": [
+        "The higher the fees, the fewer students apply.",
+        "The higher the fees, the fewer the students who apply.",
+        "The higher the fees, the fewer students that apply."
+      ],
+      "points": 1,
+      "explanation": "Use \"fewer\" with plural countable nouns such as students; \"less\" is for uncountable nouns."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Hedging",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "There is ___ (l) evidence that higher fees have improved teaching quality.",
+      "answers": [
+        "little",
+        "limited"
+      ],
+      "points": 1,
+      "explanation": "\"There is little/limited evidence that ...\" is a cautious academic way of questioning a claim."
+    },
+    {
+      "id": "e18",
+      "type": "word-order",
+      "focus": "Present continuous passive",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "by the government",
+        "reviewed",
+        "the current",
+        "is being",
+        "funding system"
+      ],
+      "answers": [
+        "The current funding system is being reviewed by the government."
+      ],
+      "points": 1,
+      "explanation": "The present continuous passive (is being + past participle) describes an action in progress, focusing on what is affected."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Many students rely on finance support from their parents.",
+      "answers": [
+        "Many students rely on financial support from their parents."
+      ],
+      "points": 1,
+      "explanation": "An adjective is needed before the noun \"support\": finance (noun) becomes financial."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Nominalisation with cause linkers",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ fees, many students now work part-time.\"",
+      "text": "Because fees have risen, many students now work part-time.",
+      "keyword": "RESULT",
+      "answers": [
+        "As a result of rising fees, many students now work part-time.",
+        "As a result of the rise in fees, many students now work part-time.",
+        "As a result of higher fees, many students now work part-time.",
+        "As a result of the increase in fees, many students now work part-time.",
+        "As a result of increased fees, many students now work part-time.",
+        "As a result of the rising fees, many students now work part-time.",
+        "As a result of a rise in fees, many students now work part-time.",
+        "As a result of an increase in fees, many students now work part-time."
+      ],
+      "points": 1,
+      "explanation": "\"As a result of\" is followed by a noun phrase, so the clause \"fees have risen\" becomes \"rising fees\" or \"the rise in fees\"."
+    }
+  ],
+  "task": {
+    "genre": "Essay",
+    "prompt": "Your class has discussed how university education should be funded. Write an essay discussing two funding methods, tuition fees paid by students and funding through general taxation, and explain which you think is fairer.",
+    "contentPoints": [
+      "Present the arguments for tuition fees paid by students.",
+      "Present the arguments for funding through general taxation.",
+      "Explain which method you think is fairer, giving reasons.",
+      "Acknowledge a weakness of the method you prefer."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "It could be argued that ...",
+      "Not only ... but also ...",
+      "By the same token, ...",
+      "What concerns me most is ...",
+      "Admittedly, ...",
+      "On balance, ..."
+    ],
+    "modelAnswer": "Few issues divide opinion as sharply as the question of who should pay for higher education. While some argue that students themselves should bear the cost, others maintain that the state has a duty to fund universities through general taxation.\n\nThose in favour of tuition fees point out that graduates tend to earn considerably more over their lifetimes than non-graduates. It could therefore be argued that those who benefit most should contribute most. Moreover, fees give universities an independent source of income, which may encourage them to raise standards.\n\nNevertheless, fees carry significant risks. Not only do they deter talented young people from poorer backgrounds, but they also leave graduates with debts that can take decades to repay. What concerns me most is that university may once again become a privilege of the wealthy.\n\nFunding through taxation, by contrast, treats education as a public good. Society as a whole benefits from well-trained doctors, engineers and teachers, so it seems reasonable that society should pay. By the same token, a tax-funded system allows students to choose courses according to their interests rather than their likely salaries.\n\nOn balance, I believe taxation is the fairer option. Admittedly, it places a burden on people who never attend university. However, a progressive tax system ensures that those who can afford to contribute do so, while no capable student is turned away simply because of the cost."
+  }
+}

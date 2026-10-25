@@ -1,0 +1,443 @@
+{
+  "id": "the-future-of-libraries",
+  "title": "Beyond the Bookshelf: The Future of Libraries",
+  "level": "B2 · Upper-intermediate",
+  "description": "Why public libraries still matter in the digital age and how their role is changing.",
+  "instructions": "Read the article about public libraries, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "When almost any piece of information can be found on a smartphone within seconds, it is reasonable to ask whether public libraries still have a purpose. In many countries, library budgets have been cut, opening hours reduced and some branches closed altogether. Yet in other places, libraries are attracting more visitors than ever, suggesting that their role is not disappearing but changing."
+    },
+    {
+      "id": "p2",
+      "text": "One reason for their continued relevance is that access to the internet is far from universal. Many households cannot afford a reliable connection or a computer, and libraries often provide the only free place where people can apply for jobs, complete official forms or take part in online learning. For these users, the library is not a nostalgic luxury but a practical necessity."
+    },
+    {
+      "id": "p3",
+      "text": "Libraries have also reinvented themselves as community spaces. Modern branches may host language classes, coding clubs for teenagers, reading groups for older people and workshops equipped with 3D printers. Librarians, meanwhile, increasingly act as guides who help visitors evaluate the reliability of information, a skill that has become more valuable, not less, in an age of misleading content online."
+    },
+    {
+      "id": "p4",
+      "text": "There is a further benefit that is harder to measure. A library is one of the few indoor public places where people can spend time without being expected to buy anything. For students who lack a quiet place to study at home, for parents looking for somewhere warm to take young children, or for people who simply want company, this free and welcoming environment can make a significant difference to their quality of life."
+    },
+    {
+      "id": "p5",
+      "text": "None of this means that books have become unimportant; borrowing remains a core service, and many libraries now lend e-books as well as printed ones. The challenge for the future is to persuade decision-makers that a library's value cannot be judged solely by the number of books it lends. If libraries are measured only by traditional figures, they risk being closed precisely when their wider contribution to society is greatest."
+    },
+    {
+      "id": "p6",
+      "text": "The move towards digital services has brought its own complications. Publishers often charge libraries considerably more for e-book licences than an individual reader would pay for the same title, and some licences expire after a fixed period or a certain number of loans, so the book must then be bought again. Libraries therefore face difficult choices about how to divide limited budgets between printed and digital collections. Some library systems have joined together to negotiate better prices, with mixed success. At the same time, they must make sure that people who are less confident with technology are not excluded, which often means offering patient, one-to-one help with devices."
+    },
+    {
+      "id": "p7",
+      "text": "Some libraries have responded to financial pressure by forming partnerships with other organisations. A branch might share its building with a health centre, a job advice service or a coffee shop, bringing in new visitors who might never otherwise have walked through the door. Partnerships of this kind can also make it easier to reach people who need several services at once. Volunteers have also been used to keep some smaller branches open, although library professionals warn that goodwill alone cannot replace trained staff. Such arrangements can help libraries survive, but critics argue that they risk turning an essential public service into something that depends on luck and local enthusiasm."
+    },
+    {
+      "id": "p8",
+      "text": "Perhaps the clearest sign of libraries' changing identity can be seen in the buildings themselves. Many new libraries are designed with large windows, comfortable seating, flexible rooms and spaces for both quiet study and lively conversation. Some even include music rooms, gardens or small recording studios that residents can book free of charge. Rather than silent warehouses for books, they are intended to feel like a shared living room for the whole community. If this vision is supported with adequate funding, the library may prove to be one of the most adaptable public institutions of all, as relevant in the digital age as it was when printed books were rare and precious."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Libraries should replace printed books with e-books.",
+        "Libraries remain valuable because their role has expanded beyond lending books.",
+        "Smartphones have made libraries unnecessary.",
+        "Library budgets have increased in most countries."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The article argues that libraries are changing rather than disappearing, offering internet access, community activities and free space.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "their role is not disappearing but changing"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, why do some people depend on libraries?",
+      "options": [
+        "They prefer printed books to screens.",
+        "Libraries offer paid job training.",
+        "Official forms are only available in libraries.",
+        "They cannot afford internet access or a computer at home."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Libraries are the only free place for some people to go online.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Many households cannot afford a reliable connection or a computer"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, a \"nostalgic luxury\" is something that is:",
+      "options": [
+        "enjoyed for sentimental reasons rather than real need",
+        "expensive and modern",
+        "in poor condition",
+        "required by law"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer contrasts it with \"a practical necessity\", so it means something valued only for old memories, not need.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "not a nostalgic luxury but a practical necessity"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "purpose",
+      "text": "Why does the writer list language classes, coding clubs, reading groups and workshops?",
+      "options": [
+        "To criticise libraries for wasting money",
+        "To explain why librarians need more training",
+        "To show the variety of activities that modern libraries offer",
+        "To prove that teenagers no longer read books"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The list supports the claim that libraries have become community spaces.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Libraries have also reinvented themselves as community spaces."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can be inferred about librarians from paragraph 3?",
+      "options": [
+        "Their skills are becoming more important because of unreliable information online.",
+        "They are being replaced by computers.",
+        "They mainly repair 3D printers.",
+        "They no longer recommend books."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Misleading online content makes the ability to judge information more valuable.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "a skill that has become more valuable, not less, in an age of misleading content online"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "According to paragraph 4, what makes libraries unusual among indoor public places?",
+      "options": [
+        "They are open all night.",
+        "They provide free meals.",
+        "They are always completely silent.",
+        "Visitors are not expected to spend money."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer says libraries are one of the few places where you need not buy anything.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "people can spend time without being expected to buy anything"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"solely\" is closest in meaning to:",
+      "options": [
+        "fairly",
+        "only",
+        "partly",
+        "rarely"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer argues that the number of books lent should not be the only measure.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "cannot be judged solely by the number of books it lends"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What does the writer suggest in the final sentence?",
+      "options": [
+        "Libraries should lend more books to avoid closure.",
+        "Most libraries will close within a few years.",
+        "Using only traditional measures could lead to libraries closing when they are most needed.",
+        "Decision-makers already understand the wider value of libraries."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If only lending figures count, libraries may be closed even though their wider contribution is large.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "they risk being closed precisely when their wider contribution to society is greatest"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which title would best suit the article as a whole?",
+      "options": [
+        "How to Borrow an E-book",
+        "Why Smartphones Are Bad for Students",
+        "The History of Printing",
+        "More Than Books: The Changing Role of the Public Library"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The article argues that libraries are still important because they now offer much more than book lending.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "suggesting that their role is not disappearing but changing"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 1, what has happened to libraries in many countries?",
+      "options": [
+        "They have stopped lending printed books.",
+        "They have been replaced by internet cafes.",
+        "Their budgets and opening hours have been reduced.",
+        "They have all moved their services online."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In many countries budgets have been cut, opening hours reduced and some branches closed.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "library budgets have been cut, opening hours reduced"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "According to paragraph 6, what is one problem with e-book licences?",
+      "options": [
+        "They cannot be used on smartphones.",
+        "Some expire, so the library has to buy the book again.",
+        "They are cheaper but harder to find.",
+        "Publishers refuse to sell them to libraries."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Some licences end after a fixed time or number of loans, so the title must be bought again.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "some licences expire after a fixed period or a certain number of loans, so the book must then be bought again"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What does paragraph 6 suggest about library spending?",
+      "options": [
+        "Libraries now have more money than they need.",
+        "Libraries no longer buy any printed books.",
+        "Spending more on digital collections may mean having less for printed books.",
+        "Digital books cost libraries nothing."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Because budgets are limited, money spent on one type of collection is not available for the other.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "difficult choices about how to divide limited budgets between printed and digital collections"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"excluded\" is closest in meaning to:",
+      "options": [
+        "taught",
+        "charged",
+        "employed",
+        "left out"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Libraries want to make sure that people who are less confident with technology are not left out.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "are not excluded"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Which of the following is NOT mentioned in paragraph 7 as sharing a building with a library?",
+      "options": [
+        "A sports club",
+        "A health centre",
+        "A job advice service",
+        "A coffee shop"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 7 mentions a health centre, a job advice service and a coffee shop, but not a sports club.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "a health centre, a job advice service or a coffee shop"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"goodwill\" is closest in meaning to:",
+      "options": [
+        "official permission",
+        "money from the government",
+        "good luck",
+        "kindness and willingness to help"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Volunteers give their time because they want to help, but this cannot replace professional skills.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "goodwill alone cannot replace trained staff"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What do the library professionals in paragraph 7 imply about volunteers?",
+      "options": [
+        "They should be put in charge of all libraries.",
+        "They are helpful but cannot provide the expertise of trained librarians.",
+        "They are usually unwilling to help.",
+        "They cost more than trained staff."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The professionals accept volunteers' help but warn that it cannot replace trained staff.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "library professionals warn that goodwill alone cannot replace trained staff"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer mention the critics' view at the end of paragraph 7?",
+      "options": [
+        "To argue that small libraries should close",
+        "To praise local enthusiasm as the best solution",
+        "To point out a possible danger of relying on partnerships and volunteers",
+        "To explain how libraries were funded in the past"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The critics warn that these arrangements could make an essential service depend on luck.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "they risk turning an essential public service into something that depends on luck and local enthusiasm"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "Which feature of new library buildings is mentioned in paragraph 8?",
+      "options": [
+        "Spaces for both quiet study and conversation",
+        "Underground car parks",
+        "Private offices for each visitor",
+        "Shops selling new books"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "New libraries include spaces for quiet study and lively conversation, as well as large windows and flexible rooms.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "spaces for both quiet study and lively conversation"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer compare new libraries to \"a shared living room\"?",
+      "options": [
+        "To suggest that people should sleep in libraries",
+        "To emphasise that they are designed to be welcoming social spaces",
+        "To criticise the noise in modern libraries",
+        "To describe the furniture in the writer's own home"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The comparison contrasts friendly community spaces with the old idea of silent book warehouses.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "they are intended to feel like a shared living room for the whole community"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What does the final sentence of the article suggest about the future of libraries?",
+      "options": [
+        "It depends partly on whether they receive enough money.",
+        "Libraries will certainly disappear in the digital age.",
+        "Printed books will soon become rare again.",
+        "Libraries no longer need public money."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer's positive view depends on a condition: the vision must be supported with adequate funding.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "If this vision is supported with adequate funding"
+        }
+      ]
+    }
+  ]
+}

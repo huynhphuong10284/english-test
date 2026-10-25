@@ -1,0 +1,451 @@
+{
+  "id": "the-rise-of-cycling",
+  "title": "The Rise of Cycling",
+  "level": "B1 · Intermediate",
+  "description": "Why more and more people in cities are cycling to work.",
+  "instructions": "Read the article about cycling in cities, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "In many cities around the world, the number of people who cycle to work has grown quickly over the last ten years. In some European capitals, bicycles now outnumber cars on certain roads during rush hour. This change has not happened by accident. It is the result of rising costs, new technology and decisions made by city leaders."
+    },
+    {
+      "id": "p2",
+      "text": "Money is one of the main reasons people choose to cycle. Fuel prices, parking fees and public transport tickets have all become more expensive. A bicycle, on the other hand, costs very little to maintain once you have bought it. Many workers say they save hundreds of pounds a year by leaving their car at home."
+    },
+    {
+      "id": "p3",
+      "text": "Cities have also made cycling safer and more convenient. They have built separate bike lanes, so cyclists no longer have to share the road with buses and lorries. Bike-sharing schemes allow people to rent a bicycle for a short trip using an app on their phone. Electric bikes have helped too, because they make long distances and steep hills much less tiring."
+    },
+    {
+      "id": "p4",
+      "text": "However, cycling is not perfect for everyone. In bad weather, riding to work can be cold, wet and unpleasant. Some people worry about arriving at the office hot and sweaty, especially when there is nowhere to shower. Still, most experts believe the trend will continue, as cycling is good for both personal health and the environment."
+    },
+    {
+      "id": "p5",
+      "text": "One of the biggest advantages of cycling is that it builds exercise into everyday life. Many people find it hard to make time for the gym, but a person who rides to work and back gets regular exercise without planning any extra activity. Doctors say that this kind of exercise is good for the heart and helps people control their weight. Cycling is also gentle on the knees, so it suits many people who find running painful. Many riders also report that they feel more awake when they arrive at work, and that the ride home helps them forget the stress of the day."
+    },
+    {
+      "id": "p6",
+      "text": "The growing number of bikes has also created some tension on the roads. Some drivers complain that cyclists ride through red lights or move suddenly between cars. Cyclists, in turn, say that drivers often fail to notice them or pass too closely. Pedestrians are sometimes frightened by bikes riding fast on the pavement. Most people agree that the answer is not to blame one group, but to design streets more carefully and to encourage everyone to follow the rules and show respect for each other."
+    },
+    {
+      "id": "p7",
+      "text": "Cities that want more people to cycle often look to places such as Amsterdam and Copenhagen, where riding a bike is a normal part of daily life. However, these cities did not change overnight. Their networks of safe routes were built step by step over many years. Other cities can start with smaller measures, such as secure places to park bikes, cycling lessons for children and lower speed limits for cars. If these steps continue, the bicycle may become one of the most important forms of transport in the cities of the future."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Cars are now banned in most European capitals.",
+        "Electric bikes are more popular than normal bikes.",
+        "Cycling to work is becoming more common for several reasons, although it has some disadvantages.",
+        "Public transport is the cheapest way to travel in cities."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The article explains why cycling has grown (cost, safety, technology) and then mentions some problems.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "the number of people who cycle to work has grown quickly over the last ten years"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "However, cycling is not perfect for everyone."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, which of these has NOT become more expensive?",
+      "options": [
+        "Fuel",
+        "Parking",
+        "Public transport tickets",
+        "Maintaining a bicycle"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says a bicycle costs very little to maintain, while the other three have become more expensive.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Fuel prices, parking fees and public transport tickets have all become more expensive."
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "A bicycle, on the other hand, costs very little to maintain once you have bought it."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How do bike-sharing schemes work?",
+      "options": [
+        "People rent a bicycle for a short trip using a phone app.",
+        "People must buy a bicycle from the city.",
+        "People share a bicycle with a colleague every day.",
+        "People pay a yearly fee at a bike shop."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 3 explains that people use an app to rent a bike for a short trip.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Bike-sharing schemes allow people to rent a bicycle for a short trip using an app on their phone."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"outnumber\" means:",
+      "options": [
+        "are slower than",
+        "are more numerous than",
+        "are more expensive than",
+        "are parked next to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "If bicycles outnumber cars, there are more bicycles than cars.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "bicycles now outnumber cars on certain roads during rush hour"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can we infer about separate bike lanes?",
+      "options": [
+        "They make roads more crowded for buses.",
+        "They are only built in small towns.",
+        "Cyclists felt less safe when they had to share the road with large vehicles.",
+        "They are used mainly by electric bikes."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says bike lanes made cycling safer because cyclists no longer share the road with buses and lorries, so sharing it felt unsafe.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "They have built separate bike lanes, so cyclists no longer have to share the road with buses and lorries."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Why have electric bikes helped more people to cycle?",
+      "options": [
+        "They are cheaper than normal bicycles.",
+        "They make long distances and hills less tiring.",
+        "They do not need bike lanes.",
+        "They can be used without a phone app."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 3 says electric bikes make long distances and steep hills much less tiring.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "they make long distances and steep hills much less tiring"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "Why does the writer mention showers in paragraph 4?",
+      "options": [
+        "To give an example of a problem some cyclists face at work",
+        "To advertise a new type of office building",
+        "To show that cycling is good for your health",
+        "To explain why cycling is cheaper than driving"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The lack of a shower is given as a reason why some people worry about cycling to work.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Some people worry about arriving at the office hot and sweaty, especially when there is nowhere to shower."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What do experts most likely think about the future of cycling?",
+      "options": [
+        "It will become less popular because of bad weather.",
+        "It will only grow in European capitals.",
+        "It will be replaced by electric cars.",
+        "More people will continue to cycle in the future."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Most experts believe the trend will continue because of the health and environmental benefits.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "most experts believe the trend will continue"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "According to paragraph 1, what has caused the growth in cycling?",
+      "options": [
+        "Bad weather, cheap fuel and new cars",
+        "Rising costs, new technology and decisions by city leaders",
+        "A law that bans cars from city centres",
+        "Advertising by bicycle companies"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 1 says the change is the result of rising costs, new technology and decisions made by city leaders.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It is the result of rising costs, new technology and decisions made by city leaders."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"maintain\" is closest in meaning to:",
+      "options": [
+        "keep in good condition",
+        "sell to someone else",
+        "ride for a long time",
+        "buy for the first time"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A bicycle costs very little to keep in good working order once you have bought it.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "A bicycle, on the other hand, costs very little to maintain once you have bought it."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Gyms are too expensive for most workers.",
+        "Doctors want everyone to stop driving.",
+        "Cycling to work is an easy way to get regular exercise and feel better.",
+        "Cycling makes people too tired to work."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 explains that cycling builds exercise into everyday life and describes its benefits for the body and mood.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "One of the biggest advantages of cycling is that it builds exercise into everyday life."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What can we infer about people who never have time to go to the gym?",
+      "options": [
+        "They will never be able to exercise.",
+        "They should work fewer hours.",
+        "They are usually less healthy than cyclists who use the gym.",
+        "Cycling to work could help them stay active."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer says a person who rides to work gets regular exercise without planning any extra activity, so cycling suits busy people.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Many people find it hard to make time for the gym, but a person who rides to work and back gets regular exercise without planning any extra activity."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "According to paragraph 5, what do many riders say about the ride home?",
+      "options": [
+        "It helps them forget the stress of the day.",
+        "It is the most dangerous part of the day.",
+        "It makes them feel hungry.",
+        "It takes longer than the ride to work."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 5 says the ride home helps them forget the stress of the day.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "the ride home helps them forget the stress of the day"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"tension\" is closest in meaning to:",
+      "options": [
+        "a type of road sign",
+        "a feeling of worry or disagreement between people",
+        "the speed of traffic",
+        "a new bike lane"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraph describes drivers, cyclists and pedestrians complaining about each other, which shows disagreement and bad feeling.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The growing number of bikes has also created some tension on the roads."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "What do cyclists complain about, according to paragraph 6?",
+      "options": [
+        "Pedestrians ride bikes on the pavement.",
+        "Bike lanes are too wide.",
+        "Drivers often fail to notice them or pass too closely.",
+        "Red lights change too slowly."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 6 says cyclists say that drivers often fail to notice them or pass too closely.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Cyclists, in turn, say that drivers often fail to notice them or pass too closely."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer describe the complaints of drivers, cyclists and pedestrians?",
+      "options": [
+        "To prove that cyclists are the main cause of accidents",
+        "To argue that bikes should be banned from roads",
+        "To explain the rules of the road for drivers",
+        "To show that each group has problems with the others, so no single group should be blamed"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "After giving each group's view, the writer says the answer is not to blame one group.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the answer is not to blame one group, but to design streets more carefully"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"overnight\" in \"did not change overnight\" means:",
+      "options": [
+        "very quickly, in a short time",
+        "only at night",
+        "during the winter",
+        "without any money"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The next sentence says the routes were built step by step over many years, so the change was not quick.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "these cities did not change overnight. Their networks of safe routes were built step by step over many years."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "Which of these is given as a smaller measure that cities can start with?",
+      "options": [
+        "Banning all cars from the city",
+        "Building a new airport",
+        "Giving every citizen a free bike",
+        "Secure places to park bikes"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 7 lists secure places to park bikes, cycling lessons for children and lower speed limits for cars.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "such as secure places to park bikes, cycling lessons for children and lower speed limits for cars"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does paragraph 7 suggest to cities that want to be like Amsterdam or Copenhagen?",
+      "options": [
+        "They can copy these cities in a few weeks.",
+        "They should not try, because it is impossible.",
+        "They need to be patient, because real change takes many years.",
+        "They must first build expensive new roads for cars."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer stresses that these cities built their routes step by step over many years.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Their networks of safe routes were built step by step over many years."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the last paragraph?",
+      "options": [
+        "Amsterdam and Copenhagen have too many bicycles.",
+        "Other cities can become better for cycling by taking small steps over time.",
+        "Children should not cycle in cities.",
+        "Speed limits for cars are not important."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 7 explains that successful cycling cities changed gradually and suggests smaller measures other cities can start with.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Other cities can start with smaller measures"
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "If these steps continue, the bicycle may become one of the most important forms of transport"
+        }
+      ]
+    }
+  ]
+}

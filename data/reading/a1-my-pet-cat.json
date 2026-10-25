@@ -1,0 +1,447 @@
+{
+  "id": "my-pet-cat",
+  "title": "My Pet Cat",
+  "level": "A1 · Beginner",
+  "description": "A child describes a lazy pet cat called Coco.",
+  "instructions": "Read the text about a pet cat, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "I have a pet cat. Her name is Coco. She is white with black ears. She is two years old."
+    },
+    {
+      "id": "p2",
+      "text": "Coco sleeps a lot. In the morning, she sleeps on my bed. In the afternoon, she sleeps in a box near the window. She is very lazy!"
+    },
+    {
+      "id": "p3",
+      "text": "In the evening, Coco is awake. She plays with a small ball. She eats fish from her bowl. Then she sits on my lap and purrs."
+    },
+    {
+      "id": "p4",
+      "text": "We got Coco from a friend. Her cat had four kittens. Coco was the smallest one. She was very tiny and she had blue eyes. Now her eyes are green. She came to our house when she was ten weeks old."
+    },
+    {
+      "id": "p5",
+      "text": "Coco does not like water. When it rains, she stays inside the house. She also does not like the vacuum cleaner. It is too loud. When my mum cleans the floor, Coco runs under the bed."
+    },
+    {
+      "id": "p6",
+      "text": "Every Saturday, I brush Coco's fur. She sits still and closes her eyes. She likes it a lot. Once a year, we take her to the animal doctor. She does not like the car trip! The doctor says she is a healthy cat."
+    },
+    {
+      "id": "p7",
+      "text": "Coco is part of our family. My little brother draws pictures of her. My dad says she is the boss of the house. At night, she sleeps on my bed again. I love my lazy cat."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A visit to a pet shop",
+        "A dog called Coco",
+        "Black and white birds",
+        "The writer's pet cat"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The whole text is about Coco, the writer's pet cat.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I have a pet cat. Her name is Coco."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What colour are Coco's ears?",
+      "options": [
+        "White",
+        "Black",
+        "Brown",
+        "Grey"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Coco is white, but her ears are black.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She is white with black ears."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"lazy\" means...",
+      "options": [
+        "does not like to move or work much",
+        "very fast",
+        "very angry",
+        "very clever"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Lazy\" means not liking to move or work much. Coco sleeps a lot.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Coco sleeps a lot."
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "She is very lazy!"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Where does Coco sleep in the afternoon?",
+      "options": [
+        "On the writer's bed",
+        "In the garden",
+        "In a box near the window",
+        "On the sofa"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In the afternoon, she sleeps in a box near the window. She sleeps on the bed in the morning.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In the afternoon, she sleeps in a box near the window."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What does Coco play with?",
+      "options": [
+        "A toy mouse",
+        "A small ball",
+        "A piece of string",
+        "A shoe"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "In the evening, Coco plays with a small ball.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She plays with a small ball."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "How old is Coco?",
+      "options": [
+        "One year old",
+        "Three years old",
+        "Four years old",
+        "Two years old"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Coco is two years old.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She is two years old."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Where does Coco sleep in the morning?",
+      "options": [
+        "In a box near the window",
+        "On the sofa",
+        "On the writer's bed",
+        "In the garden"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In the morning, she sleeps on the writer's bed.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In the morning, she sleeps on my bed."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What does Coco eat from her bowl?",
+      "options": [
+        "Fish",
+        "Chicken",
+        "Milk",
+        "Rice"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She eats fish from her bowl.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She eats fish from her bowl."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"awake\" means...",
+      "options": [
+        "very hungry",
+        "very tired",
+        "outside the house",
+        "not sleeping"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Coco sleeps all day, but in the evening she is awake: she is not sleeping and she plays.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "In the evening, Coco is awake."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "How does Coco feel when she sits on the writer's lap?",
+      "options": [
+        "Happy and relaxed",
+        "Angry",
+        "Scared",
+        "Hungry"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Cats purr when they are happy and relaxed.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Then she sits on my lap and purrs."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "Where did the family get Coco?",
+      "options": [
+        "From a pet shop",
+        "From the street",
+        "From a friend",
+        "From a farm"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They got Coco from a friend.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "We got Coco from a friend."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "How many kittens did the friend's cat have?",
+      "options": [
+        "Two",
+        "Four",
+        "Three",
+        "Five"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The friend's cat had four kittens.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Her cat had four kittens."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"tiny\" means...",
+      "options": [
+        "very small",
+        "very big",
+        "very old",
+        "very loud"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Coco was the smallest kitten, so she was tiny.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Coco was the smallest one. She was very tiny"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What colour are Coco's eyes now?",
+      "options": [
+        "Blue",
+        "Black",
+        "Green",
+        "Brown"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Coco had blue eyes as a kitten, but now her eyes are green.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Now her eyes are green."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Coco's favourite food",
+        "How to clean the floor",
+        "Coco's new toy",
+        "Things Coco does not like"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 5 tells us that Coco does not like water or the vacuum cleaner.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Coco does not like water."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "She also does not like the vacuum cleaner."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "Why does Coco run under the bed when the writer's mum cleans the floor?",
+      "options": [
+        "She wants to sleep",
+        "The vacuum cleaner is too loud",
+        "She is hungry",
+        "She wants to play"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Coco does not like the vacuum cleaner because it is too loud.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It is too loud. When my mum cleans the floor, Coco runs under the bed."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "When does the writer brush Coco's fur?",
+      "options": [
+        "Every day",
+        "Every Sunday",
+        "Every Saturday",
+        "Once a year"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Every Saturday, the writer brushes Coco's fur.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Every Saturday, I brush Coco's fur."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "How often does Coco go to the animal doctor?",
+      "options": [
+        "Every Saturday",
+        "Every month",
+        "Twice a year",
+        "Once a year"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Once a year, they take her to the animal doctor.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Once a year, we take her to the animal doctor."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "Who draws pictures of Coco?",
+      "options": [
+        "The writer's dad",
+        "The writer's little brother",
+        "The writer's mum",
+        "The writer's friend"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer's little brother draws pictures of her.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "My little brother draws pictures of her."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "What does the writer's dad say about Coco?",
+      "options": [
+        "She is the boss of the house",
+        "She is too fat",
+        "She is a bad cat",
+        "She is very fast"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The dad says she is the boss of the house.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "My dad says she is the boss of the house."
+        }
+      ]
+    }
+  ]
+}

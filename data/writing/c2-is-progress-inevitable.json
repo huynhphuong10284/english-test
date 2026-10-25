@@ -1,0 +1,316 @@
+{
+  "id": "w-is-progress-inevitable",
+  "title": "Is Progress Inevitable?",
+  "level": "C2 · Proficiency",
+  "description": "Practise conditional inversion, concession and hedging, then write an essay on whether human progress is inevitable.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Conditional inversion",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Were progress truly inevitable, we ___ need to fight for it.",
+      "options": [
+        "will not",
+        "had not",
+        "would not",
+        "did not"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Were + subject\" replaces \"if + subject + were\" in a formal second conditional, so the main clause takes \"would\": we would not need to fight for it."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Technological advances do not necessarily go hand in ___ with moral ones.",
+      "answers": [
+        "hand"
+      ],
+      "points": 1,
+      "explanation": "\"Go hand in hand with\" means to happen together or be closely connected."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Fronting",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the belief",
+        "in",
+        "lies",
+        "the danger",
+        "that it is automatic"
+      ],
+      "answers": [
+        "The danger lies in the belief that it is automatic.",
+        "In the belief that it is automatic lies the danger."
+      ],
+      "points": 1,
+      "explanation": "\"The danger lies in ...\" identifies the source of a problem. The prepositional phrase can also be fronted, with the verb before the subject, for emphasis."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Hedging",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It could be argue that progress is merely change.",
+      "answers": [
+        "It could be argued that progress is merely change."
+      ],
+      "points": 1,
+      "explanation": "The impersonal hedge \"it could be argued that\" needs a past participle after \"be\": argued."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Seldom ...\".",
+      "text": "Societies seldom recognise decline while it is happening.",
+      "keyword": "seldom",
+      "answers": [
+        "Seldom do societies recognise decline while it is happening.",
+        "Seldom do societies recognize decline while it is happening."
+      ],
+      "points": 1,
+      "explanation": "With \"seldom\" at the start, add the auxiliary \"do\" before the subject: seldom do societies recognise ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Concession",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Much ...\".",
+      "text": "Even though living standards have risen, inequality persists.",
+      "keyword": "much",
+      "answers": [
+        "Much as living standards have risen, inequality persists."
+      ],
+      "points": 1,
+      "explanation": "\"Much as\" is a formal way of saying \"although\", used to concede a point: much as living standards have risen, ..."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Hedging and stance",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Progress ...\".",
+      "text": "Progress is certainly not guaranteed.",
+      "keyword": "far",
+      "answers": [
+        "Progress is far from guaranteed.",
+        "Progress is far from being guaranteed.",
+        "Progress is far from certain."
+      ],
+      "points": 1,
+      "explanation": "\"Far from + adjective or -ing\" is an emphatic way of saying \"not at all\": progress is far from guaranteed."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Ellipsis",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Some believe humanity will keep advancing; I am not convinced it ___.",
+      "answers": [
+        "will",
+        "will do"
+      ],
+      "points": 1,
+      "explanation": "The modal \"will\" stands in for the repeated verb phrase (keep advancing). In British English \"will do\" is also possible."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Adjective + preposition",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "History is ___ with examples of civilisations that collapsed at the height of their power.",
+      "options": [
+        "replete",
+        "plentiful",
+        "numerous",
+        "copious"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Replete with\" means full of or well supplied with something. \"Plentiful\", \"numerous\" and \"copious\" are not followed by \"with\" in this way."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The ___ (inevitable) of progress is an assumption that is rarely examined.",
+      "answers": [
+        "inevitability"
+      ],
+      "points": 1,
+      "explanation": "The noun from \"inevitable\" is \"inevitability\": -able becomes -ability."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Fixed phrases",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Progress in one area often comes at the cost to another.",
+      "answers": [
+        "Progress in one area often comes at the cost of another."
+      ],
+      "points": 1,
+      "explanation": "The fixed phrase is \"at the cost of\" (or \"at the expense of\"): one thing is gained but another is lost."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Inversion with \"scarcely\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Scarcely ...\".",
+      "text": "Almost as soon as one problem is solved, another emerges.",
+      "keyword": "scarcely",
+      "answers": [
+        "Scarcely has one problem been solved when another emerges.",
+        "Scarcely has one problem been solved before another emerges.",
+        "Scarcely is one problem solved when another emerges.",
+        "Scarcely is one problem solved before another emerges."
+      ],
+      "points": 1,
+      "explanation": "\"Scarcely\" at the start of a sentence is followed by inversion, and the second event is introduced by \"when\" or \"before\"."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Stance",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "It is ___ to assume that tomorrow will necessarily be better than today.",
+      "options": [
+        "naivety",
+        "naive",
+        "naively",
+        "naiveness"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The pattern \"It is + adjective + to-infinitive\" needs an adjective: \"naive\" (= showing a lack of experience or judgement)."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Concessive clauses with \"however\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "however",
+        "may seem",
+        "progress",
+        "inevitable",
+        "it",
+        "is not"
+      ],
+      "answers": [
+        "However inevitable progress may seem, it is not."
+      ],
+      "points": 1,
+      "explanation": "\"However + adjective + subject + verb\" means \"no matter how\": however inevitable progress may seem, it is not."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Verb + preposition",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Many thinkers have cast doubt to the idea of linear progress.",
+      "answers": [
+        "Many thinkers have cast doubt on the idea of linear progress.",
+        "Many thinkers have cast doubt upon the idea of linear progress."
+      ],
+      "points": 1,
+      "explanation": "We \"cast doubt on\" (or \"upon\") an idea, meaning we make it seem less certain or true."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Stance",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"It ...\".",
+      "text": "It is logical that a society which stops questioning itself will stagnate.",
+      "keyword": "reason",
+      "answers": [
+        "It stands to reason that a society which stops questioning itself will stagnate."
+      ],
+      "points": 1,
+      "explanation": "\"It stands to reason that\" means it is obvious or logical that something is true."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Stance markers",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "___, the century that produced antibiotics also produced the atomic bomb.",
+      "options": [
+        "Irony",
+        "Ironical",
+        "Ironic",
+        "Ironically"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A sentence adverb such as \"ironically\" comments on the whole statement and shows the writer's attitude to it."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Each generation tends to take for ___ the advances that earlier generations fought for. (one word, beginning with G)",
+      "answers": [
+        "granted"
+      ],
+      "points": 1,
+      "explanation": "To \"take something for granted\" means to fail to appreciate it because it has always been available. The object can follow the phrase when it is long."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Reformers tried for decades to abolish child labour ...\".",
+      "text": "Reformers tried for decades to abolish child labour, but they did not succeed.",
+      "keyword": "avail",
+      "answers": [
+        "Reformers tried for decades to abolish child labour, but to no avail.",
+        "Reformers tried for decades to abolish child labour, to no avail.",
+        "Reformers tried for decades to abolish child labour, but all to no avail."
+      ],
+      "points": 1,
+      "explanation": "\"To no avail\" means without success; it often follows \"but\" at the end of a sentence."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Agreement with \"as well as\"",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The pace of change, as well as its direction, are difficult to predict.",
+      "answers": [
+        "The pace of change, as well as its direction, is difficult to predict."
+      ],
+      "points": 1,
+      "explanation": "A phrase introduced by \"as well as\" does not make the subject plural; the verb agrees with \"the pace\", so it is \"is\"."
+    }
+  ],
+  "task": {
+    "genre": "Essay",
+    "prompt": "Write an essay for your tutor responding to the statement: \"Human progress is inevitable.\"",
+    "contentPoints": [
+      "Explain what is commonly meant by \"progress\".",
+      "Present evidence that seems to support the idea of steady progress.",
+      "Give historical or contemporary examples of progress being reversed or uneven.",
+      "State and justify your own conclusion."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "It could be argued that ...",
+      "Much as ..., ...",
+      "Seldom do we ...",
+      "The danger lies in ...",
+      "Progress is far from ...",
+      "Were this the case, ..."
+    ],
+    "modelAnswer": "The idea that history moves steadily towards something better is deeply rooted in modern thinking. Each generation, we assume, will live longer, know more and enjoy greater freedom than the last. Yet the claim that such progress is inevitable deserves closer scrutiny.\n\nIt is worth asking first what we mean by progress. Most people have in mind measurable improvements: longer life expectancy, higher literacy, faster communication. Some would also include moral progress, such as the extension of rights to groups once excluded from them. The two are often assumed to go hand in hand, although, as I shall argue, they do not necessarily do so.\n\nThere is certainly evidence for the optimistic view. Over the past two centuries, extreme poverty has fallen dramatically, child mortality has declined and diseases that once killed millions have been controlled or eradicated. Much as we may complain about the present, few of us would willingly exchange it for the past.\n\nHowever, history also offers sobering counter-examples. Advanced civilisations have collapsed, taking their knowledge with them, and hard-won freedoms have been lost within a single generation. Seldom do societies recognise decline while it is happening; it is usually obvious only in retrospect. Even today, technologies that promise connection can also be used for surveillance and manipulation, and climate change reminds us that material progress can undermine the very conditions on which it depends.\n\nIt could be argued, then, that what we call progress is really a series of achievements which must be defended constantly. The danger lies in the belief that improvement is automatic, since that belief encourages complacency. Were progress truly inevitable, we would not need institutions, education or political engagement to sustain it.\n\nIn my view, progress is far from guaranteed. It is possible, and the record of the last two centuries is encouraging, but it remains the product of human choices rather than a law of history."
+  }
+}

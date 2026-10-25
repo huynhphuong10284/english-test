@@ -1,0 +1,443 @@
+{
+  "id": "the-school-garden",
+  "title": "The School Garden",
+  "level": "A2 · Elementary",
+  "description": "Students turn an empty piece of land into a vegetable garden.",
+  "instructions": "Read the text about a school garden, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Behind Riverside Primary School, there was an empty piece of land. It was full of stones, old bottles and tall grass. Nobody used it for many years. One day, a science teacher, Miss Patel, had an idea."
+    },
+    {
+      "id": "p2",
+      "text": "She asked her students to help her turn the land into a garden. First, they picked up all the rubbish and pulled out the grass. Parents gave them tools and seeds. Then the children planted tomatoes, beans, carrots and sunflowers."
+    },
+    {
+      "id": "p3",
+      "text": "Every class took turns to look after the garden. They watered the plants every afternoon when it did not rain. The children also learned how plants grow and why bees are important. Some students who did not like science began to enjoy it."
+    },
+    {
+      "id": "p4",
+      "text": "In September, the children picked their vegetables. The school cook used them to make soup and salad for lunch. The sunflowers grew taller than the teachers! Now the garden is the favourite place in the whole school."
+    },
+    {
+      "id": "p5",
+      "text": "The garden also brought the school and the town together. Every Saturday morning, some parents and grandparents came to help. An old farmer, Mr Hughes, showed the children how to make compost from fruit and vegetable waste. The children were surprised that old banana skins and egg shells could help plants grow. Mr Hughes also built a small wooden house for the birds, and the children painted it blue and yellow."
+    },
+    {
+      "id": "p6",
+      "text": "In October, the school had a small market at the gate. The children sold extra vegetables, sunflower seeds and jars of tomato sauce to parents and neighbours. They made more than three hundred pounds. With the money, they bought a small greenhouse, so they could grow vegetables in winter too. Now there are always fresh salads for lunch, even when it is cold and dark outside."
+    },
+    {
+      "id": "p7",
+      "text": "Miss Patel is very proud of her students, and the head teacher is happy too. Last spring, a newspaper wrote about the garden, and two other schools in the town visited it to learn. Now those schools want to start gardens of their own. 'It all started with an empty piece of land and an idea,' Miss Patel says. 'Children can do amazing things when we give them a chance.'"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Why bees are important",
+        "A school cook and her recipes",
+        "How to clean up rubbish in a river",
+        "How students made and used a school garden"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text explains how an empty piece of land became the school's garden.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "turn the land into a garden"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Who gave the children tools and seeds?",
+      "options": [
+        "Miss Patel",
+        "Parents",
+        "The school cook",
+        "A garden shop"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Parents gave them tools and seeds.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Parents gave them tools and seeds."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"empty\" is closest in meaning to...",
+      "options": [
+        "with nothing useful on it",
+        "very beautiful",
+        "full of people",
+        "very expensive"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nobody used the land for many years and it only had stones and rubbish.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "there was an empty piece of land"
+        },
+        {
+          "paragraphId": "p1",
+          "quote": "Nobody used it for many years."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can we understand about the garden project?",
+      "options": [
+        "It made the students hate science",
+        "It was only for one class",
+        "It helped some students like science more",
+        "It failed because of the rain"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Some students who did not like science began to enjoy it.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Some students who did not like science began to enjoy it."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer say \"The sunflowers grew taller than the teachers!\"?",
+      "options": [
+        "To show in a funny way how well the plants grew",
+        "To show that the teachers are very short",
+        "To explain why the cook made soup",
+        "To show that sunflowers are dangerous"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "This funny comparison shows that the garden was a big success.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "The sunflowers grew taller than the teachers!"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What did the school cook make with the vegetables?",
+      "options": [
+        "Bread and cake",
+        "Pizza",
+        "Soup and salad",
+        "Sunflower oil"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The cook used the vegetables to make soup and salad for lunch.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "make soup and salad for lunch"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What was on the land before the garden?",
+      "options": [
+        "Stones, old bottles and tall grass",
+        "Old cars and bicycles",
+        "Trees and flowers",
+        "A small building"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The land was full of stones, old bottles and tall grass.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It was full of stones, old bottles and tall grass."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What subject does Miss Patel teach?",
+      "options": [
+        "Music",
+        "Science",
+        "Maths",
+        "Cooking"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Miss Patel is a science teacher.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "a science teacher, Miss Patel, had an idea"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the words \"pulled out\" mean...",
+      "options": [
+        "took out of the ground",
+        "cut into small pieces",
+        "gave water to",
+        "put into the ground"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The children took the tall grass out of the ground.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "pulled out the grass"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did the children plant?",
+      "options": [
+        "Potatoes, apples and roses",
+        "Only sunflowers",
+        "Bananas and oranges",
+        "Tomatoes, beans, carrots and sunflowers"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The children planted tomatoes, beans, carrots and sunflowers.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Then the children planted tomatoes, beans, carrots and sunflowers."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the words \"took turns\" mean the classes...",
+      "options": [
+        "did the job all at the same time",
+        "did the job one after another",
+        "refused to do the job",
+        "paid someone to do the job"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Each class looked after the garden at a different time, one after another.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Every class took turns to look after the garden."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "Why did the children not water the plants on rainy days?",
+      "options": [
+        "The children did not go to school",
+        "The garden was closed",
+        "The plants did not need water at all",
+        "The rain gave the plants enough water"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They only watered when it did not rain, because rain waters the plants.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "They watered the plants every afternoon when it did not rain."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "When did the children pick their vegetables?",
+      "options": [
+        "In October",
+        "In January",
+        "In September",
+        "In the spring"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In September, the children picked their vegetables.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "In September, the children picked their vegetables."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer begin paragraph 5 with \"The garden also brought the school and the town together\"?",
+      "options": [
+        "To introduce how people from outside the school helped",
+        "To show that the town did not like the garden",
+        "To explain why the garden was closed on Saturdays",
+        "To show that the school moved to the town centre"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The paragraph then describes parents, grandparents and a farmer helping.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Every Saturday morning, some parents and grandparents came to help."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What can we understand about Mr Hughes?",
+      "options": [
+        "He does not like children",
+        "He is a science teacher",
+        "He knows a lot about growing plants",
+        "He sells banana skins"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He is a farmer and taught the children how to make compost.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "An old farmer, Mr Hughes, showed the children how to make compost"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"waste\" means...",
+      "options": [
+        "the best parts of the food",
+        "the parts that people do not use and throw away",
+        "a kind of plant",
+        "money from the market"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Banana skins and egg shells are waste: parts of food people throw away.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "make compost from fruit and vegetable waste"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"extra\" means...",
+      "options": [
+        "very old",
+        "very small",
+        "not ready to eat",
+        "more than they needed"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The children sold the vegetables they did not need for the school kitchen.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The children sold extra vegetables"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What did the children buy with the money from the market?",
+      "options": [
+        "New computers",
+        "Books for the library",
+        "A small greenhouse",
+        "Tools for the parents"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "With the money, they bought a small greenhouse.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "With the money, they bought a small greenhouse"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer mention the two other schools?",
+      "options": [
+        "To show that other schools have bigger gardens",
+        "To show that the garden is an example for others",
+        "To explain why Miss Patel left the school",
+        "To show that the newspaper was wrong"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Other schools visited to learn and now want gardens too.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "two other schools in the town visited it to learn"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What does Miss Patel's last sentence tell us about her?",
+      "options": [
+        "She thinks children need more homework",
+        "She wants to stop the project",
+        "She thinks adults should do the work",
+        "She believes in her students"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says children can do amazing things when they get a chance.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "'Children can do amazing things when we give them a chance.'"
+        }
+      ]
+    }
+  ]
+}

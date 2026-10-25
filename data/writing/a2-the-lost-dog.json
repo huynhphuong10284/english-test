@@ -1,0 +1,319 @@
+{
+  "id": "w-the-lost-dog",
+  "title": "The Lost Dog",
+  "level": "A2 · Elementary",
+  "description": "Practise the past simple, sequencing words and superlatives, then write a short story about a lost dog.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple: regular verbs",
+      "prompt": "Choose the correct answer.",
+      "text": "When I ___ home, the garden gate was open.",
+      "options": [
+        "arrive",
+        "arrived",
+        "arriving",
+        "arrives"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The story happened in the past, so we use the past simple: arrive - arrived."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "We ___ (run) to the park to look for him.",
+      "answers": [
+        "ran"
+      ],
+      "points": 1,
+      "explanation": "\"Run\" is irregular: run - ran."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Linking words: sequence",
+      "prompt": "Choose the correct answer.",
+      "text": "We looked everywhere for hours. ___, we found him under a bench.",
+      "options": [
+        "Finally",
+        "Because",
+        "But",
+        "So"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Finally\" introduces the last event in a story, after a long time or many attempts."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Prepositions of place",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "under",
+        "the dog",
+        "tree",
+        "was",
+        "the big"
+      ],
+      "answers": [
+        "The dog was under the big tree."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + preposition of place + noun: The dog was under the big tree."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Linking words: so and because",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "He was very hungry, because we gave him some food.",
+      "answers": [
+        "He was very hungry, so we gave him some food."
+      ],
+      "points": 1,
+      "explanation": "Being hungry is the reason and giving food is the result. Use \"so\" before a result, and \"because\" before a reason."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Superlatives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Max is the ___ (happy) dog in the world now.",
+      "answers": [
+        "happiest"
+      ],
+      "points": 1,
+      "explanation": "Adjectives ending in consonant + -y change -y to -i and add -est: happy - happiest."
+    },
+    {
+      "id": "e7",
+      "type": "error-correction",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My brother finded his red ball in the street.",
+      "answers": [
+        "My brother found his red ball in the street."
+      ],
+      "points": 1,
+      "explanation": "\"Find\" is irregular: find - found, not \"finded\"."
+    },
+    {
+      "id": "e8",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct answer.",
+      "text": "While we ___ for Max, it got dark.",
+      "options": [
+        "look",
+        "are looking",
+        "were looking",
+        "was looking"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We use the past continuous (was/were + -ing) for a longer action in progress. With \"we\" we use \"were\"."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Past continuous",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Max ___ (sit) under a bench when we found him.",
+      "answers": [
+        "was sitting"
+      ],
+      "points": 1,
+      "explanation": "We use the past continuous for an action in progress when something else happened: he was sitting when we found him."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Past simple: questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "find",
+        "him",
+        "where",
+        "you",
+        "did"
+      ],
+      "answers": [
+        "Where did you find him?"
+      ],
+      "points": 1,
+      "explanation": "Question word + did + subject + base verb: Where did you find him?"
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Plural nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We looked for him for three hour.",
+      "answers": [
+        "We looked for him for three hours."
+      ],
+      "points": 1,
+      "explanation": "After numbers bigger than one we use a plural noun: three hours."
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Some / any",
+      "prompt": "Choose the correct answer.",
+      "text": "We asked our neighbours, but nobody had ___ news about him.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "any"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We use \"any\" in negative sentences, and \"nobody\" makes the sentence negative. \"News\" is uncountable."
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Much / many",
+      "prompt": "Complete the sentence with \"much\" or \"many\".",
+      "text": "We didn't have ___ time before it got dark.",
+      "answers": [
+        "much"
+      ],
+      "points": 1,
+      "explanation": "\"Time\" is uncountable here, so we use \"much\" in negative sentences."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Past continuous",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "playing",
+        "Max",
+        "in the park",
+        "was"
+      ],
+      "answers": [
+        "Max was playing in the park.",
+        "Was Max playing in the park?"
+      ],
+      "points": 1,
+      "explanation": "Subject + was/were + -ing: Max was playing in the park."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Past continuous",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "When I came home, my mum were waiting at the door.",
+      "answers": [
+        "When I came home, my mum was waiting at the door."
+      ],
+      "points": 1,
+      "explanation": "In the past continuous we use \"was\" with a singular subject: my mum was waiting."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Will for offers",
+      "prompt": "Choose the correct answer.",
+      "text": "Our neighbour said, 'I ___ help you look for him.'",
+      "options": [
+        "am",
+        "going to",
+        "will",
+        "do"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We use \"will\" + base verb to offer help when we decide at the moment of speaking."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Past simple: spelling",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "We ___ (stop) everyone in the park and asked about Max.",
+      "answers": [
+        "stopped"
+      ],
+      "points": 1,
+      "explanation": "Short verbs ending in one vowel + one consonant double the consonant before -ed: stop - stopped."
+    },
+    {
+      "id": "e18",
+      "type": "word-order",
+      "focus": "Will: negatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "him",
+        "won't",
+        "again",
+        "we",
+        "lose"
+      ],
+      "answers": [
+        "We won't lose him again.",
+        "Won't we lose him again?"
+      ],
+      "points": 1,
+      "explanation": "Won't (will not) + base verb for a promise about the future: We won't lose him again."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct answer.",
+      "text": "Max is ___ than our other dog, so it is hard to catch him.",
+      "options": [
+        "fast",
+        "fastest",
+        "more fast",
+        "faster"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Short adjectives add -er to make the comparative: fast - faster than."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Adverbs of frequency",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Max sleeps never outside.",
+      "answers": [
+        "Max never sleeps outside."
+      ],
+      "points": 1,
+      "explanation": "Adverbs of frequency go before the main verb: Max never sleeps outside."
+    }
+  ],
+  "task": {
+    "genre": "Short story",
+    "prompt": "Write a short story that begins: 'One morning, our dog was not in the garden.'",
+    "contentPoints": [
+      "Say how you felt when the dog was missing.",
+      "Describe where you looked for the dog.",
+      "Explain how you found the dog.",
+      "Say how everyone felt at the end."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "One morning, ...",
+      "First, we ...",
+      "Then ...",
+      "After that, ...",
+      "Finally, ...",
+      "We were all very happy."
+    ],
+    "modelAnswer": "One morning, our dog Max was not in the garden. The gate was open! My brother and I were very worried. First, we looked in the street. Then we ran to the park and asked people about him, but nobody saw him. Finally, we went to the bakery, and Max was there. He was eating a sausage! We took him home and Mum laughed. We were all very happy."
+  }
+}

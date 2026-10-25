@@ -1,0 +1,451 @@
+{
+  "id": "online-shopping-habits",
+  "title": "Online Shopping Habits",
+  "level": "B1 · Intermediate",
+  "description": "Why online shopping is so popular, and the problems it can cause.",
+  "instructions": "Read the article about online shopping, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Shopping has changed enormously since the arrival of the internet. Instead of walking around shops, many people now buy clothes, books, electronics and even groceries using their phones or computers. Online shops are open twenty-four hours a day, so customers can buy what they need at any time. For people who live far from a town centre, this can be especially useful."
+    },
+    {
+      "id": "p2",
+      "text": "One reason online shopping is so popular is that it is easy to compare prices. With a few clicks, shoppers can check several websites and find the cheapest offer. Customer reviews also help people decide whether a product is worth buying. In addition, many shops offer free delivery or easy returns, which makes buying online feel less risky."
+    },
+    {
+      "id": "p3",
+      "text": "However, online shopping can encourage people to spend more than they planned. Websites often show special offers with a countdown clock, which makes customers feel they must decide quickly. Saving card details means that buying something takes only a second, so there is little time to think. Some shoppers end up with items they do not really need."
+    },
+    {
+      "id": "p4",
+      "text": "There are also concerns about the effect on the environment and on local high streets. Delivering millions of small parcels produces a lot of packaging and traffic. At the same time, some traditional shops have closed because they cannot compete with online prices. As a result, some people are now trying to shop more thoughtfully, for example by ordering less often or supporting local businesses."
+    },
+    {
+      "id": "p5",
+      "text": "Safety is another issue that online shoppers need to think about. Criminals sometimes create fake websites that look almost exactly like real shops. When customers enter their card details, the money is stolen and the goods never arrive. To protect themselves, shoppers are advised to use well-known websites, check that the web address is correct and be careful with offers that seem too good to be true. Using a strong password and keeping personal information private can also reduce the risk. If something does go wrong, customers should contact their bank as soon as possible."
+    },
+    {
+      "id": "p6",
+      "text": "Free returns are popular with customers, but they have a hidden side. Because sending items back is so easy, some people order the same jacket in three sizes, keep one and return the others. This creates even more deliveries. In addition, checking, cleaning and repackaging returned goods costs shops time and money, and some returned items cannot be sold again as new. For this reason, a number of companies have started to charge a small fee for returns, hoping that customers will choose more carefully."
+    },
+    {
+      "id": "p7",
+      "text": "In the future, the line between online and traditional shopping may become less clear. Many shops already let customers order on the internet and collect their goods in person, which saves on delivery. Some stores are also turning into places where people can try products, get advice or attend events, rather than simply buy things. Online shopping is unlikely to disappear, but the most successful businesses will probably offer the best of both worlds. For shoppers, the key is to use these convenient tools wisely."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Online shopping is convenient, but it also has some negative effects.",
+        "Online shopping is always cheaper than shopping in town.",
+        "Most shops are now closing because of the internet.",
+        "People should never use customer reviews."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraphs 1 and 2 describe the benefits of online shopping, and paragraphs 3 and 4 describe the problems.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Shopping has changed enormously since the arrival of the internet."
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "However, online shopping can encourage people to spend more than they planned."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 1, why is online shopping especially useful for some people?",
+      "options": [
+        "They do not have a phone.",
+        "They prefer to shop at night only.",
+        "They want to meet shop assistants.",
+        "They live far from a town centre."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 1 says it is especially useful for people who live far from a town centre.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "For people who live far from a town centre, this can be especially useful."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How do customer reviews help shoppers?",
+      "options": [
+        "They make delivery faster.",
+        "They help people decide whether a product is worth buying.",
+        "They give shoppers free products.",
+        "They show the countdown clock."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 2 says reviews help people decide whether a product is worth buying.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Customer reviews also help people decide whether a product is worth buying."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "purpose",
+      "text": "Why does the writer mention countdown clocks in paragraph 3?",
+      "options": [
+        "To show how shops make delivery faster",
+        "To explain how to save money online",
+        "To give an example of how websites pressure customers to buy quickly",
+        "To describe a new kind of watch"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The countdown clock makes customers feel they must decide quickly, an example of how people are encouraged to spend more.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Websites often show special offers with a countdown clock, which makes customers feel they must decide quickly."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"compete\" is closest in meaning to:",
+      "options": [
+        "agree",
+        "cooperate",
+        "close down",
+        "try to be as successful as others"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Shops that cannot compete with online prices cannot match them and lose customers, so to compete means to try to be as successful as rivals.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "they cannot compete with online prices"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "What can we infer about saving card details on a website?",
+      "options": [
+        "It may lead people to buy things without thinking carefully.",
+        "It makes products cheaper.",
+        "It protects shoppers from spending too much.",
+        "It is required by all online shops."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Buying takes only a second, leaving little time to think, so people may buy things they do not need.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Saving card details means that buying something takes only a second, so there is little time to think."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "Why might ordering less often help the environment?",
+      "options": [
+        "It would make websites faster.",
+        "It would increase traffic in town centres.",
+        "It would reduce packaging and delivery traffic.",
+        "It would make products more expensive."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Parcel deliveries produce packaging and traffic, so fewer orders would mean less of both.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Delivering millions of small parcels produces a lot of packaging and traffic."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "by ordering less often"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"enormously\" is closest in meaning to:",
+      "options": [
+        "very slowly",
+        "very much",
+        "a little",
+        "for a short time"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer means that shopping has changed a great deal since the internet arrived.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Shopping has changed enormously since the arrival of the internet."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "According to paragraph 2, what makes buying online feel less risky?",
+      "options": [
+        "Free delivery or easy returns",
+        "Countdown clocks on special offers",
+        "Shops that are open only in the daytime",
+        "Paying in cash when the parcel arrives"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 2 says free delivery or easy returns make buying online feel less risky.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "many shops offer free delivery or easy returns, which makes buying online feel less risky"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 3, what happens to some shoppers in the end?",
+      "options": [
+        "They stop shopping online completely.",
+        "They have items they do not really need.",
+        "They lose their card details.",
+        "They get their money back automatically."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 3 ends by saying some shoppers end up with items they do not really need.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Some shoppers end up with items they do not really need."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Most online shops are fake.",
+        "Shopping online is safer than shopping in town.",
+        "Online shoppers need to protect themselves from criminals.",
+        "Passwords are no longer necessary."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 describes fake websites and gives advice on how shoppers can protect themselves.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Safety is another issue that online shoppers need to think about."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "To protect themselves, shoppers are advised to use well-known websites"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What happens when customers buy from a fake website?",
+      "options": [
+        "They receive the goods a few weeks late.",
+        "They get a discount on their next order.",
+        "Their card stops working for a day.",
+        "Their money is stolen and the goods never arrive."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 5 says the money is stolen and the goods never arrive.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "the money is stolen and the goods never arrive"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 5, an offer that seems \"too good to be true\" is one that:",
+      "options": [
+        "is the best price you can find anywhere",
+        "is so attractive that it is probably not real or honest",
+        "has been checked by other customers",
+        "is only available for a short time"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer warns shoppers to be careful with such offers, because an offer that looks unbelievably good may be a trick.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "be careful with offers that seem too good to be true"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 6, what do some people do because returns are easy?",
+      "options": [
+        "Order the same item in several sizes and send back the ones they do not want",
+        "Repair their old clothes instead of buying new ones",
+        "Buy only from local shops",
+        "Order fewer items than before"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 6 says some people order the same jacket in three sizes, keep one and return the others.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "some people order the same jacket in three sizes, keep one and return the others"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "purpose",
+      "text": "Why does the writer mention ordering the same jacket in three sizes?",
+      "options": [
+        "To give advice on how to choose the right size",
+        "To show that jackets are popular online",
+        "To explain why shops sell clothes in different sizes",
+        "To give an example of how easy returns can lead to more deliveries"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The example is followed directly by the sentence saying this creates even more deliveries.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "some people order the same jacket in three sizes, keep one and return the others. This creates even more deliveries."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What can we infer about free returns from paragraph 6?",
+      "options": [
+        "They help shops to make more money.",
+        "They reduce the number of deliveries.",
+        "They are free for customers but not for shops.",
+        "They are no longer offered by any company."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Checking, cleaning and repackaging returned goods costs shops time and money, so someone still pays for free returns.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "checking, cleaning and repackaging returned goods costs shops time and money"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"fee\" is closest in meaning to:",
+      "options": [
+        "a free gift for customers",
+        "a type of delivery box",
+        "a written complaint",
+        "an amount of money paid for a service"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Companies charge a small fee for returns, meaning customers pay some money when they send items back.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "a number of companies have started to charge a small fee for returns"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 7, what is one advantage of ordering online and collecting goods in person?",
+      "options": [
+        "It makes the goods cheaper to produce.",
+        "It means the shop never closes.",
+        "It saves on delivery.",
+        "It allows customers to avoid paying."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 7 says ordering on the internet and collecting in person saves on delivery.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "order on the internet and collect their goods in person, which saves on delivery"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer suggest about the most successful businesses of the future?",
+      "options": [
+        "They will sell only on the internet.",
+        "They will combine the advantages of online and traditional shopping.",
+        "They will close their websites.",
+        "They will stop offering advice to customers."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer says these businesses will offer the best of both worlds, meaning both online and in-store shopping.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the most successful businesses will probably offer the best of both worlds"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the last paragraph?",
+      "options": [
+        "Online and traditional shopping will probably become more mixed in the future.",
+        "Online shopping will soon disappear.",
+        "All shops will turn into event spaces.",
+        "Customers will stop collecting goods in person."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 7 says the line between online and traditional shopping may become less clear and gives examples of the two working together.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "In the future, the line between online and traditional shopping may become less clear."
+        }
+      ]
+    }
+  ]
+}

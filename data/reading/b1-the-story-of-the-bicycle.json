@@ -1,0 +1,455 @@
+{
+  "id": "the-story-of-the-bicycle",
+  "title": "The Story of the Bicycle",
+  "level": "B1 · Intermediate",
+  "description": "How the bicycle developed from a wooden toy into a machine that changed society.",
+  "instructions": "Read the passage about the history of the bicycle, then choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "The bicycle is so common today that it is easy to forget it was once a strange new invention. One of the earliest versions appeared in Germany in the early nineteenth century. It was made of wood and had no pedals, so riders had to push it along the ground with their feet. People called it a 'running machine', and for a short time it was a fashionable toy for wealthy young men."
+    },
+    {
+      "id": "p2",
+      "text": "Later in the century, inventors added pedals to the front wheel. To make the bicycle go faster, some designers made the front wheel enormous and the back wheel very small. These machines, often called 'penny-farthings', could reach high speeds, but they were difficult to climb onto. If the rider hit a stone or stopped suddenly, he could easily fall over the top and be badly hurt."
+    },
+    {
+      "id": "p3",
+      "text": "The real breakthrough came in the 1880s with the 'safety bicycle'. It had two wheels of the same size and a chain that connected the pedals to the back wheel. Soon afterwards, air-filled rubber tyres made riding much more comfortable on rough roads. This design was so successful that most modern bicycles still look very similar to it."
+    },
+    {
+      "id": "p4",
+      "text": "The safety bicycle quickly changed people's lives. For the first time, ordinary workers could travel several miles to a job without paying for a horse or a train ticket. The bicycle also gave many women a new sense of freedom, and it even influenced fashion, as women began to wear more practical clothes for riding. More than a century later, the bicycle remains one of the cheapest and most efficient ways to travel."
+    },
+    {
+      "id": "p5",
+      "text": "The bicycle also influenced other inventions. Building bicycles required light frames, strong wheels and well-made chains, and many of these skills were later used to build the first cars and aircraft. In fact, the Wright brothers, who made one of the first powered flights in 1903, ran a bicycle shop before they built their famous plane. Cyclists also played a part in changing the roads themselves. In several countries, they were among the first groups to demand smoother, better-kept roads, which later benefited drivers too."
+    },
+    {
+      "id": "p6",
+      "text": "During the twentieth century, however, the bicycle faced a powerful rival. As cars became cheaper, many families in Europe and North America chose to drive instead of cycle, and towns were redesigned around motor traffic. In other parts of the world, the story was different. In China and the Netherlands, for example, bicycles remained the main way of getting around for millions of people for many decades. In these places, the bicycle was not a hobby but an ordinary part of daily life."
+    },
+    {
+      "id": "p7",
+      "text": "Today's bicycles are very different from the wooden running machine. Frames are made from light metals or carbon fibre, gears make it easier to climb hills, and mountain bikes can ride over rocks and mud. Cycling is also a major sport: famous races such as the Tour de France, first held in 1903, attract huge crowds every year. Most recently, electric bikes have brought cycling to people who once thought it was too hard. Two hundred years after its invention, the bicycle is still finding new riders."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the passage mainly about?",
+      "options": [
+        "Why cycling is good for your health",
+        "The best places to ride a bicycle in Germany",
+        "How the bicycle developed and changed society",
+        "Why penny-farthings are still popular"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The passage describes the bicycle's development from the running machine to the safety bicycle and its effects on people's lives.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "it was once a strange new invention"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "The safety bicycle quickly changed people's lives."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How did people move the early 'running machine'?",
+      "options": [
+        "By pushing it along the ground with their feet",
+        "By turning pedals on the front wheel",
+        "By using a chain",
+        "By pulling it with a horse"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It had no pedals, so riders pushed it along with their feet.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "riders had to push it along the ground with their feet"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "What can we infer about penny-farthings?",
+      "options": [
+        "They were the safest bicycles ever made.",
+        "They were cheap and popular with workers.",
+        "They had two wheels of the same size.",
+        "Riding them could be dangerous."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Riders could fall over the top and be badly hurt, so they could be dangerous. This is also why the next design was called the \"safety\" bicycle.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "he could easily fall over the top and be badly hurt"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"breakthrough\" means:",
+      "options": [
+        "an accident",
+        "an important new development",
+        "a broken part",
+        "a long journey"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The safety bicycle was a successful new design that changed everything, so a breakthrough is an important development.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "The real breakthrough came in the 1880s"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What made riding more comfortable on rough roads?",
+      "options": [
+        "Air-filled rubber tyres",
+        "A bigger front wheel",
+        "Wooden frames",
+        "Removing the pedals"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 3 says air-filled rubber tyres made riding more comfortable.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "air-filled rubber tyres made riding much more comfortable on rough roads"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer mention women's clothes in paragraph 4?",
+      "options": [
+        "To describe the fashion of the 1880s in detail",
+        "To criticise women who rode bicycles",
+        "To show how widely the bicycle influenced daily life",
+        "To explain how to make cycling clothes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The change in clothing is an example of how the bicycle affected even fashion, showing its wide influence.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "it even influenced fashion, as women began to wear more practical clothes for riding"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "According to paragraph 4, how did the safety bicycle help ordinary workers?",
+      "options": [
+        "It helped them find better-paid jobs.",
+        "It allowed them to buy horses.",
+        "It made train tickets cheaper.",
+        "It let them travel to work without paying for a horse or a train."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Workers could travel several miles to a job without paying for a horse or a train ticket.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "ordinary workers could travel several miles to a job without paying for a horse or a train ticket"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What does the writer suggest about the design of the safety bicycle?",
+      "options": [
+        "It was soon replaced by a better design.",
+        "It was so good that it has not changed much since.",
+        "It was only used by women.",
+        "It was too expensive for most people."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Most modern bicycles still look very similar to it, so the basic design has lasted.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "most modern bicycles still look very similar to it"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"fashionable\" is closest in meaning to:",
+      "options": [
+        "popular at a particular time",
+        "made of expensive cloth",
+        "difficult to use",
+        "very old"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The running machine was popular for a short time among wealthy young men, which is what fashionable means here.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "for a short time it was a fashionable toy for wealthy young men"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 2, why did some designers make the front wheel enormous?",
+      "options": [
+        "To make it easier to climb onto",
+        "To make the bicycle safer",
+        "To carry more passengers",
+        "To make the bicycle go faster"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 2 says designers made the front wheel enormous to make the bicycle go faster.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "To make the bicycle go faster, some designers made the front wheel enormous and the back wheel very small."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "The Wright brothers invented the bicycle.",
+        "The bicycle helped lead to other inventions and to better roads.",
+        "Cars and aircraft were invented before bicycles.",
+        "Cyclists did not like driving on bad roads."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 5 explains how bicycle skills were used for cars and aircraft and how cyclists demanded better roads.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The bicycle also influenced other inventions."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "Cyclists also played a part in changing the roads themselves."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What did the Wright brothers do before they built their famous plane?",
+      "options": [
+        "They designed the first penny-farthing.",
+        "They built the first car.",
+        "They ran a bicycle shop.",
+        "They organised a cycling race."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 says the Wright brothers ran a bicycle shop before they built their plane.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "ran a bicycle shop before they built their famous plane"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "purpose",
+      "text": "Why does the writer mention the Wright brothers in paragraph 5?",
+      "options": [
+        "To show that planes are faster than bicycles",
+        "To give an example of how bicycle-making skills helped other inventions",
+        "To explain why cycling became a sport",
+        "To describe the first cycling race"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer first says bicycle skills were later used to build cars and aircraft, then gives the Wright brothers as an example with the words \"In fact\".",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "many of these skills were later used to build the first cars and aircraft. In fact, the Wright brothers"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"rival\" is closest in meaning to:",
+      "options": [
+        "a close friend or helper",
+        "a type of road",
+        "a new part for a machine",
+        "something that competes with another thing"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Cars competed with bicycles, and many families chose to drive instead of cycle.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the bicycle faced a powerful rival. As cars became cheaper, many families in Europe and North America chose to drive instead of cycle"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 6, what happened to many towns as cars became cheaper?",
+      "options": [
+        "They were redesigned around motor traffic.",
+        "They built more bike lanes.",
+        "They banned cars from their centres.",
+        "They became smaller."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 6 says towns were redesigned around motor traffic.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "towns were redesigned around motor traffic"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What can we infer about China and the Netherlands from paragraph 6?",
+      "options": [
+        "People there did not know how to drive.",
+        "Bicycles were only used for sport there.",
+        "Cars did not replace bicycles there as quickly as in some other countries.",
+        "Cars were banned in both countries."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "While many families in Europe and North America switched to cars, bicycles remained the main way of getting around in these countries for many decades.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "In other parts of the world, the story was different."
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "bicycles remained the main way of getting around for millions of people for many decades"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"major\" in \"a major sport\" is closest in meaning to:",
+      "options": [
+        "dangerous",
+        "new and unknown",
+        "played only by soldiers",
+        "very important and popular"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Cycling is called a major sport because famous races attract huge crowds every year.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Cycling is also a major sport: famous races such as the Tour de France, first held in 1903, attract huge crowds every year."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 7, when was the Tour de France first held?",
+      "options": [
+        "In the 1880s",
+        "In 1903",
+        "In the early nineteenth century",
+        "Two hundred years ago"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 7 says the Tour de France was first held in 1903.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the Tour de France, first held in 1903"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer suggest about electric bikes?",
+      "options": [
+        "They are only used by professional riders.",
+        "They have made normal bicycles disappear.",
+        "They have made cycling possible for people who did not cycle before.",
+        "They are harder to ride than normal bicycles."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Electric bikes have brought cycling to people who once thought it was too hard, so new groups of people now ride.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "electric bikes have brought cycling to people who once thought it was too hard"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the last paragraph?",
+      "options": [
+        "Modern bicycles have developed a lot and still attract new riders.",
+        "Mountain bikes are better than road bikes.",
+        "The Tour de France is the oldest sport in the world.",
+        "Wooden bicycles are still the most popular."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 7 describes modern materials, sport and electric bikes, and ends by saying the bicycle is still finding new riders.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Today's bicycles are very different from the wooden running machine."
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "the bicycle is still finding new riders"
+        }
+      ]
+    }
+  ]
+}

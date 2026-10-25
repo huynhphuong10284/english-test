@@ -1,0 +1,329 @@
+{
+  "id": "w-a-conference-review",
+  "title": "A Conference Review",
+  "level": "C1 · Advanced",
+  "description": "Practise inversion, cleft sentences and hedged criticism, then write a review of a conference you attended.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Inversion with \"Rarely\"",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Rarely ___ a keynote speaker hold an audience's attention so completely.",
+      "options": [
+        "has",
+        "does",
+        "is",
+        "have"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After \"Rarely\" at the start of a sentence, invert the auxiliary and subject. With the base form \"hold\" in the present simple, the auxiliary is \"does\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Nominalisation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The ___ (organise) of the event was faultless.",
+      "answers": [
+        "organisation",
+        "organization"
+      ],
+      "points": 1,
+      "explanation": "After \"The\" and before \"of\" a noun is needed: organise becomes organisation."
+    },
+    {
+      "id": "e3",
+      "type": "transformation",
+      "focus": "Cleft sentences",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ the workshops.\"",
+      "text": "The workshops made the trip worthwhile.",
+      "keyword": "WHAT",
+      "answers": [
+        "What made the trip worthwhile was the workshops.",
+        "What made the trip worthwhile were the workshops."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft (What + clause + was/were + focus) puts emphasis on the final element, here \"the workshops\"."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Hedging",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "slightly",
+        "the",
+        "have",
+        "too",
+        "sessions",
+        "long",
+        "may",
+        "afternoon",
+        "been"
+      ],
+      "answers": [
+        "The afternoon sessions may have been slightly too long."
+      ],
+      "points": 1,
+      "explanation": "\"May have been\" and \"slightly\" soften criticism, making a review sound balanced rather than harsh."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Collocations",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The panel discussion gave much food for think.",
+      "answers": [
+        "The panel discussion gave much food for thought."
+      ],
+      "points": 1,
+      "explanation": "The fixed expression is \"food for thought\", meaning something worth thinking about carefully."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Concession",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The venue was hard to reach by public transport. ___, it was spacious and well equipped.",
+      "options": [
+        "That said",
+        "To this end",
+        "Hence",
+        "By the same token"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"That said\" introduces a point that contrasts with or balances the previous one."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Advanced passives",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"It ___ next year's conference will be held online.\"",
+      "text": "The organisers have announced that next year's conference will be held online.",
+      "keyword": "ANNOUNCED",
+      "answers": [
+        "It has been announced that next year's conference will be held online.",
+        "It has been announced by the organisers that next year's conference will be held online."
+      ],
+      "points": 1,
+      "explanation": "The impersonal passive \"It has been announced that ...\" removes the agent and sounds more formal."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "I would highly ___ (r) this conference to anyone working in education.",
+      "answers": [
+        "recommend"
+      ],
+      "points": 1,
+      "explanation": "\"Highly recommend\" is a strong collocation used to give a positive recommendation."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The conference focused in the role of technology in assessment.",
+      "answers": [
+        "The conference focused on the role of technology in assessment."
+      ],
+      "points": 1,
+      "explanation": "The verb \"focus\" takes the preposition \"on\": focus on something."
+    },
+    {
+      "id": "e10",
+      "type": "transformation",
+      "focus": "Inversion after \"Not only\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The conference was ___ great fun.\"",
+      "text": "The conference was informative and also great fun.",
+      "keyword": "ONLY",
+      "answers": [
+        "The conference was not only informative but also great fun.",
+        "The conference was not only informative but great fun.",
+        "The conference was not only informative but was also great fun."
+      ],
+      "points": 1,
+      "explanation": "\"Not only ... but also ...\" links two qualities and stresses the second one."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The keynote speaker drew heavily ___ her own classroom research.",
+      "options": [
+        "with",
+        "at",
+        "on",
+        "to"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Draw on\" something means to use it as a source of information or experience."
+    },
+    {
+      "id": "e12",
+      "type": "word-order",
+      "focus": "Inversion with \"Not until\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "until",
+        "did",
+        "the sessions",
+        "not",
+        "on time",
+        "the final day",
+        "run"
+      ],
+      "answers": [
+        "Not until the final day did the sessions run on time.",
+        "The sessions did not run on time until the final day."
+      ],
+      "points": 1,
+      "explanation": "When \"Not until + time phrase\" starts a sentence, the main clause is inverted: did + subject + verb."
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The workshop leaders were knowledgeable and ___ (approach).",
+      "answers": [
+        "approachable"
+      ],
+      "points": 1,
+      "explanation": "We need an adjective after \"and\" to match \"knowledgeable\": approach becomes approachable (easy to talk to)."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Causative \"have\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Next year, the organisers ___ by a professional firm.\"",
+      "text": "Next year, the organisers will ask a professional firm to record all sessions.",
+      "keyword": "HAVE",
+      "answers": [
+        "Next year, the organisers will have all sessions recorded by a professional firm.",
+        "Next year, the organisers will have all the sessions recorded by a professional firm.",
+        "Next year, the organisers are going to have all sessions recorded by a professional firm.",
+        "Next year, the organisers are going to have all the sessions recorded by a professional firm."
+      ],
+      "points": 1,
+      "explanation": "The causative \"have + object + past participle\" shows that someone else does the job for us."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Inversion with \"Never before\"",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Never before I had seen so many delegates in one room.",
+      "answers": [
+        "Never before had I seen so many delegates in one room.",
+        "I had never before seen so many delegates in one room."
+      ],
+      "points": 1,
+      "explanation": "After a negative adverbial such as \"Never before\" at the start of a sentence, invert the subject and auxiliary: had I seen."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Concession with \"albeit\"",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The conference was a success, ___ a rather expensive one.",
+      "options": [
+        "despite",
+        "however",
+        "whereas",
+        "albeit"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Albeit\" means \"although it was\" and is followed by an adjective or noun phrase, not a full clause."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Participle clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the opening session",
+        "by an hour",
+        "been",
+        "was cut",
+        "short",
+        "having",
+        "delayed"
+      ],
+      "answers": [
+        "Having been delayed by an hour, the opening session was cut short.",
+        "The opening session, having been delayed by an hour, was cut short."
+      ],
+      "points": 1,
+      "explanation": "A passive perfect participle (Having been + past participle) describes an earlier action done to the subject of the main clause."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "The talks were of a consistently high ___ (s).",
+      "answers": [
+        "standard"
+      ],
+      "points": 1,
+      "explanation": "\"Of a high standard\" is a fixed phrase used to describe quality in reviews and reports."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The quality of the presentations was inconsistence.",
+      "answers": [
+        "The quality of the presentations was inconsistent."
+      ],
+      "points": 1,
+      "explanation": "After \"was\" we need an adjective: inconsistence is not a word; the adjective is inconsistent."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Hedging with \"tend\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Sessions ___ over time.\"",
+      "text": "Sessions generally ran over time.",
+      "keyword": "TENDED",
+      "answers": [
+        "Sessions tended to run over time.",
+        "Sessions generally tended to run over time."
+      ],
+      "points": 1,
+      "explanation": "\"Tend to + verb\" softens a generalisation and is a common hedging device in reviews and reports."
+    }
+  ],
+  "task": {
+    "genre": "Review",
+    "prompt": "You recently attended a professional conference. Write a review for a professional magazine describing the event, evaluating its strengths and weaknesses, and saying whether you would recommend it.",
+    "contentPoints": [
+      "Briefly describe the conference and who attended it.",
+      "Evaluate the most successful parts of the event.",
+      "Mention any drawbacks and suggest an improvement.",
+      "Say whether you would recommend it and why."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "Having been ..., I arrived with ...",
+      "Rarely does ...",
+      "What made the trip worthwhile was ...",
+      "That said, ...",
+      "It would have benefited from ...",
+      "I would highly recommend ..."
+    ],
+    "modelAnswer": "A conference worth the journey\n\nLast month I attended the annual Future of Learning conference in Manchester, a two-day event bringing together around 600 teachers, researchers and technology developers. Having been disappointed by similar events in the past, I arrived with modest expectations, but I left genuinely inspired.\n\nThe conference opened with a keynote speech by an educational psychologist on the role of curiosity in learning. Rarely does a keynote speaker hold an audience's attention so completely; she combined research findings with amusing classroom anecdotes. The panel discussion on assessment that followed also gave much food for thought, although it would have benefited from a wider range of views.\n\nWhat made the trip worthwhile, however, was the workshops. They were genuinely practical, and I came away with several activities I have already used with my own students. The organisation of the event was faultless, too, with sessions starting on time and helpful volunteers on hand throughout.\n\nThere were a few drawbacks. The venue was hard to reach by public transport. That said, it was spacious and well equipped. The afternoon sessions may have been slightly too long, and by four o'clock many participants were visibly tired. A shorter programme with more breaks would allow more time for networking.\n\nOverall, I would highly recommend this conference to anyone working in education. It has been announced that next year's conference will be held online, which should make it accessible to an even wider audience."
+  }
+}

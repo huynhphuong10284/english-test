@@ -1,0 +1,325 @@
+{
+  "id": "w-the-weather-today",
+  "title": "The Weather Today",
+  "level": "A1 · Beginner",
+  "description": "Practise be, there is and like + -ing, and write a holiday postcard about the weather.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present simple: be",
+      "prompt": "Choose the correct word.",
+      "text": "It ___ cold and windy today.",
+      "options": [
+        "are",
+        "am",
+        "be",
+        "is"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"it is\" to talk about the weather: it is cold."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "There is / there are",
+      "prompt": "Complete the sentence with is or are.",
+      "text": "There ___ lots of snow in the mountains.",
+      "answers": [
+        "is"
+      ],
+      "points": 1,
+      "explanation": "Snow is uncountable, so use \"there is\": there is lots of snow."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Present simple: be",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "sunny",
+        "is",
+        "it",
+        "today"
+      ],
+      "answers": [
+        "It is sunny today.",
+        "Today it is sunny.",
+        "Is it sunny today?"
+      ],
+      "points": 1,
+      "explanation": "It + is + weather adjective + time: It is sunny today."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Present simple: negative",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We doesn't like the rain.",
+      "answers": [
+        "We don't like the rain.",
+        "We do not like the rain."
+      ],
+      "points": 1,
+      "explanation": "With we, make the negative with don't (do not): we don't like."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Like + -ing",
+      "prompt": "Choose the correct word.",
+      "text": "When it snows, I like ___ a snowman.",
+      "options": [
+        "make",
+        "making",
+        "makes",
+        "made"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After like, use the -ing form: I like making a snowman."
+    },
+    {
+      "id": "e6",
+      "type": "error-correction",
+      "focus": "Have got",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My sister and I has got new boots.",
+      "answers": [
+        "My sister and I have got new boots."
+      ],
+      "points": 1,
+      "explanation": "My sister and I = we, so use \"have got\": we have got."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions of time: in",
+      "prompt": "Choose the correct word.",
+      "text": "It is often hot ___ summer.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"in\" with seasons: in summer, in winter."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Can't",
+      "prompt": "Complete with can or can't.",
+      "text": "It is wet and windy. We ___ play outside.",
+      "answers": [
+        "can't",
+        "cannot",
+        "can not"
+      ],
+      "points": 1,
+      "explanation": "Use \"can't\" (cannot) when something is not possible."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Plurals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There are lots of cloud in the sky.",
+      "answers": [
+        "There are lots of clouds in the sky."
+      ],
+      "points": 1,
+      "explanation": "Use a plural noun (-s) after \"there are lots of\": lots of clouds."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Like + -ing: negative",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "walking",
+        "don't",
+        "in the rain",
+        "like",
+        "I"
+      ],
+      "answers": [
+        "I don't like walking in the rain.",
+        "In the rain I don't like walking."
+      ],
+      "points": 1,
+      "explanation": "Subject + don't like + verb-ing: I don't like walking."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Have got",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ got an umbrella in my bag.",
+      "options": [
+        "has",
+        "am",
+        "have",
+        "is"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"have got\" with I, you, we and they: I have got."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Present simple: third person -s",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "It ___ (snow) a lot here in winter.",
+      "answers": [
+        "snows"
+      ],
+      "points": 1,
+      "explanation": "With it, add -s to the verb: it snows."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Linking words: so",
+      "prompt": "Choose the correct word.",
+      "text": "It is cold, ___ I wear my coat.",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "or"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"so\" to give a result: it is cold, so I wear my coat."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Articles: a / an",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Take a umbrella with you.",
+      "answers": [
+        "Take an umbrella with you."
+      ],
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound: an umbrella."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Present simple: be (negative)",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "today",
+        "isn't",
+        "hot",
+        "it"
+      ],
+      "answers": [
+        "It isn't hot today.",
+        "Today it isn't hot.",
+        "Isn't it hot today?"
+      ],
+      "points": 1,
+      "explanation": "It + isn't + adjective: It isn't hot today."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Possessive adjectives",
+      "prompt": "Write the possessive adjective for the word in brackets.",
+      "text": "Put on ___ (you) hat. It is cold!",
+      "answers": [
+        "your"
+      ],
+      "points": 1,
+      "explanation": "The possessive adjective for \"you\" is \"your\": your hat."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "There are: questions",
+      "prompt": "Choose the correct word.",
+      "text": "___ there any clouds in the sky?",
+      "options": [
+        "Is",
+        "Do",
+        "Have",
+        "Are"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Make questions with \"Are there\" + a plural noun: Are there any clouds?"
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Prepositions of time: in",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It is very cold on January.",
+      "answers": [
+        "It is very cold in January."
+      ],
+      "points": 1,
+      "explanation": "Use \"in\" with months: in January."
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "swim",
+        "in the sea",
+        "can",
+        "we"
+      ],
+      "answers": [
+        "We can swim in the sea.",
+        "Can we swim in the sea?",
+        "In the sea we can swim."
+      ],
+      "points": 1,
+      "explanation": "Subject + can + verb: We can swim in the sea."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Present simple: be",
+      "prompt": "Write the correct form of be.",
+      "text": "The days ___ (be) short in winter.",
+      "answers": [
+        "are"
+      ],
+      "points": 1,
+      "explanation": "Use \"are\" with plural nouns: the days are."
+    }
+  ],
+  "task": {
+    "genre": "Postcard",
+    "prompt": "You are on holiday. Write a postcard to a friend about the weather.",
+    "contentPoints": [
+      "Say where you are.",
+      "Say what the weather is like today.",
+      "Say what you can do in this weather.",
+      "Say what clothes you wear."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "Dear ...,",
+      "I'm in ...",
+      "Today it is ...",
+      "We can ...",
+      "I wear ...",
+      "See you soon!"
+    ],
+    "modelAnswer": "Dear Max,\n\nI'm in the mountains with my family. Today it is cold and snowy. We can ski and make a snowman. I wear my big coat, a hat and warm boots every day. It is great fun!\n\nSee you soon,\nOscar"
+  }
+}

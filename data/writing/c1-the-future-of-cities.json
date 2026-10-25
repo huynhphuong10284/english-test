@@ -1,0 +1,327 @@
+{
+  "id": "w-the-future-of-cities",
+  "title": "The Future of Cities",
+  "level": "C1 · Advanced",
+  "description": "Practise inversion, nominalisation and formal linking, then write a letter to a newspaper about how your city should develop.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Rapid urbanisation is putting enormous ___ on housing and transport.",
+      "options": [
+        "force",
+        "pressure",
+        "power",
+        "weight"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Put pressure on\" is a fixed collocation meaning to create difficulties or demands for something."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Advanced passives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "By 2050, two-thirds of the world's population ___ (expect) to live in cities.",
+      "answers": [
+        "is expected",
+        "are expected"
+      ],
+      "points": 1,
+      "explanation": "Subject + be expected + to-infinitive is an impersonal passive used for predictions and forecasts."
+    },
+    {
+      "id": "e3",
+      "type": "transformation",
+      "focus": "Inversion with \"Hardly\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ the plan when residents began protesting.\"",
+      "text": "The council had only just approved the plan when residents began protesting.",
+      "keyword": "HARDLY",
+      "answers": [
+        "Hardly had the council approved the plan when residents began protesting."
+      ],
+      "points": 1,
+      "explanation": "\"Hardly\" at the start of a sentence is followed by had + subject + past participle, and then \"when\"."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Nominalisation",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "spaces",
+        "priority",
+        "of",
+        "the",
+        "must",
+        "green",
+        "be",
+        "creation",
+        "a"
+      ],
+      "answers": [
+        "The creation of green spaces must be a priority.",
+        "A priority must be the creation of green spaces."
+      ],
+      "points": 1,
+      "explanation": "Nominalisation (\"the creation of\" instead of \"creating\") makes the subject a noun phrase, which sounds more formal."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Concession",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Notwithstanding the city's wealth, but many residents cannot afford housing.",
+      "answers": [
+        "Notwithstanding the city's wealth, many residents cannot afford housing."
+      ],
+      "points": 1,
+      "explanation": "\"Notwithstanding\" already expresses contrast, so \"but\" must not be added to the main clause."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the most appropriately cautious option.",
+      "text": "Car-free zones ___ reduce pollution, but they could also hurt small businesses.",
+      "options": [
+        "must",
+        "are bound to",
+        "will",
+        "may well"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"May well\" expresses a likely but not certain result, which balances the cautious \"could\" in the second clause."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Cleft sentences",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ affordable housing.\"",
+      "text": "Our city needs affordable housing more than anything else.",
+      "keyword": "WHAT",
+      "answers": [
+        "What our city needs most is affordable housing.",
+        "What our city needs more than anything else is affordable housing.",
+        "What our city needs more than anything is affordable housing.",
+        "What our city most needs is affordable housing.",
+        "What our city needs the most is affordable housing."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft (What + clause + is + focus) puts the strongest emphasis on the final element, here \"affordable housing\"."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Cohesion",
+      "prompt": "Complete the gap with one suitable word or phrase.",
+      "text": "Cities must cut emissions. ___ this end, the council should invest in cycle lanes.",
+      "answers": [
+        "To"
+      ],
+      "points": 1,
+      "explanation": "\"To this end\" means \"in order to achieve this\" and introduces an action that serves the aim just mentioned."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The city's infrastructure is struggling to keep pace ___ population growth.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "of"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Keep pace with\" something means to change or develop as quickly as it does."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Inversion with \"Only by\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "can",
+        "in public transport",
+        "reduce traffic",
+        "investing",
+        "we",
+        "only by"
+      ],
+      "answers": [
+        "Only by investing in public transport can we reduce traffic.",
+        "We can reduce traffic only by investing in public transport."
+      ],
+      "points": 1,
+      "explanation": "When \"Only by + -ing\" begins a sentence, the main clause is inverted: can we reduce."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Many residents object at the construction of high-rise towers.",
+      "answers": [
+        "Many residents object to the construction of high-rise towers."
+      ],
+      "points": 1,
+      "explanation": "The verb \"object\" is followed by \"to\": object to something."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Participle clauses",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ crisis, the city must build upwards.\"",
+      "text": "Because it faces a housing crisis, the city must build upwards.",
+      "keyword": "FACED",
+      "answers": [
+        "Faced with a housing crisis, the city must build upwards.",
+        "Faced with the housing crisis, the city must build upwards.",
+        "Faced as it is with a housing crisis, the city must build upwards."
+      ],
+      "points": 1,
+      "explanation": "A past participle clause (Faced with ...) can replace a \"because\" clause when it shares the subject of the main clause."
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Many central neighbourhoods have become ___ (afford) for young families.",
+      "answers": [
+        "unaffordable"
+      ],
+      "points": 1,
+      "explanation": "The context shows a problem, so we need a negative adjective: afford becomes unaffordable."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The council must ___ urgent action to tackle air pollution.",
+      "options": [
+        "do",
+        "make",
+        "take",
+        "give"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The fixed collocation is \"take action\", often with adjectives such as urgent, immediate or decisive."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Inversion with \"Little\"",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Little the planners knew how quickly the city would grow.",
+      "answers": [
+        "Little did the planners know how quickly the city would grow."
+      ],
+      "points": 1,
+      "explanation": "When \"Little\" begins a sentence with the meaning \"not at all\", it needs inversion: Little did the planners know."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Formal conditionals",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___, the new barrier will protect the city centre.\"",
+      "text": "If there is a flood, the new barrier will protect the city centre.",
+      "keyword": "EVENT",
+      "answers": [
+        "In the event of a flood, the new barrier will protect the city centre.",
+        "In the event of flooding, the new barrier will protect the city centre.",
+        "In the event that there is a flood, the new barrier will protect the city centre.",
+        "In the event of a flood, the new barrier will protect the city center."
+      ],
+      "points": 1,
+      "explanation": "\"In the event of + noun\" is a formal way of saying \"if something happens\"."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "Better public transport would help to ___ (a) congestion in the city centre.",
+      "answers": [
+        "alleviate"
+      ],
+      "points": 1,
+      "explanation": "\"Alleviate\" means to make a problem less severe; it collocates with congestion, poverty and pressure."
+    },
+    {
+      "id": "e18",
+      "type": "word-order",
+      "focus": "Passive infinitive",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "far more",
+        "to tackle",
+        "to be done",
+        "homelessness",
+        "needs"
+      ],
+      "answers": [
+        "Far more needs to be done to tackle homelessness."
+      ],
+      "points": 1,
+      "explanation": "\"Needs to be done\" is a passive infinitive used when the action matters more than who does it."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The city needs a more sustain approach to development.",
+      "answers": [
+        "The city needs a more sustainable approach to development."
+      ],
+      "points": 1,
+      "explanation": "An adjective is needed before the noun \"approach\": sustain becomes sustainable."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Emphatic negatives",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The new housing scheme ___ affordable.\"",
+      "text": "The new housing scheme is not at all affordable.",
+      "keyword": "FAR",
+      "answers": [
+        "The new housing scheme is far from affordable.",
+        "The new housing scheme is far from being affordable."
+      ],
+      "points": 1,
+      "explanation": "\"Far from + adjective/-ing\" is an emphatic way of saying \"not at all\"."
+    }
+  ],
+  "task": {
+    "genre": "Letter to the editor",
+    "prompt": "A national newspaper has published an article about the future of cities. Write a letter to the editor describing the challenges facing your city and suggesting how it should develop over the next twenty years.",
+    "contentPoints": [
+      "Describe the main challenges facing your city.",
+      "Suggest how housing problems could be solved.",
+      "Suggest how the environment and transport could be improved.",
+      "End with a clear message to readers or decision-makers."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "I read with great interest ...",
+      "Hardly had ... when ...",
+      "What our city needs most is ...",
+      "To this end, ...",
+      "I urge the council to ...",
+      "Yours faithfully,"
+    ],
+    "modelAnswer": "Dear Editor,\n\nI read with great interest last week's article on the future of our cities, and I would like to add a resident's perspective to the debate.\n\nBy 2050, two-thirds of the world's population is expected to live in cities, and our own city is already feeling the strain. Rapid growth is putting enormous pressure on housing and transport, and rents have risen so sharply that many young families have been forced to move away. Hardly had the council approved its latest luxury development when residents began protesting, and with good reason. Notwithstanding the city's wealth, many residents cannot afford a decent home.\n\nWhat our city needs most is affordable housing. The council should require developers to include low-cost homes in every new project and should bring empty buildings back into use. In addition, the creation of green spaces must be a priority. Parks and tree-lined streets not only improve air quality but also give residents places to relax and meet their neighbours.\n\nTransport, too, must change. Car-free zones may well reduce pollution, but they could also hurt small businesses unless public transport is improved at the same time. To this end, the council should invest in cycle lanes and more frequent buses before restricting cars.\n\nThe cities of the future will be shaped by the decisions we make today. I urge the council to plan for people rather than profit.\n\nYours faithfully,\nDaniel Okafor"
+  }
+}

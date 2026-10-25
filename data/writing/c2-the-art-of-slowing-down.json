@@ -1,0 +1,317 @@
+{
+  "id": "w-the-art-of-slowing-down",
+  "title": "The Art of Slowing Down",
+  "level": "C2 · Proficiency",
+  "description": "Practise inversion, comparative structures and idioms, then write a magazine article about the value of slowing down.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Idiomatic collocations",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "We rarely ___ time simply to notice our surroundings.",
+      "options": [
+        "do",
+        "give",
+        "pass",
+        "make"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The collocation is \"make time (to do something)\", meaning to deliberately find time for it."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Inversion with \"only\"",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Only when we stop ___ we notice how tired we really are.",
+      "answers": [
+        "do"
+      ],
+      "points": 1,
+      "explanation": "After a fronted \"only when\" clause, the main clause is inverted: only when we stop do we notice ..."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Comparative structures",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the slower",
+        "the more",
+        "I",
+        "I",
+        "walk",
+        "see"
+      ],
+      "answers": [
+        "The slower I walk, the more I see."
+      ],
+      "points": 1,
+      "explanation": "The double comparative \"the + comparative ..., the + comparative ...\" shows that two things change together."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Conditionals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "If I were you, I will leave your phone at home for the weekend.",
+      "answers": [
+        "If I were you, I would leave your phone at home for the weekend.",
+        "If I were you, I'd leave your phone at home for the weekend."
+      ],
+      "points": 1,
+      "explanation": "Advice with \"if I were you\" is a second conditional, so the main clause needs \"would\", not \"will\"."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Not until ...\".",
+      "text": "I did not realise how stressed I was until I took a break.",
+      "keyword": "until",
+      "answers": [
+        "Not until I took a break did I realise how stressed I was.",
+        "Not until I took a break did I realize how stressed I was.",
+        "Not until I had taken a break did I realise how stressed I was.",
+        "Not until I had taken a break did I realize how stressed I was."
+      ],
+      "points": 1,
+      "explanation": "When \"not until\" begins a sentence, the inversion comes in the main clause: not until I took a break did I realise ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Idiomatic expressions",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Slowing down ...\".",
+      "text": "Slowing down is easier to talk about than to do.",
+      "keyword": "done",
+      "answers": [
+        "Slowing down is easier said than done."
+      ],
+      "points": 1,
+      "explanation": "\"Easier said than done\" means that something sounds simple but is difficult in practice."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Stance",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"It ...\".",
+      "text": "There is no point in rushing if you miss the journey.",
+      "keyword": "worth",
+      "answers": [
+        "It is not worth rushing if you miss the journey.",
+        "It isn't worth rushing if you miss the journey.",
+        "It's not worth rushing if you miss the journey."
+      ],
+      "points": 1,
+      "explanation": "\"It is (not) worth + -ing\" evaluates whether an action brings enough benefit."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Ellipsis",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "I used to check my emails every five minutes, but I no longer ___.",
+      "answers": [
+        "do"
+      ],
+      "points": 1,
+      "explanation": "The auxiliary \"do\" replaces the repeated verb phrase (check my emails every five minutes)."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Idiomatic expressions",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Many of us live life in the fast ___, rarely pausing to reflect.",
+      "options": [
+        "lane",
+        "road",
+        "track",
+        "line"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Life in the fast lane\" describes an exciting but pressured lifestyle with no time to rest."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Our constant ___ (connect) to our devices leaves little room for genuine rest.",
+      "answers": [
+        "connectivity",
+        "connectedness"
+      ],
+      "points": 1,
+      "explanation": "Abstract nouns can be formed from \"connect\" with -ivity (connectivity) or from \"connected\" with -ness (connectedness)."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Adjective + preposition",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I have become increasingly averse with spending my weekends glued to a screen.",
+      "answers": [
+        "I have become increasingly averse to spending my weekends glued to a screen."
+      ],
+      "points": 1,
+      "explanation": "\"Averse\" is followed by \"to\" (+ noun or -ing): averse to risk, averse to spending."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Occasionally we need to stop and ...\".",
+      "text": "Occasionally we need to stop and think carefully about our lives.",
+      "keyword": "stock",
+      "answers": [
+        "Occasionally we need to stop and take stock of our lives."
+      ],
+      "points": 1,
+      "explanation": "To \"take stock of\" a situation means to think carefully about it in order to decide what to do next."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Stance markers",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "___, not everyone can afford to work fewer hours.",
+      "options": [
+        "Admitted",
+        "Admittedly",
+        "Admitting",
+        "Admittance"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The sentence adverb \"admittedly\" concedes a point that weakens your own argument; it is a useful stance marker in persuasive writing."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Inversion with \"not once\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "did",
+        "not once",
+        "check",
+        "I",
+        "my phone",
+        "all weekend"
+      ],
+      "answers": [
+        "Not once did I check my phone all weekend.",
+        "I did not once check my phone all weekend.",
+        "All weekend, not once did I check my phone."
+      ],
+      "points": 1,
+      "explanation": "When \"not once\" is fronted for emphasis, the auxiliary comes before the subject: not once did I check ..."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Advanced word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There is something deeply restoring about an unhurried walk.",
+      "answers": [
+        "There is something deeply restorative about an unhurried walk."
+      ],
+      "points": 1,
+      "explanation": "The adjective meaning \"having the power to restore health or energy\" is \"restorative\"."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Taking regular breaks will ...\".",
+      "text": "Taking regular breaks will eventually make us more productive.",
+      "keyword": "run",
+      "answers": [
+        "Taking regular breaks will make us more productive in the long run.",
+        "Taking regular breaks will, in the long run, make us more productive."
+      ],
+      "points": 1,
+      "explanation": "\"In the long run\" means over a long period of time, eventually."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Idiomatic collocations",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "A slower pace allows us to ___ the moment rather than rush through it.",
+      "options": [
+        "flavour",
+        "digest",
+        "savour",
+        "swallow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "To \"savour the moment\" means to enjoy it slowly and fully, as you might savour good food."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Idiomatic expressions",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "We are so busy that we rarely stop to smell the ___. (one word, beginning with R)",
+      "answers": [
+        "roses"
+      ],
+      "points": 1,
+      "explanation": "\"Stop and smell the roses\" means to take time to enjoy the simple pleasures of life."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Cleft sentences with \"all\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"All ...\".",
+      "text": "The only thing I wanted was an hour of silence.",
+      "keyword": "all",
+      "answers": [
+        "All I wanted was an hour of silence."
+      ],
+      "points": 1,
+      "explanation": "\"All + clause + be\" means \"the only thing\": all I wanted was ..."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Wishes and regrets",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I wish I would have discovered this habit years ago.",
+      "answers": [
+        "I wish I had discovered this habit years ago.",
+        "I wish I'd discovered this habit years ago."
+      ],
+      "points": 1,
+      "explanation": "To express regret about the past, \"wish\" is followed by the past perfect: I wish I had discovered ..."
+    }
+  ],
+  "task": {
+    "genre": "Article",
+    "prompt": "A wellbeing magazine has asked readers to contribute articles on \"The Art of Slowing Down\". Write your article.",
+    "contentPoints": [
+      "Describe a personal experience that made you realise you needed to slow down.",
+      "Explain why modern life makes slowing down difficult.",
+      "Suggest practical ways of living at a slower pace.",
+      "Reflect on what slowing down can offer people."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "Not until ... did I ...",
+      "easier said than done",
+      "The slower ..., the more ...",
+      "Only when ... do we ...",
+      "make time to ...",
+      "It is (not) worth ..."
+    ],
+    "modelAnswer": "Last spring, I missed my own sister's birthday dinner. I had not forgotten it; I had simply been answering emails on the train and stayed on two stops too long. Sitting alone on a cold platform, I finally admitted what my friends had been telling me for months: my life was running me, rather than the other way round.\n\nNot until I took a proper break that summer did I realise how stressed I was. For the first few days, I kept reaching for my phone, convinced that something urgent was waiting. Nothing was. Gradually, the sense of panic faded, and I began to notice things I had ignored for years: the sound of rain on the roof, the taste of a meal eaten slowly, the pleasure of a conversation with no time limit.\n\nWhy is slowing down so difficult? Part of the problem is that our devices are designed to keep us busy, offering an endless stream of news, messages and notifications. Another is cultural: in many workplaces, speed is mistaken for competence, and anyone who pauses risks appearing lazy. Slowing down, in other words, is easier said than done.\n\nNevertheless, there are practical steps that anyone can take. I now leave my phone in another room during meals and switch off email notifications after seven in the evening. I used to check my inbox every five minutes, but I no longer do. I also walk to work twice a week, and I have discovered that the slower I walk, the more I see. Most importantly, I make time each day to do nothing at all, even if only for ten minutes.\n\nSlowing down is not about doing less for its own sake. It is about paying attention. Only when we stop do we notice how tired we really are, and how much we have been missing. After all, it is not worth rushing if you miss the journey."
+  }
+}

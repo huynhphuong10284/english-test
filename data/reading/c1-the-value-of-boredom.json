@@ -1,0 +1,451 @@
+{
+  "id": "the-value-of-boredom",
+  "title": "In Praise of Boredom",
+  "level": "C1 · Advanced",
+  "description": "An article on what psychology has discovered about the functions of boredom.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Boredom has rarely enjoyed a good reputation. Moralists have long associated it with idleness, and modern culture tends to regard it as a problem to be solved, ideally by means of the smartphone that most of us carry at all times. Yet a growing body of psychological research suggests that this unpleasant state may serve important functions, and that our increasing ability to eliminate it entirely could carry hidden costs."
+    },
+    {
+      "id": "p2",
+      "text": "Psychologists generally define boredom as the uncomfortable experience of wanting, but being unable, to engage in satisfying activity. Crucially, it is not the same as having nothing to do; people can feel bored while busy with tasks they find meaningless, and content while doing very little. Viewed in this light, boredom can be understood as a signal, much as hunger signals a need for food, indicating that one's current situation is failing to provide sufficient meaning or stimulation."
+    },
+    {
+      "id": "p3",
+      "text": "If boredom is a signal, it may also be a spur to action. Some researchers have proposed that it motivates people to seek out new goals and experiences, and a number of experiments appear to support the related idea that boredom can foster creativity. In one type of study, participants who first completed a deliberately tedious task subsequently generated more inventive ideas than those who had not, perhaps because a dull activity encourages the mind to wander and to make unexpected connections."
+    },
+    {
+      "id": "p4",
+      "text": "This is not to suggest that boredom is uniformly beneficial. Chronic boredom has been linked to a range of undesirable outcomes, including poor concentration, risky behaviour and low mood, and individuals who are especially prone to it may struggle to find meaning in their lives more generally. The value of boredom, it seems, lies less in the experience itself than in how people respond to it: as a prompt to reflect and change direction, or as something to be numbed as quickly as possible."
+    },
+    {
+      "id": "p5",
+      "text": "It is this second response that concerns many observers today. Digital devices offer an inexhaustible supply of instant distraction, allowing even the briefest moment of tedium to be filled. In doing so, they may deprive us not only of the opportunity for daydreaming, but also of the information that boredom conveys. Learning to tolerate occasional boredom, rather than reflexively escaping it, may therefore be a skill worth cultivating."
+    },
+    {
+      "id": "p6",
+      "text": "These concerns are often voiced most strongly in relation to children. Parents and teachers may feel under pressure to keep young people constantly occupied, whether through organised activities, educational apps or screens. Some educators argue that unstructured time, in which children must devise their own amusements, helps them to develop imagination and the ability to direct their own attention. A child who has never had to cope with a quiet afternoon, the argument runs, may find it harder later in life to persevere with tasks that are not immediately rewarding. The evidence on this point is still limited, and it would be unwise to romanticise boredom in classrooms, where disengagement can be a sign of poorly designed teaching rather than an opportunity for creativity. Nonetheless, the principle that children need some time free from external stimulation is widely endorsed."
+    },
+    {
+      "id": "p7",
+      "text": "Boredom in the workplace presents a different set of issues. Many jobs contain repetitive elements that cannot easily be removed, and employees who find their work persistently monotonous may become less attentive, which can be dangerous in roles that require vigilance, such as monitoring equipment or security screens. Paradoxically, increasing automation may intensify this problem in some occupations, since workers are left to supervise systems that rarely require intervention, yet must be ready to act quickly when they do. Researchers studying such roles have found that sustaining attention during long periods of inactivity is extremely difficult. Rather than simply blaming individuals for lapses, organisations may need to redesign tasks, introduce variety or rotate responsibilities so that boredom does not undermine safety."
+    },
+    {
+      "id": "p8",
+      "text": "What emerges from this research is a more nuanced view than either the moralists or the advertisers of instant entertainment might suggest. Boredom is neither a vice to be condemned nor merely a discomfort to be eliminated, but an emotion that, like fear or frustration, carries information about our relationship with our surroundings. Its message may be that we should change our activity, find a deeper purpose in what we are already doing, or simply allow our minds a period of rest. Treating every moment of boredom as an emergency to be resolved immediately risks silencing that message before it can be heard. The challenge, then, is not to seek out boredom for its own sake, but to listen to it more attentively when it arises."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best summarises the passage?",
+      "options": [
+        "Boredom is always harmful and should be avoided.",
+        "Smartphones have eliminated boredom altogether.",
+        "Boredom can serve useful purposes depending on how people respond to it, and constantly avoiding it may be costly.",
+        "Creative people never feel bored."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The passage argues that boredom has functions, that its value depends on our response, and that escaping it constantly may have hidden costs.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "this unpleasant state may serve important functions"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "The value of boredom, it seems, lies less in the experience itself than in how people respond to it"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, which statement about boredom is true?",
+      "options": [
+        "Boredom simply means having nothing to do.",
+        "People can feel bored even while they are busy.",
+        "Boredom is a physical need like hunger.",
+        "People who do very little are always bored."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer stresses that boredom is not the same as having nothing to do.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "people can feel bored while busy with tasks they find meaningless"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "purpose",
+      "text": "Why does the writer compare boredom to hunger in paragraph 2?",
+      "options": [
+        "To illustrate the idea that boredom signals an unmet need",
+        "To suggest that boredom is caused by a poor diet",
+        "To show that boredom is as dangerous as hunger",
+        "To argue that boredom can be cured by eating"
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Just as hunger signals a need for food, boredom signals a lack of meaning or stimulation.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "boredom can be understood as a signal, much as hunger signals a need for food"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"spur\" is closest in meaning to:",
+      "options": [
+        "obstacle",
+        "reward",
+        "consequence",
+        "stimulus"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Boredom motivates people to seek new goals, so it acts as a stimulus to action.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "it may also be a spur to action"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "In the type of study described in paragraph 3, what did participants who completed a tedious task do?",
+      "options": [
+        "They produced more inventive ideas afterwards.",
+        "They refused to complete any further tasks.",
+        "They reported feeling more relaxed.",
+        "They performed worse on creative tasks."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Those who first did the dull task generated more inventive ideas than those who had not.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "subsequently generated more inventive ideas than those who had not"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 4?",
+      "options": [
+        "Boredom is beneficial for everyone in all circumstances.",
+        "Risky behaviour is the main cause of boredom.",
+        "Boredom that persists over long periods is more likely to be harmful.",
+        "People who are prone to boredom are more creative."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "It is \"chronic\" boredom that is linked with poor outcomes, implying that persistent boredom differs from occasional boredom.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "This is not to suggest that boredom is uniformly beneficial."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Chronic boredom has been linked to a range of undesirable outcomes"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What does the writer imply about digital devices in paragraph 5?",
+      "options": [
+        "They are the main cause of chronic boredom.",
+        "They should be banned for young people.",
+        "They encourage daydreaming.",
+        "They make it easy to suppress boredom before it can prompt reflection."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "By filling every moment of tedium, devices may prevent us from receiving the signal that boredom provides.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "they may deprive us not only of the opportunity for daydreaming, but also of the information that boredom conveys"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"reflexively\" is closest in meaning to:",
+      "options": [
+        "thoughtfully",
+        "automatically, without thinking",
+        "occasionally",
+        "reluctantly"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer contrasts tolerating boredom with escaping it as an automatic reaction.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "rather than reflexively escaping it"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 6 to 8?",
+      "options": [
+        "Children should be left bored as often as possible so that they become creative.",
+        "Boredom at work is mainly the fault of careless individual employees.",
+        "People should deliberately seek out boredom because it improves creativity.",
+        "Boredom raises distinct issues for children and workers, and it is best understood as an emotion whose message deserves attention."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The final paragraphs discuss children and the workplace, then conclude that boredom is an informative emotion to be listened to.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "carries information about our relationship with our surroundings"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, what do some educators believe unstructured time helps children to develop?",
+      "options": [
+        "Imagination and the ability to direct their own attention",
+        "Academic knowledge and examination skills",
+        "Confidence in using educational apps",
+        "Respect for the authority of teachers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Unstructured time is said to build imagination and self-directed attention.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "helps them to develop imagination and the ability to direct their own attention"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "purpose",
+      "text": "Why does the writer note that classroom disengagement can be \"a sign of poorly designed teaching\"?",
+      "options": [
+        "To argue that teachers are responsible for all boredom in children",
+        "To show that children are never bored in well-run schools",
+        "To qualify the case for boredom by pointing to a situation in which it is not beneficial",
+        "To recommend that pupils be entertained throughout lessons"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer warns against romanticising boredom, since in class it may simply signal weak teaching.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "it would be unwise to romanticise boredom in classrooms"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"persevere\" is closest in meaning to:",
+      "options": [
+        "give up quickly",
+        "keep trying despite difficulty",
+        "pretend to work",
+        "compete with others"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The concern is that such children may struggle to continue with tasks that are not instantly rewarding.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "may find it harder later in life to persevere with tasks that are not immediately rewarding"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "What is the writer's attitude towards the claim that unstructured time benefits children?",
+      "options": [
+        "The writer regards it as conclusively proven by research.",
+        "The writer rejects it as a romantic myth.",
+        "The writer finds it plausible but notes that the supporting evidence is limited.",
+        "The writer believes it applies to adults rather than children."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer reports the argument, admits the evidence is limited, but notes that the general principle is widely endorsed.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The evidence on this point is still limited"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 7, why can boredom at work be dangerous?",
+      "options": [
+        "Bored employees tend to take financial risks with company money.",
+        "Boredom usually causes employees to resign suddenly.",
+        "Repetitive tasks frequently lead to physical injuries.",
+        "Bored employees may become less attentive in roles that require vigilance."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Monotony reduces attentiveness, which matters in monitoring roles.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "may become less attentive, which can be dangerous in roles that require vigilance"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, how might automation increase boredom in some jobs?",
+      "options": [
+        "Workers supervise systems that rarely need intervention but must still be ready to act.",
+        "Machines take over the most interesting tasks and leave only paperwork.",
+        "Automated systems require constant adjustments by workers.",
+        "Workers must learn complicated new skills very quickly."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Long periods of inactivity combined with the need for rapid response make boredom more likely.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "since workers are left to supervise systems that rarely require intervention, yet must be ready to act quickly when they do"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"monotonous\" is closest in meaning to:",
+      "options": [
+        "difficult and stressful",
+        "dull and repetitive",
+        "poorly paid",
+        "noisy and crowded"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Work that is persistently the same leads to reduced attention.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "employees who find their work persistently monotonous"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What does the writer imply about blaming individual workers for lapses of attention?",
+      "options": [
+        "It is the most effective way of improving safety at work.",
+        "It can never be justified in any circumstances.",
+        "It overlooks the fact that some tasks make attention extremely hard to sustain.",
+        "It is a legal requirement in most organisations."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Because sustaining attention during inactivity is very difficult, the writer suggests changing tasks rather than simply blaming people.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Rather than simply blaming individuals for lapses, organisations may need to redesign tasks"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 8, what message might boredom carry?",
+      "options": [
+        "That we should immediately look for entertainment",
+        "That we may be suffering from a serious illness",
+        "That we have taken on too much work",
+        "That we should change activity, find a deeper purpose or let our minds rest"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The paragraph lists three possible messages.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Its message may be that we should change our activity, find a deeper purpose in what we are already doing, or simply allow our minds a period of rest."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer compare boredom to \"fear or frustration\"?",
+      "options": [
+        "To present it as an emotion that gives us useful information",
+        "To show that boredom is as dangerous as fear",
+        "To argue that all unpleasant emotions should be avoided",
+        "To suggest that boredom usually leads to frustration"
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Like other emotions, boredom tells us something about our relationship with our surroundings.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "an emotion that, like fear or frustration, carries information"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "Which behaviour would the writer most likely recommend?",
+      "options": [
+        "Deliberately seeking out dull situations as often as possible",
+        "Pausing to consider what a feeling of boredom might mean before reaching for a distraction",
+        "Filling every spare moment with useful apps",
+        "Ignoring boredom completely until it passes"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer advises listening to boredom rather than either seeking it for its own sake or silencing it at once.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "The challenge, then, is not to seek out boredom for its own sake, but to listen to it more attentively when it arises."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "id": "the-school-library",
+  "title": "The School Library",
+  "level": "A1 · Beginner",
+  "description": "A short text about a school library and a girl who loves it.",
+  "instructions": "Read the text about a school library, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Our school has a big library. It is on the second floor. It is open from eight o'clock to four o'clock."
+    },
+    {
+      "id": "p2",
+      "text": "The librarian is Mr Brown. He is kind and helpful. He helps students find good books. Students must be quiet in the library."
+    },
+    {
+      "id": "p3",
+      "text": "Kim goes to the library every Tuesday. She likes books about animals and space. She can take two books home for one week."
+    },
+    {
+      "id": "p4",
+      "text": "The library is a big, bright room. There are about five thousand books. There are also six computers and a big table for group work. Near the window, there are some soft chairs. Students like to read there."
+    },
+    {
+      "id": "p5",
+      "text": "Last Tuesday, Kim wanted a book about the moon. She could not find it. Mr Brown looked on the computer. The book was on a very high shelf. He used a ladder and got the book for her."
+    },
+    {
+      "id": "p6",
+      "text": "Kim must bring her books back after one week. Last month, she was late with a book. She was very sorry. Mr Brown said, 'That is OK, but please be on time next time.' Now Kim always brings her books back on time."
+    },
+    {
+      "id": "p7",
+      "text": "Every Friday, there is a reading club in the library. Students read a book together and talk about it. This week, they read a story about a little robot. Kim loves the club. She wants to be a librarian one day."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Kim's classroom",
+        "A trip to space",
+        "A bookshop in town",
+        "The school library"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text is about the school library, the librarian and a student who uses it.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Our school has a big library."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Where is the library?",
+      "options": [
+        "On the first floor",
+        "On the second floor",
+        "On the third floor",
+        "Next to the school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The library is on the second floor.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It is on the second floor."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"quiet\" means...",
+      "options": [
+        "very loud",
+        "very fast",
+        "making little or no noise",
+        "very hungry"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Quiet\" means making little or no noise. People read in a library, so they must not be loud.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Students must be quiet in the library."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Which day does Kim go to the library?",
+      "options": [
+        "Tuesday",
+        "Monday",
+        "Friday",
+        "Thursday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Kim goes to the library every Tuesday.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Kim goes to the library every Tuesday."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "How many books can Kim take home?",
+      "options": [
+        "One",
+        "Three",
+        "Two",
+        "Five"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She can take two books home for one week.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She can take two books home for one week."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "When is the library open?",
+      "options": [
+        "From nine o'clock to five o'clock",
+        "From eight o'clock to twelve o'clock",
+        "All day and all night",
+        "From eight o'clock to four o'clock"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The library is open from eight o'clock to four o'clock.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It is open from eight o'clock to four o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Who is the librarian?",
+      "options": [
+        "Mr Brown",
+        "Kim",
+        "Mr Green",
+        "Mrs Brown"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The librarian is Mr Brown.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The librarian is Mr Brown."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"helpful\" means...",
+      "options": [
+        "very rude",
+        "happy to help people",
+        "very tall",
+        "very quiet"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Brown is helpful: he helps students find good books.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He is kind and helpful. He helps students find good books."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What kind of books does Kim like?",
+      "options": [
+        "Books about food",
+        "Books about football",
+        "Books about music",
+        "Books about animals and space"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Kim likes books about animals and space.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She likes books about animals and space."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "For how long can Kim take books home?",
+      "options": [
+        "For one week",
+        "For one day",
+        "For two weeks",
+        "For one month"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Kim can take two books home for one week.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She can take two books home for one week."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 4 mainly about?",
+      "options": [
+        "How to use a computer",
+        "What you can find in the library",
+        "Kim's favourite chair",
+        "A new school building"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 4 describes the room, the books, the computers, the table and the chairs.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "There are about five thousand books. There are also six computers and a big table for group work."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "How many computers are there in the library?",
+      "options": [
+        "Five",
+        "Two",
+        "Six",
+        "Ten"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "There are six computers in the library.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "There are also six computers and a big table for group work."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "Where are the soft chairs?",
+      "options": [
+        "Near the window",
+        "Next to the computers",
+        "Near the door",
+        "In the classroom"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Near the window, there are some soft chairs.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Near the window, there are some soft chairs."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What book did Kim want last Tuesday?",
+      "options": [
+        "A book about animals",
+        "A book about a robot",
+        "A book about the moon",
+        "A book about computers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Kim wanted a book about the moon.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Last Tuesday, Kim wanted a book about the moon."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why could Kim not find the book?",
+      "options": [
+        "It was at Kim's house",
+        "It was on a very high shelf",
+        "Another student had it",
+        "The library was closed"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The book was on a very high shelf, so Mr Brown needed a ladder to get it.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The book was on a very high shelf."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"ladder\" means...",
+      "options": [
+        "a big box for books",
+        "a small computer",
+        "a long table",
+        "a thing with steps that you climb up"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Mr Brown used a ladder to climb up and get the book from the high shelf.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "He used a ladder and got the book for her."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "Why was Kim very sorry last month?",
+      "options": [
+        "She lost a book",
+        "She brought a book back late",
+        "She was loud in the library",
+        "She broke a computer"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Kim was late with a book, so she was very sorry.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Last month, she was late with a book. She was very sorry."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "When is the reading club?",
+      "options": [
+        "Every Tuesday",
+        "Every Monday",
+        "Every day",
+        "Every Friday"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Every Friday, there is a reading club in the library.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Every Friday, there is a reading club in the library."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What was the story about this week?",
+      "options": [
+        "A little robot",
+        "The moon",
+        "A big tiger",
+        "A school library"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "This week, they read a story about a little robot.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "This week, they read a story about a little robot."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What job does Kim want to do one day?",
+      "options": [
+        "Be a teacher",
+        "Fly to space",
+        "Work in a library",
+        "Build robots"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Kim wants to be a librarian, a person who works in a library.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "She wants to be a librarian one day."
+        }
+      ]
+    }
+  ]
+}

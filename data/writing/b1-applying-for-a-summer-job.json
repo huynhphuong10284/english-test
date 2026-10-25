@@ -1,0 +1,325 @@
+{
+  "id": "w-applying-for-a-summer-job",
+  "title": "Applying for a Summer Job",
+  "level": "B1 · Intermediate",
+  "description": "Practise the present perfect, relative clauses and formal phrases, then write an email applying for a job.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present perfect with since",
+      "prompt": "Choose the correct answer.",
+      "text": "I ___ in a cafe since last September.",
+      "options": [
+        "work",
+        "worked",
+        "have worked",
+        "was working"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "With \"since\" for a situation that started in the past and continues now, use the present perfect: I have worked."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Verb + to-infinitive",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "I would like ___ (apply) for the job of assistant at your summer camp.",
+      "answers": [
+        "to apply"
+      ],
+      "points": 1,
+      "explanation": "\"Would like\" is followed by the to-infinitive: I would like to apply."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Linking words: as well as",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "speak",
+        "I",
+        "French",
+        "English",
+        "as well as",
+        "can"
+      ],
+      "answers": [
+        "I can speak French as well as English.",
+        "I can speak English as well as French."
+      ],
+      "points": 1,
+      "explanation": "\"As well as\" means \"and also\" and links two nouns: French as well as English."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Present perfect vs past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Last summer I have helped at my uncle's restaurant.",
+      "answers": [
+        "Last summer I helped at my uncle's restaurant."
+      ],
+      "points": 1,
+      "explanation": "With a finished time like \"last summer\", use the past simple: I helped."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Relative clauses",
+      "prompt": "Choose the correct answer.",
+      "text": "I am a friendly person ___ enjoys working in a team.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"who\" for people in a relative clause: a person who enjoys ..."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "First conditional",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "If you ___ (offer) me the job, I will be able to start on 1 July.",
+      "answers": [
+        "offer"
+      ],
+      "points": 1,
+      "explanation": "In the first conditional, use the present simple after \"if\": If you offer me the job, I will ..."
+    },
+    {
+      "id": "e7",
+      "type": "error-correction",
+      "focus": "-ed and -ing adjectives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I am interesting in working with tourists.",
+      "answers": [
+        "I am interested in working with tourists.",
+        "I'm interested in working with tourists."
+      ],
+      "points": 1,
+      "explanation": "Use the -ed adjective for how a person feels: I am interested in. \"Interesting\" describes a thing."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Present perfect continuous",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word BEEN. Begin: \"I ...\"",
+      "text": "I started learning English six years ago.",
+      "keyword": "BEEN",
+      "answers": [
+        "I have been learning English for six years.",
+        "I've been learning English for six years."
+      ],
+      "points": 1,
+      "explanation": "An action that started in the past and is still happening uses the present perfect continuous + for: I have been learning English for six years."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Gerund after prepositions",
+      "prompt": "Choose the correct answer.",
+      "text": "I am good at ___ with children.",
+      "options": [
+        "work",
+        "working",
+        "to work",
+        "worked"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After a preposition such as \"at\", use the -ing form: good at working."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation: -able",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "I am very ___ (rely) and always arrive on time.",
+      "answers": [
+        "reliable"
+      ],
+      "points": 1,
+      "explanation": "We need an adjective after \"very\". Add -able to make adjectives: rely - reliable (y changes to i)."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Used to + phrasal verb",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "after",
+        "my",
+        "used",
+        "cousins",
+        "I",
+        "look",
+        "younger",
+        "to"
+      ],
+      "answers": [
+        "I used to look after my younger cousins."
+      ],
+      "points": 1,
+      "explanation": "Use \"used to + infinitive\" for past habits. \"Look after\" means to take care of."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Verb + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I would enjoy to work outdoors this summer.",
+      "answers": [
+        "I would enjoy working outdoors this summer."
+      ],
+      "points": 1,
+      "explanation": "\"Enjoy\" is followed by the -ing form, not the to-infinitive: enjoy working."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Linking words: in addition",
+      "prompt": "Choose the correct answer.",
+      "text": "I speak three languages. ___, I have a first aid certificate.",
+      "options": [
+        "However",
+        "Although",
+        "As a result",
+        "In addition"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"In addition\" adds another point of the same kind. \"However\" would show a contrast."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Modals: have to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word HAVE. Begin: \"Do I ...\"",
+      "text": "Is it necessary for me to send a photo?",
+      "keyword": "HAVE",
+      "answers": [
+        "Do I have to send a photo?"
+      ],
+      "points": 1,
+      "explanation": "Use \"have to\" to talk about obligation. In questions: Do I have to ...?"
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Phrasal verbs: find out",
+      "prompt": "Complete the sentence with one word.",
+      "text": "I saw your advert and would like to find ___ more about the job.",
+      "answers": [
+        "out"
+      ],
+      "points": 1,
+      "explanation": "\"Find out\" means to get information about something."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Second conditional",
+      "prompt": "Choose the correct answer.",
+      "text": "If I ___ the job, I would work hard every day.",
+      "options": [
+        "get",
+        "got",
+        "will get",
+        "have got"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "In the second conditional, use the past simple after \"if\" and \"would\" in the other part."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Relative clauses: where",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "very",
+        "I",
+        "where",
+        "busy",
+        "hotel",
+        "the",
+        "was",
+        "worked"
+      ],
+      "answers": [
+        "The hotel where I worked was very busy."
+      ],
+      "points": 1,
+      "explanation": "Use \"where\" after a place noun to add a clause: the hotel where I worked."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My English is more good now than last year.",
+      "answers": [
+        "My English is better now than last year.",
+        "My English is better now than it was last year."
+      ],
+      "points": 1,
+      "explanation": "\"Good\" has an irregular comparative: better (not \"more good\")."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Be able to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word ABLE. Begin: \"I will ...\"",
+      "text": "I can start work on 1 July.",
+      "keyword": "ABLE",
+      "answers": [
+        "I will be able to start work on 1 July."
+      ],
+      "points": 1,
+      "explanation": "\"Can\" has no future form, so use \"will be able to\" + infinitive."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Past simple passive",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word WAS. Begin: \"I ...\"",
+      "text": "My teacher gave me an award for volunteering.",
+      "keyword": "WAS",
+      "answers": [
+        "I was given an award for volunteering by my teacher.",
+        "I was given an award by my teacher for volunteering.",
+        "I was given an award for volunteering."
+      ],
+      "points": 1,
+      "explanation": "In the passive, the person who receives something can be the subject: I was given an award."
+    }
+  ],
+  "task": {
+    "genre": "Formal email",
+    "prompt": "You see this advertisement: \"Summer camp assistants wanted. We are looking for people aged 16-19 to help at our international summer camp in July and August. Good English is essential. Email Ms Carter and tell us why you would be good for the job.\" Write your email.",
+    "contentPoints": [
+      "Say which job you are applying for and where you saw it.",
+      "Describe your relevant experience and skills.",
+      "Explain why you want the job.",
+      "Say when you are available."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "Dear Ms Carter,",
+      "I am writing to apply for ...",
+      "I have experience of ...",
+      "I am the kind of person who ...",
+      "I would be grateful if you could ...",
+      "Yours sincerely,"
+    ],
+    "modelAnswer": "Dear Ms Carter,\n\nI am writing to apply for the job of assistant at your summer camp, which I saw advertised on your website.\n\nI am seventeen years old and I am a student at Riverside High School. I have been learning English for six years, and I can also speak a little Spanish. Last summer, I helped at a children's football club in my town, so I have experience of working with young people. I am a friendly and patient person who enjoys working in a team.\n\nI would like this job because I love meeting people from different countries. In addition, it would be a great chance to improve my English.\n\nI am available from 1 July until the end of August. I would be grateful if you could send me more information about the job.\n\nYours sincerely,\nLaura Mendes"
+  }
+}

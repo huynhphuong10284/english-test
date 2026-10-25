@@ -1,0 +1,439 @@
+{
+  "id": "going-to-the-beach",
+  "title": "Going to the Beach",
+  "level": "A1 · Beginner",
+  "description": "A boy spends a summer day at the beach with his parents.",
+  "instructions": "Read the text about a day at the beach, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "In July, Peter went to the beach with his parents. They went by car. The trip took two hours."
+    },
+    {
+      "id": "p2",
+      "text": "The sea was blue and the sand was hot. Peter swam in the sea with his dad. His mum sat under a big umbrella and read a book."
+    },
+    {
+      "id": "p3",
+      "text": "Later, Peter built a sandcastle. He found some pretty shells and put them on it. In the evening, they ate fish at a small restaurant near the sea."
+    },
+    {
+      "id": "p4",
+      "text": "After dinner, they walked on the beach. The sun went down and the sky was orange and pink. Peter took a photo of it with his mum's phone. The water was cold on his feet."
+    },
+    {
+      "id": "p5",
+      "text": "Then Peter saw a small crab on the sand. It was red and it walked sideways. Peter laughed. His dad said, 'Do not touch it. It can hurt your fingers.' So Peter only looked at it."
+    },
+    {
+      "id": "p6",
+      "text": "At nine o'clock, they drove home. Peter was very tired. He slept in the car for most of the trip. His dad drove and his mum sang quietly with the radio."
+    },
+    {
+      "id": "p7",
+      "text": "The next day, Peter put his shells in a glass jar on his desk. He showed the photo of the sky to his grandma. 'It was the best day of the summer,' he said. He wants to go back to the beach next year."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Peter's swimming lessons",
+        "A family day at the beach",
+        "A long trip by train",
+        "How to cook fish"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Peter and his parents spend a day at the beach.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "In July, Peter went to the beach with his parents."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How long was the trip to the beach?",
+      "options": [
+        "One hour",
+        "Three hours",
+        "Two hours",
+        "All day"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The trip took two hours.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "The trip took two hours."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What did Peter's mum do at the beach?",
+      "options": [
+        "She swam in the sea",
+        "She built a sandcastle",
+        "She looked for shells",
+        "She read a book under an umbrella"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "His mum sat under a big umbrella and read a book. Peter swam with his dad.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "His mum sat under a big umbrella and read a book."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"shells\" means...",
+      "options": [
+        "hard outside parts of small sea animals",
+        "small boats",
+        "toys made of sand",
+        "sun hats"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Shells\" are the hard outside parts of small sea animals. You can find them on the beach.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He found some pretty shells and put them on it."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What did the family eat in the evening?",
+      "options": [
+        "Pizza",
+        "Chicken",
+        "Fish",
+        "Soup"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They ate fish at a small restaurant near the sea.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "In the evening, they ate fish at a small restaurant near the sea."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "When did Peter go to the beach?",
+      "options": [
+        "In June",
+        "In August",
+        "In May",
+        "In July"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "In July, Peter went to the beach with his parents.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "In July, Peter went to the beach with his parents."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "How did the family travel to the beach?",
+      "options": [
+        "By car",
+        "By train",
+        "By bus",
+        "By plane"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They went by car.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They went by car."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Who did Peter swim with?",
+      "options": [
+        "His mum",
+        "His dad",
+        "His friend",
+        "His grandma"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Peter swam in the sea with his dad.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Peter swam in the sea with his dad."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What did Peter put on his sandcastle?",
+      "options": [
+        "Some flowers",
+        "Some small stones",
+        "A little flag",
+        "Some pretty shells"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He found some pretty shells and put them on the sandcastle.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He found some pretty shells and put them on it."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Where was the restaurant?",
+      "options": [
+        "Near the sea",
+        "In the town centre",
+        "Near their house",
+        "On a boat"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They ate at a small restaurant near the sea.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "In the evening, they ate fish at a small restaurant near the sea."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 4 mainly about?",
+      "options": [
+        "Swimming in the sea",
+        "A walk on the beach in the evening",
+        "Eating dinner",
+        "Driving home"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 4 is about the family's walk on the beach after dinner.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "After dinner, they walked on the beach."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What colour was the sky after dinner?",
+      "options": [
+        "Blue",
+        "Grey",
+        "Orange and pink",
+        "Black and white"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The sun went down and the sky was orange and pink.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "The sun went down and the sky was orange and pink."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 4, \"the sun went down\" means...",
+      "options": [
+        "the sun went lower and the evening started",
+        "the sun got very hot",
+        "the sun came up in the morning",
+        "the sun went behind a cloud"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After dinner, the sun went down at the end of the day and the evening started.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "The sun went down"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What colour was the crab?",
+      "options": [
+        "Orange",
+        "Brown",
+        "Red",
+        "Pink"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The crab was red.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It was red and it walked sideways."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"sideways\" means...",
+      "options": [
+        "very fast and straight ahead",
+        "to the left or right, not forward",
+        "up into the air",
+        "under the water"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A crab walks sideways: it moves to the side, not forward.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It was red and it walked sideways."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "Why did Peter's dad tell him not to touch the crab?",
+      "options": [
+        "It was sleeping",
+        "It was very dirty",
+        "It was Dad's pet",
+        "It can hurt Peter's fingers"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "His dad said the crab can hurt Peter's fingers.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "'Do not touch it. It can hurt your fingers.'"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What time did the family drive home?",
+      "options": [
+        "At eight o'clock",
+        "At nine o'clock",
+        "At ten o'clock",
+        "At seven o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "At nine o'clock, they drove home.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "At nine o'clock, they drove home."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "Why did Peter sleep in the car?",
+      "options": [
+        "The trip was boring",
+        "He was ill",
+        "The radio was too quiet",
+        "He was very tired"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Peter was very tired after the long day, so he slept in the car.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Peter was very tired. He slept in the car for most of the trip."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "Where did Peter put his shells the next day?",
+      "options": [
+        "In a glass jar on his desk",
+        "In a box under his bed",
+        "In his school bag",
+        "In the garden"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The next day, Peter put his shells in a glass jar on his desk.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "The next day, Peter put his shells in a glass jar on his desk."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "How does Peter feel about his day at the beach?",
+      "options": [
+        "He did not like it",
+        "He was scared all day",
+        "He loved it",
+        "He thinks it was boring"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Peter says it was the best day of the summer and he wants to go back.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "'It was the best day of the summer,' he said."
+        }
+      ]
+    }
+  ]
+}

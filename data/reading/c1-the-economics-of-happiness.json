@@ -1,0 +1,451 @@
+{
+  "id": "the-economics-of-happiness",
+  "title": "Can Money Buy Happiness?",
+  "level": "C1 · Advanced",
+  "description": "An article on what economists have learned about income, well-being and public policy.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "For much of the twentieth century, economic progress was measured almost exclusively in terms of output, most commonly gross domestic product. The underlying assumption was straightforward: as societies grew richer, their citizens would enjoy better lives. In recent decades, however, a growing number of economists have begun to study subjective well-being directly, asking people how satisfied they are with their lives and examining how their answers relate to income and other circumstances."
+    },
+    {
+      "id": "p2",
+      "text": "One of the earliest and most provocative findings was that, within a given country, richer people tend to report greater happiness than poorer people at any one time, yet average happiness appeared not to rise substantially as the country as a whole grew wealthier over the decades. This apparent contradiction, known as the Easterlin paradox after the economist who first drew attention to it, suggested that what matters may be not absolute income but income relative to that of others."
+    },
+    {
+      "id": "p3",
+      "text": "Subsequent research has complicated this picture. Using larger datasets covering many more countries, some economists have argued that life satisfaction does in fact rise with national income, although each additional unit of income appears to yield progressively smaller gains, particularly among those who are already well off. The debate continues, partly because measuring happiness is inherently difficult and partly because different measures, such as momentary mood and overall life evaluation, do not always respond to income in the same way."
+    },
+    {
+      "id": "p4",
+      "text": "What is less contested is that many non-material factors exert a powerful influence on well-being. Unemployment, for example, appears to reduce life satisfaction far more than the associated loss of income alone would predict, presumably because work provides a sense of purpose, structure and social connection. Health, close relationships and trust in one's community and institutions are likewise consistently associated with higher reported well-being."
+    },
+    {
+      "id": "p5",
+      "text": "These findings have prompted some governments to supplement traditional economic statistics with measures of well-being, in the hope that policy might be guided by what genuinely improves people's lives. Sceptics warn that happiness is too subjective and too easily influenced by culture and circumstance to serve as a reliable policy target. Even so, the research has helped to challenge the assumption that economic growth is an end in itself, rather than merely one means among several to a good life."
+    },
+    {
+      "id": "p6",
+      "text": "One reason growth may deliver less happiness than expected is the human capacity for adaptation. People tend to adjust quickly to improvements in their material circumstances, so that a larger house or a higher salary, which initially brings pleasure, soon comes to be taken for granted. Aspirations also tend to rise with income, meaning that the gap between what people have and what they want may narrow far less than their growing wealth would suggest. Interestingly, adaptation appears to be incomplete in some circumstances: people often do not fully adjust to long commutes, persistent noise or chronic pain, which suggests that such factors deserve more weight in policy than they have traditionally received. Psychologists sometimes describe the general pattern as a 'hedonic treadmill', on which people must keep moving simply to remain in the same place."
+    },
+    {
+      "id": "p7",
+      "text": "Research has also explored whether the way people use money matters as much as how much they have. Several studies suggest that spending on experiences, such as travel or shared activities, tends to produce more lasting satisfaction than spending on material possessions, perhaps because experiences become part of a person's identity and are often shared with others. Spending money on other people, whether through gifts or charitable donations, has likewise been associated with greater well-being than spending the same amount on oneself. Such findings should not be overstated, since the effects are typically modest and may vary between cultures, but they reinforce the broader conclusion that the relationship between money and happiness depends heavily on social context."
+    },
+    {
+      "id": "p8",
+      "text": "The well-being agenda also has implications for how societies think about inequality and sustainability. If relative income matters, then rising inequality may reduce overall well-being even when average incomes grow, since many people will find themselves falling further behind those at the top. Similarly, if the happiness gained from additional consumption is limited in wealthy countries, it may be possible to pursue environmental goals without the sacrifice in quality of life that is often feared. These are contested conclusions, and they depend on assumptions about measurement that remain open to debate. Nevertheless, by asking what people actually value rather than assuming that more is always better, the economics of happiness has opened up questions that a narrow focus on output tends to obscure."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best summarises the passage?",
+      "options": [
+        "Richer countries are always happier than poorer ones.",
+        "Money has no effect on happiness.",
+        "Governments have abandoned GDP as a measure of progress.",
+        "The relationship between income and happiness is complex, and well-being depends on more than economic growth."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The passage presents a continuing debate about income and happiness and stresses the importance of non-material factors.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Subsequent research has complicated this picture."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "rather than merely one means among several to a good life"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What did the Easterlin paradox describe?",
+      "options": [
+        "Poorer countries were happier than richer countries.",
+        "Happiness rose steadily with national income.",
+        "Richer individuals were happier, yet national happiness did not clearly rise as the country grew richer.",
+        "Happiness could not be measured at all."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The paradox is the contrast between the individual-level link and the lack of a national-level rise over time.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "richer people tend to report greater happiness than poorer people at any one time, yet average happiness appeared not to rise substantially"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "What does the Easterlin paradox imply about why income matters to people?",
+      "options": [
+        "People may judge their situation by comparing themselves with others.",
+        "People care only about their absolute wealth.",
+        "Income has no relationship with happiness.",
+        "Everyone becomes happier when everyone becomes richer."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "If relative income matters, people's satisfaction depends on how they compare with those around them.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "what matters may be not absolute income but income relative to that of others"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "According to paragraph 3, what happens to life satisfaction as income increases?",
+      "options": [
+        "It stops rising altogether.",
+        "Each additional unit of income brings smaller gains.",
+        "It rises fastest among the wealthy.",
+        "Mood and life evaluation always rise by the same amount."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The research suggests diminishing returns, especially for those already well off.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "each additional unit of income appears to yield progressively smaller gains"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention unemployment in paragraph 4?",
+      "options": [
+        "To argue that unemployment benefits should be increased",
+        "To show that income is the main cause of unhappiness",
+        "To illustrate that well-being is shaped by factors beyond income",
+        "To criticise governments for failing to create jobs"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Unemployment harms well-being more than the lost income would explain, showing the importance of non-material factors.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "many non-material factors exert a powerful influence on well-being"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "far more than the associated loss of income alone would predict"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"inherently\" is closest in meaning to:",
+      "options": [
+        "by its very nature",
+        "occasionally",
+        "deliberately",
+        "surprisingly"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Measuring happiness is difficult because of what happiness is, not because of particular circumstances.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "measuring happiness is inherently difficult"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"Sceptics\" refers to:",
+      "options": [
+        "people who support a policy",
+        "people who doubt a claim",
+        "people who measure happiness",
+        "people who are unhappy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The sceptics doubt whether happiness can serve as a reliable policy target.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Sceptics warn that happiness is too subjective"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What does the writer imply in the final sentence of the passage?",
+      "options": [
+        "Economic growth should be stopped.",
+        "Well-being research has been a failure.",
+        "Happiness should be the only goal of public policy.",
+        "Growth should be valued for what it contributes to people's lives, not for its own sake."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Describing growth as \"one means among several\" implies that it is valuable only as a route to a good life.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "the research has helped to challenge the assumption that economic growth is an end in itself"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 6 to 8?",
+      "options": [
+        "People never adapt to changes in their material circumstances.",
+        "Spending money on experiences guarantees lasting happiness.",
+        "Adaptation, the way money is spent and social comparison all limit how far income brings happiness, with implications for wider policy.",
+        "Reducing inequality is the only reliable way to raise well-being."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The final paragraphs discuss adaptation, spending patterns and the policy implications for inequality and sustainability.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "The well-being agenda also has implications for how societies think about inequality and sustainability."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, why may a higher salary bring less lasting happiness than expected?",
+      "options": [
+        "People soon adjust to it and begin to take it for granted.",
+        "Higher salaries usually come with longer working hours.",
+        "People tend to spend extra income on possessions.",
+        "Taxes reduce most of the value of the increase."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Initial pleasure fades as people adapt to their improved circumstances.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "which initially brings pleasure, soon comes to be taken for granted"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "According to paragraph 6, which circumstances do people often fail to adapt to fully?",
+      "options": [
+        "A larger house and a higher salary",
+        "Long commutes, persistent noise and chronic pain",
+        "Unemployment and poor physical health",
+        "Rising aspirations and growing inequality"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "These are given as examples of incomplete adaptation.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "people often do not fully adjust to long commutes, persistent noise or chronic pain"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What does paragraph 6 imply about the priorities of policymakers?",
+      "options": [
+        "They should focus mainly on raising salaries.",
+        "They have already given such problems sufficient weight.",
+        "They have little ability to influence commuting or noise.",
+        "Problems people do not adapt to, such as noise, may deserve more of their attention than in the past."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Because people do not get used to these conditions, the writer suggests they have been undervalued in policy.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "such factors deserve more weight in policy than they have traditionally received"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "purpose",
+      "text": "Why does the writer refer to a \"hedonic treadmill\"?",
+      "options": [
+        "To suggest that physical exercise increases happiness",
+        "To convey that people must keep gaining more simply to stay equally happy",
+        "To show that happiness declines steadily with age",
+        "To argue that people should work less and spend less"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The image captures how adaptation and rising aspirations cancel out gains.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "on which people must keep moving simply to remain in the same place"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"Aspirations\" is closest in meaning to:",
+      "options": [
+        "regrets",
+        "expenses",
+        "complaints",
+        "hopes and ambitions"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "What people want rises as their income rises.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Aspirations also tend to rise with income"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, why might experiences bring more lasting satisfaction than possessions?",
+      "options": [
+        "They usually cost less than material possessions.",
+        "They last physically longer than objects do.",
+        "They become part of a person's identity and are often shared with others.",
+        "They are not influenced by cultural differences."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The suggested reasons are identity and sharing.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "perhaps because experiences become part of a person's identity and are often shared with others"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What is the writer's attitude to research on spending and happiness?",
+      "options": [
+        "It supports the wider argument, but its effects are modest and should not be exaggerated.",
+        "It proves that giving money away always makes people happier.",
+        "It is too unreliable to be taken into account.",
+        "It shows that culture has little effect on well-being."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer warns against overstating the findings but says they reinforce the broader conclusion.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Such findings should not be overstated, since the effects are typically modest and may vary between cultures"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "According to paragraph 8, why might rising inequality reduce overall well-being even when average incomes grow?",
+      "options": [
+        "Average incomes always fall when inequality rises.",
+        "The wealthiest people become less happy as they grow richer.",
+        "Many people would fall further behind those at the top.",
+        "Inequality reduces trust in public institutions."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If relative income matters, falling behind others lowers well-being.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "since many people will find themselves falling further behind those at the top"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What does paragraph 8 suggest about environmental goals in wealthy countries?",
+      "options": [
+        "They might be pursued without a large loss in quality of life.",
+        "They will require major sacrifices in well-being.",
+        "They matter more than any form of economic growth.",
+        "They have already been met by reducing consumption."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "If extra consumption adds little happiness, consuming less may cost less well-being than feared.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "it may be possible to pursue environmental goals without the sacrifice in quality of life that is often feared"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"obscure\" is closest in meaning to:",
+      "options": [
+        "make clear",
+        "hide from view",
+        "exaggerate",
+        "simplify"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A narrow focus on output keeps these questions out of sight.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "questions that a narrow focus on output tends to obscure"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why does the writer state that \"These are contested conclusions\"?",
+      "options": [
+        "To reject the implications discussed earlier in the paragraph",
+        "To argue that happiness cannot be measured at all",
+        "To criticise governments that use well-being measures",
+        "To acknowledge uncertainty before making a more cautious final point"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer admits the conclusions are disputed, then claims only that the field has opened up important questions.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "These are contested conclusions, and they depend on assumptions about measurement that remain open to debate."
+        }
+      ]
+    }
+  ]
+}

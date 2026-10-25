@@ -1,0 +1,443 @@
+{
+  "id": "the-football-match",
+  "title": "The Football Match",
+  "level": "A1 · Beginner",
+  "description": "A boy plays in an exciting football match.",
+  "instructions": "Read the text about a football match, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "On Saturday, Carlos played in a football match. His team is called the Blue Stars. They played against the Red Lions."
+    },
+    {
+      "id": "p2",
+      "text": "The match started at ten o'clock. The Red Lions scored first. Then Carlos kicked the ball into the net. The score was one to one."
+    },
+    {
+      "id": "p3",
+      "text": "In the last minute, Carlos's friend Ali scored a goal. The Blue Stars won the match two to one. The players were very excited and they jumped up and down."
+    },
+    {
+      "id": "p4",
+      "text": "After the match, the coach, Mr Silva, talked to the team. He said, 'Well done, everyone! You played very well today.' Then he gave each player a bottle of cold water. The players sat on the grass and drank it."
+    },
+    {
+      "id": "p5",
+      "text": "Carlos's parents and his little sister watched the match. His sister had a blue flag. She waved it and shouted, 'Go, Blue Stars!' After the game, she gave Carlos a big hug."
+    },
+    {
+      "id": "p6",
+      "text": "The family went to a cafe for lunch. Carlos was very hungry. He ate a big burger and some chips. His dad said, 'You are a star, Carlos!' Carlos smiled, but he said, 'Ali is the star today!'"
+    },
+    {
+      "id": "p7",
+      "text": "The Blue Stars practise every Tuesday and Thursday after school. Their next match is in two weeks. They will play against the Green Tigers. The Green Tigers are a very good team. Carlos wants to score two goals next time."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Carlos's new shoes",
+        "A tennis lesson",
+        "A football match",
+        "Ali's birthday"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text is about a football match between the Blue Stars and the Red Lions.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "On Saturday, Carlos played in a football match."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Which team scored first?",
+      "options": [
+        "The Blue Stars",
+        "Carlos's school team",
+        "Ali's team",
+        "The Red Lions"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The Red Lions scored first.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The Red Lions scored first."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"excited\" means...",
+      "options": [
+        "very happy and full of energy",
+        "very sad",
+        "very sleepy",
+        "very angry"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Excited\" means very happy and full of energy. The players jumped up and down.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "The players were very excited and they jumped up and down."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What was the final score?",
+      "options": [
+        "One to one",
+        "Two to one",
+        "Two to two",
+        "Three to one"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The Blue Stars won the match two to one. One to one was the score in the middle of the match.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "The Blue Stars won the match two to one."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Who scored in the last minute?",
+      "options": [
+        "Carlos",
+        "The goalkeeper",
+        "Ali",
+        "A Red Lions player"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Carlos's friend Ali scored in the last minute.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "In the last minute, Carlos's friend Ali scored a goal."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "On which day did Carlos play in the football match?",
+      "options": [
+        "On Saturday",
+        "On Sunday",
+        "On Tuesday",
+        "On Thursday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "On Saturday, Carlos played in a football match.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "On Saturday, Carlos played in a football match."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What is the name of Carlos's team?",
+      "options": [
+        "The Red Lions",
+        "The Green Tigers",
+        "The Blue Lions",
+        "The Blue Stars"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "His team is called the Blue Stars.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "His team is called the Blue Stars."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What time did the match start?",
+      "options": [
+        "At nine o'clock",
+        "At ten o'clock",
+        "At eleven o'clock",
+        "At twelve o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The match started at ten o'clock.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The match started at ten o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Who scored the first goal for the Blue Stars?",
+      "options": [
+        "Carlos",
+        "Ali",
+        "Mr Silva",
+        "Carlos's sister"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Carlos kicked the ball into the net and the score was one to one.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Then Carlos kicked the ball into the net."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "Why were the players excited?",
+      "options": [
+        "They lost the match",
+        "The match was cancelled",
+        "They won the match",
+        "They got new shoes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The Blue Stars won the match two to one, so the players were excited.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "The Blue Stars won the match two to one."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "Who is Mr Silva?",
+      "options": [
+        "Carlos's dad",
+        "A Red Lions player",
+        "The cafe owner",
+        "The team's coach"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The coach, Mr Silva, talked to the team after the match.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "After the match, the coach, Mr Silva, talked to the team."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What did Mr Silva give each player?",
+      "options": [
+        "A blue flag",
+        "A bottle of cold water",
+        "A burger",
+        "A new ball"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He gave each player a bottle of cold water.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Then he gave each player a bottle of cold water."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "The coach's talk",
+        "Lunch at the cafe",
+        "Carlos's family watching the match",
+        "The next match"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 is about Carlos's parents and sister watching and cheering.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Carlos's parents and his little sister watched the match."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What colour was the sister's flag?",
+      "options": [
+        "Red",
+        "Green",
+        "White",
+        "Blue"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "His sister had a blue flag.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "His sister had a blue flag."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"waved\" means...",
+      "options": [
+        "threw it on the ground",
+        "moved it from side to side in the air",
+        "put it in a bag",
+        "cut it into pieces"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The sister waved her flag: she moved it from side to side to cheer for the team.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "She waved it and shouted, 'Go, Blue Stars!'"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "What did Carlos eat at the cafe?",
+      "options": [
+        "A big burger and some chips",
+        "A pizza",
+        "Fish and rice",
+        "A sandwich and soup"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He ate a big burger and some chips.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "He ate a big burger and some chips."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "Why does Carlos say that Ali is the star today?",
+      "options": [
+        "Ali is the coach",
+        "Ali bought lunch",
+        "Ali scored three goals",
+        "Ali scored the winning goal"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Ali scored the goal in the last minute and the Blue Stars won two to one.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "In the last minute, Carlos's friend Ali scored a goal."
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "'Ali is the star today!'"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"practise\" means...",
+      "options": [
+        "do something many times to get better",
+        "watch a match on TV",
+        "buy new football clothes",
+        "stop playing a sport"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The team practises after school twice a week to get better at football.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "The Blue Stars practise every Tuesday and Thursday after school."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "Which team will the Blue Stars play next?",
+      "options": [
+        "The Red Lions",
+        "The Blue Lions",
+        "The Green Tigers",
+        "The Red Stars"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They will play against the Green Tigers.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "They will play against the Green Tigers."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "When is the next match?",
+      "options": [
+        "Next Saturday",
+        "In two weeks",
+        "Next Tuesday",
+        "In one month"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Their next match is in two weeks.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Their next match is in two weeks."
+        }
+      ]
+    }
+  ]
+}

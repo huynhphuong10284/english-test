@@ -1,0 +1,321 @@
+{
+  "id": "w-my-favourite-day",
+  "title": "My Favourite Day",
+  "level": "A1 · Beginner",
+  "description": "Practise the present simple and linking words, and invite a friend to share your favourite day.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present simple: be",
+      "prompt": "Choose the correct word.",
+      "text": "My favourite day ___ Saturday.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"is\" with one thing: my favourite day is Saturday."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present simple: negative",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "On Saturdays I ___ (not / go) to school.",
+      "answers": [
+        "don't go",
+        "do not go"
+      ],
+      "points": 1,
+      "explanation": "With I, you, we and they, make the negative with don't (do not) + base verb: I don't go."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Linking words: because",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "like",
+        "I",
+        "Saturday",
+        "because",
+        "there is",
+        "no school"
+      ],
+      "answers": [
+        "I like Saturday because there is no school.",
+        "Because there is no school, I like Saturday."
+      ],
+      "points": 1,
+      "explanation": "\"Because\" gives the reason: I like Saturday because there is no school."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Present simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We goes to the park in the afternoon.",
+      "answers": [
+        "We go to the park in the afternoon."
+      ],
+      "points": 1,
+      "explanation": "With we, the verb has no -s: we go."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Like + -ing",
+      "prompt": "Choose the correct word.",
+      "text": "I love ___ pancakes with my dad.",
+      "options": [
+        "make",
+        "making",
+        "makes",
+        "made"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After love, like and hate, use the -ing form: I love making pancakes."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Linking words",
+      "prompt": "Complete the sentence with and, but or because.",
+      "text": "I like Sunday, ___ I don't like Sunday evening.",
+      "answers": [
+        "but"
+      ],
+      "points": 1,
+      "explanation": "\"But\" joins two opposite ideas: I like Sunday, but I don't like Sunday evening."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions of time: on",
+      "prompt": "Choose the correct word.",
+      "text": "I play football ___ Saturdays.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "to"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"on\" with days of the week: on Saturdays."
+    },
+    {
+      "id": "e8",
+      "type": "error-correction",
+      "focus": "Can",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I can to stay up late on Saturday.",
+      "answers": [
+        "I can stay up late on Saturday."
+      ],
+      "points": 1,
+      "explanation": "After \"can\", use the verb without \"to\": I can stay up."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Present simple: third person -s",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "On Saturdays my mum ___ (make) a big breakfast.",
+      "answers": [
+        "makes"
+      ],
+      "points": 1,
+      "explanation": "With he, she and it, add -s to the verb: my mum makes."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Like + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "with my family",
+        "watching films",
+        "I",
+        "like"
+      ],
+      "answers": [
+        "I like watching films with my family."
+      ],
+      "points": 1,
+      "explanation": "Like + verb-ing: I like watching films."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Possessive adjectives",
+      "prompt": "Choose the correct word.",
+      "text": "My brother plays with ___ friends.",
+      "options": [
+        "he",
+        "him",
+        "he's",
+        "his"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"his\" before a noun to show that something belongs to a boy or man: his friends."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "There is",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There are a big market in my town on Saturday.",
+      "answers": [
+        "There is a big market in my town on Saturday.",
+        "There's a big market in my town on Saturday."
+      ],
+      "points": 1,
+      "explanation": "Use \"there is\" (there's) with one thing: there is a market."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Articles: a",
+      "prompt": "Choose the correct word.",
+      "text": "We have ___ picnic in the park.",
+      "options": [
+        "an",
+        "any",
+        "a",
+        "much"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"a\" before a consonant sound: a picnic."
+    },
+    {
+      "id": "e14",
+      "type": "gap-fill",
+      "focus": "Present simple: be",
+      "prompt": "Write the correct form of be.",
+      "text": "My brothers ___ (be) at home on Sunday.",
+      "answers": [
+        "are"
+      ],
+      "points": 1,
+      "explanation": "Use \"are\" with plural nouns: my brothers are."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Have got",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "have",
+        "a lot of free time",
+        "we",
+        "got"
+      ],
+      "answers": [
+        "We have got a lot of free time.",
+        "Have we got a lot of free time?"
+      ],
+      "points": 1,
+      "explanation": "Subject + have got + noun: We have got a lot of free time."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Present simple: questions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Do your dad work on Saturday?",
+      "answers": [
+        "Does your dad work on Saturday?"
+      ],
+      "points": 1,
+      "explanation": "Use \"Does\" in questions with he, she and it: Does your dad work?"
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Linking words: so",
+      "prompt": "Choose the correct word.",
+      "text": "There is no school, ___ I can sleep late.",
+      "options": [
+        "because",
+        "or",
+        "but",
+        "so"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"so\" to give a result: there is no school, so I can sleep late."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Plurals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We watch two film in the evening.",
+      "answers": [
+        "We watch two films in the evening."
+      ],
+      "points": 1,
+      "explanation": "After a number bigger than one, add -s to the noun: two films."
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "meet",
+        "in the afternoon",
+        "can",
+        "my friends",
+        "I"
+      ],
+      "answers": [
+        "I can meet my friends in the afternoon.",
+        "In the afternoon I can meet my friends.",
+        "Can I meet my friends in the afternoon?"
+      ],
+      "points": 1,
+      "explanation": "Subject + can + verb: I can meet my friends."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Prepositions of time: at",
+      "prompt": "Write in, on or at.",
+      "text": "We have lunch ___ one o'clock.",
+      "answers": [
+        "at"
+      ],
+      "points": 1,
+      "explanation": "Use \"at\" with clock times: at one o'clock."
+    }
+  ],
+  "task": {
+    "genre": "Invitation",
+    "prompt": "Write a message to invite a friend to spend your favourite day with you.",
+    "contentPoints": [
+      "Say which day is your favourite and why.",
+      "Say what you do on that day.",
+      "Invite your friend and give a time and place to meet."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "Hi ...,",
+      "My favourite day is ... because ...",
+      "In the morning/afternoon we ...",
+      "Can you come ...?",
+      "Meet me at ..."
+    ],
+    "modelAnswer": "Hi Ana,\n\nSaturday is my favourite day because there is no school. In the morning I make pancakes with my dad. In the afternoon we go to the park. Can you come with us this Saturday? Meet me at my house at ten o'clock.\n\nBen"
+  }
+}

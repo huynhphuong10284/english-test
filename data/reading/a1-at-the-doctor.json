@@ -1,0 +1,443 @@
+{
+  "id": "at-the-doctor",
+  "title": "At the Doctor",
+  "level": "A1 · Beginner",
+  "description": "A girl feels ill and visits the doctor.",
+  "instructions": "Read the text about a visit to the doctor, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "On Monday, Emma felt ill. She had a bad cough and a sore throat. She did not go to school."
+    },
+    {
+      "id": "p2",
+      "text": "Her mum took her to the doctor. The doctor's name was Dr Khan. He looked in Emma's mouth and listened to her chest."
+    },
+    {
+      "id": "p3",
+      "text": "Dr Khan gave Emma some medicine. He said, 'Drink lots of water and rest in bed for three days.' On Thursday, Emma felt better."
+    },
+    {
+      "id": "p4",
+      "text": "For three days, Emma stayed in bed. Her mum made her hot soup with chicken and carrots. Emma drank lots of water and orange juice. She slept a lot, too. In the evening, her dad came home and read her a story."
+    },
+    {
+      "id": "p5",
+      "text": "Emma was bored in bed. She wanted to play with her friends. She read two books and watched some cartoons. Her grandma called her on the phone every evening. Her friend Ben sent her a funny card. It had a picture of a cat in bed."
+    },
+    {
+      "id": "p6",
+      "text": "Her cough was quiet now and her throat did not hurt. She was hungry again, so she ate a big breakfast of eggs and bread. In the afternoon, she played with her little brother in the garden."
+    },
+    {
+      "id": "p7",
+      "text": "On Friday, Emma went back to school. Her teacher, Mrs Hill, said, 'Welcome back, Emma!' Her friends were happy to see her. Emma said thank you to Ben for the card. She was very happy to be at school again."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Emma's first day at school",
+        "Emma is ill and visits the doctor",
+        "Dr Khan's family",
+        "A trip to a shop"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Emma feels ill, goes to the doctor and then gets better.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "On Monday, Emma felt ill."
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "Her mum took her to the doctor."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What was wrong with Emma?",
+      "options": [
+        "She had a bad cough and a sore throat",
+        "She had a broken arm",
+        "She had a stomach ache",
+        "She had a cut on her leg"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Emma had a bad cough and a sore throat.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She had a bad cough and a sore throat."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Who took Emma to the doctor?",
+      "options": [
+        "Her dad",
+        "Her grandma",
+        "Her mum",
+        "Her teacher"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her mum took her to the doctor.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Her mum took her to the doctor."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"rest\" means...",
+      "options": [
+        "run fast",
+        "eat a lot",
+        "play outside",
+        "relax and not do much"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Rest\" means relax and not do much, so your body can get better.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "rest in bed for three days"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "How many days did the doctor say Emma should stay in bed?",
+      "options": [
+        "Two",
+        "One",
+        "Three",
+        "Five"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dr Khan said to rest in bed for three days.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "rest in bed for three days"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "On which day did Emma feel ill?",
+      "options": [
+        "On Tuesday",
+        "On Monday",
+        "On Thursday",
+        "On Friday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "On Monday, Emma felt ill.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "On Monday, Emma felt ill."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "Why did Emma not go to school on Monday?",
+      "options": [
+        "It was a holiday",
+        "The school was closed",
+        "She was late",
+        "She was ill"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Emma had a bad cough and a sore throat, so she stayed at home.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She had a bad cough and a sore throat. She did not go to school."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What was the doctor's name?",
+      "options": [
+        "Dr Khan",
+        "Dr Hill",
+        "Dr Brown",
+        "Dr Ben"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The doctor's name was Dr Khan.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The doctor's name was Dr Khan."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What did the doctor look in?",
+      "options": [
+        "Emma's ears",
+        "Emma's eyes",
+        "Emma's mouth",
+        "Emma's bag"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He looked in Emma's mouth and listened to her chest.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He looked in Emma's mouth and listened to her chest."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did Dr Khan give Emma?",
+      "options": [
+        "A sticker",
+        "Some sweets",
+        "A book",
+        "Some medicine"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Dr Khan gave Emma some medicine.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Dr Khan gave Emma some medicine."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What was in the soup that Emma's mum made?",
+      "options": [
+        "Fish and potatoes",
+        "Chicken and carrots",
+        "Tomatoes and bread",
+        "Beans and rice"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her mum made her hot soup with chicken and carrots.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Her mum made her hot soup with chicken and carrots."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "Who read Emma a story in the evening?",
+      "options": [
+        "Her dad",
+        "Her mum",
+        "Her grandma",
+        "Her friend Ben"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "In the evening, her dad came home and read her a story.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "In the evening, her dad came home and read her a story."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"bored\" means...",
+      "options": [
+        "very happy and excited",
+        "very ill",
+        "very hungry",
+        "not interested because there is nothing fun to do"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Emma was in bed and wanted to play with her friends, so she was bored.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Emma was bored in bed. She wanted to play with her friends."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "What Emma did in bed when she was ill",
+        "Emma's first day back at school",
+        "Ben's new cat",
+        "How to make a card"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 5 tells us how Emma read, watched cartoons and got calls and a card while she was in bed.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "She read two books and watched some cartoons."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "What was the picture on Ben's card?",
+      "options": [
+        "A dog in the park",
+        "A doctor",
+        "A cat in bed",
+        "A big sun"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The card had a picture of a cat in bed.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It had a picture of a cat in bed."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, \"her throat did not hurt\" means her throat...",
+      "options": [
+        "was very cold",
+        "did not have any pain",
+        "was very red",
+        "was very long"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Hurt\" means to feel pain. Emma was better, so her throat had no pain.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Her cough was quiet now and her throat did not hurt."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "How do we know that Emma was better?",
+      "options": [
+        "She was hungry and ate a big breakfast",
+        "She went to the doctor again",
+        "She slept all day",
+        "She took more medicine"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Emma was hungry again and played in the garden, so she was better.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "She was hungry again, so she ate a big breakfast of eggs and bread."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "When did Emma go back to school?",
+      "options": [
+        "On Thursday",
+        "On Monday",
+        "On Friday",
+        "On Wednesday"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "On Friday, Emma went back to school.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "On Friday, Emma went back to school."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What is the name of Emma's teacher?",
+      "options": [
+        "Dr Khan",
+        "Mrs Khan",
+        "Miss Ben",
+        "Mrs Hill"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Her teacher is Mrs Hill.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Her teacher, Mrs Hill, said, 'Welcome back, Emma!'"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is paragraph 7 mainly about?",
+      "options": [
+        "Emma visits the doctor again",
+        "Emma goes back to school",
+        "Emma meets a new friend",
+        "Emma stays in bed"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 7 is about Emma's happy return to school on Friday.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "She was very happy to be at school again."
+        }
+      ]
+    }
+  ]
+}

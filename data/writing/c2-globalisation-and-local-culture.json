@@ -1,0 +1,323 @@
+{
+  "id": "w-globalisation-and-local-culture",
+  "title": "Globalisation and Local Culture",
+  "level": "C2 · Proficiency",
+  "description": "Practise the subjunctive, passive reporting and inversion, then write a proposal for a project to protect local culture.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Idiomatic collocations",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "A community festival could ___ a vital role in reviving traditional crafts.",
+      "options": [
+        "make",
+        "do",
+        "take",
+        "play"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The collocation is \"play a role / part in something\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Subjunctive",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "We request that the committee ___ (allocate) funding for a second year.",
+      "answers": [
+        "allocate"
+      ],
+      "points": 1,
+      "explanation": "After \"request that\", formal English uses the base form for every subject: we request that the committee allocate (not allocates)."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Hedging",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "it",
+        "fair",
+        "to say",
+        "would be",
+        "that",
+        "is fading",
+        "local identity"
+      ],
+      "answers": [
+        "It would be fair to say that local identity is fading."
+      ],
+      "points": 1,
+      "explanation": "\"It would be fair to say that ...\" presents a claim as reasonable while avoiding sounding too absolute."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Idiomatic collocations",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Globalisation is a double-edged knife.",
+      "answers": [
+        "Globalisation is a double-edged sword.",
+        "Globalization is a double-edged sword."
+      ],
+      "points": 1,
+      "explanation": "The idiom is \"a double-edged sword\": something that has both advantages and disadvantages."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Not only ...\".",
+      "text": "Local traditions are not only fading; they are being replaced.",
+      "keyword": "only",
+      "answers": [
+        "Not only are local traditions fading; they are being replaced.",
+        "Not only are local traditions fading, but they are being replaced.",
+        "Not only are local traditions fading, but they are also being replaced.",
+        "Not only are local traditions fading, they are also being replaced.",
+        "Not only are local traditions fading but are also being replaced."
+      ],
+      "points": 1,
+      "explanation": "With \"not only\" at the start of a sentence, put the auxiliary before the subject: not only are local traditions fading ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Passive reporting structures",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The dialect ...\".",
+      "text": "People believe that the dialect originated in the twelfth century.",
+      "keyword": "believed",
+      "answers": [
+        "The dialect is believed to have originated in the twelfth century."
+      ],
+      "points": 1,
+      "explanation": "Use \"subject + is believed + to have + past participle\" for an earlier action reported impersonally."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The project ...\".",
+      "text": "The project would help to revive interest in traditional crafts.",
+      "keyword": "breathe",
+      "answers": [
+        "The project would help to breathe new life into traditional crafts.",
+        "The project would help breathe new life into traditional crafts.",
+        "The project would breathe new life into traditional crafts."
+      ],
+      "points": 1,
+      "explanation": "\"Breathe new life into something\" means to make it active, popular or interesting again."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Substitution",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "We hope the council will support this project, as it ___ similar schemes in the past.",
+      "answers": [
+        "has",
+        "did",
+        "has done"
+      ],
+      "points": 1,
+      "explanation": "An auxiliary can replace a repeated verb phrase: as it has (supported) similar schemes. \"Has done\" is also possible in British English."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Younger residents are increasingly ___ to the traditions their grandparents took for granted.",
+      "options": [
+        "oblivious",
+        "unaware",
+        "ignorant",
+        "unconscious"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Oblivious\" can be followed by \"to\" or \"of\". \"Unaware\", \"ignorant\" and \"unconscious\" all take \"of\", so they cannot be used with \"to\"."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Critics warn of the cultural ___ (homogeneous) brought about by global media.",
+      "answers": [
+        "homogenisation",
+        "homogenization"
+      ],
+      "points": 1,
+      "explanation": "From the adjective \"homogeneous\" we form the verb \"homogenise\" and the noun \"homogenisation\": the process of making things the same."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Noun + preposition",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The project aims to raise awareness for the region's endangered crafts.",
+      "answers": [
+        "The project aims to raise awareness of the region's endangered crafts.",
+        "The project aims to raise awareness about the region's endangered crafts."
+      ],
+      "points": 1,
+      "explanation": "We \"raise awareness of\" (or \"about\") an issue, not \"for\" it."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The local dialect is ...\".",
+      "text": "The local dialect will very soon disappear completely.",
+      "keyword": "verge",
+      "answers": [
+        "The local dialect is on the verge of disappearing completely.",
+        "The local dialect is on the verge of disappearing altogether.",
+        "The local dialect is on the verge of complete disappearance."
+      ],
+      "points": 1,
+      "explanation": "\"On the verge of + noun / -ing\" means very close to something happening."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The festival would, in ___, attract visitors from across the region.",
+      "options": [
+        "all chances",
+        "all likelihood",
+        "every likelihood",
+        "all possibility"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"In all likelihood\" (or \"in all probability\") means \"very probably\". We say \"there is every likelihood\", but not \"in every likelihood\"."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Cleft sentences",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "that",
+        "it is",
+        "we",
+        "the young",
+        "most urgently",
+        "need to reach"
+      ],
+      "answers": [
+        "It is the young that we most urgently need to reach.",
+        "It is the young that we need to reach most urgently."
+      ],
+      "points": 1,
+      "explanation": "An \"it is ... that\" cleft sentence puts the focus on one element, here \"the young\"."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The workshops would be free of charge, ensuring that cost is not a prohibitively factor.",
+      "answers": [
+        "The workshops would be free of charge, ensuring that cost is not a prohibitive factor."
+      ],
+      "points": 1,
+      "explanation": "A noun (\"factor\") needs an adjective, \"prohibitive\", not the adverb \"prohibitively\", which modifies adjectives (prohibitively expensive)."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Global brands are thriving ...\".",
+      "text": "Global brands are thriving, and local businesses are suffering as a result.",
+      "keyword": "expense",
+      "answers": [
+        "Global brands are thriving at the expense of local businesses."
+      ],
+      "points": 1,
+      "explanation": "If one thing happens \"at the expense of\" another, it succeeds while causing the other to suffer."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Formal register",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "We would ___ the opportunity to discuss this proposal in more detail.",
+      "options": [
+        "greet",
+        "salute",
+        "welcome",
+        "hail"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"We would welcome the opportunity to ...\" is a standard polite formula at the end of a formal proposal or letter."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Phrasal verbs",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Without intervention, these crafts could die ___ within a generation. (one word, beginning with O)",
+      "answers": [
+        "out"
+      ],
+      "points": 1,
+      "explanation": "To \"die out\" means to become less common and finally disappear, as with traditions, languages and species."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Many young people have ...\".",
+      "text": "Many young people no longer have any connection with their heritage.",
+      "keyword": "touch",
+      "answers": [
+        "Many young people have lost touch with their heritage.",
+        "Many young people have completely lost touch with their heritage."
+      ],
+      "points": 1,
+      "explanation": "To \"lose touch with\" something means to stop having contact with it or knowledge of it."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Inversion with \"hardly\"",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Hardly had the factory closed than the town lost its last weaving workshop.",
+      "answers": [
+        "Hardly had the factory closed when the town lost its last weaving workshop.",
+        "Hardly had the factory closed before the town lost its last weaving workshop."
+      ],
+      "points": 1,
+      "explanation": "\"Hardly\" and \"scarcely\" are followed by \"when\" (or \"before\"); \"than\" is used only after \"no sooner\"."
+    }
+  ],
+  "task": {
+    "genre": "Proposal",
+    "prompt": "A regional arts fund is inviting proposals for projects that protect local culture in an age of globalisation. Write a proposal for a project in your area.",
+    "contentPoints": [
+      "Explain how globalisation is affecting local culture in your area.",
+      "Describe the project you are proposing and its main activities.",
+      "Explain who would benefit and how.",
+      "State what support you need and how success would be measured."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "It would be fair to say that ...",
+      "Not only ... but ...",
+      "is believed to have ...",
+      "breathe new life into ...",
+      "We request that the committee ...",
+      "play a vital role in ..."
+    ],
+    "modelAnswer": "Introduction\nThis proposal seeks funding for \"Living Heritage\", a year-long programme designed to protect and celebrate the distinctive culture of the Vale district at a time when global influences are reshaping everyday life.\n\nBackground\nGlobalisation is, of course, a double-edged sword. It has brought our region new jobs, foods and ideas, and few residents would wish to reverse it. Nevertheless, it would be fair to say that local identity is fading. Independent shops have given way to international chains, and young people increasingly share the tastes of their peers worldwide rather than those of their grandparents. Not only are local traditions disappearing; in many cases they are being replaced by standardised versions of culture. The Vale dialect, which is believed to have originated in the twelfth century, is now spoken fluently by fewer than two hundred people.\n\nThe project\nWe propose three linked activities. Firstly, a series of weekend workshops in which older craftspeople would teach weaving, woodcarving and traditional cooking to younger residents. Secondly, an oral history archive, recording elderly speakers of the dialect and making the recordings freely available online. Thirdly, a two-day festival in the autumn, showcasing local music, food and crafts alongside contemporary artists who draw on these traditions.\n\nBenefits\nThe project would help to breathe new life into skills that are at risk of disappearing, while giving young people a sense of pride in where they come from. Local businesses would also benefit from the visitors the festival attracts. Crucially, the aim is not to preserve culture in a museum, but to show that it can adapt and remain relevant.\n\nSupport and evaluation\nWe request that the committee allocate funding for workshop materials, recording equipment and festival costs. Success would be measured by workshop attendance, the number of recordings archived and visitor feedback. We hope the council will also support this project, as it has similar schemes in the past."
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "id": "w-a-message-to-a-friend",
+  "title": "A Message to a Friend",
+  "level": "A1 · Beginner",
+  "description": "Practise can, be and have got, and write a short message to a friend.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Can: questions",
+      "prompt": "Choose the correct word.",
+      "text": "___ you come to my house after school?",
+      "options": [
+        "Have",
+        "Are",
+        "Can",
+        "Is"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"Can you + base verb?\" to ask if someone is able to do something: Can you come?"
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present simple: be (negative)",
+      "prompt": "Write the negative form of the verb in brackets.",
+      "text": "I ___ (not / be) at home this afternoon.",
+      "answers": [
+        "am not",
+        "'m not"
+      ],
+      "points": 1,
+      "explanation": "The negative of \"I am\" is \"I am not\" (I'm not)."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "can",
+        "at four o'clock",
+        "meet",
+        "we"
+      ],
+      "answers": [
+        "We can meet at four o'clock.",
+        "At four o'clock we can meet.",
+        "Can we meet at four o'clock?"
+      ],
+      "points": 1,
+      "explanation": "Subject + can + base verb + time: We can meet at four o'clock."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Present simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Have you got my book? I needs it for school.",
+      "answers": [
+        "Have you got my book? I need it for school."
+      ],
+      "points": 1,
+      "explanation": "With I, the verb has no -s: I need."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the best word to join the ideas.",
+      "text": "I can't come to football ___ I am ill.",
+      "options": [
+        "because",
+        "but",
+        "and",
+        "or"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Because\" gives the reason: I can't come because I am ill."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Have got: questions",
+      "prompt": "Write one word to complete the question.",
+      "text": "___ you got a pen for me?",
+      "answers": [
+        "Have"
+      ],
+      "points": 1,
+      "explanation": "Make questions with have got like this: Have you got ...?"
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions of time: on",
+      "prompt": "Choose the correct word.",
+      "text": "My football match is ___ Friday.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"on\" with days of the week: on Friday."
+    },
+    {
+      "id": "e8",
+      "type": "error-correction",
+      "focus": "Plurals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I have got two new comic for you.",
+      "answers": [
+        "I have got two new comics for you."
+      ],
+      "points": 1,
+      "explanation": "After a number bigger than one, add -s to the noun: two comics."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Present simple: be",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "my phone number",
+        "this",
+        "is"
+      ],
+      "answers": [
+        "This is my phone number.",
+        "Is this my phone number?"
+      ],
+      "points": 1,
+      "explanation": "This + is + noun: This is my phone number."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Possessive adjectives",
+      "prompt": "Complete with my, his, her, our or their.",
+      "text": "Tom and Sara are at ___ grandmother's house today.",
+      "answers": [
+        "their"
+      ],
+      "points": 1,
+      "explanation": "Use \"their\" for something that belongs to two or more people (they): their grandmother."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Have got: he / she / it",
+      "prompt": "Choose the correct word.",
+      "text": "My sister ___ got a new phone.",
+      "options": [
+        "have",
+        "is",
+        "does",
+        "has"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"has got\" with he, she and it: my sister has got."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Present simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We is at the park now.",
+      "answers": [
+        "We are at the park now."
+      ],
+      "points": 1,
+      "explanation": "Use \"are\" with we, you and they: we are."
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Articles: a / an",
+      "prompt": "Write a or an.",
+      "text": "Can you bring ___ apple for me?",
+      "answers": [
+        "an"
+      ],
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound: an apple."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Prepositions of place",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "at",
+        "me",
+        "the park",
+        "meet"
+      ],
+      "answers": [
+        "Meet me at the park."
+      ],
+      "points": 1,
+      "explanation": "Use \"at\" for a meeting place: meet me at the park."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Linking words: but",
+      "prompt": "Choose the correct word.",
+      "text": "I can come on Saturday, ___ I can't come on Sunday.",
+      "options": [
+        "but",
+        "and",
+        "because",
+        "so"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"but\" to join two different or opposite ideas."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Present simple: questions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Do your brother want to come?",
+      "answers": [
+        "Does your brother want to come?"
+      ],
+      "points": 1,
+      "explanation": "Use \"does\" in questions with he, she and it: Does your brother want ...?"
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Possessive 's",
+      "prompt": "Choose the correct word.",
+      "text": "This is ___ book. Can you give it to her?",
+      "options": [
+        "Annas",
+        "Anna",
+        "Annas'",
+        "Anna's"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Add 's to a name to show that something belongs to that person: Anna's book."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Can",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Can you to help me with my homework?",
+      "answers": [
+        "Can you help me with my homework?"
+      ],
+      "points": 1,
+      "explanation": "After \"can\", use the verb without \"to\": Can you help me?"
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Like + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "swimming",
+        "my brother",
+        "likes"
+      ],
+      "answers": [
+        "My brother likes swimming."
+      ],
+      "points": 1,
+      "explanation": "Like + verb-ing, and add -s for he/she: my brother likes swimming."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Present simple: negative",
+      "prompt": "Complete with the negative form of the verb in brackets.",
+      "text": "I ___ (not / have) your phone number.",
+      "answers": [
+        "don't have",
+        "do not have"
+      ],
+      "points": 1,
+      "explanation": "Make the present simple negative with I + don't (do not) + verb: I don't have."
+    }
+  ],
+  "task": {
+    "genre": "Short message",
+    "prompt": "You can't meet your friend today. Write a message to your friend.",
+    "contentPoints": [
+      "Say sorry that you can't meet today.",
+      "Say why you can't come.",
+      "Suggest another day and time to meet.",
+      "Ask your friend a question."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "Hi ...,",
+      "I'm sorry, but I can't ...",
+      "... because ...",
+      "Can we meet on ... at ...?",
+      "Is that OK?"
+    ],
+    "modelAnswer": "Hi Leo,\n\nI'm sorry, but I can't come to the park today because I have a cold. Can we meet on Saturday at ten o'clock? We can play football and then go to my house. Is that OK?\n\nTom"
+  }
+}

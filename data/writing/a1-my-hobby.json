@@ -1,0 +1,322 @@
+{
+  "id": "w-my-hobby",
+  "title": "My Hobby",
+  "level": "A1 · Beginner",
+  "description": "Practise like + -ing and can, and write a short message about your hobby.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Like + -ing",
+      "prompt": "Choose the correct word.",
+      "text": "I like ___ pictures of animals.",
+      "options": [
+        "draw",
+        "drawing",
+        "draws",
+        "drew"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After like, use the -ing form: I like drawing."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present simple: questions",
+      "prompt": "Write one word to complete the question.",
+      "text": "___ your brother like music? Yes, he does.",
+      "answers": [
+        "Does"
+      ],
+      "points": 1,
+      "explanation": "Make present simple questions with he, she or it using Does + subject + base verb: Does your brother like ...?"
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Word order: time phrases",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "I",
+        "football",
+        "with",
+        "play",
+        "my friends",
+        "on Saturdays"
+      ],
+      "answers": [
+        "I play football with my friends on Saturdays.",
+        "On Saturdays I play football with my friends."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + object + who with + time: I play football with my friends on Saturdays."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Can",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "She can plays the piano very well.",
+      "answers": [
+        "She can play the piano very well."
+      ],
+      "points": 1,
+      "explanation": "After can, use the base verb with no -s: she can play."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Can / can't",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ play chess, but I can't play tennis.",
+      "options": [
+        "am",
+        "does",
+        "can't",
+        "can"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"But\" shows the two ideas are opposite, so the first one is positive: I can play chess, but I can't play tennis."
+    },
+    {
+      "id": "e6",
+      "type": "error-correction",
+      "focus": "Present simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My hobby are reading comics.",
+      "answers": [
+        "My hobby is reading comics.",
+        "My hobby's reading comics.",
+        "My hobbies are reading comics."
+      ],
+      "points": 1,
+      "explanation": "One hobby is singular, so use \"is\": my hobby is."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Have got",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ got a new guitar.",
+      "options": [
+        "has",
+        "am",
+        "have",
+        "do"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"have got\" with I, you, we and they: I have got."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Present simple: third person -s",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "My sister ___ (play) the violin.",
+      "answers": [
+        "plays"
+      ],
+      "points": 1,
+      "explanation": "With he, she and it, add -s to the verb: she plays."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Like + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I love swim in the sea.",
+      "answers": [
+        "I love swimming in the sea.",
+        "I love to swim in the sea."
+      ],
+      "points": 1,
+      "explanation": "After love and like, use verb-ing (or to + verb): I love swimming."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "run",
+        "my brother",
+        "very fast",
+        "can"
+      ],
+      "answers": [
+        "My brother can run very fast.",
+        "Can my brother run very fast?"
+      ],
+      "points": 1,
+      "explanation": "Subject + can + verb: My brother can run very fast."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Prepositions of time: on",
+      "prompt": "Choose the correct word.",
+      "text": "I go to dance class ___ Tuesday.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"on\" with days of the week: on Tuesday."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Articles: a / an",
+      "prompt": "Write a or an.",
+      "text": "I like taking photos. I have got ___ old camera.",
+      "answers": [
+        "an"
+      ],
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound: an old camera."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Linking words: or",
+      "prompt": "Choose the correct word.",
+      "text": "Do you like reading ___ watching TV?",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "or"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"or\" in questions to give a choice."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Possessive adjectives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Jack plays football with he friends.",
+      "answers": [
+        "Jack plays football with his friends."
+      ],
+      "points": 1,
+      "explanation": "Use \"his\" (not \"he\") before a noun to show that something belongs to a boy or man."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Like + -ing: negative",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "dancing",
+        "doesn't",
+        "my dad",
+        "like"
+      ],
+      "answers": [
+        "My dad doesn't like dancing."
+      ],
+      "points": 1,
+      "explanation": "Subject + doesn't like + verb-ing: My dad doesn't like dancing."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Plurals: -es",
+      "prompt": "Write the plural of the word in brackets.",
+      "text": "I have got three ___ (box) of old comics.",
+      "answers": [
+        "boxes"
+      ],
+      "points": 1,
+      "explanation": "Nouns ending in -x take -es in the plural: boxes."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "There is",
+      "prompt": "Choose the correct word.",
+      "text": "There ___ a chess club at my school.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"there is\" with one thing: there is a chess club."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Present simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My friends is in the drama club.",
+      "answers": [
+        "My friends are in the drama club.",
+        "My friend is in the drama club."
+      ],
+      "points": 1,
+      "explanation": "Use \"are\" with plural nouns (my friends) and \"is\" with one person (my friend)."
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Prepositions of place",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "my guitar",
+        "I",
+        "in my room",
+        "play"
+      ],
+      "answers": [
+        "I play my guitar in my room.",
+        "In my room I play my guitar."
+      ],
+      "points": 1,
+      "explanation": "Use \"in\" for a room: in my room."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Can: questions",
+      "prompt": "Complete the question.",
+      "text": "___ you swim? Yes, I can.",
+      "answers": [
+        "Can"
+      ],
+      "points": 1,
+      "explanation": "Ask about ability with \"Can\" + subject + verb: Can you swim?"
+    }
+  ],
+  "task": {
+    "genre": "Short message",
+    "prompt": "You are in a new English club. Write a message to the club about your hobby.",
+    "contentPoints": [
+      "Say your name and your hobby.",
+      "Say when and where you do it.",
+      "Say why you like it.",
+      "Ask the club members a question."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "Hello everyone,",
+      "My name is ... and my hobby is ...",
+      "I ... every day / at the weekend.",
+      "I like it because ...",
+      "Can you ...?"
+    ],
+    "modelAnswer": "Hello everyone,\n\nMy name is Nam and my hobby is drawing. I draw every day after school in my bedroom. I like drawing animals and cartoons. I like it because it is fun and relaxing. Can you draw too?\n\nNam"
+  }
+}

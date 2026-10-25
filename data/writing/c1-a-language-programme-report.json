@@ -1,0 +1,328 @@
+{
+  "id": "w-a-language-programme-report",
+  "title": "A Language Programme Report",
+  "level": "C1 · Advanced",
+  "description": "Practise hedging, advanced passives and cleft sentences, then write a report evaluating a workplace language course.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Attendance ___ to have dropped after the first month.",
+      "options": [
+        "seem",
+        "is seeming",
+        "seems",
+        "seemed being"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Seems to have + past participle\" cautiously reports a past change. \"Attendance\" is singular, so use \"seems\"."
+    },
+    {
+      "id": "e2",
+      "type": "transformation",
+      "focus": "Advanced passives",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Participants ___ the timetable changes.\"",
+      "text": "Someone should have told participants about the timetable changes.",
+      "keyword": "INFORMED",
+      "answers": [
+        "Participants should have been informed about the timetable changes.",
+        "Participants should have been informed of the timetable changes."
+      ],
+      "points": 1,
+      "explanation": "The passive of \"should have + past participle\" is \"should have been + past participle\": should have been informed."
+    },
+    {
+      "id": "e3",
+      "type": "gap-fill",
+      "focus": "Concession",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "The programme was a success; ___ (n), several changes are needed.",
+      "answers": [
+        "nevertheless",
+        "nonetheless"
+      ],
+      "points": 1,
+      "explanation": "\"Nevertheless\" and \"nonetheless\" introduce a contrast, meaning \"despite this\"."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Inversion with \"Only after\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "improve",
+        "term",
+        "only",
+        "learners",
+        "after",
+        "did",
+        "second",
+        "significantly",
+        "the"
+      ],
+      "answers": [
+        "Only after the second term did learners improve significantly."
+      ],
+      "points": 1,
+      "explanation": "After \"Only after + time phrase\" at the start of a sentence, invert the auxiliary and subject: did learners improve."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Nominalisation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The introduce of online lessons increased participation.",
+      "answers": [
+        "The introduction of online lessons increased participation."
+      ],
+      "points": 1,
+      "explanation": "The subject needs a noun, so \"introduce\" becomes \"introduction\"."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The course met the needs of most participants, but it ___ short of expectations in one area.",
+      "options": [
+        "fell",
+        "came",
+        "went",
+        "dropped"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Fall short of expectations\" is a fixed expression meaning to be less good than expected."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Cleft sentences",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"It was the lack of speaking practice ___.\"",
+      "text": "Learners were most frustrated by the lack of speaking practice.",
+      "keyword": "THAT",
+      "answers": [
+        "It was the lack of speaking practice that frustrated learners most.",
+        "It was the lack of speaking practice that frustrated learners the most.",
+        "It was the lack of speaking practice that most frustrated learners.",
+        "It was the lack of speaking practice that frustrated the learners most.",
+        "It was the lack of speaking practice that frustrated the learners the most.",
+        "It was the lack of speaking practice that most frustrated the learners."
+      ],
+      "points": 1,
+      "explanation": "An \"it\" cleft (It was + focus + that + clause) emphasises the cause, here \"the lack of speaking practice\"."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Advanced passives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "It ___ (recommend) that the course be extended to sixteen weeks.",
+      "answers": [
+        "is recommended",
+        "has been recommended"
+      ],
+      "points": 1,
+      "explanation": "The impersonal passive \"It is recommended that ...\" is typical of formal reports and is often followed by a base-form verb (be extended)."
+    },
+    {
+      "id": "e9",
+      "type": "transformation",
+      "focus": "Cause linkers",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ budget, only twenty places were offered.\"",
+      "text": "Because the budget was limited, only twenty places were offered.",
+      "keyword": "OWING",
+      "answers": [
+        "Owing to the limited budget, only twenty places were offered.",
+        "Owing to a limited budget, only twenty places were offered."
+      ],
+      "points": 1,
+      "explanation": "\"Owing to\" is a formal linker followed by a noun phrase, so \"the budget was limited\" becomes \"the limited budget\"."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Participants were highly appreciative ___ the tutor's flexibility.",
+      "options": [
+        "about",
+        "of",
+        "for",
+        "with"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The adjective \"appreciative\" is followed by \"of\": appreciative of someone's help."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Conditional inversion",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "had",
+        "the classes",
+        "in the morning",
+        "been held",
+        "would have attended",
+        "more staff"
+      ],
+      "answers": [
+        "Had the classes been held in the morning, more staff would have attended.",
+        "More staff would have attended had the classes been held in the morning."
+      ],
+      "points": 1,
+      "explanation": "In a formal third conditional, \"If\" can be dropped and \"had\" moved before the subject: Had the classes been held ..."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The course was ___ (tailor) to the needs of the sales team.",
+      "answers": [
+        "tailored"
+      ],
+      "points": 1,
+      "explanation": "\"Tailored to\" means specially designed for a particular person or group; here it is a passive past participle."
+    },
+    {
+      "id": "e13",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Several learners benefited greatly of the one-to-one sessions.",
+      "answers": [
+        "Several learners benefited greatly from the one-to-one sessions."
+      ],
+      "points": 1,
+      "explanation": "The verb \"benefit\" is followed by \"from\": benefit from something."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Cleft sentences with \"It was not until\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"It ___ that learners began to speak confidently.\"",
+      "text": "Learners only began to speak confidently in the final month.",
+      "keyword": "UNTIL",
+      "answers": [
+        "It was not until the final month that learners began to speak confidently."
+      ],
+      "points": 1,
+      "explanation": "\"It was not until + time + that ...\" emphasises how late something happened."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Inversion after \"Not only\"",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Not only the course improved confidence, but it also boosted productivity.",
+      "answers": [
+        "Not only did the course improve confidence, but it also boosted productivity.",
+        "The course not only improved confidence, but it also boosted productivity."
+      ],
+      "points": 1,
+      "explanation": "When a sentence begins with \"Not only\", the auxiliary must come before the subject: Not only did the course improve ..."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Hedging",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "Attendance was low, ___ (l) because sessions clashed with sales meetings.",
+      "answers": [
+        "largely",
+        "likely"
+      ],
+      "points": 1,
+      "explanation": "\"Largely because\" (mainly because) or \"likely because\" (probably because) give a cautious explanation instead of a single certain cause."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "___ every participant said they would recommend the course.",
+      "options": [
+        "Most",
+        "Nearly all of",
+        "The majority",
+        "Virtually"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Virtually every\" means \"almost every\"; \"most\", \"nearly all of\" and \"the majority\" cannot be followed directly by \"every\"."
+    },
+    {
+      "id": "e18",
+      "type": "word-order",
+      "focus": "Passive gerund",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "to",
+        "objected",
+        "in front of colleagues",
+        "being",
+        "many participants",
+        "assessed"
+      ],
+      "answers": [
+        "Many participants objected to being assessed in front of colleagues."
+      ],
+      "points": 1,
+      "explanation": "After a preposition (\"objected to\"), a passive action is expressed with being + past participle."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The materials were rather repetition and failed to engage learners.",
+      "answers": [
+        "The materials were rather repetitive and failed to engage learners."
+      ],
+      "points": 1,
+      "explanation": "After \"were rather\" we need an adjective: repetition (noun) becomes repetitive."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Comparative correlatives",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The more ___ mistakes they made.\"",
+      "text": "As learners practised more, they made fewer mistakes.",
+      "keyword": "FEWER",
+      "answers": [
+        "The more learners practised, the fewer mistakes they made.",
+        "The more the learners practised, the fewer mistakes they made.",
+        "The more learners practiced, the fewer mistakes they made."
+      ],
+      "points": 1,
+      "explanation": "\"The more ..., the fewer ...\" shows that two things change together."
+    }
+  ],
+  "task": {
+    "genre": "Report",
+    "prompt": "Your company ran an English course for staff last term. Your manager has asked you to write a report evaluating the course and recommending improvements for next year.",
+    "contentPoints": [
+      "Describe the strengths of the programme.",
+      "Identify its main weaknesses.",
+      "Make specific recommendations for improvement."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "This report evaluates ...",
+      "The programme was generally well received.",
+      "It was the lack of ... that ...",
+      "Attendance seems to have ...",
+      "It is recommended that ...",
+      "Nevertheless, ..."
+    ],
+    "modelAnswer": "Introduction\n\nThis report evaluates the twelve-week English programme offered to staff between September and December, and makes recommendations for its future. It is based on attendance records, test results and a questionnaire completed by 45 participants.\n\nStrengths of the programme\n\nThe programme was generally well received. Most participants felt that their listening and writing had improved, and test scores rose by an average of 12%. The introduction of online lessons in October proved especially popular, as it increased participation among staff working in other offices. The teachers were also praised for their patience and enthusiasm.\n\nWeaknesses\n\nNevertheless, the course fell short of expectations in one important area. It was the lack of speaking practice that frustrated learners most. In addition, attendance seems to have dropped after the first month, largely because sessions clashed with busy periods at work. Several participants also complained that they should have been informed about timetable changes earlier.\n\nRecommendations\n\nOn the basis of these findings, it is recommended that at least half of each lesson be devoted to speaking activities. Sessions should be scheduled at lunchtime, when workloads tend to be lighter, and any changes to the timetable should be announced at least a week in advance.\n\nConclusion\n\nThe programme was a success; nonetheless, several changes are needed if it is to meet the needs of all participants. With these adjustments, it could become a valuable part of staff development."
+  }
+}

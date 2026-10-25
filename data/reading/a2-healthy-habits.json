@@ -1,0 +1,447 @@
+{
+  "id": "healthy-habits",
+  "title": "Healthy Habits",
+  "level": "A2 · Elementary",
+  "description": "A busy office worker changes her daily habits to feel better.",
+  "instructions": "Read the text about healthy habits, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Karen works in an office in the city centre. Last year, she often felt tired and had headaches. She drank five cups of coffee every day and sat at her computer for many hours. She went to bed after midnight almost every night."
+    },
+    {
+      "id": "p2",
+      "text": "In January, Karen decided to change some of her habits. She started to drink more water and only one cup of coffee in the morning. She also bought a bottle of water for her desk. Every hour, she stood up and walked around the office for a few minutes."
+    },
+    {
+      "id": "p3",
+      "text": "Karen also stopped taking the bus to work. Now she walks for twenty-five minutes every morning, even when it rains. She eats fruit for her snacks instead of biscuits. On Sundays, she cooks healthy meals for the whole week."
+    },
+    {
+      "id": "p4",
+      "text": "After three months, Karen felt much better. Her headaches were gone, and she had more energy at work. Now she goes to bed at ten thirty and sleeps well. Two of her colleagues are now walking to work with her."
+    },
+    {
+      "id": "p5",
+      "text": "At first, the changes were not easy for Karen. In the first week, she missed her coffee very much, and she felt angry in the mornings. Walking in the rain was cold and unpleasant. But her sister Julia called her every evening and said, 'Don't stop now. You are doing really well.' After two weeks, Karen did not want coffee in the afternoons any more, and the morning walk became her favourite part of the day."
+    },
+    {
+      "id": "p6",
+      "text": "In April, Karen joined a yoga class at a sports centre near her flat. The class is on Tuesday and Thursday evenings. At first, she could not touch her toes, but now she is much stronger. She has also stopped looking at her phone in bed. Instead, she reads a book for twenty minutes before she sleeps. She feels calmer now, and she gets up more easily in the morning."
+    },
+    {
+      "id": "p7",
+      "text": "Last month, Karen's company asked her to give a short talk about her healthy habits. She was nervous, but she told her story and gave some simple tips. After the talk, the company put water machines on every floor and started a walking club. Karen is the leader of the club, and twelve people now walk with her every Friday at lunchtime."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the best title for the text?",
+      "options": [
+        "A Day at the Office",
+        "The Best Coffee in the City",
+        "Why Buses Are Always Late",
+        "Karen's New Healthy Life"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text is about how Karen changed her habits and felt healthier.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Karen decided to change some of her habits"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "After three months, Karen felt much better."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How many cups of coffee does Karen drink now?",
+      "options": [
+        "Five",
+        "One",
+        "Three",
+        "None"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She now drinks only one cup of coffee in the morning.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "only one cup of coffee in the morning"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "purpose",
+      "text": "Why does the writer describe Karen's life last year in paragraph 1?",
+      "options": [
+        "To show that she loved her job",
+        "To explain how to use a computer",
+        "To show why she needed to change her habits",
+        "To show that coffee is good for headaches"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her tiredness, headaches and bad habits explain why she decided to change.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "she often felt tired and had headaches"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"energy\" is closest in meaning to...",
+      "options": [
+        "strength to be active",
+        "money to spend",
+        "time to sleep",
+        "free food"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Karen felt much better and was more active at work, so energy means strength to do things.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "she had more energy at work"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can we say about Karen's colleagues?",
+      "options": [
+        "They do not like Karen",
+        "Karen's changes have inspired some of them",
+        "They all drive to work",
+        "They still drink five cups of coffee"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Two colleagues now walk to work with her, so they are following her example.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Two of her colleagues are now walking to work with her."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What does Karen eat for snacks now?",
+      "options": [
+        "Biscuits",
+        "Chocolate",
+        "Fruit",
+        "Bread"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She eats fruit for her snacks instead of biscuits.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She eats fruit for her snacks instead of biscuits."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What problems did Karen have last year?",
+      "options": [
+        "She had a bad back",
+        "She often felt tired and had headaches",
+        "She was often ill with colds",
+        "She could not find a job"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Last year she often felt tired and had headaches.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last year, she often felt tired and had headaches."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "When did Karen decide to change her habits?",
+      "options": [
+        "In March",
+        "In April",
+        "In January",
+        "In the summer"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In January, Karen decided to change some of her habits.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In January, Karen decided to change some of her habits."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"habits\" means...",
+      "options": [
+        "clothes that you wear to work",
+        "things that you do often",
+        "problems with your health",
+        "people that you work with"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Habits are things a person does regularly, like drinking coffee or going to bed late.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Karen decided to change some of her habits"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "How long does Karen walk to work every morning?",
+      "options": [
+        "Twenty-five minutes",
+        "Ten minutes",
+        "One hour",
+        "Five minutes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She walks for twenty-five minutes every morning.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Now she walks for twenty-five minutes every morning"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does \"even when it rains\" tell us about Karen?",
+      "options": [
+        "She likes rainy weather",
+        "She does not have an umbrella",
+        "She is serious about her new habits",
+        "She lives very near her office"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She does not stop walking in bad weather, so she really wants to keep her new habits.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Now she walks for twenty-five minutes every morning, even when it rains."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the words \"instead of\" are closest in meaning to...",
+      "options": [
+        "in place of",
+        "together with",
+        "after",
+        "before"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She eats fruit in place of biscuits.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She eats fruit for her snacks instead of biscuits."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What time does Karen go to bed now?",
+      "options": [
+        "After midnight",
+        "At nine o'clock",
+        "At eleven thirty",
+        "At ten thirty"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Now she goes to bed at ten thirty.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Now she goes to bed at ten thirty and sleeps well."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer say \"At first, the changes were not easy for Karen\"?",
+      "options": [
+        "To show that changing habits takes effort",
+        "To show that Karen stopped her new habits",
+        "To explain why Karen started drinking more coffee",
+        "To show that Karen did not like her sister"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The paragraph shows that the first week was hard, but she did not stop.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "At first, the changes were not easy for Karen."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"unpleasant\" is closest in meaning to...",
+      "options": [
+        "warm",
+        "easy",
+        "exciting",
+        "not nice"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Walking in cold rain was not nice for Karen.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Walking in the rain was cold and unpleasant."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What can we say about Karen's sister Julia?",
+      "options": [
+        "She supported Karen when things were hard",
+        "She did not believe Karen could change",
+        "She wanted Karen to drink more coffee",
+        "She walked to work with Karen"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Julia called every evening and told Karen not to stop.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "'Don't stop now. You are doing really well.' After two weeks, Karen did not want coffee in the afternoons any more, and the morning walk became her favourite part of the day."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "When is Karen's yoga class?",
+      "options": [
+        "On Sunday mornings",
+        "Every day at lunchtime",
+        "On Friday evenings",
+        "On Tuesday and Thursday evenings"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The class is on Tuesday and Thursday evenings.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The class is on Tuesday and Thursday evenings."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "Why has Karen probably stopped looking at her phone in bed?",
+      "options": [
+        "Her phone is broken",
+        "Her sister took her phone",
+        "She wants to sleep better",
+        "She has no time for her friends"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She now reads before she sleeps, and the text says she sleeps well, so this habit helps her sleep.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "She has also stopped looking at her phone in bed."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "sleeps well"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"tips\" means...",
+      "options": [
+        "extra money for a waiter",
+        "small pieces of useful advice",
+        "short funny stories",
+        "healthy snacks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "In her talk, Karen gave simple advice about healthy habits.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "she told her story and gave some simple tips"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why does the writer mention the water machines and the walking club?",
+      "options": [
+        "To show that Karen's company is very rich",
+        "To explain why Karen was nervous",
+        "To show that Karen wants a new job",
+        "To show that Karen's talk changed her company"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "After her talk, the company made changes to help everyone be healthier.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "After the talk, the company put water machines on every floor and started a walking club."
+        }
+      ]
+    }
+  ]
+}

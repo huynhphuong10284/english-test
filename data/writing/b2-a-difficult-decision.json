@@ -1,0 +1,320 @@
+{
+  "id": "w-a-difficult-decision",
+  "title": "A Difficult Decision",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise reported speech, mixed conditionals and participle clauses, then write a story about a difficult decision.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Reported speech",
+      "prompt": "Choose the correct answer.",
+      "text": "My best friend asked me what I ___ do if I were in her position.",
+      "options": [
+        "will",
+        "would",
+        "did",
+        "am going to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "In reported questions after a past reporting verb, \"will\" or \"would\" becomes \"would\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Mixed conditionals",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "If I had accepted the job in London, I ___ (live) far away from my family now.",
+      "answers": [
+        "would be living",
+        "would live"
+      ],
+      "points": 1,
+      "explanation": "A mixed conditional links a past condition (had accepted) to a present result (would be living now)."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Participle clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "I",
+        "the door",
+        "the letter",
+        "opened",
+        "holding",
+        "slowly"
+      ],
+      "answers": [
+        "Holding the letter, I slowly opened the door.",
+        "Holding the letter, I opened the door slowly.",
+        "Slowly holding the letter, I opened the door."
+      ],
+      "points": 1,
+      "explanation": "A present participle clause (Holding the letter) describes an action that happens at the same time as the main verb."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Wish / if only",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Now I wish I have chosen the other university.",
+      "answers": [
+        "Now I wish I had chosen the other university.",
+        "Now I wish I'd chosen the other university."
+      ],
+      "points": 1,
+      "explanation": "For regret about the past, use wish + past perfect: I wish I had chosen."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "The salary was excellent. ___, I decided to turn the offer down.",
+      "options": [
+        "Consequently",
+        "Therefore",
+        "Whereas",
+        "Nevertheless"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Nevertheless\" introduces a decision that contrasts with the previous fact."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Reported speech",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "My father warned me that I ___ (regret) it if I gave up my studies.",
+      "answers": [
+        "would regret"
+      ],
+      "points": 1,
+      "explanation": "In reported speech after a past verb, \"will\" changes to \"would\": he warned me that I would regret it."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Reported speech",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"My teacher ___ to my parents before I decided.\"",
+      "text": "\"You should talk to your parents before you decide,\" my teacher said to me.",
+      "keyword": "ADVISED",
+      "answers": [
+        "My teacher advised me to talk to my parents before I decided."
+      ],
+      "points": 1,
+      "explanation": "Advise + object + to-infinitive reports a piece of advice: advised me to talk."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Third conditional",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"If I ___ about the scholarship, I would have applied for it.\"",
+      "text": "I didn't know about the scholarship, so I didn't apply for it.",
+      "keyword": "KNOWN",
+      "answers": [
+        "If I had known about the scholarship, I would have applied for it.",
+        "If I'd known about the scholarship, I would have applied for it."
+      ],
+      "points": 1,
+      "explanation": "Third conditional if-clause: if + past perfect (had known)."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Modals of deduction",
+      "prompt": "Choose the correct answer.",
+      "text": "Sara ___ been very nervous before the interview; her hands were shaking.",
+      "options": [
+        "must have",
+        "can't have",
+        "should have",
+        "needn't have"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Must have + past participle shows you are almost certain about a past situation, based on evidence (her shaking hands)."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "In the end, I made the ___ (decide) to stay in my home town.",
+      "answers": [
+        "decision"
+      ],
+      "points": 1,
+      "explanation": "The noun formed from decide is decision; we say make a decision."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "It's time + past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "my mind",
+        "time",
+        "made",
+        "it's",
+        "up",
+        "I"
+      ],
+      "answers": [
+        "It's time I made up my mind.",
+        "It's time I made my mind up."
+      ],
+      "points": 1,
+      "explanation": "After It's time + subject, use the past simple (made) to talk about the present: something should happen now."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Unless",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Unless you don't decide by Friday, you will lose your place.",
+      "answers": [
+        "Unless you decide by Friday, you will lose your place.",
+        "If you don't decide by Friday, you will lose your place."
+      ],
+      "points": 1,
+      "explanation": "Unless already means if not, so it is followed by a positive verb: unless you decide."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Modals of deduction",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"She ___ the wrong choice.\"",
+      "text": "Maybe she made the wrong choice.",
+      "keyword": "MIGHT",
+      "answers": [
+        "She might have made the wrong choice."
+      ],
+      "points": 1,
+      "explanation": "Might have + past participle expresses a possibility about the past."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct answer.",
+      "text": "After weeks of thinking, I finally ___ my mind and accepted the offer.",
+      "options": [
+        "took",
+        "did",
+        "made up",
+        "got"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The phrasal expression is make up your mind, which means decide."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Verb patterns: regret",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "I don't regret ___ (leave) my old job, although it was a hard decision.",
+      "answers": [
+        "leaving",
+        "having left"
+      ],
+      "points": 1,
+      "explanation": "Regret + -ing (or having + past participle) means you are sorry about something you did in the past."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Reported speech: admit",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the wrong course",
+        "admitted",
+        "having chosen",
+        "my brother"
+      ],
+      "answers": [
+        "My brother admitted having chosen the wrong course."
+      ],
+      "points": 1,
+      "explanation": "The reporting verb admit can be followed by -ing or having + past participle."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Articles: uncountable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I asked for an advice from my older sister.",
+      "answers": [
+        "I asked for advice from my older sister.",
+        "I asked for some advice from my older sister.",
+        "I asked for a piece of advice from my older sister."
+      ],
+      "points": 1,
+      "explanation": "Advice is uncountable, so it cannot take a/an. Use advice, some advice or a piece of advice."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Passive voice (two objects)",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"I ___ a permanent contract by the company.\"",
+      "text": "The company offered me a permanent contract.",
+      "keyword": "WAS",
+      "answers": [
+        "I was offered a permanent contract by the company."
+      ],
+      "points": 1,
+      "explanation": "With verbs like offer and give, the person who receives something can become the subject of the passive: I was offered ..."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Be used to + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I'm still not used to live on my own.",
+      "answers": [
+        "I'm still not used to living on my own."
+      ],
+      "points": 1,
+      "explanation": "In be used to (= be accustomed to), to is a preposition, so it is followed by the -ing form."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Would rather + past",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"I ___ anyone about my decision yet.\"",
+      "text": "I'd prefer you not to tell anyone about my decision yet.",
+      "keyword": "RATHER",
+      "answers": [
+        "I'd rather you didn't tell anyone about my decision yet.",
+        "I would rather you didn't tell anyone about my decision yet."
+      ],
+      "points": 1,
+      "explanation": "When you want another person to do (or not do) something, use would rather + subject + past simple."
+    }
+  ],
+  "task": {
+    "genre": "Story",
+    "prompt": "You have seen this announcement in an English-language magazine: \"Stories wanted! Write a story that ends with the words: 'I knew I had made the right choice.'\" Write your story.",
+    "contentPoints": [
+      "Describe the situation and the two options the character had.",
+      "Show how the character felt and who gave them advice.",
+      "Describe what the character decided and what happened next.",
+      "End with the sentence given."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "It had always been my dream to ...",
+      "On the one hand, ... On the other hand, ...",
+      "Having thought about it all night, ...",
+      "If I had ..., I would ...",
+      "Little did I know that ..."
+    ],
+    "modelAnswer": "The email arrived on a rainy Tuesday morning. I had been offered a place on a summer music course in Vienna, something I had dreamed about for years. There was only one problem: the course started on the same day as my grandmother's eightieth birthday party.\n\nOn the one hand, the course was a once-in-a-lifetime opportunity. On the other hand, my grandmother had been ill for months, and the whole family was travelling from abroad to celebrate with her. I felt completely torn.\n\nI asked my older sister for advice. She told me that our grandmother would understand, but that I would never forgive myself if I missed my chance. My mother, however, said nothing, which made me feel even worse.\n\nHaving thought about it all night, I wrote to the course organisers and asked whether I could join a week later. To my surprise, they agreed. So I went to the party, played the piano for my grandmother and watched her cry with happiness.\n\nSadly, she passed away that winter. If I had gone to Vienna on time, I would have missed her last birthday. As I looked at the photo of us together at the party, I knew I had made the right choice."
+  }
+}

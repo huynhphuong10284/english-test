@@ -1,0 +1,325 @@
+{
+  "id": "w-my-dream-house",
+  "title": "My Dream House",
+  "level": "A2 · Elementary",
+  "description": "Practise prepositions of place, comparatives and superlatives, then describe your dream house.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Prepositions of place",
+      "prompt": "Choose the correct answer.",
+      "text": "There is a big swimming pool ___ the garden.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "of"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"in\" for something inside an area: in the garden."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Superlatives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "My bedroom is ___ (large) room in the house.",
+      "answers": [
+        "the largest"
+      ],
+      "points": 1,
+      "explanation": "Use \"the\" + superlative to compare one thing with all the others. Adjectives ending in -e just add -st: large - the largest."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Prepositions of place",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "kitchen",
+        "next to",
+        "the",
+        "is",
+        "living room",
+        "the"
+      ],
+      "answers": [
+        "The kitchen is next to the living room.",
+        "The living room is next to the kitchen.",
+        "Is the kitchen next to the living room?",
+        "Is the living room next to the kitchen?"
+      ],
+      "points": 1,
+      "explanation": "\"Next to\" means beside: The kitchen is next to the living room."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "There is / there are",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There are a cinema room in the basement.",
+      "answers": [
+        "There is a cinema room in the basement.",
+        "There's a cinema room in the basement."
+      ],
+      "points": 1,
+      "explanation": "Use \"there is\" with a singular noun (a cinema room) and \"there are\" with plural nouns."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct answer.",
+      "text": "My dream house is ___ than my flat now.",
+      "options": [
+        "moderner",
+        "more modern",
+        "most modern",
+        "the most modern"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Long adjectives use \"more\" to make the comparative: modern - more modern."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Prepositions of place",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "It is ___ a hill, near the sea.",
+      "answers": [
+        "on"
+      ],
+      "points": 1,
+      "explanation": "Use \"on\" for a position on top of a surface: on a hill."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Will for predictions",
+      "prompt": "Choose the correct answer.",
+      "text": "I think my dream house ___ very expensive.",
+      "options": [
+        "is going",
+        "be",
+        "will be",
+        "will is"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We use \"will\" + base verb for predictions: it will be expensive."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Going to for plans",
+      "prompt": "Complete the sentence with \"going to\" and the verb in brackets.",
+      "text": "One day I ___ (build) a house by the sea.",
+      "answers": [
+        "am going to build",
+        "'m going to build"
+      ],
+      "points": 1,
+      "explanation": "For plans and intentions we use am/is/are + going to + verb: I am going to build."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "There is / there are + some",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "trees",
+        "in the garden",
+        "some",
+        "there are"
+      ],
+      "answers": [
+        "There are some trees in the garden.",
+        "In the garden there are some trees."
+      ],
+      "points": 1,
+      "explanation": "There are + some + plural noun + place: There are some trees in the garden."
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Superlatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It will be the most big house in my street.",
+      "answers": [
+        "It will be the biggest house in my street."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives make the superlative with -est, not \"most\": big - the biggest."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Much / many",
+      "prompt": "Choose the correct answer.",
+      "text": "There won't be ___ furniture in my bedroom, just a bed and a desk.",
+      "options": [
+        "many",
+        "a",
+        "few",
+        "much"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Furniture\" is uncountable, so we use \"much\" in negative sentences."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Prepositions of place",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "My bedroom is ___ the kitchen, on the first floor.",
+      "answers": [
+        "above",
+        "over"
+      ],
+      "points": 1,
+      "explanation": "\"Above\" means in a higher position: the bedroom is above the kitchen. The opposite is \"below\"."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Will for predictions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "be",
+        "the sea",
+        "my dream house",
+        "near",
+        "will"
+      ],
+      "answers": [
+        "My dream house will be near the sea.",
+        "Will my dream house be near the sea?"
+      ],
+      "points": 1,
+      "explanation": "Subject + will + be + place: My dream house will be near the sea."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Countable and uncountable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My house will have a lot of furnitures.",
+      "answers": [
+        "My house will have a lot of furniture."
+      ],
+      "points": 1,
+      "explanation": "\"Furniture\" is uncountable, so it never has a plural -s."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Some / any",
+      "prompt": "Choose the correct answer.",
+      "text": "Are there ___ shops near your dream house?",
+      "options": [
+        "much",
+        "a",
+        "any",
+        "one"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We usually use \"any\" in questions with plural nouns: Are there any shops?"
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Comparatives: irregular",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The view from the top floor is ___ (good) than the view from the ground floor.",
+      "answers": [
+        "better"
+      ],
+      "points": 1,
+      "explanation": "\"Good\" has an irregular comparative: good - better - the best."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a small flat",
+        "I",
+        "in",
+        "grew up"
+      ],
+      "answers": [
+        "I grew up in a small flat."
+      ],
+      "points": 1,
+      "explanation": "\"Grow up\" is irregular: grow up - grew up."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Prepositions of place",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There will be a swimming pool at the roof.",
+      "answers": [
+        "There will be a swimming pool on the roof."
+      ],
+      "points": 1,
+      "explanation": "We use \"on\" for the top surface of something: on the roof, on the table."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Linking words: because",
+      "prompt": "Choose the correct answer.",
+      "text": "I want a big garden ___ I love growing flowers.",
+      "options": [
+        "so",
+        "but",
+        "then",
+        "because"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Because\" introduces a reason: I want a garden because I love flowers."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Will: negatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My house won't to be in the city.",
+      "answers": [
+        "My house won't be in the city."
+      ],
+      "points": 1,
+      "explanation": "After \"won't\" (will not) we use the base verb without \"to\": won't be."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Describe your dream house.",
+    "contentPoints": [
+      "Say where the house is.",
+      "Say what rooms it has.",
+      "Describe your favourite room.",
+      "Explain why it is your dream house."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "My dream house is ...",
+      "It has ...",
+      "There is/are ...",
+      "... is bigger/more modern than ...",
+      "My favourite room is ...",
+      "I love this house because ..."
+    ],
+    "modelAnswer": "My dream house is on a hill near the sea. It is bigger and more modern than my flat now. It has four bedrooms, a big kitchen and a cinema room. My bedroom is the largest room in the house. It has a huge window, so I can see the sea from my bed. There is also a swimming pool in the garden. I love this house because it is quiet and bright."
+  }
+}

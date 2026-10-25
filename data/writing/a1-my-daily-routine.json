@@ -1,0 +1,321 @@
+{
+  "id": "w-my-daily-routine",
+  "title": "My Daily Routine",
+  "level": "A1 · Beginner",
+  "description": "Practise the present simple and write about your typical day.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present simple",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ up at seven o'clock every day.",
+      "options": [
+        "gets",
+        "get",
+        "getting",
+        "to get"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "With I, you, we and they, use the base verb with no -s: I get up."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present simple: -es",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "My brother ___ (watch) TV after dinner.",
+      "answers": [
+        "watches"
+      ],
+      "points": 1,
+      "explanation": "With he, she or it, verbs ending in -ch, -sh, -s, -x or -o add -es: he watches."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Word order: time phrases",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "breakfast",
+        "half past seven",
+        "I",
+        "at",
+        "have"
+      ],
+      "answers": [
+        "I have breakfast at half past seven.",
+        "At half past seven I have breakfast."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + object + time: I have breakfast at half past seven. The time phrase can also go at the start."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Present simple: third person -s",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "She go to school by bus.",
+      "answers": [
+        "She goes to school by bus."
+      ],
+      "points": 1,
+      "explanation": "With he, she or it, add -s or -es to the verb: she goes."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the best word to join the ideas.",
+      "text": "I get up early on Monday, ___ I get up late on Sunday.",
+      "options": [
+        "because",
+        "or",
+        "but",
+        "so"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"But\" joins two different or opposite ideas: early on Monday, but late on Sunday."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Present simple: negative",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "My mum ___ (not / work) on Saturdays.",
+      "answers": [
+        "doesn't work",
+        "does not work"
+      ],
+      "points": 1,
+      "explanation": "With he, she or it, make the negative with doesn't (does not) + base verb: she doesn't work."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions of time: at",
+      "prompt": "Choose the correct word.",
+      "text": "I go to bed ___ nine o'clock.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "at"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"at\" with clock times: at nine o'clock."
+    },
+    {
+      "id": "e8",
+      "type": "error-correction",
+      "focus": "Present simple: questions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "When do your sister get up?",
+      "answers": [
+        "When does your sister get up?"
+      ],
+      "points": 1,
+      "explanation": "Use \"does\" in questions with he, she and it: When does your sister get up?"
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Present simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "I always ___ (have) a shower in the morning.",
+      "answers": [
+        "have"
+      ],
+      "points": 1,
+      "explanation": "With I, you, we and they, use the base form of the verb: I have."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Like + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "music",
+        "like",
+        "in the evening",
+        "I",
+        "listening to"
+      ],
+      "answers": [
+        "I like listening to music in the evening.",
+        "In the evening I like listening to music."
+      ],
+      "points": 1,
+      "explanation": "Like + verb-ing: I like listening to music."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Prepositions of time: in",
+      "prompt": "Choose the correct word.",
+      "text": "I do my homework ___ the afternoon.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"in\" with parts of the day: in the morning, in the afternoon, in the evening."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Irregular plurals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We brush our tooth after breakfast.",
+      "answers": [
+        "We brush our teeth after breakfast."
+      ],
+      "points": 1,
+      "explanation": "The plural of \"tooth\" is \"teeth\"."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Linking words: then",
+      "prompt": "Choose the correct word.",
+      "text": "I have breakfast and ___ I go to school.",
+      "options": [
+        "but",
+        "because",
+        "or",
+        "then"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"then\" to show what happens next."
+    },
+    {
+      "id": "e14",
+      "type": "gap-fill",
+      "focus": "Possessive adjectives",
+      "prompt": "Complete with his, her or their.",
+      "text": "My brother walks ___ dog after school.",
+      "answers": [
+        "his"
+      ],
+      "points": 1,
+      "explanation": "Use \"his\" for something that belongs to a boy or man: his dog."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Adverbs of frequency",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "walk",
+        "usually",
+        "to school",
+        "I"
+      ],
+      "answers": [
+        "I usually walk to school.",
+        "Usually I walk to school."
+      ],
+      "points": 1,
+      "explanation": "Put \"usually\" before the main verb: I usually walk."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Present simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My school day are very long.",
+      "answers": [
+        "My school day is very long.",
+        "My school days are very long."
+      ],
+      "points": 1,
+      "explanation": "Use \"is\" with one thing (my school day) and \"are\" with more than one."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Question words",
+      "prompt": "Choose the correct word.",
+      "text": "___ do you go to school? By bus.",
+      "options": [
+        "What",
+        "Where",
+        "How",
+        "When"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"How\" to ask about the way you do something or travel: How do you go? By bus."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Present simple: -es",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My dad finishs work at five o'clock.",
+      "answers": [
+        "My dad finishes work at five o'clock."
+      ],
+      "points": 1,
+      "explanation": "With he, she or it, verbs ending in -sh take -es: he finishes."
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Can't",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "can't",
+        "get up late",
+        "I",
+        "on school days"
+      ],
+      "answers": [
+        "I can't get up late on school days.",
+        "On school days I can't get up late."
+      ],
+      "points": 1,
+      "explanation": "Subject + can't + verb: I can't get up late."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Present simple: third person",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "My sister ___ (do) her homework after dinner.",
+      "answers": [
+        "does"
+      ],
+      "points": 1,
+      "explanation": "With he, she and it, \"do\" becomes \"does\": she does her homework."
+    }
+  ],
+  "task": {
+    "genre": "Short description",
+    "prompt": "Write about your typical school day.",
+    "contentPoints": [
+      "Say what time you get up.",
+      "Say what you do in the morning.",
+      "Say what you do after school.",
+      "Say what time you go to bed."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "I get up at ...",
+      "In the morning I ...",
+      "After school I ...",
+      "In the evening I ...",
+      "I go to bed at ..."
+    ],
+    "modelAnswer": "I get up at seven o'clock. I have a shower and then I eat breakfast. I go to school by bus. After school I do my homework and I play football. In the evening I watch TV with my family. I go to bed at half past nine."
+  }
+}

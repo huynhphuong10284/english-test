@@ -1,0 +1,451 @@
+{
+  "id": "the-rise-of-podcasts",
+  "title": "Listening In: The Rise of Podcasts",
+  "level": "B2 · Upper-intermediate",
+  "description": "Why podcasts have become so popular and what challenges the industry now faces.",
+  "instructions": "Read the article about podcasts, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "In the early 2000s, a small number of enthusiasts began recording audio programmes and publishing them online for anyone to download. Few people at the time expected these 'podcasts' to become a major form of media. Today, however, there are millions of podcasts covering almost every imaginable subject, from history and science to comedy, true crime and personal finance."
+    },
+    {
+      "id": "p2",
+      "text": "Several factors explain this remarkable growth. The spread of smartphones made it easy to listen anywhere, while improvements in mobile internet removed the need to download episodes in advance. Just as importantly, podcasts fit neatly into moments when people's eyes and hands are busy but their minds are free, such as commuting, exercising or doing housework. Unlike television, they do not demand full visual attention."
+    },
+    {
+      "id": "p3",
+      "text": "Podcasting also has unusually low barriers to entry. A basic microphone, a computer and free editing software are enough to produce a show, and distributing it costs very little. This has allowed voices that might never have been heard on traditional radio to find an audience. Some amateur podcasters have built loyal followings large enough to turn their hobby into a full-time career, although the great majority earn little or nothing."
+    },
+    {
+      "id": "p4",
+      "text": "Many listeners describe a strong sense of connection with the hosts of their favourite shows. Because podcasts are often informal and conversational, and because they are usually heard through headphones, they can feel more like a private conversation than a broadcast. Media researchers have suggested that this intimacy is one reason why advertisements read by podcast hosts can be particularly persuasive."
+    },
+    {
+      "id": "p5",
+      "text": "As the industry has matured, large media and technology companies have invested heavily in exclusive content, raising concerns that the open, independent character of podcasting could be lost. At the same time, the sheer number of shows makes it increasingly difficult for new creators to be discovered. Whether podcasting remains a space for diverse, independent voices or becomes dominated by a few powerful companies will depend on decisions made in the coming years."
+    },
+    {
+      "id": "p6",
+      "text": "The format itself is also changing. Many popular shows are now filmed as well as recorded, and clips are shared on video platforms and social media to attract new listeners. Some critics argue that this shift risks undermining one of podcasting's original strengths, since a programme designed to be watched no longer fits so easily into the moments when people's eyes are busy. Recording on camera also requires more equipment and preparation, which may raise the barriers that once made podcasting so open. Supporters reply that offering several formats simply gives audiences more choice, and that most people still listen rather than watch."
+    },
+    {
+      "id": "p7",
+      "text": "Podcasts have also found a place in education. Teachers use them to bring expert voices into the classroom, and language learners value the chance to hear natural, unscripted conversation at their own pace. Some schools now ask students to make their own podcasts, which can develop research, writing and speaking skills at the same time. Yet the same freedom that allows anyone to publish also means that there is no editor checking facts before an episode is released. Listeners therefore need to judge for themselves whether a host is well informed, and a confident, friendly voice is not always a reliable sign of accuracy."
+    },
+    {
+      "id": "p8",
+      "text": "For all these uncertainties, podcasts seem to have established a lasting place in many people's daily routines. Many listeners follow the same shows for years, treating each new episode as a regular part of their week. They have revived interest in long-form conversation and storytelling at a time when much online content is short and fast-moving, and they have shown that audiences are willing to give their attention for an hour or more if the material is engaging. Listening to a podcast is, in some ways, not so different from gathering around a radio, or even around a fire, to hear a story. In this sense, the success of podcasting is a reminder that a new technology often succeeds not by replacing older habits, but by giving them a fresh form."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Podcasts will soon replace television.",
+        "Most podcasters earn a lot of money.",
+        "Smartphones were invented in order to play podcasts.",
+        "Podcasts have grown rapidly for several reasons, but the industry now faces new challenges."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The article explains the reasons for the growth of podcasts and ends with concerns about the future.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Several factors explain this remarkable growth."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "raising concerns that the open, independent character of podcasting could be lost"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Which factor in the growth of podcasts is mentioned in paragraph 2?",
+      "options": [
+        "They are broadcast on television.",
+        "They can be enjoyed while doing other activities.",
+        "Listeners must download them in advance.",
+        "Radio stations stopped broadcasting."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Podcasts fit into times when people are busy with their eyes and hands.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "podcasts fit neatly into moments when people's eyes and hands are busy but their minds are free"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the phrase \"low barriers to entry\" means that:",
+      "options": [
+        "there are few obstacles to starting a podcast",
+        "there are strict rules about content",
+        "it is hard to attract listeners",
+        "advertising is very expensive"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The next sentence explains that only cheap, basic equipment is needed.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "A basic microphone, a computer and free editing software are enough to produce a show"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can be inferred about most amateur podcasters?",
+      "options": [
+        "They become famous very quickly.",
+        "They used to work for radio stations.",
+        "Their podcasting is unlikely to become a well-paid career.",
+        "They use expensive equipment."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Only some succeed; the great majority earn little or nothing.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "although the great majority earn little or nothing"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention headphones in paragraph 4?",
+      "options": [
+        "To recommend a particular type of equipment",
+        "To warn listeners about hearing damage",
+        "To compare podcasts with music",
+        "To help explain why podcasts can feel personal and private"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Listening through headphones contributes to the feeling of a private conversation.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "they can feel more like a private conversation than a broadcast"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"intimacy\" is closest in meaning to:",
+      "options": [
+        "a lack of interest",
+        "a feeling of closeness",
+        "a professional style",
+        "a technical problem"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Listeners feel personally connected to the hosts.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "this intimacy is one reason"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What concern is raised about investment by large companies?",
+      "options": [
+        "Podcasting could lose its open and independent character.",
+        "Podcasts will become too cheap to produce.",
+        "Hosts will stop reading advertisements.",
+        "Listeners will need new smartphones."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 5 states this concern directly.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "raising concerns that the open, independent character of podcasting could be lost"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "According to paragraph 5, why is it difficult for new creators to succeed?",
+      "options": [
+        "Recording equipment has become expensive.",
+        "Large companies have banned new podcasts.",
+        "There are so many shows that it is hard to be noticed.",
+        "Listeners no longer use headphones."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The huge number of existing shows makes discovery difficult.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "the sheer number of shows makes it increasingly difficult for new creators to be discovered"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which title would best suit the article as a whole?",
+      "options": [
+        "Voices in Our Ears: The Rise and Future of Podcasting",
+        "How to Buy a Good Microphone",
+        "The Death of Radio",
+        "Why Television Is Better Than Podcasts"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The article explains why podcasts have grown, what makes them special and what challenges they face.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Today, however, there are millions of podcasts"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "What does paragraph 1 suggest about the early days of podcasting?",
+      "options": [
+        "It was started by large media companies.",
+        "It was popular from the very first day.",
+        "Its later success was largely unexpected.",
+        "Early podcasts only covered history and science."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Few people at the time expected podcasts to become a major form of media, so their success was a surprise.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Few people at the time expected these 'podcasts' to become a major form of media."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "purpose",
+      "text": "Why does the writer compare podcasts with television in paragraph 2?",
+      "options": [
+        "To argue that television is disappearing",
+        "To show that podcasts are more expensive to make",
+        "To explain how television programmes are made",
+        "To highlight that podcasts do not require people to watch a screen"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The comparison shows why podcasts fit into moments when people's eyes are busy.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Unlike television, they do not demand full visual attention."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 6, why are clips from filmed podcasts shared on social media?",
+      "options": [
+        "To attract new listeners",
+        "To replace the audio version completely",
+        "To test new recording equipment",
+        "To reduce the length of each episode"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Clips are shared on video platforms and social media to attract new listeners.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "clips are shared on video platforms and social media to attract new listeners"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"undermining\" is closest in meaning to:",
+      "options": [
+        "supporting",
+        "weakening",
+        "hiding",
+        "copying"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Critics fear that filming podcasts could weaken one of their original strengths.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "this shift risks undermining one of podcasting's original strengths"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "Why might filmed podcasts be less suitable for some of the situations described in paragraph 2?",
+      "options": [
+        "Filmed shows are always much shorter.",
+        "Viewers do not trust hosts they can see.",
+        "Video platforms do not allow long programmes.",
+        "Watching requires visual attention, which people cannot give while doing other things."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "People often listen while commuting or doing housework, when their eyes are busy, so a programme that must be watched fits less well.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "a programme designed to be watched no longer fits so easily into the moments when people's eyes are busy"
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "such as commuting, exercising or doing housework"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"unscripted\" is closest in meaning to:",
+      "options": [
+        "not translated",
+        "not prepared or written in advance",
+        "not recorded",
+        "not interesting"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Unscripted conversation is spontaneous and natural, which is useful for language learners.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "natural, unscripted conversation"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "According to paragraph 7, why do language learners value podcasts?",
+      "options": [
+        "Podcasts always include written translations.",
+        "Every episode is checked by teachers.",
+        "They can hear natural conversation at their own pace.",
+        "They can speak directly with the hosts."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Learners value natural, unscripted conversation that they can listen to at their own speed.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "language learners value the chance to hear natural, unscripted conversation at their own pace"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What problem with the freedom to publish podcasts is mentioned in paragraph 7?",
+      "options": [
+        "No editor checks the facts before an episode is released.",
+        "Episodes are too expensive to produce.",
+        "Podcasts are banned in most schools.",
+        "Only experts are allowed to publish."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Because anyone can publish, there is no editor to check facts first.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "there is no editor checking facts before an episode is released"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What does the writer imply about listeners and confident, friendly hosts?",
+      "options": [
+        "Such hosts are usually experts in their subject.",
+        "Such hosts are always less accurate than others.",
+        "Listeners may wrongly assume that such hosts are accurate.",
+        "Listeners rarely trust hosts who sound friendly."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The warning suggests that listeners can be persuaded by a pleasant voice even when the information is not reliable.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "a confident, friendly voice is not always a reliable sign of accuracy"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the word \"revived\" in paragraph 8 suggest about long-form conversation and storytelling?",
+      "options": [
+        "They were more popular than ever before podcasts.",
+        "Interest in them had declined before podcasts became popular.",
+        "They were only found on television.",
+        "They had never existed before podcasts."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "To revive something is to bring it back, so interest must have fallen before.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "They have revived interest in long-form conversation and storytelling"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "What is the purpose of the final sentence of the article?",
+      "options": [
+        "To predict that radio will soon disappear",
+        "To encourage readers to start their own podcast",
+        "To criticise long-form content",
+        "To suggest that podcasting succeeds by giving old habits such as storytelling a new form"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer concludes that podcasting builds on older habits rather than replacing them.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "a new technology often succeeds not by replacing older habits, but by giving them a fresh form"
+        }
+      ]
+    }
+  ]
+}

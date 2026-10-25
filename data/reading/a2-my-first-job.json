@@ -1,0 +1,451 @@
+{
+  "id": "my-first-job",
+  "title": "My First Job",
+  "level": "A2 · Elementary",
+  "description": "A teenager describes her first summer job at a fruit shop.",
+  "instructions": "Read the text about a first job, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "My name is Mai, and I am sixteen. Last summer, I got my first job at a fruit shop near my house. The owner, Mr Binh, needed help because his son was away. I worked there from Monday to Friday, from eight o'clock until one o'clock."
+    },
+    {
+      "id": "p2",
+      "text": "Every morning, I put the fresh fruit on the tables outside the shop. Then I helped customers and gave them their change. At first, I often made mistakes with the money. Mr Binh was patient and taught me to count it twice."
+    },
+    {
+      "id": "p3",
+      "text": "The work was hard on hot days, and my feet hurt in the evenings. But I liked talking to the customers. An old lady came every day to buy two bananas and tell me stories. Soon I knew the names of many people in my street."
+    },
+    {
+      "id": "p4",
+      "text": "At the end of the summer, I had enough money to buy a new bicycle. Mr Binh also gave me a big bag of mangoes as a present. I learned a lot about work and people. I hope I can work at the shop again next summer."
+    },
+    {
+      "id": "p5",
+      "text": "This year, Mr Binh's son came back home, but Mr Binh still wanted my help. 'The customers like you,' he said. So I worked at the shop again, but only on Saturdays during the school year. I also started to do new jobs. I wrote the prices on small boards, and I ordered fruit from the farm on the phone."
+    },
+    {
+      "id": "p6",
+      "text": "One Saturday, Mr Binh was ill, and he could not come to the shop. He called me early in the morning and asked me to open it alone. I was very nervous. But I remembered everything he taught me. I counted the money twice, and I did not make any mistakes. In the evening, Mr Binh called again and thanked me."
+    },
+    {
+      "id": "p7",
+      "text": "Now I want to study business at university. One day, I hope to have my own shop, maybe a cafe with fresh fruit juice. My parents say that the job at the fruit shop was better than any class at school. I think they are right. I learned to work hard, to be careful with money and to be kind to every customer."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "How to grow fruit in a garden",
+        "Mr Binh's son and his travels",
+        "Why Mai wanted a new bicycle",
+        "Mai's experience at her first summer job"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Mai describes what she did and learned during her first job at the fruit shop.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I got my first job at a fruit shop near my house"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "I learned a lot about work and people."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Why did Mr Binh need help in the shop?",
+      "options": [
+        "He was ill",
+        "His son was away",
+        "He opened a second shop",
+        "He had too many mangoes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Binh needed help because his son was away.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "needed help because his son was away"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"patient\" is closest in meaning to...",
+      "options": [
+        "calm and not angry when there are problems",
+        "ill and staying in hospital",
+        "quick and always busy",
+        "rich and generous"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Binh did not get angry about Mai's mistakes and taught her calmly.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Mr Binh was patient and taught me to count it twice."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can we say about Mai's job?",
+      "options": [
+        "It was easy and boring",
+        "She hated talking to people",
+        "It was tiring but she enjoyed it",
+        "She worked only at weekends"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her feet hurt, but she liked talking to customers and wants to work there again.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "my feet hurt in the evenings"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "But I liked talking to the customers."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does Mai tell us about the old lady who bought bananas?",
+      "options": [
+        "To show that bananas were very cheap",
+        "To give an example of the friendly people she met",
+        "To explain why the shop closed at one o'clock",
+        "To show that Mai did not like old people"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The old lady is an example of the customers Mai liked talking to and got to know.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "An old lady came every day to buy two bananas and tell me stories."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What did Mai buy with her money?",
+      "options": [
+        "A bag of mangoes",
+        "New shoes",
+        "A phone",
+        "A new bicycle"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "At the end of the summer she had enough money to buy a new bicycle.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "I had enough money to buy a new bicycle"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What were Mai's working hours last summer?",
+      "options": [
+        "From nine o'clock until five o'clock",
+        "From eight o'clock until one o'clock",
+        "From one o'clock until eight o'clock",
+        "Only in the evenings"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She worked from eight o'clock until one o'clock, Monday to Friday.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "from eight o'clock until one o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did Mai do every morning?",
+      "options": [
+        "She went to the farm to pick fruit",
+        "She cleaned Mr Binh's house",
+        "She drove the shop van",
+        "She put the fresh fruit on the tables outside"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Every morning she put the fresh fruit on the tables outside the shop.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Every morning, I put the fresh fruit on the tables outside the shop."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"change\" means...",
+      "options": [
+        "the money you give back to a customer",
+        "a new job in a shop",
+        "a different kind of fruit",
+        "a short rest from work"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "When customers pay too much, the shop gives them money back: their change.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Then I helped customers and gave them their change."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did the old lady buy every day?",
+      "options": [
+        "A bag of mangoes",
+        "Some oranges",
+        "A fruit juice",
+        "Two bananas"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "An old lady came every day to buy two bananas.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "An old lady came every day to buy two bananas and tell me stories."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"hurt\" means Mai's feet...",
+      "options": [
+        "felt cold",
+        "got wet",
+        "felt pain",
+        "got bigger"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "After standing all day on hot days, her feet felt pain in the evenings.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "my feet hurt in the evenings"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What present did Mr Binh give Mai at the end of the summer?",
+      "options": [
+        "A new bicycle",
+        "A big bag of mangoes",
+        "Some money for school",
+        "A box of bananas"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Binh gave her a big bag of mangoes as a present.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Mr Binh also gave me a big bag of mangoes as a present."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "Why did Mr Binh still want Mai's help after his son came back?",
+      "options": [
+        "He was happy with her work",
+        "His son did not like the shop",
+        "He needed someone to buy a bicycle",
+        "Mai asked him for more money"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He said the customers liked her, so he was pleased with her work.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "'The customers like you,' he said."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "When does Mai work at the shop during the school year?",
+      "options": [
+        "Every afternoon",
+        "From Monday to Friday",
+        "Only on Saturdays",
+        "Only on Sundays"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She works only on Saturdays during the school year.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "only on Saturdays during the school year"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"prices\" means...",
+      "options": [
+        "the names of the fruit",
+        "the farms where fruit grows",
+        "the days the shop is open",
+        "how much things cost"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Mai wrote how much each fruit cost on small boards.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "I wrote the prices on small boards"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does Mai say \"I was very nervous\" in paragraph 6?",
+      "options": [
+        "To show that she did not like Mr Binh",
+        "To explain why she closed the shop",
+        "To show that working alone was a big challenge for her",
+        "To show that she was ill too"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It was her first time in the shop alone, so it was difficult for her.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "I was very nervous."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What can we understand from \"I did not make any mistakes\"?",
+      "options": [
+        "Mai is much better with money than at the start",
+        "Mai never made mistakes at the shop",
+        "There were no customers that day",
+        "Mr Binh counted the money for her"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "At first she often made mistakes with money, but now she does not.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "I counted the money twice, and I did not make any mistakes."
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "At first, I often made mistakes with the money."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"business\" means...",
+      "options": [
+        "the study of fruit and farms",
+        "the work of a doctor",
+        "the work of buying and selling things",
+        "cooking in a restaurant"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai wants to have her own shop, so she wants to study buying and selling.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Now I want to study business at university."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does Mai mention what her parents say about the job?",
+      "options": [
+        "To show that her parents did not like the shop",
+        "To show that the job taught her important lessons",
+        "To explain why she stopped going to school",
+        "To show that her parents own a cafe"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her parents think the job taught her more than a class at school.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "My parents say that the job at the fruit shop was better than any class at school."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What can we say about the job and Mai's future?",
+      "options": [
+        "The job helped her choose what to study",
+        "She wants to work for Mr Binh forever",
+        "She does not want to work in a shop again",
+        "She wants to become a farmer"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After working in the shop, she wants to study business and have her own shop.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "One day, I hope to have my own shop, maybe a cafe with fresh fruit juice."
+        }
+      ]
+    }
+  ]
+}

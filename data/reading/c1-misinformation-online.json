@@ -1,0 +1,447 @@
+{
+  "id": "misinformation-online",
+  "title": "Why Falsehood Travels Fast",
+  "level": "C1 · Advanced",
+  "description": "An article on why misinformation spreads online and how it might be countered.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "The spread of false and misleading information is hardly a new phenomenon; rumours, propaganda and hoaxes are as old as communication itself. What has changed is the speed and scale at which such material can now circulate. On social media platforms, a fabricated claim can reach millions of people within hours, often outpacing any attempt to correct it, and researchers have found evidence that false stories may spread further and faster than accurate ones."
+    },
+    {
+      "id": "p2",
+      "text": "One explanation lies in the nature of the content itself. False stories are frequently more novel and emotionally arousing than the truth, provoking surprise, fear or outrage, emotions that make people more inclined to share. The design of many platforms reinforces this tendency: because algorithms are typically optimised to maximise engagement, material that generates strong reactions is likely to be promoted, irrespective of its accuracy."
+    },
+    {
+      "id": "p3",
+      "text": "Human psychology also plays a part. People are more likely to accept information that confirms what they already believe, a tendency known as confirmation bias, and to share it without careful scrutiny. Repeated exposure to a claim can increase its apparent credibility, even when the claim is explicitly labelled as false, because familiarity is easily mistaken for truth. It is a common misconception, however, that susceptibility to misinformation is simply a matter of low intelligence; studies suggest that inattention, rather than an inability to reason, often explains why people share falsehoods."
+    },
+    {
+      "id": "p4",
+      "text": "Efforts to counter misinformation have taken several forms. Fact-checking organisations investigate and rate dubious claims, and some platforms now attach warning labels to disputed content. A more recent approach, sometimes called prebunking, attempts to inoculate people in advance by exposing them to weakened examples of manipulative techniques, such as the use of fake experts or emotionally loaded language, so that they can recognise these techniques when they encounter them."
+    },
+    {
+      "id": "p5",
+      "text": "Each of these strategies faces difficulties. Corrections rarely reach everyone who saw the original claim, and heavy-handed moderation raises legitimate concerns about censorship and about who should be entrusted with deciding what is true. There is consequently no single remedy; a resilient information environment is likely to depend on a combination of better platform design, independent journalism and a public equipped with the skills to evaluate what it reads."
+    },
+    {
+      "id": "p6",
+      "text": "Because inattention appears to play such an important role, some researchers have explored remarkably simple interventions. In several experiments, asking people to consider the accuracy of a single unrelated headline before they browsed their news feed made them somewhat more discerning about what they went on to share. Other proposals involve introducing small amounts of friction into the act of sharing, for example by prompting users to open an article before reposting it. Such measures are attractive because they do not require anyone to decide which claims are true; they merely encourage people to apply judgement they already possess. Their effects in experiments, however, tend to be modest, and it remains unclear how well they hold up over time or once users have become accustomed to them. Some platforms have experimented with such prompts, although their long-term impact has rarely been made public."
+    },
+    {
+      "id": "p7",
+      "text": "A less obvious danger is that efforts to combat misinformation may themselves erode trust. If people are constantly warned that much of what they encounter online is false, some may conclude that nothing can be believed, and this indiscriminate cynicism can be as damaging to public debate as credulity. Indeed, those who deliberately spread misinformation have sometimes aimed less at persuading people of a particular falsehood than at creating confusion, so that citizens give up trying to distinguish reliable sources from unreliable ones. Effective interventions must therefore help people to identify trustworthy information, not merely to reject untrustworthy material. Some studies suggest that people's ability to recognise accurate news is as much in need of support as their ability to detect fabrications."
+    },
+    {
+      "id": "p8",
+      "text": "Misinformation also flourishes where there is a vacuum of reliable information. When local newspapers close, as many have done since advertising revenue moved online, communities may lose a trusted source of news about their own area, leaving gaps that rumour and partisan content are quick to fill. Similarly, during fast-moving events such as natural disasters or the early stages of a disease outbreak, accurate information is often incomplete, and people searching for answers may turn to whatever explanation is readily available. This suggests that combating misinformation is not only a matter of suppressing falsehoods but also of ensuring that credible information is accessible, timely and clearly communicated. Institutions that wish to be believed must also acknowledge uncertainty honestly, since confident claims that later prove wrong can damage trust for years."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the passage?",
+      "options": [
+        "Misinformation is an entirely new problem created by social media.",
+        "Misinformation spreads rapidly online for several reasons, and tackling it requires a combination of approaches.",
+        "Fact-checking has largely solved the problem of false information.",
+        "People share falsehoods mainly because they lack intelligence."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The passage explains the causes of online misinformation and concludes that no single remedy will work.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "There is consequently no single remedy"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, why are false stories often shared more widely than true ones?",
+      "options": [
+        "They tend to be more novel and emotionally provocative.",
+        "They are usually written by professional journalists.",
+        "They are generally shorter than accurate stories.",
+        "Platforms deliberately choose to promote false content."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "False stories provoke surprise, fear or outrage, which make people more likely to share. Algorithms promote engaging content regardless of accuracy, not because it is false.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "False stories are frequently more novel and emotionally arousing than the truth"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the phrase \"irrespective of\" is closest in meaning to:",
+      "options": [
+        "because of",
+        "in proportion to",
+        "without regard to",
+        "in addition to"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Engaging material is promoted whether or not it is accurate.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "irrespective of its accuracy"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 3 about labelling a claim as false?",
+      "options": [
+        "It always convinces people that the claim is untrue.",
+        "It makes people less likely to see the claim again.",
+        "It is effective only for highly intelligent people.",
+        "It may not stop the claim from seeming credible if people encounter it repeatedly."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Repetition can increase credibility \"even when the claim is explicitly labelled as false\", so labels have limited power.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "even when the claim is explicitly labelled as false"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "familiarity is easily mistaken for truth"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention that inattention often explains why people share falsehoods?",
+      "options": [
+        "To argue that people should spend less time online",
+        "To show that intelligence has no effect on behaviour",
+        "To criticise researchers for studying the wrong problem",
+        "To challenge a popular assumption about who is susceptible to misinformation"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The point corrects the \"common misconception\" that being misled is simply a sign of low intelligence.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "It is a common misconception, however, that susceptibility to misinformation is simply a matter of low intelligence"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What does prebunking involve?",
+      "options": [
+        "Removing false content before it is published",
+        "Exposing people in advance to mild examples of manipulative techniques",
+        "Rating claims after they have spread",
+        "Attaching warning labels to disputed posts"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Prebunking \"inoculates\" people by showing them weakened examples of manipulation so they can recognise it later.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "exposing them to weakened examples of manipulative techniques"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "Why does the writer refer to \"who should be entrusted with deciding what is true\"?",
+      "options": [
+        "To highlight an ethical concern raised by strict content moderation",
+        "To recommend that governments control social media",
+        "To suggest that fact-checkers are unreliable",
+        "To explain how prebunking works"
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The phrase identifies a legitimate worry about censorship that accompanies heavy-handed moderation.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "heavy-handed moderation raises legitimate concerns about censorship"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "Which statement would the writer most likely agree with?",
+      "options": [
+        "Platforms should remove all content that might be misleading.",
+        "Independent journalism has become irrelevant.",
+        "Teaching people to evaluate information critically is part of the solution.",
+        "Corrections are sufficient on their own."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer lists a skilled, critical public among the elements of a resilient information environment.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "a public equipped with the skills to evaluate what it reads"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 6 to 8?",
+      "options": [
+        "Simple accuracy prompts have now largely solved the problem of online misinformation.",
+        "Countering misinformation means encouraging attention, sustaining trust in reliable sources and filling information gaps, not only removing falsehoods.",
+        "Warning people repeatedly about false content is the best way to protect public debate.",
+        "Misinformation is caused mainly by the closure of local newspapers."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The final paragraphs discuss attention-based interventions, the risk of general distrust and the need for accessible credible information.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "combating misinformation is not only a matter of suppressing falsehoods but also of ensuring that credible information is accessible, timely and clearly communicated"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, what happened when people were asked to consider the accuracy of an unrelated headline?",
+      "options": [
+        "They became somewhat more careful about what they later shared.",
+        "They stopped sharing news content altogether.",
+        "They became better at recognising fake experts.",
+        "They began reading full articles before sharing them."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The prompt made people somewhat more discerning about what they shared afterwards.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "made them somewhat more discerning about what they went on to share"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "How do accuracy prompts and friction relate to the concerns raised in paragraph 5?",
+      "options": [
+        "They raise even more serious concerns about censorship than moderation does.",
+        "They make sure that corrections reach everyone who saw the original claim.",
+        "They sidestep the difficult question of who should be trusted to decide what is true.",
+        "They remove the need for independent journalism and platform redesign."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Paragraph 5 worries about who decides what is true; these measures do not require anyone to judge claims.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "they do not require anyone to decide which claims are true"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"discerning\" is closest in meaning to:",
+      "options": [
+        "suspicious of everything",
+        "quick to respond",
+        "well informed",
+        "showing good judgement"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "People judged more carefully which content deserved to be shared.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "somewhat more discerning about what they went on to share"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What limitation of these simple interventions does paragraph 6 mention?",
+      "options": [
+        "They require platforms to employ large numbers of fact-checkers.",
+        "Their effects tend to be modest and may not last.",
+        "They make users less willing to share accurate news.",
+        "They work only for people who are already well educated."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer notes modest effects and uncertainty about whether they persist.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Their effects in experiments, however, tend to be modest"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"credulity\" is closest in meaning to:",
+      "options": [
+        "an unwillingness to trust anyone",
+        "a lack of interest in the news",
+        "a readiness to believe things too easily",
+        "loyalty to a political group"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Credulity is contrasted with cynicism: believing too readily rather than believing nothing.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "this indiscriminate cynicism can be as damaging to public debate as credulity"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What does paragraph 7 suggest about some people who deliberately spread misinformation?",
+      "options": [
+        "They may be trying to leave people unsure what to believe rather than to convince them of one claim.",
+        "They usually believe the false claims that they spread.",
+        "They are concerned mainly with promoting a single viewpoint.",
+        "They rarely succeed in creating any real confusion."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Their aim is sometimes confusion, so that people give up distinguishing reliable from unreliable sources.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "have sometimes aimed less at persuading people of a particular falsehood than at creating confusion"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "According to paragraph 7, what should effective interventions help people to do?",
+      "options": [
+        "Treat everything they encounter online with suspicion",
+        "Avoid using social media platforms entirely",
+        "Report false content to platform moderators",
+        "Identify trustworthy information as well as reject untrustworthy material"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Interventions must support recognising reliable information, not just rejecting false content.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Effective interventions must therefore help people to identify trustworthy information, not merely to reject untrustworthy material."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer compare \"indiscriminate cynicism\" with \"credulity\"?",
+      "options": [
+        "To argue that believing too readily is no longer a problem online",
+        "To claim that most internet users are naturally cynical",
+        "To show that excessive distrust can harm public debate as much as believing too readily",
+        "To criticise fact-checkers for being too sceptical"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The comparison stresses that overcorrecting into distrust is also damaging.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "some may conclude that nothing can be believed, and this indiscriminate cynicism can be as damaging to public debate as credulity"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 8, what can happen when local newspapers close?",
+      "options": [
+        "Gaps in local news may be filled by rumour and partisan content.",
+        "Advertising revenue tends to return to printed media.",
+        "Communities come to rely on national fact-checking organisations.",
+        "Residents stop taking an interest in news about their area."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Communities lose a trusted source, and rumour and partisan content fill the gap.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "leaving gaps that rumour and partisan content are quick to fill"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 8 about fast-moving events such as disease outbreaks?",
+      "options": [
+        "Official sources usually provide complete information straight away.",
+        "People's demand for explanations may run ahead of the reliable information available.",
+        "People are especially sceptical of easy explanations at such times.",
+        "Misinformation is less likely to spread during emergencies."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Accurate information is incomplete, while people keep searching for answers and accept whatever is available.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "accurate information is often incomplete, and people searching for answers may turn to whatever explanation is readily available"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"vacuum\" is closest in meaning to:",
+      "options": [
+        "an excess",
+        "a source",
+        "a conflict",
+        "an absence"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Misinformation spreads where reliable information is missing.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "where there is a vacuum of reliable information"
+        }
+      ]
+    }
+  ]
+}

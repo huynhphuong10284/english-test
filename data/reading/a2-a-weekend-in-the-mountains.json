@@ -1,0 +1,443 @@
+{
+  "id": "a-weekend-in-the-mountains",
+  "title": "A Weekend in the Mountains",
+  "level": "A2 · Elementary",
+  "description": "A family goes camping in the mountains for two days.",
+  "instructions": "Read the story about a family camping trip, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Last summer, the Turner family went camping in the mountains for a weekend. There are four people in the family: Mr Turner, Mrs Turner, their son Leo and their daughter Mia. They left home early on Saturday morning and drove for three hours. The car was full of bags, food and a big green tent. Leo was excited, but Mia was a little nervous because it was her first time camping."
+    },
+    {
+      "id": "p2",
+      "text": "When they arrived, they put up the tent next to a small lake. It was not easy, and it took them almost an hour. In the afternoon, they walked up a hill and saw beautiful views of the valley. Mia took a lot of photos with her mother's phone. In the evening, Mr Turner cooked sausages and potatoes on a small fire."
+    },
+    {
+      "id": "p3",
+      "text": "The night was very cold, and nobody slept well. Mia heard strange noises outside the tent and woke up her brother. Leo laughed and said it was only the wind in the trees. In the morning, they saw small footprints near the tent. Mrs Turner said a fox probably came to look for food."
+    },
+    {
+      "id": "p4",
+      "text": "On Sunday, the family swam in the lake and had a picnic lunch. Then they packed everything into the car and drove home. Mia was tired but happy. She told her friends at school that camping was the best adventure of her summer. Now she wants to go again next year."
+    },
+    {
+      "id": "p5",
+      "text": "Back at home, Mia printed her best photos from the trip. Her favourite one showed the valley from the top of the hill in the evening light. She put it on the wall above her bed. Leo liked the photo of the fox footprints best, because it reminded him of Mia's scary night. He told the story to all his friends and laughed every time."
+    },
+    {
+      "id": "p6",
+      "text": "In September, Mia's teacher asked the class to write about their summer holidays. Mia wrote about the weekend in the mountains and added her photos. Her teacher said it was one of the most interesting stories in the class. Now the whole family is saving money for a bigger and warmer tent. Mr Turner says next time they are going to stay for a whole week."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the story mainly about?",
+      "options": [
+        "How to cook food on a fire",
+        "A family's camping weekend in the mountains",
+        "A fox that lives near a lake",
+        "Mia's first day at a new school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The whole story follows the Turner family on their weekend camping trip.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "the Turner family went camping in the mountains for a weekend"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How long did the family drive to get to the mountains?",
+      "options": [
+        "One hour",
+        "Two hours",
+        "Three hours",
+        "Four hours"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 1 says they drove for three hours.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They left home early on Saturday morning and drove for three hours."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Where did the family put up their tent?",
+      "options": [
+        "Next to a small lake",
+        "On top of a hill",
+        "In a car park",
+        "Under a big tree in the valley"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 2 says they put up the tent next to a small lake.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "they put up the tent next to a small lake"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What made the noises Mia heard at night?",
+      "options": [
+        "Her father cooking breakfast",
+        "Other campers talking",
+        "A large bear",
+        "Probably the wind and maybe a fox"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Leo said it was the wind, and the footprints in the morning suggest a fox also came near the tent.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Leo laughed and said it was only the wind in the trees."
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "Mrs Turner said a fox probably came to look for food."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"nervous\" is closest in meaning to:",
+      "options": [
+        "hungry",
+        "a little worried",
+        "very angry",
+        "bored"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mia felt nervous because camping was new for her, so she was a little worried.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Mia was a little nervous because it was her first time camping"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer include the last paragraph?",
+      "options": [
+        "To explain how to swim safely in a lake",
+        "To describe Mia's school and friends",
+        "To show that the trip ended happily and Mia enjoyed it",
+        "To say that the family will never camp again"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The last paragraph shows that Mia, who was nervous at first, loved the trip and wants to go again.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Mia was tired but happy."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Now she wants to go again next year."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "When did the family leave home?",
+      "options": [
+        "Early on Saturday morning",
+        "Late on Friday evening",
+        "On Sunday afternoon",
+        "At lunchtime on Saturday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They left home early on Saturday morning.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They left home early on Saturday morning and drove for three hours."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "purpose",
+      "text": "Why does the writer say putting up the tent \"was not easy\"?",
+      "options": [
+        "To show that the tent was broken",
+        "To explain why it took the family so long",
+        "To show that Mia did not help",
+        "To explain why they slept badly"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It was difficult, so it took them almost an hour.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "It was not easy, and it took them almost an hour."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"views\" means...",
+      "options": [
+        "long walks in the hills",
+        "photos on a phone",
+        "small fires for cooking",
+        "things you can see from a place"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "From the hill they could see the beautiful valley below.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "saw beautiful views of the valley"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did Mr Turner cook in the evening?",
+      "options": [
+        "Fish from the lake",
+        "Soup and bread",
+        "Sausages and potatoes",
+        "Chicken and rice"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mr Turner cooked sausages and potatoes on a small fire.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Mr Turner cooked sausages and potatoes on a small fire."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What can we say about Leo during the night?",
+      "options": [
+        "He heard the fox and shouted",
+        "He was angry with his mother",
+        "He slept very well",
+        "He was not afraid of the noises"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Leo laughed and said it was only the wind, so he was not scared.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Leo laughed and said it was only the wind in the trees."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"footprints\" means...",
+      "options": [
+        "small wild animals",
+        "holes in the tent",
+        "marks made by feet on the ground",
+        "pieces of old food"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Footprints are the marks that feet leave on the ground.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "they saw small footprints near the tent"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What did the family do on Sunday before they drove home?",
+      "options": [
+        "They swam in the lake and had a picnic",
+        "They climbed the hill again",
+        "They cooked on the fire",
+        "They visited a farm"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "On Sunday they swam in the lake and had a picnic lunch.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "On Sunday, the family swam in the lake and had a picnic lunch."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did Mia put on the wall above her bed?",
+      "options": [
+        "A photo of the fox footprints",
+        "A map of the mountains",
+        "A photo of the valley",
+        "A picture of the tent"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her favourite photo showed the valley, and she put it above her bed.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Her favourite one showed the valley from the top of the hill in the evening light."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What can we understand about Leo from paragraph 5?",
+      "options": [
+        "He is afraid of foxes",
+        "He likes to make jokes about his sister",
+        "He took all the photos on the trip",
+        "He did not enjoy the trip"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He liked the footprints photo because of Mia's scary night, and he laughed when he told the story.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "He told the story to all his friends and laughed every time."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"scary\" means...",
+      "options": [
+        "making you feel afraid",
+        "very cold",
+        "very long",
+        "very funny"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mia heard strange noises, so the night made her feel afraid.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "it reminded him of Mia's scary night"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What did Mia's teacher say about her story?",
+      "options": [
+        "It was too short",
+        "It needed more photos",
+        "It was the best story in the school",
+        "It was one of the most interesting in the class"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Her teacher said it was one of the most interesting stories in the class.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Her teacher said it was one of the most interesting stories in the class."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"saving\" money means...",
+      "options": [
+        "keeping it to use later",
+        "spending it quickly",
+        "losing it",
+        "borrowing it from friends"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The family is keeping money so they can buy a new tent later.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the whole family is saving money for a bigger and warmer tent"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer say the family wants \"a bigger and warmer tent\"?",
+      "options": [
+        "To show that they are very rich",
+        "To explain why Leo laughed",
+        "To show that they sold their old car",
+        "To show that they plan to go camping again"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They are getting ready for their next camping trip.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Now the whole family is saving money for a bigger and warmer tent."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What can we understand about Mr Turner from the last paragraph?",
+      "options": [
+        "He does not want to go camping again",
+        "He also enjoyed the camping trip",
+        "He is angry about the cold night",
+        "He wants to go to the beach next time"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He wants to stay for a whole week next time, so he liked the trip.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Mr Turner says next time they are going to stay for a whole week."
+        }
+      ]
+    }
+  ]
+}

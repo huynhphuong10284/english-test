@@ -1,0 +1,326 @@
+{
+  "id": "w-applying-to-volunteer",
+  "title": "Applying to Volunteer",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise formal linking, perfect participles and passives, then write a formal letter applying for a volunteer position.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Participle clauses",
+      "prompt": "Choose the correct answer.",
+      "text": "___ at a summer camp last year, I have experience of working with children.",
+      "options": [
+        "Worked",
+        "Having worked",
+        "To work",
+        "Have worked"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A perfect participle clause (Having + past participle) shows an action that happened before the main clause."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Passive voice",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "All volunteers ___ (give) full training before the festival starts.",
+      "answers": [
+        "will be given",
+        "are given",
+        "will have been given"
+      ],
+      "points": 1,
+      "explanation": "Use a passive form (be + past participle) when the receiver of the action is the subject: volunteers will be given training."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Formal language",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "I",
+        "grateful",
+        "would be",
+        "if you could",
+        "further details",
+        "send me"
+      ],
+      "answers": [
+        "I would be grateful if you could send me further details."
+      ],
+      "points": 1,
+      "explanation": "\"I would be grateful if you could ...\" is a polite, formal way to make a request in a letter."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Linking words",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Although I have never volunteered before, but I am a fast learner.",
+      "answers": [
+        "Although I have never volunteered before, I am a fast learner.",
+        "I have never volunteered before, but I am a fast learner.",
+        "Though I have never volunteered before, I am a fast learner."
+      ],
+      "points": 1,
+      "explanation": "Do not use \"although\" and \"but\" in the same sentence; one linking word is enough to show the contrast."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "I am available at weekends, ___ during the week I have classes until 4 p.m.",
+      "options": [
+        "consequently",
+        "whereas",
+        "therefore",
+        "despite"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Whereas\" contrasts two facts in the same sentence."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Reported speech",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Your advertisement stated that volunteers ___ (need) to be at least eighteen.",
+      "answers": [
+        "needed",
+        "need"
+      ],
+      "points": 1,
+      "explanation": "After a past reporting verb, the present simple usually moves back to the past simple (needed), though it can stay in the present when it is still true."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Third conditional",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"I would have applied last year ___ about the programme.\"",
+      "text": "I didn't apply last year because I didn't know about the programme.",
+      "keyword": "HAD",
+      "answers": [
+        "I would have applied last year if I had known about the programme.",
+        "I would have applied last year if I'd known about the programme.",
+        "I'd have applied last year if I had known about the programme.",
+        "I'd have applied last year if I'd known about the programme."
+      ],
+      "points": 1,
+      "explanation": "Third conditional: would have + past participle in the result, if + past perfect in the condition."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Wish / if only",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"I ___ speak Spanish.\"",
+      "text": "It's a pity that I can't speak Spanish.",
+      "keyword": "WISH",
+      "answers": [
+        "I wish I could speak Spanish.",
+        "I wish that I could speak Spanish.",
+        "I wish I was able to speak Spanish.",
+        "I wish I were able to speak Spanish."
+      ],
+      "points": 1,
+      "explanation": "For a present ability you do not have, use wish + could: I wish I could speak Spanish."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct answer.",
+      "text": "I would like to ___ part in the summer festival as a volunteer.",
+      "options": [
+        "take",
+        "make",
+        "do",
+        "have"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The fixed expression is take part in (= participate in)."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "I consider myself a ___ (rely) and hard-working person.",
+      "answers": [
+        "reliable"
+      ],
+      "points": 1,
+      "explanation": "Add -able to rely (y changes to i) to form the adjective reliable."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Be used to + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "large groups",
+        "am",
+        "working",
+        "I",
+        "used to",
+        "with"
+      ],
+      "answers": [
+        "I am used to working with large groups.",
+        "Am I used to working with large groups?"
+      ],
+      "points": 1,
+      "explanation": "Be used to + -ing means be accustomed to something; to is a preposition here."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Articles",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I am student at the local university.",
+      "answers": [
+        "I am a student at the local university."
+      ],
+      "points": 1,
+      "explanation": "Singular countable nouns for jobs and roles need a/an: I am a student."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Modals of deduction",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The work ___ very rewarding.\"",
+      "text": "I'm sure the work is very rewarding.",
+      "keyword": "MUST",
+      "answers": [
+        "The work must be very rewarding."
+      ],
+      "points": 1,
+      "explanation": "Must + infinitive expresses a confident deduction about the present."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Formal linking: on the other hand",
+      "prompt": "Choose the correct answer.",
+      "text": "I have no formal qualifications. ___, I have a lot of practical experience.",
+      "options": [
+        "Therefore",
+        "Whereas",
+        "As a result",
+        "On the other hand"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "On the other hand introduces a contrasting point in a new sentence; therefore and as a result introduce results."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Causative have",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "I recently had my first aid certificate ___ (renew).",
+      "answers": [
+        "renewed"
+      ],
+      "points": 1,
+      "explanation": "Causative have + object + past participle: someone else renewed the certificate for me."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Mixed conditionals",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "I",
+        "would not be so confident now",
+        "if",
+        "had not volunteered last summer",
+        "I"
+      ],
+      "answers": [
+        "If I had not volunteered last summer, I would not be so confident now.",
+        "I would not be so confident now if I had not volunteered last summer."
+      ],
+      "points": 1,
+      "explanation": "A mixed conditional connects a past condition (had not volunteered) with a present result (would not be ... now)."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Reported questions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The coordinator asked me what languages did I speak.",
+      "answers": [
+        "The coordinator asked me what languages I spoke.",
+        "The coordinator asked me what languages I speak."
+      ],
+      "points": 1,
+      "explanation": "Reported questions use statement word order with no auxiliary did: what languages I spoke."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Reported yes/no questions",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The coordinator asked me ___ experience with children.\"",
+      "text": "\"Do you have any experience with children?\" the coordinator asked me.",
+      "keyword": "IF",
+      "answers": [
+        "The coordinator asked me if I had any experience with children.",
+        "The coordinator asked me if I have any experience with children."
+      ],
+      "points": 1,
+      "explanation": "Yes/no questions are reported with if or whether + statement word order, usually with a tense change."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Preposition + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I am interested in to help at the festival.",
+      "answers": [
+        "I am interested in helping at the festival."
+      ],
+      "points": 1,
+      "explanation": "After a preposition such as in, use the -ing form of the verb."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "So / such",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"It was ___ that they are holding it again.\"",
+      "text": "The festival was so successful that they are holding it again.",
+      "keyword": "SUCH",
+      "answers": [
+        "It was such a successful festival that they are holding it again."
+      ],
+      "points": 1,
+      "explanation": "Such + a/an + adjective + noun + that has the same meaning as so + adjective + that."
+    }
+  ],
+  "task": {
+    "genre": "Formal letter",
+    "prompt": "You have seen an advertisement for volunteers to help at an international music festival in your town. Write a letter to the festival organiser applying to be a volunteer.",
+    "contentPoints": [
+      "Say which position you are applying for and where you saw the advertisement.",
+      "Describe your relevant skills and experience.",
+      "Explain why you would like to volunteer.",
+      "Ask for more information about one practical detail."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "Dear Mr/Ms ...,",
+      "I am writing to apply for ...",
+      "Having worked as ...",
+      "I believe I would be suitable because ...",
+      "I would be grateful if you could ...",
+      "Yours sincerely,"
+    ],
+    "modelAnswer": "Dear Ms Patel,\n\nI am writing to apply for a position as a volunteer at the Riverside Music Festival, which I saw advertised in the local newspaper last week.\n\nI am a nineteen-year-old university student studying tourism, and I believe I would be suitable for the role of information assistant. Having worked at a hotel reception desk last summer, I am used to dealing with members of the public in a calm and friendly way. In addition, I speak fluent English and French, which would be useful for helping international visitors.\n\nI would very much like to take part in the festival for several reasons. Firstly, music has always been one of my greatest passions, and I would love to see how such a large event is organised. Secondly, I hope to work in event management in the future, so this would be valuable experience. Finally, I enjoy meeting people from different countries and cultures.\n\nYour advertisement stated that volunteers would be given free meals. However, I would be grateful if you could tell me whether accommodation will also be provided, as I live about forty kilometres from the festival site.\n\nI look forward to hearing from you.\n\nYours sincerely,\n\nElena Rossi"
+  }
+}

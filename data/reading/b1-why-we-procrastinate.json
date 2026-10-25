@@ -1,0 +1,455 @@
+{
+  "id": "why-we-procrastinate",
+  "title": "Why We Procrastinate",
+  "level": "B1 · Intermediate",
+  "description": "What makes us put off important tasks, and some simple ways to stop.",
+  "instructions": "Read the passage about procrastination, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Most people know the feeling of putting off an important task until the last minute. Instead of writing an essay or cleaning the house, we check our phones, make a snack or tidy a drawer that was already tidy. This habit is called procrastination, and almost everyone does it at some point. Surprisingly, psychologists say it is not usually caused by laziness."
+    },
+    {
+      "id": "p2",
+      "text": "According to many researchers, procrastination is mainly about emotions. When a task feels boring, difficult or stressful, our brain looks for something more pleasant to do instead. Putting the task off gives us a short moment of relief. Unfortunately, the bad feeling usually returns later, often stronger than before, because the deadline is now closer."
+    },
+    {
+      "id": "p3",
+      "text": "Perfectionism can also lead to procrastination. People who are afraid of making mistakes may delay starting a task because they worry the result will not be good enough. Others feel overwhelmed when a project is very large and they do not know where to begin. In both cases, waiting seems easier than facing the problem."
+    },
+    {
+      "id": "p4",
+      "text": "Fortunately, there are simple ways to fight procrastination. One popular method is to break a large task into small steps and focus only on the first one. Another is to work for a short, fixed period, such as twenty-five minutes, and then take a break. It also helps to be kind to yourself, since people who forgive themselves for past delays are often less likely to procrastinate again."
+    },
+    {
+      "id": "p5",
+      "text": "Modern technology can make procrastination even easier. Smartphones offer endless messages, videos and games, and many apps are designed to hold our attention for as long as possible. Every time a notification appears, it pulls us away from what we are doing, and it can take several minutes to fully focus again. For this reason, some people put their phone in another room while they work, or use special programs that block distracting websites for a set period of time. Even small changes, such as turning off sounds and alerts, can make it much easier to get started."
+    },
+    {
+      "id": "p6",
+      "text": "Some people claim that they work best under pressure and that leaving a task until the last minute makes them more creative. It is true that a deadline can give people energy and focus. However, research suggests that work done in a rush often contains more mistakes, and that people who regularly delay tasks tend to feel more stressed. They may also sleep less in the days before a deadline. In other words, the excitement of the last-minute rush may feel useful, but it usually comes at a cost."
+    },
+    {
+      "id": "p7",
+      "text": "In the long term, understanding why we procrastinate may be more useful than any single trick. Some psychologists suggest keeping a short diary for a week, writing down which tasks we avoid and how we feel when we avoid them. Patterns soon appear: one person may always delay phone calls, while another puts off anything involving numbers. Once we recognise these patterns, we can prepare for them in advance. Procrastination may never disappear completely, but it does not have to control our lives."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the passage mainly about?",
+      "options": [
+        "Why lazy people never finish their work",
+        "What causes procrastination and how to deal with it",
+        "How to write a good essay",
+        "Why mobile phones are bad for students"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The passage explains the causes of procrastination (emotions, perfectionism) and then gives ways to fight it.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "This habit is called procrastination"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "there are simple ways to fight procrastination"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, what does putting off a task give us?",
+      "options": [
+        "A better result",
+        "More time to sleep",
+        "A higher grade",
+        "A short moment of relief"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 2 says putting the task off gives a short moment of relief.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Putting the task off gives us a short moment of relief."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "What can we infer from paragraph 1 about procrastination?",
+      "options": [
+        "It is a very common experience.",
+        "Only students procrastinate.",
+        "It is always caused by laziness.",
+        "It happens only when people are tired."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Almost everyone does it at some point, so it is very common.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "almost everyone does it at some point"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"overwhelmed\" is closest in meaning to:",
+      "options": [
+        "excited and happy",
+        "bored and sleepy",
+        "feeling there is too much to deal with",
+        "angry with other people"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "People feel overwhelmed when a project is very large and they do not know where to begin, meaning it feels like too much.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Others feel overwhelmed when a project is very large and they do not know where to begin."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer give the example of tidying a drawer that was already tidy?",
+      "options": [
+        "To show how people do unnecessary things to avoid important tasks",
+        "To give advice about keeping a clean house",
+        "To show that tidying reduces stress",
+        "To explain what perfectionism means"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tidying something already tidy is pointless; it shows how people avoid the real task.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "tidy a drawer that was already tidy"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Why do some perfectionists delay starting a task?",
+      "options": [
+        "They have too much free time.",
+        "They worry the result will not be good enough.",
+        "They do not like their teachers.",
+        "They prefer to work in groups."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 3 says they worry the result will not be good enough.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "they worry the result will not be good enough"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What can we infer about people who are very hard on themselves after delaying a task?",
+      "options": [
+        "They are less likely to delay tasks in future.",
+        "They always finish tasks early.",
+        "They may continue to procrastinate.",
+        "They never feel stressed."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "People who forgive themselves are less likely to procrastinate again, so those who do not forgive themselves may keep procrastinating.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "people who forgive themselves for past delays are often less likely to procrastinate again"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "According to paragraph 1, what do psychologists say about the cause of procrastination?",
+      "options": [
+        "It is usually caused by tiredness.",
+        "It is mainly caused by mobile phones.",
+        "It is caused by having too little work.",
+        "It is not usually caused by laziness."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 1 ends by saying psychologists believe procrastination is not usually caused by laziness.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Surprisingly, psychologists say it is not usually caused by laziness."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"relief\" is closest in meaning to:",
+      "options": [
+        "a strong feeling of fear",
+        "a reward for finishing work",
+        "a pleasant feeling when something unpleasant stops",
+        "a feeling of being very tired"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Putting a boring or stressful task off makes us feel better for a moment, because the unpleasant feeling stops for a while.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Putting the task off gives us a short moment of relief."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 4, how long is the short, fixed working period given as an example?",
+      "options": [
+        "Five minutes",
+        "Two hours",
+        "One whole day",
+        "Twenty-five minutes"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 4 gives twenty-five minutes as an example of a short, fixed period.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "work for a short, fixed period, such as twenty-five minutes, and then take a break"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Smartphones should be banned from offices and schools.",
+        "Technology can make procrastination easier, but there are ways to reduce distractions.",
+        "Watching videos helps people relax before work.",
+        "Apps are the best way to stop procrastinating."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 5 explains how phones and apps pull our attention away, then describes what some people do about it.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Modern technology can make procrastination even easier."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "some people put their phone in another room while they work"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What can we infer about the people who design many apps?",
+      "options": [
+        "They want users to spend as much time as possible on their apps.",
+        "They want people to finish their work quickly.",
+        "They do not care how long people use their apps.",
+        "They design apps mainly for students."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer says many apps are designed to hold our attention for as long as possible, which shows the designers' aim.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "many apps are designed to hold our attention for as long as possible"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"notification\" refers to:",
+      "options": [
+        "a long piece of homework",
+        "a type of phone game",
+        "a message or alert that appears on a phone or computer",
+        "a rule about using phones"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A notification appears on the screen and pulls us away from what we are doing.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Every time a notification appears, it pulls us away from what we are doing"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 5, what happens after a notification interrupts us?",
+      "options": [
+        "We immediately forget the task.",
+        "Our phone stops working for a while.",
+        "We finish the task more quickly.",
+        "It can take several minutes to fully focus again."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 5 says it can take several minutes to fully focus again.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "it can take several minutes to fully focus again"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the phrase \"under pressure\" describes a situation in which:",
+      "options": [
+        "there is little time and a strong need to finish something",
+        "a person is lying under something heavy",
+        "there is no deadline at all",
+        "a person is working in a quiet place"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Working under pressure means working when the deadline is close and there is a lot of stress to finish.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Some people claim that they work best under pressure and that leaving a task until the last minute makes them more creative."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer start paragraph 6 with what some people claim?",
+      "options": [
+        "To prove that last-minute work is always better",
+        "To present a common belief before explaining why it is not completely true",
+        "To give an example of a perfectionist",
+        "To advise readers to leave tasks until the last minute"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer gives the claim, accepts part of it, then uses \"However\" to show research that points to the costs.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Some people claim that they work best under pressure"
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "However, research suggests that work done in a rush often contains more mistakes"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What does research suggest about work done in a rush?",
+      "options": [
+        "It is usually more creative.",
+        "It always gets higher marks.",
+        "It often contains more mistakes.",
+        "It takes more time to finish."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 6 says research suggests that work done in a rush often contains more mistakes.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "work done in a rush often contains more mistakes"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 7, what do some psychologists suggest keeping for a week?",
+      "options": [
+        "A list of all the apps on our phone",
+        "A short diary of the tasks we avoid and how we feel",
+        "A record of how many hours we sleep",
+        "A plan for every minute of the day"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 7 suggests keeping a short diary, writing down which tasks we avoid and how we feel.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "keeping a short diary for a week, writing down which tasks we avoid and how we feel when we avoid them"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What can we infer from the examples of phone calls and numbers in paragraph 7?",
+      "options": [
+        "Everyone avoids the same tasks.",
+        "Phone calls are harder than maths.",
+        "Only people who dislike numbers procrastinate.",
+        "Different people tend to avoid different kinds of tasks."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer gives two different people who each avoid a different type of task, showing that patterns are personal.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "one person may always delay phone calls, while another puts off anything involving numbers"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the last paragraph?",
+      "options": [
+        "Understanding our own patterns of procrastination can help us control it.",
+        "Procrastination will disappear if we keep a diary.",
+        "Psychologists cannot explain procrastination.",
+        "Tricks are the only way to stop procrastinating."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 7 argues that understanding why we procrastinate is very useful and that recognising patterns helps us prepare.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "understanding why we procrastinate may be more useful than any single trick"
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "Once we recognise these patterns, we can prepare for them in advance."
+        }
+      ]
+    }
+  ]
+}

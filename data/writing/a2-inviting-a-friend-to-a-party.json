@@ -1,0 +1,323 @@
+{
+  "id": "w-inviting-a-friend-to-a-party",
+  "title": "Inviting a Friend to a Party",
+  "level": "A2 · Elementary",
+  "description": "Practise \"going to\" and prepositions of time and place, then write a note inviting a friend to a party.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Going to",
+      "prompt": "Choose the correct answer.",
+      "text": "I ___ have a party on Saturday.",
+      "options": [
+        "am going to",
+        "going to",
+        "go to",
+        "am go"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "For plans, use am/is/are + going to + base verb: I am going to have a party."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Prepositions of time",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "The party starts ___ four o'clock.",
+      "answers": [
+        "at"
+      ],
+      "points": 1,
+      "explanation": "Use \"at\" with clock times: at four o'clock."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Going to",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "going",
+        "we",
+        "play",
+        "to",
+        "are",
+        "games"
+      ],
+      "answers": [
+        "We are going to play games.",
+        "Are we going to play games?"
+      ],
+      "points": 1,
+      "explanation": "Subject + are + going to + base verb: We are going to play games."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Prepositions of place",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My house is in 25 Park Road.",
+      "answers": [
+        "My house is at 25 Park Road."
+      ],
+      "points": 1,
+      "explanation": "Use \"at\" with a full address that has a house number: at 25 Park Road."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words: because",
+      "prompt": "Choose the correct answer.",
+      "text": "Please bring a swimsuit ___ there is a pool in the garden.",
+      "options": [
+        "so",
+        "because",
+        "but",
+        "then"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The pool is the reason for bringing a swimsuit, and \"because\" introduces a reason."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Going to: negatives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "My parents ___ (not / be) at home, but my big sister is going to help.",
+      "answers": [
+        "aren't going to be",
+        "are not going to be"
+      ],
+      "points": 1,
+      "explanation": "Negative form: am/is/are + not + going to + base verb: they aren't going to be at home."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Will for offers",
+      "prompt": "Choose the correct answer.",
+      "text": "A: I don't know the way to your house. B: Don't worry, I ___ send you a map.",
+      "options": [
+        "am",
+        "going",
+        "will",
+        "would to"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We use \"will\" + base verb to offer help when we decide at the moment of speaking: I will send you a map."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Superlatives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "It's going to be the ___ (big) party of the year!",
+      "answers": [
+        "biggest"
+      ],
+      "points": 1,
+      "explanation": "Short adjectives ending in one vowel + one consonant double the consonant: big - the biggest."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Will for predictions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "be",
+        "fun",
+        "it",
+        "will"
+      ],
+      "answers": [
+        "It will be fun.",
+        "Will it be fun?"
+      ],
+      "points": 1,
+      "explanation": "Subject + will + base verb for a prediction: It will be fun."
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Will: form",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Will you to come to my party?",
+      "answers": [
+        "Will you come to my party?"
+      ],
+      "points": 1,
+      "explanation": "After \"will\" we use the base verb without \"to\": Will you come?"
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Some / any",
+      "prompt": "Choose the correct answer.",
+      "text": "Can you bring ___ music for the party?",
+      "options": [
+        "any",
+        "many",
+        "a",
+        "some"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We use \"some\" in requests, even though they are questions: Can you bring some music?"
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Last year I ___ (have) a party in the park.",
+      "answers": [
+        "had"
+      ],
+      "points": 1,
+      "explanation": "\"Have\" is irregular: have - had."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Some / any",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "snacks",
+        "please",
+        "some",
+        "bring"
+      ],
+      "answers": [
+        "Please bring some snacks.",
+        "Bring some snacks, please."
+      ],
+      "points": 1,
+      "explanation": "We use \"some\" with plural nouns in positive sentences and requests: Please bring some snacks."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Countable and uncountable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There will be lots of foods and drinks.",
+      "answers": [
+        "There will be lots of food and drinks.",
+        "There will be lots of food and drink."
+      ],
+      "points": 1,
+      "explanation": "\"Food\" is usually uncountable, so it has no plural -s: lots of food."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "How much / how many",
+      "prompt": "Choose the correct answer.",
+      "text": "How ___ friends are you going to invite?",
+      "options": [
+        "much",
+        "lot",
+        "many",
+        "more"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Friends\" is a plural countable noun, so we ask \"How many...?\"."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Linking words: so",
+      "prompt": "Complete the sentence with \"so\" or \"because\".",
+      "text": "My house is hard to find, ___ I am sending you a map.",
+      "answers": [
+        "so"
+      ],
+      "points": 1,
+      "explanation": "\"So\" introduces a result: My house is hard to find (reason), so I am sending a map (result)."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Present continuous for future plans",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "coming",
+        "to the party",
+        "who",
+        "is"
+      ],
+      "answers": [
+        "Who is coming to the party?"
+      ],
+      "points": 1,
+      "explanation": "We use the present continuous for fixed future plans: Who is coming to the party?"
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My new house is more near the school than my old house.",
+      "answers": [
+        "My new house is nearer the school than my old house.",
+        "My new house is nearer to the school than my old house.",
+        "My new house is closer to the school than my old house."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives add -er to make the comparative: near - nearer (not \"more near\")."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Prepositions of time: on + date",
+      "prompt": "Choose the correct answer.",
+      "text": "My party is ___ 12th June.",
+      "options": [
+        "in",
+        "at",
+        "by",
+        "on"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We use \"on\" with dates: on 12th June. We use \"in\" with months only: in June."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Can for requests",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Can you bringing your guitar?",
+      "answers": [
+        "Can you bring your guitar?"
+      ],
+      "points": 1,
+      "explanation": "After \"can\" we use the base verb: Can you bring...?"
+    }
+  ],
+  "task": {
+    "genre": "Note",
+    "prompt": "Write a note to your friend Jake inviting him to your birthday party.",
+    "contentPoints": [
+      "Say what the party is for.",
+      "Give the date, time and place.",
+      "Say what you are going to do at the party.",
+      "Say what your friend should bring."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "I'm going to have a party ...",
+      "It starts at ...",
+      "My address is ...",
+      "We are going to ...",
+      "Please bring ...",
+      "I hope you can come!"
+    ],
+    "modelAnswer": "Hi Jake,\n\nI'm going to have a party for my twelfth birthday on Saturday, 14th May. It starts at four o'clock and finishes at eight. My address is 25 Park Road, near the library. We are going to play games in the garden and swim in the pool, so please bring a swimsuit. My dad is going to cook pizza.\n\nI hope you can come!\n\nTom"
+  }
+}

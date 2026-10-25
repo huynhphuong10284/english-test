@@ -1,0 +1,455 @@
+{
+  "id": "plastic-in-the-ocean",
+  "title": "Plastic in the Ocean",
+  "level": "B2 · Upper-intermediate",
+  "description": "The scale of ocean plastic pollution and the search for solutions.",
+  "instructions": "Read the article about plastic pollution in the oceans, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Since the mass production of plastic began in the 1950s, the material has transformed almost every aspect of daily life. It is cheap, light and remarkably durable, which explains its popularity in everything from food packaging to clothing. Unfortunately, the same durability that makes plastic so useful also makes it a serious environmental threat, because a single bottle can take hundreds of years to break down."
+    },
+    {
+      "id": "p2",
+      "text": "Scientists estimate that millions of tonnes of plastic enter the world's oceans every year. Much of it is carried there by rivers, particularly in regions where waste collection systems are inadequate or non-existent. Once in the sea, ocean currents can gather the debris into vast floating patches, the best known of which lies in the North Pacific and covers an area several times the size of France."
+    },
+    {
+      "id": "p3",
+      "text": "The consequences for marine life are severe. Sea turtles frequently mistake plastic bags for jellyfish, while seabirds feed fragments of plastic to their chicks. Over time, larger items are broken down by sunlight and waves into microplastics, tiny particles that are almost impossible to remove. These particles have been found in fish, shellfish and even drinking water, raising concerns about their possible effects on human health."
+    },
+    {
+      "id": "p4",
+      "text": "A variety of solutions have been proposed. Some engineers have designed floating barriers that collect rubbish from the surface of the sea, although critics point out that such devices cannot capture the microplastics that sink below. Many governments have introduced bans or taxes on single-use items such as bags and straws, and these measures have led to noticeable reductions in their use. Meanwhile, researchers are developing biodegradable alternatives, though these are often more expensive and do not always break down as easily as advertised."
+    },
+    {
+      "id": "p5",
+      "text": "Most experts agree that cleaning up the oceans, while valuable, is far less effective than preventing plastic from reaching them in the first place. This means improving waste management in developing countries, designing products that can be reused or recycled more easily, and persuading consumers to change their habits. As one marine biologist put it, \"When the bath is overflowing, you turn off the tap before you reach for the mop.\""
+    },
+    {
+      "id": "p6",
+      "text": "Not all ocean plastic comes from land, however. A significant share of the larger debris consists of fishing nets, ropes and other equipment that has been lost or deliberately abandoned at sea. These so-called 'ghost nets' can drift for years, continuing to trap fish, seals and turtles long after anyone has stopped using them. Because they are made to be strong, they are especially difficult to break apart. Some fishing communities now run schemes that pay crews to bring old nets back to port, where the material can be recycled into new products such as carpets or clothing."
+    },
+    {
+      "id": "p7",
+      "text": "Recycling is often presented as the answer, but its limits are becoming clearer. Many types of plastic are difficult or uneconomic to recycle, and only a small proportion of all the plastic ever produced is thought to have been recycled at all. In some cases, waste collected for recycling in wealthier countries has been shipped abroad to places that lack the facilities to process it properly, where some of it may end up being burned or dumped. Critics therefore warn that putting a bottle in the recycling bin can give consumers a comforting sense of having solved the problem, when in reality the bottle's journey may be far less tidy."
+    },
+    {
+      "id": "p8",
+      "text": "Because plastic pollution crosses national borders, many observers believe that international cooperation is essential. Ocean currents carry debris from one country's coastline to another's, so no nation can solve the problem alone. There is also growing pressure on manufacturers to take responsibility for the packaging they produce, for example by designing refillable containers or helping to pay for waste collection. Individual choices still matter, but campaigners argue that it is unfair to expect shoppers alone to fix a problem created by the way products are designed and sold. Real progress, they suggest, will require action from governments, businesses and consumers at the same time."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Plastic is the most useful material ever invented.",
+        "Floating barriers have solved the problem of ocean plastic.",
+        "Only sea turtles are harmed by plastic pollution.",
+        "Ocean plastic is a serious and growing problem, and preventing it is more effective than cleaning it up."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The article describes the scale and effects of the problem, reviews solutions, and concludes that prevention is most effective.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "makes it a serious environmental threat"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "is far less effective than preventing plastic from reaching them in the first place"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, how does much of the plastic reach the oceans?",
+      "options": [
+        "It is carried by rivers.",
+        "It is dropped from ships.",
+        "It is blown from beaches by the wind.",
+        "It falls from aeroplanes."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says much of the plastic is carried to the sea by rivers.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Much of it is carried there by rivers"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"inadequate\" is closest in meaning to:",
+      "options": [
+        "modern",
+        "expensive",
+        "not good enough",
+        "very large"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Inadequate waste collection systems are ones that are not good enough, which is why plastic reaches rivers.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "where waste collection systems are inadequate or non-existent"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What are microplastics, according to the article?",
+      "options": [
+        "Plastic bags that look like jellyfish",
+        "Tiny particles formed when larger plastic items break down",
+        "A new type of biodegradable material",
+        "Floating patches of rubbish in the Pacific"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 3 explains that sunlight and waves break larger items into tiny particles called microplastics.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "larger items are broken down by sunlight and waves into microplastics, tiny particles that are almost impossible to remove"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can be inferred about floating barriers?",
+      "options": [
+        "They are the best solution available.",
+        "They are too expensive to build.",
+        "They only solve part of the problem.",
+        "They are harmful to sea turtles."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They collect surface rubbish but cannot capture microplastics that sink, so they only address part of the problem.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "such devices cannot capture the microplastics that sink below"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What effect have bans and taxes on single-use items had?",
+      "options": [
+        "They have led to noticeable reductions in their use.",
+        "They have had no effect at all.",
+        "They have made biodegradable products cheaper.",
+        "They have removed microplastics from drinking water."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 4 says these measures have led to noticeable reductions in use.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "these measures have led to noticeable reductions in their use"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What does the article suggest about biodegradable alternatives?",
+      "options": [
+        "They are cheaper than ordinary plastic.",
+        "They have completely replaced plastic bags.",
+        "They break down faster than any other material.",
+        "They may not be as effective as companies claim."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The text says they do not always break down as easily as advertised, so claims about them may be exaggerated.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "do not always break down as easily as advertised"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "purpose",
+      "text": "Why does the writer include the marine biologist's quotation at the end?",
+      "options": [
+        "To describe how to clean a bathroom",
+        "To illustrate the idea that stopping plastic at its source should come before cleaning up",
+        "To show that cleaning up the oceans is pointless",
+        "To introduce a new topic about water shortages"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The image of turning off the tap before using the mop supports the argument that prevention should come first.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "When the bath is overflowing, you turn off the tap before you reach for the mop."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best reflects the writer's overall argument?",
+      "options": [
+        "Ocean plastic has many sources, and tackling it requires prevention and action at several levels.",
+        "Recycling has already solved most of the problem.",
+        "Ocean plastic is mainly the fault of the fishing industry.",
+        "Consumers alone are responsible for ocean plastic."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer stresses prevention over clean-up and ends by saying that governments, businesses and consumers must all act.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "far less effective than preventing plastic from reaching them in the first place"
+        },
+        {
+          "paragraphId": "p8",
+          "quote": "will require action from governments, businesses and consumers at the same time"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "purpose",
+      "text": "Why does the writer mention that a single bottle can take hundreds of years to break down?",
+      "options": [
+        "To praise the strength of plastic bottles",
+        "To show how the quality that makes plastic useful also makes it harmful",
+        "To explain how plastic is manufactured",
+        "To suggest that bottles should be kept for many years"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The example illustrates how plastic's durability, which makes it useful, also makes it an environmental threat.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "the same durability that makes plastic so useful also makes it a serious environmental threat"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"durable\" is closest in meaning to:",
+      "options": [
+        "flexible",
+        "transparent",
+        "inexpensive",
+        "long-lasting"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Durable things last a long time, which is why plastic takes so long to break down.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It is cheap, light and remarkably durable"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What can be inferred from the fact that microplastics have been found in drinking water?",
+      "options": [
+        "Drinking water is now unsafe everywhere.",
+        "Plastic pollution may affect people as well as marine animals.",
+        "Microplastics are easy to remove from water.",
+        "Fish are the main source of drinking water."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Their presence in drinking water raises concerns about human health, so the problem is not limited to sea creatures.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "raising concerns about their possible effects on human health"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "According to paragraph 6, what are \"ghost nets\"?",
+      "options": [
+        "Nets used to collect rubbish from the sea",
+        "Nets made from recycled plastic",
+        "Nets that fish cannot see",
+        "Fishing nets that have been lost or abandoned at sea"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Ghost nets are fishing equipment that has been lost or deliberately abandoned and continues to drift.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "fishing nets, ropes and other equipment that has been lost or deliberately abandoned at sea"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 6, what can recovered fishing nets be turned into?",
+      "options": [
+        "New fishing boats",
+        "Plastic bottles",
+        "Carpets or clothing",
+        "Building materials"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Material from old nets can be recycled into products such as carpets or clothing.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "recycled into new products such as carpets or clothing"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why might some fishing communities pay crews to bring old nets back to port?",
+      "options": [
+        "Without a reward, some crews might simply leave old nets at sea.",
+        "Old nets are worth more than new ones.",
+        "Fishing crews are paid less than other workers.",
+        "Ports have run out of space for new nets."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Some nets are deliberately abandoned, so paying crews gives them a reason to return the nets instead.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "pay crews to bring old nets back to port"
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "deliberately abandoned at sea"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"uneconomic\" means that recycling some plastics:",
+      "options": [
+        "harms the environment",
+        "is against the law",
+        "costs too much to be worthwhile",
+        "takes a very long time"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If something is uneconomic, it does not make financial sense to do it.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Many types of plastic are difficult or uneconomic to recycle"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "According to paragraph 7, what has sometimes happened to waste collected for recycling in wealthier countries?",
+      "options": [
+        "It has been sent abroad to places that cannot process it properly.",
+        "It has been turned into fuel for ships.",
+        "It has been returned to the shops that sold it.",
+        "It has been stored underground."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Some waste has been shipped to places without proper facilities, where it may be burned or dumped.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "has been shipped abroad to places that lack the facilities to process it properly"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "purpose",
+      "text": "Why does the writer refer to \"the bottle's journey\" at the end of paragraph 7?",
+      "options": [
+        "To describe how bottles are transported to shops",
+        "To praise the efficiency of recycling systems",
+        "To suggest that recycled plastic does not always end up where consumers imagine",
+        "To explain how ocean currents move bottles"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer warns that consumers may feel they have solved the problem when the bottle may in fact be burned or dumped.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "when in reality the bottle's journey may be far less tidy"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"essential\" is closest in meaning to:",
+      "options": [
+        "helpful but optional",
+        "already agreed",
+        "very expensive",
+        "absolutely necessary"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Observers believe that countries must work together, because no nation can solve the problem alone.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "international cooperation is essential"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What do the campaigners in paragraph 8 imply about shoppers?",
+      "options": [
+        "They do not care about the environment.",
+        "They have limited control over how products are designed and packaged.",
+        "They should stop buying packaged food completely.",
+        "They are mainly responsible for ocean plastic."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The campaigners say the problem comes from how products are designed and sold, which shoppers cannot fully control.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "it is unfair to expect shoppers alone to fix a problem created by the way products are designed and sold"
+        }
+      ]
+    }
+  ]
+}

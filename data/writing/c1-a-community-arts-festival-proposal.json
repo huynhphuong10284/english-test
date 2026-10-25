@@ -1,0 +1,344 @@
+{
+  "id": "w-a-community-arts-festival-proposal",
+  "title": "A Community Arts Festival Proposal",
+  "level": "C1 · Advanced",
+  "description": "Practise passives, nominalisation and conditional inversion, then write a proposal for a local arts festival.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The festival aims to ___ a sense of pride in the neighbourhood.",
+      "options": [
+        "perform",
+        "conduct",
+        "foster",
+        "undertake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Foster a sense of pride/community\" is a formal collocation meaning to encourage it to develop."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Advanced passives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The event ___ (expect) to attract more than 5,000 visitors.",
+      "answers": [
+        "is expected"
+      ],
+      "points": 1,
+      "explanation": "Subject + is expected + to-infinitive is an impersonal passive often used for predictions in proposals."
+    },
+    {
+      "id": "e3",
+      "type": "transformation",
+      "focus": "Nominalisation",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The festival's success depends on ___.\"",
+      "text": "If local businesses participate, the festival will be a success.",
+      "keyword": "PARTICIPATION",
+      "answers": [
+        "The festival's success depends on the participation of local businesses.",
+        "The festival's success depends on local businesses' participation.",
+        "The festival's success depends on participation by local businesses.",
+        "The festival's success depends on participation from local businesses.",
+        "The festival's success depends on the participation by local businesses.",
+        "The festival's success depends on the participation from local businesses."
+      ],
+      "points": 1,
+      "explanation": "Nominalisation turns the verb \"participate\" into the noun \"participation\", which can follow the preposition \"on\"."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Cleft sentences",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "brings",
+        "the",
+        "together",
+        "that",
+        "it",
+        "community",
+        "is",
+        "festival",
+        "the"
+      ],
+      "answers": [
+        "It is the festival that brings the community together.",
+        "It is the festival that brings together the community.",
+        "It is the community that the festival brings together."
+      ],
+      "points": 1,
+      "explanation": "An \"it\" cleft (It is + focus + that + clause) emphasises one part of the sentence."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Collocations",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The festival would give local artists a platform to show their talent and to rise funds for charity.",
+      "answers": [
+        "The festival would give local artists a platform to show their talent and to raise funds for charity."
+      ],
+      "points": 1,
+      "explanation": "\"Raise\" is transitive and takes an object (raise funds); \"rise\" has no object."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the most appropriately cautious option.",
+      "text": "Ticket sales ___ cover around 60% of the costs, although this is difficult to predict.",
+      "options": [
+        "would definitely",
+        "might be expected to",
+        "are certain to",
+        "will surely"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Might be expected to\" makes a cautious prediction, which matches \"although this is difficult to predict\"."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Conditional inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___, the concerts will move indoors.\"",
+      "text": "If the weather turns bad, the concerts will move indoors.",
+      "keyword": "SHOULD",
+      "answers": [
+        "Should the weather turn bad, the concerts will move indoors.",
+        "Should the weather turn bad, the concerts will be moved indoors."
+      ],
+      "points": 1,
+      "explanation": "In formal writing, \"If + subject + verb\" can be replaced by \"Should + subject + base verb\", with no \"if\"."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Concession",
+      "prompt": "Complete the gap with one suitable word or phrase.",
+      "text": "The budget is modest. ___ this, we are confident the festival will be a success.",
+      "answers": [
+        "Notwithstanding",
+        "Despite",
+        "In spite of",
+        "Regardless of"
+      ],
+      "points": 1,
+      "explanation": "\"Notwithstanding this\" (= despite this) is a formal way to introduce a contrast with the previous sentence."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The proposal is aimed ___ families who rarely attend cultural events.",
+      "options": [
+        "at",
+        "on",
+        "for",
+        "with"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We say a plan or product is \"aimed at\" a particular group of people."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Inversion with \"Such\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "that",
+        "such",
+        "turn",
+        "was",
+        "the demand",
+        "away",
+        "we had to",
+        "artists",
+        "for stalls"
+      ],
+      "answers": [
+        "Such was the demand for stalls that we had to turn artists away.",
+        "The demand for stalls was such that we had to turn artists away."
+      ],
+      "points": 1,
+      "explanation": "\"Such was + noun phrase + that ...\" is an emphatic inversion; it means the demand was so great that a result followed."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The festival would contribute for the regeneration of the town centre.",
+      "answers": [
+        "The festival would contribute to the regeneration of the town centre."
+      ],
+      "points": 1,
+      "explanation": "The verb \"contribute\" is followed by \"to\": contribute to something."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Conditional inversion with \"Were it not for\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Were ___, the festival could not take place.\"",
+      "text": "Without volunteers, the festival could not take place.",
+      "keyword": "NOT",
+      "answers": [
+        "Were it not for volunteers, the festival could not take place.",
+        "Were it not for the volunteers, the festival could not take place.",
+        "Were it not for our volunteers, the festival could not take place."
+      ],
+      "points": 1,
+      "explanation": "\"Were it not for + noun\" is a formal inverted conditional meaning \"If it were not for\" or \"Without\"."
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "All venues would be fully ___ (access) to wheelchair users.",
+      "answers": [
+        "accessible"
+      ],
+      "points": 1,
+      "explanation": "After \"fully\" and before \"to\" we need an adjective: access (noun) becomes accessible."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Formal requests",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "We would be grateful if the council ___ consider providing a small grant.",
+      "options": [
+        "will",
+        "shall",
+        "must",
+        "would"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "In formal requests, \"We would be grateful if you/the council would ...\" is the standard polite pattern."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Verb patterns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We suggest to hold the festival in the park.",
+      "answers": [
+        "We suggest holding the festival in the park.",
+        "We suggest that the festival be held in the park.",
+        "We suggest that the festival should be held in the park.",
+        "We suggest that the festival is held in the park.",
+        "We suggest the festival be held in the park.",
+        "We suggest the festival should be held in the park.",
+        "We suggest that we hold the festival in the park.",
+        "We suggest we hold the festival in the park."
+      ],
+      "points": 1,
+      "explanation": "\"Suggest\" is not followed by a to-infinitive. Use suggest + -ing, or suggest (that) + subject + (should) + verb."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Cleft sentences with \"What\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"What ___ more volunteers.\"",
+      "text": "Above all, the festival needs more volunteers.",
+      "keyword": "MOST",
+      "answers": [
+        "What the festival needs most is more volunteers.",
+        "What the festival most needs is more volunteers."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft (What + clause + is + focus) puts the important information at the end of the sentence."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Inversion with \"Not only\"",
+      "prompt": "Complete the gap using the words in brackets in the correct order. Add any word you need.",
+      "text": "Not only ___ (the festival / boost) local trade, but it would also strengthen community ties.",
+      "answers": [
+        "would the festival boost"
+      ],
+      "points": 1,
+      "explanation": "When \"Not only\" begins a sentence, the auxiliary comes before the subject: Not only would the festival boost ..."
+    },
+    {
+      "id": "e18",
+      "type": "word-order",
+      "focus": "Participle clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "local residents",
+        "a weekend festival",
+        "having",
+        "we",
+        "propose",
+        "consulted"
+      ],
+      "answers": [
+        "Having consulted local residents, we propose a weekend festival.",
+        "We propose a weekend festival, having consulted local residents."
+      ],
+      "points": 1,
+      "explanation": "A perfect participle clause (Having + past participle) shows that one action was completed before the main one."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The festival would celebrate the town's cultural diversify.",
+      "answers": [
+        "The festival would celebrate the town's cultural diversity."
+      ],
+      "points": 1,
+      "explanation": "After the adjective \"cultural\" we need a noun: diversify (verb) becomes diversity."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Conditional linkers",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The festival will go ahead ___ funding.\"",
+      "text": "The festival will go ahead as long as the council approves funding.",
+      "keyword": "PROVIDED",
+      "answers": [
+        "The festival will go ahead provided that the council approves funding.",
+        "The festival will go ahead provided the council approves funding.",
+        "The festival will go ahead provided that the council approves the funding.",
+        "The festival will go ahead provided the council approves the funding."
+      ],
+      "points": 1,
+      "explanation": "\"Provided (that)\" is a formal alternative to \"as long as\" and introduces a condition."
+    }
+  ],
+  "task": {
+    "genre": "Proposal",
+    "prompt": "Your town council is inviting proposals for a cultural event that would bring the community together. Write a proposal for a community arts festival, explaining what it would include, how it would benefit the town and how it would be funded.",
+    "contentPoints": [
+      "Describe what the festival would include.",
+      "Explain how it would benefit the community.",
+      "Outline the costs and how they would be covered.",
+      "Make a clear request to the council."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "The purpose of this proposal is to ...",
+      "The festival would feature ...",
+      "Should the weather turn bad, ...",
+      "The event is expected to ...",
+      "Notwithstanding this, ...",
+      "We would welcome the opportunity to ..."
+    ],
+    "modelAnswer": "Introduction\n\nThe purpose of this proposal is to suggest that the town hold a two-day community arts festival in Riverside Park next July, and to request funding from the council's cultural fund.\n\nThe event\n\nThe festival would feature live music, street theatre, a craft market and an open-air exhibition of work by local painters and photographers. Free workshops in drawing, dance and pottery would be run for children, and local schools would be invited to perform on the main stage. Should the weather turn bad, the concerts would be moved into the nearby sports centre.\n\nBenefits to the community\n\nA festival of this kind would foster a sense of pride in the neighbourhood and give local artists a valuable platform to show their talent. It would bring together residents of all ages and backgrounds. Furthermore, the event is expected to attract more than 5,000 visitors, which would benefit nearby cafes and shops.\n\nBudget and funding\n\nThe total cost is estimated at 25,000 pounds. Ticket sales might be expected to cover around 60% of this, although the figure is difficult to predict. The festival's success therefore depends on the participation of local businesses as sponsors, as well as on a contribution of 8,000 pounds from the council.\n\nConclusion\n\nThe budget is modest. Notwithstanding this, we are confident that the festival would be a success, and we would welcome the opportunity to present our plans in more detail at the next council meeting."
+  }
+}

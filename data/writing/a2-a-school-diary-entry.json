@@ -1,0 +1,318 @@
+{
+  "id": "w-a-school-diary-entry",
+  "title": "A School Diary Entry",
+  "level": "A2 · Elementary",
+  "description": "Practise the past simple, adverbs of frequency and sequencing words, then write a diary entry about a school day.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Choose the correct answer.",
+      "text": "We ___ a maths test this morning.",
+      "options": [
+        "have",
+        "had",
+        "haved",
+        "has"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"This morning\" is finished time, so use the past simple. \"Have\" is irregular: have - had."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "I ___ (forget) my lunch box at home.",
+      "answers": [
+        "forgot"
+      ],
+      "points": 1,
+      "explanation": "\"Forget\" is irregular: forget - forgot."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Prepositions of time",
+      "prompt": "Choose the correct answer.",
+      "text": "___ the afternoon we played basketball.",
+      "options": [
+        "On",
+        "At",
+        "In",
+        "By"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"in\" with parts of the day: in the morning, in the afternoon, in the evening (but at night)."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Adverbs of frequency",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "late",
+        "school",
+        "never",
+        "I",
+        "for",
+        "am"
+      ],
+      "answers": [
+        "I am never late for school."
+      ],
+      "points": 1,
+      "explanation": "Adverbs of frequency go after the verb \"be\": I am never late."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The test was more easier than last week's test.",
+      "answers": [
+        "The test was easier than last week's test."
+      ],
+      "points": 1,
+      "explanation": "Easy - easier. Do not use \"more\" and -er together."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Linking words: sequence",
+      "prompt": "Complete the sentence with one word.",
+      "text": "First we had science. ___ that, we had a break.",
+      "answers": [
+        "After"
+      ],
+      "points": 1,
+      "explanation": "\"After that\" shows the next event in time order."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct answer.",
+      "text": "I ___ to the teacher when the bell rang.",
+      "options": [
+        "was listening",
+        "were listening",
+        "am listening",
+        "listen"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Past continuous = was/were + -ing for an action in progress. With \"I\" we use \"was\": I was listening."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Past simple: spelling",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "We ___ (stop) writing when the teacher came in.",
+      "answers": [
+        "stopped"
+      ],
+      "points": 1,
+      "explanation": "Short verbs ending in one vowel + one consonant double the consonant before -ed: stop - stopped."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "gave",
+        "a lot of",
+        "us",
+        "our teacher",
+        "homework"
+      ],
+      "answers": [
+        "Our teacher gave us a lot of homework."
+      ],
+      "points": 1,
+      "explanation": "Give + person + thing: Our teacher gave us a lot of homework. \"Give\" is irregular: give - gave."
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Much / many",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We had too much tests this week.",
+      "answers": [
+        "We had too many tests this week."
+      ],
+      "points": 1,
+      "explanation": "\"Tests\" is a plural countable noun, so we use \"many\", not \"much\"."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Superlatives",
+      "prompt": "Choose the correct answer.",
+      "text": "Art is the ___ lesson of the week.",
+      "options": [
+        "interestingest",
+        "more interesting",
+        "much interesting",
+        "most interesting"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Long adjectives form the superlative with \"the most\": the most interesting."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Prepositions of time: on",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "We have PE ___ Tuesdays and Thursdays.",
+      "answers": [
+        "on"
+      ],
+      "points": 1,
+      "explanation": "We use \"on\" with days of the week: on Tuesdays, on Monday morning."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Past simple: negatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "finish",
+        "I",
+        "my homework",
+        "didn't"
+      ],
+      "answers": [
+        "I didn't finish my homework."
+      ],
+      "points": 1,
+      "explanation": "Past simple negative = didn't + base verb: I didn't finish (not \"didn't finished\")."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Past simple: was / were",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My friends was very kind to me today.",
+      "answers": [
+        "My friends were very kind to me today."
+      ],
+      "points": 1,
+      "explanation": "With plural subjects we use \"were\" in the past: my friends were."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Will for predictions",
+      "prompt": "Choose the correct answer.",
+      "text": "I think I ___ get a good mark in the test tomorrow.",
+      "options": [
+        "will",
+        "am",
+        "did",
+        "going"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We use \"will\" + base verb to make predictions about the future, often after \"I think\"."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Some / any",
+      "prompt": "Complete the sentence with \"some\" or \"any\".",
+      "text": "There weren't ___ chairs in the classroom, so we sat on the floor.",
+      "answers": [
+        "any"
+      ],
+      "points": 1,
+      "explanation": "We use \"any\" in negative sentences: There weren't any chairs."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Going to for plans",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "study",
+        "I",
+        "harder",
+        "am",
+        "going to"
+      ],
+      "answers": [
+        "I am going to study harder.",
+        "Am I going to study harder?"
+      ],
+      "points": 1,
+      "explanation": "Subject + am/is/are + going to + verb for a plan: I am going to study harder."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Prepositions of time: at",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Our school day finishes on four o'clock.",
+      "answers": [
+        "Our school day finishes at four o'clock."
+      ],
+      "points": 1,
+      "explanation": "We use \"at\" with clock times: at four o'clock, at 7.30."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Linking words: but",
+      "prompt": "Choose the correct answer.",
+      "text": "I studied a lot, ___ the test was still difficult.",
+      "options": [
+        "so",
+        "because",
+        "then",
+        "but"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"But\" joins two ideas that contrast: I studied a lot, but the test was difficult."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Comparatives: irregular",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My handwriting is gooder than my brother's.",
+      "answers": [
+        "My handwriting is better than my brother's."
+      ],
+      "points": 1,
+      "explanation": "\"Good\" has an irregular comparative: good - better - the best."
+    }
+  ],
+  "task": {
+    "genre": "Diary entry",
+    "prompt": "Write a diary entry about your day at school today.",
+    "contentPoints": [
+      "Say which lessons you had.",
+      "Describe something good that happened.",
+      "Describe a problem you had.",
+      "Say what you are going to do tomorrow."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "Dear Diary,",
+      "Today was a ... day.",
+      "In the morning we had ...",
+      "After that, ...",
+      "Tomorrow I am going to ..."
+    ],
+    "modelAnswer": "Tuesday, 3rd March\n\nDear Diary,\n\nToday was a busy day at school. In the morning we had a maths test. It was easier than last week's test, so I was happy. After that, we had science and art. Then I had a problem: I forgot my lunch box at home! Luckily, my friend Lan shared her rice with me. Tomorrow I am going to bring a sandwich for her."
+  }
+}

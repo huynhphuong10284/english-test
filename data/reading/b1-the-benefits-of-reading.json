@@ -1,0 +1,451 @@
+{
+  "id": "the-benefits-of-reading",
+  "title": "The Benefits of Reading",
+  "level": "B1 · Intermediate",
+  "description": "How reading books can improve our minds, our health and our relationships.",
+  "instructions": "Read the passage about reading, then choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "In a world full of screens, short videos and constant messages, reading a book can seem old-fashioned. Yet millions of people still choose to spend their free time with a novel, a magazine or a collection of stories. Reading is more than just a pleasant hobby. Research suggests that it can benefit our minds, our health and even our relationships with others."
+    },
+    {
+      "id": "p2",
+      "text": "One of the most obvious benefits is a richer vocabulary. When people read regularly, they meet new words in many different situations and slowly learn how to use them. This often improves their writing and speaking as well. Reading also trains concentration, because following a long story requires attention for an extended period of time."
+    },
+    {
+      "id": "p3",
+      "text": "Reading can also reduce stress. Getting lost in a good book allows people to forget their worries for a while and relax. Many doctors recommend reading a paper book before bed instead of looking at a phone, as the light from screens can make it harder to fall asleep. A few pages each night can become a calming routine."
+    },
+    {
+      "id": "p4",
+      "text": "Perhaps most surprisingly, reading fiction may help people understand others better. When we follow a character's thoughts and feelings, we imagine life from another person's point of view. Some psychologists believe this practice can make readers more understanding and kind in real life. For all these reasons, finding even a little time to read each day may be one of the best habits a person can build."
+    },
+    {
+      "id": "p5",
+      "text": "Of course, not everyone finds it easy to start reading. Some people say they simply do not have time, while others were put off by books they were forced to read at school. Experts suggest starting with something you really enjoy, whether that is a comic, a sports magazine or a short thriller. There is no rule that says a person must finish every book they begin. If a story still feels boring after fifty pages, it is perfectly fine to put it down and choose another one."
+    },
+    {
+      "id": "p6",
+      "text": "Many people also wonder whether reading on a screen is as good as reading a paper book. E-readers and tablets are light and can hold thousands of titles, which makes them very convenient for travelling. Audiobooks allow people to enjoy stories while driving, cooking or walking. However, some studies suggest that readers may remember details slightly better from paper, perhaps because they can feel where they are in the book. In the end, the best format is probably the one that helps a person read more often."
+    },
+    {
+      "id": "p7",
+      "text": "Reading can also be a social activity. Book clubs, both in person and online, bring together people who want to discuss what they have read. Talking about a book with others often helps people notice ideas they missed when they were reading alone. Parents who read aloud to young children not only help them learn words but also create special moments together. Libraries, too, offer much more than books: many run reading groups, homework clubs and events with writers. In a busy world, a shared story can be a surprisingly strong way to connect with other people."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the passage?",
+      "options": [
+        "Reading has many benefits for our minds, health and relationships.",
+        "Reading on screens is better than reading paper books.",
+        "Only children should read fiction.",
+        "Short videos are more popular than books."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 1 introduces the benefits, and paragraphs 2 to 4 describe them one by one.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Research suggests that it can benefit our minds, our health and even our relationships with others."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, how do regular readers learn new words?",
+      "options": [
+        "By studying dictionaries every day",
+        "By meeting them in many different situations",
+        "By watching short videos",
+        "By writing long essays"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 2 says readers meet new words in many different situations.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "they meet new words in many different situations and slowly learn how to use them"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "purpose",
+      "text": "Why does the writer mention screens and short videos in paragraph 1?",
+      "options": [
+        "To recommend the best video websites",
+        "To explain how books are printed",
+        "To show that reading is more popular than ever",
+        "To show that reading may seem old-fashioned in the modern world"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer uses them to set up a contrast: reading can seem old-fashioned, yet it still has many benefits.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "In a world full of screens, short videos and constant messages, reading a book can seem old-fashioned."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"extended\" is closest in meaning to:",
+      "options": [
+        "short",
+        "exciting",
+        "long",
+        "quiet"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Following a long story needs attention for a long time, so \"extended\" means long.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "requires attention for an extended period of time"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can we infer about people who look at a phone just before bed?",
+      "options": [
+        "They usually read more books.",
+        "They feel less stressed.",
+        "They sleep better than readers.",
+        "They may find it harder to fall asleep."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The light from screens can make it harder to fall asleep.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the light from screens can make it harder to fall asleep"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What does paragraph 3 say a good book allows people to do?",
+      "options": [
+        "Work more quickly",
+        "Forget their worries for a while and relax",
+        "Learn to use a phone",
+        "Meet new friends"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 3 says getting lost in a good book helps people forget their worries and relax.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Getting lost in a good book allows people to forget their worries for a while and relax."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "Why might reading fiction make people kinder?",
+      "options": [
+        "Because books are usually about kind people",
+        "Because readers spend less time with others",
+        "Because readers imagine life from another person's point of view",
+        "Because fiction is easier to read than news"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Imagining life from another person's point of view may help readers understand and be kind to others.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "we imagine life from another person's point of view"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Some psychologists believe this practice can make readers more understanding and kind in real life."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What is the writer's final recommendation?",
+      "options": [
+        "Find a little time to read each day",
+        "Read only fiction",
+        "Stop using phones completely",
+        "Read for several hours before bed"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The last sentence says finding even a little time to read each day may be one of the best habits.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "finding even a little time to read each day may be one of the best habits a person can build"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"routine\" is closest in meaning to:",
+      "options": [
+        "a long and difficult book",
+        "a medicine for sleeping problems",
+        "something you do regularly, usually in the same way",
+        "a sudden change of plan"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Reading a few pages each night becomes a regular habit, which is a routine.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "A few pages each night can become a calming routine."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Why schools should stop giving students books",
+        "How to finish every book you begin",
+        "Why comics are better than novels",
+        "Simple ways to start reading for people who find it difficult"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 5 describes why some people find reading hard and gives advice on how to start.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "not everyone finds it easy to start reading"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "Experts suggest starting with something you really enjoy"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the phrase \"put off\" in \"others were put off by books\" is closest in meaning to:",
+      "options": [
+        "made to lose interest",
+        "made very excited",
+        "asked to wait",
+        "given a reward"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Books that people were forced to read at school made them lose interest in reading.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "others were put off by books they were forced to read at school"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "purpose",
+      "text": "Why does the writer mention a comic, a sports magazine and a short thriller?",
+      "options": [
+        "To list the most popular books in the world",
+        "To show that any kind of reading can be a good place to start",
+        "To warn readers about low-quality writing",
+        "To compare the prices of different books"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "These examples support the advice to start with something you really enjoy, whatever it is.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Experts suggest starting with something you really enjoy, whether that is a comic, a sports magazine or a short thriller."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "According to paragraph 5, what should you do if a book still feels boring after fifty pages?",
+      "options": [
+        "Read it again from the beginning",
+        "Finish it as quickly as possible",
+        "Put it down and choose another one",
+        "Give it to a teacher"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 says it is perfectly fine to put it down and choose another one.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "it is perfectly fine to put it down and choose another one"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Why are e-readers and tablets convenient for travelling?",
+      "options": [
+        "They are light and can hold thousands of titles.",
+        "They never need to be charged.",
+        "They help people remember details better.",
+        "They are cheaper than paper books."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 6 says they are light and can hold thousands of titles.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "E-readers and tablets are light and can hold thousands of titles, which makes them very convenient for travelling."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 6, what do audiobooks allow people to do?",
+      "options": [
+        "Read in complete silence",
+        "Write their own stories",
+        "Meet the authors of books",
+        "Enjoy stories while driving, cooking or walking"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 6 says audiobooks allow people to enjoy stories while driving, cooking or walking.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Audiobooks allow people to enjoy stories while driving, cooking or walking."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"format\" refers to:",
+      "options": [
+        "the size of the letters on a page",
+        "the form in which something is produced, such as paper, screen or audio",
+        "the story of a book",
+        "the price of a book"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraph compares paper books, screens and audiobooks, which are different formats.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the best format is probably the one that helps a person read more often"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What does the writer seem to think matters most when choosing between paper, screen and audio?",
+      "options": [
+        "Reading regularly matters more than the format.",
+        "Paper is the only acceptable format.",
+        "Audiobooks are not real reading.",
+        "Screens should be avoided completely."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Despite small differences, the writer says the best format is the one that helps a person read more often.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "In the end, the best format is probably the one that helps a person read more often."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What does the writer suggest about parents reading aloud to young children?",
+      "options": [
+        "It is only useful for learning new words.",
+        "It is less useful than watching videos together.",
+        "It is good for both the child's learning and the parent-child relationship.",
+        "It should stop once children go to school."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer says reading aloud helps children learn words and also creates special moments together.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Parents who read aloud to young children not only help them learn words but also create special moments together."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "According to paragraph 7, what do many libraries offer besides books?",
+      "options": [
+        "Free e-readers for every visitor",
+        "Reading groups, homework clubs and events with writers",
+        "Cooking classes and sports clubs",
+        "Jobs for young readers"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 7 lists reading groups, homework clubs and events with writers.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "many run reading groups, homework clubs and events with writers"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the last paragraph?",
+      "options": [
+        "Book clubs are better online than in person.",
+        "Libraries should only lend books.",
+        "Reading is an activity best done alone.",
+        "Reading can help people connect with each other."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 7 begins by calling reading a social activity and ends by saying a shared story can connect people.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Reading can also be a social activity."
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "a shared story can be a surprisingly strong way to connect with other people"
+        }
+      ]
+    }
+  ]
+}

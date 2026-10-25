@@ -1,0 +1,325 @@
+{
+  "id": "w-my-favourite-place",
+  "title": "My Favourite Place",
+  "level": "B1 · Intermediate",
+  "description": "Practise relative clauses and the present perfect, then write a magazine article about a place you love.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Relative clauses: where",
+      "prompt": "Choose the correct answer.",
+      "text": "This is the park ___ I learned to ride a bike.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"where\" to talk about a place: the park where I learned to ride a bike."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present perfect: for and since",
+      "prompt": "Complete the sentence with \"for\" or \"since\".",
+      "text": "I have been going there ___ I was six years old.",
+      "answers": [
+        "since"
+      ],
+      "points": 1,
+      "explanation": "Use \"since\" with a starting point in time (since I was six) and \"for\" with a period of time (for ten years)."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Present perfect questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "been",
+        "the seaside",
+        "you",
+        "ever",
+        "to",
+        "have"
+      ],
+      "answers": [
+        "Have you ever been to the seaside?"
+      ],
+      "points": 1,
+      "explanation": "In present perfect questions, \"have\" comes before the subject and \"ever\" comes before the past participle: Have you ever been ...?"
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Relative clauses",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My grandmother, who she lives near the lake, often takes me there.",
+      "answers": [
+        "My grandmother, who lives near the lake, often takes me there."
+      ],
+      "points": 1,
+      "explanation": "\"Who\" replaces the subject, so do not repeat it with \"she\": who lives, not who she lives."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Superlatives",
+      "prompt": "Choose the correct answer.",
+      "text": "It is the ___ place I know.",
+      "options": [
+        "most peaceful",
+        "more peaceful",
+        "peacefullest",
+        "most peacefuller"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Long adjectives form the superlative with \"the most\": the most peaceful."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Present perfect vs past simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "Last summer I ___ (spend) every afternoon there.",
+      "answers": [
+        "spent"
+      ],
+      "points": 1,
+      "explanation": "Use the past simple with a finished time like \"last summer\". \"Spend\" is irregular: spent."
+    },
+    {
+      "id": "e7",
+      "type": "gap-fill",
+      "focus": "Linking words",
+      "prompt": "Complete the sentence with one linking word.",
+      "text": "___ the cafe is small, it has the best views in town.",
+      "answers": [
+        "although",
+        "though",
+        "even though"
+      ],
+      "points": 1,
+      "explanation": "\"Although\" (or \"though\") at the start of a sentence introduces a contrast with the main clause."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Present perfect continuous",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word FOR. Begin: \"I ...\"",
+      "text": "I started going to this library three years ago.",
+      "keyword": "FOR",
+      "answers": [
+        "I have been going to this library for three years.",
+        "I have gone to this library for three years.",
+        "I've been going to this library for three years.",
+        "I've gone to this library for three years."
+      ],
+      "points": 1,
+      "explanation": "An action that started in the past and continues now uses the present perfect (continuous) + for + a period of time."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Used to",
+      "prompt": "Choose the correct answer.",
+      "text": "When I was younger, I ___ go there with my grandparents every Sunday.",
+      "options": [
+        "use to",
+        "used to",
+        "was used",
+        "am used to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"used to + infinitive\" for past habits that don't happen now."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation: -ful",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The view from the hill is absolutely ___ (beauty).",
+      "answers": [
+        "beautiful"
+      ],
+      "points": 1,
+      "explanation": "We need an adjective after \"is\". The adjective from \"beauty\" is \"beautiful\" (y changes to i)."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Modals of advice",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "place",
+        "should",
+        "this",
+        "everyone",
+        "visit"
+      ],
+      "answers": [
+        "Everyone should visit this place."
+      ],
+      "points": 1,
+      "explanation": "Use \"should + infinitive\" to recommend something."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Verb + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I enjoy to watch the boats on the lake.",
+      "answers": [
+        "I enjoy watching the boats on the lake."
+      ],
+      "points": 1,
+      "explanation": "\"Enjoy\" is followed by the -ing form, not the to-infinitive: enjoy watching."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct answer.",
+      "text": "In summer the beach is much ___ than in winter.",
+      "options": [
+        "busy",
+        "busiest",
+        "more busy",
+        "busier"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Two-syllable adjectives ending in -y change to -ier: busy - busier."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Too and enough",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word ENOUGH. Begin: \"The park isn't ...\"",
+      "text": "The park is too small for a football match.",
+      "keyword": "ENOUGH",
+      "answers": [
+        "The park isn't big enough for a football match.",
+        "The park isn't large enough for a football match."
+      ],
+      "points": 1,
+      "explanation": "\"Too + adjective\" can be changed to \"not + opposite adjective + enough\": too small = not big enough."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Linking words: as a result",
+      "prompt": "Choose the correct answer.",
+      "text": "The park is very quiet. ___, it's a great place to study.",
+      "options": [
+        "As a result",
+        "Although",
+        "However",
+        "Despite"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"As a result\" introduces a consequence: it is quiet, so it is good for studying."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Superlatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It is the most quiet place in the town.",
+      "answers": [
+        "It is the quietest place in the town.",
+        "It is the quietest place in town."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives take -est in the superlative, not \"the most\": quiet - the quietest."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Phrasal verbs: grow up",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "up",
+        "this",
+        "I",
+        "beach",
+        "grew",
+        "near"
+      ],
+      "answers": [
+        "I grew up near this beach."
+      ],
+      "points": 1,
+      "explanation": "\"Grow up\" means to change from a child to an adult. The past form is \"grew up\"."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "First conditional",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "If you will visit my town, I will take you there.",
+      "answers": [
+        "If you visit my town, I will take you there."
+      ],
+      "points": 1,
+      "explanation": "In the first conditional, use the present simple after \"if\", not \"will\"."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Present perfect with never + comparative",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word NEVER. Begin: \"I have ...\"",
+      "text": "This is the most peaceful place I've ever visited.",
+      "keyword": "NEVER",
+      "answers": [
+        "I have never visited a more peaceful place.",
+        "I have never been to a more peaceful place.",
+        "I have never visited a more peaceful place than this.",
+        "I have never been to a more peaceful place than this.",
+        "I have never visited a more peaceful place than this one.",
+        "I have never been to a more peaceful place than this one."
+      ],
+      "points": 1,
+      "explanation": "\"The most ... I have ever visited\" means \"I have never visited a more ... place\"."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Used to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word USED. Begin: \"There ...\"",
+      "text": "There was a cinema here, but it closed years ago.",
+      "keyword": "USED",
+      "answers": [
+        "There used to be a cinema here."
+      ],
+      "points": 1,
+      "explanation": "\"There used to be\" describes something that existed in the past but doesn't now."
+    }
+  ],
+  "task": {
+    "genre": "Article",
+    "prompt": "You see this notice in an English-language magazine for teenagers: \"My favourite place - tell us about a place you love. Where is it? Why is it special to you?\" Write your article.",
+    "contentPoints": [
+      "Give your article an interesting title.",
+      "Say where the place is and describe what it looks like.",
+      "Say what you do there and how often you go.",
+      "Explain why the place is special to you."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "Have you ever ...?",
+      "It's the place where ...",
+      "I've been going there since ...",
+      "What I love most about it is ...",
+      "If you ever visit ..., you should ..."
+    ],
+    "modelAnswer": "A Secret Garden in the City\n\nHave you ever wanted to escape from the noise of the city? I have the perfect place for you. It's a small garden behind the old library in my town, and very few people know about it.\n\nThe garden has tall trees, a little pond with goldfish and a wooden bench where you can sit in the shade. I've been going there since I was twelve. I usually go on Saturday mornings, when it is quiet, and I read or just listen to the birds.\n\nWhat I love most about it is the feeling of calm. When I'm stressed about exams, I go there for an hour and I always feel better afterwards. In addition, it reminds me of my grandfather, who first took me there.\n\nIf you ever visit my town, you should definitely find it!"
+  }
+}

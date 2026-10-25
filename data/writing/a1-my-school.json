@@ -1,0 +1,321 @@
+{
+  "id": "w-my-school",
+  "title": "My School",
+  "level": "A1 · Beginner",
+  "description": "Practise there is, has got and can, and write a short description of your school.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "There is / there are",
+      "prompt": "Choose the correct word.",
+      "text": "There ___ a big library in my school.",
+      "options": [
+        "are",
+        "be",
+        "is",
+        "am"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"there is\" with one thing: there is a big library."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Have got",
+      "prompt": "Complete the sentence with have or has.",
+      "text": "Our school ___ got a new computer room.",
+      "answers": [
+        "has"
+      ],
+      "points": 1,
+      "explanation": "Use \"has got\" with he, she and it. Our school = it, so: our school has got."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Word order: adjectives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "teacher",
+        "is",
+        "our",
+        "very",
+        "kind",
+        "English"
+      ],
+      "answers": [
+        "Our English teacher is very kind.",
+        "Is our English teacher very kind?"
+      ],
+      "points": 1,
+      "explanation": "Subject + be + very + adjective: Our English teacher is very kind."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Can",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I can speaks French and English.",
+      "answers": [
+        "I can speak French and English."
+      ],
+      "points": 1,
+      "explanation": "After can, use the base verb with no -s: I can speak."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Possessive adjectives",
+      "prompt": "Choose the correct word.",
+      "text": "Ms Green is ___ teacher. We love her.",
+      "options": [
+        "our",
+        "we",
+        "us",
+        "ours"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"our\" before a noun to show it belongs to us: our teacher."
+    },
+    {
+      "id": "e6",
+      "type": "word-order",
+      "focus": "Present simple: word order",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "at",
+        "start",
+        "lessons",
+        "half past eight"
+      ],
+      "answers": [
+        "Lessons start at half past eight.",
+        "At half past eight lessons start."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + time: Lessons start at half past eight."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions of time: on",
+      "prompt": "Choose the correct word.",
+      "text": "We don't go to school ___ Sunday.",
+      "options": [
+        "in",
+        "at",
+        "to",
+        "on"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"on\" with days of the week: on Sunday."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Irregular plurals",
+      "prompt": "Write the plural of the word in brackets.",
+      "text": "There are thirty ___ (child) in my class.",
+      "answers": [
+        "children"
+      ],
+      "points": 1,
+      "explanation": "The plural of \"child\" is \"children\"."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Present simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My classmates is very friendly.",
+      "answers": [
+        "My classmates are very friendly.",
+        "My classmate is very friendly."
+      ],
+      "points": 1,
+      "explanation": "Use \"are\" with plural nouns (my classmates) and \"is\" with one person."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Like + -ing",
+      "prompt": "Choose the correct answer.",
+      "text": "I like ___ in the science lab.",
+      "options": [
+        "work",
+        "working",
+        "works",
+        "to working"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Like + verb-ing: I like working."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Present simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "We ___ (have) English on Monday and Wednesday.",
+      "answers": [
+        "have"
+      ],
+      "points": 1,
+      "explanation": "With I, you, we and they, use the base form of the verb: we have."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Present simple: negative",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My best friend don't like maths.",
+      "answers": [
+        "My best friend doesn't like maths."
+      ],
+      "points": 1,
+      "explanation": "With he, she and it, use doesn't (does not) + verb: my best friend doesn't like."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Articles: a / an",
+      "prompt": "Choose the correct word.",
+      "text": "My school has got ___ old gym.",
+      "options": [
+        "a",
+        "an",
+        "any",
+        "two"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound: an old gym."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Can't",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "eat",
+        "can't",
+        "in the classroom",
+        "we"
+      ],
+      "answers": [
+        "We can't eat in the classroom.",
+        "In the classroom we can't eat.",
+        "Can't we eat in the classroom?"
+      ],
+      "points": 1,
+      "explanation": "Subject + can't + verb: We can't eat in the classroom."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Possessive 's",
+      "prompt": "Write the word in brackets with 's.",
+      "text": "This is ___ (Tom) desk.",
+      "answers": [
+        "Tom's"
+      ],
+      "points": 1,
+      "explanation": "Add 's to a name to show that something belongs to that person: Tom's desk."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Prepositions of place: on",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My classroom is in the first floor.",
+      "answers": [
+        "My classroom is on the first floor."
+      ],
+      "points": 1,
+      "explanation": "Use \"on\" with floors of a building: on the first floor."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Linking words: because",
+      "prompt": "Choose the correct word.",
+      "text": "I like Fridays ___ we have art.",
+      "options": [
+        "but",
+        "or",
+        "so",
+        "because"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"because\" to give a reason."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "There are",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There is two playgrounds at my school.",
+      "answers": [
+        "There are two playgrounds at my school."
+      ],
+      "points": 1,
+      "explanation": "Use \"there are\" with plural nouns: there are two playgrounds."
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Present simple: word order",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "play",
+        "after lunch",
+        "football",
+        "we"
+      ],
+      "answers": [
+        "We play football after lunch.",
+        "After lunch we play football."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + object + time: We play football after lunch."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Present simple: be (negative)",
+      "prompt": "Write the negative form of be.",
+      "text": "Our school ___ (not / be) very big.",
+      "answers": [
+        "isn't",
+        "is not"
+      ],
+      "points": 1,
+      "explanation": "Use \"isn't\" (is not) with he, she and it: our school isn't big."
+    }
+  ],
+  "task": {
+    "genre": "Short description",
+    "prompt": "Write about your school.",
+    "contentPoints": [
+      "Say the name of your school and where it is.",
+      "Say what there is in your school.",
+      "Say what your favourite subject is and why.",
+      "Say what you do at break time."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "My school is called ...",
+      "There is / There are ...",
+      "My favourite subject is ... because ...",
+      "At break time I ..."
+    ],
+    "modelAnswer": "My school is called Riverside School. It is near my house. There are twenty classrooms and a big library. My favourite subject is art because I can paint and draw. At break time I play basketball with my friends in the playground."
+  }
+}

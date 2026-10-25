@@ -1,0 +1,324 @@
+{
+  "id": "w-a-surprising-day",
+  "title": "A Surprising Day",
+  "level": "A2 · Elementary",
+  "description": "Practise the past simple, sequencing words and superlatives, then write a short story about a surprising day.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple: regular verbs",
+      "prompt": "Choose the correct answer.",
+      "text": "When I opened the door, all my friends ___ 'Surprise!'",
+      "options": [
+        "shout",
+        "shouted",
+        "shouting",
+        "shouts"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The story is in the past, so use the past simple: shout - shouted."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "My mum ___ (make) a huge chocolate cake.",
+      "answers": [
+        "made"
+      ],
+      "points": 1,
+      "explanation": "\"Make\" is irregular: make - made."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Superlatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the",
+        "best",
+        "it",
+        "of",
+        "day",
+        "was",
+        "my",
+        "life"
+      ],
+      "answers": [
+        "It was the best day of my life.",
+        "Was it the best day of my life?"
+      ],
+      "points": 1,
+      "explanation": "Superlative + \"of\" + a period of time: the best day of my life."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Past simple: negatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I didn't knew about the party.",
+      "answers": [
+        "I didn't know about the party.",
+        "I did not know about the party."
+      ],
+      "points": 1,
+      "explanation": "After \"didn't\" use the base form of the verb: didn't know."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words: sequence",
+      "prompt": "Choose the correct answer.",
+      "text": "We ate the cake. ___ we danced in the living room.",
+      "options": [
+        "Then",
+        "Because",
+        "So",
+        "But"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Then\" introduces the next event in time order."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Prepositions of time",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "It happened ___ my birthday last year.",
+      "answers": [
+        "on"
+      ],
+      "points": 1,
+      "explanation": "Use \"on\" with special days and dates: on my birthday."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct answer.",
+      "text": "I ___ TV when the doorbell rang.",
+      "options": [
+        "watch",
+        "watches",
+        "was watching",
+        "were watching"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We use the past continuous (was/were + -ing) for an action in progress when another short action happened. With \"I\" we use \"was\"."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "My best friend ___ (bring) me some flowers.",
+      "answers": [
+        "brought"
+      ],
+      "points": 1,
+      "explanation": "\"Bring\" is irregular: bring - brought. Do not confuse it with \"buy - bought\"."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Past simple: questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the party",
+        "organised",
+        "who"
+      ],
+      "answers": [
+        "Who organised the party?"
+      ],
+      "points": 1,
+      "explanation": "When \"who\" is the subject, we do not use \"did\": Who organised the party?"
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Much / many",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There were much people in our living room.",
+      "answers": [
+        "There were many people in our living room.",
+        "There were a lot of people in our living room.",
+        "There were lots of people in our living room."
+      ],
+      "points": 1,
+      "explanation": "\"People\" is a plural countable noun, so we use \"many\" or \"a lot of\", not \"much\"."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Linking words: so",
+      "prompt": "Choose the correct answer.",
+      "text": "I was very surprised, ___ I couldn't say anything.",
+      "options": [
+        "because",
+        "but",
+        "then",
+        "so"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"So\" introduces a result: I was surprised (reason), so I couldn't speak (result)."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Some / any",
+      "prompt": "Complete the sentence with \"some\" or \"any\".",
+      "text": "My dad gave me ___ money to buy a new bike.",
+      "answers": [
+        "some"
+      ],
+      "points": 1,
+      "explanation": "We use \"some\" in positive sentences with uncountable nouns like \"money\"."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Past continuous",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "were",
+        "my friends",
+        "outside",
+        "waiting"
+      ],
+      "answers": [
+        "My friends were waiting outside.",
+        "Were my friends waiting outside?",
+        "Outside, my friends were waiting."
+      ],
+      "points": 1,
+      "explanation": "Subject + was/were + -ing: My friends were waiting outside."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Past simple: spelling",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My little sister cryed because she was so happy.",
+      "answers": [
+        "My little sister cried because she was so happy."
+      ],
+      "points": 1,
+      "explanation": "Verbs ending in consonant + y change y to i before -ed: cry - cried."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Will for predictions",
+      "prompt": "Choose the correct answer.",
+      "text": "I'm sure I ___ never forget this day.",
+      "options": [
+        "am",
+        "going",
+        "will",
+        "did"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We use \"will\" + base verb for predictions, often after \"I'm sure\" or \"I think\"."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Prepositions of place",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "There was a big \"Happy Birthday\" banner ___ the wall.",
+      "answers": [
+        "on"
+      ],
+      "points": 1,
+      "explanation": "We use \"on\" for things touching a surface: on the wall, on the door."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Linking words: after that",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "played",
+        "after that",
+        "games",
+        "we"
+      ],
+      "answers": [
+        "After that, we played games.",
+        "We played games after that."
+      ],
+      "points": 1,
+      "explanation": "\"After that\" shows the next event in a story. It usually goes at the start, followed by a comma."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Past simple: was / were",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Everyone were very happy.",
+      "answers": [
+        "Everyone was very happy."
+      ],
+      "points": 1,
+      "explanation": "\"Everyone\" is singular, so we use \"was\": Everyone was happy."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Prepositions of time: at",
+      "prompt": "Choose the correct answer.",
+      "text": "The party started ___ seven o'clock in the evening.",
+      "options": [
+        "in",
+        "on",
+        "by",
+        "at"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We use \"at\" with clock times: at seven o'clock."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Going to for plans",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Next year I going to have a surprise party for my mum.",
+      "answers": [
+        "Next year I am going to have a surprise party for my mum."
+      ],
+      "points": 1,
+      "explanation": "\"Going to\" needs am/is/are before it: I am going to have."
+    }
+  ],
+  "task": {
+    "genre": "Short story",
+    "prompt": "Write a short story that begins: 'It was a normal Saturday morning.'",
+    "contentPoints": [
+      "Say where you were and what you were doing.",
+      "Describe the surprising thing that happened.",
+      "Say how you felt.",
+      "Say how the day ended."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "It was a normal Saturday morning.",
+      "Suddenly, ...",
+      "I was so surprised!",
+      "After that, ...",
+      "In the evening, ...",
+      "It was the best day ever."
+    ],
+    "modelAnswer": "It was a normal Saturday morning. I was in my room when my dad called me. 'Come downstairs!' he said. In the kitchen there was a small box on the table. I opened it and found a little brown puppy inside! I was so surprised that I couldn't speak. After that, we took him to the park and he played with a ball. In the evening, we called him Lucky. It was the best day ever."
+  }
+}

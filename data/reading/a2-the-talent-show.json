@@ -1,0 +1,451 @@
+{
+  "id": "the-talent-show",
+  "title": "The Talent Show",
+  "level": "A2 · Elementary",
+  "description": "A shy boy performs magic tricks at his school talent show.",
+  "instructions": "Read the text about a school talent show, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Every December, Greenhill School has a talent show. Students can sing, dance, play music or tell jokes on stage. This year, Omar wanted to do magic tricks. He practised every evening for a month in front of his little sister."
+    },
+    {
+      "id": "p2",
+      "text": "Omar was a very shy boy, and he did not like to speak in front of the class. On the day of the show, his hands were shaking. He looked out at the two hundred people in the hall. For a moment, he wanted to run away."
+    },
+    {
+      "id": "p3",
+      "text": "Then he saw his sister in the front row. She smiled and waved at him. Omar took a deep breath and started his first trick. He made a coin disappear and then found it behind the head teacher's ear."
+    },
+    {
+      "id": "p4",
+      "text": "Everyone laughed and clapped loudly. Omar did four more tricks, and they all worked perfectly. He did not win first prize, because a girl with a beautiful voice won. But after the show, many students came to ask him how he did his tricks."
+    },
+    {
+      "id": "p5",
+      "text": "The next Monday, Omar's teacher asked him to show a trick to the class. A month before, Omar was too shy to say anything in class. Now he stood at the front and made a card change colour in his hand. His classmates cheered, and his teacher laughed. Omar felt proud and much more confident."
+    },
+    {
+      "id": "p6",
+      "text": "After that, Omar started a magic club at school. It meets every Thursday after lessons in the library. At first, only three students came, but now there are fifteen members. Omar teaches them easy tricks with coins, cards and ropes. His little sister is the youngest member, and she always sits in the front row, like at the talent show."
+    },
+    {
+      "id": "p7",
+      "text": "Next December, Omar is going to be in the talent show again. This time, he is going to do his tricks with the whole magic club. They are practising a big trick with a box and a paper rabbit that disappears. Omar is still a little nervous before every show. But now he knows that being nervous is normal, and he does not want to run away any more."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A shy boy who did magic at a talent show",
+        "A girl who won a singing prize",
+        "Omar's little sister and her school",
+        "How to make a coin disappear"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text tells how Omar, a shy boy, performed his magic tricks at the school talent show.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "This year, Omar wanted to do magic tricks."
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "Omar was a very shy boy"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"shy\" describes someone who...",
+      "options": [
+        "is very funny",
+        "is very tall",
+        "feels nervous with other people",
+        "talks all the time"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Omar did not like to speak in front of the class, which shows he was shy.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Omar was a very shy boy, and he did not like to speak in front of the class."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Who did Omar practise in front of?",
+      "options": [
+        "His teacher",
+        "His classmates",
+        "The head teacher",
+        "His little sister"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He practised every evening in front of his little sister.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "He practised every evening for a month in front of his little sister."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "purpose",
+      "text": "Why does the writer mention Omar's sister in the front row?",
+      "options": [
+        "To show that she wanted to do magic too",
+        "To show what helped Omar feel brave enough to start",
+        "To explain why the hall was full",
+        "To show that she was the winner"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After he saw her smile and wave, Omar took a deep breath and started.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She smiled and waved at him."
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "Omar took a deep breath and started his first trick."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can we understand from the end of the story?",
+      "options": [
+        "Omar was very sad and angry",
+        "Omar's tricks did not work",
+        "Nobody liked the magic tricks",
+        "Omar's show was a success even without first prize"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "People laughed and clapped, and many students wanted to know how he did his tricks.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Everyone laughed and clapped loudly."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "many students came to ask him how he did his tricks"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Who won first prize?",
+      "options": [
+        "A girl with a beautiful voice",
+        "Omar",
+        "Omar's sister",
+        "A boy who told jokes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A girl with a beautiful voice won first prize.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "a girl with a beautiful voice won"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "When does Greenhill School have its talent show?",
+      "options": [
+        "Every July",
+        "Every Thursday",
+        "Every spring",
+        "Every December"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Every December, Greenhill School has a talent show.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Every December, Greenhill School has a talent show."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "How long did Omar practise before the show?",
+      "options": [
+        "Every morning for a week",
+        "Every evening for a month",
+        "Only on the day of the show",
+        "Every weekend for a year"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He practised every evening for a month.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "He practised every evening for a month in front of his little sister."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"shaking\" means Omar's hands were...",
+      "options": [
+        "very cold and wet",
+        "holding a coin",
+        "clapping loudly",
+        "moving quickly because he was nervous"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Omar was nervous, so his hands moved quickly and he could not stop them.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "On the day of the show, his hands were shaking."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "How many people were in the hall?",
+      "options": [
+        "Fifteen",
+        "Fifty",
+        "Two hundred",
+        "One thousand"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He looked out at the two hundred people in the hall.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "He looked out at the two hundred people in the hall."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What can we understand from \"For a moment, he wanted to run away\"?",
+      "options": [
+        "Omar wanted to go home to see his sister",
+        "Omar did not like magic any more",
+        "Omar was late for the show",
+        "Omar was very frightened before he started"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He wanted to run away because he was very scared of the big audience.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "For a moment, he wanted to run away."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"disappear\" means...",
+      "options": [
+        "fall on the floor",
+        "become bigger",
+        "go where nobody can see it",
+        "change colour"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Omar made the coin go where nobody could see it, then found it again.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He made a coin disappear"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"clapped\" means the people...",
+      "options": [
+        "shouted angrily",
+        "hit their hands together to show they liked it",
+        "stood up and left",
+        "sat very quietly"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "People clap their hands when they enjoy a show.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Everyone laughed and clapped loudly."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did Omar do the next Monday?",
+      "options": [
+        "He showed a trick to his class",
+        "He started a magic club",
+        "He won a prize",
+        "He stayed at home"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "His teacher asked him to show a trick to the class.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The next Monday, Omar's teacher asked him to show a trick to the class."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "purpose",
+      "text": "Why does the writer say \"A month before, Omar was too shy to say anything in class\"?",
+      "options": [
+        "To show that Omar was a bad student",
+        "To show how much Omar changed",
+        "To explain why the teacher was angry",
+        "To show that Omar did not like his class"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Before, he could not speak in class; now he does magic in front of everyone.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "A month before, Omar was too shy to say anything in class."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "When does the magic club meet?",
+      "options": [
+        "Every Monday before lessons",
+        "Every Saturday morning",
+        "Every Thursday after lessons",
+        "Only in December"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The club meets every Thursday after lessons in the library.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "It meets every Thursday after lessons in the library."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What can we understand about the magic club?",
+      "options": [
+        "It has become popular",
+        "Nobody wants to join it",
+        "It is only for teachers",
+        "It is going to close soon"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It started with three students, and now it has fifteen.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "At first, only three students came, but now there are fifteen members."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"members\" means...",
+      "options": [
+        "people who watch a show",
+        "people who belong to a group",
+        "teachers at a school",
+        "tricks with cards"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The members are the students who belong to the magic club.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "now there are fifteen members"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer say the sister sits in the front row \"like at the talent show\"?",
+      "options": [
+        "To show that she cannot see well",
+        "To explain why she is the youngest member",
+        "To show that she still supports Omar",
+        "To show that the library is small"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "At the talent show she helped him from the front row, and she still does.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "she always sits in the front row, like at the talent show"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What can we understand about Omar at the end of the text?",
+      "options": [
+        "He has learned to deal with his nerves",
+        "He is never nervous now",
+        "He does not want to do shows again",
+        "He wants to leave the magic club"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He is still a little nervous, but he knows it is normal and does not want to run away.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "now he knows that being nervous is normal, and he does not want to run away any more"
+        }
+      ]
+    }
+  ]
+}

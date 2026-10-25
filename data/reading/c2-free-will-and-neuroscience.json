@@ -1,0 +1,451 @@
+{
+  "id": "free-will-and-neuroscience",
+  "title": "Free Will and the Readiness Potential",
+  "level": "C2 · Proficiency",
+  "description": "An essay assessing whether neuroscientific experiments have undermined the idea of conscious free choice.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Few experiments in the history of neuroscience have been invoked as frequently, or interpreted as freely, as those conducted by Benjamin Libet in the early 1980s. Participants were asked to flex a wrist whenever they felt the urge, while noting the position of a rapidly moving dot on a clock face at the moment they first became aware of the intention to move. Electrodes on the scalp, meanwhile, recorded a gradual build-up of electrical activity, already identified by earlier researchers and termed the readiness potential, that preceded the movement itself."
+    },
+    {
+      "id": "p2",
+      "text": "The finding that captured the imagination was one of timing. The readiness potential appeared to begin a substantial fraction of a second before participants reported any conscious intention to act. To many commentators, the implication seemed inescapable: the brain had initiated the action before the person had decided upon it, and the feeling of conscious choice was therefore a belated spectator rather than an author. Popular accounts duly announced that science had demonstrated free will to be an illusion."
+    },
+    {
+      "id": "p3",
+      "text": "Libet himself drew a more guarded conclusion. Noting that participants could, in his account, still abstain from moving after becoming aware of the urge, he suggested that consciousness might retain a capacity to veto actions that had been unconsciously set in motion. Critics found this compromise unsatisfying, observing that it was unclear why a conscious veto should itself be exempt from unconscious preparation, but the proposal at least signalled that the experimental data did not dictate a single philosophical verdict."
+    },
+    {
+      "id": "p4",
+      "text": "Subsequent methodological scrutiny has been considerably less kind to the strong interpretation. Reports of the moment of awareness depend on introspective judgements that are notoriously susceptible to distortion. More fundamentally, some researchers have proposed that the readiness potential may not reflect a specific decision at all, but rather the accumulation of random neural fluctuations that, in a task deliberately stripped of reasons, happen to tip the system over a threshold. On this reading, the build-up is less a hidden decision than the background noise against which an arbitrary movement eventually occurs."
+    },
+    {
+      "id": "p5",
+      "text": "There is, moreover, a question of relevance. The movements studied were spontaneous, purposeless and trivial; participants had, by design, no reason to prefer one moment over another. Whether such actions illuminate the deliberate choices that matter most to debates about moral responsibility, such as whether to accept a job, break a promise or report a colleague, is at best doubtful. Philosophers of a compatibilist persuasion add that free will, properly understood, never required that decisions be uncaused, only that they flow from a person's own reasons and values."
+    },
+    {
+      "id": "p6",
+      "text": "It would be premature, then, to conclude either that neuroscience has abolished free will or that it has nothing to say about it. What the controversy has exposed is the degree to which experimental findings are refracted through prior philosophical commitments. The data constrain the debate; they do not, on their own, settle it."
+    },
+    {
+      "id": "p7",
+      "text": "Later work has extended the original paradigm rather than simply repeating it. Studies using brain imaging have reported that patterns of activity could predict which of two buttons a participant would press several seconds before the reported moment of decision, though with an accuracy only modestly better than chance, a qualification that popular reports tended to omit. Other researchers have sought to address the objection from relevance directly, comparing arbitrary choices with deliberate ones that carried real consequences. At least one such study found that the characteristic build-up was markedly weaker, or absent altogether, when participants were choosing for reasons. If findings of this kind prove robust, they would suggest that the paradigm on which the sceptical argument rests may capture a peculiar, and perhaps unrepresentative, class of actions."
+    },
+    {
+      "id": "p8",
+      "text": "The stakes of the debate are not confined to the seminar room. Some psychologists have reported that participants exposed to arguments denying free will subsequently behaved less honestly in laboratory tasks, raising the possibility that a widespread belief in determinism might erode moral conduct. Attempts to replicate such effects have produced mixed results, and the original findings are now generally treated with caution. In the legal sphere, some theorists have argued that although the formal criteria of criminal responsibility need not change, an increasingly detailed scientific picture of the causes of behaviour may gradually weaken the intuitions on which retributive punishment depends, shifting attention from desert towards deterrence and rehabilitation. Whether such a shift would represent moral progress or a dangerous erosion of personal accountability is precisely what remains contested."
+    },
+    {
+      "id": "p9",
+      "text": "What emerges from these developments is less a verdict than a clarification of the questions. Neuroscience can establish when and where certain neural events occur, and with what reliability they anticipate behaviour; it cannot, without further argument, establish what it would mean for those events to be free or unfree. That further argument is philosophical, and it is unlikely to be settled by any single experiment, however ingenious. The most fruitful collaborations between the disciplines may therefore be those in which each is explicit about the concepts it brings to the data, so that disagreements about interpretation can be distinguished from disagreements about fact."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main point of the passage?",
+      "options": [
+        "Libet's experiments conclusively proved that free will is an illusion.",
+        "Neuroscience is irrelevant to philosophical questions about human choice.",
+        "Libet's findings have been widely overinterpreted, and the data alone cannot resolve the question of free will.",
+        "The readiness potential is now known to be nothing more than random noise."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer rejects both extremes and concludes that the data constrain but do not settle the debate.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The data constrain the debate; they do not, on their own, settle it."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 1, what were participants asked to do?",
+      "options": [
+        "Move a wrist at a moment signalled by the experimenter.",
+        "Note the position of a dot on a clock face when they became aware of the intention to move.",
+        "Suppress the urge to move for as long as possible.",
+        "Predict when the readiness potential would begin."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Participants moved whenever they felt the urge and noted the dot's position at the moment of awareness.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "noting the position of a rapidly moving dot on a clock face at the moment they first became aware of the intention to move"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"belated\" is closest in meaning to",
+      "options": [
+        "late-arriving",
+        "reluctant",
+        "mistaken",
+        "powerless"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Belated\" means coming late; consciousness is pictured as arriving after the event has already begun.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "the feeling of conscious choice was therefore a belated spectator rather than an author"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What does the writer imply about Libet's own interpretation of his results?",
+      "options": [
+        "It was more extreme than the claims made in popular accounts.",
+        "It was immediately accepted by his critics as a satisfactory solution.",
+        "It showed that the experiment was methodologically flawed.",
+        "It indicated that the experimental evidence was compatible with more than one philosophical conclusion."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer says his proposal \"at least signalled\" that the data did not dictate a single verdict; it was more guarded, not more extreme, and critics found it unsatisfying.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the proposal at least signalled that the experimental data did not dictate a single philosophical verdict"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What objection did critics raise to Libet's idea of a conscious veto?",
+      "options": [
+        "That participants never actually abstained from moving.",
+        "That it was unclear why the veto itself would not also be prepared unconsciously.",
+        "That the veto contradicted the timing of the readiness potential.",
+        "That it relied on electrodes which could not record vetoes."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Critics questioned why a conscious veto should be exempt from the same unconscious preparation.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "it was unclear why a conscious veto should itself be exempt from unconscious preparation"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer mention accepting a job, breaking a promise and reporting a colleague in paragraph 5?",
+      "options": [
+        "To contrast morally significant deliberate decisions with the trivial movements studied in the experiments.",
+        "To show that such decisions are also preceded by a readiness potential.",
+        "To argue that moral responsibility is impossible without free will.",
+        "To illustrate the kinds of tasks used in later replications of Libet's experiment."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The examples highlight the gap between spontaneous, purposeless wrist movements and choices relevant to responsibility.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The movements studied were spontaneous, purposeless and trivial"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "such as whether to accept a job, break a promise or report a colleague"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "Which statement would a compatibilist, as described in the passage, be most likely to accept?",
+      "options": [
+        "A choice is free only if it has no prior cause whatsoever.",
+        "Libet's experiments prove that people are never morally responsible.",
+        "A decision can be free even if it has causes, provided it arises from the person's own reasons and values.",
+        "Free will can be measured directly by recording brain activity."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Compatibilists hold that freedom requires decisions to flow from one's reasons and values, not that they be uncaused.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "free will, properly understood, never required that decisions be uncaused, only that they flow from a person's own reasons and values"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"refracted\" suggests that experimental findings are",
+      "options": [
+        "rejected outright by philosophers",
+        "reproduced without alteration",
+        "divided into separate experiments",
+        "bent or shaped by the perspectives through which they are viewed"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Like light passing through a lens, findings are altered by prior philosophical commitments.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "experimental findings are refracted through prior philosophical commitments"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "purpose",
+      "text": "What is the main purpose of paragraph 4?",
+      "options": [
+        "To present further evidence confirming that the brain decides before the person does.",
+        "To describe challenges that weaken the strong interpretation of Libet's results.",
+        "To explain how the readiness potential was first discovered.",
+        "To argue that introspection is always unreliable in psychology."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The paragraph raises doubts about self-reported timing and offers an alternative account of the readiness potential. It calls introspective reports \"notoriously susceptible\", not always unreliable.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Subsequent methodological scrutiny has been considerably less kind to the strong interpretation."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 7, what did studies using brain imaging report?",
+      "options": [
+        "Brain activity could predict participants' choices with near-perfect accuracy.",
+        "Conscious decisions were found to precede all relevant neural activity.",
+        "The readiness potential could no longer be detected with modern equipment.",
+        "Activity could predict which of two buttons would be pressed several seconds in advance, but only modestly better than chance."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The studies reported prediction several seconds ahead, with accuracy only modestly better than chance.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "though with an accuracy only modestly better than chance"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does the writer imply about popular reports of the brain-imaging studies?",
+      "options": [
+        "They tended to overstate the findings by leaving out an important limitation.",
+        "They conveyed the studies' limitations accurately.",
+        "They deliberately falsified the experimental data.",
+        "They ignored the studies altogether."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Popular reports tended to omit the qualification about modest accuracy, which makes the findings seem stronger than they were.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "a qualification that popular reports tended to omit"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "purpose",
+      "text": "Why does the writer mention the study comparing arbitrary choices with deliberate ones?",
+      "options": [
+        "To prove conclusively that free will exists.",
+        "To show that the readiness potential is merely a measurement error.",
+        "To show that researchers have tested whether the original findings extend to choices made for reasons.",
+        "To describe how participants in such studies were rewarded."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The study is presented as a direct response to the objection from relevance raised in paragraph 5.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Other researchers have sought to address the objection from relevance directly"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "According to the writer, what would follow if the findings on deliberate choices prove robust?",
+      "options": [
+        "The sceptical argument would be confirmed for all kinds of action.",
+        "Deliberate choices would be shown to have no neural basis.",
+        "Libet's original experiments would be shown to be fraudulent.",
+        "The sceptical argument might be resting on an unrepresentative class of actions."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer says the paradigm 'may capture a peculiar, and perhaps unrepresentative, class of actions'.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "may capture a peculiar, and perhaps unrepresentative, class of actions"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"desert\" in \"shifting attention from desert towards deterrence\" refers to",
+      "options": [
+        "what a person deserves",
+        "the act of abandoning someone",
+        "a dry and empty region",
+        "a reward for good behaviour"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "In discussions of punishment, 'desert' means what a person deserves for their actions, which underpins retributive punishment.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "shifting attention from desert towards deterrence and rehabilitation"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 8, what have some psychologists reported?",
+      "options": [
+        "Belief in determinism makes people behave more honestly.",
+        "Arguments against free will have no measurable effect on behaviour.",
+        "Participants exposed to arguments denying free will behaved less honestly in laboratory tasks.",
+        "Most people already reject the idea of free will."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The paragraph reports reduced honesty after exposure to arguments against free will.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "participants exposed to arguments denying free will subsequently behaved less honestly in laboratory tasks"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "How does the writer regard the findings about belief in determinism and honesty?",
+      "options": [
+        "As conclusively established by repeated experiments.",
+        "As uncertain, given the mixed results of attempts to replicate them.",
+        "As fraudulent and unworthy of discussion.",
+        "As proof that belief in determinism is socially harmful."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Replication has produced mixed results, and the findings are treated with caution.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Attempts to replicate such effects have produced mixed results"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "According to some legal theorists mentioned in paragraph 8, what may a detailed scientific picture of the causes of behaviour do?",
+      "options": [
+        "Require immediate changes to the formal criteria of criminal responsibility.",
+        "Strengthen the intuitions that support retributive punishment.",
+        "Make deterrence and rehabilitation irrelevant.",
+        "Gradually weaken the intuitions on which retributive punishment depends."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The theorists argue that formal criteria need not change, but intuitions supporting retribution may weaken.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "may gradually weaken the intuitions on which retributive punishment depends"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 9, the word \"ingenious\" is closest in meaning to",
+      "options": [
+        "expensive",
+        "honest",
+        "cleverly designed",
+        "widely publicised"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "An ingenious experiment is one that is cleverly and inventively designed.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "however ingenious"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "According to paragraph 9, what is neuroscience unable to establish without further argument?",
+      "options": [
+        "What it would mean for neural events to be free or unfree.",
+        "When and where certain neural events occur.",
+        "How reliably neural events anticipate behaviour.",
+        "Anything of relevance to debates about responsibility."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Neuroscience can establish timing and reliability, but the meaning of freedom requires philosophical argument. The last option overgeneralises.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "it cannot, without further argument, establish what it would mean for those events to be free or unfree"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "Which statement best expresses the main idea of the final paragraph?",
+      "options": [
+        "Neuroscience has now settled the question of free will.",
+        "Progress depends on clarifying concepts so that disagreements about interpretation can be separated from disagreements about fact.",
+        "Philosophers should stop taking experimental data into account.",
+        "A sufficiently ingenious experiment could resolve the question of free will."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraph presents the outcome as 'a clarification of the questions' and recommends explicit concepts to separate interpretation from fact.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "What emerges from these developments is less a verdict than a clarification of the questions."
+        }
+      ]
+    }
+  ]
+}

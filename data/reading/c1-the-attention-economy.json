@@ -1,0 +1,451 @@
+{
+  "id": "the-attention-economy",
+  "title": "The Attention Economy",
+  "level": "C1 · Advanced",
+  "description": "An article on how digital apps compete for users' attention and what this competition does to us.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "In an age of information abundance, the scarce resource is no longer information itself but the attention required to process it. This insight, first articulated by economists in the 1970s, has become the organising principle of much of the digital industry. Because most popular apps are free to download and use, their revenue depends not on what users pay but on how long they stay, since every additional minute of engagement can be converted into advertising income or valuable behavioural data."
+    },
+    {
+      "id": "p2",
+      "text": "To maximise engagement, designers draw heavily on findings from behavioural psychology. Features such as infinite scrolling remove the natural stopping points that once signalled the end of a page, while autoplay ensures that one video flows seamlessly into the next. Perhaps most powerful of all is the use of variable rewards: because users never know whether refreshing a feed will reveal something exciting or nothing at all, they check compulsively, much as gamblers return to a slot machine in the hope of a win."
+    },
+    {
+      "id": "p3",
+      "text": "The consequences of this design philosophy are increasingly well documented. Frequent notifications fragment concentration, and research suggests that after an interruption it can take several minutes to return fully to a demanding task. Some studies have linked heavy social media use with heightened anxiety and lower self-esteem, particularly among adolescents, although researchers caution that the direction of causation is difficult to establish: it may be that unhappy individuals are simply more inclined to seek distraction online."
+    },
+    {
+      "id": "p4",
+      "text": "Not everyone accepts the bleak picture painted by critics. Defenders of the industry argue that users are not passive victims but active agents who choose how to spend their time, and that the same technologies that distract also connect people, spread knowledge and support creative work. They point out, too, that moral panics have accompanied almost every new medium, from novels in the eighteenth century to television in the twentieth, and that earlier fears frequently proved exaggerated."
+    },
+    {
+      "id": "p5",
+      "text": "Even so, a growing number of designers and policymakers are calling for a different approach. Proposals range from default limits on notifications and the removal of autoplay for younger users to a broader shift towards what some call humane technology, in which success is measured by whether people feel their time was well spent rather than by the sheer quantity of time captured. Whether such ideals can survive in a market that rewards engagement above all else remains an open question."
+    },
+    {
+      "id": "p6",
+      "text": "Regulators have begun to take an interest in these questions. Some jurisdictions have introduced rules on the design of online services used by children, requiring, for instance, that the most protective privacy settings be switched on by default. Others have targeted so-called dark patterns, interface designs that steer users towards choices they might not otherwise make, such as hiding the option to decline tracking behind several layers of menus. Critics of regulation warn that legislators may struggle to keep pace with rapidly changing technology, and that rules drafted too broadly could stifle innovation. Supporters reply that the industry has had ample opportunity to regulate itself and has rarely chosen to do so when it would mean reducing engagement."
+    },
+    {
+      "id": "p7",
+      "text": "Individuals, meanwhile, have adopted a variety of strategies to reclaim their attention. Some switch their phones to greyscale, making colourful icons less enticing; others delete social media apps entirely or confine their use to particular times of day. Others turn off all but the most essential notifications, or keep their phones out of the bedroom at night. Such measures can be effective, but they place the burden of resistance on the user, who is pitted against teams of engineers whose task is to make products as compelling as possible. This asymmetry is one reason why many critics argue that personal willpower, however admirable, cannot be the whole answer. Collective arrangements, such as workplaces agreeing not to send messages outside working hours, may succeed where individual resolve falters."
+    },
+    {
+      "id": "p8",
+      "text": "Ultimately, the debate about the attention economy raises questions that extend beyond individual well-being. Attention is the medium through which people form relationships, participate in civic life and pursue long-term goals, and a society in which it is constantly divided may find sustained deliberation increasingly difficult. At the same time, it would be simplistic to imagine a return to some earlier age of undistracted focus, which in any case probably never existed. Every generation has had its distractions, and complaints about shrinking attention spans have a long history of their own. The more realistic challenge is to develop technologies, norms and institutions that treat attention as something worth protecting rather than merely as a commodity to be harvested."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best summarises the passage?",
+      "options": [
+        "Digital apps are designed to capture attention, which raises concerns, though the extent of the harm and the best response are debated.",
+        "Social media is the main cause of anxiety among adolescents and should be strictly regulated.",
+        "The attention economy is a myth invented by critics who fear new technology.",
+        "Advertising income has made free apps the most profitable businesses in history."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The passage explains the business model, the design techniques, the possible harms, the counter-arguments and proposed reforms, ending with an open question.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "has become the organising principle of much of the digital industry"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "remains an open question"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 1, how do most free apps make money?",
+      "options": [
+        "By charging for premium features after a free trial.",
+        "By selling the devices on which the apps run.",
+        "By converting users' engagement time into advertising income or behavioural data.",
+        "By receiving funding from government research grants."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text states that every additional minute of engagement can be converted into advertising income or data.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "every additional minute of engagement can be converted into advertising income or valuable behavioural data"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "purpose",
+      "text": "Why does the writer compare users checking their feeds to gamblers at a slot machine?",
+      "options": [
+        "To suggest that apps are a form of illegal gambling.",
+        "To illustrate how unpredictable rewards encourage compulsive, repeated behaviour.",
+        "To show that most app users also spend money on gambling.",
+        "To argue that slot machines are more addictive than apps."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The comparison clarifies the mechanism of variable rewards: uncertainty about the outcome drives compulsive checking.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "they check compulsively, much as gamblers return to a slot machine in the hope of a win"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"fragment\" is closest in meaning to",
+      "options": [
+        "strengthen",
+        "measure",
+        "delay",
+        "break into pieces"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Notifications break concentration into small, disconnected parts.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Frequent notifications fragment concentration"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can be inferred from the researchers' caution in paragraph 3?",
+      "options": [
+        "Social media use has been proven to have no effect on mental health.",
+        "A link between social media and anxiety does not necessarily mean social media causes anxiety.",
+        "Adolescents are less affected by social media than adults.",
+        "Researchers have stopped studying the effects of social media."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The researchers note that unhappy people might seek distraction online, so correlation does not establish causation.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the direction of causation is difficult to establish"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "it may be that unhappy individuals are simply more inclined to seek distraction online"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Which argument do defenders of the industry make in paragraph 4?",
+      "options": [
+        "Earlier fears about new media, such as novels and television, were often exaggerated.",
+        "Apps should be banned for users under eighteen.",
+        "Notifications improve users' concentration.",
+        "Behavioural psychology has no influence on app design."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Defenders point to past moral panics over novels and television that proved exaggerated.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "from novels in the eighteenth century to television in the twentieth, and that earlier fears frequently proved exaggerated"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "What is the main purpose of paragraph 4?",
+      "options": [
+        "To provide further evidence of the harm caused by apps.",
+        "To explain how infinite scrolling works.",
+        "To present a counter-argument to the critics' view.",
+        "To describe the history of television."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Paragraph 4 opens by noting that not everyone accepts the critics' view and then sets out the defenders' case.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Not everyone accepts the bleak picture painted by critics."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What does the final sentence suggest about \"humane technology\"?",
+      "options": [
+        "It has already replaced engagement-based design across the industry.",
+        "It is opposed by most policymakers.",
+        "It is likely to increase the amount of time people spend online.",
+        "It may conflict with the commercial incentives that currently drive the industry."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer doubts whether such ideals can survive in a market that rewards engagement, implying a tension with commercial incentives.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Whether such ideals can survive in a market that rewards engagement above all else remains an open question."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 6 to 8?",
+      "options": [
+        "Regulation has already solved the main problems caused by attention-capturing design.",
+        "Regulation and personal strategies can help, but protecting attention ultimately calls for broader changes in technology, norms and institutions.",
+        "Individuals can fully protect their attention through personal willpower alone.",
+        "People were far more focused before digital technology, and that age should be restored."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The final paragraphs survey regulation and individual measures and conclude that attention must be protected at a wider level.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "The more realistic challenge is to develop technologies, norms and institutions that treat attention as something worth protecting"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, what have some rules on services used by children required?",
+      "options": [
+        "That autoplay be banned for users of all ages",
+        "That children be prevented from using social media",
+        "That companies publish their engagement figures",
+        "That the most protective privacy settings be switched on by default"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The example given is protective privacy settings as the default.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "requiring, for instance, that the most protective privacy settings be switched on by default"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"stifle\" is closest in meaning to:",
+      "options": [
+        "suppress",
+        "encourage",
+        "finance",
+        "imitate"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Critics fear broad rules could hold back or suppress innovation.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "rules drafted too broadly could stifle innovation"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What do supporters of regulation imply about the technology industry?",
+      "options": [
+        "It has regulated itself effectively for many years.",
+        "It generally welcomes government intervention.",
+        "It is unlikely to restrain itself when doing so would hurt its business model.",
+        "It does not understand the products it builds."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "They note the industry rarely self-regulates when it would mean reducing engagement, its source of revenue.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "has rarely chosen to do so when it would mean reducing engagement"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "Which of the following is given in paragraph 6 as an example of a dark pattern?",
+      "options": [
+        "Hiding the option to decline tracking behind several layers of menus",
+        "Switching the most protective privacy settings on by default",
+        "Removing autoplay from services used by younger people",
+        "Placing default limits on the number of notifications"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Hiding the decline option steers users towards accepting tracking.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "such as hiding the option to decline tracking behind several layers of menus"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 7, why do some people switch their phones to greyscale?",
+      "options": [
+        "To extend the life of the battery",
+        "To reduce eye strain late at night",
+        "To block notifications from social media",
+        "To make colourful app icons less tempting"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Greyscale makes icons less enticing.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Some switch their phones to greyscale, making colourful icons less enticing"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"enticing\" is closest in meaning to:",
+      "options": [
+        "confusing",
+        "attractive or tempting",
+        "expensive",
+        "easy to see"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Without colour, icons are less tempting to tap.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "making colourful icons less enticing"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What does the writer mean by the \"asymmetry\" mentioned in paragraph 7?",
+      "options": [
+        "Users have more power than engineers, because they can delete apps at any time.",
+        "Engineers are generally unaware of the effects of their designs.",
+        "Individual users are poorly matched against professional teams designing products to be compelling.",
+        "Strategies such as greyscale work better for some users than for others."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The imbalance is between a single user's willpower and teams whose job is to capture attention.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "who is pitted against teams of engineers whose task is to make products as compelling as possible"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer add that an earlier age of undistracted focus \"probably never existed\"?",
+      "options": [
+        "To argue that distraction is not a genuine problem",
+        "To show that older media were more distracting than apps",
+        "To endorse the defenders' arguments in paragraph 4 in full",
+        "To warn against a nostalgic and unrealistic idea of the solution"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer rejects the idea of simply returning to the past and proposes a more realistic goal instead.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "it would be simplistic to imagine a return to some earlier age of undistracted focus"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "Why does paragraph 8 suggest the attention economy is a concern for society as a whole?",
+      "options": [
+        "It reduces the advertising income of traditional media.",
+        "Constantly divided attention may weaken people's capacity for sustained public deliberation.",
+        "It mainly affects the self-esteem of adolescents.",
+        "It prevents people from using technology creatively."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Because attention underpins civic life, its fragmentation could affect collective debate, not just individuals.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "a society in which it is constantly divided may find sustained deliberation increasingly difficult"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"commodity\" is closest in meaning to:",
+      "options": [
+        "a basic human right",
+        "a rare personal skill",
+        "a product to be bought and sold",
+        "a public service"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer contrasts protecting attention with treating it as something to be harvested and sold.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "rather than merely as a commodity to be harvested"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "How is attention described in paragraph 8?",
+      "options": [
+        "As the medium through which people form relationships, take part in civic life and pursue goals",
+        "As a resource that has become more plentiful in the digital age",
+        "As something that can be fully restored by deleting social media apps",
+        "As a personal matter with little relevance to society"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer lists relationships, civic life and long-term goals.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Attention is the medium through which people form relationships, participate in civic life and pursue long-term goals"
+        }
+      ]
+    }
+  ]
+}

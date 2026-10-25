@@ -1,0 +1,447 @@
+{
+  "id": "the-problem-of-other-minds",
+  "title": "The Problem of Other Minds",
+  "level": "C2 · Proficiency",
+  "description": "An essay exploring how, if at all, we can know that other beings have conscious experiences.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Each of us has, it seems, direct and unmediated acquaintance with exactly one mind: our own. I know that I am in pain because I feel it; I know that you are in pain only because you wince, cry out or tell me so. This asymmetry gives rise to what philosophers call the problem of other minds. If all I ever observe of others is their behaviour, what entitles me to believe that behind it lies anything resembling the inner life I know from my own case?"
+    },
+    {
+      "id": "p2",
+      "text": "The traditional answer, associated with John Stuart Mill among others, is an argument from analogy. I observe that in my own case certain inner states are connected with certain outward behaviours; I observe that others have bodies similar to mine and behave in similar ways; I therefore infer that they, too, have similar inner states. The argument has an undeniable intuitive pull, yet it has struck many critics as precariously thin. It generalises from a single instance, my own, to billions of others, an inductive leap that would be considered reckless in almost any other domain."
+    },
+    {
+      "id": "p3",
+      "text": "Some philosophers, influenced by the later work of Ludwig Wittgenstein, have contended that the problem is in a certain sense misconceived. On their view, our concepts of pain, joy or fear are not learned by private inspection and then projected onto others; they are acquired in a shared public practice in which behaviour and circumstance play an ineliminable role. To understand what pain is, on this account, is already to understand it as something that others can have and that manifests itself in characteristic ways. The sceptic who doubts other minds is thus accused of sawing off the branch on which his own concepts rest."
+    },
+    {
+      "id": "p4",
+      "text": "Others have proposed that belief in other minds is best treated as an inference to the best explanation. The hypothesis that other people have experiences much like mine explains their behaviour more simply and more successfully than any rival, such as the supposition that they are cleverly programmed automata. This approach does not deliver certainty, but then, its proponents observe, very little of our knowledge of the external world does; to demand certainty here alone would be an arbitrary double standard."
+    },
+    {
+      "id": "p5",
+      "text": "The problem acquires a sharper edge at the margins. Few doubt that other adult humans are conscious, but the question becomes genuinely contested when we consider newborn infants, non-human animals with nervous systems very different from ours, patients in states of minimal responsiveness, or artificial systems capable of producing fluent language. In these cases, the behavioural and physiological similarities on which analogy and explanation depend grow attenuated, and our judgements may be swayed as much by sympathy or prejudice as by evidence."
+    },
+    {
+      "id": "p6",
+      "text": "It is here, perhaps, that the ancient puzzle reveals its practical stakes. How we resolve uncertainty about other minds shapes how we treat the beings in question, and the history of moral progress is in part a history of recognising inner lives that had previously been denied. That record suggests a measure of humility: where the evidence is ambiguous, the costs of wrongly denying consciousness may well exceed those of wrongly attributing it."
+    },
+    {
+      "id": "p7",
+      "text": "The difficulty at the margins is compounded by a deeper consideration, articulated influentially by Thomas Nagel in an essay asking what it is like to be a bat. Bats perceive their surroundings largely through echolocation, a sensory modality with no close human counterpart. Even if we possessed a complete physiological account of how the bat processes echoes, Nagel argued, we would still not know what that experience is like from the bat's own point of view. The point is not that bats lack experience, which Nagel took for granted, but that the subjective character of an experience may elude descriptions framed from the outside. If this is right, then establishing that another creature is conscious and understanding the nature of its consciousness are distinct achievements, and the second may lie permanently beyond our reach."
+    },
+    {
+      "id": "p8",
+      "text": "The arrival of artificial systems that converse with apparent fluency has given these questions an unexpected topicality. In 1950 Alan Turing proposed replacing the question of whether machines can think with a more tractable test: whether a machine could sustain a conversation indistinguishable from that of a human. For decades the proposal served as a touchstone. Yet systems trained on vast quantities of human writing are, in a sense, optimised to produce precisely the outward signs on which behavioural criteria rely, and their fluency may therefore be weaker evidence of inner experience than comparable fluency in a human would be. The argument from analogy, already strained in the case of animals, here faces the opposite difficulty: the behavioural resemblance is striking, while the underlying resemblance may be negligible."
+    },
+    {
+      "id": "p9",
+      "text": "Some philosophers have responded to such uncertainty by proposing precautionary frameworks, under which beings that are credible candidates for sentience are afforded proportionate protection without waiting for a certainty that may never arrive. Such frameworks extend the humility counselled above, but they also require judgement about what counts as a credible candidate, and here the costs of error do not run in one direction only. Attributing rich inner lives to systems that lack them could divert moral concern from beings that genuinely suffer, or expose people to manipulation by products designed to elicit sympathy. The problem of other minds, it seems, cannot be dissolved by a single rule; it must be negotiated case by case, with as much evidence and as little prejudice as we can muster."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best captures the main idea of the passage?",
+      "options": [
+        "The existence of other minds can be proved with certainty by the argument from analogy.",
+        "There is no reason at all to believe that other people are conscious.",
+        "Only artificial systems raise genuine questions about consciousness.",
+        "Several responses to the problem of other minds exist, and the problem has practical moral consequences, especially in borderline cases."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The passage surveys the analogy, Wittgensteinian and best-explanation responses, then turns to marginal cases and moral stakes.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "It is here, perhaps, that the ancient puzzle reveals its practical stakes."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What weakness do critics find in the argument from analogy?",
+      "options": [
+        "It relies on evidence from only one case to draw conclusions about countless others.",
+        "It ignores the behaviour of other people.",
+        "It depends on the assumption that machines are conscious.",
+        "It was rejected by Mill himself."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Critics note that it generalises from a single instance, which would be reckless elsewhere.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "It generalises from a single instance, my own, to billions of others"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"precariously\" is closest in meaning to",
+      "options": [
+        "deliberately",
+        "insecurely",
+        "surprisingly",
+        "elegantly"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Precariously thin\" suggests the argument is insecure, liable to collapse.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "it has struck many critics as precariously thin"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What do the Wittgenstein-influenced philosophers imply about the sceptic in paragraph 3?",
+      "options": [
+        "The sceptic's doubts are supported by the way concepts are learned.",
+        "The sceptic should rely on private inspection to answer the problem.",
+        "The sceptic uses concepts whose meaning already presupposes that others can have experiences.",
+        "The sceptic is right that pain cannot be expressed in behaviour."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The image of sawing off the branch means the sceptic undermines the very concepts he relies on.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "The sceptic who doubts other minds is thus accused of sawing off the branch on which his own concepts rest."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "According to paragraph 4, what do proponents of inference to the best explanation concede?",
+      "options": [
+        "That their approach does not provide certainty.",
+        "That other people may well be automata.",
+        "That the argument from analogy is superior.",
+        "That knowledge of the external world is always certain."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They concede it \"does not deliver certainty\", noting that little else does either.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "This approach does not deliver certainty"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why do the proponents mentioned in paragraph 4 refer to \"an arbitrary double standard\"?",
+      "options": [
+        "To accuse sceptics of being inconsistent in demanding certainty about other minds but not about other knowledge.",
+        "To argue that knowledge of other minds requires a higher standard than other knowledge.",
+        "To criticise the Wittgensteinian view.",
+        "To show that the automaton hypothesis is equally plausible."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Demanding certainty only here, when it is lacking elsewhere too, would be inconsistent.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "to demand certainty here alone would be an arbitrary double standard"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"attenuated\" most nearly means",
+      "options": [
+        "strengthened",
+        "weakened",
+        "exaggerated",
+        "clarified"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "In borderline cases the similarities on which inference relies become thinner and weaker.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "grow attenuated"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What does the writer suggest about our judgements in borderline cases?",
+      "options": [
+        "They are always based purely on scientific evidence.",
+        "They are generally more reliable than judgements about adult humans.",
+        "They may be influenced by emotional or biased factors as well as by evidence.",
+        "They can easily be settled by the argument from analogy."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer notes that they may be swayed \"as much by sympathy or prejudice as by evidence\".",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "our judgements may be swayed as much by sympathy or prejudice as by evidence"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "purpose",
+      "text": "What is the purpose of the final paragraph?",
+      "options": [
+        "To declare the problem of other minds solved.",
+        "To argue that consciousness should never be attributed to non-humans.",
+        "To dismiss the problem as purely academic.",
+        "To draw a cautious moral lesson favouring humility when evidence of consciousness is ambiguous."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer concludes that the costs of wrongly denying consciousness may exceed those of wrongly attributing it.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "where the evidence is ambiguous, the costs of wrongly denying consciousness may well exceed those of wrongly attributing it"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to Nagel, as described in paragraph 7, what would a complete physiological account of bat echolocation fail to tell us?",
+      "options": [
+        "Whether bats can perceive their surroundings at all.",
+        "What the experience is like from the bat's own point of view.",
+        "How the bat's brain processes returning echoes.",
+        "Whether bats possess a nervous system."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Even with complete physiology, we would not know what the experience is like for the bat.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "we would still not know what that experience is like from the bat's own point of view"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What can be inferred about Nagel's view of bat consciousness?",
+      "options": [
+        "He doubted that bats have any experience at all.",
+        "He believed physiology could eventually explain everything about it.",
+        "He assumed bats are conscious but held that the character of their experience may be inaccessible to us.",
+        "He believed bat experience to be essentially the same as human experience."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Nagel 'took for granted' that bats have experience; his point concerned its subjective character.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "The point is not that bats lack experience, which Nagel took for granted"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "According to the writer, what distinction follows if Nagel's argument is correct?",
+      "options": [
+        "Establishing that a creature is conscious differs from understanding what its consciousness is like.",
+        "Consciousness turns out to be identical with outward behaviour.",
+        "Only human beings can be conscious in the full sense.",
+        "Physiological research is irrelevant to questions of consciousness."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer says these are 'distinct achievements', the second possibly beyond reach. The last option overgeneralises.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "establishing that another creature is conscious and understanding the nature of its consciousness are distinct achievements"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"elude\" is closest in meaning to",
+      "options": [
+        "explain",
+        "confirm",
+        "imitate",
+        "escape"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Something that eludes descriptions escapes or evades being captured by them.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "may elude descriptions framed from the outside"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 8, what did Alan Turing propose in 1950?",
+      "options": [
+        "That machines should be built to experience feelings.",
+        "Replacing the question of whether machines can think with a test of whether a machine could converse indistinguishably from a human.",
+        "That conversational machines should be prohibited.",
+        "Measuring machine intelligence by the speed of its calculations."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Turing replaced the question with a more tractable conversational test.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Alan Turing proposed replacing the question of whether machines can think with a more tractable test"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why, according to paragraph 8, might the fluency of artificial systems be weaker evidence of inner experience than human fluency?",
+      "options": [
+        "Because artificial systems are in fact less fluent than humans.",
+        "Because humans are more skilled at deception than machines.",
+        "Because such systems are trained on human writing to produce exactly the outward signs that behavioural criteria rely on.",
+        "Because the Turing test has been officially abandoned."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The systems are 'optimised to produce precisely the outward signs on which behavioural criteria rely'.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "optimised to produce precisely the outward signs on which behavioural criteria rely"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer say the argument from analogy here faces \"the opposite difficulty\"?",
+      "options": [
+        "To show that the argument from analogy works well for artificial systems.",
+        "To argue that animals are not conscious.",
+        "To reject Turing's proposal as meaningless.",
+        "To contrast the case of animals with that of artificial systems, whose behaviour resembles ours while their underlying make-up may not."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "With animals, similarities grow attenuated; with artificial systems, behaviour is strikingly similar but the underlying resemblance may be negligible.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the behavioural resemblance is striking, while the underlying resemblance may be negligible"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"touchstone\" is closest in meaning to",
+      "options": [
+        "a standard of reference",
+        "an obstacle",
+        "a joke",
+        "a secret"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A touchstone is a standard against which something is judged.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "For decades the proposal served as a touchstone."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 9, what do precautionary frameworks propose?",
+      "options": [
+        "Withholding protection until consciousness can be proved with certainty.",
+        "Granting full human rights to all animals.",
+        "Giving proportionate protection to credible candidates for sentience without waiting for certainty.",
+        "Prohibiting the development of artificial systems."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Credible candidates receive proportionate protection without waiting for certainty.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "beings that are credible candidates for sentience are afforded proportionate protection without waiting for a certainty that may never arrive"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer suggest about wrongly attributing inner lives to artificial systems?",
+      "options": [
+        "It is harmless, since it only errs on the side of caution.",
+        "It could divert moral concern from beings that genuinely suffer or expose people to manipulation.",
+        "It is impossible, given current scientific knowledge.",
+        "It is always worse than wrongly denying consciousness."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer notes that 'the costs of error do not run in one direction only' and lists these risks.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "could divert moral concern from beings that genuinely suffer, or expose people to manipulation by products designed to elicit sympathy"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "Which statement best expresses the main idea of the final paragraph?",
+      "options": [
+        "A single precautionary rule can settle all questions about other minds.",
+        "Artificial systems should be treated as conscious beings.",
+        "Wrongly denying consciousness is always worse than wrongly attributing it.",
+        "Questions about other minds require case-by-case judgement, since errors in either direction carry costs."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The problem 'cannot be dissolved by a single rule' and must be negotiated case by case.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "it must be negotiated case by case, with as much evidence and as little prejudice as we can muster"
+        }
+      ]
+    }
+  ]
+}

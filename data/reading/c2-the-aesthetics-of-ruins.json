@@ -1,0 +1,451 @@
+{
+  "id": "the-aesthetics-of-ruins",
+  "title": "The Aesthetics of Ruins",
+  "level": "C2 · Proficiency",
+  "description": "An essay on why ruined buildings have fascinated artists and travellers, and the ethical questions raised by that fascination.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "There is something curious about the pleasure that ruins afford. A building constructed for shelter, worship or display has, by definition, failed in its original purpose once its roof has fallen and its walls have crumbled; yet it is often precisely in this condition that it attracts the most devoted attention. Travellers who would scarcely glance at an intact parish church will journey considerable distances to contemplate the roofless shell of an abbey, and painters have for centuries lavished on broken columns a tenderness they seldom extended to complete ones."
+    },
+    {
+      "id": "p2",
+      "text": "The European fascination with ruins reached a peak in the eighteenth century, when the ruins of classical Rome became an obligatory destination for young aristocrats on the Grand Tour. Artists such as Giovanni Battista Piranesi produced etchings in which the remains of ancient structures loom over diminutive modern figures, conveying both the grandeur of the past and the frailty of all human achievement. So powerful was the taste for such scenes that wealthy landowners commissioned artificial ruins, known as follies, for their estates, constructing decay where none had naturally occurred."
+    },
+    {
+      "id": "p3",
+      "text": "Several explanations have been proposed for this enduring attraction. Ruins, it is said, invite the imagination to complete what time has left unfinished, engaging the viewer as a collaborator rather than a passive spectator. They also offer a memento mori on an architectural scale, reminding us that the ambitions of empires are no more permanent than those of individuals. And they stage an encounter between culture and nature, as ivy and moss reclaim what masons once wrested from the landscape, an encounter that many have found melancholy but obscurely consoling."
+    },
+    {
+      "id": "p4",
+      "text": "In recent decades, the aesthetic has acquired a contemporary variant, sometimes dismissively labelled ruin porn: photographs of abandoned factories, derelict theatres and decaying housing estates, often in post-industrial cities. Critics have charged that such images aestheticise suffering, transforming the visible consequences of economic collapse into objects of detached contemplation while ignoring the communities that continue to live amid them. The photographer, on this account, consumes the spectacle of decline without bearing any of its costs."
+    },
+    {
+      "id": "p5",
+      "text": "Defenders counter that the charge, while not without force, risks proving too much. If it is illegitimate to find beauty in the remains of recent catastrophe, it is unclear why the same objection should not apply to Roman ruins, which also bear witness to violence, conquest and the collapse of societies whose inhabitants suffered. Images of decline, they add, may serve a documentary function, making visible what policymakers might prefer to ignore. The question, perhaps, is not whether ruins may be looked at with aesthetic pleasure but whether that pleasure crowds out other forms of attention."
+    },
+    {
+      "id": "p6",
+      "text": "What the controversy reveals is that the appeal of ruins has always depended on a certain distance, whether temporal, geographical or social. The classical ruin was safely remote; its catastrophes had long since lost their power to wound. Contemporary ruins enjoy no such insulation, and their aesthetic treatment therefore exposes an ethical dimension that was latent all along. That this dimension was easier to overlook when the ruins were ancient does not mean it was ever absent."
+    },
+    {
+      "id": "p7",
+      "text": "Among the most suggestive attempts to theorise this appeal is an essay by the sociologist Georg Simmel, written in the early twentieth century. Architecture, Simmel argued, represents a provisional victory of the human spirit over the inert matter of stone, which is raised and shaped against the downward pull of natural forces. In the ruin, that balance has shifted: nature begins to reclaim what was taken from it, yet the result is not mere rubble but a new kind of whole, in which human purpose and natural process appear briefly reconciled. On this view, the peculiar serenity that many visitors report is less a response to destruction as such than to a moment of equilibrium, one that is necessarily transient, since decay, if left to run its course, will eventually reduce the ruin to an undifferentiated heap."
+    },
+    {
+      "id": "p8",
+      "text": "That the aesthetics of ruin can be enlisted for troubling ends is illustrated by an episode from the twentieth century. Albert Speer, architect to the Nazi regime, later claimed to have advocated a principle of ruin value, according to which monumental buildings should be designed so that, even in decay, they would evoke the grandeur of the state that raised them, much as the remains of Rome evoked the grandeur of the empire. Historians have treated much of Speer's post-war self-presentation with considerable scepticism, but the idea is revealing whatever its precise provenance. It suggests that the contemplation of ruins is not invariably humbling; it can also be appropriated as an instrument of political ambition, in which future decay is anticipated as a form of lasting propaganda."
+    },
+    {
+      "id": "p9",
+      "text": "The tension between these perspectives continues to shape the practical decisions of those charged with caring for historic remains. Since the nineteenth century, when critics such as John Ruskin and William Morris campaigned against the wholesale restoration of medieval buildings, conservationists have frequently preferred to stabilise a ruin in its existing condition rather than rebuild what has been lost. Such a policy implicitly treats decay itself as part of a building's history and, perhaps, of its value. Yet the decision to arrest decline at a particular moment is no less an act of interpretation than restoration would be, since it fixes the ruin in a state that nature alone would never have maintained. The ruin we admire, in other words, is seldom simply found; it is, to a greater degree than its admirers might suppose, made."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which of the following best summarises the passage?",
+      "options": [
+        "Ruins are beautiful only when they are ancient.",
+        "The attraction of ruins has deep roots, and modern examples bring to light an ethical dimension that was always present.",
+        "Photographs of abandoned factories should be banned.",
+        "Eighteenth-century aristocrats invented the appreciation of ruins."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The passage traces the appeal of ruins and concludes that contemporary ruins expose an ethical dimension \"latent all along\".",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "their aesthetic treatment therefore exposes an ethical dimension that was latent all along"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "purpose",
+      "text": "Why does the writer contrast an intact parish church with the shell of an abbey in paragraph 1?",
+      "options": [
+        "To illustrate the paradox that buildings may attract more attention once they have failed in their function.",
+        "To argue that abbeys are architecturally superior to churches.",
+        "To show that travellers prefer religious buildings.",
+        "To criticise travellers for neglecting local heritage."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The contrast exemplifies the curious pleasure ruins afford despite their failure as buildings.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "it is often precisely in this condition that it attracts the most devoted attention"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What were \"follies\", according to the passage?",
+      "options": [
+        "Etchings of Roman ruins by Piranesi.",
+        "Classical buildings restored by landowners.",
+        "Artificial ruins built deliberately on wealthy estates.",
+        "Abandoned factories in post-industrial cities."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Landowners commissioned artificial ruins, \"known as follies\".",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "wealthy landowners commissioned artificial ruins, known as follies, for their estates"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Which of the following is NOT given in paragraph 3 as an explanation for the appeal of ruins?",
+      "options": [
+        "They engage the viewer's imagination in completing them.",
+        "They remind viewers of the impermanence of human ambitions.",
+        "They show an encounter between culture and nature.",
+        "They demonstrate the superior engineering of ancient builders."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Engineering skill is not mentioned; the other three explanations are.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Ruins, it is said, invite the imagination to complete what time has left unfinished"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "They also offer a memento mori on an architectural scale"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"wrested\" is closest in meaning to",
+      "options": [
+        "forcibly taken",
+        "gently borrowed",
+        "carefully decorated",
+        "quickly abandoned"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Masons took materials from the landscape by force and effort, which nature now reclaims.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "what masons once wrested from the landscape"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "What is implied by the critics' claim that the photographer \"consumes the spectacle of decline without bearing any of its costs\"?",
+      "options": [
+        "Photographers are usually residents of the cities they photograph.",
+        "Photographers profit financially from economic collapse.",
+        "There is an imbalance between the detached viewer who enjoys the images and the communities who suffer the decline.",
+        "Photography of ruins is more costly than painting."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The critics stress the gap between detached contemplation and the communities living amid decline.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "while ignoring the communities that continue to live amid them"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What do the defenders mean by saying the charge \"risks proving too much\"?",
+      "options": [
+        "If accepted, it would also condemn the long-established appreciation of ancient ruins.",
+        "It contains too much evidence to be refuted.",
+        "It applies only to Roman ruins.",
+        "It exaggerates the number of abandoned factories."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The defenders argue that the same objection would logically apply to Roman ruins.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "it is unclear why the same objection should not apply to Roman ruins"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"latent\" most nearly means",
+      "options": [
+        "obvious",
+        "recent",
+        "present but hidden",
+        "irrelevant"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The ethical dimension existed all along but was not apparent until contemporary ruins exposed it.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "an ethical dimension that was latent all along"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "purpose",
+      "text": "What is the purpose of the final sentence of the passage?",
+      "options": [
+        "To argue that ancient ruins should no longer be visited.",
+        "To concede that the critics of ruin photography are entirely wrong.",
+        "To suggest that the ethical issue was invented by modern critics.",
+        "To insist that the ethical dimension applies to ancient ruins too, even if it was easier to ignore."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer stresses that the ethical dimension was never absent, only overlooked.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "That this dimension was easier to overlook when the ruins were ancient does not mean it was ever absent."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to Simmel, as described in paragraph 7, what does architecture represent?",
+      "options": [
+        "A permanent conquest of nature by human beings.",
+        "A provisional victory of the human spirit over the inert matter of stone.",
+        "A harmonious imitation of natural forms.",
+        "A collaboration between builders and natural forces from the outset."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Simmel saw architecture as a provisional, not permanent, victory of spirit over matter.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Architecture, Simmel argued, represents a provisional victory of the human spirit over the inert matter of stone"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "Why, according to paragraph 7, is the equilibrium represented by the ruin \"necessarily transient\"?",
+      "options": [
+        "Because continued decay will eventually reduce the ruin to a shapeless heap, ending the balance.",
+        "Because visitors' moods change from one visit to the next.",
+        "Because conservationists usually restore ruins to their original state.",
+        "Because Simmel's theory was later abandoned by sociologists."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "If decay runs its course, the ruin becomes 'an undifferentiated heap', so the balance cannot last.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "decay, if left to run its course, will eventually reduce the ruin to an undifferentiated heap"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"inert\" is closest in meaning to",
+      "options": [
+        "valuable",
+        "heavy",
+        "lacking the power to move or act",
+        "ancient"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Inert matter is passive matter that cannot move or act of itself.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the inert matter of stone"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "On Simmel's view, what is the serenity that visitors to ruins report a response to?",
+      "options": [
+        "Destruction for its own sake.",
+        "A momentary balance between human purpose and natural process.",
+        "The great age of the building alone.",
+        "The absence of other visitors at the site."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The serenity is 'less a response to destruction as such than to a moment of equilibrium'.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "is less a response to destruction as such than to a moment of equilibrium"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 8, what did the principle of ruin value hold?",
+      "options": [
+        "Ruins should be demolished to make way for new buildings.",
+        "Damaged monuments should always be restored.",
+        "Ancient ruins should be imitated by building follies.",
+        "Monumental buildings should be designed to evoke the state's grandeur even in decay."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Buildings were to be designed so that even in decay they would evoke the state's grandeur.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "monumental buildings should be designed so that, even in decay, they would evoke the grandeur of the state that raised them"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What is the writer's attitude towards Speer's account of ruin value?",
+      "options": [
+        "Cautious about its historical accuracy, but convinced that the idea is revealing regardless.",
+        "Accepting of it as a fully reliable historical record.",
+        "Dismissive of it as irrelevant to the aesthetics of ruins.",
+        "Convinced that it was the origin of all modern interest in ruins."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer notes historians' scepticism but says the idea is revealing 'whatever its precise provenance'.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the idea is revealing whatever its precise provenance"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer include the episode involving Albert Speer?",
+      "options": [
+        "To praise the architectural achievements of the Nazi regime.",
+        "To show that the contemplation of ruins can be appropriated for political ambition rather than always inducing humility.",
+        "To explain why the ruins of Rome have been so widely admired.",
+        "To argue that monumental buildings should no longer be constructed."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The episode shows that ruin aesthetics is 'not invariably humbling' and can serve political ambition.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the contemplation of ruins is not invariably humbling; it can also be appropriated as an instrument of political ambition"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "According to paragraph 9, what did John Ruskin and William Morris campaign against?",
+      "options": [
+        "The demolition of medieval buildings for new development.",
+        "The construction of artificial ruins on private estates.",
+        "The photography of abandoned industrial sites.",
+        "The wholesale restoration of medieval buildings."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They campaigned against wholesale restoration, encouraging conservation of buildings as they were.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "campaigned against the wholesale restoration of medieval buildings"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 9, the word \"arrest\" in \"arrest decline\" is closest in meaning to",
+      "options": [
+        "detain",
+        "accelerate",
+        "halt",
+        "record"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "To arrest decline is to stop it at a particular point.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "the decision to arrest decline at a particular moment"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the conservationists' preference for stabilising ruins rather than rebuilding them suggest about their values?",
+      "options": [
+        "They regard decay as worthless and best concealed.",
+        "They implicitly treat decay as part of a building's history, and possibly of its value.",
+        "They believe nature should never be allowed to touch historic buildings.",
+        "They prefer modern architecture to medieval architecture."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer states that the policy 'implicitly treats decay itself as part of a building's history and, perhaps, of its value'.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "Such a policy implicitly treats decay itself as part of a building's history and, perhaps, of its value."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main point of the final paragraph?",
+      "options": [
+        "Ruins should always be restored to their original condition.",
+        "Ruskin and Morris were mistaken in their approach to conservation.",
+        "Ruins are preserved by natural processes without human involvement.",
+        "The ruins we admire are shaped by human decisions about conservation, not simply by natural decay."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The paragraph concludes that the admired ruin is 'seldom simply found' but, to a significant degree, 'made'.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "The ruin we admire, in other words, is seldom simply found"
+        }
+      ]
+    }
+  ]
+}

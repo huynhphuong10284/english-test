@@ -1,0 +1,459 @@
+{
+  "id": "the-life-of-a-lighthouse-keeper",
+  "title": "The Life of a Lighthouse Keeper",
+  "level": "B1 · Intermediate",
+  "description": "What daily life was like for the people who looked after lighthouses.",
+  "instructions": "Read the passage about lighthouse keepers, then choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "For hundreds of years, lighthouses have warned ships about dangerous rocks and coastlines. Before modern technology, each lighthouse needed a keeper to make sure the light never went out. Keepers often lived in the lighthouse itself or in a small house next to it. Many of these buildings stood on lonely cliffs or tiny islands far from the nearest town."
+    },
+    {
+      "id": "p2",
+      "text": "A keeper's work was hard and never-ending. Every evening, the lamp had to be lit, and during the night it needed to be checked regularly. The glass lenses had to be cleaned carefully so that the light would shine as brightly as possible. In foggy weather, keepers also sounded a loud horn or rang a bell to warn sailors who could not see the light."
+    },
+    {
+      "id": "p3",
+      "text": "Life could be very lonely, especially on island lighthouses. Supplies such as food, fuel and letters arrived by boat, but storms sometimes stopped deliveries for weeks. To pass the time, keepers read books, painted, fished or kept detailed diaries about the weather. Some keepers lived with their families, and children sometimes helped with the daily jobs."
+    },
+    {
+      "id": "p4",
+      "text": "During the twentieth century, most lighthouses became automatic, and the job of keeper slowly disappeared. Today, lights are controlled by machines and checked from a distance. Some old lighthouses have been turned into museums or holiday homes. Visitors who climb their narrow stairs can still imagine the quiet, dedicated lives of the people who once kept the lights burning."
+    },
+    {
+      "id": "p5",
+      "text": "Not all keepers were men. In many countries, women also looked after lighthouses, often taking over the job when a husband or father became ill or died. Some of them became national heroes. In 1838, Grace Darling, the daughter of a keeper in the north of England, helped her father row through a terrible storm to rescue survivors of a shipwreck. Her story was told in newspapers, songs and paintings, and it showed how a keeper's work could go far beyond simply looking after a light."
+    },
+    {
+      "id": "p6",
+      "text": "Keepers also had to follow strict rules. They wrote down the weather, passing ships and any problems in an official logbook, and inspectors visited from time to time to check that everything was in order. On remote rock lighthouses, two or three keepers often worked together in shifts, so that someone was always awake. Every few weeks, a boat would bring a new keeper so that one of the others could go home for a rest. Living so close together for weeks could be difficult, and small disagreements could easily grow. Getting along with others was therefore almost as important as being good at the job."
+    },
+    {
+      "id": "p7",
+      "text": "Even in the age of satellite navigation, lighthouses have not lost their value. Many still work as a back-up in case electronic systems fail, and their lights remain a familiar sight for sailors. For people on land, they have also become symbols of safety, hope and guidance. Across the world, volunteer groups raise money to repair old towers and share their history with visitors. In this way, the memory of the keepers lives on, long after the last of them left their lights."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the passage?",
+      "options": [
+        "Lighthouses are popular holiday homes today.",
+        "Ships no longer need lighthouses.",
+        "Lighthouse keepers had a hard, lonely job that has now mostly disappeared.",
+        "Island life is better than town life."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The passage describes the keepers' hard work and lonely life, and explains how the job disappeared.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "A keeper's work was hard and never-ending."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "the job of keeper slowly disappeared"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Why did keepers clean the glass lenses carefully?",
+      "options": [
+        "To stop birds from flying into them",
+        "So that the light would shine as brightly as possible",
+        "Because visitors wanted to see inside",
+        "To keep the lighthouse warm"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 2 says the lenses were cleaned so the light would shine as brightly as possible.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The glass lenses had to be cleaned carefully so that the light would shine as brightly as possible."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What did keepers do in foggy weather?",
+      "options": [
+        "They sounded a horn or rang a bell.",
+        "They turned off the light.",
+        "They sailed out to help ships.",
+        "They left the lighthouse."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "In fog, keepers sounded a horn or rang a bell to warn sailors.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In foggy weather, keepers also sounded a loud horn or rang a bell to warn sailors who could not see the light."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"automatic\" means:",
+      "options": [
+        "very old",
+        "closed to the public",
+        "painted a new colour",
+        "working by itself without a person controlling it"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Automatic lighthouses are controlled by machines, so they no longer need a keeper.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "most lighthouses became automatic"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Today, lights are controlled by machines and checked from a distance."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can we infer about keepers on island lighthouses during long storms?",
+      "options": [
+        "They received extra letters.",
+        "They went to the nearest town.",
+        "They might run short of food or fuel.",
+        "They had no work to do."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Food and fuel came by boat, and storms could stop deliveries for weeks, so supplies might run low.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Supplies such as food, fuel and letters arrived by boat, but storms sometimes stopped deliveries for weeks."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer mention reading, painting and fishing?",
+      "options": [
+        "To show how keepers dealt with loneliness and free time",
+        "To explain the main duties of a keeper",
+        "To describe the jobs children did",
+        "To show that keepers were lazy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "These activities are given as ways keepers passed the time during their lonely life.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "To pass the time, keepers read books, painted, fished or kept detailed diaries about the weather."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "How does the writer seem to feel about the old lighthouse keepers?",
+      "options": [
+        "Critical of their work",
+        "Respectful of their dedication",
+        "Confused about their role",
+        "Angry that they lost their jobs"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer describes their lives as quiet and dedicated, which shows respect.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "the quiet, dedicated lives of the people who once kept the lights burning"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "According to paragraph 4, what has happened to some old lighthouses?",
+      "options": [
+        "They have been destroyed.",
+        "They have become schools.",
+        "They are still run by keepers.",
+        "They have become museums or holiday homes."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 4 says some have been turned into museums or holiday homes.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Some old lighthouses have been turned into museums or holiday homes."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "According to paragraph 1, where did keepers often live?",
+      "options": [
+        "In the nearest town",
+        "In the lighthouse itself or in a small house next to it",
+        "On the ships they were protecting",
+        "In large houses far from the coast"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 1 says keepers often lived in the lighthouse or in a small house next to it.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Keepers often lived in the lighthouse itself or in a small house next to it."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"never-ending\" is closest in meaning to:",
+      "options": [
+        "continuing all the time without stopping",
+        "very well paid",
+        "easy and relaxing",
+        "done only once a year"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The paragraph describes jobs that had to be done every evening and through the night, so the work never stopped.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "A keeper's work was hard and never-ending."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "According to paragraph 3, how did supplies reach island lighthouses?",
+      "options": [
+        "By train",
+        "By plane",
+        "Along a road from the town",
+        "By boat"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 3 says supplies such as food, fuel and letters arrived by boat.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Supplies such as food, fuel and letters arrived by boat"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Women were not allowed to work in lighthouses.",
+        "Shipwrecks were common in the north of England.",
+        "Women also worked as keepers, and some became famous.",
+        "Keepers were often painted by famous artists."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 explains that women also kept lighthouses and gives the example of Grace Darling, who became a national hero.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Not all keepers were men."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "Some of them became national heroes."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What did Grace Darling do in 1838?",
+      "options": [
+        "She built a new lighthouse in the north of England.",
+        "She helped her father row through a storm to rescue survivors of a shipwreck.",
+        "She wrote songs about life in a lighthouse.",
+        "She became the first inspector of lighthouses."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 5 says she helped her father row through a terrible storm to rescue survivors of a shipwreck.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "helped her father row through a terrible storm to rescue survivors of a shipwreck"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer tell the story of Grace Darling?",
+      "options": [
+        "To show that a keeper's work could go far beyond looking after a light",
+        "To explain how lighthouses were built",
+        "To show that storms were not dangerous",
+        "To describe the history of newspapers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer says her story showed how a keeper's work could go far beyond simply looking after a light.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "it showed how a keeper's work could go far beyond simply looking after a light"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 6, what did keepers write in the official logbook?",
+      "options": [
+        "Letters to their families",
+        "Stories and poems about the sea",
+        "The names of visitors to the lighthouse",
+        "The weather, passing ships and any problems"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 6 says they wrote down the weather, passing ships and any problems.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "They wrote down the weather, passing ships and any problems in an official logbook"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"remote\" is closest in meaning to:",
+      "options": [
+        "very tall and narrow",
+        "controlled by a machine",
+        "far away from other places and people",
+        "new and modern"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Remote rock lighthouses were far from towns, so keepers lived close together for weeks with no one else around.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "On remote rock lighthouses, two or three keepers often worked together in shifts"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What can we infer about the kind of person who made a good keeper on a rock lighthouse?",
+      "options": [
+        "Someone who preferred to be completely alone",
+        "Someone who could get on well with others in a small space",
+        "Someone who liked to argue",
+        "Someone who did not need to sleep"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Because keepers lived close together for weeks, getting along with others was almost as important as doing the job well.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Getting along with others was therefore almost as important as being good at the job."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"back-up\" refers to:",
+      "options": [
+        "a type of satellite",
+        "a way of reversing a ship",
+        "a group of volunteers",
+        "something kept ready to use if the main system fails"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Lighthouses work as a back-up in case electronic systems fail, so they are ready when the main system does not work.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Many still work as a back-up in case electronic systems fail"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does paragraph 7 suggest about satellite navigation?",
+      "options": [
+        "It is useful, but sailors cannot always depend on it completely.",
+        "It has made lighthouses completely useless.",
+        "It never fails.",
+        "It is only used by people on land."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lighthouses are kept as a back-up in case electronic systems fail, which shows these systems are not perfect.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Even in the age of satellite navigation, lighthouses have not lost their value."
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "in case electronic systems fail"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the last paragraph?",
+      "options": [
+        "Satellite navigation has replaced all lighthouses.",
+        "Volunteers now work as lighthouse keepers.",
+        "Lighthouses still have value today and their history is remembered.",
+        "Sailors no longer notice lighthouses."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 7 explains that lighthouses still have practical and symbolic value and that volunteers keep their history alive.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "lighthouses have not lost their value"
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "the memory of the keepers lives on"
+        }
+      ]
+    }
+  ]
+}

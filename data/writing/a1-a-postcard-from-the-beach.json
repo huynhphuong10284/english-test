@@ -1,0 +1,321 @@
+{
+  "id": "w-a-postcard-from-the-beach",
+  "title": "A Postcard from the Beach",
+  "level": "A1 · Beginner",
+  "description": "Practise be, can and like + -ing, and write a holiday postcard.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present simple: be",
+      "prompt": "Choose the correct word.",
+      "text": "The water ___ warm and blue.",
+      "options": [
+        "am",
+        "be",
+        "are",
+        "is"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"is\" with one thing (it): the water is warm."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Can",
+      "prompt": "Complete the sentence with can or can't.",
+      "text": "The sea is calm, so we ___ swim.",
+      "answers": [
+        "can"
+      ],
+      "points": 1,
+      "explanation": "Use \"can\" + base verb to say something is possible: we can swim."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Word order: time phrases",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the beach",
+        "on",
+        "we",
+        "every day",
+        "play"
+      ],
+      "answers": [
+        "We play on the beach every day.",
+        "Every day we play on the beach."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + place + time: We play on the beach every day."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Present simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My parents likes the hotel.",
+      "answers": [
+        "My parents like the hotel."
+      ],
+      "points": 1,
+      "explanation": "With a plural subject (they), the verb has no -s: my parents like."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Like + -ing",
+      "prompt": "Choose the correct word.",
+      "text": "My brother likes ___ sandcastles.",
+      "options": [
+        "build",
+        "builds",
+        "building",
+        "to builds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "After like, love and hate, use the -ing form: likes building."
+    },
+    {
+      "id": "e6",
+      "type": "error-correction",
+      "focus": "There is / there are",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There is many shops near the beach.",
+      "answers": [
+        "There are many shops near the beach."
+      ],
+      "points": 1,
+      "explanation": "Use \"there are\" with plural nouns: there are many shops."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions of place: in",
+      "prompt": "Choose the correct word.",
+      "text": "We swim ___ the sea every morning.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "under"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "We swim \"in\" the sea because we are inside the water."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Have got: he / she / it",
+      "prompt": "Complete the sentence with have or has.",
+      "text": "Our room ___ got a big window.",
+      "answers": [
+        "has"
+      ],
+      "points": 1,
+      "explanation": "Use \"has got\" with it (our room = it): our room has got."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Plurals: -es",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There are two beachs near our hotel.",
+      "answers": [
+        "There are two beaches near our hotel."
+      ],
+      "points": 1,
+      "explanation": "Nouns ending in -ch take -es in the plural: beaches."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Present simple: be",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "hot",
+        "the sand",
+        "very",
+        "is"
+      ],
+      "answers": [
+        "The sand is very hot.",
+        "Is the sand very hot?"
+      ],
+      "points": 1,
+      "explanation": "Noun + is + very + adjective: The sand is very hot."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Articles: a / an",
+      "prompt": "Choose the correct word.",
+      "text": "I can see ___ island from my window.",
+      "options": [
+        "an",
+        "a",
+        "two",
+        "any"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound: an island."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Prepositions of time: on",
+      "prompt": "Write in, on or at.",
+      "text": "We go back home ___ Sunday.",
+      "answers": [
+        "on"
+      ],
+      "points": 1,
+      "explanation": "Use \"on\" with days of the week: on Sunday."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Linking words: so",
+      "prompt": "Choose the correct word.",
+      "text": "It is very hot, ___ we swim every day.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "or"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"so\" to give a result: it is hot, so we swim."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Possessive adjectives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My sister loves she new sunglasses.",
+      "answers": [
+        "My sister loves her new sunglasses."
+      ],
+      "points": 1,
+      "explanation": "Use \"her\" (not \"she\") before a noun to show that something belongs to a girl or woman."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "see",
+        "we",
+        "the boats",
+        "can"
+      ],
+      "answers": [
+        "We can see the boats.",
+        "Can we see the boats?"
+      ],
+      "points": 1,
+      "explanation": "Subject + can + verb: We can see the boats."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Present simple: negative",
+      "prompt": "Complete with the negative form of the verb in brackets.",
+      "text": "My brother ___ (not / like) the cold water.",
+      "answers": [
+        "doesn't like",
+        "does not like"
+      ],
+      "points": 1,
+      "explanation": "With he, she and it, make the negative with doesn't (does not) + verb: he doesn't like."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "There is: questions",
+      "prompt": "Choose the correct word.",
+      "text": "___ there a swimming pool at your hotel?",
+      "options": [
+        "Is",
+        "Are",
+        "Has",
+        "Do"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Make questions with \"Is there\" + a singular noun: Is there a swimming pool?"
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Prepositions of time: on",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We go home in Saturday.",
+      "answers": [
+        "We go home on Saturday."
+      ],
+      "points": 1,
+      "explanation": "Use \"on\" with days of the week, not \"in\": on Saturday."
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "There is",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a cafe",
+        "near",
+        "there",
+        "the beach",
+        "is"
+      ],
+      "answers": [
+        "There is a cafe near the beach.",
+        "Near the beach there is a cafe.",
+        "Is there a cafe near the beach?"
+      ],
+      "points": 1,
+      "explanation": "There is + a singular noun + place: There is a cafe near the beach."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Possessive adjectives",
+      "prompt": "Write the possessive adjective for the word in brackets.",
+      "text": "We love ___ (we) hotel. It is very nice.",
+      "answers": [
+        "our"
+      ],
+      "points": 1,
+      "explanation": "The possessive adjective for \"we\" is \"our\": our hotel."
+    }
+  ],
+  "task": {
+    "genre": "Postcard",
+    "prompt": "You are on holiday at the beach. Write a postcard to a friend.",
+    "contentPoints": [
+      "Say where you are and who you are with.",
+      "Describe the weather and the beach.",
+      "Say what you do every day.",
+      "Say when you come home."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "Dear ...,",
+      "I'm in ... with ...",
+      "The weather is ...",
+      "Every day we ...",
+      "See you soon!"
+    ],
+    "modelAnswer": "Dear Sam,\n\nI'm in Nice with my family. The weather is hot and sunny, and the beach is beautiful. Every day we swim in the sea and eat ice cream. I can see boats from our hotel!\n\nWe come home on Sunday. See you soon!\n\nMia"
+  }
+}

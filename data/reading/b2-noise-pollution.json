@@ -1,0 +1,443 @@
+{
+  "id": "noise-pollution",
+  "title": "The Unseen Threat of Noise",
+  "level": "B2 · Upper-intermediate",
+  "description": "How noise affects the health of people and animals, and what can be done to reduce it.",
+  "instructions": "Read the article about noise pollution, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "When people think about pollution, they usually picture smoky chimneys, plastic-filled oceans or rubbish dumps. Noise rarely comes to mind, perhaps because it leaves no visible trace. Yet for millions of people living near busy roads, railways and airports, unwanted sound is a constant feature of daily life, and health experts increasingly regard it as a serious environmental problem rather than a mere annoyance."
+    },
+    {
+      "id": "p2",
+      "text": "The most obvious danger is damage to hearing. Prolonged exposure to very loud sounds, whether at work, at concerts or through headphones turned up too high, can permanently harm the delicate cells of the inner ear. Unlike many other injuries, this kind of damage usually cannot be repaired, which is why hearing protection is now required in many noisy workplaces."
+    },
+    {
+      "id": "p3",
+      "text": "Less obvious, but potentially more widespread, are the effects of moderate noise that people may hardly notice. Even when we are asleep, the body continues to react to sounds such as passing traffic, releasing stress hormones and raising the heart rate. Over many years, researchers believe, this repeated disturbance may contribute to high blood pressure and heart disease. Studies have also suggested that children who attend schools near major airports may find it harder to concentrate and to develop reading skills."
+    },
+    {
+      "id": "p4",
+      "text": "Animals are affected as well. Birds living in cities have been observed singing at higher pitches or at different times of day in order to be heard above the background noise. In the oceans, the sound of ships and underwater construction can interfere with the ability of whales and dolphins to communicate and navigate, since these animals rely heavily on sound in an environment where visibility is often poor."
+    },
+    {
+      "id": "p5",
+      "text": "Fortunately, there are many ways to reduce noise. Quieter road surfaces, sound barriers along motorways, better insulation in buildings and restrictions on night flights can all help. Urban planners can also make a difference by placing bedrooms away from busy streets and creating green spaces that offer residents a quiet escape. Because noise is invisible, however, campaigners argue that the first and perhaps most difficult step is simply persuading people to take it seriously."
+    },
+    {
+      "id": "p6",
+      "text": "Individuals contribute to the problem as well as suffering from it. Loud music from cars, barking dogs, garden machinery and late-night parties can all disturb neighbours, and complaints about noise are among the most common disputes between people who live close together. Many of these conflicts could be avoided with a little consideration, such as keeping the volume down after a certain hour or warning neighbours in advance about building work. Some cities have introduced quiet hours or fines for excessive noise, although enforcing such rules can be difficult, since sound is temporary and often stops before an official arrives to measure it."
+    },
+    {
+      "id": "p7",
+      "text": "Interestingly, the solution is not always to remove sound altogether. Researchers who study what they call 'soundscapes' point out that people often find natural sounds, such as running water, birdsong or wind in the trees, relaxing rather than disturbing. A park in the middle of a city may not be silent, yet it can still feel peaceful because the unwanted noise of traffic is masked by more pleasant sounds. In other words, what matters is not only how loud a place is, but what kind of sounds fill it. For this reason, some designers deliberately add fountains or plant trees that attract birds, aiming to create spaces where people can recover from the stress of city life."
+    },
+    {
+      "id": "p8",
+      "text": "New technology may bring further relief. Electric vehicles are much quieter than petrol cars at low speeds, which could make city streets calmer in the future, although at higher speeds most of the noise comes from the tyres on the road rather than from the engine. Paradoxically, some electric cars are now designed to make an artificial sound at low speeds, so that pedestrians, particularly those with poor eyesight, can hear them approaching. This shows that the aim is not total silence but a better balance, in which useful sounds remain while unnecessary noise is kept to a minimum."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Noise is a serious but often overlooked form of pollution that affects people and animals.",
+        "Headphones are the main cause of hearing loss.",
+        "All night flights should be banned.",
+        "Whales are the animals most affected by noise."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The article explains why noise is a real environmental problem, its effects on humans and animals, and possible solutions.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "health experts increasingly regard it as a serious environmental problem rather than a mere annoyance"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "text": "According to paragraph 1, why might people rarely think of noise as pollution?",
+      "options": [
+        "Because it is less harmful than other pollution",
+        "Because few people live near roads",
+        "Because it does not leave anything people can see",
+        "Because health experts ignore it"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Unlike smoke or plastic, noise leaves no visible trace.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "perhaps because it leaves no visible trace"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "According to paragraph 2, why is hearing protection required in many workplaces?",
+      "options": [
+        "Workers prefer quiet places.",
+        "Damage to the inner ear usually cannot be repaired.",
+        "Concerts are held in workplaces.",
+        "Headphones are not allowed at work."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Because hearing damage is usually permanent, protection is required.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "this kind of damage usually cannot be repaired"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"prolonged\" is closest in meaning to:",
+      "options": [
+        "sudden",
+        "occasional",
+        "pleasant",
+        "continuing for a long time"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Long-lasting exposure to loud sounds causes permanent damage.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Prolonged exposure to very loud sounds"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What happens to the body when it is exposed to noise during sleep?",
+      "options": [
+        "It releases stress hormones and the heart rate rises.",
+        "It stops reacting to sound.",
+        "Hearing becomes more sensitive.",
+        "Blood pressure falls."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 3 says the body keeps reacting even during sleep.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "releasing stress hormones and raising the heart rate"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer mention city birds singing at higher pitches?",
+      "options": [
+        "To explain why birds prefer cities",
+        "To describe the beauty of birdsong",
+        "To show that animals change their behaviour because of noise",
+        "To argue that birds cause noise pollution"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The birds change how they sing so that they can be heard over the noise.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "in order to be heard above the background noise"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Why is ocean noise especially harmful to whales and dolphins?",
+      "options": [
+        "They are attracted to ships.",
+        "They depend on sound because it is often hard to see underwater.",
+        "They cannot hear high-pitched sounds.",
+        "They build underwater structures."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "These animals rely on sound to communicate and navigate where visibility is poor.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "these animals rely heavily on sound in an environment where visibility is often poor"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What do the campaigners in paragraph 5 believe?",
+      "options": [
+        "Sound barriers are too expensive to build.",
+        "Green spaces make cities noisier.",
+        "Most people already take noise seriously.",
+        "Getting people to recognise noise as a problem is a major challenge."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They say the most difficult step is persuading people to take noise seriously, implying many do not.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "the first and perhaps most difficult step is simply persuading people to take it seriously"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which title would best suit the article as a whole?",
+      "options": [
+        "How to Build a Quieter Car",
+        "The Hidden Cost of a Noisy World",
+        "Why Birds Sing in the Morning",
+        "The History of Headphones"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The article explains how noise, which people rarely notice as pollution, harms people and animals, and how it can be reduced.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Noise rarely comes to mind, perhaps because it leaves no visible trace."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 3, which children may find it harder to concentrate?",
+      "options": [
+        "Children who listen to music while studying",
+        "Children who live in the countryside",
+        "Children who attend schools near major airports",
+        "Children who sleep with the window open"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Studies suggest that children at schools near major airports may have problems with concentration and reading.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "children who attend schools near major airports may find it harder to concentrate"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the phrase \"interfere with\" is closest in meaning to:",
+      "options": [
+        "improve",
+        "disturb or prevent from working properly",
+        "copy",
+        "measure"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ship noise makes it harder for whales and dolphins to communicate and find their way.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "can interfere with the ability of whales and dolphins to communicate and navigate"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What does the writer suggest is the cause of many noise disputes between neighbours?",
+      "options": [
+        "Disagreements about money",
+        "Strict rules introduced by cities",
+        "A lack of thought for others rather than serious bad intentions",
+        "Problems with new building regulations"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If \"a little consideration\" could avoid many conflicts, the problem is often simple thoughtlessness.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Many of these conflicts could be avoided with a little consideration"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"excessive\" is closest in meaning to:",
+      "options": [
+        "more than is reasonable",
+        "sudden",
+        "regular",
+        "distant"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Fines are for noise that goes beyond what is acceptable.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "fines for excessive noise"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 6, why can rules against noise be difficult to enforce?",
+      "options": [
+        "Most people do not know that the rules exist.",
+        "Fines are too expensive to collect.",
+        "Officials are not allowed to enter people's homes.",
+        "The noise often stops before an official can measure it."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Sound is temporary, so it may have stopped by the time an official arrives.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "since sound is temporary and often stops before an official arrives to measure it"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "purpose",
+      "text": "Why does the writer mention running water, birdsong and wind in the trees in paragraph 7?",
+      "options": [
+        "To show that the countryside is noisier than the city",
+        "To list the sounds that disturb sleep the most",
+        "To give examples of sounds that people tend to find pleasant",
+        "To describe how animals communicate with each other"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "These natural sounds are given as examples of sounds that people find relaxing rather than disturbing.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "people often find natural sounds, such as running water, birdsong or wind in the trees, relaxing rather than disturbing"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"masked\" is closest in meaning to:",
+      "options": [
+        "covered or hidden",
+        "increased",
+        "recorded",
+        "copied"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The pleasant sounds cover the traffic noise so that it is less noticeable.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the unwanted noise of traffic is masked by more pleasant sounds"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 7 about a peaceful place?",
+      "options": [
+        "It must be far away from any city.",
+        "It should have no trees or water.",
+        "It must be free of other people.",
+        "It does not need to be completely silent."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A city park \"may not be silent\" but can still feel peaceful, so silence is not required.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "may not be silent, yet it can still feel peaceful"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 8, where does most of a car's noise come from at higher speeds?",
+      "options": [
+        "The engine",
+        "The tyres on the road",
+        "The horn",
+        "The radio"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "At higher speeds, most of the noise comes from tyres rather than the engine.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "at higher speeds most of the noise comes from the tyres on the road rather than from the engine"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What can be inferred about pedestrians with poor eyesight from paragraph 8?",
+      "options": [
+        "They prefer petrol cars to electric ones.",
+        "They rarely walk in city streets.",
+        "They cannot hear electric cars at any speed.",
+        "They rely on sound to know that a vehicle is coming."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Artificial sounds are added so that these pedestrians can hear cars approaching, which shows they depend on hearing for safety.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "so that pedestrians, particularly those with poor eyesight, can hear them approaching"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why does the writer mention that some electric cars are designed to make an artificial sound?",
+      "options": [
+        "To show that some sounds are useful and even necessary",
+        "To criticise car makers for making cars noisier",
+        "To prove that electric cars are dangerous",
+        "To explain why electric cars are expensive"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The example supports the writer's point that the goal is a balance, not total silence.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the aim is not total silence but a better balance"
+        }
+      ]
+    }
+  ]
+}

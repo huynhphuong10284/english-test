@@ -1,0 +1,316 @@
+{
+  "id": "w-a-book-review",
+  "title": "A Book Review",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise participle clauses, passives and contrast linkers, then write a review of a book you have read.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Participle clauses",
+      "prompt": "Choose the correct answer.",
+      "text": "___ in 1950s Italy, the novel follows two friends as they grow up.",
+      "options": [
+        "Setting",
+        "Set",
+        "Having set",
+        "To set"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A past participle clause (Set in ...) has a passive meaning: the novel is set in Italy."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Passive voice",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "The book ___ (translate) into more than forty languages since it first appeared.",
+      "answers": [
+        "has been translated"
+      ],
+      "points": 1,
+      "explanation": "Use the present perfect passive with \"since\": has been translated."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Wish / if only",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "wish",
+        "had been",
+        "I",
+        "the ending",
+        "more surprising"
+      ],
+      "answers": [
+        "I wish the ending had been more surprising."
+      ],
+      "points": 1,
+      "explanation": "Wish + past perfect expresses regret about something in the past: I wish the ending had been ..."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Participle clauses",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The novel, publishing in 2019, quickly became a bestseller.",
+      "answers": [
+        "The novel, published in 2019, quickly became a bestseller."
+      ],
+      "points": 1,
+      "explanation": "The novel did not publish anything; it was published. A participle clause with a passive meaning uses the past participle: published in 2019."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "The first half is slow, ___ the second half is gripping.",
+      "options": [
+        "whereas",
+        "nevertheless",
+        "consequently",
+        "despite"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Whereas\" compares two contrasting facts within one sentence."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Mixed conditionals",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "If I ___ (not / read) the review in the newspaper, I would not know about this author now.",
+      "answers": [
+        "had not read",
+        "hadn't read"
+      ],
+      "points": 1,
+      "explanation": "A mixed conditional links a past condition (had not read) to a present result (would not know now)."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Passive voice",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"This novel ___ her best work by many critics.\"",
+      "text": "Many critics consider this novel her best work.",
+      "keyword": "IS",
+      "answers": [
+        "This novel is considered to be her best work by many critics.",
+        "This novel is considered her best work by many critics."
+      ],
+      "points": 1,
+      "explanation": "In the passive, the object of \"consider\" becomes the subject: this novel is considered (to be) ..."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Reported speech",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The author said that she ___ in just six months.\"",
+      "text": "\"I wrote the book in just six months,\" the author said.",
+      "keyword": "HAD",
+      "answers": [
+        "The author said that she had written the book in just six months.",
+        "The author said that she had written it in just six months."
+      ],
+      "points": 1,
+      "explanation": "In reported speech, the past simple usually moves back to the past perfect: wrote becomes had written."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Modals of deduction",
+      "prompt": "Choose the correct answer.",
+      "text": "The author ___ a lot of research into the period, because the historical details are so accurate.",
+      "options": [
+        "can't have done",
+        "needn't have done",
+        "must have done",
+        "must do"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use must have + past participle when you are almost certain that something happened in the past."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "The characters are so ___ (believe) that you feel you know them personally.",
+      "answers": [
+        "believable"
+      ],
+      "points": 1,
+      "explanation": "Add the suffix -able to the verb believe (dropping the final e) to make the adjective believable."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Formal linking: despite",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "never",
+        "the novel",
+        "its length",
+        "boring",
+        "despite",
+        "is"
+      ],
+      "answers": [
+        "Despite its length, the novel is never boring.",
+        "The novel is never boring despite its length."
+      ],
+      "points": 1,
+      "explanation": "Despite is followed by a noun phrase (its length), not by a full clause with a subject and verb."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "-ed / -ing adjectives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The story is so bored that I stopped reading after fifty pages.",
+      "answers": [
+        "The story is so boring that I stopped reading after fifty pages."
+      ],
+      "points": 1,
+      "explanation": "Use the -ing adjective (boring) to describe the thing that causes the feeling; the -ed adjective (bored) describes how a person feels."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Third conditional",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"I ___ the sequel if the reviews had not been bad.\"",
+      "text": "I didn't buy the sequel because the reviews were bad.",
+      "keyword": "WOULD",
+      "answers": [
+        "I would have bought the sequel if the reviews had not been bad.",
+        "I'd have bought the sequel if the reviews had not been bad."
+      ],
+      "points": 1,
+      "explanation": "The third conditional imagines a different past: if + past perfect, would have + past participle."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct answer.",
+      "text": "The novel ___ a deep impression on me, and I still think about it.",
+      "options": [
+        "did",
+        "took",
+        "gave",
+        "made"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The fixed expression is make an impression (on someone)."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Articles",
+      "prompt": "Complete the sentence with one word.",
+      "text": "It is one of ___ most moving stories I have ever read.",
+      "answers": [
+        "the"
+      ],
+      "points": 1,
+      "explanation": "Superlatives such as the most moving always take the definite article the."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Causative have",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "had",
+        "signed",
+        "I",
+        "by the author",
+        "my copy"
+      ],
+      "answers": [
+        "I had my copy signed by the author."
+      ],
+      "points": 1,
+      "explanation": "Causative have + object + past participle means you arranged for someone else to do something for you."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Relative pronouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The main character, who's father is a fisherman, dreams of leaving the village.",
+      "answers": [
+        "The main character, whose father is a fisherman, dreams of leaving the village."
+      ],
+      "points": 1,
+      "explanation": "Use whose to show possession (his father). Who's is short for who is or who has."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Modals of deduction",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The author ___ the ending to be funny.\"",
+      "text": "I'm sure the author didn't intend the ending to be funny.",
+      "keyword": "CAN'T",
+      "answers": [
+        "The author can't have intended the ending to be funny."
+      ],
+      "points": 1,
+      "explanation": "Use can't have + past participle when you are sure something did not happen in the past."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Passive infinitive",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The novel is said to base on a true story.",
+      "answers": [
+        "The novel is said to be based on a true story.",
+        "The novel is said to have been based on a true story."
+      ],
+      "points": 1,
+      "explanation": "Something is based on something else, so the passive infinitive is needed after is said: to be based on."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Reported speech: apologise",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The reviewer ___ away the ending.\"",
+      "text": "\"I'm sorry I gave away the ending,\" the reviewer said.",
+      "keyword": "APOLOGISED",
+      "answers": [
+        "The reviewer apologised for giving away the ending.",
+        "The reviewer apologised for having given away the ending."
+      ],
+      "points": 1,
+      "explanation": "The reporting verb apologise is followed by for + -ing (or for + having + past participle)."
+    }
+  ],
+  "task": {
+    "genre": "Review",
+    "prompt": "An international student magazine is asking readers to send in reviews of a book they have enjoyed. Write a review for the magazine.",
+    "contentPoints": [
+      "Give the title, the author and the type of book.",
+      "Briefly describe the plot or main idea without giving away the ending.",
+      "Comment on the characters or the writing style, including one weakness.",
+      "Say who you would recommend the book to and why."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "Set in ...",
+      "The story centres on ...",
+      "What impressed me most was ...",
+      "My only criticism is that ...",
+      "I would highly recommend it to ..."
+    ],
+    "modelAnswer": "Looking for a novel that is both moving and impossible to put down? Then \"The Lighthouse Keeper's Daughter\" by Clara Hughes might be exactly what you need.\n\nSet on a small island off the coast of Scotland in the 1930s, the story centres on Isla, a teenage girl who dreams of becoming a doctor. When her father falls seriously ill during a winter storm, she is forced to take responsibility for the lighthouse, while also trying to keep her ambitions alive. I will not reveal what happens, but the final chapters kept me reading until two in the morning!\n\nWhat impressed me most was the way the characters are written. Isla is brave yet realistic, and even the minor characters feel like real people. Hughes also describes the sea so vividly that you can almost hear the waves. My only criticism is that the first few chapters are rather slow, whereas the rest of the book moves at a much faster pace.\n\nOverall, I would highly recommend this novel to teenagers and adults who enjoy historical fiction with a strong main character. It is a story about courage and family that will stay with you long after you finish it."
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "id": "a-trip-to-the-city-museum",
+  "title": "A Trip to the City Museum",
+  "level": "A2 · Elementary",
+  "description": "A class visits a history museum and a boy finds a special object.",
+  "instructions": "Read the text about a class trip to a museum, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "On Friday morning, Mr Lopez took his class to the City Museum. The students travelled there by bus, and the trip took forty minutes. Most of them were excited because it was their first visit. Leo, a quiet boy, brought a small notebook and two pencils."
+    },
+    {
+      "id": "p2",
+      "text": "The museum had five big rooms. In the first room, there were old coins, cups and plates from many years ago. A guide called Mrs Hall told the students about life in the city long ago. Leo wrote down everything she said in his notebook."
+    },
+    {
+      "id": "p3",
+      "text": "In the last room, Leo saw an old wooden toy horse. It was more than two hundred years old, but it looked almost new. Mrs Hall said that a child once played with it every day. Leo drew a picture of the horse very carefully."
+    },
+    {
+      "id": "p4",
+      "text": "Back at school, Mr Lopez asked the students to write about the trip. Leo's story was the longest in the class, and it had his drawing too. Mr Lopez put it on the classroom wall. Now Leo wants to visit the museum again with his parents."
+    },
+    {
+      "id": "p5",
+      "text": "Two weeks later, Leo and his parents went to the City Museum on a Saturday. This time, the museum was very busy with families and tourists. Leo was the guide for his parents. He showed them the old coins and plates and told them everything he remembered from Mrs Hall. His father was surprised, because Leo usually did not talk very much."
+    },
+    {
+      "id": "p6",
+      "text": "Then they went to the last room to see the wooden horse. Mrs Hall was there with another group of visitors. She remembered Leo and his notebook. When she heard about his story on the classroom wall, she was very pleased. She told him that the museum was planning a drawing competition for children in the summer."
+    },
+    {
+      "id": "p7",
+      "text": "Leo entered the competition with a new picture of the toy horse. He worked on it for three weekends, and it was bigger and more colourful than his first drawing. He did not win first prize, but he came second. Now his picture hangs in the museum next to the real horse, and Leo visits it whenever he can."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "How students travel to school by bus",
+        "A child who made a wooden toy horse",
+        "A school trip to a museum and what Leo learned there",
+        "Mrs Hall's job at the city library"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text describes the class visit to the City Museum and what Leo saw, wrote and drew there.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Mr Lopez took his class to the City Museum"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Leo's story was the longest in the class"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How did the students get to the museum?",
+      "options": [
+        "By bus",
+        "On foot",
+        "By train",
+        "By car"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says the students travelled there by bus.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "The students travelled there by bus"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"guide\" means a person who...",
+      "options": [
+        "cleans the rooms of a building",
+        "drives a school bus",
+        "sells tickets at a cinema",
+        "shows visitors a place and tells them about it"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Mrs Hall told the students about life in the city long ago, so a guide shows and explains a place to visitors.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "A guide called Mrs Hall told the students about life in the city long ago."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can we say about Leo?",
+      "options": [
+        "He did not want to go on the trip",
+        "He was very interested in the visit",
+        "He talked a lot on the bus",
+        "He forgot his notebook at home"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Leo wrote down everything, drew the horse carefully and wrote the longest story, so he was very interested.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Leo wrote down everything she said in his notebook."
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "Leo drew a picture of the horse very carefully."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer say that Leo brought a notebook and two pencils?",
+      "options": [
+        "To show that he was a very poor student",
+        "To explain why the trip took forty minutes",
+        "To show that he was ready to take notes and draw",
+        "To show that Mr Lopez gave presents to the class"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Later Leo uses the notebook to write notes and draw the horse, so the detail shows he came prepared.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Leo, a quiet boy, brought a small notebook and two pencils."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What did Mr Lopez do with Leo's story?",
+      "options": [
+        "He put it on the classroom wall",
+        "He sent it to the museum",
+        "He gave it to Mrs Hall",
+        "He read it on the bus"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says Mr Lopez put Leo's story on the classroom wall.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Mr Lopez put it on the classroom wall."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "When did the class go to the museum?",
+      "options": [
+        "On Saturday afternoon",
+        "On Friday morning",
+        "On Monday morning",
+        "On Sunday evening"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The class went on Friday morning.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "On Friday morning, Mr Lopez took his class to the City Museum."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"excited\" is closest in meaning to...",
+      "options": [
+        "happy and full of interest",
+        "tired",
+        "angry",
+        "bored"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It was their first visit, so they were happy and looked forward to it.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Most of them were excited because it was their first visit."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What was in the first room of the museum?",
+      "options": [
+        "A wooden toy horse",
+        "Paintings of the city",
+        "Old coins, cups and plates",
+        "Old cars and bicycles"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In the first room there were old coins, cups and plates.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In the first room, there were old coins, cups and plates from many years ago."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "How old was the toy horse?",
+      "options": [
+        "About fifty years old",
+        "Only a few years old",
+        "Exactly one hundred years old",
+        "More than two hundred years old"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The horse was more than two hundred years old.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "It was more than two hundred years old"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"almost\" in \"it looked almost new\" means...",
+      "options": [
+        "very",
+        "nearly",
+        "not at all",
+        "never"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The horse looked nearly new, even though it was very old.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "it looked almost new"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "Why did Mr Lopez put Leo's story on the classroom wall?",
+      "options": [
+        "He had no other place for it",
+        "Leo asked him to do it",
+        "He thought it was very good work",
+        "It was the shortest story in the class"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It was the longest story and it had a drawing, so the teacher liked it a lot.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Leo's story was the longest in the class, and it had his drawing too."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"busy\" means the museum was...",
+      "options": [
+        "empty",
+        "full of people",
+        "closed",
+        "very quiet"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There were many families and tourists in the museum.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "the museum was very busy with families and tourists"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer say that Leo \"usually did not talk very much\"?",
+      "options": [
+        "To show that Leo was ill",
+        "To explain why his father was angry",
+        "To show that Leo did not like his parents",
+        "To show how much the museum interested him"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Leo is a quiet boy, but he talked a lot about the museum, so it was very interesting for him.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Leo usually did not talk very much"
+        },
+        {
+          "paragraphId": "p1",
+          "quote": "Leo, a quiet boy"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why did Mrs Hall remember Leo?",
+      "options": [
+        "He wrote down everything she said on the school trip",
+        "He was the tallest boy in the class",
+        "He lost his notebook in the museum",
+        "He asked to play with the horse"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Leo wrote down everything during her talk, so she remembered him and his notebook.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "She remembered Leo and his notebook."
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "Leo wrote down everything she said in his notebook."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "What was the museum planning for the summer?",
+      "options": [
+        "A new room for old toys",
+        "A trip to another city",
+        "A party for Mrs Hall",
+        "A drawing competition for children"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Mrs Hall said the museum was planning a drawing competition for children.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the museum was planning a drawing competition for children in the summer"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer say Leo worked on his picture \"for three weekends\"?",
+      "options": [
+        "To show how hard he tried",
+        "To show that he was slow at drawing",
+        "To explain why he won first prize",
+        "To show that he was bored"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He spent three weekends on the picture, so he worked very hard.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "He worked on it for three weekends"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"colourful\" means...",
+      "options": [
+        "very small",
+        "having many bright colours",
+        "very dark",
+        "finished quickly"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His new picture had more colours than his first drawing.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "it was bigger and more colourful than his first drawing"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What place did Leo get in the competition?",
+      "options": [
+        "First",
+        "Third",
+        "He did not get a place",
+        "Second"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He did not win first prize, but he came second.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "He did not win first prize, but he came second."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What can we say about Leo at the end of the text?",
+      "options": [
+        "He is sad because he did not win",
+        "He wants to stop drawing",
+        "He still loves the museum and the horse",
+        "He never goes to the museum now"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He visits his picture and the horse whenever he can.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Leo visits it whenever he can"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "id": "w-a-school-trip-report",
+  "title": "A School Trip Report",
+  "level": "B1 · Intermediate",
+  "description": "Practise past tenses, the passive and linking words, then write a report about a class trip.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple passive",
+      "prompt": "Choose the correct answer.",
+      "text": "The trip ___ by our history teacher, Mr Brown.",
+      "options": [
+        "was organising",
+        "organised",
+        "has organised",
+        "was organised"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use the passive (was + past participle) when the trip is the subject and the person doing the action comes after \"by\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "We ___ (leave) school at 8 a.m. and arrived at the castle two hours later.",
+      "answers": [
+        "left"
+      ],
+      "points": 1,
+      "explanation": "\"Leave\" is irregular. Its past simple form is \"left\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Relative clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "was",
+        "around",
+        "the guide",
+        "very knowledgeable",
+        "us",
+        "who",
+        "showed"
+      ],
+      "answers": [
+        "The guide who showed us around was very knowledgeable."
+      ],
+      "points": 1,
+      "explanation": "The relative clause \"who showed us around\" goes straight after \"the guide\", before the main verb \"was\"."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Past continuous",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "While we were walk around the castle, it started to rain.",
+      "answers": [
+        "While we were walking around the castle, it started to rain."
+      ],
+      "points": 1,
+      "explanation": "The past continuous is was/were + -ing: we were walking."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Modals of advice",
+      "prompt": "Choose the correct answer.",
+      "text": "Next year, students ___ bring a raincoat in case it rains.",
+      "options": [
+        "should",
+        "must to",
+        "ought",
+        "shall to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use should + infinitive without \"to\" to make a recommendation."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Linking words",
+      "prompt": "Complete the sentence with one word.",
+      "text": "The museum was fascinating. ___ a result, many students want to go back.",
+      "answers": [
+        "as"
+      ],
+      "points": 1,
+      "explanation": "\"As a result\" introduces a consequence of the previous sentence."
+    },
+    {
+      "id": "e7",
+      "type": "error-correction",
+      "focus": "Present perfect vs past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Everyone has enjoyed the trip last Friday.",
+      "answers": [
+        "Everyone enjoyed the trip last Friday."
+      ],
+      "points": 1,
+      "explanation": "With a finished time like \"last Friday\", use the past simple: everyone enjoyed."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Linking words: despite",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word DESPITE. Begin: \"Despite ...\"",
+      "text": "The weather was bad, but the trip was a success.",
+      "keyword": "DESPITE",
+      "answers": [
+        "Despite the bad weather, the trip was a success.",
+        "Despite the weather being bad, the trip was a success.",
+        "The trip was a success despite the bad weather."
+      ],
+      "points": 1,
+      "explanation": "\"Despite\" is followed by a noun or -ing form, not a full clause: Despite the bad weather, ..."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Gerund after prepositions",
+      "prompt": "Choose the correct answer.",
+      "text": "We were looking forward to ___ the castle.",
+      "options": [
+        "visit",
+        "visiting",
+        "visited",
+        "be visiting"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "In \"look forward to\", \"to\" is a preposition, so it is followed by the -ing form: looking forward to visiting."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation: adjectives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The guide's talk was very ___ (inform).",
+      "answers": [
+        "informative"
+      ],
+      "points": 1,
+      "explanation": "We need an adjective after \"very\". The adjective from \"inform\" is \"informative\"."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Used to",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "prison",
+        "to",
+        "the",
+        "be",
+        "used",
+        "castle",
+        "a"
+      ],
+      "answers": [
+        "The castle used to be a prison.",
+        "The prison used to be a castle."
+      ],
+      "points": 1,
+      "explanation": "Use \"used to + infinitive\" for a past situation that is no longer true: the castle used to be a prison."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The second museum was more interesting that the first one.",
+      "answers": [
+        "The second museum was more interesting than the first one."
+      ],
+      "points": 1,
+      "explanation": "After a comparative, use \"than\", not \"that\": more interesting than."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Past obligation: had to",
+      "prompt": "Choose the correct answer.",
+      "text": "We ___ wear our school uniforms on the trip, so everyone could see we were together.",
+      "options": [
+        "must",
+        "should",
+        "had to",
+        "have to"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Must\" has no past form. For an obligation in the past, use \"had to\"."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Phrasal verbs: set off",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word OFF. Begin: \"We ...\"",
+      "text": "We left early in the morning.",
+      "keyword": "OFF",
+      "answers": [
+        "We set off early in the morning."
+      ],
+      "points": 1,
+      "explanation": "\"Set off\" means to start a journey. Its past form is also \"set off\"."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "First conditional",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "If the weather ___ (be) good next year, we will go to the beach instead.",
+      "answers": [
+        "is"
+      ],
+      "points": 1,
+      "explanation": "In the first conditional, use the present simple after \"if\" and \"will\" in the other part: if the weather is good, we will go."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Linking words: although",
+      "prompt": "Choose the correct answer.",
+      "text": "___ it was raining, we had a great time.",
+      "options": [
+        "Because",
+        "However",
+        "Despite",
+        "Although"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Although\" + a clause shows a contrast. \"Despite\" needs a noun or -ing form, and \"however\" starts a new sentence."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Relative clauses: where",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "busy",
+        "we",
+        "where",
+        "very",
+        "lunch",
+        "had",
+        "the",
+        "cafe",
+        "was"
+      ],
+      "answers": [
+        "The cafe where we had lunch was very busy."
+      ],
+      "points": 1,
+      "explanation": "Use \"where\" after a place noun to add a clause: the cafe where we had lunch."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Too and enough",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The castle was enough big for all of us to explore.",
+      "answers": [
+        "The castle was big enough for all of us to explore."
+      ],
+      "points": 1,
+      "explanation": "\"Enough\" goes after an adjective: big enough (but before a noun: enough time)."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Too ... to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word TOO. Begin: \"The tower was ...\"",
+      "text": "The tower was so high that we couldn't climb it.",
+      "keyword": "TOO",
+      "answers": [
+        "The tower was too high for us to climb.",
+        "The tower was too high to climb."
+      ],
+      "points": 1,
+      "explanation": "\"So ... that we couldn't\" can be changed to \"too + adjective + (for us) + to-infinitive\". Do not repeat \"it\" at the end."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Superlatives with ever",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word BEST. Begin: \"This is ...\"",
+      "text": "I have never been on a better trip than this one.",
+      "keyword": "BEST",
+      "answers": [
+        "This is the best trip I have ever been on.",
+        "This is the best trip I have been on.",
+        "This is the best trip I have ever had.",
+        "This is the best trip I have ever taken.",
+        "This is the best trip I have ever gone on.",
+        "This is the best trip I have ever been on in my life."
+      ],
+      "points": 1,
+      "explanation": "\"I have never been on a better trip\" means it is the best one: the best + noun + I have ever + past participle."
+    }
+  ],
+  "task": {
+    "genre": "Report",
+    "prompt": "Last month your class went on a trip to a historic castle. Your teacher has asked you to write a report about the trip for the school website.",
+    "contentPoints": [
+      "Say where you went, when and why.",
+      "Describe the main activities.",
+      "Say what students liked and did not like.",
+      "Recommend whether the trip should be repeated, with any changes."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "The purpose of this report is to ...",
+      "The trip was organised ...",
+      "The highlight of the trip was ...",
+      "Some students felt that ...",
+      "Despite ..., ...",
+      "I would recommend ..."
+    ],
+    "modelAnswer": "Introduction\nThe purpose of this report is to describe our class trip to Highcliff Castle, which took place on 14 October. The trip was organised as part of our history project on the Middle Ages.\n\nActivities\nWe left school at 8 a.m. and arrived at the castle two hours later. In the morning, a guide showed us around the towers and told us stories about the people who lived there. In the afternoon, we visited the castle museum and tried on some old armour.\n\nOpinions\nThe highlight of the trip was the museum, which everyone found fascinating. However, some students felt that the guided tour was too long. It also rained heavily in the afternoon.\n\nRecommendation\nDespite the bad weather, the trip was a success. I would recommend repeating it next year, but in early autumn, when it is usually drier."
+  }
+}

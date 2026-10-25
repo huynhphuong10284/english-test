@@ -1,0 +1,343 @@
+{
+  "id": "w-funding-space-exploration",
+  "title": "Funding Space Exploration",
+  "level": "C1 · Advanced",
+  "description": "Practise inversion, cleft sentences and formal concession, then write an essay on whether space exploration deserves public money.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "It is ___ that space research has led to many everyday technologies.",
+      "options": [
+        "wide acknowledged",
+        "widely acknowledged",
+        "widely acknowledging",
+        "wide acknowledgement"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"It is widely acknowledged that ...\" is an impersonal phrase for presenting a generally accepted view. An adverb (widely) modifies the past participle."
+    },
+    {
+      "id": "e2",
+      "type": "transformation",
+      "focus": "Inversion with \"Little\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ how much space research has changed daily life.\"",
+      "text": "Few people realise how much space research has changed daily life.",
+      "keyword": "LITTLE",
+      "answers": [
+        "Little do people realise how much space research has changed daily life.",
+        "Little do people realize how much space research has changed daily life.",
+        "Little do most people realise how much space research has changed daily life.",
+        "Little do most people realize how much space research has changed daily life."
+      ],
+      "points": 1,
+      "explanation": "\"Little\" at the start of a sentence means \"hardly at all\" and is followed by auxiliary + subject: Little do people realise ..."
+    },
+    {
+      "id": "e3",
+      "type": "gap-fill",
+      "focus": "Nominalisation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The ___ (explore) of space has always captured the public imagination.",
+      "answers": [
+        "exploration"
+      ],
+      "points": 1,
+      "explanation": "After \"The\" and before \"of\" we need a noun, so \"explore\" becomes \"exploration\"."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Concession",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the",
+        "costs",
+        "benefits",
+        "notwithstanding",
+        "are",
+        "the",
+        "enormous"
+      ],
+      "answers": [
+        "Notwithstanding the benefits, the costs are enormous.",
+        "The costs are enormous, notwithstanding the benefits.",
+        "Notwithstanding the costs, the benefits are enormous.",
+        "The benefits are enormous, notwithstanding the costs."
+      ],
+      "points": 1,
+      "explanation": "\"Notwithstanding\" (= despite) is followed by a noun phrase and can come at the start or the end of the sentence."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Advanced passives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The first crewed mission to Mars is expected launching in the 2030s.",
+      "answers": [
+        "The first crewed mission to Mars is expected to launch in the 2030s.",
+        "The first crewed mission to Mars is expected to be launched in the 2030s."
+      ],
+      "points": 1,
+      "explanation": "The passive reporting verb \"is expected\" is followed by a to-infinitive, not an -ing form."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Critics argue that the money would be better spent ___ pressing problems at home.",
+      "options": [
+        "tackling",
+        "making",
+        "doing",
+        "taking"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We \"tackle a problem\", meaning we make a determined effort to deal with it."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Cleft sentences",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"It ___ now leading the space race.\"",
+      "text": "Private companies are now leading the space race.",
+      "keyword": "WHO",
+      "answers": [
+        "It is private companies who are now leading the space race.",
+        "It's private companies who are now leading the space race."
+      ],
+      "points": 1,
+      "explanation": "An \"it\" cleft (It is + focus + who/that + clause) emphasises who is doing something, here private companies."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one suitable word or phrase.",
+      "text": "Governments must ___ a balance between scientific ambition and social need.",
+      "answers": [
+        "strike",
+        "find"
+      ],
+      "points": 1,
+      "explanation": "\"Strike a balance\" is a fixed collocation meaning to find a reasonable middle position between two things."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Collocations",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Space agencies account of a large share of public research spending.",
+      "answers": [
+        "Space agencies account for a large share of public research spending."
+      ],
+      "points": 1,
+      "explanation": "To \"account for\" a share or proportion means to make up that amount."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Space programmes have given rise ___ countless technological advances.",
+      "options": [
+        "for",
+        "with",
+        "to",
+        "of"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Give rise to\" something is a fixed phrase meaning to cause or produce it."
+    },
+    {
+      "id": "e11",
+      "type": "transformation",
+      "focus": "Advanced passives",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Water ___ on Mars.\"",
+      "text": "Scientists believe that water once flowed on Mars.",
+      "keyword": "BELIEVED",
+      "answers": [
+        "Water is believed to have once flowed on Mars.",
+        "Water is believed once to have flowed on Mars.",
+        "Water is believed to have flowed once on Mars."
+      ],
+      "points": 1,
+      "explanation": "A present belief about a past event uses is believed + perfect infinitive: is believed to have flowed."
+    },
+    {
+      "id": "e12",
+      "type": "word-order",
+      "focus": "Inversion after \"Not only\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "also",
+        "space research",
+        "risky",
+        "not only",
+        "it is",
+        "is",
+        "but",
+        "expensive"
+      ],
+      "answers": [
+        "Not only is space research expensive, but it is also risky.",
+        "Space research is not only expensive, but it is also risky."
+      ],
+      "points": 1,
+      "explanation": "When \"Not only\" begins a sentence, the verb \"be\" comes before the subject: Not only is space research ..."
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Critics argue that space tourism is an ___ (justify) waste of resources.",
+      "answers": [
+        "unjustifiable",
+        "unjustified"
+      ],
+      "points": 1,
+      "explanation": "The article \"an\" and the critical context show we need a negative adjective beginning with a vowel: unjustifiable or unjustified."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Cohesion: \"hence\"",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Space exploration is extremely costly. Hence why many people oppose it.",
+      "answers": [
+        "Space exploration is extremely costly. Hence, many people oppose it.",
+        "Space exploration is extremely costly. This is why many people oppose it.",
+        "Space exploration is extremely costly. That is why many people oppose it.",
+        "Space exploration is extremely costly, hence many people oppose it."
+      ],
+      "points": 1,
+      "explanation": "\"Hence\" already means \"for this reason\", so \"hence why\" is redundant and considered incorrect in formal writing."
+    },
+    {
+      "id": "e15",
+      "type": "transformation",
+      "focus": "Concession with \"In spite of\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___, the mission was considered a success.\"",
+      "text": "Although the mission was very expensive, it was considered a success.",
+      "keyword": "SPITE",
+      "answers": [
+        "In spite of its high cost, the mission was considered a success.",
+        "In spite of the high cost, the mission was considered a success.",
+        "In spite of being very expensive, the mission was considered a success.",
+        "In spite of its enormous cost, the mission was considered a success.",
+        "In spite of the enormous cost, the mission was considered a success.",
+        "In spite of its huge cost, the mission was considered a success.",
+        "In spite of the expense, the mission was considered a success.",
+        "In spite of its expense, the mission was considered a success.",
+        "In spite of the fact that it was very expensive, the mission was considered a success."
+      ],
+      "points": 1,
+      "explanation": "\"In spite of\" is followed by a noun phrase or -ing form, so the clause \"it was very expensive\" must change."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Cohesion",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Satellites help scientists monitor climate change; ___, space research serves urgent needs here on Earth.",
+      "options": [
+        "nevertheless",
+        "whereas",
+        "otherwise",
+        "thus"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Thus\" introduces a logical conclusion drawn from the previous point."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "Space exploration has ___ (y) valuable scientific knowledge.",
+      "answers": [
+        "yielded"
+      ],
+      "points": 1,
+      "explanation": "\"Yield\" means to produce results or information; \"yield knowledge/results/benefits\" is a formal collocation."
+    },
+    {
+      "id": "e18",
+      "type": "word-order",
+      "focus": "Conditional inversion with \"Were ... to\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "governments",
+        "were",
+        "private companies",
+        "cut funding",
+        "would fill",
+        "the gap",
+        "to"
+      ],
+      "answers": [
+        "Were governments to cut funding, private companies would fill the gap.",
+        "Private companies would fill the gap were governments to cut funding."
+      ],
+      "points": 1,
+      "explanation": "\"Were + subject + to-infinitive\" is a formal inverted way of saying \"If governments cut funding\"."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Advanced passives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The benefits of space research are often underestimate.",
+      "answers": [
+        "The benefits of space research are often underestimated."
+      ],
+      "points": 1,
+      "explanation": "This is a passive sentence, so we need be + past participle: are often underestimated."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Fixed phrases with -ing",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ sending humans to Mars when robots can do the job.\"",
+      "text": "It is pointless to send humans to Mars when robots can do the job.",
+      "keyword": "POINT",
+      "answers": [
+        "There is no point in sending humans to Mars when robots can do the job.",
+        "There's no point in sending humans to Mars when robots can do the job.",
+        "There is little point in sending humans to Mars when robots can do the job.",
+        "There's little point in sending humans to Mars when robots can do the job."
+      ],
+      "points": 1,
+      "explanation": "\"There is no point in + -ing\" means that doing something is useless."
+    }
+  ],
+  "task": {
+    "genre": "Essay",
+    "prompt": "Your class has discussed whether governments should continue to spend large sums of money on space exploration. Write an essay discussing the arguments for and against public funding of space programmes and give your own opinion.",
+    "contentPoints": [
+      "Present the benefits of space exploration.",
+      "Present the arguments against spending public money on it.",
+      "Give and justify your own opinion."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "It is widely acknowledged that ...",
+      "Little do people realise ...",
+      "Critics, on the other hand, maintain that ...",
+      "Notwithstanding ...",
+      "Governments must strike a balance between ...",
+      "In conclusion, ..."
+    ],
+    "modelAnswer": "Since the first moon landing, space exploration has captured the public imagination. Yet with billions spent on each new mission, many people question whether such spending can be justified when so many problems remain unsolved on Earth.\n\nSupporters of space programmes argue that they bring enormous practical benefits. It is widely acknowledged that space research has led to numerous everyday technologies, from satellite navigation to water purification systems. Little do people realise how much of modern medicine and weather forecasting depends on discoveries made in orbit. Furthermore, the exploration of space inspires young people to pursue careers in science and engineering.\n\nCritics, on the other hand, maintain that the money would be better spent tackling pressing problems at home, such as poverty, disease and climate change. A single mission to Mars could fund thousands of schools. Notwithstanding the scientific benefits, the costs are undeniably enormous, and it is ordinary taxpayers who ultimately pay them.\n\nIn my view, governments must strike a balance between scientific ambition and social need. Since it is private companies that are now leading the space race, public funding could reasonably be reduced, with governments concentrating on research that directly benefits life on Earth, such as monitoring the climate. International cooperation would also allow costs to be shared.\n\nIn conclusion, abandoning space exploration altogether would be a mistake, as its long-term benefits are considerable. However, it should not be funded at the expense of the urgent needs of people here and now."
+  }
+}

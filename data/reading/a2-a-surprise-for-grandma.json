@@ -1,0 +1,439 @@
+{
+  "id": "a-surprise-for-grandma",
+  "title": "A Surprise for Grandma",
+  "level": "A2 · Elementary",
+  "description": "A family plans a secret birthday party for their grandmother.",
+  "instructions": "Read the text about a birthday surprise, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Grandma Rose was going to be seventy on Saturday. Her grandchildren, Ben and Lily, wanted to do something special for her. They decided to have a surprise party at their house. They told everyone in the family, but they did not tell Grandma."
+    },
+    {
+      "id": "p2",
+      "text": "On Saturday morning, Dad took Grandma to the park for a long walk. While they were out, Mum and the children got the house ready. Ben put balloons and flowers in the living room. Lily made a big chocolate cake, because it was Grandma's favourite."
+    },
+    {
+      "id": "p3",
+      "text": "At four o'clock, about twenty people were hiding in the living room. They heard the front door open, and everyone was very quiet. When Grandma walked in, they all jumped up and shouted 'Surprise!' Grandma put her hands on her face and started to cry."
+    },
+    {
+      "id": "p4",
+      "text": "But Grandma was not sad at all. 'These are happy tears,' she said with a big smile. She talked with her family and old friends until late in the evening. Before she went home, she said it was the best birthday of her life."
+    },
+    {
+      "id": "p5",
+      "text": "The next day, Ben and Lily went to Grandma's house to help her clean up. There were many cards and presents on her table. Grandma read every card twice. Her favourite present was a photo album from Ben and Lily. It had old photos of the whole family, from Grandma's wedding to Lily's first birthday. On the first page, Lily wrote 'For the best grandma in the world' in big red letters."
+    },
+    {
+      "id": "p6",
+      "text": "'How did you find all these photos?' Grandma asked. Lily explained that they looked in boxes at Aunt Sarah's house for two weeks. Some photos were very old and a little dirty, so Ben cleaned them carefully. Grandma turned the pages slowly and told the children a story about every picture. They stayed with her all afternoon and drank lots of tea."
+    },
+    {
+      "id": "p7",
+      "text": "Now the album is on a small table next to Grandma's armchair. When friends visit her, she always shows it to them. Ben and Lily are already planning the next surprise. Dad is going to be forty-five in May, and they want to make a short film about his life. They know it is going to be harder, because Dad always asks a lot of questions!"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A family's secret party for Grandma's birthday",
+        "A long walk in the park",
+        "How to make a chocolate cake",
+        "Why Grandma Rose was sad"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The whole story is about planning and holding a surprise party for Grandma Rose.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "They decided to have a surprise party at their house."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "purpose",
+      "text": "Why did Dad take Grandma to the park?",
+      "options": [
+        "Because Grandma needed to see a doctor",
+        "Because the party was in the park",
+        "So the others could prepare the house without her seeing",
+        "Because Grandma wanted to buy flowers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "While Dad and Grandma were out, Mum and the children got the house ready.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "While they were out, Mum and the children got the house ready."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Why did Lily make a chocolate cake?",
+      "options": [
+        "It was Lily's favourite",
+        "It was the cheapest cake",
+        "Ben asked her to make it",
+        "It was Grandma's favourite"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Lily made a chocolate cake because it was Grandma's favourite.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "because it was Grandma's favourite"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"hiding\" means...",
+      "options": [
+        "cooking food for a party",
+        "staying where other people cannot see you",
+        "singing a song loudly",
+        "cleaning a room"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The guests were waiting quietly so Grandma would not see them before the surprise.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "about twenty people were hiding in the living room"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "Why did Grandma cry?",
+      "options": [
+        "She was angry with her family",
+        "She did not like the cake",
+        "She was very happy and moved",
+        "She was tired after the walk"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Grandma explained that they were happy tears and smiled.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "'These are happy tears,' she said with a big smile."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What time did the party start?",
+      "options": [
+        "At four o'clock",
+        "At one o'clock",
+        "In the morning",
+        "Late in the evening"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "At four o'clock the guests were hiding and Grandma came in.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "At four o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "How old was Grandma going to be on Saturday?",
+      "options": [
+        "Sixty",
+        "Seventy",
+        "Seventy-five",
+        "Eighty"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Grandma Rose was going to be seventy on Saturday.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Grandma Rose was going to be seventy on Saturday."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"special\" is closest in meaning to...",
+      "options": [
+        "very cheap",
+        "very quick",
+        "different and better than usual",
+        "the same as usual"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The children wanted to do something better than usual for her birthday.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "wanted to do something special for her"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What did Ben put in the living room?",
+      "options": [
+        "Balloons and flowers",
+        "A chocolate cake",
+        "Photos of the family",
+        "Cards and presents"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben put balloons and flowers in the living room.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Ben put balloons and flowers in the living room."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "Why was everyone very quiet when they heard the front door open?",
+      "options": [
+        "They were tired after all the work",
+        "They did not want Grandma to know they were there",
+        "They were afraid of Dad",
+        "They were listening to music"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It was a surprise party, so they stayed quiet until Grandma walked in.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "They heard the front door open, and everyone was very quiet."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"tears\" means...",
+      "options": [
+        "words that you say to friends",
+        "small presents for a birthday",
+        "water that comes from your eyes when you cry",
+        "pieces of a birthday cake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Grandma started to cry, and she said her tears were happy ones.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "'These are happy tears,'"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What was Grandma's favourite present?",
+      "options": [
+        "The big chocolate cake",
+        "A card from Aunt Sarah",
+        "Flowers from Dad",
+        "A photo album from Ben and Lily"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Her favourite present was a photo album from Ben and Lily.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Her favourite present was a photo album from Ben and Lily."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "Where did the children find the photos?",
+      "options": [
+        "In boxes at Aunt Sarah's house",
+        "In Grandma's bedroom",
+        "At a shop in town",
+        "On Dad's computer"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They looked in boxes at Aunt Sarah's house for two weeks.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "they looked in boxes at Aunt Sarah's house for two weeks"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer say some photos were \"very old and a little dirty\"?",
+      "options": [
+        "To show that the album was cheap",
+        "To show that Grandma did not like them",
+        "To explain why Lily was sad",
+        "To explain why Ben cleaned them"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The photos were dirty, so Ben cleaned them carefully.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Some photos were very old and a little dirty, so Ben cleaned them carefully."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"carefully\" is closest in meaning to...",
+      "options": [
+        "quickly and badly",
+        "slowly and with attention",
+        "angrily",
+        "without looking"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben cleaned the old photos slowly and with attention so he did not damage them.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Ben cleaned them carefully"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What can we say about Grandma when she looked at the album?",
+      "options": [
+        "She was bored with the old photos",
+        "She could not remember the people",
+        "She wanted to throw the photos away",
+        "She enjoyed remembering her past"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She told a story about every picture, so the photos brought back happy memories.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Grandma turned the pages slowly and told the children a story about every picture. They stayed with her all afternoon and drank lots of tea."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Where is the album now?",
+      "options": [
+        "In a box at Aunt Sarah's house",
+        "On a small table next to Grandma's armchair",
+        "On the wall of the living room",
+        "In Ben's bedroom"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The album is on a small table next to Grandma's armchair.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Now the album is on a small table next to Grandma's armchair."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What can we understand about Grandma's feelings for the album?",
+      "options": [
+        "She wants to give it back",
+        "She does not like to show it",
+        "She is very proud of it",
+        "She thinks it is too big"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She always shows it to her friends, so she is proud of it.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "When friends visit her, she always shows it to them."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"planning\" means...",
+      "options": [
+        "forgetting about something",
+        "talking about the past",
+        "buying something in a shop",
+        "thinking about and preparing something for the future"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Ben and Lily are preparing the next surprise for the future.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Ben and Lily are already planning the next surprise."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why does the writer mention Dad's birthday in May?",
+      "options": [
+        "To show that the children want to plan another surprise",
+        "To explain why Dad took Grandma to the park",
+        "To show that Dad is older than Grandma",
+        "To say when Grandma's party was"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The children are already planning the next surprise, for Dad's birthday.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Dad is going to be forty-five in May, and they want to make a short film about his life."
+        }
+      ]
+    }
+  ]
+}

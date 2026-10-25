@@ -1,0 +1,322 @@
+{
+  "id": "w-a-remote-work-policy-report",
+  "title": "A Remote Work Policy Report",
+  "level": "C2 · Proficiency",
+  "description": "Practise formal register, conditional inversion and hedging, then write a report on a company's remote work policy.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Formal register",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The survey was ___ to all 240 members of staff in March.",
+      "options": [
+        "handed",
+        "done",
+        "administered",
+        "made"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In formal reports, a survey or questionnaire is \"administered to\" a group of people."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Passive voice",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Concerns ___ (raise) about isolation among junior staff.",
+      "answers": [
+        "were raised",
+        "have been raised",
+        "had been raised"
+      ],
+      "points": 1,
+      "explanation": "Reports often use the passive to focus on the issue rather than on who raised it: concerns were raised."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Hedging",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "tend",
+        "staff",
+        "to report",
+        "remote",
+        "higher satisfaction"
+      ],
+      "answers": [
+        "Remote staff tend to report higher satisfaction."
+      ],
+      "points": 1,
+      "explanation": "\"Tend to + infinitive\" is a hedge which describes a general pattern without claiming it is always true."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Commonly confused words",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Remote working has had a significant affect on productivity.",
+      "answers": [
+        "Remote working has had a significant effect on productivity."
+      ],
+      "points": 1,
+      "explanation": "\"Effect\" is the noun (have an effect on); \"affect\" is usually the verb."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Conditional inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Had ...\".",
+      "text": "If managers had been trained earlier, many problems would have been avoided.",
+      "keyword": "had",
+      "answers": [
+        "Had managers been trained earlier, many problems would have been avoided.",
+        "Had managers been trained earlier, many problems could have been avoided."
+      ],
+      "points": 1,
+      "explanation": "In a formal third conditional, \"if\" can be dropped and \"had\" placed before the subject: had managers been trained ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Overall ...\".",
+      "text": "Overall, the advantages are greater than the disadvantages.",
+      "keyword": "outweigh",
+      "answers": [
+        "Overall, the advantages outweigh the disadvantages."
+      ],
+      "points": 1,
+      "explanation": "\"Outweigh\" means to be greater or more important than something else, and is common when weighing pros and cons."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Hedging",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"It ...\".",
+      "text": "It appears that productivity has not suffered.",
+      "keyword": "would",
+      "answers": [
+        "It would appear that productivity has not suffered.",
+        "It would appear that productivity hasn't suffered.",
+        "It would appear productivity has not suffered.",
+        "It would appear productivity hasn't suffered."
+      ],
+      "points": 1,
+      "explanation": "\"It would appear that ...\" is a more tentative version of \"it appears that\", suitable for cautious conclusions in reports."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Subjunctive",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "We suggest that hybrid arrangements ___ (not / be) imposed without consultation.",
+      "answers": [
+        "not be",
+        "should not be",
+        "shouldn't be"
+      ],
+      "points": 1,
+      "explanation": "In the negative subjunctive, \"not\" comes before the base form: that they not be imposed. \"Should not be\" is a common alternative."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Any extension of the policy should be contingent ___ a review of team performance.",
+      "options": [
+        "on",
+        "at",
+        "to",
+        "with"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Contingent on\" (or \"upon\") means depending on something happening first; it is common in formal reports."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Several managers expressed ___ (give) about their ability to supervise staff remotely.",
+      "answers": [
+        "misgivings"
+      ],
+      "points": 1,
+      "explanation": "\"Misgivings\" (usually plural) are feelings of doubt or worry. It is formed from \"give\" with the prefix mis- and the suffix -ing."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Subject-verb agreement",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Staff reported improved wellbeing; however, collaboration across departments have suffered.",
+      "answers": [
+        "Staff reported improved wellbeing; however, collaboration across departments has suffered."
+      ],
+      "points": 1,
+      "explanation": "The subject is \"collaboration\" (singular), not \"departments\", so the verb is \"has suffered\"."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The policy was introduced ...\".",
+      "text": "The policy was introduced as a direct consequence of the pandemic.",
+      "keyword": "wake",
+      "answers": [
+        "The policy was introduced in the wake of the pandemic.",
+        "The policy was introduced in the direct wake of the pandemic."
+      ],
+      "points": 1,
+      "explanation": "\"In the wake of\" means following and as a result of an important event."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Reporting verbs and hedging",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The data ___ that remote staff are less likely to be promoted, although further research is needed.",
+      "options": [
+        "prove",
+        "suggest",
+        "establish",
+        "confirm"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Suggest\" is a tentative reporting verb; \"prove\", \"establish\" and \"confirm\" claim certainty, which contradicts \"further research is needed\"."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Cleft sentences",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "what",
+        "most",
+        "concerns",
+        "the lack of",
+        "informal mentoring",
+        "us"
+      ],
+      "answers": [
+        "What concerns us most is the lack of informal mentoring.",
+        "What most concerns us is the lack of informal mentoring.",
+        "The lack of informal mentoring is what concerns us most.",
+        "The lack of informal mentoring is what most concerns us."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft sentence puts the focus on the final element: what concerns us most is ..."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The new arrangements are not conducive for team cohesion.",
+      "answers": [
+        "The new arrangements are not conducive to team cohesion."
+      ],
+      "points": 1,
+      "explanation": "The adjective \"conducive\" is always followed by \"to\": conducive to learning, conducive to cohesion."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The policy has ...\".",
+      "text": "Managers have criticised the policy for its lack of clarity.",
+      "keyword": "fire",
+      "answers": [
+        "The policy has come under fire from managers for its lack of clarity.",
+        "The policy has come under fire for its lack of clarity from managers.",
+        "The policy has been under fire from managers for its lack of clarity."
+      ],
+      "points": 1,
+      "explanation": "To \"come under fire\" means to be strongly criticised; the person criticising is introduced with \"from\"."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Formal register",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "It is ___ that all staff attend the office at least two days per week.",
+      "options": [
+        "wanted",
+        "liked",
+        "hoped",
+        "recommended"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"It is recommended that + subjunctive\" is standard in reports. \"Wanted\" and \"liked\" cannot be used in this pattern, and \"hoped\" would need \"will attend\"."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Office space is now at a ___, as several floors have been sublet. (one word, beginning with P)",
+      "answers": [
+        "premium"
+      ],
+      "points": 1,
+      "explanation": "If something is \"at a premium\", it is scarce and therefore valuable or in demand."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Hedging",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The old office-based model ...\".",
+      "text": "The old office-based model has effectively been abandoned.",
+      "keyword": "intents",
+      "answers": [
+        "The old office-based model has, to all intents and purposes, been abandoned.",
+        "The old office-based model has been abandoned to all intents and purposes."
+      ],
+      "points": 1,
+      "explanation": "\"To all intents and purposes\" means \"in effect\" or \"virtually\"; it softens a claim that is almost but not completely true."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Relative clauses with prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The figures, on that this report is based, were collected in March.",
+      "answers": [
+        "The figures, on which this report is based, were collected in March.",
+        "The figures, which this report is based on, were collected in March."
+      ],
+      "points": 1,
+      "explanation": "After a preposition we use \"which\", never \"that\": on which this report is based. In formal writing the preposition goes before \"which\"."
+    }
+  ],
+  "task": {
+    "genre": "Report",
+    "prompt": "Your company introduced a remote work policy a year ago. The board has asked you to write a report assessing the policy and recommending changes.",
+    "contentPoints": [
+      "State the aim of the report and how information was gathered.",
+      "Summarise the benefits of the policy for staff and the company.",
+      "Identify the main problems that have emerged.",
+      "Make specific recommendations for the future."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "This report assesses ...",
+      "The survey was administered to ...",
+      "It would appear that ...",
+      "tend to ...",
+      "Had ... , ...",
+      "It is recommended that ..."
+    ],
+    "modelAnswer": "Aim\nThis report assesses the remote work policy introduced twelve months ago, under which staff may work from home for up to three days a week. It also makes recommendations for the coming year. The findings are based on a survey administered to all 240 members of staff, together with productivity data and interviews with eight team managers.\n\nBenefits\nThe policy has been broadly welcomed. Remote staff tend to report higher job satisfaction, with seventy-two per cent saying that the reduced commute has improved their work-life balance. Sickness absence has fallen by almost a fifth, and the company has been able to recruit candidates who live too far away to travel daily. Contrary to initial fears, it would appear that productivity has not suffered: output in most departments has remained stable or risen slightly.\n\nProblems\nNevertheless, several difficulties have emerged. Concerns were raised about isolation among junior staff, many of whom said they had fewer opportunities to learn informally from experienced colleagues. Communication between departments has also become slower, and some meetings now involve awkward combinations of people in the room and on screen. Managers, in particular, reported that they had been given little guidance on supervising teams they rarely see in person. Had they been trained earlier, many of these problems could have been avoided.\n\nRecommendations\nOverall, the advantages of the policy outweigh the disadvantages, and it is recommended that it be retained. However, the following changes are proposed. Firstly, each team should agree one fixed office day per week, so that colleagues, especially new staff, can collaborate in person. Secondly, a mentoring scheme should be set up for employees in their first year. Thirdly, all managers should attend training in leading hybrid teams. Finally, we suggest that any changes to individual arrangements not be imposed without consultation. The policy should then be reviewed again in twelve months."
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "id": "saving-the-honeybee",
+  "title": "Saving the Honeybee",
+  "level": "B1 · Intermediate",
+  "description": "Why honeybees matter, why they are in trouble, and how people can help.",
+  "instructions": "Read the passage about honeybees, then choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Honeybees are small insects, but they play a huge role in our lives. As they fly from flower to flower collecting nectar, they carry pollen that helps plants produce fruit and seeds. Many of the foods we eat, such as apples, almonds and strawberries, depend partly on this process, which is called pollination. Without bees, our diets would be much less varied."
+    },
+    {
+      "id": "p2",
+      "text": "In recent decades, beekeepers in many countries have reported losing large numbers of bees. Scientists believe there is no single cause. Some chemicals used on farms to kill pests can also harm bees. Disease, parasites and changes in the climate can make bee colonies weaker as well."
+    },
+    {
+      "id": "p3",
+      "text": "Another problem is the loss of wild flowers. When fields are used to grow only one crop, bees have fewer types of flowers to feed on throughout the year. Towns and cities, with their neat lawns and paved gardens, often offer little food for bees too. A poor diet can leave bees less able to fight off illness."
+    },
+    {
+      "id": "p4",
+      "text": "The good news is that ordinary people can help. Planting a variety of flowers in gardens, on balconies or even in window boxes gives bees a valuable source of food. Avoiding harmful chemicals in the garden also makes a difference. Some cities have even started leaving parts of parks to grow wild, creating small 'bee-friendly' areas where insects can thrive."
+    },
+    {
+      "id": "p5",
+      "text": "It is important to remember that honeybees are not the only insects that pollinate plants. There are thousands of kinds of wild bees, such as bumblebees, as well as butterflies, moths and some flies. Many wild bees live alone rather than in large groups, and some build their nests in the ground. Unlike honeybees, which are cared for by beekeepers, wild insects have nobody looking after them. If the places where they live and feed disappear, they may simply die out. For this reason, some experts say that protecting wild pollinators is just as important as saving honeybees, and perhaps even more urgent."
+    },
+    {
+      "id": "p6",
+      "text": "Farmers can also play a big part. Some are now leaving narrow strips of wild flowers along the edges of their fields, or planting hedges where insects can feed and shelter. Others use fewer chemicals or spray them at times of day when bees are not flying. These changes may seem to cost the farmer land or money at first. However, many farmers find that their crops benefit, because more insects visit the flowers and the harvest improves. Hedges also protect the soil from strong winds and give birds a place to build their nests."
+    },
+    {
+      "id": "p7",
+      "text": "In some places, interest in bees has grown so much that people have started keeping hives on rooftops and in back gardens. City beekeeping can be an enjoyable hobby, but beginners need proper training, and too many hives in one area can leave too little food for wild bees. Perhaps the most useful thing anyone can do is simply to learn more and share what they know. After all, protecting bees is not only about saving an insect; it is about protecting the food on our plates."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the passage?",
+      "options": [
+        "Honey is healthier than sugar.",
+        "Beekeeping is an easy hobby.",
+        "Bees are dangerous insects that should be avoided.",
+        "Honeybees are important and in danger, but people can help them."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The passage explains why bees matter, what threatens them and how people can help.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "they play a huge role in our lives"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "The good news is that ordinary people can help."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"pollination\" refers to:",
+      "options": [
+        "making honey inside the hive",
+        "the way bees defend themselves",
+        "bees carrying pollen that helps plants produce fruit and seeds",
+        "farmers picking fruit"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"This process\" refers to bees carrying pollen that helps plants produce fruit and seeds.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "they carry pollen that helps plants produce fruit and seeds"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "According to paragraph 2, what do scientists believe about the loss of bees?",
+      "options": [
+        "There is no single cause.",
+        "It is caused only by disease.",
+        "It is caused only by beekeepers.",
+        "It has stopped completely."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 2 says scientists believe there is no single cause, and then lists several.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Scientists believe there is no single cause."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "Why might farms that grow only one crop be a problem for bees?",
+      "options": [
+        "Bees do not like fields.",
+        "Bees may not find food at all times of the year.",
+        "Farmers keep bees away from crops.",
+        "Bees prefer to live in cities."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "With fewer types of flowers throughout the year, there may be times when bees have nothing to feed on.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "bees have fewer types of flowers to feed on throughout the year"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention neat lawns and paved gardens?",
+      "options": [
+        "To praise tidy gardens",
+        "To give advice about building patios",
+        "To show that towns can also lack food for bees",
+        "To explain why bees live in cities"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They are examples of town spaces that offer little food for bees.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Towns and cities, with their neat lawns and paved gardens, often offer little food for bees too."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Which of these is NOT given as something that can harm bees?",
+      "options": [
+        "Chemicals used on farms",
+        "Disease and parasites",
+        "Changes in the climate",
+        "Window boxes full of flowers"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Window boxes with flowers are mentioned as a way to help bees, not harm them.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Some chemicals used on farms to kill pests can also harm bees."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Planting a variety of flowers in gardens, on balconies or even in window boxes gives bees a valuable source of food."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"thrive\" is closest in meaning to:",
+      "options": [
+        "sleep",
+        "grow strong and healthy",
+        "fly away",
+        "become ill"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Bee-friendly areas are created so insects can do well, that is, grow strong and healthy.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "creating small 'bee-friendly' areas where insects can thrive"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What can we infer about the link between diet and bee health?",
+      "options": [
+        "Well-fed bees are probably better at fighting disease.",
+        "Bees do not need flowers to stay healthy.",
+        "Bees get ill because they eat too much.",
+        "Diet has no effect on bees."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "If a poor diet makes bees less able to fight illness, a good diet probably helps them fight it.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "A poor diet can leave bees less able to fight off illness."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "According to paragraph 1, which foods depend partly on pollination?",
+      "options": [
+        "Rice, bread and pasta",
+        "Fish, eggs and milk",
+        "Apples, almonds and strawberries",
+        "Potatoes, carrots and onions"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 1 gives apples, almonds and strawberries as examples of foods that depend partly on pollination.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "such as apples, almonds and strawberries, depend partly on this process"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 4, where can ordinary people plant flowers to help bees?",
+      "options": [
+        "In gardens, on balconies or in window boxes",
+        "Only in large public parks",
+        "Only on farms outside the city",
+        "Inside their houses near windows"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 4 mentions gardens, balconies and even window boxes.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Planting a variety of flowers in gardens, on balconies or even in window boxes gives bees a valuable source of food."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Butterflies are more beautiful than bees.",
+        "Beekeepers should look after wild insects too.",
+        "Honeybees are the only important pollinators.",
+        "Wild pollinators also need protection, perhaps even more than honeybees."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 5 explains that many wild insects pollinate plants and have no one to look after them, so protecting them is just as important or more urgent.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "honeybees are not the only insects that pollinate plants"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "protecting wild pollinators is just as important as saving honeybees, and perhaps even more urgent"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 5, how are honeybees different from wild insects?",
+      "options": [
+        "Honeybees cannot pollinate plants.",
+        "Honeybees are cared for by beekeepers.",
+        "Honeybees live only in cities.",
+        "Honeybees are much larger than wild bees."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 5 says honeybees are cared for by beekeepers, while wild insects have nobody looking after them.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Unlike honeybees, which are cared for by beekeepers, wild insects have nobody looking after them."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the phrase \"die out\" is closest in meaning to:",
+      "options": [
+        "disappear completely",
+        "fly to another country",
+        "sleep through the winter",
+        "become stronger"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "If the places where wild insects live and feed disappear, the insects themselves may disappear completely.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "If the places where they live and feed disappear, they may simply die out."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Which of these is mentioned as something farmers are doing to help insects?",
+      "options": [
+        "Keeping hives on the roofs of their houses",
+        "Growing only one crop in every field",
+        "Leaving strips of wild flowers along the edges of fields",
+        "Cutting down all the hedges on their land"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 6 says some farmers leave narrow strips of wild flowers along the edges of their fields.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Some are now leaving narrow strips of wild flowers along the edges of their fields"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why do some farmers probably spray chemicals at times of day when bees are not flying?",
+      "options": [
+        "Because the chemicals work only in the dark",
+        "Because bees like the smell of the chemicals",
+        "So that the farmers can work faster",
+        "So that fewer bees come into contact with the chemicals"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 2 says farm chemicals can harm bees, so spraying when bees are not flying reduces the harm.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "spray them at times of day when bees are not flying"
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "Some chemicals used on farms to kill pests can also harm bees."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer say that many farmers find their crops benefit?",
+      "options": [
+        "To explain why chemicals are necessary",
+        "To show that helping bees can also help farmers",
+        "To show that farmers do not care about bees",
+        "To advertise a new type of crop"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After admitting the changes may seem costly, the writer shows that more insects visiting the flowers improves the harvest.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "However, many farmers find that their crops benefit, because more insects visit the flowers and the harvest improves."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"hives\" refers to:",
+      "options": [
+        "gardens full of wild flowers",
+        "shops that sell honey",
+        "tall buildings in cities",
+        "homes where bees live and are kept"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "People keep hives on rooftops and in gardens as part of beekeeping, so hives are the homes of the bees.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "people have started keeping hives on rooftops and in back gardens"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 7, what problem can too many hives in one area cause?",
+      "options": [
+        "The honey may become too sweet.",
+        "There may not be enough food left for wild bees.",
+        "The buildings may become unsafe.",
+        "The beekeepers may lose their training."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 7 says too many hives in one area can leave too little food for wild bees.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "too many hives in one area can leave too little food for wild bees"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer suggest about city beekeeping?",
+      "options": [
+        "It is the best way to save all bees.",
+        "It should be stopped immediately.",
+        "It can be positive, but it needs to be done carefully.",
+        "It does not require any knowledge."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer calls it an enjoyable hobby but warns about the need for training and the risk of too many hives.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "City beekeeping can be an enjoyable hobby, but beginners need proper training"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main point of the last paragraph?",
+      "options": [
+        "Protecting bees matters to everyone because it protects our food.",
+        "Everyone should keep bees on their roof.",
+        "Beekeeping is too difficult for beginners.",
+        "Honey from city bees is better than honey from farms."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The paragraph ends by saying that protecting bees is about protecting the food on our plates.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "protecting bees is not only about saving an insect; it is about protecting the food on our plates"
+        }
+      ]
+    }
+  ]
+}

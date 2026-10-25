@@ -1,0 +1,439 @@
+{
+  "id": "a-birthday-party",
+  "title": "A Birthday Party",
+  "level": "A1 · Beginner",
+  "description": "A girl has a birthday party with her friends.",
+  "instructions": "Read the text about a birthday party, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Last Sunday was Anna's birthday. She was nine years old. She had a party at her house with eight friends."
+    },
+    {
+      "id": "p2",
+      "text": "Anna's mum made a big chocolate cake. There were nine candles on it. Everyone sang 'Happy Birthday' and Anna blew out the candles."
+    },
+    {
+      "id": "p3",
+      "text": "Her friends gave her many presents. Her best friend, Jack, gave her a blue bicycle. Anna was very glad. It was the best day of the year for her."
+    },
+    {
+      "id": "p4",
+      "text": "After the cake, the children played games in the garden. They played hide and seek. Tom hid behind a big tree. Nobody found him for ten minutes. Then they had a race. Lucy was the fastest, and she won a small toy car."
+    },
+    {
+      "id": "p5",
+      "text": "At four o'clock, it started to rain. The children ran inside the house. Anna's dad put on some music. Everyone danced in the living room. Anna's little brother, Ben, danced too. He was only three, and he fell down many times. Everyone laughed."
+    },
+    {
+      "id": "p6",
+      "text": "At six o'clock, the parents came to take the children home. Anna said goodbye to her friends at the door. She gave each friend a small bag of sweets. 'Thank you for coming,' she said."
+    },
+    {
+      "id": "p7",
+      "text": "That night, Anna was very tired. She looked at her presents again. Then she went to bed. She wanted to ride her new bicycle the next morning. She closed her eyes and smiled."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Anna's birthday party",
+        "Jack's new bicycle",
+        "How to make a cake",
+        "A day at school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text is about Anna's ninth birthday party.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Last Sunday was Anna's birthday."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How many friends came to the party?",
+      "options": [
+        "Six",
+        "Nine",
+        "Ten",
+        "Eight"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Anna had a party with eight friends. Nine is her age.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She had a party at her house with eight friends."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What kind of cake did Anna's mum make?",
+      "options": [
+        "A lemon cake",
+        "A strawberry cake",
+        "A chocolate cake",
+        "A banana cake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Anna's mum made a big chocolate cake.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Anna's mum made a big chocolate cake."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"glad\" means...",
+      "options": [
+        "sad",
+        "happy",
+        "tired",
+        "angry"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Glad\" means happy. Anna got a nice present and it was her best day.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Anna was very glad."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What did Jack give Anna?",
+      "options": [
+        "A doll",
+        "A red ball",
+        "A blue bicycle",
+        "A book"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Jack gave her a blue bicycle.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Her best friend, Jack, gave her a blue bicycle."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "How many candles were on the cake?",
+      "options": [
+        "Eight",
+        "Nine",
+        "Ten",
+        "Seven"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There were nine candles on the cake, one for each year.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "There were nine candles on it."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What song did everyone sing?",
+      "options": [
+        "Happy Birthday",
+        "A school song",
+        "A Christmas song",
+        "A football song"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Everyone sang 'Happy Birthday' before Anna blew out the candles.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Everyone sang 'Happy Birthday' and Anna blew out the candles."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Where did the children play games after the cake?",
+      "options": [
+        "In the kitchen",
+        "At the park",
+        "At school",
+        "In the garden"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "After the cake, the children played games in the garden.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "After the cake, the children played games in the garden."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Where did Tom hide?",
+      "options": [
+        "Under the table",
+        "Behind a big tree",
+        "In the car",
+        "Behind the door"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom hid behind a big tree.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Tom hid behind a big tree."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "text": "In paragraph 4, \"the fastest\" means...",
+      "options": [
+        "slower than all the others",
+        "taller than all the others",
+        "younger than all the others",
+        "quicker than all the others"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Lucy was \"the fastest\", so she ran more quickly than all the other children and won the race.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Lucy was the fastest, and she won a small toy car."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What did Lucy win?",
+      "options": [
+        "A small toy car",
+        "A blue bicycle",
+        "A big cake",
+        "A bag of sweets"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lucy won the race and got a small toy car.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "she won a small toy car"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "Why did the children go inside the house?",
+      "options": [
+        "It was dark",
+        "They were hungry",
+        "It started to rain",
+        "The parents came"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "At four o'clock it started to rain, so the children ran inside.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "At four o'clock, it started to rain. The children ran inside the house."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Playing in the rain",
+        "Eating the cake",
+        "Saying goodbye to friends",
+        "Dancing inside the house"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 5 tells us that everyone danced to music in the living room.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Everyone danced in the living room."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Who is Ben?",
+      "options": [
+        "Anna's little brother",
+        "Anna's best friend",
+        "Anna's dad",
+        "Anna's teacher"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says Ben is Anna's little brother.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Anna's little brother, Ben, danced too."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why did everyone laugh?",
+      "options": [
+        "The music was very bad",
+        "Ben fell down many times when he danced",
+        "Anna's dad sang a funny song",
+        "Tom hid behind a tree"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben was only three and he fell down many times while dancing, so everyone laughed.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "He was only three, and he fell down many times. Everyone laughed."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "main-idea",
+      "text": "What is paragraph 6 mainly about?",
+      "options": [
+        "The start of the party",
+        "A game in the garden",
+        "The end of the party",
+        "Anna's new bicycle"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In paragraph 6 the parents come and Anna says goodbye, so the party ends.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "At six o'clock, the parents came to take the children home."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What did Anna give each friend?",
+      "options": [
+        "A small bag of sweets",
+        "A piece of cake",
+        "A toy car",
+        "A book"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Anna gave each friend a small bag of sweets.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "She gave each friend a small bag of sweets."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"tired\" means...",
+      "options": [
+        "very hungry",
+        "very angry",
+        "needing rest or sleep",
+        "full of energy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "After a long day, Anna was tired, so she needed to sleep and went to bed.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "That night, Anna was very tired."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What did Anna want to do the next morning?",
+      "options": [
+        "Eat more cake",
+        "Ride her new bicycle",
+        "Play hide and seek",
+        "Go to Jack's house"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She wanted to ride her new bicycle the next morning.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "She wanted to ride her new bicycle the next morning."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "How did Anna feel when she went to bed?",
+      "options": [
+        "Sad",
+        "Angry",
+        "Scared",
+        "Happy"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She closed her eyes and smiled, so she was happy.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "She closed her eyes and smiled."
+        }
+      ]
+    }
+  ]
+}

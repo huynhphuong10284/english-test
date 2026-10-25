@@ -1,0 +1,467 @@
+{
+  "id": "history-of-tea",
+  "title": "The Journey of Tea",
+  "level": "B1 · Intermediate",
+  "description": "A short history of how tea spread around the world.",
+  "instructions": "Read the passage about tea, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Tea is one of the most popular drinks in the world, second only to water. According to a well-known Chinese legend, tea was discovered almost five thousand years ago when leaves from a wild tree fell into a pot of boiling water. Whether or not the story is true, we know that people in China were drinking tea at least two thousand years ago, first as a medicine and later as an everyday drink."
+    },
+    {
+      "id": "p2",
+      "text": "For many centuries, tea stayed mostly in Asia. Buddhist monks carried tea seeds from China to Japan, where a special tea ceremony slowly developed. In this ceremony, every movement, from cleaning the bowl to pouring the water, has a meaning. The ceremony teaches calm, respect and attention to small details."
+    },
+    {
+      "id": "p3",
+      "text": "Tea arrived in Europe in the early 1600s, when Dutch traders brought it back on their ships. At first it was extremely expensive, so only rich families could afford it. They kept their tea in small wooden boxes with locks so that servants could not take any. Over time, as more ships made the long journey and prices fell, tea became a drink for ordinary people too."
+    },
+    {
+      "id": "p4",
+      "text": "Today, tea is grown in more than sixty countries, and each culture has its own way of enjoying it. In Morocco, it is mixed with fresh mint and plenty of sugar, while in India it is often boiled with milk and spices. Although the ways of preparing it are very different, tea has one thing in common everywhere: it brings people together."
+    },
+    {
+      "id": "p5",
+      "text": "In Britain, tea became a national habit. By the 1800s, it was drunk in almost every home, from the richest to the poorest. Wealthy people made afternoon tea fashionable: a light meal in the late afternoon with small sandwiches, cakes and, of course, a pot of tea. Because Britain wanted to stop depending on China for its supply, the British began to grow tea in India and later in Sri Lanka. Large tea gardens were created on the hills, but the people who worked on them often had hard lives and very low pay."
+    },
+    {
+      "id": "p6",
+      "text": "Many people are surprised to learn that green tea and black tea come from the same plant. The difference lies in what happens after the leaves are picked. For green tea, the leaves are heated soon after picking, which keeps their green colour and fresh taste. For black tea, the leaves are left to react with the air for some time before they are dried, so they turn dark and develop a stronger flavour. Drinks made from mint or camomile are often called tea, but strictly speaking they are not made from the tea plant at all."
+    },
+    {
+      "id": "p7",
+      "text": "Tea has continued to change in modern times. In the early twentieth century, tea bags made it possible to prepare a cup quickly, without a pot. More recently, young people around the world have discovered new styles, such as iced tea and bubble tea, a sweet drink from Taiwan with small balls of tapioca at the bottom. Some people worry that traditional ways of drinking tea will disappear, but others believe these new drinks simply show how flexible tea is. Five thousand years after that legendary pot of water, tea is still finding new fans."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the passage mainly about?",
+      "options": [
+        "How to prepare tea correctly",
+        "The history of tea and how it spread around the world",
+        "The Japanese tea ceremony",
+        "Why tea is healthier than coffee"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Each paragraph describes a stage in tea's history — its origin in China, its spread to Japan and Europe, and its place in cultures today.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Tea is one of the most popular drinks in the world, second only to water."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Today, tea is grown in more than sixty countries, and each culture has its own way of enjoying it."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How did people in China first use tea?",
+      "options": [
+        "As a medicine",
+        "In religious ceremonies",
+        "As money for trading",
+        "To colour clothes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 1 says tea was drunk \"first as a medicine and later as an everyday drink\".",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "first as a medicine and later as an everyday drink"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Who brought tea seeds from China to Japan?",
+      "options": [
+        "Dutch traders",
+        "Rich families",
+        "Buddhist monks",
+        "Japanese farmers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 2 states that Buddhist monks carried the seeds to Japan.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Buddhist monks carried tea seeds from China to Japan"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "Why did rich families keep tea in boxes with locks?",
+      "options": [
+        "Because tea goes bad quickly in the air",
+        "Because tea was very valuable",
+        "Because it was the law",
+        "Because the boxes looked beautiful"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tea was \"extremely expensive\", and the locks stopped servants taking it — so we can infer that tea was very valuable.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "At first it was extremely expensive, so only rich families could afford it."
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "They kept their tea in small wooden boxes with locks so that servants could not take any."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"afford\" is closest in meaning to:",
+      "options": [
+        "have enough money to buy",
+        "grow at home",
+        "enjoy the taste of",
+        "carry on a ship"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Afford\" means to have enough money for something; the sentence contrasts the high price with rich families.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "only rich families could afford it"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer mention Morocco and India in paragraph 4?",
+      "options": [
+        "To show where most tea is grown",
+        "To compare the prices of tea",
+        "To give examples of different ways cultures prepare tea",
+        "To explain why tea is healthy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Morocco (mint and sugar) and India (milk and spices) are examples supporting the idea that each culture has its own way of enjoying tea.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "In Morocco, it is mixed with fresh mint and plenty of sugar, while in India it is often boiled with milk and spices."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"legend\" is closest in meaning to:",
+      "options": [
+        "a scientific report about plants",
+        "a list of famous tea drinkers",
+        "a law made by an emperor",
+        "a very old story that may or may not be true"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer calls the story a legend and then says \"Whether or not the story is true\", showing it is an old traditional story.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "According to a well-known Chinese legend"
+        },
+        {
+          "paragraphId": "p1",
+          "quote": "Whether or not the story is true"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What can we infer about the Japanese tea ceremony from paragraph 2?",
+      "options": [
+        "It is a quick way to prepare tea.",
+        "It was brought to Japan by Dutch traders.",
+        "It is about much more than simply drinking tea.",
+        "It is only for people who are ill."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Every movement has a meaning and the ceremony teaches calm, respect and attention to detail, so it has a purpose beyond drinking.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "every movement, from cleaning the bowl to pouring the water, has a meaning"
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "The ceremony teaches calm, respect and attention to small details."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "According to paragraph 5, what was afternoon tea?",
+      "options": [
+        "A ceremony performed by Buddhist monks",
+        "A special drink sold only in India",
+        "A meal that servants ate late at night",
+        "A light meal in the late afternoon with sandwiches, cakes and tea"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 5 describes afternoon tea as a light meal in the late afternoon with small sandwiches, cakes and a pot of tea.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "a light meal in the late afternoon with small sandwiches, cakes and, of course, a pot of tea"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "Why did the British begin to grow tea in India?",
+      "options": [
+        "Because Britain wanted to stop depending on China for tea",
+        "Because Indian people did not like drinking tea",
+        "Because China had stopped growing tea",
+        "Because tea could only grow on flat land"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 5 says Britain wanted to stop depending on China for its supply.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Because Britain wanted to stop depending on China for its supply, the British began to grow tea in India"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does the end of paragraph 5 suggest about the tea gardens?",
+      "options": [
+        "The workers became rich from the tea trade.",
+        "The success of tea did not bring benefits to everyone who produced it.",
+        "The tea gardens were built on flat land near the sea.",
+        "Only wealthy British families worked in the gardens."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer says workers in the tea gardens often had hard lives and very low pay, so not everyone gained from tea.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "the people who worked on them often had hard lives and very low pay"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "How afternoon tea was invented in India",
+        "Why Britain stopped drinking tea in the 1800s",
+        "Why Sri Lanka grows more tea than any other country",
+        "How tea became very important in Britain and led the British to grow it in South Asia"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The paragraph explains that tea became a national habit in Britain and that the British then began growing tea in India and Sri Lanka.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "In Britain, tea became a national habit."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "the British began to grow tea in India and later in Sri Lanka"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "main-idea",
+      "text": "What is paragraph 6 mainly about?",
+      "options": [
+        "Why green tea is healthier than black tea",
+        "Where the best tea leaves are picked",
+        "How green tea and black tea are made differently from the same plant",
+        "How to make tea from mint leaves"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 6 explains that both teas come from one plant and that the difference is what happens after the leaves are picked.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "green tea and black tea come from the same plant"
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "The difference lies in what happens after the leaves are picked."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What happens to the leaves used for green tea?",
+      "options": [
+        "They are heated soon after they are picked.",
+        "They are left in the air for a long time.",
+        "They are mixed with mint and sugar.",
+        "They are boiled with milk and spices."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 6 says that for green tea the leaves are heated soon after picking.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "For green tea, the leaves are heated soon after picking"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the phrase \"strictly speaking\" means:",
+      "options": [
+        "speaking in an angry voice",
+        "if we use the exact, correct meaning of a word",
+        "according to the law of a country",
+        "speaking very quietly"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mint and camomile drinks are called tea, but using the exact meaning of the word, they are not tea because they do not come from the tea plant.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "strictly speaking they are not made from the tea plant at all"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "According to paragraph 7, what did tea bags make possible?",
+      "options": [
+        "Growing tea plants at home",
+        "Keeping tea leaves fresh for many years",
+        "Drinking tea without using water",
+        "Preparing a cup of tea quickly without a pot"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 7 says tea bags made it possible to prepare a cup quickly, without a pot.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "tea bags made it possible to prepare a cup quickly, without a pot"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "How does the writer describe bubble tea?",
+      "options": [
+        "As a sweet drink from Taiwan with small balls of tapioca",
+        "As hot tea mixed with fresh mint and sugar",
+        "As tea boiled with milk and spices",
+        "As a green tea used in a special ceremony"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 7 calls bubble tea a sweet drink from Taiwan with small balls of tapioca at the bottom.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "bubble tea, a sweet drink from Taiwan with small balls of tapioca at the bottom"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"flexible\" is closest in meaning to:",
+      "options": [
+        "very expensive to buy",
+        "able to change easily to suit new situations",
+        "difficult to prepare",
+        "old-fashioned and traditional"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "New drinks such as iced tea and bubble tea show that tea can change and adapt to new tastes.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "others believe these new drinks simply show how flexible tea is"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What is the writer's attitude towards new tea drinks?",
+      "options": [
+        "The writer thinks they should be banned.",
+        "The writer believes they will soon replace water.",
+        "The writer sees them as a sign that tea can keep changing and stay popular.",
+        "The writer thinks only older people enjoy them."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer ends by saying tea is still finding new fans, which presents the new drinks in a positive way.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Five thousand years after that legendary pot of water, tea is still finding new fans."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why does the writer mention \"that legendary pot of water\" in the last sentence?",
+      "options": [
+        "To prove that the old legend is true",
+        "To explain the correct way to make tea",
+        "To warn readers about boiling water",
+        "To link the modern story of tea back to its beginning"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The phrase refers back to the legend in paragraph 1, closing the passage by connecting the past with the present.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Five thousand years after that legendary pot of water"
+        },
+        {
+          "paragraphId": "p1",
+          "quote": "tea was discovered almost five thousand years ago when leaves from a wild tree fell into a pot of boiling water"
+        }
+      ]
+    }
+  ]
+}

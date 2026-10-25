@@ -1,0 +1,321 @@
+{
+  "id": "w-a-shopping-trip",
+  "title": "A Shopping Trip",
+  "level": "A2 · Elementary",
+  "description": "Practise the past simple, comparatives and linking words, then write a diary entry about a shopping trip.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Choose the correct answer.",
+      "text": "I ___ a new pair of trainers at the shopping centre.",
+      "options": [
+        "buyed",
+        "bought",
+        "buy",
+        "brought"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Buy\" is irregular: buy - bought. Be careful: \"brought\" is the past of \"bring\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Comparatives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The blue jacket was ___ (expensive) than the black one.",
+      "answers": [
+        "more expensive"
+      ],
+      "points": 1,
+      "explanation": "Long adjectives use \"more\" to make the comparative: expensive - more expensive."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Prepositions of place",
+      "prompt": "Choose the correct answer.",
+      "text": "We met ___ the entrance at ten o'clock.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"at\" for a meeting point or a specific place: at the entrance."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Too + adjective",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "were",
+        "the",
+        "too",
+        "shoes",
+        "expensive"
+      ],
+      "answers": [
+        "The shoes were too expensive.",
+        "Were the shoes too expensive?"
+      ],
+      "points": 1,
+      "explanation": "\"Too\" goes before an adjective and means \"more than is good\": too expensive."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We goed to three different shops.",
+      "answers": [
+        "We went to three different shops."
+      ],
+      "points": 1,
+      "explanation": "\"Go\" is irregular: go - went, not \"goed\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Linking words: because",
+      "prompt": "Complete the sentence with \"so\" or \"because\".",
+      "text": "We had lunch in a cafe ___ we were hungry.",
+      "answers": [
+        "because",
+        "as",
+        "since"
+      ],
+      "points": 1,
+      "explanation": "\"Because\" introduces a reason: we were hungry."
+    },
+    {
+      "id": "e7",
+      "type": "error-correction",
+      "focus": "Adverbs of frequency",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I go never shopping alone.",
+      "answers": [
+        "I never go shopping alone."
+      ],
+      "points": 1,
+      "explanation": "Adverbs of frequency go before the main verb: I never go."
+    },
+    {
+      "id": "e8",
+      "type": "choice",
+      "focus": "How much / how many",
+      "prompt": "Choose the correct answer.",
+      "text": "How ___ money did you spend?",
+      "options": [
+        "much",
+        "many",
+        "lot",
+        "more"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Money\" is uncountable, so we ask \"How much...?\". We use \"How many...?\" with plural nouns."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "My sister ___ (spend) all her pocket money on a T-shirt.",
+      "answers": [
+        "spent"
+      ],
+      "points": 1,
+      "explanation": "\"Spend\" is irregular: spend - spent."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Some / any",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "couldn't",
+        "cheap jeans",
+        "we",
+        "any",
+        "find"
+      ],
+      "answers": [
+        "We couldn't find any cheap jeans."
+      ],
+      "points": 1,
+      "explanation": "We use \"any\" in negative sentences: We couldn't find any cheap jeans."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Superlatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "This is the cheapest shop of the town.",
+      "answers": [
+        "This is the cheapest shop in the town.",
+        "This is the cheapest shop in town."
+      ],
+      "points": 1,
+      "explanation": "After a superlative we use \"in\" with places: the cheapest shop in the town."
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct answer.",
+      "text": "While we ___ for the bus, it started to rain.",
+      "options": [
+        "wait",
+        "waited",
+        "are waiting",
+        "were waiting"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We use the past continuous (was/were + -ing) for a longer action that was in progress when something else happened."
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Will for offers",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "That bag looks heavy. I ___ (carry) it for you.",
+      "answers": [
+        "will carry"
+      ],
+      "points": 1,
+      "explanation": "We use \"will\" + base verb to offer help when we decide at the moment of speaking: I will carry it."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Past simple: questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "buy",
+        "did",
+        "what",
+        "you"
+      ],
+      "answers": [
+        "What did you buy?"
+      ],
+      "points": 1,
+      "explanation": "Question word + did + subject + base verb: What did you buy?"
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Countable and uncountable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I bought a new clothes for the party.",
+      "answers": [
+        "I bought new clothes for the party.",
+        "I bought some new clothes for the party."
+      ],
+      "points": 1,
+      "explanation": "\"Clothes\" is always plural, so we cannot use \"a\" with it. Use no article or \"some\"."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Object pronouns",
+      "prompt": "Choose the correct answer.",
+      "text": "I liked the red dress, so I bought ___.",
+      "options": [
+        "it",
+        "them",
+        "her",
+        "its"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We use the object pronoun \"it\" for one thing: the dress - it."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Linking words: but",
+      "prompt": "Complete the sentence with \"so\" or \"but\".",
+      "text": "I wanted the red shoes, ___ they didn't have my size.",
+      "answers": [
+        "but"
+      ],
+      "points": 1,
+      "explanation": "\"But\" introduces a contrast or a problem: I wanted them, but they didn't have my size."
+    },
+    {
+      "id": "e18",
+      "type": "word-order",
+      "focus": "Prepositions: for + period of time",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "two hours",
+        "shopped",
+        "for",
+        "we"
+      ],
+      "answers": [
+        "We shopped for two hours.",
+        "For two hours we shopped."
+      ],
+      "points": 1,
+      "explanation": "We use \"for\" + a period of time to say how long: for two hours."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Going to for predictions",
+      "prompt": "Choose the correct answer.",
+      "text": "Look at that long queue! We ___ wait a long time.",
+      "options": [
+        "will to",
+        "going to",
+        "are go",
+        "are going to"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We use \"be going to\" for a prediction when we can see the evidence now: Look at the queue! We are going to wait."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Past simple: spelling",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The shop assistant carryed my bags to the car.",
+      "answers": [
+        "The shop assistant carried my bags to the car."
+      ],
+      "points": 1,
+      "explanation": "Verbs ending in consonant + y change y to i before -ed: carry - carried."
+    }
+  ],
+  "task": {
+    "genre": "Diary entry",
+    "prompt": "Write a diary entry about a shopping trip.",
+    "contentPoints": [
+      "Say where you went and who with.",
+      "Say what you bought and why.",
+      "Say what you did not buy and why.",
+      "Say what you did after shopping and how you felt."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "Dear Diary,",
+      "Today I went to ...",
+      "I bought ... because ...",
+      "... was too expensive, so ...",
+      "After that, ..."
+    ],
+    "modelAnswer": "Saturday, 21st October\n\nDear Diary,\n\nToday I went to the new shopping centre with my mum. First, we looked for trainers for school. I bought a white pair because they were cheaper than the black ones. Then I saw a lovely blue jacket, but it was too expensive, so I didn't buy it. After that, we had lunch in a cafe. I was tired but happy."
+  }
+}

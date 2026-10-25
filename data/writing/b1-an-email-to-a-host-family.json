@@ -1,0 +1,322 @@
+{
+  "id": "w-an-email-to-a-host-family",
+  "title": "An Email to a Host Family",
+  "level": "B1 · Intermediate",
+  "description": "Practise future arrangements, polite questions and the present perfect, then write an email to a host family.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present continuous for the future",
+      "prompt": "Choose the correct answer.",
+      "text": "I ___ my cousin in London before I come to you.",
+      "options": [
+        "visit",
+        "am visiting",
+        "have visited",
+        "visited"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use the present continuous for fixed plans and arrangements in the future: I am visiting my cousin."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present perfect with never",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "I have never ___ (be) to England before.",
+      "answers": [
+        "been"
+      ],
+      "points": 1,
+      "explanation": "To talk about travel experience, use have been to: I have never been to England."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Indirect questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "what",
+        "me",
+        "could",
+        "bring",
+        "you",
+        "should",
+        "tell",
+        "I"
+      ],
+      "answers": [
+        "Could you tell me what I should bring?"
+      ],
+      "points": 1,
+      "explanation": "In an indirect question after \"Could you tell me\", use normal word order: what I should bring (not what should I bring)."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "First conditional",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "If you will need anything from my country, just let me know.",
+      "answers": [
+        "If you need anything from my country, just let me know."
+      ],
+      "points": 1,
+      "explanation": "Do not use \"will\" after \"if\" in a first conditional. Use the present simple: if you need."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Modals: need to",
+      "prompt": "Choose the correct answer.",
+      "text": "Do I ___ bring a towel, or will you give me one?",
+      "options": [
+        "must to",
+        "need to",
+        "should to",
+        "ought"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Need to\" + infinitive asks if something is necessary. \"Must\" and \"should\" are never followed by \"to\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Linking words",
+      "prompt": "Complete with however, although, in addition or as a result.",
+      "text": "I'm very excited about the trip. ___, I'm a bit nervous about speaking English all the time.",
+      "answers": [
+        "however"
+      ],
+      "points": 1,
+      "explanation": "\"However\" starts a new sentence with a contrasting idea."
+    },
+    {
+      "id": "e7",
+      "type": "error-correction",
+      "focus": "Present perfect with since",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I study English since I was eight.",
+      "answers": [
+        "I have studied English since I was eight.",
+        "I have been studying English since I was eight.",
+        "I've studied English since I was eight.",
+        "I've been studying English since I was eight."
+      ],
+      "points": 1,
+      "explanation": "With \"since\", use the present perfect (simple or continuous), not the present simple."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Modals of advice",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word SHOULD. Begin: \"Do you think ...\"",
+      "text": "Is it a good idea for me to bring warm clothes?",
+      "keyword": "SHOULD",
+      "answers": [
+        "Do you think I should bring warm clothes?"
+      ],
+      "points": 1,
+      "explanation": "To ask for advice, use \"Should I ...?\": Should I bring warm clothes?"
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Gerund after prepositions",
+      "prompt": "Choose the correct answer.",
+      "text": "I'm really looking forward to ___ you all.",
+      "options": [
+        "meeting",
+        "meet",
+        "to meet",
+        "met"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "In \"look forward to\", \"to\" is a preposition, so use the -ing form: looking forward to meeting."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation: nouns",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Thank you for your kind ___ (invite).",
+      "answers": [
+        "invitation"
+      ],
+      "points": 1,
+      "explanation": "After \"your kind\" we need a noun. The noun from \"invite\" is \"invitation\"."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Polite requests: would you mind",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "me",
+        "would",
+        "at",
+        "mind",
+        "airport",
+        "you",
+        "the",
+        "meeting"
+      ],
+      "answers": [
+        "Would you mind meeting me at the airport?"
+      ],
+      "points": 1,
+      "explanation": "\"Would you mind\" is a polite request and is followed by the -ing form."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Verb + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I enjoy to cook traditional dishes from my country.",
+      "answers": [
+        "I enjoy cooking traditional dishes from my country."
+      ],
+      "points": 1,
+      "explanation": "\"Enjoy\" is followed by the -ing form, not the to-infinitive: enjoy cooking."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct answer.",
+      "text": "My hometown is much ___ than London, so it will be a big change for me.",
+      "options": [
+        "small",
+        "smallest",
+        "more small",
+        "smaller"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Short adjectives take -er in the comparative: small - smaller. \"Much\" makes it stronger."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Modals: don't have to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word HAVE. Begin: \"You ...\"",
+      "text": "It isn't necessary for you to meet me at the airport.",
+      "keyword": "HAVE",
+      "answers": [
+        "You don't have to meet me at the airport."
+      ],
+      "points": 1,
+      "explanation": "\"Don't have to\" means something is not necessary."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Phrasal verbs: pick up",
+      "prompt": "Complete the sentence with one word.",
+      "text": "Could you ___ me up from the station when I arrive?",
+      "answers": [
+        "pick"
+      ],
+      "points": 1,
+      "explanation": "\"Pick somebody up\" means to collect them in a car."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Relative clauses: who",
+      "prompt": "Choose the correct answer.",
+      "text": "I'm sending a photo of my sister, ___ is coming to visit in August.",
+      "options": [
+        "which",
+        "that",
+        "who",
+        "whose"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"who\" for people. Between commas (extra information) we cannot use \"that\"."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Used to",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "have",
+        "dog",
+        "to",
+        "I",
+        "a",
+        "used"
+      ],
+      "answers": [
+        "I used to have a dog."
+      ],
+      "points": 1,
+      "explanation": "Use \"used to + infinitive\" for a past situation that is no longer true."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "One of the + plural noun",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Cooking is one of the thing I like most.",
+      "answers": [
+        "Cooking is one of the things I like most."
+      ],
+      "points": 1,
+      "explanation": "After \"one of the\" we use a plural noun: one of the things."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Linking words: although",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word ALTHOUGH. Begin: \"Although ...\"",
+      "text": "My English isn't perfect, but I can understand most things.",
+      "keyword": "ALTHOUGH",
+      "answers": [
+        "Although my English isn't perfect, I can understand most things."
+      ],
+      "points": 1,
+      "explanation": "\"Although\" shows a contrast. Do not use \"but\" in the same sentence."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Polite requests: would like",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word LIKE. Begin: \"I would ...\"",
+      "text": "I want to visit Oxford during my stay.",
+      "keyword": "LIKE",
+      "answers": [
+        "I would like to visit Oxford during my stay."
+      ],
+      "points": 1,
+      "explanation": "\"Would like + to-infinitive\" is a polite way of saying \"want\"."
+    }
+  ],
+  "task": {
+    "genre": "Informal email",
+    "prompt": "You are going to stay with a host family in England for three weeks this summer. Write an email to your host family to introduce yourself.",
+    "contentPoints": [
+      "Introduce yourself and your family.",
+      "Say what you like doing in your free time.",
+      "Tell them your travel plans.",
+      "Ask at least two questions about your stay."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "I'm writing to introduce myself.",
+      "I'm arriving on ...",
+      "I've never ... before, so ...",
+      "Could you tell me ...?",
+      "I'm really looking forward to ...",
+      "Best wishes,"
+    ],
+    "modelAnswer": "Dear Mr and Mrs Taylor,\n\nI'm writing to introduce myself before my stay with you in July. My name is Minh, and I'm sixteen years old. I live in Hanoi with my parents and my younger sister.\n\nIn my free time, I love playing badminton and taking photos. I also enjoy cooking, so I'd be happy to make a Vietnamese dinner for you one evening!\n\nI'm arriving at Heathrow Airport on 5 July at 3 p.m. I've never been to England before, so I'm really excited. However, I'm a bit nervous about speaking English all the time.\n\nCould you tell me what the weather is usually like in July? Should I bring warm clothes? Also, is there a bus from your house to the language school?\n\nI'm really looking forward to meeting you.\n\nBest wishes,\nMinh"
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "id": "w-cancelling-plans",
+  "title": "Cancelling Plans",
+  "level": "A2 · Elementary",
+  "description": "Practise linking words, the past simple and \"going to\", then write an email cancelling plans with a friend.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Linking words: because",
+      "prompt": "Choose the correct answer.",
+      "text": "I can't come to the cinema ___ I have a bad cold.",
+      "options": [
+        "so",
+        "because",
+        "then",
+        "after"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Because\" introduces the reason: I have a bad cold."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "I ___ (wake) up with a terrible headache this morning.",
+      "answers": [
+        "woke"
+      ],
+      "points": 1,
+      "explanation": "\"Wake\" is irregular: wake - woke."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Going to",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "am",
+        "going",
+        "I",
+        "to",
+        "stay",
+        "home",
+        "at"
+      ],
+      "answers": [
+        "I am going to stay at home.",
+        "Am I going to stay at home?"
+      ],
+      "points": 1,
+      "explanation": "Subject + am/is/are + going to + base verb: I am going to stay at home."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Prepositions of time",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Can we meet in Saturday instead?",
+      "answers": [
+        "Can we meet on Saturday instead?"
+      ],
+      "points": 1,
+      "explanation": "Use \"on\" with days of the week: on Saturday."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Past simple: negatives",
+      "prompt": "Choose the correct answer.",
+      "text": "I ___ well yesterday.",
+      "options": [
+        "don't felt",
+        "didn't felt",
+        "not felt",
+        "didn't feel"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Past simple negative: didn't + base verb: I didn't feel."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Comparatives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "I feel ___ (bad) today than yesterday.",
+      "answers": [
+        "worse"
+      ],
+      "points": 1,
+      "explanation": "\"Bad\" has an irregular comparative: bad - worse - worst."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Will for promises",
+      "prompt": "Choose the correct answer.",
+      "text": "I'm sorry. I ___ call you tomorrow, I promise.",
+      "options": [
+        "will",
+        "am",
+        "going",
+        "would to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We use \"will\" + base verb for promises and offers: I will call you tomorrow."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The doctor ___ (tell) me to rest for two days.",
+      "answers": [
+        "told"
+      ],
+      "points": 1,
+      "explanation": "\"Tell\" is irregular: tell - told."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "early",
+        "went",
+        "last night",
+        "I",
+        "to bed"
+      ],
+      "answers": [
+        "I went to bed early last night.",
+        "Last night I went to bed early."
+      ],
+      "points": 1,
+      "explanation": "\"Go\" is irregular: go - went. Time expressions like \"last night\" can go at the start or the end."
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I catched a cold at the weekend.",
+      "answers": [
+        "I caught a cold at the weekend."
+      ],
+      "points": 1,
+      "explanation": "\"Catch\" is irregular: catch - caught."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct answer.",
+      "text": "When you phoned, I ___ in bed.",
+      "options": [
+        "lie",
+        "am lying",
+        "was lying",
+        "were lying"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We use the past continuous for an action in progress when something else happened. With \"I\" we use \"was\": I was lying."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Much / many",
+      "prompt": "Complete the sentence with \"much\" or \"many\".",
+      "text": "I don't have ___ energy today.",
+      "answers": [
+        "much"
+      ],
+      "points": 1,
+      "explanation": "\"Energy\" is uncountable, so we use \"much\", especially in negative sentences."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Will for promises",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "later",
+        "will",
+        "you",
+        "phone",
+        "I"
+      ],
+      "answers": [
+        "I will phone you later.",
+        "Will I phone you later?"
+      ],
+      "points": 1,
+      "explanation": "Subject + will + base verb: I will phone you later. We use \"will\" for promises."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Superlatives: irregular",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Yesterday was the most bad day of the week.",
+      "answers": [
+        "Yesterday was the worst day of the week."
+      ],
+      "points": 1,
+      "explanation": "\"Bad\" has an irregular superlative: bad - worse - the worst."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Some / any",
+      "prompt": "Choose the correct answer.",
+      "text": "Have you got ___ plans for next weekend?",
+      "options": [
+        "any",
+        "much",
+        "a",
+        "one"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We usually use \"any\" in questions with plural or uncountable nouns: Have you got any plans?"
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Will for predictions",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Don't worry. I'm sure you ___ (have) a great time without me.",
+      "answers": [
+        "will have"
+      ],
+      "points": 1,
+      "explanation": "We use \"will\" + base verb for predictions, often after \"I'm sure\"."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Linking words: but",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "I can't",
+        "to come",
+        "but",
+        "I really wanted"
+      ],
+      "answers": [
+        "I really wanted to come, but I can't.",
+        "I can't, but I really wanted to come."
+      ],
+      "points": 1,
+      "explanation": "\"But\" joins two contrasting ideas: I wanted to come, but I can't."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Past simple: was / were",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I were in bed all day yesterday.",
+      "answers": [
+        "I was in bed all day yesterday."
+      ],
+      "points": 1,
+      "explanation": "With \"I\", \"he\", \"she\" and \"it\" we use \"was\" in the past: I was."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Linking words: so",
+      "prompt": "Choose the correct answer.",
+      "text": "I have a fever, ___ my mum says I must stay in bed.",
+      "options": [
+        "because",
+        "but",
+        "so",
+        "then"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"So\" introduces a result: I have a fever (reason), so I must stay in bed (result)."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Countable and uncountable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The doctor gave me some advices.",
+      "answers": [
+        "The doctor gave me some advice."
+      ],
+      "points": 1,
+      "explanation": "\"Advice\" is uncountable, so it has no plural -s: some advice."
+    }
+  ],
+  "task": {
+    "genre": "Email",
+    "prompt": "You planned to go to the cinema with your friend Ben tonight, but you are ill. Write an email to him.",
+    "contentPoints": [
+      "Say sorry and say which plan you are cancelling.",
+      "Explain why you cannot come.",
+      "Suggest another day to meet.",
+      "End the email in a friendly way."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "I'm really sorry, but I can't ...",
+      "... because ...",
+      "Can we ... on ... instead?",
+      "I hope you understand.",
+      "See you soon!"
+    ],
+    "modelAnswer": "Hi Ben,\n\nI'm really sorry, but I can't come to the cinema with you this evening. I woke up with a bad cold this morning, and I feel worse now. My mum says I should stay in bed. Can we go on Saturday instead? There is a new film about space, and I think it's going to be great.\n\nI hope you understand. See you soon!\n\nBest wishes,\nChris"
+  }
+}

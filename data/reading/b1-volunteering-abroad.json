@@ -1,0 +1,451 @@
+{
+  "id": "volunteering-abroad",
+  "title": "Volunteering Abroad",
+  "level": "B1 · Intermediate",
+  "description": "A student describes the good and bad sides of volunteering in another country.",
+  "instructions": "Read the student's account of volunteering abroad, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "After finishing school, Hannah decided to take a gap year before starting university. She wanted to do something useful, so she joined a programme that sent young volunteers to teach English in a small village in Nepal. She spent four months there, living with a local family. Looking back, she says it was one of the most challenging and rewarding experiences of her life."
+    },
+    {
+      "id": "p2",
+      "text": "The first few weeks were difficult. Hannah did not speak the local language, and the food and daily routine were very different from home. There was no hot water, and the electricity often went off in the evening. She admits that she felt homesick and sometimes wanted to give up and fly back to England."
+    },
+    {
+      "id": "p3",
+      "text": "Slowly, however, things got better. Her host family was patient and taught her simple phrases, and the children at the school were eager to learn. Hannah became more confident in front of a class and learned to solve problems without help. She also made close friends with other volunteers from Canada, Germany and Brazil, and they still keep in touch."
+    },
+    {
+      "id": "p4",
+      "text": "Hannah is honest about the downsides of volunteering abroad. The programme was expensive, and she had to pay for her own flights and training. She also wonders whether a few months is long enough to make a real difference to the children's education. Even so, she would recommend the experience to others, as long as they choose a responsible organisation and go with realistic expectations."
+    },
+    {
+      "id": "p5",
+      "text": "Hannah's doubts are shared by many people who work in international development. Some critics use the word 'voluntourism' to describe short trips that are more about the volunteer's own adventure than the needs of the local community. They point out that untrained volunteers sometimes do jobs that local people could do better, and could be paid for. In schools, children may also find it confusing when a new teacher arrives every few months. For these reasons, critics argue that good intentions alone are not enough."
+    },
+    {
+      "id": "p6",
+      "text": "So how can someone choose a responsible programme? Experts suggest asking a few simple questions before signing up. Does the organisation work closely with local people, and did the community itself ask for the project? Is there proper training before volunteers start? Where exactly does the money go? Volunteers should also think honestly about their own skills. Someone with experience in building, nursing or teaching may be able to help more than someone who simply wants to travel."
+    },
+    {
+      "id": "p7",
+      "text": "Now in her second year at university, Hannah is studying education and still keeps in contact with her host family through video calls. Last year she organised a charity run with her friends to raise money for new books for the village school, which the head teacher had asked for. She believes the trip changed her more than it changed the village, and she is comfortable admitting that. Her advice to anyone who is thinking of volunteering is to research programmes carefully, to go with the aim of learning as well as helping, and to be honest about what they can really offer."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the text?",
+      "options": [
+        "Volunteering abroad is a waste of time and money.",
+        "Teaching English in Nepal is easy for young people.",
+        "Hannah's time volunteering was difficult at first but valuable overall, though it had some drawbacks.",
+        "Students should always take a gap year before university."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text describes early difficulties, later improvements, and some honest downsides, while Hannah still sees the experience as rewarding.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "it was one of the most challenging and rewarding experiences of her life"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Hannah is honest about the downsides of volunteering abroad."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "How long did Hannah stay in Nepal?",
+      "options": [
+        "Four months",
+        "Four weeks",
+        "One year",
+        "Six months"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 1 says she spent four months there.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She spent four months there, living with a local family."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "Which problem did Hannah face in the first few weeks?",
+      "options": [
+        "The children did not want to learn.",
+        "Her host family was unkind.",
+        "She could not find other volunteers.",
+        "The electricity often went off in the evening."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 2 mentions no hot water and electricity cuts in the evening.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "the electricity often went off in the evening"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"homesick\" means:",
+      "options": [
+        "ill because of the food",
+        "sad because you miss your home and family",
+        "tired after a long journey",
+        "angry with your host family"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Hannah felt homesick and wanted to fly back to England, which shows she missed home.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "she felt homesick and sometimes wanted to give up and fly back to England"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can we infer about Hannah's friendships with the other volunteers?",
+      "options": [
+        "They ended when she left Nepal.",
+        "They were only with people from England.",
+        "They have lasted after the programme finished.",
+        "They made her feel more homesick."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says they still keep in touch, so the friendships continued after the programme.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "and they still keep in touch"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "Why does Hannah question the value of short volunteer programmes?",
+      "options": [
+        "She thinks a few months may not be enough to really help the children's education.",
+        "She thinks the children did not need English.",
+        "She believes volunteers should be paid more.",
+        "She thinks Nepal is too far from England."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She wonders whether a few months is long enough to make a real difference.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "She also wonders whether a few months is long enough to make a real difference to the children's education."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "Why does the writer include the final sentence of paragraph 4?",
+      "options": [
+        "To warn readers never to volunteer abroad",
+        "To give balanced advice to people thinking about volunteering",
+        "To advertise a specific organisation",
+        "To explain how much the flights cost"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After listing the downsides, Hannah still recommends volunteering but gives conditions, which is balanced advice.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "as long as they choose a responsible organisation and go with realistic expectations"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"challenging\" is closest in meaning to:",
+      "options": [
+        "boring and easy",
+        "dangerous and illegal",
+        "cheap and quick",
+        "difficult in a way that tests your abilities"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Hannah's experience was hard and tested her, as paragraph 2 shows, but it was also rewarding.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "it was one of the most challenging and rewarding experiences of her life"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "According to paragraph 3, who taught Hannah simple phrases?",
+      "options": [
+        "Her host family",
+        "The other volunteers",
+        "The children at the school",
+        "A language teacher in England"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 3 says her host family was patient and taught her simple phrases.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Her host family was patient and taught her simple phrases"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"eager\" is closest in meaning to:",
+      "options": [
+        "afraid and nervous",
+        "tired and bored",
+        "rude and noisy",
+        "keen and wanting very much to do something"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The children were eager to learn, meaning they really wanted to learn.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the children at the school were eager to learn"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Volunteers should always be paid for their work.",
+        "Local teachers do not want help from abroad.",
+        "Some critics believe short volunteer trips can help the volunteer more than the community.",
+        "International development is a popular subject at university."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 explains the idea of voluntourism and the problems critics see with short, untrained volunteer trips.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "short trips that are more about the volunteer's own adventure than the needs of the local community"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What can we infer that critics think about untrained volunteers doing local jobs?",
+      "options": [
+        "It always improves local schools.",
+        "It may take paid work away from local people.",
+        "It is the best way to train local workers.",
+        "It makes local people richer."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Critics say these are jobs that local people could do better and could be paid for, so volunteers may take that work away.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "untrained volunteers sometimes do jobs that local people could do better, and could be paid for"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "According to paragraph 5, what may children in schools find confusing?",
+      "options": [
+        "Lessons taught in their own language",
+        "Having too many books",
+        "A new teacher arriving every few months",
+        "Going to school every day"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 says children may find it confusing when a new teacher arrives every few months.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "children may also find it confusing when a new teacher arrives every few months"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the phrase \"good intentions\" refers to:",
+      "options": [
+        "a high level of skill",
+        "a sincere wish to do something helpful",
+        "a large amount of money",
+        "a long period of training"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Critics argue that wanting to help is not enough on its own; volunteers also need the right skills and approach.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "critics argue that good intentions alone are not enough"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "Which of these is one of the questions experts suggest asking before signing up?",
+      "options": [
+        "Where exactly does the money go?",
+        "How many photos can I take?",
+        "Is the weather hot there?",
+        "How many other volunteers are from my country?"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 6 lists questions including \"Where exactly does the money go?\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Where exactly does the money go?"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "According to paragraph 6, what should volunteers think about honestly?",
+      "options": [
+        "The cost of flights",
+        "Their university results",
+        "The language of the country",
+        "Their own skills"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 6 says volunteers should also think honestly about their own skills.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Volunteers should also think honestly about their own skills."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer mention building, nursing and teaching in paragraph 6?",
+      "options": [
+        "To list the only jobs that volunteers are allowed to do",
+        "To explain what Hannah studied at university",
+        "To show that volunteers with useful skills may be able to help more",
+        "To show that volunteering is only for older people"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "These are examples of experience that can make a volunteer more helpful than someone who simply wants to travel.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Someone with experience in building, nursing or teaching may be able to help more than someone who simply wants to travel."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What did Hannah organise last year?",
+      "options": [
+        "A second trip to Nepal with her friends",
+        "English lessons for her host family by video call",
+        "A new volunteer programme at her university",
+        "A charity run to raise money for books for the village school"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 7 says she organised a charity run to raise money for new books for the village school.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "she organised a charity run with her friends to raise money for new books for the village school"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "Why is it important that the head teacher had asked for the books?",
+      "options": [
+        "It shows Hannah's help responded to what the community really needed.",
+        "It shows the head teacher did not trust Hannah.",
+        "It shows the school already had too many books.",
+        "It shows Hannah wanted to become a head teacher."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 6 says good projects are ones the community asks for; Hannah's fundraising followed a request from the school.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "which the head teacher had asked for"
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "did the community itself ask for the project?"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the last paragraph?",
+      "options": [
+        "Hannah regrets going to Nepal.",
+        "Hannah's trip still affects her life, and she gives careful advice to others.",
+        "Hannah plans to live in Nepal after university.",
+        "Hannah thinks volunteering always changes villages completely."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 7 describes how Hannah stays connected and helps the school, and ends with her advice to future volunteers.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "still keeps in contact with her host family"
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "Her advice to anyone who is thinking of volunteering"
+        }
+      ]
+    }
+  ]
+}

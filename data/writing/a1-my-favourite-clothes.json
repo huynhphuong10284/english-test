@@ -1,0 +1,320 @@
+{
+  "id": "w-my-favourite-clothes",
+  "title": "My Favourite Clothes",
+  "level": "A1 · Beginner",
+  "description": "Practise have got, possessives and like + -ing, and describe your favourite clothes.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Have got",
+      "prompt": "Choose the correct word.",
+      "text": "I ___ got a red jacket.",
+      "options": [
+        "has",
+        "have",
+        "am",
+        "is"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"have got\" with I, you, we and they: I have got."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Possessive 's",
+      "prompt": "Write the word in brackets with 's.",
+      "text": "This is my ___ (brother) T-shirt.",
+      "answers": [
+        "brother's"
+      ],
+      "points": 1,
+      "explanation": "Add 's to a person to show that something belongs to them: my brother's T-shirt."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Like + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "jeans",
+        "like",
+        "I",
+        "wearing"
+      ],
+      "answers": [
+        "I like wearing jeans."
+      ],
+      "points": 1,
+      "explanation": "Subject + like + -ing form + noun: I like wearing jeans."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Present simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My shoes is black and white.",
+      "answers": [
+        "My shoes are black and white."
+      ],
+      "points": 1,
+      "explanation": "Shoes is plural, so use \"are\": my shoes are."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Present simple: negative",
+      "prompt": "Choose the correct word.",
+      "text": "My sister ___ like wearing dresses.",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "not"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "With he, she or it, make the negative with doesn't + base verb: she doesn't like."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Linking words",
+      "prompt": "Complete the sentence with and, but or because.",
+      "text": "I love my hoodie ___ it is warm and soft.",
+      "answers": [
+        "because"
+      ],
+      "points": 1,
+      "explanation": "\"Because\" gives the reason: I love it because it is warm."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Plurals",
+      "prompt": "Choose the correct answer.",
+      "text": "These ___ are too small for me.",
+      "options": [
+        "shoe",
+        "a shoe",
+        "shoes",
+        "shoe's"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"these\" with plural nouns: these shoes."
+    },
+    {
+      "id": "e8",
+      "type": "error-correction",
+      "focus": "Articles: a / an",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I have got a orange scarf.",
+      "answers": [
+        "I have got an orange scarf."
+      ],
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound: an orange scarf."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "There are",
+      "prompt": "Complete with is or are.",
+      "text": "There ___ two pockets on my jacket.",
+      "answers": [
+        "are"
+      ],
+      "points": 1,
+      "explanation": "Use \"there are\" with plural nouns: there are two pockets."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Present simple: be",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "blue",
+        "my favourite colour"
+      ],
+      "answers": [
+        "My favourite colour is blue.",
+        "Blue is my favourite colour.",
+        "Is my favourite colour blue?"
+      ],
+      "points": 1,
+      "explanation": "Subject + is + noun/adjective: My favourite colour is blue."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Possessive adjectives",
+      "prompt": "Choose the correct word.",
+      "text": "My sister loves ___ pink dress.",
+      "options": [
+        "her",
+        "she",
+        "hers",
+        "she's"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"her\" before a noun to show that something belongs to a girl or woman: her dress."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Present simple: third person -s",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My dad wear a suit to work.",
+      "answers": [
+        "My dad wears a suit to work."
+      ],
+      "points": 1,
+      "explanation": "With he, she and it, add -s to the verb: my dad wears."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Prepositions of time: in",
+      "prompt": "Choose the correct word.",
+      "text": "I wear a coat ___ winter.",
+      "options": [
+        "on",
+        "at",
+        "to",
+        "in"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"in\" with seasons: in winter, in summer."
+    },
+    {
+      "id": "e14",
+      "type": "gap-fill",
+      "focus": "Can: questions",
+      "prompt": "Complete the question.",
+      "text": "___ I wear your hat? Yes, you can.",
+      "answers": [
+        "Can"
+      ],
+      "points": 1,
+      "explanation": "Use \"Can I ...?\" to ask for permission."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "There is",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "on my T-shirt",
+        "a cat",
+        "is",
+        "there"
+      ],
+      "answers": [
+        "There is a cat on my T-shirt.",
+        "On my T-shirt there is a cat.",
+        "Is there a cat on my T-shirt?"
+      ],
+      "points": 1,
+      "explanation": "There is + a singular noun + place: There is a cat on my T-shirt."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Have got",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My brother have got a new cap.",
+      "answers": [
+        "My brother has got a new cap.",
+        "My brother's got a new cap.",
+        "My brother has a new cap."
+      ],
+      "points": 1,
+      "explanation": "Use \"has got\" with he, she and it: my brother has got."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Linking words: but",
+      "prompt": "Choose the correct word.",
+      "text": "My jeans are old, ___ I love them.",
+      "options": [
+        "and",
+        "because",
+        "but",
+        "so"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"but\" to join two different or opposite ideas."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Present simple: be (questions)",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Are this your sweater?",
+      "answers": [
+        "Is this your sweater?"
+      ],
+      "points": 1,
+      "explanation": "Use \"Is this ...?\" with one thing and \"Are these ...?\" with more than one."
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Present simple: negative",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "wear",
+        "on Sundays",
+        "don't",
+        "my uniform",
+        "I"
+      ],
+      "answers": [
+        "I don't wear my uniform on Sundays.",
+        "On Sundays I don't wear my uniform."
+      ],
+      "points": 1,
+      "explanation": "Subject + don't + verb: I don't wear my uniform."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Present simple: questions",
+      "prompt": "Complete the question with do or does.",
+      "text": "What ___ you wear to school?",
+      "answers": [
+        "do"
+      ],
+      "points": 1,
+      "explanation": "Use \"do\" in questions with I, you, we and they: What do you wear?"
+    }
+  ],
+  "task": {
+    "genre": "Short description",
+    "prompt": "Write about your favourite clothes.",
+    "contentPoints": [
+      "Say what your favourite clothes are.",
+      "Describe their colour and how they feel.",
+      "Say when you wear them.",
+      "Say why you like them."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "My favourite clothes are ...",
+      "I have got ...",
+      "It is / They are ...",
+      "I wear it/them when ...",
+      "I like it/them because ..."
+    ],
+    "modelAnswer": "My favourite clothes are my blue jeans and my green hoodie. The hoodie is big, warm and soft. I wear them at the weekend and when I go to the park. I like them because they are comfortable and I can play in them."
+  }
+}

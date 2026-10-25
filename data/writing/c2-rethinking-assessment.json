@@ -1,0 +1,315 @@
+{
+  "id": "w-rethinking-assessment",
+  "title": "Rethinking Assessment",
+  "level": "C2 · Proficiency",
+  "description": "Practise the subjunctive, inversion with \"only\" and formal collocations, then write a proposal to change how students are assessed.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Formal register",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "We would be grateful if the board ___ consider this proposal at its next meeting.",
+      "options": [
+        "will",
+        "shall",
+        "could",
+        "must"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In a polite formal request, \"would be grateful if\" is followed by \"could\" or \"would\", not \"will\" or \"must\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Subjunctive",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "It is essential that no student ___ (disadvantage) by the new system.",
+      "answers": [
+        "be disadvantaged"
+      ],
+      "points": 1,
+      "explanation": "After \"it is essential that\", formal English uses the subjunctive base form; the passive form is \"be + past participle\": be disadvantaged."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Cleft sentences",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "what",
+        "a fairer system",
+        "we",
+        "are proposing"
+      ],
+      "answers": [
+        "What we are proposing is a fairer system.",
+        "A fairer system is what we are proposing."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft focuses attention on the key idea: what we are proposing is a fairer system."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Idiomatic collocations",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Continuous assessment would take the pressure from students during exam season.",
+      "answers": [
+        "Continuous assessment would take the pressure off students during exam season."
+      ],
+      "points": 1,
+      "explanation": "The phrasal expression is \"take the pressure off someone\", meaning to reduce the stress they feel."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Inversion with \"only\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Only through ...\".",
+      "text": "Students can only show their full range of skills through varied tasks.",
+      "keyword": "only",
+      "answers": [
+        "Only through varied tasks can students show their full range of skills."
+      ],
+      "points": 1,
+      "explanation": "When \"only + prepositional phrase\" begins a sentence, the auxiliary comes before the subject: only through varied tasks can students show ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Hedging",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"There is ...\".",
+      "text": "It seems likely that the change will improve results.",
+      "keyword": "every",
+      "answers": [
+        "There is every likelihood that the change will improve results.",
+        "There is every chance that the change will improve results.",
+        "There is every reason to believe that the change will improve results."
+      ],
+      "points": 1,
+      "explanation": "\"There is every likelihood / chance that ...\" expresses strong but not absolute probability, which suits a cautious proposal."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Exam stress ...\".",
+      "text": "Exam stress has a serious effect on many students.",
+      "keyword": "toll",
+      "answers": [
+        "Exam stress takes a serious toll on many students.",
+        "Exam stress takes a heavy toll on many students.",
+        "Exam stress takes its toll on many students."
+      ],
+      "points": 1,
+      "explanation": "\"Take a (heavy) toll on\" means to have a serious harmful effect on someone or something."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Substitution",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "If the pilot succeeds, we will extend it; if ___, we will review our approach.",
+      "answers": [
+        "not"
+      ],
+      "points": 1,
+      "explanation": "\"Not\" can replace a whole negative clause after \"if\": if not = if the pilot does not succeed."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Final exams place undue emphasis ___ memorisation at the expense of understanding.",
+      "options": [
+        "on",
+        "at",
+        "to",
+        "for"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We \"place emphasis on\" something (also \"put emphasis on\"). \"Undue\" means more than is reasonable."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Many teachers question the ___ (valid) of a single three-hour exam as a measure of ability.",
+      "answers": [
+        "validity"
+      ],
+      "points": 1,
+      "explanation": "The noun from \"valid\" is \"validity\". In assessment, \"validity\" means how well a test measures what it claims to measure."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Preposition + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We are committed to improve the fairness of assessment.",
+      "answers": [
+        "We are committed to improving the fairness of assessment."
+      ],
+      "points": 1,
+      "explanation": "In \"committed to\", \"to\" is a preposition, so it is followed by an -ing form: committed to improving."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Inversion with \"in no way\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"In ...\".",
+      "text": "The proposal does not in any way lower academic standards.",
+      "keyword": "way",
+      "answers": [
+        "In no way does the proposal lower academic standards."
+      ],
+      "points": 1,
+      "explanation": "Fronted negative phrases such as \"in no way\" are followed by inversion: in no way does the proposal lower ..."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Formal register",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "A portfolio-based approach would ___ students to reflect on their progress over time.",
+      "options": [
+        "make",
+        "enable",
+        "let",
+        "ensure"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Enable + object + to-infinitive\" is the formal pattern. \"Make\" and \"let\" take an infinitive without \"to\", and \"ensure\" cannot be followed by an object + to-infinitive."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Fronting",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "the proposal",
+        "central to",
+        "the idea",
+        "that",
+        "is a process",
+        "learning"
+      ],
+      "answers": [
+        "Central to the proposal is the idea that learning is a process.",
+        "The idea that learning is a process is central to the proposal."
+      ],
+      "points": 1,
+      "explanation": "An adjective phrase such as \"central to the proposal\" can be fronted, with the verb before a long subject: central to the proposal is the idea that ..."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Fixed phrases with prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The current system places students from poorer backgrounds in a disadvantage.",
+      "answers": [
+        "The current system places students from poorer backgrounds at a disadvantage."
+      ],
+      "points": 1,
+      "explanation": "The fixed phrase is \"at a disadvantage\" (compare \"at an advantage\", \"at risk\")."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Formal register",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"It should ...\".",
+      "text": "Remember that not all students perform well under time pressure.",
+      "keyword": "borne",
+      "answers": [
+        "It should be borne in mind that not all students perform well under time pressure."
+      ],
+      "points": 1,
+      "explanation": "\"Bear in mind\" means remember or consider. In the passive it becomes \"it should be borne in mind that ...\", a typical formal structure."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Idiomatic collocations",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "High-stakes exams can ___ havoc with students' mental health.",
+      "options": [
+        "make",
+        "do",
+        "take",
+        "play"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "To \"play havoc with\" something means to damage it or throw it into disorder. \"Wreak havoc on\" has a similar meaning."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Phrasal verbs",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "These changes could be phased ___ gradually over two academic years. (one word, beginning with I)",
+      "answers": [
+        "in"
+      ],
+      "points": 1,
+      "explanation": "To \"phase in\" a change means to introduce it gradually, in stages; the opposite is \"phase out\"."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Concessive inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Efficient ...\".",
+      "text": "Although exams are efficient to mark, they reveal little about real understanding.",
+      "keyword": "though",
+      "answers": [
+        "Efficient though exams are to mark, they reveal little about real understanding.",
+        "Efficient though exams may be to mark, they reveal little about real understanding.",
+        "Efficient to mark though exams are, they reveal little about real understanding.",
+        "Efficient to mark though exams may be, they reveal little about real understanding."
+      ],
+      "points": 1,
+      "explanation": "In \"adjective + though/as + subject + verb\", the adjective is fronted for emphasis: efficient though exams are to mark, ..."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Commonly confused words",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The board should ensure that the new system is implemented in a timely matter.",
+      "answers": [
+        "The board should ensure that the new system is implemented in a timely manner."
+      ],
+      "points": 1,
+      "explanation": "The fixed phrase is \"in a timely manner\" (= quickly, without delay). \"Matter\" means an issue or subject."
+    }
+  ],
+  "task": {
+    "genre": "Proposal",
+    "prompt": "Your school's academic board is considering changes to how students are assessed. Write a proposal suggesting an alternative to relying mainly on final written exams.",
+    "contentPoints": [
+      "Explain the weaknesses of the current system of assessment.",
+      "Describe the alternative you are proposing.",
+      "Explain how the change would benefit students and teachers.",
+      "Address a possible objection and suggest how to introduce the change."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "The purpose of this proposal is to ...",
+      "What we are proposing is ...",
+      "It is essential that ...",
+      "Only through ... can ...",
+      "There is every likelihood that ...",
+      "We would be grateful if ..."
+    ],
+    "modelAnswer": "Purpose\nThe purpose of this proposal is to recommend that the school reduce its reliance on final written examinations and introduce a broader system of continuous assessment.\n\nThe current situation\nAt present, most of a student's final grade depends on a small number of timed papers taken in a single fortnight. This system rewards the ability to memorise and perform under pressure, but it says little about a student's capacity for research, collaboration or sustained independent work. Moreover, exam stress takes a heavy toll on many students, and a single bad day can undo two years of effort.\n\nOur proposal\nWhat we are proposing is a combined model. Final exams would remain, but would account for no more than half of the overall grade. The remainder would come from a portfolio including an extended research project, an oral presentation and two pieces of assessed coursework completed over the year. Only through varied tasks of this kind can students demonstrate their full range of skills.\n\nBenefits\nThere is every likelihood that such a system would produce a fairer picture of each student's abilities. It would also encourage steady work rather than last-minute cramming.\n\nPossible objections\nIt might be objected that coursework is open to plagiarism and places a heavier marking load on staff. These concerns are legitimate. To address them, we suggest that part of each project be completed under supervision, that every portfolio include a short interview in which students discuss their work, and that teachers be given additional marking time. It is essential that no student be disadvantaged during the transition.\n\nImplementation\nWe recommend piloting the scheme in the History and Science departments next year. If the pilot succeeds, it could be extended; if not, the findings would still inform future policy. We would be grateful if the board could consider this proposal at its next meeting."
+  }
+}

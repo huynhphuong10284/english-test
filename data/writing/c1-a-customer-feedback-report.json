@@ -1,0 +1,335 @@
+{
+  "id": "w-a-customer-feedback-report",
+  "title": "A Customer Feedback Report",
+  "level": "C1 · Advanced",
+  "description": "Practise reporting passives, nominalisation and inversion, then write a report summarising customer feedback for a company.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Advanced passives",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Delivery times ___ to have improved since the new warehouse opened.",
+      "options": [
+        "report",
+        "have reported",
+        "are reported",
+        "are reporting"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Subject + be reported + to-infinitive is an impersonal passive structure used to present information in reports."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "A ___ (signify) number of customers complained about hidden charges.",
+      "answers": [
+        "significant"
+      ],
+      "points": 1,
+      "explanation": "An adjective is needed before the noun \"number\": a significant number of ..."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Inversion with \"Rarely\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "made",
+        "about",
+        "were",
+        "staff",
+        "complaints",
+        "rarely"
+      ],
+      "answers": [
+        "Rarely were complaints made about staff.",
+        "Complaints were rarely made about staff."
+      ],
+      "points": 1,
+      "explanation": "When \"Rarely\" starts the sentence for emphasis, the auxiliary comes before the subject: Rarely were complaints made ..."
+    },
+    {
+      "id": "e4",
+      "type": "transformation",
+      "focus": "Nominalisation",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The ___ the long waiting times.\"",
+      "text": "Customers mostly complained about the long waiting times.",
+      "keyword": "MAIN",
+      "answers": [
+        "The main complaint from customers was the long waiting times.",
+        "The main complaint from customers was about the long waiting times.",
+        "The main customer complaint was the long waiting times.",
+        "The main complaint of customers was the long waiting times.",
+        "The main complaint among customers was the long waiting times.",
+        "The main complaint made by customers was the long waiting times.",
+        "The customers' main complaint was the long waiting times.",
+        "The customers' main complaint was about the long waiting times.",
+        "The main complaint customers made was about the long waiting times.",
+        "The main thing customers complained about was the long waiting times.",
+        "The main thing that customers complained about was the long waiting times."
+      ],
+      "points": 1,
+      "explanation": "Nominalisation turns the verb \"complain\" into the noun \"complaint\", so the sentence can begin with a noun phrase: The main complaint from customers was ..."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Cleft sentences",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It was the delivery charges what annoyed customers most.",
+      "answers": [
+        "It was the delivery charges that annoyed customers most.",
+        "It was the delivery charges which annoyed customers most."
+      ],
+      "points": 1,
+      "explanation": "In an \"it\" cleft, the clause after the focus is introduced by \"that\" (or \"which\"/\"who\"), never \"what\"."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Cohesion",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Online orders rose by 20%. ___, the number of complaints fell.",
+      "options": [
+        "Notwithstanding",
+        "At the same time",
+        "By the same token",
+        "To this end"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"At the same time\" links two developments that happened together. \"To this end\" introduces a purpose, and \"Notwithstanding\" needs a noun phrase."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Inversion with \"Under no circumstances\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Under ___ without a receipt.\"",
+      "text": "We will never give refunds without a receipt.",
+      "keyword": "CIRCUMSTANCES",
+      "answers": [
+        "Under no circumstances will we give refunds without a receipt.",
+        "Under no circumstances will refunds be given without a receipt.",
+        "Under no circumstances will we give a refund without a receipt."
+      ],
+      "points": 1,
+      "explanation": "After \"Under no circumstances\" at the start of a sentence, the auxiliary comes before the subject: Under no circumstances will we ..."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "We recommend that staff receive training in how to ___ (h) complaints effectively.",
+      "answers": [
+        "handle"
+      ],
+      "points": 1,
+      "explanation": "\"Handle complaints\" is a common business collocation meaning to deal with them."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Many customers were dissatisfied ___ the returns process.",
+      "options": [
+        "with",
+        "of",
+        "for",
+        "by"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The adjective \"dissatisfied\" is followed by \"with\": dissatisfied with a service."
+    },
+    {
+      "id": "e10",
+      "type": "transformation",
+      "focus": "Inversion with \"Only by\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ regain customers' trust.\"",
+      "text": "We will only regain customers' trust by improving delivery.",
+      "keyword": "ONLY",
+      "answers": [
+        "Only by improving delivery will we regain customers' trust.",
+        "Only by improving delivery can we regain customers' trust.",
+        "Only by improving deliveries will we regain customers' trust.",
+        "Only by improving our delivery will we regain customers' trust."
+      ],
+      "points": 1,
+      "explanation": "When \"Only by + -ing\" starts a sentence, the main clause is inverted: will we regain."
+    },
+    {
+      "id": "e11",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Customers praised the ___ (responsive) of our live chat service.",
+      "answers": [
+        "responsiveness"
+      ],
+      "points": 1,
+      "explanation": "After \"the\" and before \"of\" we need a noun: responsive becomes responsiveness."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Several customers complained for the lack of tracking information.",
+      "answers": [
+        "Several customers complained about the lack of tracking information.",
+        "Several customers complained of the lack of tracking information."
+      ],
+      "points": 1,
+      "explanation": "We complain \"about\" (or, more formally, \"of\") something, never \"for\" it."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Cleft sentences with \"The reason why\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "was",
+        "the main reason",
+        "the lack of",
+        "customers left",
+        "why",
+        "follow-up"
+      ],
+      "answers": [
+        "The main reason why customers left was the lack of follow-up.",
+        "The lack of follow-up was the main reason why customers left."
+      ],
+      "points": 1,
+      "explanation": "A \"reason why\" cleft (The reason why + clause + was + focus) highlights the cause of something."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Advanced passives",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The website ___ to navigate.\"",
+      "text": "Customers say that the website is difficult to navigate.",
+      "keyword": "SAID",
+      "answers": [
+        "The website is said to be difficult to navigate.",
+        "The website is said to be hard to navigate."
+      ],
+      "points": 1,
+      "explanation": "An impersonal report can be turned into subject + is said + to-infinitive: The website is said to be ..."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Relative clauses with quantifiers",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Fewer customers than expected used the live chat, the majority of who preferred email.",
+      "answers": [
+        "Fewer customers than expected used the live chat, the majority of whom preferred email."
+      ],
+      "points": 1,
+      "explanation": "After a quantifier + \"of\" (most of, the majority of, some of), use \"whom\" for people, not \"who\"."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Cohesion",
+      "prompt": "Complete the gap with one suitable word or phrase.",
+      "text": "In ___ of these findings, we recommend extending the returns period to 60 days.",
+      "answers": [
+        "light",
+        "view"
+      ],
+      "points": 1,
+      "explanation": "\"In light of\" and \"In view of\" mean \"considering\" and introduce the reason for a recommendation."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Passive infinitive",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "clearer",
+        "to be",
+        "the returns policy",
+        "made",
+        "needs"
+      ],
+      "answers": [
+        "The returns policy needs to be made clearer."
+      ],
+      "points": 1,
+      "explanation": "After \"need\", a passive infinitive (to be + past participle) shows that something must be done to the subject."
+    },
+    {
+      "id": "e18",
+      "type": "choice",
+      "focus": "Reporting verbs",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The feedback ___ that customers value speed more than price.",
+      "options": [
+        "tells",
+        "speaks",
+        "talks",
+        "indicates"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Indicate that\" is a formal reporting verb typical of reports; tell needs a person object, and speak/talk are not followed by a that-clause."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Our delivery times compare favourable with those of our competitors.",
+      "answers": [
+        "Our delivery times compare favourably with those of our competitors."
+      ],
+      "points": 1,
+      "explanation": "An adverb is needed to modify the verb \"compare\": compare favourably with something."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Nominalisation",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The rise in complaints ___ courier.\"",
+      "text": "Complaints rose because the company changed its courier.",
+      "keyword": "DUE",
+      "answers": [
+        "The rise in complaints was due to the change of courier.",
+        "The rise in complaints was due to the change in courier.",
+        "The rise in complaints was due to a change of courier.",
+        "The rise in complaints was due to a change in courier."
+      ],
+      "points": 1,
+      "explanation": "Turning the clause \"the company changed its courier\" into the noun phrase \"the change of courier\" allows us to use \"due to + noun\"."
+    }
+  ],
+  "task": {
+    "genre": "Report",
+    "prompt": "You work for an online store. Your manager has asked you to write a report summarising customer feedback from the last six months and recommending improvements.",
+    "contentPoints": [
+      "Summarise what customers were satisfied with.",
+      "Describe the main areas of complaint.",
+      "Make at least two recommendations.",
+      "Say what results the recommendations should bring."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "This report summarises ...",
+      "Overall, customers expressed ...",
+      "The main complaint from customers was ...",
+      "A significant number of ...",
+      "In light of these findings, ...",
+      "Were these recommendations to be implemented, ..."
+    ],
+    "modelAnswer": "Introduction\n\nThis report summarises customer feedback received by our online store between January and June, and makes recommendations for improving our service. The findings are based on 1,200 online reviews and 340 complaints submitted through our website.\n\nPositive feedback\n\nOverall, customers expressed a high level of satisfaction with the range and quality of our products. Delivery times are reported to have improved considerably since the new warehouse opened in February, and rarely were complaints made about the politeness of our staff.\n\nMain areas of concern\n\nThe main complaint from customers was the long waiting time on our telephone helpline, with some callers waiting over twenty minutes. A significant number of customers also complained about delivery charges that were not shown until the final stage of the order. It was these hidden charges that caused the greatest frustration.\n\nRecommendations\n\nIn light of these findings, I would make the following recommendations:\n- Additional staff should be employed during peak hours to reduce waiting times.\n- All delivery charges should be displayed clearly on each product page.\n- Customer service staff should receive training in how to handle complaints effectively.\n\nConclusion\n\nAlthough the overall picture is encouraging, there is clearly room for improvement. Were these recommendations to be implemented, we would expect to see a marked reduction in complaints, together with greater customer loyalty, within the next six months."
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "id": "the-cooking-class",
+  "title": "The Cooking Class",
+  "level": "A2 · Elementary",
+  "description": "A man who cannot cook joins an evening cooking class.",
+  "instructions": "Read the text about a cooking class, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Daniel is thirty years old, and he lives alone in a small flat. For many years, he ate pizza or noodles from the shop every evening. He did not know how to cook anything. One day, his doctor told him to eat more fresh food."
+    },
+    {
+      "id": "p2",
+      "text": "So Daniel joined a cooking class at the community centre. The class is on Wednesday evenings from seven to nine. There are eight students, and the teacher is a friendly woman called Rosa. In the first lesson, they learned how to make a simple vegetable soup."
+    },
+    {
+      "id": "p3",
+      "text": "Daniel was nervous at first. He cut the carrots too slowly, and he put too much salt in his soup. Rosa laughed kindly and showed him how to fix it. At the end of the lesson, everyone ate their soup together at a long table."
+    },
+    {
+      "id": "p4",
+      "text": "Now Daniel cooks at home three or four times a week. His favourite dish is chicken with rice and green beans. Last Sunday, he invited his sister for dinner for the first time. She was surprised and asked for the recipe."
+    },
+    {
+      "id": "p5",
+      "text": "His sister was not the only surprised person. At work, Daniel's colleagues noticed that he brought his own lunch every day. Sometimes it was soup, and sometimes it was a salad with eggs and tomatoes. One colleague, Tom, asked Daniel to teach him some easy dishes. Daniel laughed, because only a few months ago he could not even boil an egg."
+    },
+    {
+      "id": "p6",
+      "text": "After six months, Daniel went back to his doctor. The doctor was very happy with him. Daniel was lighter, and he felt much healthier. 'What did you change?' the doctor asked. Daniel told her about Rosa's class and his new hobby. 'Cooking is cheaper than buying food from the shop too,' he said with a smile."
+    },
+    {
+      "id": "p7",
+      "text": "Now Daniel is in a new class for better cooks. He is learning to make bread and fish dishes. Rosa sometimes asks him to help the new students when they are nervous. Daniel tells them, 'I was the worst cook in the class, and now I love it. Don't worry about mistakes!' Next month, he is going to cook a big dinner for his whole family, and he is already planning the menu."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the best title for the text?",
+      "options": [
+        "A Visit to the Doctor",
+        "Daniel Learns to Cook",
+        "The Best Pizza Shop in Town",
+        "Rosa's New Restaurant"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text tells how Daniel, who could not cook, takes a class and starts cooking at home.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "He did not know how to cook anything."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Now Daniel cooks at home three or four times a week."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "purpose",
+      "text": "Why does the writer mention Daniel's doctor?",
+      "options": [
+        "To show that Daniel works in a hospital",
+        "To explain why Daniel lives alone",
+        "To show that Daniel likes pizza",
+        "To explain why Daniel decided to learn to cook"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The doctor told him to eat more fresh food, and so he joined the cooking class.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "his doctor told him to eat more fresh food"
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "So Daniel joined a cooking class at the community centre."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What did the students make in the first lesson?",
+      "options": [
+        "Vegetable soup",
+        "Chicken with rice",
+        "Pizza",
+        "Noodles"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "In the first lesson they learned how to make a simple vegetable soup.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "they learned how to make a simple vegetable soup"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"nervous\" is closest in meaning to...",
+      "options": [
+        "very hungry",
+        "very happy",
+        "a little worried",
+        "a little bored"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Daniel was new and made mistakes, so he felt a little worried at first.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Daniel was nervous at first."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can we understand about Daniel's cooking now?",
+      "options": [
+        "It is still very bad",
+        "It has become quite good",
+        "He only cooks soup",
+        "He cooks only at the class"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His sister was surprised and asked for the recipe, which suggests his food is good now.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "She was surprised and asked for the recipe."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "When is the cooking class?",
+      "options": [
+        "On Sunday mornings",
+        "On Friday afternoons",
+        "Every evening",
+        "On Wednesday evenings"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The class is on Wednesday evenings from seven to nine.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The class is on Wednesday evenings from seven to nine."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What did Daniel eat every evening before the class?",
+      "options": [
+        "Pizza or noodles from the shop",
+        "Vegetable soup",
+        "Chicken with rice",
+        "Salad with eggs"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "For many years he ate pizza or noodles from the shop every evening.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "he ate pizza or noodles from the shop every evening"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Where is the cooking class?",
+      "options": [
+        "At Daniel's flat",
+        "At a restaurant",
+        "At the community centre",
+        "At the hospital"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Daniel joined a cooking class at the community centre.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "So Daniel joined a cooking class at the community centre."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"friendly\" is closest in meaning to...",
+      "options": [
+        "kind and nice to people",
+        "strict and serious",
+        "very busy",
+        "very young"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Rosa is kind and nice to her students.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "the teacher is a friendly woman called Rosa"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What mistake did Daniel make with his soup?",
+      "options": [
+        "He burned the carrots",
+        "He forgot to add water",
+        "He made it too cold",
+        "He put too much salt in it"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He put too much salt in his soup.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "he put too much salt in his soup"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What can we understand about Rosa from paragraph 3?",
+      "options": [
+        "She was angry with Daniel",
+        "She did not make Daniel feel bad about his mistakes",
+        "She did not see his mistakes",
+        "She told him to leave the class"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She laughed kindly and helped him fix the soup.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Rosa laughed kindly and showed him how to fix it."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"recipe\" means...",
+      "options": [
+        "the bill at a restaurant",
+        "a list of shops",
+        "a kind of green bean",
+        "the instructions for making a dish"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "His sister wanted to know how to make the dish.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "She was surprised and asked for the recipe."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"noticed\" is closest in meaning to...",
+      "options": [
+        "forgot",
+        "hated",
+        "saw",
+        "cooked"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "His colleagues saw that he brought his own lunch every day.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Daniel's colleagues noticed that he brought his own lunch every day"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "When did Daniel go back to his doctor?",
+      "options": [
+        "After six months",
+        "After one week",
+        "After two years",
+        "After the first lesson"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After six months, Daniel went back to his doctor.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "After six months, Daniel went back to his doctor."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What can we understand from \"Daniel was lighter\"?",
+      "options": [
+        "He was wearing lighter clothes",
+        "He was carrying less food",
+        "He lost some weight",
+        "His flat had more lights"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Daniel was lighter and healthier because he ate fresh food.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Daniel was lighter, and he felt much healthier."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"hobby\" means...",
+      "options": [
+        "a job that pays a lot of money",
+        "something you enjoy doing in your free time",
+        "a kind of medicine",
+        "a problem with your health"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Cooking is now something Daniel enjoys doing in his free time.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Daniel told her about Rosa's class and his new hobby."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does Daniel say \"Cooking is cheaper than buying food from the shop too\"?",
+      "options": [
+        "To give another good reason for cooking at home",
+        "To show that the cooking class is expensive",
+        "To explain why the doctor was angry",
+        "To show that he has no money"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Cooking is healthier, and it also saves money: another good reason.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "'Cooking is cheaper than buying food from the shop too,'"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What is Daniel learning to make in his new class?",
+      "options": [
+        "Pizza and noodles",
+        "Bread and fish dishes",
+        "Cakes and biscuits",
+        "Vegetable soup"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He is learning to make bread and fish dishes.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "He is learning to make bread and fish dishes."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What can we say about Rosa's opinion of Daniel now?",
+      "options": [
+        "She thinks he is still a bad cook",
+        "She wants him to leave her class",
+        "She thinks he talks too much",
+        "She trusts him to help other students"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Rosa asks Daniel to help new students, so she trusts him.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Rosa sometimes asks him to help the new students when they are nervous."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why does Daniel tell new students that he was the worst cook in the class?",
+      "options": [
+        "To show that Rosa is a bad teacher",
+        "To make them laugh at him",
+        "To help them feel less nervous",
+        "To explain why he left the class"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He wants them to see that they can learn too and not worry about mistakes.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "'I was the worst cook in the class, and now I love it. Don't worry about mistakes!'"
+        }
+      ]
+    }
+  ]
+}

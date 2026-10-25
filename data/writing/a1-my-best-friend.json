@@ -1,0 +1,319 @@
+{
+  "id": "w-my-best-friend",
+  "title": "My Best Friend",
+  "level": "A1 · Beginner",
+  "description": "Practise simple present sentences and write a short description of a friend.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present simple: be",
+      "prompt": "Choose the correct word.",
+      "text": "My friend Anna ___ twelve years old.",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"is\" with he, she, it and one person's name: Anna is twelve."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present simple: third person -s",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "She ___ (like) music and dancing.",
+      "answers": [
+        "likes"
+      ],
+      "points": 1,
+      "explanation": "With he, she or it, add -s to the verb: she likes."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Word order",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "hair",
+        "has",
+        "long",
+        "she",
+        "brown"
+      ],
+      "answers": [
+        "She has long brown hair."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + adjectives + noun: She has long brown hair. Size (long) comes before colour (brown)."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Present simple: third person -s",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "He play football every Saturday.",
+      "answers": [
+        "He plays football every Saturday."
+      ],
+      "points": 1,
+      "explanation": "With he, the verb needs -s: he plays."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the best word to join the ideas.",
+      "text": "Tom is funny ___ kind.",
+      "options": [
+        "and",
+        "but",
+        "because",
+        "or"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"And\" joins two similar, positive ideas: funny and kind."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Possessive adjectives",
+      "prompt": "Complete the sentence with one word: his, her or their.",
+      "text": "Ben lives with ___ parents in a small house.",
+      "answers": [
+        "his"
+      ],
+      "points": 1,
+      "explanation": "Ben is a boy, so we use \"his\": his parents."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Have got: he / she / it",
+      "prompt": "Choose the correct word.",
+      "text": "My best friend ___ got blue eyes.",
+      "options": [
+        "have",
+        "is",
+        "has",
+        "are"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"has got\" with he, she and it: my best friend has got."
+    },
+    {
+      "id": "e8",
+      "type": "error-correction",
+      "focus": "Possessive 's",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My friends name is Sam.",
+      "answers": [
+        "My friend's name is Sam."
+      ],
+      "points": 1,
+      "explanation": "Add 's to a person to show that something belongs to them: my friend's name."
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Can",
+      "prompt": "Complete with can or can't.",
+      "text": "Anna is very clever. She ___ speak three languages!",
+      "answers": [
+        "can"
+      ],
+      "points": 1,
+      "explanation": "Use \"can\" + verb for an ability: she can speak."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Like + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "books",
+        "she",
+        "reading",
+        "likes"
+      ],
+      "answers": [
+        "She likes reading books."
+      ],
+      "points": 1,
+      "explanation": "Like + verb-ing, and add -s for he/she: she likes reading."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Prepositions of time: in",
+      "prompt": "Choose the correct word.",
+      "text": "Her birthday is ___ June.",
+      "options": [
+        "on",
+        "at",
+        "to",
+        "in"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"in\" with months: in June."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Present simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We is in the same class.",
+      "answers": [
+        "We are in the same class."
+      ],
+      "points": 1,
+      "explanation": "Use \"are\" with we, you and they: we are."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Linking words: but",
+      "prompt": "Choose the correct word.",
+      "text": "He is small, ___ he is very strong.",
+      "options": [
+        "and",
+        "because",
+        "but",
+        "so"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"but\" to join two different or opposite ideas."
+    },
+    {
+      "id": "e14",
+      "type": "gap-fill",
+      "focus": "Present simple: questions",
+      "prompt": "Complete the question with Do or Does.",
+      "text": "___ your friend live near you?",
+      "answers": [
+        "Does"
+      ],
+      "points": 1,
+      "explanation": "Use \"Does\" in questions with he, she and it: Does your friend live ...?"
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Prepositions of place",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "sits",
+        "in class",
+        "he",
+        "me",
+        "next to"
+      ],
+      "answers": [
+        "He sits next to me in class.",
+        "In class he sits next to me."
+      ],
+      "points": 1,
+      "explanation": "Use \"next to\" for a place beside someone: He sits next to me."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Articles: a / an",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "She has got a orange bike.",
+      "answers": [
+        "She has got an orange bike.",
+        "She's got an orange bike."
+      ],
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound: an orange bike."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Possessive adjectives",
+      "prompt": "Choose the correct word.",
+      "text": "Tom and Jack are brothers. ___ dog is called Rex.",
+      "options": [
+        "They",
+        "Their",
+        "There",
+        "Them"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"their\" before a noun to show that something belongs to them: their dog."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Plurals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "She has got two little brother.",
+      "answers": [
+        "She has got two little brothers.",
+        "She's got two little brothers."
+      ],
+      "points": 1,
+      "explanation": "After a number bigger than one, add -s to the noun: two brothers."
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Present simple: be",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "funny",
+        "my best friend",
+        "very",
+        "is"
+      ],
+      "answers": [
+        "My best friend is very funny.",
+        "Is my best friend very funny?"
+      ],
+      "points": 1,
+      "explanation": "Subject + is + very + adjective: My best friend is very funny."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Present simple: negative",
+      "prompt": "Complete with the negative form of the verb in brackets.",
+      "text": "Sam ___ (not / like) football.",
+      "answers": [
+        "doesn't like",
+        "does not like"
+      ],
+      "points": 1,
+      "explanation": "With he, she and it, make the negative with doesn't (does not) + verb: Sam doesn't like."
+    }
+  ],
+  "task": {
+    "genre": "Short description",
+    "prompt": "Write about your best friend.",
+    "contentPoints": [
+      "Say your friend's name and age.",
+      "Describe what your friend looks like.",
+      "Say what your friend likes doing.",
+      "Say why you like your friend."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "My best friend is ...",
+      "He/She has ...",
+      "He/She likes ...",
+      "I like him/her because ..."
+    ],
+    "modelAnswer": "My best friend is Lucy. She is eleven years old. She has short black hair and big brown eyes. Lucy likes reading and riding her bike. We play in the park after school. I like her because she is funny and kind."
+  }
+}

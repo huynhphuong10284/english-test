@@ -1,0 +1,320 @@
+{
+  "id": "w-should-cities-ban-cars",
+  "title": "Should Cities Ban Cars?",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise formal linking, passives and conditionals, then write an opinion essay about car-free city centres.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "Cars are convenient for many families. ___, they cause serious pollution in city centres.",
+      "options": [
+        "Consequently",
+        "Nevertheless",
+        "Whereas",
+        "Because"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Nevertheless\" introduces a contrasting point after a full stop. \"Whereas\" and \"because\" join two clauses inside one sentence, and \"consequently\" shows a result."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Passive voice",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Last year, private cars ___ (ban) from the old town centre.",
+      "answers": [
+        "were banned"
+      ],
+      "points": 1,
+      "explanation": "Use the past simple passive (was/were + past participle) for a finished past action when the doer is not important: cars were banned."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Passive voice",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "opened",
+        "will",
+        "to cyclists",
+        "the new bridge",
+        "be",
+        "next year"
+      ],
+      "answers": [
+        "The new bridge will be opened to cyclists next year.",
+        "Next year the new bridge will be opened to cyclists.",
+        "The new bridge will be opened next year to cyclists."
+      ],
+      "points": 1,
+      "explanation": "The future passive is will + be + past participle: the new bridge will be opened."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Third conditional",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "If the city had invested in trams earlier, the traffic would not have get so bad.",
+      "answers": [
+        "If the city had invested in trams earlier, the traffic would not have got so bad.",
+        "If the city had invested in trams earlier, the traffic would not have gotten so bad.",
+        "If the city had invested in trams earlier, the traffic wouldn't have got so bad.",
+        "If the city had invested in trams earlier, the traffic wouldn't have gotten so bad."
+      ],
+      "points": 1,
+      "explanation": "In the third conditional the result clause is would (not) have + past participle: would not have got (or gotten)."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Contrast: whereas",
+      "prompt": "Choose the correct answer.",
+      "text": "Some residents support the plan, ___ others are strongly against it.",
+      "options": [
+        "however",
+        "despite",
+        "whereas",
+        "consequently"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Whereas\" joins two contrasting clauses in one sentence. \"However\" needs a new sentence or a semicolon, and \"despite\" is followed by a noun or -ing form."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Participle clauses",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "___ (live) next to a busy road, I know how harmful traffic noise can be.",
+      "answers": [
+        "Living"
+      ],
+      "points": 1,
+      "explanation": "A present participle clause (Living ...) can replace \"Because I live ...\" when both clauses have the same subject."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Passive reporting verbs",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Cars ___ the main cause of air pollution in the city.\"",
+      "text": "People say that cars are the main cause of air pollution in the city.",
+      "keyword": "SAID",
+      "answers": [
+        "Cars are said to be the main cause of air pollution in the city."
+      ],
+      "points": 1,
+      "explanation": "After passive reporting verbs (be said, be thought, be believed) use the infinitive: cars are said to be ..."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Wish / if only",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"I ___ to work today.\"",
+      "text": "I'm sorry that I didn't cycle to work today.",
+      "keyword": "WISH",
+      "answers": [
+        "I wish I had cycled to work today.",
+        "I wish I'd cycled to work today."
+      ],
+      "points": 1,
+      "explanation": "To express regret about the past, use wish + past perfect: I wish I had cycled."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Modals of deduction",
+      "prompt": "Choose the correct answer.",
+      "text": "The roads ___ be much quieter on Sundays because most shops are closed.",
+      "options": [
+        "must",
+        "can't",
+        "needn't",
+        "mustn't"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Must + infinitive expresses a logical deduction about the present."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Air ___ (pollute) is a serious problem in many big cities.",
+      "answers": [
+        "pollution"
+      ],
+      "points": 1,
+      "explanation": "The noun formed from pollute is pollution."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Conditional linkers: provided that",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "leave their cars at home",
+        "public transport",
+        "will",
+        "provided that",
+        "people",
+        "improves"
+      ],
+      "answers": [
+        "People will leave their cars at home provided that public transport improves.",
+        "Provided that public transport improves, people will leave their cars at home."
+      ],
+      "points": 1,
+      "explanation": "Provided that means only if; like if, it is followed by a present tense when talking about the future."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Articles",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Bicycle is the fastest way to get around the city centre.",
+      "answers": [
+        "A bicycle is the fastest way to get around the city centre.",
+        "The bicycle is the fastest way to get around the city centre."
+      ],
+      "points": 1,
+      "explanation": "A singular countable noun needs an article: a bicycle (one example) or the bicycle (the type of vehicle in general)."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Mixed conditionals",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"If the city had built a ring road, the centre ___ crowded.\"",
+      "text": "The centre is so crowded because the city didn't build a ring road.",
+      "keyword": "WOULD",
+      "answers": [
+        "If the city had built a ring road, the centre would not be so crowded."
+      ],
+      "points": 1,
+      "explanation": "A mixed conditional links a past condition (had built) to a present result (would not be)."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct answer.",
+      "text": "Every morning there is ___ traffic on the main road.",
+      "options": [
+        "strong",
+        "big",
+        "hard",
+        "heavy"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The usual collocation is heavy traffic."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Participle clauses (passive)",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "___ (face) with rising pollution, the city introduced a congestion charge.",
+      "answers": [
+        "Faced"
+      ],
+      "points": 1,
+      "explanation": "The city was faced with pollution, so a passive past participle clause is used: Faced with ..."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Not only ... but also",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "pollute the air",
+        "they also",
+        "but",
+        "do",
+        "not only",
+        "cars",
+        "cause accidents"
+      ],
+      "answers": [
+        "Not only do cars pollute the air, but they also cause accidents."
+      ],
+      "points": 1,
+      "explanation": "When a sentence begins with Not only, the subject and auxiliary are inverted: Not only do cars ..."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Passive voice (future)",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Drivers will be charge 10 euros a day to enter the centre.",
+      "answers": [
+        "Drivers will be charged 10 euros a day to enter the centre."
+      ],
+      "points": 1,
+      "explanation": "The future passive is will be + past participle: will be charged."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Collocations: in favour of",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Most residents ___ the plan to ban cars.\"",
+      "text": "Most residents support the plan to ban cars.",
+      "keyword": "FAVOUR",
+      "answers": [
+        "Most residents are in favour of the plan to ban cars."
+      ],
+      "points": 1,
+      "explanation": "Be in favour of something means support it."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Get used to + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Many people can't get used to cycle in the rain.",
+      "answers": [
+        "Many people can't get used to cycling in the rain."
+      ],
+      "points": 1,
+      "explanation": "In get used to, to is a preposition, so it is followed by the -ing form."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Passive: going to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The main square ___ to traffic.\"",
+      "text": "They are going to close the main square to traffic.",
+      "keyword": "CLOSED",
+      "answers": [
+        "The main square is going to be closed to traffic."
+      ],
+      "points": 1,
+      "explanation": "The passive of going to is going to be + past participle."
+    }
+  ],
+  "task": {
+    "genre": "Essay",
+    "prompt": "Your teacher has asked you to write an essay with the title: \"Cities should ban private cars from their centres.\" Do you agree?",
+    "contentPoints": [
+      "Discuss the effect of cars on pollution and health.",
+      "Consider the problems a ban could cause for some people or businesses.",
+      "Suggest an alternative or extra solution of your own.",
+      "Give your opinion clearly in the conclusion."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "It is often argued that ...",
+      "On the other hand, ...",
+      "Nevertheless, ...",
+      "Consequently, ...",
+      "Taking everything into account, ..."
+    ],
+    "modelAnswer": "In many cities, traffic has become one of the biggest problems of modern life. Some people believe that private cars should be banned from city centres completely. In my view, this idea has clear advantages, but it also needs careful planning.\n\nFirstly, cars are a major source of air pollution, which is linked to asthma and heart disease. If fewer vehicles entered the centre, the air would be cleaner and the streets would be safer and quieter for pedestrians. Consequently, people might choose to walk or cycle more, which would improve their health.\n\nOn the other hand, a complete ban could cause serious difficulties. Elderly and disabled people often depend on cars, and small shops may lose customers who cannot carry heavy shopping on a bus. Nevertheless, these problems could be reduced if exceptions were made for delivery vans and people with special needs.\n\nIn addition, I believe a ban will only work if public transport is improved at the same time. Cheap, frequent buses and safe cycle lanes would give drivers a real alternative.\n\nTaking everything into account, I support the idea of car-free city centres, provided that the change is introduced gradually and fairly."
+  }
+}

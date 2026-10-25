@@ -1,0 +1,451 @@
+{
+  "id": "the-lost-phone",
+  "title": "The Lost Phone",
+  "level": "A2 · Elementary",
+  "description": "A story about a woman who leaves her phone on a bus and gets it back.",
+  "instructions": "Read the text about a lost phone, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Last Tuesday, Anna took the number 12 bus to work, like every day. She was very tired because she went to bed late the night before. She sat near the window and listened to music on her phone. After a few minutes, she put the phone on the seat next to her and closed her eyes."
+    },
+    {
+      "id": "p2",
+      "text": "Suddenly, the driver called out the name of her stop. Anna jumped up and ran off the bus. When she arrived at her office, she looked in her bag. Her phone was not there! She felt sick because all her photos and contacts were on it."
+    },
+    {
+      "id": "p3",
+      "text": "Anna borrowed a colleague's phone and called her own number. A man answered. 'Hello, I found this phone on the number 12 bus,' he said. His name was Tom, and he was a student. He agreed to meet Anna at a cafe near her office at lunchtime."
+    },
+    {
+      "id": "p4",
+      "text": "At one o'clock, Tom was waiting at the cafe with the phone. Anna was so grateful that she wanted to buy him lunch. Tom only wanted a cup of coffee. Since that day, Anna always keeps her phone in her bag on the bus."
+    },
+    {
+      "id": "p5",
+      "text": "While they drank their coffee, Anna and Tom talked for a long time. Tom studied music at the university, and he played the guitar in a small band. Anna told him that she loved music too. Before they left, Tom gave her a ticket for his band's concert on Saturday night."
+    },
+    {
+      "id": "p6",
+      "text": "On Saturday, Anna went to the concert with her friend Lucy. The band played in a small club in the city centre. The music was great, and the club was full of happy people. After the concert, Tom came to say hello. He told Anna that he usually takes the number 12 bus too, but in the evenings."
+    },
+    {
+      "id": "p7",
+      "text": "Now Anna and Tom are good friends. Sometimes they meet at the same cafe for lunch, and Anna always pays for the coffee now. Last month, she went to another concert and brought five colleagues with her. Anna often tells people the story of her lost phone. 'Losing my phone was a terrible moment,' she says, 'but it was also lucky. Without it, I never met Tom.'"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "How Anna lost her phone and got it back",
+        "Why Anna is always late for work",
+        "A student who works on a bus",
+        "Anna's favourite cafe"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The story follows Anna from leaving her phone on the bus to getting it back from Tom.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Her phone was not there!"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Tom was waiting at the cafe with the phone."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Why did Anna leave her phone on the bus?",
+      "options": [
+        "She gave it to the driver",
+        "She got off the bus in a hurry",
+        "She dropped it out of the window",
+        "Tom took it from her bag"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She put the phone on the seat, then jumped up and ran off the bus when she heard her stop, so she forgot it.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "she put the phone on the seat next to her"
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "Anna jumped up and ran off the bus."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"grateful\" is closest in meaning to...",
+      "options": [
+        "angry",
+        "surprised",
+        "thankful",
+        "worried"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Anna wanted to buy Tom lunch to say thank you, so \"grateful\" means thankful.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Anna was so grateful that she wanted to buy him lunch."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can we say about Tom?",
+      "options": [
+        "He wanted money for the phone",
+        "He worked with Anna",
+        "He was the bus driver",
+        "He was honest and helpful"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Tom kept the phone safe, came to return it, and asked for nothing more than a coffee. This shows he was honest and helpful.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He agreed to meet Anna at a cafe near her office at lunchtime."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Tom only wanted a cup of coffee."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention that Anna's photos and contacts were on the phone?",
+      "options": [
+        "To explain why losing the phone upset her so much",
+        "To show that Anna likes taking photos",
+        "To show that the phone was very new",
+        "To explain how Tom found her office"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The photos and contacts were important to Anna, which explains why she \"felt sick\" when the phone was missing.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "She felt sick because all her photos and contacts were on it."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Where did Anna and Tom meet?",
+      "options": [
+        "At the bus station",
+        "At Anna's office",
+        "At a cafe near her office",
+        "At Tom's school"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They agreed to meet at a cafe near her office, and Tom was waiting there at one o'clock.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "meet Anna at a cafe near her office"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Why was Anna tired that morning?",
+      "options": [
+        "She went to bed late the night before",
+        "She walked to work",
+        "She worked all night",
+        "She was ill"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She was tired because she went to bed late the night before.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She was very tired because she went to bed late the night before."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What was Anna doing on the bus?",
+      "options": [
+        "Reading a book",
+        "Talking to the driver",
+        "Calling a colleague",
+        "Listening to music on her phone"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She sat near the window and listened to music on her phone.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "She sat near the window and listened to music on her phone."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"Suddenly\" means...",
+      "options": [
+        "slowly and quietly",
+        "quickly and when you do not expect it",
+        "every day",
+        "very late"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Anna was sleeping, so the driver's call came quickly and when she did not expect it.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Suddenly, the driver called out the name of her stop."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "How did Anna call her own number?",
+      "options": [
+        "She used a phone at the cafe",
+        "She went back to the bus station",
+        "She borrowed a colleague's phone",
+        "She used her computer"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Anna borrowed a colleague's phone and called her own number.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Anna borrowed a colleague's phone and called her own number."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"agreed\" is closest in meaning to...",
+      "options": [
+        "said no",
+        "said yes",
+        "forgot",
+        "was afraid"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom said yes to meeting Anna at lunchtime.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "He agreed to meet Anna at a cafe near her office at lunchtime."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "Why did Tom only want a cup of coffee?",
+      "options": [
+        "He did not like the food at the cafe",
+        "He was not hungry because he ate on the bus",
+        "He did not want a big reward for helping",
+        "He did not have any money"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Anna wanted to buy him lunch, but he only accepted a coffee, so he did not want a big reward.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Tom only wanted a cup of coffee."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "purpose",
+      "text": "Why does the writer say that Anna now always keeps her phone in her bag on the bus?",
+      "options": [
+        "To show that she does not like Tom",
+        "To explain why she takes the bus",
+        "To show that her bag is new",
+        "To show that she learned a lesson"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "After losing her phone, Anna changed what she does on the bus.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Since that day, Anna always keeps her phone in her bag on the bus."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did Tom study at the university?",
+      "options": [
+        "Music",
+        "Business",
+        "Art",
+        "Computers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom studied music at the university.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Tom studied music at the university"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"band\" means...",
+      "options": [
+        "a small shop that sells guitars",
+        "a class at the university",
+        "a kind of concert ticket",
+        "a group of people who play music together"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Tom plays the guitar with other people in a band.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "he played the guitar in a small band"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What can we understand about Anna and Tom at the cafe?",
+      "options": [
+        "They did not have much to say",
+        "They enjoyed talking to each other",
+        "They had an argument about the phone",
+        "They wanted to leave quickly"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They talked for a long time, and Tom gave her a concert ticket.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Anna and Tom talked for a long time"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Who went to the concert with Anna?",
+      "options": [
+        "Her colleague",
+        "Her brother",
+        "Nobody",
+        "Her friend Lucy"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Anna went to the concert with her friend Lucy.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Anna went to the concert with her friend Lucy"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"full\" means the club...",
+      "options": [
+        "was closed",
+        "was very small",
+        "had a lot of people in it",
+        "was very quiet"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The club had a lot of happy people in it.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the club was full of happy people"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer mention that Tom also takes the number 12 bus?",
+      "options": [
+        "To show another thing that connects Anna and Tom",
+        "To explain why Tom lost his phone",
+        "To show that Tom is a bus driver",
+        "To explain why the concert was late"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They take the same bus, so they have something more in common.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "he usually takes the number 12 bus too, but in the evenings"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What does Anna mean when she says losing her phone \"was also lucky\"?",
+      "options": [
+        "She found some money on the bus",
+        "Something good came from a bad moment",
+        "She got a better phone after that",
+        "She was happy to have no phone"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Losing the phone was terrible, but because of it she met Tom.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "'but it was also lucky. Without it, I never met Tom.'"
+        }
+      ]
+    }
+  ]
+}

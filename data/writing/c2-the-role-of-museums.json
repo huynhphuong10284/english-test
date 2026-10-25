@@ -1,0 +1,321 @@
+{
+  "id": "w-the-role-of-museums",
+  "title": "The Role of Museums",
+  "level": "C2 · Proficiency",
+  "description": "Practise inversion, cleft sentences and collocations, then write an article on what museums are for today.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Idiomatic collocations",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The museum has ___ a delicate balance between scholarship and entertainment.",
+      "options": [
+        "made",
+        "done",
+        "struck",
+        "hit"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The fixed collocation is \"strike a balance between A and B\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Inversion with \"little\"",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Little ___ the founders imagine that the gallery would one day host an exhibition of video games.",
+      "answers": [
+        "did"
+      ],
+      "points": 1,
+      "explanation": "Negative \"little\" at the start of a sentence means \"not at all\" and takes inversion with the auxiliary \"did\" in the past: little did the founders imagine ..."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Hedging",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "been",
+        "perhaps",
+        "museums",
+        "too cautious",
+        "have"
+      ],
+      "answers": [
+        "Museums have perhaps been too cautious.",
+        "Perhaps museums have been too cautious.",
+        "Museums perhaps have been too cautious.",
+        "Museums have been too cautious, perhaps."
+      ],
+      "points": 1,
+      "explanation": "\"Perhaps\" softens a criticism. It usually goes at the start of the sentence or after the first auxiliary: museums have perhaps been ..."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Relative clauses",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The collection, much of who was acquired in colonial times, is now being reviewed.",
+      "answers": [
+        "The collection, much of which was acquired in colonial times, is now being reviewed."
+      ],
+      "points": 1,
+      "explanation": "After quantifiers such as \"much of\", \"some of\" or \"most of\", use \"which\" for things and \"whom\" for people: much of which."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Rarely ...\".",
+      "text": "Visitors rarely see so many treasures in one place.",
+      "keyword": "rarely",
+      "answers": [
+        "Rarely do visitors see so many treasures in one place."
+      ],
+      "points": 1,
+      "explanation": "When \"rarely\" starts a sentence, use auxiliary + subject + verb: rarely do visitors see ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Cleft sentences",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"It ...\".",
+      "text": "The interactive displays attract young visitors.",
+      "keyword": "it",
+      "answers": [
+        "It is the interactive displays that attract young visitors.",
+        "It is the interactive displays which attract young visitors.",
+        "It's the interactive displays that attract young visitors.",
+        "It's the interactive displays which attract young visitors."
+      ],
+      "points": 1,
+      "explanation": "An \"it\" cleft (it is X that ...) highlights one element of the sentence: it is the interactive displays that attract them."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Museums must adapt ...\".",
+      "text": "Museums must adapt or they will become irrelevant.",
+      "keyword": "risk",
+      "answers": [
+        "Museums must adapt or they risk becoming irrelevant.",
+        "Museums must adapt or risk becoming irrelevant.",
+        "Museums must adapt or they run the risk of becoming irrelevant.",
+        "Museums must adapt or run the risk of becoming irrelevant."
+      ],
+      "points": 1,
+      "explanation": "\"Risk + -ing\" or \"run the risk of + -ing\" describes a likely negative result: they risk becoming irrelevant."
+    },
+    {
+      "id": "e8",
+      "type": "choice",
+      "focus": "Stance markers",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "___, the most popular exhibit last year was not a painting but a dinosaur skeleton.",
+      "options": [
+        "Told",
+        "Tellingly",
+        "Telling",
+        "Tellable"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Tellingly\" is a stance adverb which signals that a fact reveals something important. It comments on the whole sentence."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Fixed phrases",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Museums are under growing pressure to return objects to their countries of ___.",
+      "options": [
+        "origin",
+        "origins",
+        "original",
+        "originality"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Country of origin\" is a fixed phrase meaning the country something comes from; \"origin\" stays singular in it."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Some critics see the blockbuster exhibition as a symptom of the ___ (commercial) of culture.",
+      "answers": [
+        "commercialisation",
+        "commercialization"
+      ],
+      "points": 1,
+      "explanation": "From the adjective \"commercial\" we form the verb \"commercialise\" and the noun \"commercialisation\": turning something into a way of making money."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Verb + preposition",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The gallery prides itself for its innovative approach to education.",
+      "answers": [
+        "The gallery prides itself on its innovative approach to education.",
+        "The gallery prides itself upon its innovative approach to education."
+      ],
+      "points": 1,
+      "explanation": "The reflexive verb \"pride oneself\" is followed by \"on\" (or \"upon\"): the gallery prides itself on ..."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The new audio guides ...\".",
+      "text": "The new audio guides make history vivid and real for younger visitors.",
+      "keyword": "life",
+      "answers": [
+        "The new audio guides bring history to life for younger visitors."
+      ],
+      "points": 1,
+      "explanation": "To \"bring something to life\" means to make it seem real, vivid or exciting."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Adverb + adjective collocations",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The museum's decision to charge for entry has proved ___ controversial.",
+      "options": [
+        "heavily",
+        "strongly",
+        "greatly",
+        "highly"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Highly controversial\" is a strong collocation. \"Heavily\", \"strongly\" and \"greatly\" do not combine naturally with \"controversial\"."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Fronting",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "are",
+        "among",
+        "the most popular exhibits",
+        "the interactive galleries"
+      ],
+      "answers": [
+        "Among the most popular exhibits are the interactive galleries.",
+        "The interactive galleries are among the most popular exhibits."
+      ],
+      "points": 1,
+      "explanation": "A prepositional phrase such as \"among the most popular exhibits\" can be fronted, with the verb before the subject, to create emphasis or link ideas."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Fixed phrases",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The museum has gone to great lengths for making its collections accessible online.",
+      "answers": [
+        "The museum has gone to great lengths to make its collections accessible online."
+      ],
+      "points": 1,
+      "explanation": "The fixed phrase \"go to great lengths\" is followed by a to-infinitive: to go to great lengths to do something means to make a great effort to do it."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Idiomatic expressions",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The dinosaur skeleton ...\".",
+      "text": "The dinosaur skeleton occupies the most prominent position in the main hall.",
+      "keyword": "pride",
+      "answers": [
+        "The dinosaur skeleton takes pride of place in the main hall.",
+        "The dinosaur skeleton has pride of place in the main hall.",
+        "The dinosaur skeleton occupies pride of place in the main hall."
+      ],
+      "points": 1,
+      "explanation": "If something \"takes\" or \"has pride of place\", it is put in the most important or prominent position."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Phrasal verbs",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Museums should not shy ___ from confronting the darker chapters of their history. (one word, beginning with A)",
+      "answers": [
+        "away"
+      ],
+      "points": 1,
+      "explanation": "To \"shy away from\" something means to avoid it because it is difficult or unpleasant."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Idiomatic expressions",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The new wing has been described as a white ___: it cost millions but attracts few visitors. (one word, beginning with E)",
+      "answers": [
+        "elephant"
+      ],
+      "points": 1,
+      "explanation": "A \"white elephant\" is something that cost a lot of money but is useless or not worth what it costs to maintain."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Hedging",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"There is ...\".",
+      "text": "It is almost certain that digital collections will widen access.",
+      "keyword": "doubt",
+      "answers": [
+        "There is little doubt that digital collections will widen access.",
+        "There is hardly any doubt that digital collections will widen access.",
+        "There is scarcely any doubt that digital collections will widen access.",
+        "There is very little doubt that digital collections will widen access.",
+        "There's little doubt that digital collections will widen access."
+      ],
+      "points": 1,
+      "explanation": "\"There is little doubt that\" expresses strong but not absolute certainty, which is more cautious than \"there is no doubt\"."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Subject-verb agreement",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The number of visitors have doubled since admission became free.",
+      "answers": [
+        "The number of visitors has doubled since admission became free."
+      ],
+      "points": 1,
+      "explanation": "\"The number of + plural noun\" takes a singular verb, because the subject is \"the number\". Compare \"a number of visitors have ...\"."
+    }
+  ],
+  "task": {
+    "genre": "Article",
+    "prompt": "A cultural magazine is running a series called \"What Are Museums For?\". Write an article giving your view on the role of museums in the twenty-first century.",
+    "contentPoints": [
+      "Describe the traditional role of museums.",
+      "Explain how museums are changing, or need to change.",
+      "Discuss at least one controversy or challenge museums face today.",
+      "Give your view of what a good museum should offer."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "Little did ... imagine that ...",
+      "It is ... that ...",
+      "Tellingly, ...",
+      "strike a balance between ...",
+      "Rarely do ...",
+      "Museums risk ..."
+    ],
+    "modelAnswer": "When the great public museums of the nineteenth century opened their doors, their purpose seemed obvious. They were temples of knowledge, where ordinary citizens could admire the treasures of civilisation and, it was hoped, be improved by the experience. Visitors walked quietly past glass cases, reading labels written by experts who rarely doubted their own authority.\n\nLittle did those founders imagine how much the world would change. Today, almost any image can be viewed instantly on a phone, and audiences expect to participate rather than simply observe. Tellingly, the most popular exhibit at many museums is not a masterpiece but something that can be touched, heard or explored. It is often the interactive displays that attract younger visitors, and institutions that ignore this risk becoming irrelevant.\n\nChange has brought its own controversies, however. Critics complain that some museums have turned into theme parks, more interested in gift shops and selfie opportunities than in scholarship. A more serious debate concerns ownership. Many famous collections include objects acquired during colonial rule without consent, and source communities are increasingly asking for them to be returned. Museums have perhaps been too cautious for too long in addressing these claims honestly.\n\nWhat, then, should a good museum offer? In my view, it should strike a balance between scholarship and accessibility, presenting expert knowledge without talking down to its audience. It should be honest about the histories of its own collections, even when they are uncomfortable. Above all, it should offer something that a screen cannot: the experience of standing in front of a real object, made by real hands, and sensing the distance between its world and ours.\n\nRarely do we have that sense of connection in daily life. If museums can provide it, while welcoming people who once felt excluded, their role will be more important than ever."
+  }
+}

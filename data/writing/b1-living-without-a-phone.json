@@ -1,0 +1,326 @@
+{
+  "id": "w-living-without-a-phone",
+  "title": "Living Without a Phone",
+  "level": "B1 · Intermediate",
+  "description": "Practise first and second conditionals and linking words, then write a short essay about life without a phone.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Second conditional",
+      "prompt": "Choose the correct answer.",
+      "text": "If I didn't have a phone, I ___ more time to read.",
+      "options": [
+        "will have",
+        "would have",
+        "have",
+        "had"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The second conditional talks about an imaginary situation: if + past simple, would + infinitive."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Second conditional",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "If teenagers ___ (spend) less time online, they would sleep better.",
+      "answers": [
+        "spent"
+      ],
+      "points": 1,
+      "explanation": "In the \"if\" clause of the second conditional, use the past simple: if teenagers spent."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Past simple",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "without",
+        "a week",
+        "my phone",
+        "I",
+        "spent",
+        "last year"
+      ],
+      "answers": [
+        "I spent a week without my phone last year.",
+        "Last year I spent a week without my phone."
+      ],
+      "points": 1,
+      "explanation": "The normal order is subject + verb + object + other details. Time expressions like \"last year\" go at the end or at the start."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "First conditional",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "If you will switch off your phone, you will concentrate better.",
+      "answers": [
+        "If you switch off your phone, you will concentrate better.",
+        "If you switch off your phone, you'll concentrate better."
+      ],
+      "points": 1,
+      "explanation": "In the first conditional, do not use \"will\" after \"if\". Use the present simple: if you switch off."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "Many people check their phones at night. ___, they don't sleep well.",
+      "options": [
+        "Although",
+        "However",
+        "As a result",
+        "In addition"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"As a result\" introduces the consequence of the previous sentence."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Present perfect with since",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "I ___ (not / use) my phone since Monday, and I feel much calmer.",
+      "answers": [
+        "haven't used",
+        "have not used"
+      ],
+      "points": 1,
+      "explanation": "Use the present perfect with \"since\" for a situation that started in the past and continues now: I haven't used."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Modals of advice",
+      "prompt": "Choose the correct answer.",
+      "text": "You ___ keep your phone in your bedroom at night; it's better to leave it in the kitchen.",
+      "options": [
+        "shouldn't",
+        "mustn't to",
+        "don't have",
+        "ought"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"shouldn't\" + infinitive without \"to\" to advise someone not to do something."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Second conditional",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word HAD. Begin: \"If I ...\"",
+      "text": "I don't have a phone, so I can't call my friends.",
+      "keyword": "HAD",
+      "answers": [
+        "If I had a phone, I could call my friends.",
+        "If I had a phone, I would be able to call my friends.",
+        "If I had a phone, I'd be able to call my friends."
+      ],
+      "points": 1,
+      "explanation": "For an imaginary present situation, use if + past simple and could/would in the other clause: If I had a phone, I could call my friends."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Verb + to-infinitive",
+      "prompt": "Choose the correct answer.",
+      "text": "I've decided ___ my phone off after 9 p.m.",
+      "options": [
+        "turn",
+        "turning",
+        "turned",
+        "to turn"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Decide\" is followed by the to-infinitive: decided to turn."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Used to",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "I ___ (use) to check my phone every five minutes.",
+      "answers": [
+        "used"
+      ],
+      "points": 1,
+      "explanation": "Use \"used to + infinitive\" for a past habit that you don't have now."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Comparatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "before",
+        "calmer",
+        "feel",
+        "I",
+        "much",
+        "than"
+      ],
+      "answers": [
+        "I feel much calmer than before."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives take -er in the comparative. \"Much\" goes before the comparative to make it stronger."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Gerund as subject",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Spend less time online is good for your health.",
+      "answers": [
+        "Spending less time online is good for your health."
+      ],
+      "points": 1,
+      "explanation": "When an activity is the subject of a sentence, use the -ing form: Spending ... is good."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Collocations: keep in touch",
+      "prompt": "Choose the correct answer.",
+      "text": "Without a phone, it's harder to ___ in touch with friends.",
+      "options": [
+        "keep",
+        "make",
+        "do",
+        "take"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We say \"keep in touch (with)\" or \"stay in touch (with)\" to mean continue to communicate."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Modals: be allowed to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word ALLOWED. Begin: \"We aren't ...\"",
+      "text": "Our teacher doesn't let us use phones in class.",
+      "keyword": "ALLOWED",
+      "answers": [
+        "We aren't allowed to use phones in class."
+      ],
+      "points": 1,
+      "explanation": "\"Be allowed to + infinitive\" means have permission. \"Somebody doesn't let us\" = we aren't allowed to."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Word formation: -ful",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Phones can be very ___ (use) in an emergency.",
+      "answers": [
+        "useful"
+      ],
+      "points": 1,
+      "explanation": "Add -ful to some nouns to make adjectives: use - useful."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Present perfect vs past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I have bought my first phone when I was twelve.",
+      "answers": [
+        "I bought my first phone when I was twelve."
+      ],
+      "points": 1,
+      "explanation": "Use the past simple, not the present perfect, for a finished time in the past such as \"when I was twelve\"."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Relative clauses: who",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "own",
+        "a",
+        "who",
+        "friend",
+        "have",
+        "I",
+        "doesn't",
+        "a",
+        "phone"
+      ],
+      "answers": [
+        "I have a friend who doesn't own a phone."
+      ],
+      "points": 1,
+      "explanation": "Use \"who\" to add information about a person: a friend who doesn't own a phone."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Linking words: although",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Despite I love my phone, I know I use it too much.",
+      "answers": [
+        "Although I love my phone, I know I use it too much.",
+        "Even though I love my phone, I know I use it too much.",
+        "Though I love my phone, I know I use it too much.",
+        "Despite loving my phone, I know I use it too much."
+      ],
+      "points": 1,
+      "explanation": "\"Despite\" is followed by a noun or -ing form, not a full clause. Use \"although\" before a subject and verb."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Verb + -ing: stop",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word STOPPED. Begin: \"I have ...\"",
+      "text": "I don't check social media any more.",
+      "keyword": "STOPPED",
+      "answers": [
+        "I have stopped checking social media."
+      ],
+      "points": 1,
+      "explanation": "\"Stop + -ing\" means you no longer do an activity: I have stopped checking."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "First conditional: unless",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word UNLESS. Begin: \"You won't sleep well ...\"",
+      "text": "You won't sleep well if you don't put your phone away.",
+      "keyword": "UNLESS",
+      "answers": [
+        "You won't sleep well unless you put your phone away."
+      ],
+      "points": 1,
+      "explanation": "\"Unless\" means \"if ... not\": if you don't put = unless you put."
+    }
+  ],
+  "task": {
+    "genre": "Short essay",
+    "prompt": "Your teacher has asked you to write an essay with this title: \"Could teenagers live happily without a mobile phone?\"",
+    "contentPoints": [
+      "Give at least one advantage of having a phone.",
+      "Give at least one advantage of living without a phone.",
+      "Describe what would change in your own life.",
+      "Give your opinion in a conclusion."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "On the one hand, ...",
+      "On the other hand, ...",
+      "If I didn't have a phone, I would ...",
+      "As a result, ...",
+      "In addition, ...",
+      "In my opinion, ..."
+    ],
+    "modelAnswer": "Today, almost every teenager has a mobile phone. But could we live happily without one?\n\nOn the one hand, phones are very useful. We use them to keep in touch with friends, to find information for homework and to call our parents if there is a problem. In addition, they help us to feel safe when we are out alone.\n\nOn the other hand, many teenagers spend hours on their phones every day. As a result, they sleep badly and spend less time with their families. If I didn't have a phone, I would probably read more and go outside more often. I would also talk more to the people around me.\n\nIn my opinion, teenagers could live without phones, but it would be difficult. I think the best solution is to use them less, not to stop completely."
+  }
+}

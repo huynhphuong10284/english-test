@@ -1,0 +1,455 @@
+{
+  "id": "the-placebo-effect",
+  "title": "The Power of the Placebo",
+  "level": "C1 · Advanced",
+  "description": "An article on the science behind placebos and the ethical questions they raise.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "A placebo is, in the strictest sense, a treatment with no active ingredient: a sugar pill, an injection of saline, or even a sham operation. Yet patients who receive such treatments frequently report genuine improvements in their symptoms. For much of the twentieth century, this phenomenon was treated primarily as a nuisance, a source of noise that researchers had to eliminate in order to measure the true effect of a drug. Increasingly, however, scientists regard the placebo effect as worthy of study in its own right."
+    },
+    {
+      "id": "p2",
+      "text": "The mechanisms behind the effect are only partly understood, but expectation appears to play a central role. When patients believe they are receiving an effective treatment, the brain may release its own pain-relieving chemicals, such as endorphins, and brain-imaging studies have shown measurable changes in regions associated with pain. Conditioning also contributes: a patient who has repeatedly taken a real medication may come to associate the ritual of taking a pill with relief, so that an identical-looking dummy pill produces a similar response."
+    },
+    {
+      "id": "p3",
+      "text": "Strikingly, the context in which a treatment is delivered can influence its effectiveness. Studies have found that two placebo pills tend to work better than one, that capsules are often perceived as more potent than tablets, and that a treatment described as expensive may produce stronger effects than one presented as cheap. The warmth and confidence of the practitioner matter too; patients treated by an attentive, empathetic doctor tend to report greater improvement than those treated in a brisk, impersonal manner."
+    },
+    {
+      "id": "p4",
+      "text": "It is important, though, not to overstate what placebos can achieve. Their effects are most pronounced for subjective symptoms such as pain, nausea and fatigue, and there is little convincing evidence that they can shrink tumours or cure infections. A patient who relies on a placebo instead of effective medical treatment for a serious condition may therefore come to real harm."
+    },
+    {
+      "id": "p5",
+      "text": "The use of placebos in clinical practice also raises difficult ethical questions. Traditionally, a placebo was thought to work only if the patient was deceived, which seems incompatible with the principle of informed consent. Intriguingly, however, recent trials of so-called open-label placebos, in which patients are told explicitly that they are taking an inactive pill, have reported benefits for conditions such as irritable bowel syndrome. If these findings are confirmed, doctors may be able to harness the placebo effect without compromising their honesty."
+    },
+    {
+      "id": "p6",
+      "text": "The placebo effect also has a darker counterpart, known as the nocebo effect. Just as positive expectations can relieve symptoms, negative expectations can produce or worsen them. Patients who are warned that a drug may cause particular side effects sometimes report those effects even when they have been given an inactive substance, and in clinical trials some participants receiving placebos withdraw because of adverse effects they attribute to the treatment. This presents doctors with a genuine dilemma. They are obliged to inform patients about possible risks, yet the manner in which that information is conveyed may itself influence how patients feel. Some researchers have suggested that framing information carefully, for instance by emphasising the proportion of patients who experience no side effects, could reduce nocebo responses without withholding anything the patient needs to know."
+    },
+    {
+      "id": "p7",
+      "text": "Placebos continue to play an essential role in medical research. In a randomised controlled trial, one group of patients receives the treatment under investigation while another receives a placebo, ideally without either the patients or the researchers knowing who is in which group. Only if the treatment outperforms the placebo can its benefits be attributed to the active ingredient rather than to expectation or natural recovery. Paradoxically, as understanding of the placebo effect has grown, it has become clear that a strong placebo response can make it harder for genuinely effective drugs to demonstrate their worth, since the gap between the two groups narrows. In some areas, such as trials of treatments for pain and depression, placebo responses appear to be considerable, which complicates the task of identifying which new treatments truly work."
+    },
+    {
+      "id": "p8",
+      "text": "Perhaps the most valuable lesson of placebo research is that the experience of being treated is itself part of the treatment. The time a doctor spends listening, the clarity of an explanation and the confidence a patient has in the care being offered all appear to influence outcomes, particularly for conditions in which symptoms are shaped by perception. Health systems under pressure often treat such factors as luxuries, squeezing consultations into ever shorter appointments. Placebo research suggests that this may be a false economy. Taking the psychological dimension of care seriously does not mean replacing proven treatments with sugar pills; it means recognising that even the most effective medicine is delivered by people, to people, in contexts that can either enhance or diminish its effect."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the passage mainly about?",
+      "options": [
+        "Why placebos should replace conventional medicine.",
+        "How pharmaceutical companies design clinical trials.",
+        "How placebos work, what they can and cannot do, and the ethical issues they raise.",
+        "The history of sugar pills in the twentieth century."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The passage covers mechanisms (p2-p3), limitations (p4) and ethics (p5).",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "scientists regard the placebo effect as worthy of study in its own right"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "The use of placebos in clinical practice also raises difficult ethical questions."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, what may happen in the brain when patients expect an effective treatment?",
+      "options": [
+        "It may release its own pain-relieving chemicals.",
+        "It stops responding to real medication.",
+        "It produces chemicals that destroy infections.",
+        "It forgets previous experiences of pain."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text mentions that the brain may release endorphins, its own pain-relieving chemicals.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "the brain may release its own pain-relieving chemicals, such as endorphins"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"potent\" is closest in meaning to",
+      "options": [
+        "dangerous",
+        "powerful",
+        "expensive",
+        "pleasant"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Capsules are perceived as stronger, i.e. more powerful, than tablets.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "capsules are often perceived as more potent than tablets"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can be inferred from the findings described in paragraph 3?",
+      "options": [
+        "Placebos only work when they are physically larger than real drugs.",
+        "Cheap medicines are always less effective than expensive ones.",
+        "Doctors should avoid speaking to patients during treatment.",
+        "Patients' perceptions of a treatment can shape the benefit they experience."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Number of pills, form, price and the doctor's manner all change perceptions, which in turn affect outcomes.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the context in which a treatment is delivered can influence its effectiveness"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "a treatment described as expensive may produce stronger effects than one presented as cheap"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer include paragraph 4?",
+      "options": [
+        "To qualify the earlier discussion by pointing out the limits of placebos.",
+        "To prove that placebos have no real effect at all.",
+        "To recommend placebos for treating serious infections.",
+        "To introduce the concept of open-label placebos."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "After describing impressive effects, the writer warns against overstating them and notes the risks.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It is important, though, not to overstate what placebos can achieve."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "For which kind of symptoms are placebo effects strongest?",
+      "options": [
+        "Bacterial infections.",
+        "The growth of tumours.",
+        "Subjective symptoms such as pain and fatigue.",
+        "Broken bones."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 4 says effects are most pronounced for subjective symptoms.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Their effects are most pronounced for subjective symptoms such as pain, nausea and fatigue"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What is distinctive about open-label placebos?",
+      "options": [
+        "They contain a small dose of active medication.",
+        "They are only given during surgery.",
+        "They are more expensive than ordinary placebos.",
+        "Patients are told that the pill is inactive."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "In open-label trials patients are told explicitly that the pill is inactive.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "patients are told explicitly that they are taking an inactive pill"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "Why might open-label placebos be ethically significant?",
+      "options": [
+        "They prove that deception always improves treatment.",
+        "They could allow doctors to use the placebo effect without deceiving patients.",
+        "They remove the need for informed consent.",
+        "They show that placebos can cure serious diseases."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The traditional ethical problem was deception; open-label placebos may work without it.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "which seems incompatible with the principle of informed consent"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "doctors may be able to harness the placebo effect without compromising their honesty"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 6 to 8?",
+      "options": [
+        "Expectations can harm as well as help, they complicate drug trials, and the way care is delivered affects how well it works.",
+        "Negative expectations are now considered a bigger problem than placebo effects.",
+        "Placebo-controlled trials are no longer useful in medical research.",
+        "Doctors should replace proven treatments with placebos to save money."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The final paragraphs cover the nocebo effect, placebos in trials and the importance of the context of care.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the experience of being treated is itself part of the treatment"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, what is the nocebo effect?",
+      "options": [
+        "A treatment that contains no active ingredient",
+        "The relief of symptoms by positive expectations",
+        "A side effect caused by the active ingredient of a drug",
+        "The production or worsening of symptoms by negative expectations"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "It is the negative counterpart of the placebo effect.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "negative expectations can produce or worsen them"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What can be inferred about trial participants who withdraw because of side effects while taking a placebo?",
+      "options": [
+        "They must have been given the real drug by mistake.",
+        "Their symptoms are likely to stem from expectation rather than from any active substance.",
+        "They were not told about any possible side effects.",
+        "They are only pretending to experience symptoms."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Placebos contain nothing active, so the adverse effects they report are best explained by negative expectations; this does not mean the symptoms are faked.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "some participants receiving placebos withdraw because of adverse effects they attribute to the treatment"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "purpose",
+      "text": "Why does the writer describe doctors as facing \"a genuine dilemma\"?",
+      "options": [
+        "Because doctors rarely know whether a drug has side effects",
+        "Because patients usually refuse to hear information about risks",
+        "Because informing patients about risks, which doctors must do, may itself cause harm",
+        "Because the law prevents doctors from discussing side effects"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Doctors must disclose risks, but disclosure can trigger nocebo responses.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "They are obliged to inform patients about possible risks, yet the manner in which that information is conveyed may itself influence how patients feel."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"conveyed\" is closest in meaning to:",
+      "options": [
+        "communicated",
+        "concealed",
+        "exaggerated",
+        "recorded"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "How information about risks is communicated may affect patients.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the manner in which that information is conveyed"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 7, when can a treatment's benefits be attributed to its active ingredient?",
+      "options": [
+        "Whenever patients report feeling better",
+        "When researchers know who received the treatment",
+        "When it works faster than natural recovery",
+        "Only when it outperforms the placebo"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Outperforming the placebo rules out expectation and natural recovery as explanations.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Only if the treatment outperforms the placebo can its benefits be attributed to the active ingredient"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, why can a strong placebo response be a problem in research?",
+      "options": [
+        "It causes patients to refuse genuine treatments.",
+        "It shows that the drug being tested is harmful.",
+        "It narrows the gap between groups, making effective drugs harder to prove.",
+        "It prevents researchers from keeping groups secret."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If the placebo group improves a lot, the difference from the treatment group shrinks.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "a strong placebo response can make it harder for genuinely effective drugs to demonstrate their worth, since the gap between the two groups narrows"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"outperforms\" is closest in meaning to:",
+      "options": [
+        "costs more than",
+        "does better than",
+        "acts faster than",
+        "takes the place of"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The treatment must produce better results than the placebo.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Only if the treatment outperforms the placebo"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "Which conclusion about trials of treatments for pain and depression is supported by paragraph 7?",
+      "options": [
+        "Placebos are the most effective treatments for these conditions.",
+        "Trials in these areas do not use placebo groups.",
+        "Drugs for these conditions have been shown not to work.",
+        "New treatments in these areas may find it hard to show a clear advantage over placebo."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Considerable placebo responses in these areas narrow the gap that a new drug must show.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "placebo responses appear to be considerable, which complicates the task of identifying which new treatments truly work"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"diminish\" is closest in meaning to:",
+      "options": [
+        "reduce",
+        "reveal",
+        "prolong",
+        "double"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Context can either increase or reduce a treatment's effect.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "can either enhance or diminish its effect"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer imply about very short medical appointments?",
+      "options": [
+        "They are needed to ensure that patients receive proven treatments.",
+        "They have no measurable effect on how patients recover.",
+        "They may save time in the short term but make care less effective.",
+        "They are the main cause of the nocebo effect."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Calling them a \"false economy\" suggests the savings are outweighed by poorer outcomes.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Placebo research suggests that this may be a false economy."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why does the writer say that this \"does not mean replacing proven treatments with sugar pills\"?",
+      "options": [
+        "To argue that some placebos are more effective than sugar pills",
+        "To prevent the argument being misread as a rejection of conventional medicine",
+        "To criticise doctors who prescribe placebos to patients",
+        "To summarise the findings on open-label placebos"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer clarifies that the point is about the context of care, not abandoning effective drugs.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Taking the psychological dimension of care seriously does not mean replacing proven treatments with sugar pills"
+        }
+      ]
+    }
+  ]
+}

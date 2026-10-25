@@ -1,0 +1,459 @@
+{
+  "id": "the-ethics-of-self-driving-cars",
+  "title": "Who Decides When the Machine Must Choose?",
+  "level": "C1 · Advanced",
+  "description": "An article on the moral and legal questions raised by autonomous vehicles.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Few technologies have provoked as much philosophical debate as the self-driving car. Proponents argue that, because the vast majority of road accidents are attributable to human error, removing the driver from the equation could save an enormous number of lives. Yet the prospect of handing life-and-death decisions to software has prompted a question that engineers had rarely been asked to confront: when a collision is unavoidable, how should a machine decide whom to harm?"
+    },
+    {
+      "id": "p2",
+      "text": "This question is often framed in terms of the so-called trolley problem, a thought experiment in which a runaway tram can be diverted to kill one person instead of five. Large online surveys have asked very large numbers of people to resolve variations of this dilemma for autonomous vehicles, and the results reveal both broad agreement and striking cultural variation. Most respondents favour sparing more lives rather than fewer, but preferences about, for instance, prioritising the young over the old differ considerably from one region to another."
+    },
+    {
+      "id": "p3",
+      "text": "Critics contend, however, that this framing is largely a distraction. Genuine dilemmas of the trolley type are vanishingly rare on real roads, and a vehicle that has time to weigh the relative worth of different pedestrians would almost certainly have time to brake. In their view, the more pressing ethical questions are mundane rather than dramatic: how cautiously a car should drive, how it should balance the safety of its passengers against the convenience of other road users, and how much risk society is prepared to tolerate in exchange for efficiency."
+    },
+    {
+      "id": "p4",
+      "text": "Equally contentious is the question of responsibility. When a human driver causes an accident, legal systems have well-established means of assigning blame. When an automated system is at fault, liability may be dispersed among the manufacturer, the software developer, the owner and even the authority that approved the vehicle for public use. Some legal scholars warn that this diffusion could create a responsibility gap, in which harm occurs but no single party can reasonably be held to account."
+    },
+    {
+      "id": "p5",
+      "text": "None of these difficulties necessarily argues against the technology itself. Rather, they suggest that the ethics of autonomous vehicles cannot be settled by programmers alone. Decisions about acceptable risk and the distribution of harm are ultimately political choices, and they arguably require transparent public deliberation rather than being quietly embedded in proprietary code."
+    },
+    {
+      "id": "p6",
+      "text": "A related dilemma concerns how safe autonomous vehicles must be before they are permitted on public roads. One view holds that they should be allowed as soon as they are demonstrably safer than the average human driver, since every year of delay would mean preventable deaths. Others point out that people judge machines more harshly than they judge one another: a crash caused by software may provoke greater outrage than a comparable crash caused by a tired or distracted motorist, partly because it seems to reflect a systematic flaw rather than an individual lapse. If public trust is fragile, a few highly publicised accidents could set back adoption for years, even if the technology was saving lives overall. Demonstrating safety is itself difficult, because serious accidents are relatively rare and a vehicle would need to be tested over vast distances to establish its record with confidence."
+    },
+    {
+      "id": "p7",
+      "text": "Self-driving cars also raise questions that extend beyond the moment of a crash. To navigate safely, they rely on cameras and sensors that continuously record their surroundings, generating large quantities of data about passengers, pedestrians and the places they visit. Who owns this information, and how it may be used, are matters that existing privacy law was not designed to address. There are concerns about fairness as well: if detection systems are trained on data that under-represent certain groups or environments, they may perform less reliably in those circumstances. Such problems are not unique to autonomous vehicles, but the consequences of an error are unusually severe when the system in question controls a heavy machine moving at speed."
+    },
+    {
+      "id": "p8",
+      "text": "Finally, the technology may reshape cities in ways that its designers did not intend. If travelling by car becomes cheaper and less tiring, people may choose to live further from their workplaces and make more journeys, potentially increasing congestion and emissions rather than reducing them. On the other hand, shared fleets of autonomous vehicles could reduce the need for private car ownership and free up space currently devoted to parking. Which of these futures materialises will depend largely on decisions about pricing, regulation and investment in public transport. Here, as with the dilemmas discussed earlier, the outcome is not dictated by the technology but by the choices that societies make about how to use it."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main point of the passage?",
+      "options": [
+        "Self-driving cars should not be permitted until the trolley problem has been solved.",
+        "Cultural differences make it impossible to programme cars to behave ethically.",
+        "The ethical issues raised by self-driving cars are wide-ranging and should be resolved through public debate rather than by engineers alone.",
+        "Legal systems are already well prepared for accidents involving automated vehicles."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The passage surveys several ethical and legal problems and concludes that they cannot be settled by programmers alone but need public deliberation.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "the ethics of autonomous vehicles cannot be settled by programmers alone"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, what did large online surveys reveal?",
+      "options": [
+        "General agreement on sparing more lives, together with regional differences on other preferences",
+        "Complete agreement on every dilemma across all cultures",
+        "A clear preference for protecting passengers over pedestrians",
+        "That most people refused to answer such dilemmas"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The surveys found \"both broad agreement and striking cultural variation\": most favour sparing more lives, but other preferences vary by region.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "the results reveal both broad agreement and striking cultural variation"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"mundane\" is closest in meaning to:",
+      "options": [
+        "unimportant and trivial",
+        "technical and complex",
+        "sudden and dangerous",
+        "ordinary and everyday"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The word is contrasted with \"dramatic\" and refers to routine matters such as how cautiously a car drives. It does not mean unimportant: the writer calls these questions \"more pressing\".",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the more pressing ethical questions are mundane rather than dramatic"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "purpose",
+      "text": "Why does the writer point out that such a vehicle \"would almost certainly have time to brake\"?",
+      "options": [
+        "To show that braking systems in autonomous cars are unreliable",
+        "To support the critics' claim that trolley-style dilemmas are unrealistic",
+        "To argue that cars should be programmed to value all lives equally",
+        "To suggest that human drivers react more slowly than machines"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The point reinforces the critics' view that genuine trolley dilemmas almost never arise on real roads.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Genuine dilemmas of the trolley type are vanishingly rare on real roads"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "would almost certainly have time to brake"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Which of the following is NOT mentioned as a party that might share liability for an accident?",
+      "options": [
+        "The manufacturer",
+        "The pedestrian involved in the accident",
+        "The software developer",
+        "The authority that approved the vehicle"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 4 lists the manufacturer, the software developer, the owner and the approving authority, but not pedestrians.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "liability may be dispersed among the manufacturer, the software developer, the owner and even the authority that approved the vehicle for public use"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "What can be inferred about the \"responsibility gap\" described in paragraph 4?",
+      "options": [
+        "It occurs only when a human driver is at fault.",
+        "It has already been resolved by most legal systems.",
+        "It results from manufacturers deliberately concealing their software.",
+        "It arises because blame is spread so widely that no one is clearly accountable."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The gap follows from the \"diffusion\" of liability among many parties, so that no single one can be held to account.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "this diffusion could create a responsibility gap"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "no single party can reasonably be held to account"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "Which statement would the writer most probably agree with?",
+      "options": [
+        "Decisions about how much risk autonomous cars may take should be made openly by society.",
+        "The technology is too ethically troubling to be developed further.",
+        "Programmers are best placed to decide how harm should be distributed.",
+        "Dramatic dilemmas are the most important ethical issue for autonomous cars."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer does not oppose the technology but argues that decisions about risk are political and need transparent public deliberation.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "None of these difficulties necessarily argues against the technology itself."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "they arguably require transparent public deliberation rather than being quietly embedded in proprietary code"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"diffusion\" most nearly means:",
+      "options": [
+        "elimination",
+        "concealment",
+        "spreading out",
+        "intensification"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Diffusion\" refers back to liability being \"dispersed\" among several parties, i.e. spread out.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "liability may be dispersed among"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "this diffusion could create a responsibility gap"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 6 to 8?",
+      "options": [
+        "Beyond crash dilemmas, self-driving cars raise issues of safety standards, data, fairness and urban change that depend on social choices.",
+        "Self-driving cars should not be allowed on the roads until they cause no accidents at all.",
+        "Privacy is the most serious ethical problem raised by self-driving cars.",
+        "Self-driving cars will inevitably increase congestion and emissions in cities."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The final paragraphs widen the discussion to safety thresholds, data and fairness, and effects on cities, ending with the role of social choices.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the outcome is not dictated by the technology but by the choices that societies make about how to use it"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, what is the argument for allowing autonomous vehicles once they are safer than the average driver?",
+      "options": [
+        "Human drivers would otherwise refuse to share roads with them.",
+        "Delaying their introduction would mean deaths that could have been prevented.",
+        "Manufacturers need the income to fund further research.",
+        "Public trust in the technology is already very high."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Every year of delay is said to mean preventable deaths.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "since every year of delay would mean preventable deaths"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 6 about the adoption of autonomous vehicles?",
+      "options": [
+        "The public already trusts machines more than human drivers.",
+        "Most people never hear about accidents involving self-driving cars.",
+        "Public opinion has little effect on how quickly they are adopted.",
+        "It may depend as much on public perception as on overall safety records."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "A few publicised accidents could delay adoption even if the technology saves lives overall, so perception matters greatly.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "a few highly publicised accidents could set back adoption for years, even if the technology was saving lives overall"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 6, why is it difficult to demonstrate that autonomous vehicles are safe?",
+      "options": [
+        "Manufacturers refuse to share their accident data.",
+        "The software changes too often to be tested properly.",
+        "Serious accidents are rare, so testing over vast distances is needed.",
+        "There is no agreed definition of what counts as an accident."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Because serious accidents are uncommon, a reliable record requires enormous testing distances.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "serious accidents are relatively rare and a vehicle would need to be tested over vast distances"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"lapse\" is closest in meaning to:",
+      "options": [
+        "a temporary failure",
+        "a deliberate crime",
+        "a permanent defect",
+        "a legal penalty"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A human error is seen as a one-off slip, in contrast to a systematic flaw.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "a systematic flaw rather than an individual lapse"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer contrast \"a systematic flaw\" with \"an individual lapse\"?",
+      "options": [
+        "To argue that human drivers make fewer mistakes than software",
+        "To show that software errors are easier to correct",
+        "To blame tired motorists for most road accidents",
+        "To explain why a software failure may seem more alarming than a human mistake"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "A software fault suggests a problem that could repeat across many vehicles, which may provoke more outrage.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "a crash caused by software may provoke greater outrage than a comparable crash caused by a tired or distracted motorist"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, why do self-driving cars generate large quantities of data?",
+      "options": [
+        "Manufacturers collect passengers' data in order to sell it to advertisers.",
+        "They are legally required to report every journey to the authorities.",
+        "They rely on cameras and sensors that continuously record their surroundings.",
+        "They store the personal details of every pedestrian they pass."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Continuous recording by cameras and sensors is needed for safe navigation.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "they rely on cameras and sensors that continuously record their surroundings"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What does paragraph 7 suggest about detection systems trained on unrepresentative data?",
+      "options": [
+        "They are already prohibited by existing privacy law.",
+        "They could leave certain groups or environments less safe than others.",
+        "They will perform poorly in every situation.",
+        "They are a problem found only in autonomous vehicles."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Less reliable performance for under-represented groups, combined with the severe consequences of error, implies unequal safety.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "they may perform less reliably in those circumstances"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"under-represent\" means:",
+      "options": [
+        "describe unfairly",
+        "leave out completely",
+        "include too many examples of",
+        "include too few examples of"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The training data contain too few examples of certain groups or environments.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "trained on data that under-represent certain groups or environments"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 8, how might cheaper and less tiring car travel increase emissions?",
+      "options": [
+        "People might live further from work and make more journeys.",
+        "Autonomous vehicles use more fuel than conventional cars.",
+        "Shared fleets would require more parking space.",
+        "Public transport services would be withdrawn."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Easier car travel could encourage longer commutes and more trips.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "people may choose to live further from their workplaces and make more journeys"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does paragraph 8 imply about the effect of self-driving cars on cities?",
+      "options": [
+        "It will certainly reduce congestion and pollution.",
+        "It cannot be predicted or influenced in any way.",
+        "It could be positive or negative, depending largely on policy decisions.",
+        "It matters less than the ethics of unavoidable crashes."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer outlines two possible futures and says the result depends on pricing, regulation and public transport.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Which of these futures materialises will depend largely on decisions about pricing, regulation and investment in public transport."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "How does the final sentence of paragraph 8 relate to the rest of the passage?",
+      "options": [
+        "It introduces an entirely new argument about technology.",
+        "It connects the effects on cities to the passage's wider point that outcomes depend on social choices.",
+        "It contradicts the conclusion reached in paragraph 5.",
+        "It summarises the trolley problem described in paragraph 2."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Like paragraph 5, it stresses that society, not the technology alone, determines the outcome.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Here, as with the dilemmas discussed earlier"
+        }
+      ]
+    }
+  ]
+}

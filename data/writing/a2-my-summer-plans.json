@@ -1,0 +1,323 @@
+{
+  "id": "w-my-summer-plans",
+  "title": "My Summer Plans",
+  "level": "A2 · Elementary",
+  "description": "Practise \"going to\", comparatives and prepositions of time, then write an email about your summer plans.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Going to",
+      "prompt": "Choose the correct answer.",
+      "text": "This summer my brother and I ___ learn to surf.",
+      "options": [
+        "is going to",
+        "are going to",
+        "am going to",
+        "going to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"My brother and I\" means \"we\", so use are + going to."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Prepositions of time",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "We are going to leave ___ July.",
+      "answers": [
+        "in"
+      ],
+      "points": 1,
+      "explanation": "Use \"in\" with months, seasons and years: in July."
+    },
+    {
+      "id": "e3",
+      "type": "gap-fill",
+      "focus": "Going to: negatives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "I ___ (not / stay) at home all summer.",
+      "answers": [
+        "am not going to stay",
+        "'m not going to stay"
+      ],
+      "points": 1,
+      "explanation": "Negative form: am/is/are + not + going to + base verb: I am not going to stay."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Going to: questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "are",
+        "what",
+        "to",
+        "you",
+        "going",
+        "do",
+        "this summer"
+      ],
+      "answers": [
+        "What are you going to do this summer?"
+      ],
+      "points": 1,
+      "explanation": "Question word + are + you + going to + base verb: What are you going to do?"
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The beaches there are more big than here.",
+      "answers": [
+        "The beaches there are bigger than here."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives add -er: big - bigger (double the g). Do not use \"more\" with them."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Adverbs of frequency",
+      "prompt": "Choose the correct answer.",
+      "text": "In summer it ___ rains in my town, so I can play outside nearly every day.",
+      "options": [
+        "always",
+        "often",
+        "usually",
+        "hardly ever"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Hardly ever\" means almost never, so it matches playing outside nearly every day."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Will for predictions",
+      "prompt": "Choose the correct answer.",
+      "text": "I'm sure we ___ have a great time.",
+      "options": [
+        "will",
+        "are",
+        "going",
+        "would to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We use \"will\" + base verb for predictions, often after \"I'm sure\" or \"I think\"."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Comparatives: long adjectives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "This summer will be ___ (exciting) than last summer.",
+      "answers": [
+        "more exciting"
+      ],
+      "points": 1,
+      "explanation": "Long adjectives use \"more\" to make the comparative: exciting - more exciting than."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Will for predictions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "boring",
+        "it",
+        "be",
+        "won't"
+      ],
+      "answers": [
+        "It won't be boring.",
+        "Won't it be boring?"
+      ],
+      "points": 1,
+      "explanation": "Negative prediction = won't (will not) + base verb: It won't be boring."
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Will: form",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I think it will to be very hot.",
+      "answers": [
+        "I think it will be very hot."
+      ],
+      "points": 1,
+      "explanation": "After \"will\" we use the base verb without \"to\": it will be."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Some / any",
+      "prompt": "Choose the correct answer.",
+      "text": "I want to buy ___ new books to read on holiday.",
+      "options": [
+        "any",
+        "much",
+        "some",
+        "a"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We use \"some\" in positive sentences with plural nouns: some new books."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "How much / how many",
+      "prompt": "Complete the sentence with \"much\" or \"many\".",
+      "text": "How ___ days are you going to be away?",
+      "answers": [
+        "many"
+      ],
+      "points": 1,
+      "explanation": "\"Days\" is a plural countable noun, so we ask \"How many...?\"."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Going to for plans",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "visit",
+        "are",
+        "my cousins",
+        "we",
+        "going to"
+      ],
+      "answers": [
+        "We are going to visit my cousins.",
+        "Are we going to visit my cousins?"
+      ],
+      "points": 1,
+      "explanation": "Subject + am/is/are + going to + verb for a plan: We are going to visit my cousins."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Prepositions of time: on + date",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We're leaving in 15th July.",
+      "answers": [
+        "We're leaving on 15th July."
+      ],
+      "points": 1,
+      "explanation": "We use \"on\" with dates: on 15th July. We use \"in\" with months only: in July."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Choose the correct answer.",
+      "text": "Last summer I ___ to stay with my grandparents.",
+      "options": [
+        "went",
+        "go",
+        "goes",
+        "going"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Last summer\" is in the past, so we use the past simple: go - went."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Last summer I ___ (learn) to swim.",
+      "answers": [
+        "learned",
+        "learnt"
+      ],
+      "points": 1,
+      "explanation": "\"Learn\" has two past forms: learned (American and British) and learnt (British)."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Linking words: then",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "will travel",
+        "we",
+        "the mountains",
+        "then",
+        "to"
+      ],
+      "answers": [
+        "Then we will travel to the mountains.",
+        "We will travel to the mountains then."
+      ],
+      "points": 1,
+      "explanation": "\"Then\" shows the next step in a plan. It usually goes at the start of the sentence."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Countable and uncountable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I need to pack some luggages.",
+      "answers": [
+        "I need to pack some luggage."
+      ],
+      "points": 1,
+      "explanation": "\"Luggage\" is uncountable, so it has no plural -s: some luggage."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Prepositions: for + period of time",
+      "prompt": "Choose the correct answer.",
+      "text": "We're going to stay at the beach ___ two weeks.",
+      "options": [
+        "since",
+        "during",
+        "for",
+        "ago"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We use \"for\" + a period of time to say how long: for two weeks."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Superlatives: spelling",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "August is the hotest month of the year.",
+      "answers": [
+        "August is the hottest month of the year."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives ending in one vowel + one consonant double the consonant: hot - the hottest."
+    }
+  ],
+  "task": {
+    "genre": "Email",
+    "prompt": "Write an email to your friend Kate about your plans for the summer holiday.",
+    "contentPoints": [
+      "Say where you are going and when.",
+      "Say who you are going with.",
+      "Describe two things you are going to do there.",
+      "Ask about your friend's plans."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "Guess what?",
+      "This summer I am going to ...",
+      "We are going to stay ...",
+      "... is bigger/more beautiful than ...",
+      "What are you going to do this summer?"
+    ],
+    "modelAnswer": "Hi Kate,\n\nGuess what? This summer I'm going to visit my uncle in Nha Trang! My brother and I are going to travel there by train in July and stay for three weeks. Nha Trang is bigger than my town, and the beaches there are beautiful. We are going to learn to surf, and I'm also going to go on a boat trip to the islands.\n\nWhat are you going to do this summer?\n\nLove,\nHa"
+  }
+}

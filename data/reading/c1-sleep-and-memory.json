@@ -1,0 +1,447 @@
+{
+  "id": "sleep-and-memory",
+  "title": "Why the Brain Needs Sleep",
+  "level": "C1 · Advanced",
+  "description": "A science article on the link between sleep and memory.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "For most of human history, sleep was regarded as a passive state, a period in which the body and mind simply switched off to rest. Over the past few decades, however, neuroscientists have overturned this assumption. Far from being idle, the sleeping brain is engaged in a remarkable range of activities, many of which appear to be essential for learning and memory."
+    },
+    {
+      "id": "p2",
+      "text": "One of the most influential theories holds that sleep allows the brain to consolidate memories, transforming fragile, recently acquired information into stable, long-term knowledge. During the day, new experiences are temporarily stored in the hippocampus, a small structure deep within the brain. At night, particularly during deep, slow-wave sleep, these memories are thought to be replayed and gradually transferred to the cortex, where they can be integrated with existing knowledge."
+    },
+    {
+      "id": "p3",
+      "text": "Experimental evidence for this process is compelling. In a typical study, participants learn a list of word pairs in the evening and are tested the next morning. Those who sleep normally consistently recall more pairs than those who are kept awake, even when the sleep-deprived group is allowed to recover before testing. Crucially, the advantage is not merely a matter of being less tired; it seems that something happens during sleep that actively strengthens what was learned."
+    },
+    {
+      "id": "p4",
+      "text": "Sleep may also help the brain to forget. According to the synaptic homeostasis hypothesis, the connections between neurons grow stronger throughout the day as we learn, which is costly in terms of energy and space. During sleep, the brain is believed to scale these connections back down, pruning weaker ones while preserving the most important. This selective weakening, paradoxically, may make it easier to learn new information the following day."
+    },
+    {
+      "id": "p5",
+      "text": "These findings have clear practical implications, particularly for students. The common habit of staying up all night before an examination is likely to be counterproductive, since it deprives the brain of the very process that secures learning. Spreading study over several days, with adequate sleep in between, is a far more effective strategy than a single intensive session."
+    },
+    {
+      "id": "p6",
+      "text": "Slow-wave sleep is not the only stage that matters. Rapid eye movement (REM) sleep, the stage most strongly associated with vivid dreaming, has been linked to the processing of emotional memories and to the discovery of hidden patterns. In some experiments, participants who had slept were more likely than those who had stayed awake to notice a concealed rule in a problem they had practised the previous day, suggesting that sleep may do more than simply preserve information; it may also help to reorganise it in ways that support insight. Such findings remain more tentative than those concerning consolidation, partly because the stages of sleep interact in complex ways and are difficult to study in isolation. Nevertheless, they suggest that a full night's sleep, containing several cycles of different stages, may offer benefits that a brief nap cannot."
+    },
+    {
+      "id": "p7",
+      "text": "Naps can nonetheless be useful. Several studies have found that a short period of sleep after learning can improve later recall compared with an equivalent period of wakefulness, which suggests that the benefits of sleep are not confined to the night, although the size of the benefit seems to vary with the length of the nap and the kind of material being learned. The relationship between sleep and memory also changes across the lifespan. Older adults typically spend less time in deep, slow-wave sleep than younger people do, and some researchers have proposed that this decline may contribute to the difficulties with memory that often accompany ageing. Whether improving the quality of sleep in later life could slow such decline is an active area of investigation, although it is still too early to draw firm conclusions."
+    },
+    {
+      "id": "p8",
+      "text": "It is worth emphasising, however, that sleep is not a substitute for effective learning. Material that was never properly understood or attended to in the first place is unlikely to be rescued by a good night's rest, since consolidation appears to strengthen what has already been encoded rather than to create new knowledge from nothing. Moreover, the conditions of modern life often work against the brain's needs, and sleep is frequently the first thing to be sacrificed when time is short. Early school start times, irregular work shifts and the use of bright screens late in the evening can all shorten or disrupt sleep, particularly among adolescents, whose natural sleep patterns tend to shift later during the teenage years. If sleep is indeed an active partner in learning, then the way societies organise their schedules may deserve as much attention as the way individuals choose to study."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best summarises the passage?",
+      "options": [
+        "Sleep is mainly a time for the body to rest physically.",
+        "The sleeping brain actively performs processes that support learning and memory.",
+        "The hippocampus is the most important part of the brain.",
+        "Students should sleep more than adults."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Paragraph 1 states the central claim, and the following paragraphs give evidence for how sleep supports memory.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "the sleeping brain is engaged in a remarkable range of activities, many of which appear to be essential for learning and memory"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, where are new memories stored temporarily?",
+      "options": [
+        "In the cortex",
+        "In the hippocampus",
+        "In the synapses of the spinal cord",
+        "In long-term knowledge"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "New experiences are \"temporarily stored in the hippocampus\" before moving to the cortex.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "new experiences are temporarily stored in the hippocampus"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"consolidate\" is closest in meaning to:",
+      "options": [
+        "delete",
+        "make stronger and more stable",
+        "share with others",
+        "remember briefly"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The sentence explains consolidation as turning fragile information into stable, long-term knowledge.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "transforming fragile, recently acquired information into stable, long-term knowledge"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "purpose",
+      "text": "Why does the writer mention that the sleep-deprived group \"is allowed to recover before testing\"?",
+      "options": [
+        "To show the experiment was unfair",
+        "To rule out tiredness as the only explanation for poorer recall",
+        "To explain why participants were tested in the morning",
+        "To prove that recovery sleep is harmful"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Allowing recovery removes tiredness as a factor, so the advantage must come from something that happens during sleep itself.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "even when the sleep-deprived group is allowed to recover before testing"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "the advantage is not merely a matter of being less tired"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "According to the synaptic homeostasis hypothesis, what happens during sleep?",
+      "options": [
+        "All connections between neurons are strengthened.",
+        "New neurons are created.",
+        "Weaker connections are pruned while important ones are kept.",
+        "The hippocampus stops working."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The brain scales connections back down, \"pruning weaker ones while preserving the most important\".",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "pruning weaker ones while preserving the most important"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "Why does the writer describe the effect in paragraph 4 as happening \"paradoxically\"?",
+      "options": [
+        "Because forgetting something would normally be expected to harm learning, not help it",
+        "Because scientists disagree about the hypothesis",
+        "Because the brain uses more energy during sleep",
+        "Because the theory has been proven wrong"
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "It seems contradictory that weakening connections (a kind of forgetting) could make learning easier — that is the paradox.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "This selective weakening, paradoxically, may make it easier to learn new information the following day."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 5, \"counterproductive\" most nearly means:",
+      "options": [
+        "having the opposite effect to the one intended",
+        "very tiring",
+        "commonly practised",
+        "scientifically proven"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Staying up to study deprives the brain of the process that secures learning — it works against the goal.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "it deprives the brain of the very process that secures learning"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "Which study plan would the writer most likely recommend?",
+      "options": [
+        "Studying all night before the exam",
+        "Studying for one long session the day before the exam",
+        "Studying a little each day for a week and sleeping well each night",
+        "Sleeping during the day and studying at night"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer recommends spreading study over several days with adequate sleep in between.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Spreading study over several days, with adequate sleep in between, is a far more effective strategy than a single intensive session."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 6 to 8?",
+      "options": [
+        "REM sleep is more important than slow-wave sleep for every kind of memory.",
+        "A short nap provides all the benefits of a full night's sleep.",
+        "A good night's sleep can make up for material that was never properly learned.",
+        "Several stages of sleep, and even naps, may aid memory, but sleep only builds on real learning and modern schedules often disrupt it."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The final paragraphs cover REM sleep, naps and ageing, the limits of sleep, and the effect of modern schedules.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "sleep is not a substitute for effective learning"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, what has REM sleep been linked to?",
+      "options": [
+        "Processing emotional memories and discovering hidden patterns",
+        "Pruning weaker connections between neurons",
+        "Moving memories from the cortex into the hippocampus",
+        "Helping the body recover after physical exercise"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "REM sleep is associated with emotional memory and the detection of hidden patterns.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "has been linked to the processing of emotional memories and to the discovery of hidden patterns"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does the experiment involving a concealed rule suggest?",
+      "options": [
+        "Sleep makes people better at solving every type of problem.",
+        "People who stay awake are unable to find hidden rules.",
+        "Dreaming is the only source of creative insight.",
+        "Sleep may help to reorganise information as well as preserve it."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Sleepers were more likely to notice the hidden rule, implying that sleep restructures knowledge, not just stores it.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "it may also help to reorganise it in ways that support insight"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"tentative\" is closest in meaning to:",
+      "options": [
+        "widely accepted",
+        "carefully concealed",
+        "not yet firmly established",
+        "deliberately misleading"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Findings about REM sleep and insight are less certain than those about consolidation.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Such findings remain more tentative than those concerning consolidation"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "According to paragraph 7, what have studies found about naps?",
+      "options": [
+        "Naps are more effective than a full night's sleep.",
+        "Naps benefit older adults but not younger people.",
+        "Naps reduce the amount of deep sleep needed at night.",
+        "A short sleep after learning can improve later recall compared with staying awake."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Short sleep after learning improved recall relative to the same time spent awake.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "a short period of sleep after learning can improve later recall compared with an equivalent period of wakefulness"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 7, how does sleep typically differ in older adults?",
+      "options": [
+        "They spend less time in deep, slow-wave sleep.",
+        "They spend more time in REM sleep.",
+        "They no longer consolidate memories at all.",
+        "They sleep for longer than younger people."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Older adults typically get less slow-wave sleep than younger people.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Older adults typically spend less time in deep, slow-wave sleep than younger people do"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What is the writer's attitude to the idea that better sleep could slow memory decline in later life?",
+      "options": [
+        "Confident that it has already been proven",
+        "Dismissive, because it lacks any scientific basis",
+        "Indifferent, because ageing is not relevant to the topic",
+        "Interested but cautious, because the evidence is not yet conclusive"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer calls it an active area of investigation but warns that firm conclusions are premature.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "although it is still too early to draw firm conclusions"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer begin paragraph 7 with \"Naps can nonetheless be useful\"?",
+      "options": [
+        "To contradict the experimental evidence described in paragraph 3",
+        "To recommend naps as a replacement for sleeping at night",
+        "To qualify the earlier point that a brief nap cannot offer every benefit of a full night",
+        "To introduce the effect of ageing on memory"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Paragraph 6 ends by saying naps cannot match a full night; paragraph 7 adds that they still have value.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "may offer benefits that a brief nap cannot"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Why, according to paragraph 8, is sleep not a substitute for effective learning?",
+      "options": [
+        "Sleep benefits only memories of emotional events.",
+        "Most consolidation actually takes place while people are awake.",
+        "Students rarely sleep long enough to gain any benefit.",
+        "Consolidation strengthens what has already been encoded rather than creating new knowledge."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Sleep cannot rescue material that was never properly learned in the first place.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "consolidation appears to strengthen what has already been encoded rather than to create new knowledge from nothing"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"disrupt\" is closest in meaning to:",
+      "options": [
+        "lengthen",
+        "interrupt or disturb",
+        "measure",
+        "deepen"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Screens and irregular shifts can break up or disturb sleep.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "can all shorten or disrupt sleep"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does paragraph 8 imply about early school start times?",
+      "options": [
+        "They may suit teenagers especially poorly, since teenagers' sleep patterns tend to shift later.",
+        "They are the main reason for poor examination results.",
+        "They benefit adolescents by encouraging regular habits.",
+        "They have already been abandoned in most countries."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Adolescents naturally sleep later, so early starts are likely to cut their sleep short.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "whose natural sleep patterns tend to shift later during the teenage years"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "What is the purpose of the final sentence of the passage?",
+      "options": [
+        "To summarise the evidence for memory consolidation",
+        "To blame students for their poor sleep habits",
+        "To extend the argument from individual study habits to the way society organises time",
+        "To argue that individual study habits do not matter"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer suggests that schedules set by society deserve attention alongside personal study choices.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the way societies organise their schedules may deserve as much attention as the way individuals choose to study"
+        }
+      ]
+    }
+  ]
+}

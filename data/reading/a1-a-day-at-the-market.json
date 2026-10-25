@@ -1,0 +1,451 @@
+{
+  "id": "a-day-at-the-market",
+  "title": "A Day at the Market",
+  "level": "A1 · Beginner",
+  "description": "A simple story about shopping at a weekend market with a grandmother.",
+  "instructions": "Read the text about a weekend market, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Every Saturday, there is a market in my town. It is in the big square near the library. The market opens at eight o'clock in the morning. Many people go there."
+    },
+    {
+      "id": "p2",
+      "text": "Last Saturday, I went to the market with my grandmother. We bought apples, tomatoes and fresh bread. The apples were cheap, only two dollars for a bag. My grandmother also bought some yellow flowers."
+    },
+    {
+      "id": "p3",
+      "text": "At ten o'clock, we were hungry. We ate hot soup at a small cafe. Then we walked home with our heavy bags. It was a happy morning."
+    },
+    {
+      "id": "p4",
+      "text": "My grandmother goes to the market every week. She knows many of the sellers. Her friend Mr Lopez sells eggs and cheese. He always gives me a small piece of cheese to try. It is very good."
+    },
+    {
+      "id": "p5",
+      "text": "There is often a man with a big black hat at the market. He plays the guitar in the middle of the square. People stop and listen to him. Last Saturday, I put a coin in his hat. He smiled at me."
+    },
+    {
+      "id": "p6",
+      "text": "The market is very crowded at eleven o'clock. There are many people and it is very noisy. My grandmother says, 'Come early, before the crowds!' That is why we always go at eight o'clock."
+    },
+    {
+      "id": "p7",
+      "text": "At home, I helped my grandmother. I washed the apples and put the flowers in a vase. In the evening, we made a tomato salad and ate it with the fresh bread. I want to go to the market again next Saturday."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A visit to the library",
+        "A morning at the town market",
+        "A grandmother's garden",
+        "Cooking soup at home"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer describes the Saturday market and a morning shopping there with a grandmother.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Every Saturday, there is a market in my town."
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "Last Saturday, I went to the market with my grandmother."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Where is the market?",
+      "options": [
+        "In the big square near the library",
+        "Next to a school",
+        "In a small cafe",
+        "Behind the writer's house"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The market is in the big square near the library.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It is in the big square near the library."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How much was a bag of apples?",
+      "options": [
+        "Eight dollars",
+        "Ten dollars",
+        "One dollar",
+        "Two dollars"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The apples were only two dollars for a bag.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "only two dollars for a bag"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"cheap\" means...",
+      "options": [
+        "very small",
+        "not fresh",
+        "not expensive",
+        "very sweet"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Cheap\" means it does not cost a lot of money. The text says \"only two dollars\", which is not much.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The apples were cheap, only two dollars for a bag."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What did they do at ten o'clock?",
+      "options": [
+        "They bought flowers",
+        "They ate soup at a cafe",
+        "They went to the library",
+        "They opened the market"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "At ten o'clock they were hungry, so they ate hot soup at a small cafe.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "At ten o'clock, we were hungry."
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "We ate hot soup at a small cafe."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "When is there a market in the writer's town?",
+      "options": [
+        "Every Sunday",
+        "Every day",
+        "Every Saturday",
+        "Every Monday"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Every Saturday, there is a market in the town.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Every Saturday, there is a market in my town."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What time does the market open?",
+      "options": [
+        "At ten o'clock",
+        "At seven o'clock",
+        "At nine o'clock",
+        "At eight o'clock"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The market opens at eight o'clock in the morning.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "The market opens at eight o'clock in the morning."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Who did the writer go to the market with last Saturday?",
+      "options": [
+        "Their grandmother",
+        "Their mum",
+        "A friend from school",
+        "Mr Lopez"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer went to the market with their grandmother.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Last Saturday, I went to the market with my grandmother."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What colour were the flowers?",
+      "options": [
+        "Red",
+        "White",
+        "Yellow",
+        "Blue"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The grandmother bought some yellow flowers.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "My grandmother also bought some yellow flowers."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "Why were their bags heavy?",
+      "options": [
+        "They carried many books",
+        "They had soup in their bags",
+        "They bought a new guitar",
+        "They bought a lot of food at the market"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They bought apples, tomatoes, bread and flowers, so the bags were heavy.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "We bought apples, tomatoes and fresh bread."
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "Then we walked home with our heavy bags."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What does Mr Lopez sell?",
+      "options": [
+        "Apples and bread",
+        "Eggs and cheese",
+        "Fish",
+        "Flowers"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Lopez sells eggs and cheese.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Her friend Mr Lopez sells eggs and cheese."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"sellers\" means...",
+      "options": [
+        "people who sell things",
+        "people who buy things",
+        "people who cook food",
+        "people who play music"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sellers are people who sell things, like Mr Lopez with his eggs and cheese.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "She knows many of the sellers."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What does Mr Lopez always give the writer?",
+      "options": [
+        "An egg",
+        "A coin",
+        "A yellow flower",
+        "A small piece of cheese to try"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He always gives the writer a small piece of cheese to try.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "He always gives me a small piece of cheese to try."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "A man who plays music at the market",
+        "A man who sells hats",
+        "A new guitar shop",
+        "A music lesson at school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 5 is about a man in a black hat who plays the guitar in the square.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "He plays the guitar in the middle of the square."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "What did the writer put in the man's hat?",
+      "options": [
+        "An apple",
+        "A flower",
+        "A coin",
+        "Some bread"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer put a coin in his hat.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Last Saturday, I put a coin in his hat."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"crowded\" means...",
+      "options": [
+        "empty",
+        "full of people",
+        "very clean",
+        "very cold"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "At eleven o'clock there are many people, so the market is crowded.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The market is very crowded at eleven o'clock. There are many people and it is very noisy."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "Why do the writer and their grandmother always go to the market at eight o'clock?",
+      "options": [
+        "To get there before the crowds",
+        "Because the market closes at nine",
+        "Because the soup is cheap at eight",
+        "Because the guitar man comes at eight"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The grandmother says to come early, before the crowds. That is why they go at eight.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "My grandmother says, 'Come early, before the crowds!' That is why we always go at eight o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "Where did the writer put the flowers?",
+      "options": [
+        "In the garden",
+        "In a bag",
+        "In a vase",
+        "On the bed"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer put the flowers in a vase.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "I washed the apples and put the flowers in a vase."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What did they make in the evening?",
+      "options": [
+        "An apple cake",
+        "Hot soup",
+        "A cheese pizza",
+        "A tomato salad"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "In the evening, they made a tomato salad and ate it with the bread.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "In the evening, we made a tomato salad and ate it with the fresh bread."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "How does the writer feel about the market?",
+      "options": [
+        "They think it is boring",
+        "They like it and want to go again",
+        "They are scared of it",
+        "They never want to go again"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer wants to go to the market again next Saturday, so they like it.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "I want to go to the market again next Saturday."
+        }
+      ]
+    }
+  ]
+}

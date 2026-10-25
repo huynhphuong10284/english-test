@@ -1,0 +1,459 @@
+{
+  "id": "memory-and-eyewitness-testimony",
+  "title": "The Fallible Witness",
+  "level": "C1 · Advanced",
+  "description": "An article on why eyewitness memory can be unreliable and how legal procedures can be improved.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Few forms of evidence carry as much weight in a courtroom as the confident testimony of an eyewitness. Jurors tend to find a witness who identifies a defendant with certainty highly persuasive, and for much of legal history such identifications were regarded as close to conclusive. Yet the introduction of DNA testing revealed that a considerable number of people had been convicted of crimes they did not commit, and that mistaken eyewitness identification had played a part in many of these wrongful convictions."
+    },
+    {
+      "id": "p2",
+      "text": "Psychological research helps to explain why. Memory does not function like a video recording that can be replayed at will; rather, it is reconstructive, meaning that each act of remembering involves piecing together fragments of information and filling gaps with expectations and inferences. During a crime, moreover, conditions for accurate perception are often poor: events unfold quickly, lighting may be inadequate, and witnesses under stress may focus on a weapon rather than on the perpetrator's face."
+    },
+    {
+      "id": "p3",
+      "text": "Memories are also vulnerable to contamination after the event. In a well-known line of experiments, participants watched footage of a traffic accident and were then asked questions about it. When the question used a more violent verb to describe the collision, participants estimated higher speeds and were more likely to report seeing broken glass that had not, in fact, been present. Such findings demonstrate that the wording of a question can subtly alter what a person believes they remember."
+    },
+    {
+      "id": "p4",
+      "text": "Perhaps most troubling is the weak relationship between confidence and accuracy under certain conditions. A witness's confidence can grow over time, particularly if they receive confirming feedback, such as being told that they have identified the suspect. By the time of a trial, a witness who was initially hesitant may testify with complete conviction, and jurors have no straightforward way of knowing that this certainty was partly manufactured."
+    },
+    {
+      "id": "p5",
+      "text": "These insights have prompted reforms in some jurisdictions. Recommended procedures include having line-ups conducted by an officer who does not know which person is the suspect, warning witnesses that the culprit may not be present, and recording a witness's level of confidence immediately after an identification. None of these measures can make memory infallible, but by reducing the opportunities for distortion, they can make eyewitness evidence considerably more reliable."
+    },
+    {
+      "id": "p6",
+      "text": "Other factors can also affect the accuracy of identifications. Research has consistently found that people tend to be less accurate when identifying individuals from ethnic groups other than their own, a pattern often attributed to differences in the amount of everyday contact people have with members of different groups. The length of time between the crime and the identification matters too, since memories typically fade and become more open to suggestion as the interval grows. A further risk arises when a witness views the same person more than once, for instance in a set of photographs and later in a line-up. On the second occasion, the face may seem familiar simply because it has been seen before, and the witness may mistakenly attribute that sense of familiarity to the original crime rather than to the earlier procedure."
+    },
+    {
+      "id": "p7",
+      "text": "Courts have responded to these findings in different ways. In some legal systems, judges now give juries specific instructions about the factors that can undermine eyewitness memory, while others permit psychologists to testify as expert witnesses about the relevant research. Critics of expert testimony argue that it risks making jurors excessively sceptical, leading them to discount identifications that are in fact accurate. Supporters reply that jurors already hold many misconceptions about memory, such as the belief that traumatic events are always remembered vividly and precisely, and that correcting these assumptions merely allows evidence to be weighed more appropriately. The underlying difficulty is that the research describes tendencies across large groups of people, whereas a court must decide whether one particular witness, on one particular occasion, is mistaken."
+    },
+    {
+      "id": "p8",
+      "text": "It would be wrong, however, to conclude that eyewitness testimony should simply be disregarded. Many identifications are accurate, and in a large proportion of cases no other evidence is available. Indeed, more recent research has suggested that an initial identification made quickly and with high confidence, under fair procedures, can be a reasonably good indicator of accuracy; it is the later, contaminated forms of confidence that are particularly misleading. The challenge for the legal system is thus not to abandon eyewitness evidence but to gather it in ways that preserve its value and to interpret it in light of what is known about how memory works. Treating memory as a fragile form of evidence, rather than as an infallible record, is ultimately what allows it to be used responsibly."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best summarises the passage?",
+      "options": [
+        "Eyewitness memory is less reliable than is often assumed, but careful procedures can reduce errors.",
+        "Eyewitness testimony should never be used in court.",
+        "DNA testing has removed the need for eyewitnesses.",
+        "Confident witnesses are almost always accurate."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The passage explains why eyewitness memory can mislead and ends with reforms that make it more reliable, not infallible.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "mistaken eyewitness identification had played a part in many of these wrongful convictions"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "they can make eyewitness evidence considerably more reliable"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "vocabulary",
+      "text": "In paragraph 2, describing memory as \"reconstructive\" means that memory:",
+      "options": [
+        "records events exactly as they happened",
+        "becomes more accurate each time it is recalled",
+        "cannot be recalled after a stressful event",
+        "is assembled from fragments, with gaps filled by expectation"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer defines the term immediately: remembering involves piecing together fragments and filling gaps.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "each act of remembering involves piecing together fragments of information and filling gaps with expectations and inferences"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "According to paragraph 2, why might a witness under stress fail to remember the perpetrator's face?",
+      "options": [
+        "They are usually too far away to see clearly.",
+        "They deliberately avoid looking at the perpetrator.",
+        "Their attention may be drawn to a weapon.",
+        "Stress erases memories immediately."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Stressed witnesses may focus on a weapon rather than the face.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "witnesses under stress may focus on a weapon rather than on the perpetrator's face"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "purpose",
+      "text": "Why does the writer describe the traffic accident experiments?",
+      "options": [
+        "To show that witnesses to accidents are more reliable than witnesses to crimes",
+        "To illustrate how information received after an event can distort memory",
+        "To argue that drivers underestimate their speed",
+        "To demonstrate that video footage is unreliable"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The experiments support the claim that memories can be contaminated after the event.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Memories are also vulnerable to contamination after the event."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can be inferred about the participants who reported seeing broken glass?",
+      "options": [
+        "They had watched a different video from the other participants.",
+        "They were deliberately lying to the researchers.",
+        "Their memory had been influenced by the wording of the question.",
+        "They had better eyesight than the other participants."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The glass was not present; the more violent verb in the question led them to \"remember\" it.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "broken glass that had not, in fact, been present"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "the wording of a question can subtly alter what a person believes they remember"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"manufactured\" is closest in meaning to:",
+      "options": [
+        "honestly earned",
+        "artificially produced",
+        "legally recorded",
+        "physically built"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The witness's certainty was created partly by feedback rather than by their original memory.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "this certainty was partly manufactured"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "Why might it be useful to record a witness's confidence immediately after an identification?",
+      "options": [
+        "It allows the witness to change their answer later.",
+        "It proves that the identification is accurate.",
+        "It prevents the witness from testifying in court.",
+        "It captures the witness's certainty before later feedback can inflate it."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Paragraph 4 shows that confidence can grow over time with feedback, so an early record reflects the witness's original certainty.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "A witness's confidence can grow over time, particularly if they receive confirming feedback"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "recording a witness's level of confidence immediately after an identification"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "purpose",
+      "text": "What is the purpose of having line-ups conducted by an officer who does not know which person is the suspect?",
+      "options": [
+        "To prevent the officer from unintentionally influencing the witness",
+        "To save police time",
+        "To ensure that the suspect is always present",
+        "To make the witness more confident"
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The reforms aim to reduce opportunities for distortion; an officer who does not know the suspect cannot give cues or confirming feedback.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "conducted by an officer who does not know which person is the suspect"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "by reducing the opportunities for distortion"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best expresses the main point of paragraph 8?",
+      "options": [
+        "Eyewitness testimony is too unreliable to be used in criminal trials at all.",
+        "Eyewitness evidence remains valuable if it is gathered and interpreted with an understanding of how memory works.",
+        "A witness who is highly confident at trial is almost always accurate.",
+        "Most identifications are mistaken in cases where no other evidence exists."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraph argues against abandoning eyewitness evidence and for collecting and interpreting it carefully.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "The challenge for the legal system is thus not to abandon eyewitness evidence but to gather it in ways that preserve its value"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, what is often thought to explain why people are less accurate at identifying members of other ethnic groups?",
+      "options": [
+        "Differences in how much everyday contact they have with those groups",
+        "The stress caused by the presence of a weapon",
+        "Poor lighting at the scene of the crime",
+        "The length of time that has passed since the crime"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The pattern is often attributed to differing amounts of everyday contact with members of different groups.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "a pattern often attributed to differences in the amount of everyday contact people have with members of different groups"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "According to paragraph 6, how does a longer interval between the crime and the identification affect memory?",
+      "options": [
+        "Memories become clearer as the witness reflects on events.",
+        "Witnesses become unwilling to identify anyone at all.",
+        "It makes little difference if the witness was calm at the time.",
+        "Memories tend to fade and become more open to suggestion."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer says memories fade and grow more suggestible as the interval increases.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "memories typically fade and become more open to suggestion as the interval grows"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 6, why might a witness wrongly pick out someone they had earlier seen in a set of photographs?",
+      "options": [
+        "The photographs shown to witnesses are usually of poor quality.",
+        "Witnesses generally want to appear consistent with their earlier choices.",
+        "The face may feel familiar because of the photographs, and this may be mistaken for a memory of the crime.",
+        "Police officers often tell witnesses which photograph to select."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Familiarity from the earlier viewing can be wrongly attributed to the original crime.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the witness may mistakenly attribute that sense of familiarity to the original crime rather than to the earlier procedure"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"attribute\" is closest in meaning to:",
+      "options": [
+        "regard as coming from",
+        "compare with",
+        "report to",
+        "add to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The witness believes the feeling of familiarity comes from the crime rather than from the earlier procedure.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "attribute that sense of familiarity to the original crime"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 7, what concern do critics raise about expert testimony?",
+      "options": [
+        "It is too technical for most jurors to follow.",
+        "It is not permitted in any modern legal system.",
+        "It encourages witnesses to change their accounts.",
+        "It may make jurors too doubtful about identifications that are actually correct."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Critics fear jurors will become excessively sceptical and dismiss accurate identifications.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "it risks making jurors excessively sceptical, leading them to discount identifications that are in fact accurate"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What can be inferred about jurors' views of traumatic events, according to supporters of expert testimony?",
+      "options": [
+        "Jurors usually distrust witnesses who have experienced trauma.",
+        "Jurors may wrongly assume that memories of such events are especially reliable.",
+        "Jurors understand memory research better than most judges do.",
+        "Jurors believe that traumatic events are quickly forgotten."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Supporters describe the belief that traumatic events are always remembered vividly and precisely as a misconception, implying jurors may overrate such memories.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "such as the belief that traumatic events are always remembered vividly and precisely"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "What is the function of the final sentence of paragraph 7?",
+      "options": [
+        "To argue that psychological research has no place in the courtroom",
+        "To summarise the arguments in favour of expert testimony",
+        "To point out a basic limitation in applying research about groups to individual cases",
+        "To suggest that juries judge witnesses better than experts do"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Research reveals general tendencies, but courts must judge a single witness on a single occasion.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the research describes tendencies across large groups of people, whereas a court must decide whether one particular witness, on one particular occasion, is mistaken"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"discount\" is closest in meaning to:",
+      "options": [
+        "reduce the price of",
+        "question politely",
+        "repeat",
+        "disregard"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Overly sceptical jurors might ignore or give little weight to accurate identifications.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "leading them to discount identifications that are in fact accurate"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What does paragraph 8 suggest about the link between confidence and accuracy?",
+      "options": [
+        "Confidence is more informative when it is shown at an early identification carried out fairly.",
+        "Confidence is never a useful guide to whether a witness is accurate.",
+        "Confidence becomes a more reliable guide as the trial approaches.",
+        "Confidence matters only in cases where there is no other evidence."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Quick, high-confidence initial identifications under fair procedures can be informative; later, contaminated confidence is misleading.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "an initial identification made quickly and with high confidence, under fair procedures, can be a reasonably good indicator of accuracy"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "According to paragraph 8, why should eyewitness testimony not simply be disregarded?",
+      "options": [
+        "DNA testing has confirmed most eyewitness identifications.",
+        "Many identifications are accurate, and often there is no other evidence.",
+        "Juries are unwilling to convict without an eyewitness.",
+        "Recent reforms have made memory completely reliable."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer gives two reasons: many identifications are correct, and frequently nothing else is available.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Many identifications are accurate, and in a large proportion of cases no other evidence is available."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "Based on paragraphs 5 and 6, which additional precaution would the writer most likely support?",
+      "options": [
+        "Showing the suspect to the witness several times to refresh their memory",
+        "Postponing identifications for several months until the witness feels calm",
+        "Avoiding showing a witness the same suspect in photographs and then again in a line-up",
+        "Telling witnesses afterwards whether they picked the right person"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Repeated exposure creates misleading familiarity, delays weaken memory, and confirming feedback inflates confidence, so only avoiding repeated exposure fits the writer's concerns.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "A further risk arises when a witness views the same person more than once"
+        }
+      ]
+    }
+  ]
+}

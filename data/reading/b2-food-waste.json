@@ -1,0 +1,455 @@
+{
+  "id": "food-waste",
+  "title": "The Hidden Cost of Food Waste",
+  "level": "B2 · Upper-intermediate",
+  "description": "Where food is wasted, why it matters for the environment, and what can be done about it.",
+  "instructions": "Read the article about food waste, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Across the world, a substantial share of the food that is produced never reaches a human stomach. Estimates vary, but it is widely accepted that roughly a third of all food is lost or wasted somewhere between the farm and the plate. At a time when millions of people still go hungry, this figure has prompted governments, businesses and individuals to look more closely at where the waste occurs and what can be done about it."
+    },
+    {
+      "id": "p2",
+      "text": "The causes differ considerably depending on a country's level of development. In lower-income regions, most losses happen early in the supply chain, as crops spoil because of inadequate storage, poor roads or a lack of refrigeration. In wealthier countries, by contrast, a larger proportion is thrown away by shops and households, often while it is still perfectly safe to eat."
+    },
+    {
+      "id": "p3",
+      "text": "Consumer behaviour plays a major role in this second pattern. People frequently buy more than they need, tempted by special offers, and then fail to use it before it goes off. Confusion over date labels adds to the problem: many shoppers do not realise that a 'best before' date refers to quality rather than safety, and so they discard food that could still be eaten. Supermarkets have also been criticised for rejecting fruit and vegetables that are misshapen, even though their taste and nutritional value are unaffected."
+    },
+    {
+      "id": "p4",
+      "text": "The environmental consequences are considerable. Producing food requires land, water, fertiliser and fuel, all of which are wasted when the food itself is thrown away. Moreover, when organic waste rots in landfill sites, it releases methane, a greenhouse gas that is far more powerful than carbon dioxide over the short term. Reducing food waste is therefore increasingly seen as one of the simplest ways to tackle climate change."
+    },
+    {
+      "id": "p5",
+      "text": "Encouragingly, solutions are emerging at every level. Some supermarkets now sell 'ugly' produce at a discount, apps connect restaurants that have surplus meals with customers looking for a bargain, and food banks redistribute unsold items to people in need. At home, simple habits such as planning meals, checking the fridge before shopping and freezing leftovers can make a real difference. As campaigners like to point out, the cheapest and greenest meal is the one that is not wasted."
+    },
+    {
+      "id": "p6",
+      "text": "Restaurants and the wider hospitality industry are another important source of waste. Large portions, buffets and extensive menus all make it likely that some food will be left uneaten or will spoil in the kitchen before it can be used. Some chefs have responded by offering smaller portions at lower prices, using every part of an ingredient, for instance by turning vegetable peelings into stock, and monitoring exactly what customers leave on their plates. Businesses that have measured their waste carefully often discover that reducing it saves them a surprising amount of money, which suggests that the problem has been ignored partly because it was invisible."
+    },
+    {
+      "id": "p7",
+      "text": "Governments also have tools at their disposal. In some countries, large supermarkets are required by law to donate edible unsold food to charities rather than destroying it, while other countries have simplified date labels to reduce confusion. Public information campaigns can also shift attitudes, although changing everyday habits usually takes years rather than months. Critics argue that redistribution, while valuable, deals with the symptoms rather than the cause: if too much food is being produced and sold in the first place, giving away the surplus does not solve the underlying problem."
+    },
+    {
+      "id": "p8",
+      "text": "Even when waste cannot be avoided, it can be handled more responsibly. Food scraps that are collected separately can be turned into compost for gardens and farms or processed to produce energy, instead of rotting in landfill. Yet experts emphasise that these options should be a last resort, because preventing waste in the first place saves far more resources than dealing with it afterwards. Ultimately, tackling food waste may depend on a change in how we value what we eat. When food is cheap and plentiful, it is easy to forget the effort that went into growing, transporting and preparing it."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Supermarkets are the only cause of food waste.",
+        "Poorer countries waste more food at home than richer countries.",
+        "Food waste has several causes and serious effects, but practical solutions exist.",
+        "Date labels should be removed from all food."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The article examines where waste occurs, its environmental impact and solutions at every level.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "look more closely at where the waste occurs and what can be done about it"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "solutions are emerging at every level"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "In lower-income regions, where does most food loss happen?",
+      "options": [
+        "Early in the supply chain, before food reaches shops",
+        "In supermarkets",
+        "In restaurants",
+        "In people's homes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Crops spoil because of poor storage, roads and refrigeration.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "most losses happen early in the supply chain"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "What can be inferred about shoppers who throw away food once its \"best before\" date has passed?",
+      "options": [
+        "They are protecting their health.",
+        "They understand date labels very well.",
+        "They usually buy less than they need.",
+        "They may be wasting food that is still safe to eat."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A \"best before\" date is about quality, not safety, so the food is often still edible.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "a 'best before' date refers to quality rather than safety"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"misshapen\" describes fruit and vegetables that:",
+      "options": [
+        "are beginning to rot",
+        "have an unusual or irregular form",
+        "were grown without chemicals",
+        "were imported from abroad"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The produce looks different, but its taste and nutritional value are unaffected.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "rejecting fruit and vegetables that are misshapen, even though their taste and nutritional value are unaffected"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Why is food rotting in landfill sites a particular problem?",
+      "options": [
+        "It attracts dangerous animals.",
+        "It pollutes drinking water.",
+        "It takes up space needed for farms.",
+        "It produces methane, a powerful greenhouse gas."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 4 explains that rotting organic waste releases methane.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "it releases methane, a greenhouse gas that is far more powerful than carbon dioxide over the short term"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer list land, water, fertiliser and fuel in paragraph 4?",
+      "options": [
+        "To show that wasting food also wastes the resources used to produce it",
+        "To explain how farmers grow crops",
+        "To argue that fertiliser should be banned",
+        "To compare farming in different countries"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The list shows that all these resources are lost when food is thrown away.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "all of which are wasted when the food itself is thrown away"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"surplus\" is closest in meaning to:",
+      "options": [
+        "cold",
+        "expensive",
+        "extra; more than is needed",
+        "low-quality"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Restaurants have meals left over that they cannot sell normally.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "restaurants that have surplus meals"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Which household habit is NOT mentioned in paragraph 5?",
+      "options": [
+        "Planning meals",
+        "Growing your own vegetables",
+        "Checking the fridge before shopping",
+        "Freezing leftovers"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraph mentions planning meals, checking the fridge and freezing leftovers, but not growing vegetables.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "planning meals, checking the fridge before shopping and freezing leftovers"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which title would best suit the article as a whole?",
+      "options": [
+        "From Farm to Bin: Understanding and Reducing Food Waste",
+        "Why Supermarkets Should Close",
+        "The Health Benefits of Ugly Vegetables",
+        "How to Cook for a Large Family"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The article follows food waste from farms to shops, homes and restaurants, and discusses ways of reducing it.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "to look more closely at where the waste occurs and what can be done about it"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "What does the writer suggest by saying \"Estimates vary\" in paragraph 1?",
+      "options": [
+        "Nobody believes that food waste is a real problem.",
+        "The amount of food wasted has recently fallen.",
+        "Only governments collect information about waste.",
+        "The exact amount of food that is wasted is difficult to measure."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Different estimates exist, which implies that measuring food waste precisely is not easy, even if a rough figure is accepted.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Estimates vary, but it is widely accepted"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "purpose",
+      "text": "Why does the writer use the phrase \"by contrast\" in paragraph 2?",
+      "options": [
+        "To argue that richer countries waste less food",
+        "To introduce an example from a single supermarket",
+        "To show that waste happens at different stages in richer and poorer countries",
+        "To disagree with the estimate given in paragraph 1"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The phrase introduces the difference between early losses in poorer regions and waste by shops and households in richer ones.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In wealthier countries, by contrast, a larger proportion is thrown away by shops and households"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 3, why do people often buy more food than they need?",
+      "options": [
+        "They only go shopping once a month.",
+        "They are tempted by special offers.",
+        "Shops refuse to sell small quantities.",
+        "They plan to give food to their neighbours."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer says people buy more than they need because they are tempted by special offers.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "People frequently buy more than they need, tempted by special offers"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"extensive\" is closest in meaning to:",
+      "options": [
+        "expensive",
+        "carefully planned",
+        "old-fashioned",
+        "large and wide-ranging"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Menus with many dishes make it more likely that some ingredients will spoil before they are used.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Large portions, buffets and extensive menus"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Which of the following is NOT mentioned as a way in which chefs reduce waste?",
+      "options": [
+        "Offering smaller portions at lower prices",
+        "Buying all their ingredients frozen",
+        "Making stock from vegetable peelings",
+        "Checking what customers leave on their plates"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 6 mentions smaller portions, using every part of an ingredient and monitoring plates, but not frozen ingredients.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "offering smaller portions at lower prices"
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "turning vegetable peelings into stock"
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "monitoring exactly what customers leave on their plates"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What can be inferred from the final sentence of paragraph 6?",
+      "options": [
+        "Reducing waste is always expensive for businesses.",
+        "Customers generally prefer larger portions.",
+        "Many businesses did not realise how much food they were wasting.",
+        "Restaurants waste less food than households."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Businesses were surprised by the savings, and the writer says the problem was ignored because it was \"invisible\".",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the problem has been ignored partly because it was invisible"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the phrase \"at their disposal\" means:",
+      "options": [
+        "available for them to use",
+        "ready to be thrown away",
+        "difficult for them to understand",
+        "shared with other countries"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Governments have tools they can use, such as laws and information campaigns.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Governments also have tools at their disposal."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "According to paragraph 7, what are large supermarkets required to do in some countries?",
+      "options": [
+        "Sell all food at half price at the end of the day",
+        "Remove date labels from their products",
+        "Give edible unsold food to charities",
+        "Stop selling imported fruit"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In some countries the law requires large supermarkets to donate edible unsold food rather than destroy it.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "large supermarkets are required by law to donate edible unsold food to charities"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What do the critics mentioned in paragraph 7 believe?",
+      "options": [
+        "Charities should refuse to accept unsold food.",
+        "Giving away surplus food does not deal with why too much is produced.",
+        "Date labels should be made more detailed.",
+        "Food redistribution has no value at all."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The critics accept that redistribution is valuable but say it treats the symptoms, not the cause.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "deals with the symptoms rather than the cause"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "What is the main purpose of paragraph 8?",
+      "options": [
+        "To explain that dealing with waste better is useful but less important than preventing it",
+        "To recommend landfill as the safest option",
+        "To describe in detail how compost is made",
+        "To argue that food should be made more expensive"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Composting and energy production are described as a last resort, because prevention saves more resources.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "these options should be a last resort"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What does the writer imply in the last sentence of the article?",
+      "options": [
+        "Food should be made more expensive by law.",
+        "Farmers waste more food than anyone else.",
+        "Cheap food is always of poor quality.",
+        "People waste food partly because they do not appreciate the work involved in producing it."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "When food is cheap and plentiful, people forget the effort behind it, which makes them more likely to waste it.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "it is easy to forget the effort that went into growing, transporting and preparing it"
+        }
+      ]
+    }
+  ]
+}

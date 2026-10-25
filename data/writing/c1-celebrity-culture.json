@@ -1,0 +1,331 @@
+{
+  "id": "w-celebrity-culture",
+  "title": "Celebrity Culture",
+  "level": "C1 · Advanced",
+  "description": "Practise cleft sentences, inversion and concession, then write an article about the influence of celebrities on young people.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Cleft sentences",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "It is young people ___ are most influenced by celebrity endorsements.",
+      "options": [
+        "what",
+        "which",
+        "who",
+        "whom"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In an \"it\" cleft that focuses on people as the subject, use \"who\" (or \"that\") to introduce the clause."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one suitable word or phrase.",
+      "text": "Social media has blurred the ___ between celebrities and ordinary people.",
+      "answers": [
+        "line",
+        "lines",
+        "boundary",
+        "boundaries",
+        "distinction"
+      ],
+      "points": 1,
+      "explanation": "\"Blur the line/boundary/distinction between A and B\" means to make the difference less clear."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Advanced passives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "role",
+        "are",
+        "models",
+        "to",
+        "celebrities",
+        "be",
+        "thought"
+      ],
+      "answers": [
+        "Celebrities are thought to be role models."
+      ],
+      "points": 1,
+      "explanation": "Subject + are thought + to-infinitive is an impersonal passive for reporting what people generally believe."
+    },
+    {
+      "id": "e4",
+      "type": "transformation",
+      "focus": "Inversion with \"No sooner\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"No ___ the photo than it went viral.\"",
+      "text": "The singer had only just posted the photo when it went viral.",
+      "keyword": "SOONER",
+      "answers": [
+        "No sooner had the singer posted the photo than it went viral."
+      ],
+      "points": 1,
+      "explanation": "\"No sooner\" at the start of a sentence is followed by had + subject + past participle, and then \"than\"."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Hedging",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It could be argue that fame has never been easier to achieve.",
+      "answers": [
+        "It could be argued that fame has never been easier to achieve."
+      ],
+      "points": 1,
+      "explanation": "The hedging phrase uses a passive infinitive: It could be argued that ..."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Concession",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "___, some celebrities use their fame for good causes.",
+      "options": [
+        "Consequently",
+        "Hence",
+        "To this end",
+        "Admittedly"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Admittedly\" introduces a point that goes against your main argument, showing a balanced view."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Nominalisation",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Young people's ___ worrying.\"",
+      "text": "Young people are obsessed with celebrities, and this is worrying.",
+      "keyword": "OBSESSION",
+      "answers": [
+        "Young people's obsession with celebrities is worrying.",
+        "Young people's obsession with celebrity is worrying."
+      ],
+      "points": 1,
+      "explanation": "Nominalisation turns \"are obsessed with\" into the noun phrase \"obsession with\", which can be the subject of a sentence."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Inversion with \"Not once\"",
+      "prompt": "Complete the gap using the words in brackets in the correct order. Add any word you need.",
+      "text": "Not once ___ (the star / apologise) for her remarks.",
+      "answers": [
+        "did the star apologise",
+        "did the star apologize",
+        "has the star apologised",
+        "has the star apologized"
+      ],
+      "points": 1,
+      "explanation": "After \"Not once\" at the start of a sentence, use auxiliary + subject + main verb: Not once did the star apologise."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Teenagers are particularly susceptible ___ the influence of online stars.",
+      "options": [
+        "to",
+        "of",
+        "for",
+        "with"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The adjective \"susceptible\" (easily influenced or affected) is followed by \"to\"."
+    },
+    {
+      "id": "e10",
+      "type": "transformation",
+      "focus": "Advanced passives",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The singer ___ more than any other artist last year.\"",
+      "text": "People say that the singer earned more than any other artist last year.",
+      "keyword": "SAID",
+      "answers": [
+        "The singer is said to have earned more than any other artist last year.",
+        "The singer was said to have earned more than any other artist last year."
+      ],
+      "points": 1,
+      "explanation": "When the saying is present and the action is past, use is said + perfect infinitive: is said to have earned."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Inversion with \"Seldom\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "about",
+        "hear",
+        "do",
+        "the pressures",
+        "we",
+        "that fame brings",
+        "seldom"
+      ],
+      "answers": [
+        "Seldom do we hear about the pressures that fame brings."
+      ],
+      "points": 1,
+      "explanation": "When \"Seldom\" starts a sentence, it is followed by auxiliary + subject + verb: Seldom do we hear ..."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The ___ (glamour) lifestyle shown online is often far from reality.",
+      "answers": [
+        "glamorous"
+      ],
+      "points": 1,
+      "explanation": "An adjective is needed before \"lifestyle\": glamour (noun) becomes glamorous (note: no \"u\" before -ous)."
+    },
+    {
+      "id": "e13",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Young people are increasingly exposed with celebrity advertising.",
+      "answers": [
+        "Young people are increasingly exposed to celebrity advertising."
+      ],
+      "points": 1,
+      "explanation": "The adjective \"exposed\" is followed by \"to\": exposed to something."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Many stars use their platform to ___ attention to social issues.",
+      "options": [
+        "make",
+        "draw",
+        "pull",
+        "take"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Draw attention to\" something is a fixed collocation meaning to make people notice it."
+    },
+    {
+      "id": "e15",
+      "type": "transformation",
+      "focus": "Concession with \"No matter\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ people become, they deserve privacy.\"",
+      "text": "However famous people become, they deserve privacy.",
+      "keyword": "MATTER",
+      "answers": [
+        "No matter how famous people become, they deserve privacy."
+      ],
+      "points": 1,
+      "explanation": "\"No matter how + adjective\" means the same as \"however + adjective\" and introduces a concession."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "\"It is high time\" + past",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It is high time the media stops glorifying fame.",
+      "answers": [
+        "It is high time the media stopped glorifying fame.",
+        "It is high time that the media stopped glorifying fame.",
+        "It is high time for the media to stop glorifying fame."
+      ],
+      "points": 1,
+      "explanation": "After \"It is (high) time + subject\", use a past form to refer to the present: It is high time the media stopped ..."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Hedging",
+      "prompt": "Complete the gap with one suitable word or phrase.",
+      "text": "Celebrities are, to some ___, responsible for the values their fans adopt.",
+      "answers": [
+        "extent",
+        "degree"
+      ],
+      "points": 1,
+      "explanation": "\"To some extent/degree\" limits a claim, showing it is only partly true."
+    },
+    {
+      "id": "e18",
+      "type": "word-order",
+      "focus": "Contrast with \"whereas\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "today's teenagers",
+        "admired",
+        "admire",
+        "whereas",
+        "influencers",
+        "scientists",
+        "earlier generations"
+      ],
+      "answers": [
+        "Whereas earlier generations admired scientists, today's teenagers admire influencers.",
+        "Today's teenagers admire influencers, whereas earlier generations admired scientists."
+      ],
+      "points": 1,
+      "explanation": "\"Whereas\" contrasts two facts and can begin either the first or the second clause."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Many influencers present an unrealistic image of perfect.",
+      "answers": [
+        "Many influencers present an unrealistic image of perfection."
+      ],
+      "points": 1,
+      "explanation": "After the preposition \"of\" we need a noun: perfect (adjective) becomes perfection."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Formal reason linkers",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Some parents ban celebrity magazines ___ promote unhealthy ideals.\"",
+      "text": "Some parents ban celebrity magazines because they claim that these publications promote unhealthy ideals.",
+      "keyword": "GROUNDS",
+      "answers": [
+        "Some parents ban celebrity magazines on the grounds that they promote unhealthy ideals.",
+        "Some parents ban celebrity magazines on the grounds that these promote unhealthy ideals.",
+        "Some parents ban celebrity magazines on the grounds that the magazines promote unhealthy ideals.",
+        "Some parents ban celebrity magazines on the grounds that such magazines promote unhealthy ideals."
+      ],
+      "points": 1,
+      "explanation": "\"On the grounds that\" is a formal way of giving the reason someone states for an action."
+    }
+  ],
+  "task": {
+    "genre": "Article",
+    "prompt": "A magazine for parents and teachers has invited articles on the question \"Are celebrities good role models?\". Write an article discussing the influence of celebrity culture on young people.",
+    "contentPoints": [
+      "Describe how young people encounter celebrity culture.",
+      "Explain the negative effects it can have.",
+      "Acknowledge the positive side of celebrity influence.",
+      "Suggest how young people should respond to celebrity culture."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "Scroll through any ... and you will ...",
+      "It is young people who ...",
+      "It could be argued that ...",
+      "Admittedly, ...",
+      "Perhaps the answer lies in ...",
+      "After all, ..."
+    ],
+    "modelAnswer": "Famous for being famous?\n\nScroll through any social media feed and you will quickly encounter a celebrity: a singer advertising perfume, a footballer promoting a diet or a reality star sharing every detail of their breakfast. Celebrities are thought to be role models for millions, but what kind of example are they really setting?\n\nIt is young people who are most influenced by celebrity culture. Surveys suggest that many teenagers now name being famous as their main ambition, and it could be argued that fame has never been easier to achieve. Social media has blurred the line between celebrities and ordinary people, allowing anyone with a phone to build an audience. Yet few understand the pressures involved.\n\nYoung people's obsession with celebrities is worrying for another reason. Constant exposure to perfect bodies and luxurious lifestyles can damage self-esteem and encourage unrealistic expectations. Rarely, it seems, do advertisers consider the harm such images may cause.\n\nAdmittedly, some celebrities use their fame for good causes. Many have raised millions for charity, while others have spoken openly about their mental health, helping to reduce the stigma surrounding it. Such examples show that fame, used responsibly, can be a powerful force for good.\n\nPerhaps the answer lies not in rejecting celebrity culture altogether, but in teaching young people to view it critically. After all, the people we admire should be valued for what they do, not simply for who they are."
+  }
+}

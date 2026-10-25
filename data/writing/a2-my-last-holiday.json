@@ -1,0 +1,324 @@
+{
+  "id": "w-my-last-holiday",
+  "title": "My Last Holiday",
+  "level": "A2 · Elementary",
+  "description": "Practise the past simple, prepositions of time and comparatives, then write a diary entry about your last holiday.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Choose the correct answer.",
+      "text": "Last summer we ___ to Da Nang by plane.",
+      "options": [
+        "flew",
+        "flied",
+        "fly",
+        "flown"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Fly\" is irregular: fly - flew. \"Flown\" is the past participle."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: be",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Our hotel ___ (be) very close to the beach.",
+      "answers": [
+        "was"
+      ],
+      "points": 1,
+      "explanation": "The past simple of \"be\" is \"was\" with I, he, she, it and singular nouns, and \"were\" with you, we, they."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Past simple: questions",
+      "prompt": "Choose the correct answer.",
+      "text": "___ you enjoy your holiday?",
+      "options": [
+        "Do",
+        "Did",
+        "Were",
+        "Was"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Past simple questions with other verbs use \"did\" + subject + base verb: Did you enjoy ...?"
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Time expressions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "swam",
+        "in",
+        "we",
+        "the",
+        "every",
+        "morning",
+        "sea"
+      ],
+      "answers": [
+        "We swam in the sea every morning.",
+        "Every morning we swam in the sea."
+      ],
+      "points": 1,
+      "explanation": "Time expressions like \"every morning\" usually go at the end of the sentence, or at the start."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Prepositions of time",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We stayed in a hotel during two weeks.",
+      "answers": [
+        "We stayed in a hotel for two weeks."
+      ],
+      "points": 1,
+      "explanation": "Use \"for\" with a length of time (for two weeks). \"During\" goes before a noun like \"the holiday\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Comparatives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The food there was ___ (delicious) than the food at home.",
+      "answers": [
+        "more delicious"
+      ],
+      "points": 1,
+      "explanation": "Long adjectives use \"more\" to make the comparative: delicious - more delicious."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct answer.",
+      "text": "We ___ on the beach when it started to rain.",
+      "options": [
+        "walk",
+        "are walking",
+        "were walking",
+        "was walking"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We use the past continuous for a longer action in progress when something else happened. With \"we\" we use \"were\"."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "We ___ (eat) seafood every evening.",
+      "answers": [
+        "ate"
+      ],
+      "points": 1,
+      "explanation": "\"Eat\" is irregular: eat - ate - eaten."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Past continuous",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "every day",
+        "shining",
+        "the sun",
+        "was"
+      ],
+      "answers": [
+        "The sun was shining every day.",
+        "Every day the sun was shining.",
+        "Was the sun shining every day?"
+      ],
+      "points": 1,
+      "explanation": "Subject + was/were + -ing: The sun was shining every day."
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The boat trip costed a lot of money.",
+      "answers": [
+        "The boat trip cost a lot of money."
+      ],
+      "points": 1,
+      "explanation": "\"Cost\" is irregular and does not change in the past: cost - cost."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Much / many",
+      "prompt": "Choose the correct answer.",
+      "text": "We didn't take ___ photos because my phone was broken.",
+      "options": [
+        "much",
+        "a",
+        "any of",
+        "many"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Photos\" is a plural countable noun, so we use \"many\", not \"much\"."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Prepositions of place",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "We stayed ___ a small hotel near the beach.",
+      "answers": [
+        "in",
+        "at"
+      ],
+      "points": 1,
+      "explanation": "We stay \"in\" or \"at\" a hotel: in a small hotel, at the Sun Hotel."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Past simple: negatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "to go",
+        "didn't",
+        "I",
+        "home",
+        "want"
+      ],
+      "answers": [
+        "I didn't want to go home."
+      ],
+      "points": 1,
+      "explanation": "Past simple negative = didn't + base verb: I didn't want to go home."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Prepositions: transport",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We went to the island with boat.",
+      "answers": [
+        "We went to the island by boat."
+      ],
+      "points": 1,
+      "explanation": "We use \"by\" + transport with no article: by boat, by plane, by bus."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Superlatives: irregular",
+      "prompt": "Choose the correct answer.",
+      "text": "It was the ___ holiday of my life.",
+      "options": [
+        "better",
+        "good",
+        "best",
+        "most good"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Good\" has an irregular superlative: good - better - the best."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Going to for plans",
+      "prompt": "Complete the sentence with \"going to\" and the verb in brackets.",
+      "text": "Next summer we ___ (go) to Phu Quoc.",
+      "answers": [
+        "are going to go"
+      ],
+      "points": 1,
+      "explanation": "For future plans we use am/is/are + going to + verb: We are going to go."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Linking words: because",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "in the hotel",
+        "rained",
+        "because",
+        "stayed",
+        "it",
+        "we"
+      ],
+      "answers": [
+        "We stayed in the hotel because it rained.",
+        "Because it rained, we stayed in the hotel."
+      ],
+      "points": 1,
+      "explanation": "\"Because\" introduces a reason. It can go in the middle of the sentence or at the start, followed by a comma."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Comparatives: than",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The beach was more crowded as last year.",
+      "answers": [
+        "The beach was more crowded than last year."
+      ],
+      "points": 1,
+      "explanation": "After a comparative we use \"than\", not \"as\": more crowded than."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Some / any",
+      "prompt": "Choose the correct answer.",
+      "text": "We bought ___ souvenirs for our friends.",
+      "options": [
+        "any",
+        "much",
+        "a",
+        "some"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We use \"some\" in positive sentences with plural nouns: some souvenirs."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Adverbs of frequency",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We went often to the night market.",
+      "answers": [
+        "We often went to the night market."
+      ],
+      "points": 1,
+      "explanation": "Adverbs of frequency go before the main verb: We often went."
+    }
+  ],
+  "task": {
+    "genre": "Diary entry",
+    "prompt": "Write a diary entry on the last day of your holiday.",
+    "contentPoints": [
+      "Say where you went and who you went with.",
+      "Say where you stayed.",
+      "Describe what you usually did there.",
+      "Say what the best part of the holiday was and why."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "Dear Diary,",
+      "Today was the last day of ...",
+      "We stayed in ...",
+      "Every morning we ...",
+      "The best part was ... because ..."
+    ],
+    "modelAnswer": "Friday, 10th August\n\nDear Diary,\n\nToday was the last day of our holiday in Da Nang. We flew there with my grandparents last week and stayed in a small hotel near the beach. Every morning we swam in the sea, and in the evening we ate fresh seafood. The best part was today's boat trip because we saw dolphins! I don't want to go home tomorrow."
+  }
+}

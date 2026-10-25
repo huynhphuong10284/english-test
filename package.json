@@ -1,0 +1,65 @@
+{
+  "name": "english-reading-test",
+  "productName": "English Reading Test",
+  "version": "1.4.0",
+  "description": "Desktop app for practicing English reading comprehension tests",
+  "main": "src/main/main.js",
+  "scripts": {
+    "start": "electron .",
+    "postinstall": "npm run build:dict",
+    "validate": "node scripts/validate-exams.js",
+    "build:dict": "node scripts/build-dictionary.js",
+    "dist": "npm run validate && npm run build:dict && electron-builder --win"
+  },
+  "author": "phuonghv",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^44.0.0",
+    "electron-builder": "^26.15.3",
+    "wndb-with-exceptions": "^3.0.2"
+  },
+  "build": {
+    "appId": "vn.phuonghv.english-reading-test",
+    "productName": "English Reading Test",
+    "copyright": "Copyright © 2026 phuonghv",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "src/**/*",
+      "data/**/*",
+      "package.json",
+      "LICENSE",
+      "LICENSE-WORDNET"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "English Reading Test",
+      "license": "LICENSE",
+      "artifactName": "English-Reading-Test-Setup-${version}.exe"
+    },
+    "portable": {
+      "artifactName": "English-Reading-Test-Portable-${version}.exe"
+    }
+  }
+}

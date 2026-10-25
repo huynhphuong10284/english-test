@@ -1,0 +1,321 @@
+{
+  "id": "w-describing-a-photo",
+  "title": "Describing a Photo",
+  "level": "A2 · Elementary",
+  "description": "Practise prepositions of place, comparatives and the present continuous, then describe a family photo.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Prepositions of place",
+      "prompt": "Choose the correct answer.",
+      "text": "My grandparents are standing ___ the middle of the photo.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "between"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "We say \"in the middle (of)\" to talk about the centre of a picture."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Prepositions of place",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "My little cousin is sitting ___ my mum and my dad.",
+      "answers": [
+        "between"
+      ],
+      "points": 1,
+      "explanation": "Use \"between\" for a position with one person or thing on each side: between A and B."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Prepositions of place",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "the",
+        "on",
+        "dog",
+        "left",
+        "the"
+      ],
+      "answers": [
+        "The dog is on the left.",
+        "On the left is the dog.",
+        "Is the dog on the left?"
+      ],
+      "points": 1,
+      "explanation": "We say \"on the left\" and \"on the right\" to describe where things are in a picture."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My brother is more tall than me.",
+      "answers": [
+        "My brother is taller than me."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives add -er to make the comparative: tall - taller. Do not use \"more\" with them."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Present continuous",
+      "prompt": "Choose the correct answer.",
+      "text": "In the photo, we ___ at a big table in the garden.",
+      "options": [
+        "sit",
+        "sitting",
+        "sits",
+        "are sitting"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "To describe what people are doing in a photo, use the present continuous: am/is/are + verb-ing."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Superlatives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "This is the ___ (good) photo of my family.",
+      "answers": [
+        "best"
+      ],
+      "points": 1,
+      "explanation": "\"Good\" has an irregular superlative: good - better - the best."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Choose the correct answer.",
+      "text": "My uncle ___ this photo last summer.",
+      "options": [
+        "took",
+        "taked",
+        "takes",
+        "taken"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Last summer\" is in the past, and \"take\" is irregular: take - took."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Past continuous",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "When my uncle took the photo, my dad ___ (wear) a funny hat.",
+      "answers": [
+        "was wearing"
+      ],
+      "points": 1,
+      "explanation": "We use the past continuous (was/were + -ing) for an action in progress at a moment in the past."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the garden",
+        "took",
+        "in",
+        "we",
+        "the photo"
+      ],
+      "answers": [
+        "We took the photo in the garden.",
+        "In the garden we took the photo."
+      ],
+      "points": 1,
+      "explanation": "Subject + past simple verb + object + place: We took the photo in the garden."
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Prepositions of place",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My cat is sitting in the floor.",
+      "answers": [
+        "My cat is sitting on the floor."
+      ],
+      "points": 1,
+      "explanation": "We use \"on\" for surfaces: on the floor, on the table."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Prepositions of place",
+      "prompt": "Choose the correct answer.",
+      "text": "Our dog is sitting ___ of my grandparents.",
+      "options": [
+        "front",
+        "next",
+        "in front",
+        "behind"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The preposition is \"in front of\". We say \"next to\" and \"behind\" without \"of\"."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Will for predictions",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "I think my grandma ___ (love) this photo.",
+      "answers": [
+        "will love"
+      ],
+      "points": 1,
+      "explanation": "We use \"will\" + base verb for predictions, often after \"I think\"."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Adverbs of frequency",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "smiles",
+        "in photos",
+        "always",
+        "my grandpa"
+      ],
+      "answers": [
+        "My grandpa always smiles in photos."
+      ],
+      "points": 1,
+      "explanation": "Adverbs of frequency go before the main verb: My grandpa always smiles."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Irregular plurals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There are three childs in the photo.",
+      "answers": [
+        "There are three children in the photo."
+      ],
+      "points": 1,
+      "explanation": "\"Child\" has an irregular plural: one child, two children."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Much / many",
+      "prompt": "Choose the correct answer.",
+      "text": "There isn't ___ food left on the table.",
+      "options": [
+        "much",
+        "many",
+        "a",
+        "some"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Food\" is uncountable, so we use \"much\" in negative sentences."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Some / any",
+      "prompt": "Complete the sentence with \"some\" or \"any\".",
+      "text": "There are ___ balloons above the table.",
+      "answers": [
+        "some"
+      ],
+      "points": 1,
+      "explanation": "We use \"some\" in positive sentences with plural nouns: There are some balloons."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Going to for plans",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "print",
+        "am",
+        "this photo",
+        "I",
+        "going to"
+      ],
+      "answers": [
+        "I am going to print this photo.",
+        "Am I going to print this photo?"
+      ],
+      "points": 1,
+      "explanation": "Subject + am/is/are + going to + verb for a plan: I am going to print this photo."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Past simple: spelling",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My mum smileed for the photo.",
+      "answers": [
+        "My mum smiled for the photo."
+      ],
+      "points": 1,
+      "explanation": "Verbs that end in -e only add -d in the past simple: smile - smiled."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Linking words: because",
+      "prompt": "Choose the correct answer.",
+      "text": "Everyone is smiling ___ it was a very happy day.",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "then"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Because\" introduces a reason: Everyone is smiling because it was a happy day."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Present continuous: spelling",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My brother is siting next to me.",
+      "answers": [
+        "My brother is sitting next to me."
+      ],
+      "points": 1,
+      "explanation": "Short verbs ending in one vowel + one consonant double the consonant before -ing: sit - sitting."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Describe your favourite photo of your family or friends.",
+    "contentPoints": [
+      "Say when and where the photo was taken.",
+      "Say who is in the photo and where they are.",
+      "Describe what the people are doing.",
+      "Explain why you like the photo."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "This is my favourite photo.",
+      "In the middle, ...",
+      "On the left/right, ...",
+      "... is standing behind/next to ...",
+      "I like this photo because ..."
+    ],
+    "modelAnswer": "This is my favourite photo. My dad took it last summer in my grandparents' garden. My grandparents are sitting in the middle, and my little cousin is between them. My mum is standing behind them. She is laughing. Our dog Toby is on the left, next to a big tree. I like this photo because everybody looks happy and relaxed."
+  }
+}

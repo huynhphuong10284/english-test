@@ -1,0 +1,326 @@
+{
+  "id": "w-school-uniforms",
+  "title": "School Uniforms",
+  "level": "B1 · Intermediate",
+  "description": "Practise modals, the passive and linking words, then write a short essay giving your opinion on school uniforms.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Modals of obligation",
+      "prompt": "Choose the correct answer.",
+      "text": "At my school, we ___ wear a tie every day. It's a rule.",
+      "options": [
+        "should",
+        "could",
+        "have to",
+        "might"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"have to\" for a rule or obligation. \"Should\" is only advice."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Second conditional",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "If we didn't have uniforms, students ___ (spend) more money on clothes.",
+      "answers": [
+        "would spend"
+      ],
+      "points": 1,
+      "explanation": "In the main clause of the second conditional, use would + infinitive: students would spend."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Passive with modals",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "allowed",
+        "should",
+        "to choose",
+        "students",
+        "be",
+        "their clothes"
+      ],
+      "answers": [
+        "Students should be allowed to choose their clothes.",
+        "Should students be allowed to choose their clothes?"
+      ],
+      "points": 1,
+      "explanation": "A modal passive is modal + be + past participle: should be allowed. \"Allowed\" is followed by the to-infinitive."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Linking words",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Although uniforms are practical, but many students don't like them.",
+      "answers": [
+        "Although uniforms are practical, many students don't like them.",
+        "Uniforms are practical, but many students don't like them.",
+        "Although uniforms are practical, many students do not like them.",
+        "Uniforms are practical, but many students do not like them."
+      ],
+      "points": 1,
+      "explanation": "Do not use \"although\" and \"but\" together in one sentence. Use one or the other."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "Uniforms are cheaper for parents. ___, they save time in the morning.",
+      "options": [
+        "In addition",
+        "However",
+        "Although",
+        "Because"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"In addition\" adds another argument on the same side."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Present simple passive",
+      "prompt": "Write the correct passive form of the verb in brackets.",
+      "text": "In many countries, school uniforms ___ (wear) by all students.",
+      "answers": [
+        "are worn"
+      ],
+      "points": 1,
+      "explanation": "The present simple passive is am/is/are + past participle. \"Wear\" is irregular: worn."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "Students all look the same. ___, nobody feels poorer than their classmates.",
+      "options": [
+        "Although",
+        "As a result",
+        "However",
+        "Unless"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"As a result\" introduces a consequence of the previous sentence."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Modals: don't have to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word HAVE. Begin: \"Students ...\"",
+      "text": "It isn't necessary for students to wear a uniform on Fridays.",
+      "keyword": "HAVE",
+      "answers": [
+        "Students don't have to wear a uniform on Fridays.",
+        "Students don't have to wear uniforms on Fridays.",
+        "Students do not have to wear a uniform on Fridays.",
+        "Students do not have to wear uniforms on Fridays."
+      ],
+      "points": 1,
+      "explanation": "\"Don't have to\" means something is not necessary. It is different from \"mustn't\", which means it is not allowed."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct answer.",
+      "text": "Uniforms are ___ than designer clothes.",
+      "options": [
+        "cheap",
+        "more cheap",
+        "cheapest",
+        "cheaper"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Short adjectives take -er in the comparative: cheap - cheaper."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation: negative prefixes",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Many students complain that their uniform is ___ (comfort) and too hot in summer.",
+      "answers": [
+        "uncomfortable"
+      ],
+      "points": 1,
+      "explanation": "The sentence is negative, so add the prefix un- and the suffix -able: comfort - uncomfortable."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Used to",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "jumpers",
+        "wear",
+        "we",
+        "to",
+        "grey",
+        "used"
+      ],
+      "answers": [
+        "We used to wear grey jumpers."
+      ],
+      "points": 1,
+      "explanation": "Use \"used to + infinitive\" for a past situation that has changed."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Modals: mustn't",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Students mustn't to wear jewellery at my school.",
+      "answers": [
+        "Students mustn't wear jewellery at my school.",
+        "Students aren't allowed to wear jewellery at my school."
+      ],
+      "points": 1,
+      "explanation": "Modal verbs like must/mustn't are followed by the infinitive without \"to\"."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Verb + to-infinitive",
+      "prompt": "Choose the correct answer.",
+      "text": "Many students refuse ___ the school tie.",
+      "options": [
+        "to wear",
+        "wearing",
+        "wear",
+        "worn"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Refuse\" is followed by the to-infinitive: refuse to wear."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Modals: be allowed to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word ALLOWED. Begin: \"Students aren't ...\"",
+      "text": "Students can't wear trainers at our school.",
+      "keyword": "ALLOWED",
+      "answers": [
+        "Students aren't allowed to wear trainers at our school."
+      ],
+      "points": 1,
+      "explanation": "\"Can't\" (no permission) can be changed to \"aren't allowed to + infinitive\"."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "First conditional",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "If the school ___ (change) the rules, many parents will complain.",
+      "answers": [
+        "changes"
+      ],
+      "points": 1,
+      "explanation": "In the first conditional, use the present simple after \"if\": if the school changes."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Relative clauses: who",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Students which don't wear the uniform get a warning.",
+      "answers": [
+        "Students who don't wear the uniform get a warning.",
+        "Students that don't wear the uniform get a warning."
+      ],
+      "points": 1,
+      "explanation": "Use \"who\" (or \"that\") for people, not \"which\"."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Gerund as subject",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "takes",
+        "of",
+        "clothes",
+        "time",
+        "a",
+        "choosing",
+        "lot"
+      ],
+      "answers": [
+        "Choosing clothes takes a lot of time."
+      ],
+      "points": 1,
+      "explanation": "The -ing form can be the subject of a sentence: Choosing clothes takes ..."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Present perfect vs past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Our school has introduced uniforms in 2018.",
+      "answers": [
+        "Our school introduced uniforms in 2018."
+      ],
+      "points": 1,
+      "explanation": "Use the past simple, not the present perfect, with a finished time such as \"in 2018\"."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Comparatives: not as ... as",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word AS. Begin: \"Fashionable clothes ...\"",
+      "text": "Uniforms are cheaper than fashionable clothes.",
+      "keyword": "AS",
+      "answers": [
+        "Fashionable clothes are not as cheap as uniforms.",
+        "Fashionable clothes are not as cheap as uniforms are."
+      ],
+      "points": 1,
+      "explanation": "\"A is cheaper than B\" means \"B is not as cheap as A\"."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Linking words: as a result",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word RESULT. Begin: \"Uniforms are cheap. As ...\"",
+      "text": "Uniforms are cheap, so many parents like them.",
+      "keyword": "RESULT",
+      "answers": [
+        "Uniforms are cheap. As a result, many parents like them."
+      ],
+      "points": 1,
+      "explanation": "\"As a result\" has a similar meaning to \"so\" but starts a new sentence and is followed by a comma."
+    }
+  ],
+  "task": {
+    "genre": "Short essay",
+    "prompt": "Your teacher has asked you to write an essay with this title: \"School uniforms should be compulsory. Do you agree?\"",
+    "contentPoints": [
+      "Give at least two advantages of school uniforms.",
+      "Give at least one disadvantage.",
+      "Describe the situation at your own school.",
+      "Give and explain your own opinion."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "Many people believe that ...",
+      "One advantage is that ...",
+      "However, ...",
+      "In addition, ...",
+      "As a result, ...",
+      "To sum up, I think ..."
+    ],
+    "modelAnswer": "In many countries, students have to wear a uniform at school. But is this a good idea?\n\nThere are several advantages. Firstly, uniforms are cheaper for parents than buying lots of fashionable clothes. In addition, all students look the same. As a result, nobody feels poorer or less stylish than their classmates. Uniforms also save time in the morning because you don't have to decide what to wear.\n\nHowever, uniforms can be uncomfortable, especially in hot weather. Many teenagers also feel that they can't show their personality.\n\nAt my school, we have to wear a white shirt and dark blue trousers or a skirt. I don't mind it, although I'd prefer a more comfortable design.\n\nTo sum up, I think uniforms should be compulsory, but students should be allowed to help choose them."
+  }
+}

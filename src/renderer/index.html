@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'" />
+  <title>English Reading &amp; Writing Test</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- Left: exam list -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <h1>English Reading &amp; Writing</h1>
+        <p class="muted">Choose a skill, a level and an exam</p>
+        <div class="skill-toggle" role="radiogroup" aria-label="Skill">
+          <button class="skill-btn active" data-skill="reading" role="radio" aria-checked="true">Reading</button>
+          <button class="skill-btn" data-skill="writing" role="radio" aria-checked="false">Writing</button>
+        </div>
+        <label class="level-filter">
+          <span>Level</span>
+          <select id="level-select" aria-label="Filter exams by level">
+            <option value="">All levels</option>
+          </select>
+        </label>
+      </div>
+      <ul id="exam-list" class="exam-list" aria-label="Exams"></ul>
+      <footer class="sidebar-footer">&copy; 2026 phuonghv. All rights reserved.</footer>
+    </aside>
+
+    <!-- Right: tabs -->
+    <main class="content">
+      <nav class="tabs" role="tablist">
+        <button class="tab active" role="tab" data-tab="test" id="tab-test" aria-selected="true">English Test</button>
+        <button class="tab" role="tab" data-tab="result" id="tab-result" aria-selected="false" disabled>Test Result</button>
+      </nav>
+
+      <!-- Tab: English Test -->
+      <section id="panel-test" class="panel" role="tabpanel">
+        <div id="test-empty" class="empty-state">
+          <h2>No exam selected</h2>
+          <p>Pick a skill and an exam from the list on the left to start.</p>
+        </div>
+
+        <div id="test-view" hidden>
+          <header class="exam-header">
+            <div>
+              <h2 id="exam-title"></h2>
+              <p id="exam-meta" class="muted"></p>
+            </div>
+            <span id="exam-level" class="badge"></span>
+          </header>
+          <p id="exam-instructions" class="instructions"></p>
+          <p class="dict-hint muted">Tip: double-click a word, or right-click any word, to see its meaning.</p>
+
+          <div id="reading-body">
+            <article class="card passage">
+              <h3>Reading passage</h3>
+              <div id="passage"></div>
+            </article>
+
+            <section class="card">
+              <h3>Questions</h3>
+              <ol id="questions" class="questions"></ol>
+            </section>
+          </div>
+
+          <div id="writing-body" hidden>
+            <section class="card">
+              <h3>Part 1 · Exercises</h3>
+              <ol id="exercises" class="questions exercises"></ol>
+            </section>
+
+            <section class="card">
+              <h3>Part 2 · Writing task</h3>
+              <div id="task"></div>
+            </section>
+          </div>
+
+          <footer class="submit-bar">
+            <div class="progress-wrap">
+              <span id="progress" class="muted"></span>
+              <div id="q-nav" class="q-nav" aria-label="Jump to question"></div>
+            </div>
+            <div class="actions">
+              <button id="btn-reset" class="btn btn-secondary">Clear answers</button>
+              <button id="btn-submit" class="btn btn-primary">Submit test</button>
+              <button id="btn-view-result" class="btn btn-secondary" hidden>View result</button>
+              <button id="btn-retake-bar" class="btn btn-primary" hidden>Retake test</button>
+            </div>
+          </footer>
+        </div>
+      </section>
+
+      <!-- Tab: Test Result -->
+      <section id="panel-result" class="panel" role="tabpanel" hidden>
+        <div id="result-empty" class="empty-state">
+          <h2>No results yet</h2>
+          <p>Submit a test to see your dashboard here.</p>
+        </div>
+
+        <div id="result-view" hidden>
+          <header class="exam-header">
+            <div>
+              <h2 id="result-title"></h2>
+              <p id="result-subtitle" class="muted">Test result dashboard</p>
+            </div>
+            <div class="actions">
+              <button id="btn-retake" class="btn btn-secondary">Retake test</button>
+              <button id="btn-toggle-answers" class="btn btn-primary">Show full answers</button>
+            </div>
+          </header>
+
+          <section class="score-hero card">
+            <div class="ring" id="score-ring"><span id="score-percent"></span></div>
+            <div>
+              <div class="score-line"><span id="score-value"></span> <span class="muted">total mark</span></div>
+              <span id="level-badge" class="badge"></span>
+              <p id="level-headline"></p>
+            </div>
+          </section>
+
+          <section class="stats" id="stats"></section>
+
+          <!-- Writing only: self-check, your text vs the model answer -->
+          <div id="writing-review" hidden>
+            <section class="card self-check" id="self-check"></section>
+            <div class="grid-2 compare">
+              <section class="card">
+                <h3>Your text</h3>
+                <div id="essay-checks" class="essay-checks"></div>
+                <div id="essay-text" class="essay-text"></div>
+              </section>
+              <section class="card">
+                <h3>Model answer</h3>
+                <div id="model-answer" class="essay-text"></div>
+              </section>
+            </div>
+          </div>
+
+          <div class="grid-2">
+            <section class="card">
+              <h3 id="by-type-title">Performance by question type</h3>
+              <div id="by-type"></div>
+            </section>
+            <section class="card">
+              <h3>Learning status &amp; advice</h3>
+              <ul id="advice" class="advice"></ul>
+            </section>
+          </div>
+
+          <section id="exercise-review-card" class="card" hidden>
+            <h3>Part 1 · Exercise answers</h3>
+            <ol id="exercise-review" class="answer-list"></ol>
+          </section>
+
+          <section class="card">
+            <h3>Attempt history</h3>
+            <p class="muted history-hint">Every submission is saved. Click an attempt to view its result.</p>
+            <ol id="history" class="history"></ol>
+          </section>
+
+          <section id="answers-view" class="answers" hidden>
+            <h3>Full answers</h3>
+            <p class="muted">Highlighted text shows the main idea / evidence for each answer. Click an answer card to locate its highlight in the passage.</p>
+            <div class="answers-grid">
+              <article class="card passage passage-review" id="review-passage"></article>
+              <ol class="answer-list" id="answer-list"></ol>
+            </div>
+          </section>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Dictionary popup (filled by dictionary.js) -->
+  <div id="dict-popup" class="dict-popup" role="dialog" aria-label="Dictionary" hidden></div>
+
+  <script src="dictionary.js"></script>
+  <script src="writing.js"></script>
+  <script src="renderer.js"></script>
+</body>
+</html>

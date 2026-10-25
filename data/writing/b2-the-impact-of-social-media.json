@@ -1,0 +1,323 @@
+{
+  "id": "w-the-impact-of-social-media",
+  "title": "The Impact of Social Media",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise linking words, reported speech and mixed conditionals, then write a magazine article about social media.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "Social media helps us stay in touch. ___, it can make us feel lonely.",
+      "options": [
+        "Whereas",
+        "Because of",
+        "On the other hand",
+        "As a result"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"On the other hand\" introduces the opposite side of an argument, usually at the start of a new sentence."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Reported speech",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "My cousin told me that she ___ (delete) all her accounts the week before.",
+      "answers": [
+        "had deleted"
+      ],
+      "points": 1,
+      "explanation": "When the reporting verb is in the past, a past simple action usually becomes past perfect: she had deleted."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Passive voice",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "are",
+        "every minute",
+        "uploaded",
+        "millions of photos",
+        "to the internet"
+      ],
+      "answers": [
+        "Millions of photos are uploaded to the internet every minute.",
+        "Every minute millions of photos are uploaded to the internet."
+      ],
+      "points": 1,
+      "explanation": "The present simple passive is am/is/are + past participle: photos are uploaded."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Mixed conditionals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "If I didn't join that online group last year, I wouldn't have so many friends abroad now.",
+      "answers": [
+        "If I hadn't joined that online group last year, I wouldn't have so many friends abroad now.",
+        "If I had not joined that online group last year, I would not have so many friends abroad now.",
+        "If I had not joined that online group last year, I wouldn't have so many friends abroad now.",
+        "If I hadn't joined that online group last year, I would not have so many friends abroad now."
+      ],
+      "points": 1,
+      "explanation": "A mixed conditional uses the past perfect for the past condition (hadn't joined) and would + infinitive for the present result."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Wish / if only",
+      "prompt": "Choose the correct answer.",
+      "text": "I wish my younger brother ___ less time on his phone. He never talks to us.",
+      "options": [
+        "spends",
+        "would spend",
+        "has spent",
+        "will spend"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use wish + would to complain about someone else's annoying behaviour that you want to change."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Participle clauses",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "___ (scroll) through her feed, she suddenly saw a photo of her old school.",
+      "answers": [
+        "Scrolling"
+      ],
+      "points": 1,
+      "explanation": "A present participle clause describes an action happening at the same time as the main verb: Scrolling ..., she saw ..."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Reported speech",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Our teacher told us ___ our password with anyone.\"",
+      "text": "\"Don't share your password with anyone,\" our teacher said to us.",
+      "keyword": "NOT",
+      "answers": [
+        "Our teacher told us not to share our password with anyone."
+      ],
+      "points": 1,
+      "explanation": "Reported negative commands use tell + object + not to + infinitive: told us not to share."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Linking words",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"___ benefits, social media can also be harmful.\"",
+      "text": "Although social media has many benefits, it can also be harmful.",
+      "keyword": "DESPITE",
+      "answers": [
+        "Despite its many benefits, social media can also be harmful.",
+        "Despite having many benefits, social media can also be harmful.",
+        "Despite all its benefits, social media can also be harmful."
+      ],
+      "points": 1,
+      "explanation": "\"Despite\" is followed by a noun phrase or an -ing form, not by a full clause: despite its many benefits."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Modals of deduction",
+      "prompt": "Choose the correct answer.",
+      "text": "She ___ have seen my message, or she would have replied by now.",
+      "options": [
+        "can't",
+        "must",
+        "should",
+        "needn't"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Can't have + past participle shows you are sure something did not happen in the past."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Spending hours online can be very ___ (addict).",
+      "answers": [
+        "addictive"
+      ],
+      "points": 1,
+      "explanation": "The adjective addictive describes something that makes people want more and more of it."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Passive reporting verbs",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "teenagers'",
+        "to affect",
+        "believed",
+        "sleep patterns",
+        "social media",
+        "is"
+      ],
+      "answers": [
+        "Social media is believed to affect teenagers' sleep patterns.",
+        "Is social media believed to affect teenagers' sleep patterns?"
+      ],
+      "points": 1,
+      "explanation": "Subject + is believed + to-infinitive reports a general opinion in a formal way."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Quantifiers: most of",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The most of my friends use at least three different apps.",
+      "answers": [
+        "Most of my friends use at least three different apps."
+      ],
+      "points": 1,
+      "explanation": "Most of + my/the + noun has no article before most."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Causative get (experience)",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"I ___ last week.\"",
+      "text": "Someone hacked my account last week.",
+      "keyword": "GOT",
+      "answers": [
+        "I got my account hacked last week."
+      ],
+      "points": 1,
+      "explanation": "Get/have + object + past participle can describe something bad that someone else did to you."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct answer.",
+      "text": "Influencers can ___ a lot of money from sponsored posts.",
+      "options": [
+        "do",
+        "win",
+        "take",
+        "earn"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We earn (or make) money by working; we win money in a competition or game."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Third conditional",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "If I ___ (not / post) that photo, I would not have got into trouble.",
+      "answers": [
+        "had not posted",
+        "hadn't posted"
+      ],
+      "points": 1,
+      "explanation": "The third conditional uses if + past perfect for an imaginary past situation."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Reduced relative clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "forever",
+        "online",
+        "can stay there",
+        "photos",
+        "posted"
+      ],
+      "answers": [
+        "Photos posted online can stay there forever."
+      ],
+      "points": 1,
+      "explanation": "A past participle can replace a passive relative clause: photos posted online = photos which are posted online."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Reported questions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "He asked me if I have seen his latest post.",
+      "answers": [
+        "He asked me if I had seen his latest post."
+      ],
+      "points": 1,
+      "explanation": "In reported speech, the present perfect usually moves back to the past perfect: had seen."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Don't have to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"You ___ to every comment.\"",
+      "text": "It isn't necessary to reply to every comment.",
+      "keyword": "HAVE",
+      "answers": [
+        "You don't have to reply to every comment."
+      ],
+      "points": 1,
+      "explanation": "Don't have to means something is not necessary; mustn't would mean it is not allowed."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Be used to + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I am used to check my phone as soon as I wake up.",
+      "answers": [
+        "I am used to checking my phone as soon as I wake up.",
+        "I used to check my phone as soon as I woke up."
+      ],
+      "points": 1,
+      "explanation": "Be used to (= be accustomed to) is followed by -ing; used to + infinitive is for past habits."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Reported speech: deny",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Max ___ that comment.\"",
+      "text": "\"I didn't post that comment,\" said Max.",
+      "keyword": "DENIED",
+      "answers": [
+        "Max denied posting that comment.",
+        "Max denied having posted that comment.",
+        "Max denied that he had posted that comment.",
+        "Max denied that he posted that comment.",
+        "Max denied he had posted that comment.",
+        "Max denied he posted that comment."
+      ],
+      "points": 1,
+      "explanation": "Deny is followed by -ing, having + past participle, or a that-clause."
+    }
+  ],
+  "task": {
+    "genre": "Article",
+    "prompt": "You see this announcement in an English-language magazine for teenagers: \"Is social media good or bad for young people? Write an article giving your views.\" Write your article.",
+    "contentPoints": [
+      "Give the article an interesting title and an engaging opening.",
+      "Describe at least two positive effects of social media.",
+      "Describe at least two negative effects of social media.",
+      "Give some advice to readers and your own final opinion."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "Have you ever wondered ...?",
+      "There is no doubt that ...",
+      "On the other hand, ...",
+      "What is more, ...",
+      "So, next time you ..."
+    ],
+    "modelAnswer": "Friend or Enemy? The Truth About Social Media\n\nHow many times have you checked your phone today? If you are like most teenagers, the answer is probably \"too many\". Social media has become part of our daily lives, but is it really good for us?\n\nThere is no doubt that it has some real advantages. It allows us to stay in touch with friends who live far away, and it helps young people discover new interests and communities. What is more, many students use it to share notes and support each other before exams.\n\nOn the other hand, social media can be surprisingly harmful. Constantly comparing ourselves with the perfect photos of others can damage our self-confidence. In addition, scrolling late at night often means we sleep less, which affects our concentration at school. A friend of mine told me that she had felt anxious for months before she finally took a break from her accounts.\n\nSo, what should we do? Personally, I believe social media is a useful tool, provided that we control it rather than letting it control us. Try turning off notifications and keeping your phone out of the bedroom. You might be surprised how much better you feel!"
+  }
+}

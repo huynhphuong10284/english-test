@@ -1,0 +1,463 @@
+{
+  "id": "scientific-paradigms",
+  "title": "Paradigms and Scientific Revolutions",
+  "level": "C2 · Proficiency",
+  "description": "An essay on Thomas Kuhn's account of how science changes and the debates it provoked about rationality and progress.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Before the 1960s, a widely held picture of science portrayed it as a steadily accumulating body of knowledge, each generation adding new truths to those established by its predecessors. Philosophers disagreed about the precise logic of scientific method, with Karl Popper, for instance, insisting that theories could never be conclusively verified but only exposed to attempted falsification, yet many shared the assumption that science advanced through a broadly rational and continuous process. Thomas Kuhn's The Structure of Scientific Revolutions, published in 1962, unsettled that assumption to a degree few books in the philosophy of science have matched."
+    },
+    {
+      "id": "p2",
+      "text": "Drawing on the history of science rather than on idealised reconstructions of its logic, Kuhn proposed that most scientific work takes place within what he termed a paradigm: a constellation of shared theories, methods, exemplary problems and standards that defines what counts as a legitimate question and an acceptable answer. During periods of what he called normal science, researchers do not seek to overturn the paradigm but to extend and refine it, solving puzzles whose solutions the paradigm leads them to expect."
+    },
+    {
+      "id": "p3",
+      "text": "Inevitably, however, anomalies accumulate: observations that resist explanation within the prevailing framework. For a time these may be set aside or accommodated through ad hoc adjustments. When they multiply and resist resolution, a period of crisis may ensue, culminating in a revolution in which a new paradigm displaces the old. The transition from Ptolemaic to Copernican astronomy, or from Newtonian mechanics to relativity, exemplified, for Kuhn, such revolutionary shifts."
+    },
+    {
+      "id": "p4",
+      "text": "The most contentious element of Kuhn's account was his claim that successive paradigms may be incommensurable. Because they differ not only in their theories but in their standards of evaluation and even in the meanings of key terms, there may be no neutral vantage point from which to judge them by a common measure. Kuhn compared the shift to a gestalt switch, in which the same figure is seen suddenly as a duck rather than a rabbit, and suggested that scientists who adopt a new paradigm in some sense come to work in a different world."
+    },
+    {
+      "id": "p5",
+      "text": "Critics charged that this account reduced theory choice to something akin to conversion, rendering science irrational and relativistic. Kuhn himself resisted this reading, insisting that scientists are guided by shared values, among them accuracy, consistency, scope, simplicity and fruitfulness, even if these values do not function as a mechanical algorithm and may be weighed differently by different individuals. He also maintained that later theories are generally better at solving puzzles than earlier ones, though he was notably reluctant to describe this as a closer approach to an ultimate truth."
+    },
+    {
+      "id": "p6",
+      "text": "Whatever the ultimate verdict on his more radical claims, Kuhn's influence is difficult to overstate. The word paradigm, and the phrase paradigm shift, have migrated far beyond the philosophy of science, often in diluted forms that Kuhn himself deplored. More substantively, his work helped to inaugurate a sustained attention to the historical, social and institutional dimensions of science, prompting philosophers to examine how scientific communities actually behave rather than how an idealised logic says they ought to."
+    },
+    {
+      "id": "p7",
+      "text": "Kuhn's challenge provoked a number of attempts to reconcile the historical record with a more robust conception of scientific rationality. Imre Lakatos proposed that the proper unit of appraisal was neither the isolated theory nor the all-encompassing paradigm but the research programme, consisting of a hard core of central commitments protected by a belt of auxiliary hypotheses that could be modified in the face of anomalies. A programme was progressive, on his account, if such modifications led to the prediction of novel facts, and degenerating if they merely patched over failures after the event. Paul Feyerabend, by contrast, drew a more iconoclastic lesson from history, arguing that no methodological rule had been consistently respected by the scientists most admired for their achievements, and that the imposition of any single method would therefore stifle rather than promote discovery."
+    },
+    {
+      "id": "p8",
+      "text": "Kuhn's own position also evolved in response to criticism. Readers had complained that the term paradigm was used in the original book in a bewildering variety of senses, and in a postscript added to a later edition Kuhn distinguished between two principal meanings: the entire constellation of commitments shared by a scientific community, and the concrete exemplary solutions to problems through which students learn to see new problems as resembling old ones. He came to regard the second sense as the more fundamental. In later essays he also narrowed the scope of incommensurability, presenting it less as a wholesale absence of common ground than as a local difficulty in translating a limited cluster of interrelated terms, a revision that some commentators welcomed as a clarification and others regarded as a substantial retreat."
+    },
+    {
+      "id": "p9",
+      "text": "It is perhaps a measure of Kuhn's achievement that the questions he raised remain unresolved. Whether the history of science supports the view that successful theories describe the world with increasing fidelity, or merely that they become better instruments for solving problems, continues to divide philosophers. What seems less open to dispute is that any adequate account of science must answer to its history, and that the image of science as a frictionless accumulation of truths can no longer be maintained without considerable qualification. In this respect, at least, Kuhn's own work occasioned something resembling the kind of shift he described."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best summarises the passage?",
+      "options": [
+        "Kuhn proved that science is irrational and that all theories are equally valid.",
+        "Kuhn's account of paradigms and revolutions challenged the view of science as steady accumulation and remains influential despite controversy.",
+        "Popper's theory of falsification was replaced by Kuhn's work in every respect.",
+        "The term paradigm shift is used accurately in everyday language."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The passage presents Kuhn's challenge to the cumulative picture, the debates it provoked and its lasting influence.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "unsettled that assumption to a degree few books in the philosophy of science have matched"
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "Kuhn's influence is difficult to overstate"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 1, what was Popper's view of scientific theories?",
+      "options": [
+        "They can be conclusively verified through repeated observation.",
+        "They are purely social conventions.",
+        "They can never be conclusively verified but can be tested by attempted falsification.",
+        "They change only through revolutions."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Popper held that theories could only be exposed to attempted falsification.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "theories could never be conclusively verified but only exposed to attempted falsification"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What do researchers do during periods of \"normal science\"?",
+      "options": [
+        "Seek to overturn the dominant paradigm.",
+        "Abandon all existing methods.",
+        "Focus on finding anomalies.",
+        "Extend and refine the paradigm by solving expected puzzles."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Normal science involves extending and refining the paradigm, not overturning it.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "researchers do not seek to overturn the paradigm but to extend and refine it"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the phrase \"ad hoc\" most nearly means",
+      "options": [
+        "devised for a particular case rather than on general principles",
+        "carefully planned in advance",
+        "scientifically proven",
+        "officially approved"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ad hoc adjustments are improvised to accommodate specific anomalies.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "accommodated through ad hoc adjustments"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What does Kuhn's comparison of a paradigm shift to a gestalt switch suggest?",
+      "options": [
+        "That scientists change paradigms gradually through careful calculation.",
+        "That a new paradigm can involve seeing the same evidence in a fundamentally different way.",
+        "That paradigm shifts are optical illusions with no real effect.",
+        "That scientists can easily see both paradigms at once."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "In a gestalt switch the same figure is suddenly seen differently, implying a radical change of perspective.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "in which the same figure is seen suddenly as a duck rather than a rabbit"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "What is the main purpose of paragraph 5?",
+      "options": [
+        "To present criticisms of Kuhn and his response to them.",
+        "To argue that Kuhn's critics were entirely correct.",
+        "To describe the history of Copernican astronomy.",
+        "To show that scientific values operate as a mechanical algorithm."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The paragraph sets out the charge of irrationality and Kuhn's defence based on shared values.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Critics charged that this account reduced theory choice to something akin to conversion"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "Kuhn himself resisted this reading"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What can be inferred about Kuhn's view of scientific progress?",
+      "options": [
+        "He believed later theories bring science steadily closer to ultimate truth.",
+        "He denied that later theories have any advantage over earlier ones.",
+        "He held that progress is determined entirely by social pressure.",
+        "He accepted that later theories solve puzzles better but was hesitant to equate this with approaching final truth."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Kuhn maintained later theories were better puzzle-solvers but was \"notably reluctant\" to call this an approach to truth.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "though he was notably reluctant to describe this as a closer approach to an ultimate truth"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "purpose",
+      "text": "Why does the writer mention that Kuhn \"deplored\" some uses of the word paradigm?",
+      "options": [
+        "To show that Kuhn regretted writing his book.",
+        "To indicate that the popular spread of the term often weakened or distorted its original meaning.",
+        "To argue that the term should be banned outside science.",
+        "To prove that Kuhn's influence has been exaggerated."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The terms migrated \"often in diluted forms that Kuhn himself deplored\".",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "often in diluted forms that Kuhn himself deplored"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"incommensurable\" refers to paradigms that",
+      "options": [
+        "are equally correct",
+        "cannot be judged by a single common standard",
+        "are too large to measure",
+        "have never been tested"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer explains that there may be no neutral vantage point to judge them \"by a common measure\".",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "there may be no neutral vantage point from which to judge them by a common measure"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "According to paragraph 6, what was a substantive consequence of Kuhn's work?",
+      "options": [
+        "Philosophers abandoned the study of scientific method.",
+        "Scientists stopped using the concept of a paradigm.",
+        "Philosophers paid more attention to how scientific communities actually operate historically and socially.",
+        "Science became a purely social activity."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "His work prompted examination of \"how scientific communities actually behave\" rather than idealised logic.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "prompting philosophers to examine how scientific communities actually behave rather than how an idealised logic says they ought to"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "According to Lakatos, as described in paragraph 7, when was a research programme progressive?",
+      "options": [
+        "When modifications to its auxiliary hypotheses led to the prediction of novel facts.",
+        "When its hard core of central commitments was revised.",
+        "When it encountered no anomalies at all.",
+        "When modifications explained its failures after the event."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Progressive programmes predict novel facts; those that merely patch failures afterwards are degenerating.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "A programme was progressive, on his account, if such modifications led to the prediction of novel facts"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "purpose",
+      "text": "Why does the writer introduce Lakatos and Feyerabend in paragraph 7?",
+      "options": [
+        "To show that Kuhn's views were rejected by every philosopher of science.",
+        "To argue that Feyerabend's position is the correct one.",
+        "To give further examples of scientific revolutions in astronomy.",
+        "To illustrate contrasting responses to Kuhn, one seeking to preserve scientific rationality and the other drawing a more radical lesson."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Lakatos sought a more robust rationality; Feyerabend, 'by contrast', drew a more iconoclastic lesson.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Kuhn's challenge provoked a number of attempts to reconcile the historical record with a more robust conception of scientific rationality."
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "Paul Feyerabend, by contrast, drew a more iconoclastic lesson from history"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"iconoclastic\" is closest in meaning to",
+      "options": [
+        "religious",
+        "cautious",
+        "attacking established beliefs",
+        "based on images"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Feyerabend's lesson challenged the established belief in a single scientific method.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "drew a more iconoclastic lesson from history"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What can be inferred about Feyerabend's view of scientific method?",
+      "options": [
+        "He believed that strict adherence to a single method could hinder discovery.",
+        "He thought that all successful scientists had followed the same method.",
+        "He regarded science as entirely irrational and without value.",
+        "He agreed with Lakatos that research programmes were the proper unit of appraisal."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "He argued that imposing any single method would stifle discovery. The third option overgeneralises his position.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the imposition of any single method would therefore stifle rather than promote discovery"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 8, what did Kuhn do in the postscript to a later edition?",
+      "options": [
+        "He abandoned the term paradigm altogether.",
+        "He conceded that science is fundamentally irrational.",
+        "He introduced several further senses of the term paradigm.",
+        "He distinguished between two principal meanings of paradigm."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Kuhn distinguished the shared constellation of commitments from concrete exemplary solutions.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Kuhn distinguished between two principal meanings"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What can be inferred from Kuhn's view that the exemplary-solution sense of paradigm was more fundamental?",
+      "options": [
+        "Shared theories mattered more to him than concrete examples.",
+        "Learning from concrete model solutions is central to how scientists come to recognise and approach new problems.",
+        "Students should be discouraged from comparing new problems with old ones.",
+        "Exemplary solutions make the scientific community unnecessary."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Through exemplars, students learn to see new problems as resembling old ones, which Kuhn treated as fundamental.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the concrete exemplary solutions to problems through which students learn to see new problems as resembling old ones"
+        },
+        {
+          "paragraphId": "p8",
+          "quote": "He came to regard the second sense as the more fundamental."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "According to paragraph 8, how did Kuhn revise his notion of incommensurability in later essays?",
+      "options": [
+        "He abandoned the notion entirely.",
+        "He extended it to every term used in science.",
+        "He presented it as a local difficulty in translating a limited cluster of interrelated terms.",
+        "He restricted it to the history of astronomy."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He narrowed it from a wholesale absence of common ground to a local translation difficulty.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "a local difficulty in translating a limited cluster of interrelated terms"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"retreat\" in \"a substantial retreat\" is closest in meaning to",
+      "options": [
+        "a period of rest",
+        "an advance",
+        "a summary",
+        "a withdrawal from an earlier position"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Some commentators saw the narrowing of incommensurability as Kuhn backing away from his original claim.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "others regarded as a substantial retreat"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer imply in the final sentence of the passage?",
+      "options": [
+        "Kuhn's work itself transformed how philosophers view science, in a way somewhat like the shifts he described.",
+        "Kuhn's account of science has been shown to be mistaken.",
+        "The philosophy of science has ceased to change since Kuhn.",
+        "Kuhn deliberately set out to start a revolution in philosophy."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer suggests, with hedging, that Kuhn's work brought about 'something resembling' a paradigm shift.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "Kuhn's own work occasioned something resembling the kind of shift he described"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main point of the final paragraph?",
+      "options": [
+        "Kuhn's questions have now been definitively answered.",
+        "Philosophers now agree that successful theories describe the world with increasing fidelity.",
+        "Although key questions remain open, Kuhn established that any adequate account of science must answer to its history.",
+        "The history of science has little relevance to the philosophy of science."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Questions remain unresolved, but what is 'less open to dispute' is that accounts of science must answer to its history.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "any adequate account of science must answer to its history"
+        }
+      ]
+    }
+  ]
+}

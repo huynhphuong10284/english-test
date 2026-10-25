@@ -1,0 +1,323 @@
+{
+  "id": "w-working-from-home",
+  "title": "Working from Home",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise contrast linkers, passives and reporting verbs, then write an essay about working from home.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "Working from home saves time, ___ working in an office makes teamwork easier.",
+      "options": [
+        "whereas",
+        "nevertheless",
+        "consequently",
+        "in spite of"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Whereas\" joins two contrasting clauses in one sentence."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Passive reporting verbs",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "It ___ (believe) that remote workers are more productive, but the evidence is mixed.",
+      "answers": [
+        "is believed"
+      ],
+      "points": 1,
+      "explanation": "An impersonal passive structure is It + is + believed/said/thought + that-clause."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Third conditional",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "her job",
+        "would have lost",
+        "if",
+        "she",
+        "had not had",
+        "my mother",
+        "a laptop"
+      ],
+      "answers": [
+        "If my mother had not had a laptop, she would have lost her job.",
+        "My mother would have lost her job if she had not had a laptop."
+      ],
+      "points": 1,
+      "explanation": "Third conditional: if + past perfect, would have + past participle, for an imagined past situation."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Participle clauses",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Having finish his work early, Mark went for a walk in the park.",
+      "answers": [
+        "Having finished his work early, Mark went for a walk in the park."
+      ],
+      "points": 1,
+      "explanation": "A perfect participle clause is having + past participle and shows the first action was completed before the second: having finished."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "Many employees feel isolated at home. ___, companies are organising regular team meetings in person.",
+      "options": [
+        "Whereas",
+        "Although",
+        "Consequently",
+        "Despite"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Consequently\" shows that the second sentence is a result of the first."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Wish / if only",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "I wish I ___ (have) a quiet room to work in. The kitchen is so noisy!",
+      "answers": [
+        "had"
+      ],
+      "points": 1,
+      "explanation": "Wish + past simple expresses a wish about the present that is not true now: I wish I had."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Passive voice",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"All staff ___ new laptops by the company.\"",
+      "text": "The company has given all staff new laptops.",
+      "keyword": "BEEN",
+      "answers": [
+        "All staff have been given new laptops by the company.",
+        "All staff has been given new laptops by the company."
+      ],
+      "points": 1,
+      "explanation": "Verbs with two objects (give someone something) can make the person the subject of the passive: staff have been given laptops."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Reported speech",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"My manager ___ from home on Fridays.\"",
+      "text": "\"You can work from home on Fridays,\" my manager told me.",
+      "keyword": "ALLOWED",
+      "answers": [
+        "My manager allowed me to work from home on Fridays.",
+        "My manager said I was allowed to work from home on Fridays.",
+        "My manager told me I was allowed to work from home on Fridays."
+      ],
+      "points": 1,
+      "explanation": "Allow + object + to-infinitive reports permission: allowed me to work."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Modals of deduction",
+      "prompt": "Choose the correct answer.",
+      "text": "Anna isn't answering her phone. She ___ be in a meeting.",
+      "options": [
+        "must not",
+        "might",
+        "needn't",
+        "should have"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Might + infinitive expresses a possibility about the present."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Working from home has greatly improved my ___ (produce).",
+      "answers": [
+        "productivity"
+      ],
+      "points": 1,
+      "explanation": "The noun productivity (how much work you produce) is formed from produce via productive."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Causative have",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "installed",
+        "a faster internet connection",
+        "I",
+        "at home",
+        "had"
+      ],
+      "answers": [
+        "I had a faster internet connection installed at home.",
+        "At home I had a faster internet connection installed.",
+        "I had installed a faster internet connection at home."
+      ],
+      "points": 1,
+      "explanation": "Causative have + object + past participle: a technician installed it for me."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Articles: fixed phrases",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I work from the home three days a week.",
+      "answers": [
+        "I work from home three days a week."
+      ],
+      "points": 1,
+      "explanation": "Fixed expressions such as work from home, go home and at home have no article."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Reported questions",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"My colleague asked me ___ at home or in the office.\"",
+      "text": "\"Do you prefer working at home or in the office?\" my colleague asked me.",
+      "keyword": "WHETHER",
+      "answers": [
+        "My colleague asked me whether I preferred working at home or in the office.",
+        "My colleague asked me whether I preferred to work at home or in the office.",
+        "My colleague asked me whether I prefer working at home or in the office.",
+        "My colleague asked me whether I prefer to work at home or in the office."
+      ],
+      "points": 1,
+      "explanation": "Yes/no and either/or questions are reported with whether (or if) + statement word order."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Formal linking: on the other hand",
+      "prompt": "Choose the correct answer.",
+      "text": "Some people love working remotely. ___, others miss the office.",
+      "options": [
+        "Whereas",
+        "Despite",
+        "Because",
+        "On the other hand"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "On the other hand begins a new sentence that presents a contrasting point."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Present continuous passive",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Our office ___ (redesign) at the moment, so we are all working from home.",
+      "answers": [
+        "is being redesigned"
+      ],
+      "points": 1,
+      "explanation": "Present continuous passive (is being + past participle) describes an action in progress now."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Unless",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "it is",
+        "set clear working hours",
+        "hard to switch off",
+        "you",
+        "unless"
+      ],
+      "answers": [
+        "Unless you set clear working hours, it is hard to switch off.",
+        "It is hard to switch off unless you set clear working hours."
+      ],
+      "points": 1,
+      "explanation": "Unless means if not and is followed by a present tense."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Should have vs must have",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "You must have told me about the meeting earlier; I didn't know about it.",
+      "answers": [
+        "You should have told me about the meeting earlier; I didn't know about it.",
+        "You could have told me about the meeting earlier; I didn't know about it.",
+        "You ought to have told me about the meeting earlier; I didn't know about it."
+      ],
+      "points": 1,
+      "explanation": "Use should have + past participle to criticise a past action; must have is for deductions."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Would rather",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"I ___ than commute every day.\"",
+      "text": "I prefer working at home to commuting every day.",
+      "keyword": "RATHER",
+      "answers": [
+        "I would rather work at home than commute every day.",
+        "I'd rather work at home than commute every day."
+      ],
+      "points": 1,
+      "explanation": "Would rather + infinitive without to + than + infinitive expresses a preference."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Reported speech: tense change",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My boss told me that I can work from home the following week.",
+      "answers": [
+        "My boss told me that I could work from home the following week."
+      ],
+      "points": 1,
+      "explanation": "In reported speech, can usually changes to could, especially with time phrases like the following week."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Passive reporting verbs",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"More companies ___ remote work.\"",
+      "text": "Experts expect that more companies will offer remote work.",
+      "keyword": "EXPECTED",
+      "answers": [
+        "More companies are expected to offer remote work."
+      ],
+      "points": 1,
+      "explanation": "Subject + is/are expected + to-infinitive is a formal passive way to report predictions."
+    }
+  ],
+  "task": {
+    "genre": "Essay",
+    "prompt": "In your English class you have been discussing the way people work. Your teacher has asked you to write an essay with the title: \"Working from home is better than working in an office.\" Do you agree?",
+    "contentPoints": [
+      "Discuss the advantages of working from home for employees.",
+      "Discuss the disadvantages, such as loneliness or distractions.",
+      "Mention one idea of your own, for example the effect on cities or the environment.",
+      "Give a balanced conclusion with your opinion."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "In recent years, ...",
+      "One major advantage is that ...",
+      "However, it could be argued that ...",
+      "whereas",
+      "All things considered, ..."
+    ],
+    "modelAnswer": "In recent years, millions of people have started working from home, at least for part of the week. While this change has clear benefits, I do not believe it is always better than working in an office.\n\nOne major advantage of working from home is that employees save time and money on travelling. Instead of sitting in traffic for an hour, they can spend that time with their families or doing exercise. Furthermore, many people find it easier to concentrate without the interruptions of a busy office.\n\nHowever, it could be argued that working alone has serious disadvantages. Many remote workers feel isolated, and it can be difficult to separate work from private life when your desk is in your bedroom. In addition, young employees learn a great deal by watching experienced colleagues, whereas online meetings rarely provide the same opportunities.\n\nAnother point to consider is the environment. If fewer people commuted every day, there would be less traffic and pollution in our cities, which would benefit everyone.\n\nAll things considered, I believe that a combination of the two is the best solution. Working from home for two or three days a week allows people to enjoy flexibility while still feeling part of a team."
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "id": "the-science-of-habits",
+  "title": "Why We Do What We Do: The Science of Habits",
+  "level": "B2 · Upper-intermediate",
+  "description": "How habits form, why they are useful, and what science says about changing them.",
+  "instructions": "Read the article about habits, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "A surprisingly large share of what we do each day is not the result of conscious decisions. From the route we take to work to the moment we reach for our phones, much of our behaviour runs on autopilot. Psychologists call these automatic routines habits, and over the past few decades they have learned a great deal about how habits form and why they can be so difficult to change."
+    },
+    {
+      "id": "p2",
+      "text": "According to a widely used model, every habit consists of three parts: a cue, a routine and a reward. The cue is a trigger, such as a time of day, a place or a feeling, that prompts the behaviour. The routine is the behaviour itself, and the reward is the benefit that makes the brain want to repeat it. Over time, as this loop is repeated, the connection between cue and routine becomes so strong that the action requires very little thought."
+    },
+    {
+      "id": "p3",
+      "text": "This efficiency is, in many ways, an advantage. If we had to think carefully about every small action, such as tying our shoelaces or brushing our teeth, we would quickly become mentally exhausted. Habits free the mind to concentrate on new or demanding tasks. The drawback, of course, is that the same mechanism operates regardless of whether a habit is beneficial or harmful."
+    },
+    {
+      "id": "p4",
+      "text": "Contrary to popular belief, there is no magic number of days required to form a new habit. Studies suggest that the time varies considerably from person to person and depends on how complex the behaviour is; drinking a glass of water after breakfast becomes automatic far sooner than a daily workout. Missing an occasional day, researchers have found, does not seem to undermine the process significantly, which should reassure anyone who fears that a single slip means failure."
+    },
+    {
+      "id": "p5",
+      "text": "For those hoping to break a bad habit, experts generally advise against relying on willpower alone. A more effective strategy is to change the environment so that the cue is less likely to appear, or to keep the cue but deliberately replace the old routine with a healthier one. Someone who snacks out of boredom in the afternoon, for example, might go for a short walk instead. Small, consistent changes, rather than dramatic resolutions, tend to produce the most lasting results."
+    },
+    {
+      "id": "p6",
+      "text": "Social surroundings also play a powerful role. People tend to copy the habits of those around them, often without realising it, so friends, family and colleagues can make change either easier or harder. Someone trying to eat more healthily may struggle if everyone at work shares biscuits each afternoon, but find it far easier in a group where fruit is the normal snack. Some psychologists suggest that the most lasting changes happen when people begin to see themselves differently, for example as 'a runner' rather than as someone who is trying to run, because the new behaviour then becomes part of their identity."
+    },
+    {
+      "id": "p7",
+      "text": "Technology companies understand these principles very well. Many apps are designed to create habits by offering small, unpredictable rewards, such as a new message, a 'like' or a fresh piece of news, every time users open them. Because the reward is uncertain, people check again and again, in much the same way that gamblers keep playing in the hope of a win. Critics argue that this design makes it harder for users to control how much time they spend online, and some people now deliberately turn off notifications or move tempting apps away from their home screens."
+    },
+    {
+      "id": "p8",
+      "text": "Perhaps the most important lesson from habit research is the need for patience. Because habits are built through repetition, they cannot be created or removed overnight, and setbacks are a normal part of the process rather than a sign of personal weakness. People who treat a lapse as a disaster often give up altogether, whereas those who simply start again the next day are more likely to succeed in the long run. Understanding how habits work does not make change effortless, but it can turn a frustrating struggle into a more manageable series of small, achievable steps."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Most people have more bad habits than good ones.",
+        "Habits are automatic routines that form in predictable ways and can be changed with the right strategies.",
+        "It takes exactly the same time for everyone to form a habit.",
+        "Willpower is the key to a healthy lifestyle."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The article explains how habits form, why they are useful and how they can be changed.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "they have learned a great deal about how habits form and why they can be so difficult to change"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, what is a \"cue\"?",
+      "options": [
+        "The benefit received after an action",
+        "The behaviour itself",
+        "Something that triggers a behaviour",
+        "A plan to change a habit"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text defines the cue as a trigger that prompts the behaviour.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The cue is a trigger, such as a time of day, a place or a feeling, that prompts the behaviour."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "purpose",
+      "text": "Why does the writer mention tying shoelaces and brushing teeth?",
+      "options": [
+        "To illustrate how habits save mental effort in everyday life",
+        "To show which habits are the hardest to form",
+        "To argue that children need better routines",
+        "To give examples of harmful habits"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "These everyday actions show that, without habits, we would become mentally exhausted.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Habits free the mind to concentrate on new or demanding tasks."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can be inferred from the last sentence of paragraph 3?",
+      "options": [
+        "Harmful habits always form more quickly than good ones.",
+        "Only beneficial habits become automatic.",
+        "People always know which of their habits are harmful.",
+        "The brain forms bad habits in the same way as good ones."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "If the same mechanism works \"regardless\" of whether a habit is good or bad, the brain does not treat them differently.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the same mechanism operates regardless of whether a habit is beneficial or harmful"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "According to paragraph 4, what affects how long it takes to form a habit?",
+      "options": [
+        "The time of year when the person starts",
+        "The individual and how complex the behaviour is",
+        "Whether the person drinks water after breakfast",
+        "The exact number of days the person misses"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The time needed varies from person to person and depends on the complexity of the behaviour.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "the time varies considerably from person to person and depends on how complex the behaviour is"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"undermine\" is closest in meaning to:",
+      "options": [
+        "weaken",
+        "speed up",
+        "explain",
+        "begin"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Missing a day does not seriously weaken the habit-forming process.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "does not seem to undermine the process significantly"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What do experts advise people who want to break a bad habit?",
+      "options": [
+        "Rely on willpower alone",
+        "Make a single dramatic resolution",
+        "Avoid all snacks completely",
+        "Change their surroundings or replace the old routine with a better one"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Experts advise against willpower alone and suggest changing the environment or replacing the routine.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "change the environment so that the cue is less likely to appear"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "deliberately replace the old routine with a healthier one"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"deliberately\" is closest in meaning to:",
+      "options": [
+        "by accident",
+        "slowly",
+        "on purpose",
+        "secretly"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Replacing the routine is a conscious, intentional choice.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "deliberately replace the old routine with a healthier one"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which title would best suit the article as a whole?",
+      "options": [
+        "Running on Autopilot: How Habits Work and How to Change Them",
+        "Why Willpower Is All You Need",
+        "The Dangers of Smartphones",
+        "Healthy Recipes for Busy People"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The article explains how habits form, why they are powerful and what strategies help people change them.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "how habits form and why they can be so difficult to change"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the phrase \"runs on autopilot\" means that much of our behaviour:",
+      "options": [
+        "is controlled by machines",
+        "changes very quickly",
+        "happens automatically, without careful thought",
+        "is planned in great detail"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer explains that much of what we do is not the result of conscious decisions.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "much of our behaviour runs on autopilot"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "Which example does the writer give of a habit that becomes automatic relatively quickly?",
+      "options": [
+        "Drinking a glass of water after breakfast",
+        "Doing a daily workout",
+        "Going for a short walk",
+        "Eating fruit as a snack"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Drinking water after breakfast becomes automatic far sooner than a daily workout.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "drinking a glass of water after breakfast becomes automatic far sooner than a daily workout"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What does the experts' advice in paragraph 5 imply about willpower?",
+      "options": [
+        "It is the only thing needed to change a habit.",
+        "It is often not enough on its own to break a habit.",
+        "It is stronger in the afternoon than in the morning.",
+        "It has no connection with habits at all."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Experts advise against relying on willpower alone, suggesting that it usually needs to be combined with other strategies.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "experts generally advise against relying on willpower alone"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "According to paragraph 6, why might someone find it hard to eat more healthily at work?",
+      "options": [
+        "Their colleagues share biscuits every afternoon.",
+        "There is no fruit available anywhere.",
+        "They have no time for lunch.",
+        "Their manager does not allow snacks."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The example shows how the habits of the people around us can make change harder.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "everyone at work shares biscuits each afternoon"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What does paragraph 6 suggest about people who start to see themselves as \"a runner\"?",
+      "options": [
+        "They run faster than other people.",
+        "They have stopped trying to improve.",
+        "They are more likely to keep running because it has become part of who they are.",
+        "They only run when their friends are watching."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "When a behaviour becomes part of a person's identity, it is more likely to last.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "because the new behaviour then becomes part of their identity"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, how do many apps create habits?",
+      "options": [
+        "By charging users each time they open them",
+        "By sending users printed reminders",
+        "By limiting how long people can use them",
+        "By offering small, unpredictable rewards"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Apps offer small rewards, such as messages or likes, that users cannot predict.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Many apps are designed to create habits by offering small, unpredictable rewards"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"unpredictable\" is closest in meaning to:",
+      "options": [
+        "very large",
+        "impossible to know in advance",
+        "unpleasant",
+        "regular"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Users do not know whether there will be a reward, which is why they keep checking.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Because the reward is uncertain, people check again and again"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer compare app users to gamblers in paragraph 7?",
+      "options": [
+        "To suggest that most app users gamble online",
+        "To argue that all apps should be banned",
+        "To explain how casinos make money",
+        "To show that uncertain rewards make people repeat a behaviour"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Both gamblers and app users keep going back because a reward might appear.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "in much the same way that gamblers keep playing in the hope of a win"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What can be inferred about people who turn off notifications?",
+      "options": [
+        "They no longer own smartphones.",
+        "They are trying to remove the cues that trigger the habit of checking their phones.",
+        "They want to receive more messages.",
+        "They work for technology companies."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Notifications act as cues; removing them follows the advice in paragraph 5 to change the environment so the cue is less likely to appear.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "some people now deliberately turn off notifications"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "change the environment so that the cue is less likely to appear"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer imply about people who treat a lapse as a disaster?",
+      "options": [
+        "They are more successful than other people.",
+        "They have unusually strong willpower.",
+        "Their all-or-nothing attitude may make them give up.",
+        "They never make mistakes."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Treating one mistake as a disaster often leads people to give up completely.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "People who treat a lapse as a disaster often give up altogether"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "What is the main purpose of paragraph 8?",
+      "options": [
+        "To list the most harmful habits",
+        "To argue that habits cannot be changed",
+        "To describe a scientific experiment",
+        "To encourage patience and present setbacks as a normal part of change"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The final paragraph stresses patience and explains that setbacks are normal.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Perhaps the most important lesson from habit research is the need for patience."
+        }
+      ]
+    }
+  ]
+}

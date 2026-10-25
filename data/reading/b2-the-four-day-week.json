@@ -1,0 +1,451 @@
+{
+  "id": "the-four-day-week",
+  "title": "Testing the Four-Day Week",
+  "level": "B2 · Upper-intermediate",
+  "description": "What happens when companies let staff work four days instead of five.",
+  "instructions": "Read the article about four-day working week trials, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "For most of the past century, the five-day, forty-hour working week has been treated as the natural order of things. Yet in recent years, a growing number of employers have begun to question whether this pattern still makes sense. Across several countries, companies have taken part in organised trials in which staff work four days a week for the same salary, on the condition that they maintain their usual level of output."
+    },
+    {
+      "id": "p2",
+      "text": "The results of these trials have been striking. In one large study involving dozens of firms, the majority of participating companies chose to continue with the shorter week once the experiment had ended. Employees reported lower levels of stress and burnout, better sleep and more time for family and hobbies. Crucially, many managers found that productivity either stayed the same or rose slightly, as staff cut down on unnecessary meetings and distractions."
+    },
+    {
+      "id": "p3",
+      "text": "Supporters argue that these findings expose an uncomfortable truth about modern office work: much of the time spent at a desk is not genuinely productive. When people know they have only four days to complete their tasks, they tend to prioritise more carefully and work with greater focus. Some businesses also claim that offering a four-day week has made it easier to attract and retain talented workers in a competitive job market."
+    },
+    {
+      "id": "p4",
+      "text": "Nevertheless, critics warn against drawing sweeping conclusions. The companies that volunteered for the trials were mostly small, office-based firms that were already enthusiastic about the idea, so the results may not apply elsewhere. In sectors such as healthcare, retail and manufacturing, where services must be provided every day, reducing working hours could mean hiring additional staff, which would raise costs considerably. There are also concerns that some employees simply squeeze five days of work into four, leading to longer and more intense days."
+    },
+    {
+      "id": "p5",
+      "text": "Whether the four-day week becomes the norm will probably depend on how flexibly it can be adapted. Rather than a single model imposed on every workplace, the future may involve a range of arrangements, from compressed hours to rotating days off. What the trials have undoubtedly achieved, however, is to challenge the long-standing assumption that longer hours automatically lead to better results."
+    },
+    {
+      "id": "p6",
+      "text": "Some supporters also point to wider benefits beyond the workplace. If millions of people commuted one day less each week, traffic congestion and the emissions produced by daily travel could fall, at least in theory. An extra free day could also give parents more time with their children and allow people to care for elderly relatives or take part in voluntary work. Sceptics reply that these advantages are not guaranteed: workers might simply use the extra day to travel more for leisure, or to take on a second job if their income felt insufficient."
+    },
+    {
+      "id": "p7",
+      "text": "One difficulty in assessing the idea is that productivity is much easier to measure in some jobs than in others. A factory can count the number of items produced each day, but it is harder to judge the output of a teacher, a designer or a manager. In many trials, companies relied partly on employees' own reports of how they felt and how much they achieved, which critics regard as less reliable than hard data. Early enthusiasm for a new arrangement may also fade over time, so short trials could exaggerate the benefits. Researchers therefore stress the need for longer studies, covering a wider range of organisations and following them over several years rather than a few months."
+    },
+    {
+      "id": "p8",
+      "text": "It is worth remembering that working hours have changed before. In the early days of industrialisation, it was common for people to work six long days a week, and the idea of a two-day weekend once seemed unrealistic to many employers. It became widespread only after years of debate, campaigning and gradual change. Today, few people would wish to return to the older pattern. Whether the four-day week follows the same path remains uncertain, but history suggests that patterns of work which appear fixed can shift considerably when economic conditions and social attitudes change."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best summarises the article?",
+      "options": [
+        "The four-day week has been proven to work in every industry.",
+        "Trials of a four-day week have produced encouraging results, but it may not suit every type of workplace.",
+        "Most employees would prefer to work longer hours for more money.",
+        "Governments are planning to make the four-day week a legal requirement."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The article reports positive results (paragraphs 2-3), raises limitations (paragraph 4) and concludes that flexible models may be needed.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The results of these trials have been striking."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Nevertheless, critics warn against drawing sweeping conclusions."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "In the trials described, what condition did staff have to meet?",
+      "options": [
+        "Accept a lower salary",
+        "Work longer hours on Fridays",
+        "Maintain their usual level of output",
+        "Work from home on the fifth day"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Staff kept the same salary on the condition that they maintained their usual output.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "on the condition that they maintain their usual level of output"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "According to paragraph 2, why did productivity often stay the same or rise?",
+      "options": [
+        "Staff cut down on unnecessary meetings and distractions.",
+        "Companies hired more employees.",
+        "Managers increased the number of meetings.",
+        "Employees were paid bonuses for working faster."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text links the stable or higher productivity to fewer unnecessary meetings and distractions.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "as staff cut down on unnecessary meetings and distractions"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"retain\" is closest in meaning to:",
+      "options": [
+        "train",
+        "replace",
+        "pay",
+        "keep"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "To \"attract and retain\" workers means to bring them in and keep them in the company.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "attract and retain talented workers in a competitive job market"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What does the writer imply by calling the participating companies \"already enthusiastic about the idea\"?",
+      "options": [
+        "The trials were badly organised.",
+        "The positive results may partly reflect the companies' attitude rather than the four-day week itself.",
+        "The companies were paid to take part in the trials.",
+        "Large companies refused to take part because they were not interested."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Because the firms volunteered and liked the idea, their results may not represent other workplaces.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "The companies that volunteered for the trials were mostly small, office-based firms that were already enthusiastic about the idea, so the results may not apply elsewhere."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Why might a four-day week be costly in healthcare or retail?",
+      "options": [
+        "Workers in these sectors earn higher salaries.",
+        "These sectors have too many meetings.",
+        "Services are needed every day, so extra staff may have to be hired.",
+        "Customers would refuse to pay higher prices."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 4 says these sectors must provide services daily, so fewer hours would mean hiring more staff.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "reducing working hours could mean hiring additional staff, which would raise costs considerably"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "What is the purpose of the final paragraph?",
+      "options": [
+        "To conclude that flexible arrangements are likely and that the trials have challenged old assumptions",
+        "To introduce a new study about healthcare workers",
+        "To argue that the five-day week should never change",
+        "To describe the history of the forty-hour week"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The last paragraph looks ahead to flexible models and states what the trials have achieved.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "the future may involve a range of arrangements, from compressed hours to rotating days off"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "challenge the long-standing assumption that longer hours automatically lead to better results"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "Which concern about employees is raised by critics?",
+      "options": [
+        "They might become bored with three days off.",
+        "They might ask for higher salaries.",
+        "They might leave for companies with a five-day week.",
+        "They might end up working longer, more intense days."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Critics worry that employees squeeze five days of work into four, making each day longer and more intense.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "some employees simply squeeze five days of work into four, leading to longer and more intense days"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which title would best suit the article as a whole?",
+      "options": [
+        "Working Less, Achieving More? The Debate over the Four-Day Week",
+        "How to Get a Promotion",
+        "The End of Office Work",
+        "Why Meetings Are Important"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The article presents the promising results of four-day week trials as well as the doubts and limits of the evidence.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Whether the four-day week becomes the norm will probably depend on how flexibly it can be adapted."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"burnout\" refers to:",
+      "options": [
+        "a fire in the workplace",
+        "losing one's job",
+        "extreme tiredness caused by too much work or stress",
+        "a strong desire to work harder"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Burnout is exhaustion caused by long-term stress at work; it is mentioned alongside stress.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Employees reported lower levels of stress and burnout"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What do supporters suggest about the traditional five-day week in paragraph 3?",
+      "options": [
+        "It is the most productive pattern possible.",
+        "Workers spend too little time at their desks.",
+        "It was designed mainly to suit employees.",
+        "A good deal of the time spent at work is not used well."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Supporters say much of the time spent at a desk is not genuinely productive.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "much of the time spent at a desk is not genuinely productive"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 6, how might a four-day week affect traffic?",
+      "options": [
+        "More people would drive to work.",
+        "Congestion could fall because people would commute less.",
+        "Public transport would become more expensive.",
+        "Roads would become busier on Fridays."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "If people commuted one day less each week, congestion and emissions could fall.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "traffic congestion and the emissions produced by daily travel could fall"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"Sceptics\" refers to people who:",
+      "options": [
+        "strongly support a new idea",
+        "study traffic and transport",
+        "work only part-time",
+        "doubt that something is true or will work"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The sceptics doubt that the benefits of an extra day off are guaranteed.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Sceptics reply that these advantages are not guaranteed"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What point are the sceptics in paragraph 6 making?",
+      "options": [
+        "Commuting has no effect on the environment.",
+        "Parents do not want more time with their children.",
+        "The benefits of an extra day off depend on how people choose to use it.",
+        "Voluntary work should be made compulsory."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If people use the extra day for leisure travel or a second job, the expected benefits may not appear.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "workers might simply use the extra day to travel more for leisure"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, why is productivity harder to measure in some jobs?",
+      "options": [
+        "People in those jobs work fewer hours.",
+        "Their output cannot easily be counted like items in a factory.",
+        "Managers refuse to measure it.",
+        "Employees in those jobs often change employers."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A factory can count items, but the output of a teacher, designer or manager is harder to judge.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "it is harder to judge the output of a teacher, a designer or a manager"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "What did many trials partly rely on, according to paragraph 7?",
+      "options": [
+        "Data from government tax offices",
+        "Interviews with customers",
+        "Computer records of every task completed",
+        "Employees' own reports of how they felt and what they achieved"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Companies relied partly on employees' own reports, which critics see as less reliable than hard data.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "companies relied partly on employees' own reports of how they felt and how much they achieved"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "What is the main purpose of paragraph 7?",
+      "options": [
+        "To explain why the evidence for the four-day week is still limited",
+        "To prove that factory work is more productive than office work",
+        "To describe how teachers plan their lessons",
+        "To argue that all trials should be stopped"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The paragraph points out measurement problems and the need for longer, wider studies.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Researchers therefore stress the need for longer studies"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"widespread\" is closest in meaning to:",
+      "options": [
+        "physically very wide",
+        "common in many places",
+        "unpopular",
+        "temporary"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The two-day weekend became normal in many places only after a long process.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "It became widespread only after years of debate, campaigning and gradual change."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer mention the two-day weekend in paragraph 8?",
+      "options": [
+        "To show that working patterns that seem fixed have changed before",
+        "To argue that a two-day weekend is too short",
+        "To describe working conditions in modern factories",
+        "To criticise employers who opposed change"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The history of the weekend shows that accepted working patterns can shift over time.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "patterns of work which appear fixed can shift considerably"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What can be inferred about the writer's view of the four-day week's future?",
+      "options": [
+        "It will definitely become the norm within a few years.",
+        "It has no chance of success at all.",
+        "It is uncertain, but significant change is possible.",
+        "It depends only on new government laws."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer says the outcome is uncertain but uses history to suggest that change can happen.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Whether the four-day week follows the same path remains uncertain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "id": "w-an-email-about-a-zoo-trip",
+  "title": "An Email About a Zoo Trip",
+  "level": "A2 · Elementary",
+  "description": "Practise comparatives, superlatives and the past simple, then write an email about a trip to the zoo.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct answer.",
+      "text": "The elephants were ___ than the giraffes.",
+      "options": [
+        "big",
+        "bigger",
+        "biggest",
+        "more big"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use the comparative with \"than\". Short adjectives ending in one vowel + consonant double the consonant: big - bigger."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "We ___ (see) two baby lions.",
+      "answers": [
+        "saw"
+      ],
+      "points": 1,
+      "explanation": "\"See\" is irregular: see - saw."
+    },
+    {
+      "id": "e3",
+      "type": "choice",
+      "focus": "Superlatives",
+      "prompt": "Choose the correct answer.",
+      "text": "The monkeys were the ___ animals in the zoo.",
+      "options": [
+        "funniest",
+        "funnier",
+        "most funny",
+        "funny"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After \"the\" and with \"in the zoo\" we need the superlative. Funny - the funniest (-y becomes -iest)."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Linking words: because",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "we",
+        "because",
+        "the",
+        "tired",
+        "bus",
+        "took",
+        "were",
+        "we"
+      ],
+      "answers": [
+        "We took the bus because we were tired.",
+        "Because we were tired, we took the bus."
+      ],
+      "points": 1,
+      "explanation": "\"Because\" comes before the reason. The reason can come second, or first with a comma."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Prepositions of place",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We arrived to the zoo at ten o'clock.",
+      "answers": [
+        "We arrived at the zoo at ten o'clock."
+      ],
+      "points": 1,
+      "explanation": "We say \"arrive at\" a place like a building or a zoo, not \"arrive to\"."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Prepositions of time",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "The zoo closes ___ six o'clock.",
+      "answers": [
+        "at"
+      ],
+      "points": 1,
+      "explanation": "Use \"at\" with clock times: at six o'clock."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct answer.",
+      "text": "The lions ___ when we arrived.",
+      "options": [
+        "sleep",
+        "slept",
+        "were sleeping",
+        "was sleeping"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We use the past continuous for an action in progress when something else happened. With a plural subject we use \"were\": the lions were sleeping."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Past simple: spelling",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The baby monkey ___ (try) to take my banana.",
+      "answers": [
+        "tried"
+      ],
+      "points": 1,
+      "explanation": "Verbs ending in consonant + y change y to i before -ed: try - tried."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a lot of photos",
+        "took",
+        "the tigers",
+        "we",
+        "of"
+      ],
+      "answers": [
+        "We took a lot of photos of the tigers."
+      ],
+      "points": 1,
+      "explanation": "\"Take\" is irregular: take - took. We say \"take photos of\" something."
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Superlatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The elephant is the most heavy animal in the zoo.",
+      "answers": [
+        "The elephant is the heaviest animal in the zoo."
+      ],
+      "points": 1,
+      "explanation": "Two-syllable adjectives ending in -y take -iest: heavy - the heaviest (not \"the most heavy\")."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "How much / how many",
+      "prompt": "Choose the correct answer.",
+      "text": "How ___ animals did you see?",
+      "options": [
+        "much",
+        "lot",
+        "more",
+        "many"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Animals\" is a plural countable noun, so we ask \"How many...?\"."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Superlatives: irregular",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The rain was the ___ (bad) part of the day.",
+      "answers": [
+        "worst"
+      ],
+      "points": 1,
+      "explanation": "\"Bad\" has an irregular superlative: bad - worse - the worst."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Past continuous",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "eating",
+        "the giraffe",
+        "leaves",
+        "was"
+      ],
+      "answers": [
+        "The giraffe was eating leaves.",
+        "Was the giraffe eating leaves?"
+      ],
+      "points": 1,
+      "explanation": "Subject + was/were + -ing: The giraffe was eating leaves."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Past simple: was / were",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The penguins was very funny.",
+      "answers": [
+        "The penguins were very funny."
+      ],
+      "points": 1,
+      "explanation": "With plural subjects we use \"were\" in the past: the penguins were."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Will for predictions",
+      "prompt": "Choose the correct answer.",
+      "text": "Take a hat. I think it ___ be very sunny at the zoo.",
+      "options": [
+        "is",
+        "going",
+        "will",
+        "does"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We use \"will\" + base verb for predictions, often after \"I think\"."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Going to for plans",
+      "prompt": "Complete the sentence with \"going to\" and the verb in brackets.",
+      "text": "We ___ (visit) the zoo again next summer.",
+      "answers": [
+        "are going to visit"
+      ],
+      "points": 1,
+      "explanation": "For future plans we use am/is/are + going to + verb: We are going to visit."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Linking words: but",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "crowded",
+        "it was",
+        "the zoo was",
+        "fun",
+        "but"
+      ],
+      "answers": [
+        "The zoo was crowded, but it was fun.",
+        "The zoo was fun, but it was crowded."
+      ],
+      "points": 1,
+      "explanation": "\"But\" joins two contrasting ideas: The zoo was crowded, but it was fun."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Countable and uncountable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The keeper gave the bears some breads.",
+      "answers": [
+        "The keeper gave the bears some bread."
+      ],
+      "points": 1,
+      "explanation": "\"Bread\" is uncountable, so it has no plural -s: some bread."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Some / any",
+      "prompt": "Choose the correct answer.",
+      "text": "Can I have ___ water, please? I'm thirsty.",
+      "options": [
+        "any",
+        "many",
+        "a",
+        "some"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We use \"some\" in requests and offers, even though they are questions: Can I have some water?"
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Adverbs of frequency",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Lions sleep usually in the afternoon.",
+      "answers": [
+        "Lions usually sleep in the afternoon.",
+        "Usually lions sleep in the afternoon."
+      ],
+      "points": 1,
+      "explanation": "Adverbs of frequency usually go before the main verb: Lions usually sleep."
+    }
+  ],
+  "task": {
+    "genre": "Email",
+    "prompt": "Write an email to your friend Leo about a trip to the zoo.",
+    "contentPoints": [
+      "Say when you went and who you went with.",
+      "Say which animals you saw.",
+      "Say which animal you liked best and why.",
+      "Say what you did or bought after that."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "Hi Leo,",
+      "Last Friday I went to ...",
+      "We saw ...",
+      "... were bigger/taller than ...",
+      "My favourite animals were ... because ...",
+      "Best wishes,"
+    ],
+    "modelAnswer": "Hi Leo,\n\nLast Friday I went to the city zoo with my class. We saw tigers, penguins and two baby lions. The giraffes were taller than the trees! My favourite animals were the monkeys because they were the funniest. They jumped and played all the time. After that, we had lunch near the lake and I bought a small toy penguin.\n\nYou should go there too!\n\nBest wishes,\nNina"
+  }
+}

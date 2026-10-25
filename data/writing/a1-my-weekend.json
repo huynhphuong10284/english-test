@@ -1,0 +1,323 @@
+{
+  "id": "w-my-weekend",
+  "title": "My Weekend",
+  "level": "A1 · Beginner",
+  "description": "Practise the present simple and like + -ing, and write a message about your weekend.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present simple",
+      "prompt": "Choose the correct word.",
+      "text": "On Sundays we ___ to my grandparents' house.",
+      "options": [
+        "goes",
+        "going",
+        "go",
+        "are go"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "With we, use the base verb with no -s: we go."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "There is / there are",
+      "prompt": "Complete the sentence with is or are.",
+      "text": "There ___ a market in our street every Saturday.",
+      "answers": [
+        "is"
+      ],
+      "points": 1,
+      "explanation": "Use \"there is\" with one thing: there is a market."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Word order: time phrases",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "on",
+        "Saturday",
+        "late",
+        "get up",
+        "I"
+      ],
+      "answers": [
+        "I get up late on Saturday.",
+        "On Saturday I get up late."
+      ],
+      "points": 1,
+      "explanation": "Subject + verb + late + time: I get up late on Saturday."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Like + -ing",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I like go to the cinema with my friends.",
+      "answers": [
+        "I like going to the cinema with my friends.",
+        "I like to go to the cinema with my friends."
+      ],
+      "points": 1,
+      "explanation": "After like, use the -ing form (or to + verb): I like going."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Possessive adjectives",
+      "prompt": "Choose the correct word.",
+      "text": "We visit ___ cousins on Sunday.",
+      "options": [
+        "us",
+        "ours",
+        "our",
+        "we"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use \"our\" before a noun to show it belongs to us: our cousins."
+    },
+    {
+      "id": "e6",
+      "type": "error-correction",
+      "focus": "Present simple: questions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "What does you do at the weekend?",
+      "answers": [
+        "What do you do at the weekend?"
+      ],
+      "points": 1,
+      "explanation": "With you, make questions with do, not does: What do you do?"
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Prepositions of time: on",
+      "prompt": "Choose the correct word.",
+      "text": "We go swimming ___ Sunday morning.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"on\" with a day, also with a day + part of the day: on Sunday morning."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Can",
+      "prompt": "Complete with can or can't.",
+      "text": "I ___ ride a bike, but I can't ride a horse.",
+      "answers": [
+        "can"
+      ],
+      "points": 1,
+      "explanation": "Use \"can\" + verb for an ability: I can ride a bike."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Present simple: -es",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My dad watch football on Saturday.",
+      "answers": [
+        "My dad watches football on Saturday."
+      ],
+      "points": 1,
+      "explanation": "With he, she or it, verbs ending in -ch take -es: he watches."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Have got",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a big dog",
+        "have",
+        "my cousins",
+        "got"
+      ],
+      "answers": [
+        "My cousins have got a big dog.",
+        "Have my cousins got a big dog?"
+      ],
+      "points": 1,
+      "explanation": "Use \"have got\" with plural nouns (they): My cousins have got a big dog."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Articles: a",
+      "prompt": "Choose the correct word.",
+      "text": "We have ___ big lunch on Sunday.",
+      "options": [
+        "a",
+        "an",
+        "any",
+        "two"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"a\" before a consonant sound: a big lunch."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Present simple: negative",
+      "prompt": "Complete with the negative form of the verb in brackets.",
+      "text": "We ___ (not / get) up early at the weekend.",
+      "answers": [
+        "don't get",
+        "do not get"
+      ],
+      "points": 1,
+      "explanation": "With I, you, we and they, make the negative with don't (do not) + verb: we don't get up."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Linking words: or",
+      "prompt": "Choose the correct word.",
+      "text": "On Saturday I play tennis ___ go swimming. I can't do both!",
+      "options": [
+        "because",
+        "so",
+        "but",
+        "or"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"or\" to give a choice between two things."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Plurals",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Sometimes we go to the cinema with my two cousin.",
+      "answers": [
+        "Sometimes we go to the cinema with my two cousins."
+      ],
+      "points": 1,
+      "explanation": "After a number bigger than one, add -s to the noun: two cousins."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Present simple: be",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "busy",
+        "on Saturday",
+        "are",
+        "my parents"
+      ],
+      "answers": [
+        "My parents are busy on Saturday.",
+        "On Saturday my parents are busy.",
+        "Are my parents busy on Saturday?"
+      ],
+      "points": 1,
+      "explanation": "Use \"are\" with plural nouns: my parents are busy."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Possessive 's",
+      "prompt": "Write the word in brackets with 's.",
+      "text": "We go to ___ (Sam) house on Sunday.",
+      "answers": [
+        "Sam's"
+      ],
+      "points": 1,
+      "explanation": "Add 's to a name to show that something belongs to that person: Sam's house."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "There are",
+      "prompt": "Choose the correct word.",
+      "text": "There ___ lots of people in the park on Sunday.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"there are\" with plural nouns: there are lots of people."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Present simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The weekend are my favourite time.",
+      "answers": [
+        "The weekend is my favourite time.",
+        "Weekends are my favourite time.",
+        "The weekends are my favourite time."
+      ],
+      "points": 1,
+      "explanation": "Use \"is\" with one thing (the weekend) and \"are\" with more than one."
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "late",
+        "stay up",
+        "I",
+        "can"
+      ],
+      "answers": [
+        "I can stay up late.",
+        "Can I stay up late?"
+      ],
+      "points": 1,
+      "explanation": "Subject + can + verb: I can stay up late."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Prepositions of time: at",
+      "prompt": "Write in, on or at.",
+      "text": "I get up ___ ten o'clock on Sunday.",
+      "answers": [
+        "at"
+      ],
+      "points": 1,
+      "explanation": "Use \"at\" with clock times: at ten o'clock."
+    }
+  ],
+  "task": {
+    "genre": "Short message",
+    "prompt": "Your friend asks, \"What do you do at the weekend?\" Write a message to answer.",
+    "contentPoints": [
+      "Say what you do on Saturday.",
+      "Say what you do on Sunday.",
+      "Say who you spend your weekend with.",
+      "Ask your friend about their weekend."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "Hi ...,",
+      "On Saturday I ...",
+      "On Sunday we ...",
+      "I like ... because ...",
+      "What do you do ...?"
+    ],
+    "modelAnswer": "Hi Kate,\n\nOn Saturday I get up late and play tennis with my brother. In the afternoon I go to the cinema with my friends. On Sunday we visit our grandparents. I like Sundays because Grandma makes cake. What do you do at the weekend?\n\nJack"
+  }
+}

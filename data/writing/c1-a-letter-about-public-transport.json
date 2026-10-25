@@ -1,0 +1,330 @@
+{
+  "id": "w-a-letter-about-public-transport",
+  "title": "A Letter About Public Transport",
+  "level": "C1 · Advanced",
+  "description": "Practise inversion, advanced passives and formal linking, then write a letter to a newspaper about cuts to local bus services.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The council's plan to cut bus services has ___ widespread criticism.",
+      "options": [
+        "made",
+        "done",
+        "taken",
+        "drawn"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Draw criticism\" is a fixed collocation meaning to attract criticism."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Inversion with \"Little\"",
+      "prompt": "Complete the gap using the words in brackets in the correct order. Add any word you need.",
+      "text": "Little ___ (the council / realise) how many elderly residents depend on the 42 bus.",
+      "answers": [
+        "does the council realise",
+        "does the council realize",
+        "did the council realise",
+        "did the council realize"
+      ],
+      "points": 1,
+      "explanation": "When \"Little\" begins a sentence to mean \"not at all\", use inverted word order with an auxiliary: Little does the council realise ..."
+    },
+    {
+      "id": "e3",
+      "type": "transformation",
+      "focus": "Advanced passives",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The council ___ millions on the new ticketing system.\"",
+      "text": "They say that the council has wasted millions on the new ticketing system.",
+      "keyword": "SAID",
+      "answers": [
+        "The council is said to have wasted millions on the new ticketing system."
+      ],
+      "points": 1,
+      "explanation": "Subject + is said + perfect infinitive (to have wasted) reports a past action impersonally, without saying who claims it."
+    },
+    {
+      "id": "e4",
+      "type": "word-order",
+      "focus": "Cleft sentences",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "most",
+        "residents",
+        "what",
+        "reliability",
+        "to",
+        "matters"
+      ],
+      "answers": [
+        "What matters most to residents is reliability.",
+        "What matters to residents most is reliability.",
+        "Reliability is what matters most to residents.",
+        "Reliability is what matters to residents most."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft (What + clause + is + focus) highlights the key idea; it can also be reversed: Reliability is what matters most."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Hedging",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It would appear what the council has ignored residents' views.",
+      "answers": [
+        "It would appear that the council has ignored residents' views."
+      ],
+      "points": 1,
+      "explanation": "\"It would appear\" is followed by a \"that\" clause: It would appear that ..."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Concession",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "___ the council's good intentions, the new timetable has caused chaos.",
+      "options": [
+        "Notwithstanding",
+        "Although",
+        "By the same token",
+        "Whereas"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Notwithstanding\" is a formal preposition followed by a noun phrase. \"Although\" and \"whereas\" need a full clause."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Nominalisation",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Services became much less reliable ___.\"",
+      "text": "Services became much less reliable after the company was privatised.",
+      "keyword": "PRIVATISATION",
+      "answers": [
+        "Services became much less reliable after the privatisation of the company.",
+        "Services became much less reliable following the privatisation of the company.",
+        "Services became much less reliable after the company's privatisation.",
+        "Services became much less reliable following the company's privatisation.",
+        "Services became much less reliable since the privatisation of the company."
+      ],
+      "points": 1,
+      "explanation": "Nominalisation turns the clause \"the company was privatised\" into the noun phrase \"the privatisation of the company\", a typical feature of formal writing."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Investing in public transport would ease ___ (congest) on the city's roads.",
+      "answers": [
+        "congestion"
+      ],
+      "points": 1,
+      "explanation": "We \"ease congestion\". The verb \"congest\" becomes the noun \"congestion\"."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The decision will have a devastating impact to local businesses.",
+      "answers": [
+        "The decision will have a devastating impact on local businesses.",
+        "The decision will have a devastating impact upon local businesses."
+      ],
+      "points": 1,
+      "explanation": "The noun \"impact\" is followed by \"on\": an impact on something."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Many elderly residents are entirely dependent ___ the evening service.",
+      "options": [
+        "of",
+        "on",
+        "from",
+        "to"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The adjective \"dependent\" is followed by \"on\" (or \"upon\"): dependent on something."
+    },
+    {
+      "id": "e11",
+      "type": "transformation",
+      "focus": "Conditional inversion with \"Should\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ ahead, many people will lose their jobs.\"",
+      "text": "If the cuts go ahead, many people will lose their jobs.",
+      "keyword": "SHOULD",
+      "answers": [
+        "Should the cuts go ahead, many people will lose their jobs.",
+        "Should the cuts be allowed to go ahead, many people will lose their jobs."
+      ],
+      "points": 1,
+      "explanation": "In formal writing, \"If + subject + verb\" can become \"Should + subject + verb\" in first conditionals."
+    },
+    {
+      "id": "e12",
+      "type": "word-order",
+      "focus": "Inversion with \"Nowhere\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "than in",
+        "nowhere",
+        "more obvious",
+        "the outer suburbs",
+        "the problem"
+      ],
+      "answers": [
+        "Nowhere is the problem more obvious than in the outer suburbs.",
+        "The problem is nowhere more obvious than in the outer suburbs."
+      ],
+      "points": 1,
+      "explanation": "When the negative adverb \"Nowhere\" starts a sentence, the verb comes before the subject: Nowhere is the problem ..."
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The cuts would leave shift workers ___ (strand) after 8 p.m.",
+      "answers": [
+        "stranded"
+      ],
+      "points": 1,
+      "explanation": "\"Leave somebody stranded\" means to leave them with no way of getting home; we need the past participle."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Register",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "I am writing to express my ___ opposition to the proposed cuts.",
+      "options": [
+        "heavy",
+        "large",
+        "strong",
+        "high"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Strong opposition\" is the natural collocation in a formal letter of complaint."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Passive gerund",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The new timetable was introduced without residents being consult.",
+      "answers": [
+        "The new timetable was introduced without residents being consulted."
+      ],
+      "points": 1,
+      "explanation": "A passive gerund needs being + past participle: without residents being consulted."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Hedging with \"seem\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The council ___ bus users.\"",
+      "text": "Apparently, the council did not consult bus users.",
+      "keyword": "SEEMS",
+      "answers": [
+        "The council seems not to have consulted bus users.",
+        "The council seems to have failed to consult bus users."
+      ],
+      "points": 1,
+      "explanation": "\"Seem + perfect infinitive\" (seems not to have consulted) reports a past action cautiously."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Cohesion with \"Given that\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a better service",
+        "given that",
+        "passengers",
+        "have risen",
+        "deserve",
+        "fares"
+      ],
+      "answers": [
+        "Given that fares have risen, passengers deserve a better service.",
+        "Passengers deserve a better service, given that fares have risen."
+      ],
+      "points": 1,
+      "explanation": "\"Given that\" means \"considering the fact that\" and introduces a reason."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one suitable word or phrase.",
+      "text": "The council has failed to take residents' needs into ___ .",
+      "answers": [
+        "account",
+        "consideration"
+      ],
+      "points": 1,
+      "explanation": "\"Take something into account/consideration\" means to think about it before making a decision."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The service is already unreliability at weekends.",
+      "answers": [
+        "The service is already unreliable at weekends."
+      ],
+      "points": 1,
+      "explanation": "After \"is already\" we need an adjective: unreliability (noun) becomes unreliable."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Future passives",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The night bus route ___ in May.\"",
+      "text": "The council plans to close the night bus route in May.",
+      "keyword": "DUE",
+      "answers": [
+        "The night bus route is due to be closed in May.",
+        "The night bus route is due to close in May."
+      ],
+      "points": 1,
+      "explanation": "\"Be due to (be) + verb\" describes something that is officially planned for a particular time."
+    }
+  ],
+  "task": {
+    "genre": "Letter to the editor",
+    "prompt": "Your local newspaper has published an article about the council's plan to cut evening bus services. Write a letter to the editor giving your opinion on the plan and suggesting how public transport could be improved instead.",
+    "contentPoints": [
+      "Explain why you are writing.",
+      "Describe who would be affected by the cuts and how.",
+      "Respond to the council's main argument.",
+      "Suggest at least two ways to improve public transport."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "I am writing in response to ...",
+      "Little does the council realise ...",
+      "Notwithstanding ...",
+      "What matters most to residents is ...",
+      "I urge readers to ...",
+      "Yours faithfully,"
+    ],
+    "modelAnswer": "Dear Editor,\n\nI am writing in response to your article of 3 March about the council's plan to cut evening bus services in Westbridge. As someone who has relied on public transport for over twenty years, I feel I must express my deep concern.\n\nLittle does the council realise how many residents depend on these services. Elderly people without cars use the 42 bus to visit doctors and relatives, while many young people rely on late buses to get home safely from work. Cutting evening routes would leave these groups isolated, and it would appear that their views have simply been ignored.\n\nThe council argues that the routes are unprofitable. Notwithstanding its financial difficulties, I would point out that the council is said to have wasted millions on a ticketing system that still does not work properly. Moreover, services have become much less reliable since the privatisation of the bus company.\n\nWhat matters most to residents is reliability. Rather than reducing services, the council should invest in them. Dedicated bus lanes on the main roads would ease congestion and make journeys faster, while a simple, affordable fare structure would attract new passengers. Similar measures in neighbouring towns have increased passenger numbers by almost a third.\n\nI urge readers to attend the public meeting on 20 March and make their voices heard. Public transport is not a luxury; it is a lifeline.\n\nYours faithfully,\nMargaret Ellis"
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "id": "w-a-report-on-staff-wellbeing",
+  "title": "A Report on Staff Wellbeing",
+  "level": "C1 · Advanced",
+  "description": "Practise hedging, advanced passives and cohesion, then write a report on the results of a staff wellbeing survey.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The survey results ___ that workload is the main source of stress.",
+      "options": [
+        "prove",
+        "insist",
+        "suggest",
+        "declare"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Reports use cautious verbs such as \"suggest\" or \"indicate\" to present findings; \"prove\" claims too much certainty for survey data."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Advanced passives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Staff ___ (report) to be working longer hours than they were two years ago.",
+      "answers": [
+        "are reported",
+        "were reported"
+      ],
+      "points": 1,
+      "explanation": "The pattern subject + be reported + to-infinitive is a formal, impersonal way of presenting information: Staff are reported to be working ..."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Cleft sentences",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "was",
+        "flexible",
+        "it",
+        "working",
+        "that",
+        "requested",
+        "most",
+        "staff"
+      ],
+      "answers": [
+        "It was flexible working that most staff requested.",
+        "It was flexible working that staff most requested.",
+        "It was flexible working that staff requested most."
+      ],
+      "points": 1,
+      "explanation": "An \"it\" cleft (It was + focus + that + clause) emphasises one element, here \"flexible working\"."
+    },
+    {
+      "id": "e4",
+      "type": "transformation",
+      "focus": "Inversion with \"Seldom\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"Seldom ___ with their teams.\"",
+      "text": "Managers rarely discuss mental health with their teams.",
+      "keyword": "SELDOM",
+      "answers": [
+        "Seldom do managers discuss mental health with their teams."
+      ],
+      "points": 1,
+      "explanation": "Negative adverbs such as \"seldom\" at the start of a sentence are followed by auxiliary + subject; in the present simple use \"do\": Seldom do managers discuss ..."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Several employees said they were suffering of burnout.",
+      "answers": [
+        "Several employees said they were suffering from burnout."
+      ],
+      "points": 1,
+      "explanation": "The verb \"suffer\" is followed by \"from\" when it introduces an illness or condition: suffer from burnout."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Cohesion",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Workloads must be reduced. ___, we recommend hiring two additional administrators.",
+      "options": [
+        "By the same token",
+        "Notwithstanding",
+        "To this end",
+        "Even so"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"To this end\" means \"in order to achieve this aim\" and introduces the action taken to reach the goal just mentioned."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Nominalisation",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The changes were resisted because of ___.\"",
+      "text": "Because staff were consulted so little, the changes were resisted.",
+      "keyword": "LACK",
+      "answers": [
+        "The changes were resisted because of the lack of consultation with staff.",
+        "The changes were resisted because of a lack of consultation with staff.",
+        "The changes were resisted because of the lack of staff consultation.",
+        "The changes were resisted because of a lack of staff consultation.",
+        "The changes were resisted because of the lack of consultation of staff.",
+        "The changes were resisted because of a lack of consultation of staff."
+      ],
+      "points": 1,
+      "explanation": "Nominalisation turns a clause (staff were consulted so little) into a noun phrase (a lack of consultation with staff), which sounds more formal and fits after \"because of\"."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Hedging",
+      "prompt": "Complete the gap with one suitable word or phrase.",
+      "text": "It would ___ that remote work has improved wellbeing for most employees.",
+      "answers": [
+        "appear",
+        "seem"
+      ],
+      "points": 1,
+      "explanation": "\"It would appear/seem that ...\" softens a claim, which is typical of cautious, formal reports."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Long hours can ___ a heavy toll on employees' mental health.",
+      "options": [
+        "take",
+        "make",
+        "do",
+        "give"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Take a (heavy) toll on\" something is a fixed expression meaning to have a serious harmful effect on it."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Inversion with \"Only when\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "will",
+        "are reduced",
+        "workloads",
+        "stress levels",
+        "only when",
+        "fall"
+      ],
+      "answers": [
+        "Only when workloads are reduced will stress levels fall.",
+        "Stress levels will fall only when workloads are reduced."
+      ],
+      "points": 1,
+      "explanation": "When \"Only when + clause\" begins a sentence, the main clause is inverted: will stress levels fall."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Employees are entitled for two paid wellbeing days a year.",
+      "answers": [
+        "Employees are entitled to two paid wellbeing days a year."
+      ],
+      "points": 1,
+      "explanation": "The adjective \"entitled\" is followed by \"to\": entitled to something."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Cleft sentences with \"What\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___ clearer communication from managers.\"",
+      "text": "More than anything, staff want clearer communication from managers.",
+      "keyword": "WHAT",
+      "answers": [
+        "What staff want most is clearer communication from managers.",
+        "What staff most want is clearer communication from managers.",
+        "What the staff want most is clearer communication from managers.",
+        "What staff want above all is clearer communication from managers."
+      ],
+      "points": 1,
+      "explanation": "A \"what\" cleft (What + clause + is + focus) emphasises the most important point at the end of the sentence."
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Several staff described their workload as ___ (manage), with most working late every evening.",
+      "answers": [
+        "unmanageable"
+      ],
+      "points": 1,
+      "explanation": "The context is negative, so we need a negative adjective: manage becomes unmanageable (impossible to deal with)."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Managers should learn to recognise the signs of stress and exhaust.",
+      "answers": [
+        "Managers should learn to recognise the signs of stress and exhaustion."
+      ],
+      "points": 1,
+      "explanation": "The noun phrase \"the signs of stress and ...\" needs a second noun: exhaust (verb) becomes exhaustion."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Many staff expressed concern ___ the lack of proper lunch breaks.",
+      "options": [
+        "for",
+        "of",
+        "on",
+        "about"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We express concern \"about\" (or \"over\") a problem; \"concern for\" is used for people we worry about."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Concession with \"Despite\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"___, many staff feel undervalued.\"",
+      "text": "Although they are well paid, many staff feel undervalued.",
+      "keyword": "DESPITE",
+      "answers": [
+        "Despite being well paid, many staff feel undervalued.",
+        "Despite being paid well, many staff feel undervalued.",
+        "Despite their good pay, many staff feel undervalued.",
+        "Despite their high pay, many staff feel undervalued."
+      ],
+      "points": 1,
+      "explanation": "\"Despite\" is followed by a noun or an -ing form, not by a full clause: Despite being well paid ..."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Cohesion",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "___ (N) these concerns, most staff said they enjoyed their work.",
+      "answers": [
+        "Notwithstanding"
+      ],
+      "points": 1,
+      "explanation": "\"Notwithstanding\" is a formal word meaning \"in spite of\" and is followed directly by a noun phrase."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Verb patterns after \"recommend\"",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We recommend that managers to hold monthly one-to-one meetings.",
+      "answers": [
+        "We recommend that managers hold monthly one-to-one meetings.",
+        "We recommend that managers should hold monthly one-to-one meetings.",
+        "We recommend managers to hold monthly one-to-one meetings.",
+        "We recommend that managers hold monthly one to one meetings."
+      ],
+      "points": 1,
+      "explanation": "After \"recommend that\", use subject + base form (or should + base form), not a to-infinitive."
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Impersonal passives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "that",
+        "breaks",
+        "widely",
+        "it is",
+        "acknowledged",
+        "improve productivity"
+      ],
+      "answers": [
+        "It is widely acknowledged that breaks improve productivity."
+      ],
+      "points": 1,
+      "explanation": "\"It is widely acknowledged that ...\" presents a claim as generally accepted without naming who accepts it."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Mixed conditionals",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"If managers had taken complaints seriously, morale ___ now.\"",
+      "text": "Managers did not take complaints seriously, so morale is low now.",
+      "keyword": "WOULD",
+      "answers": [
+        "If managers had taken complaints seriously, morale would not be so low now.",
+        "If managers had taken complaints seriously, morale would not be low now.",
+        "If managers had taken complaints seriously, morale would not be as low now.",
+        "If managers had taken complaints seriously, morale would be higher now.",
+        "If managers had taken complaints seriously, morale would be better now."
+      ],
+      "points": 1,
+      "explanation": "A mixed conditional links a past condition (had taken) to a present result (would not be)."
+    }
+  ],
+  "task": {
+    "genre": "Report",
+    "prompt": "Your company recently carried out a staff wellbeing survey. The human resources manager has asked you to write a report on the results and recommend ways to improve staff wellbeing.",
+    "contentPoints": [
+      "Summarise the main findings of the survey.",
+      "Identify the main causes of stress at work.",
+      "Recommend two specific measures.",
+      "Explain the benefits the measures are expected to bring."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "The aim of this report is to ...",
+      "The results suggest that ...",
+      "It was also noted that ...",
+      "In light of these findings, ...",
+      "To this end, ...",
+      "Should these measures be adopted, ..."
+    ],
+    "modelAnswer": "Introduction\n\nThe aim of this report is to summarise the findings of last month's staff wellbeing survey and to recommend measures to improve working conditions. A total of 86 employees, roughly 70% of the workforce, took part.\n\nMain findings\n\nThe results suggest that overall job satisfaction remains reasonably high, with most staff describing their colleagues as supportive. However, almost half of respondents reported feeling stressed at least once a week, and a quarter said they regularly worked beyond their contracted hours.\n\nCauses of stress\n\nBy far the most frequently mentioned cause was workload, particularly at the end of each quarter. It was also noted that staff are rarely consulted before new systems are introduced, which leaves many feeling undervalued. A lack of quiet space in the open-plan office was a further concern.\n\nRecommendations\n\nIn light of these findings, two measures are recommended. Firstly, flexible working hours should be introduced. Secondly, a short consultation process should precede any major change to working practices. To this end, a staff representative could attend monthly management meetings.\n\nExpected benefits\n\nShould these measures be adopted, it is likely that stress levels would fall and morale would improve. Flexible hours would make it easier for staff to balance work with family commitments, while regular consultation would reduce resistance to change. In the long term, the company could also expect lower staff turnover."
+  }
+}

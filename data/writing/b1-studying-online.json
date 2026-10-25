@@ -1,0 +1,324 @@
+{
+  "id": "w-studying-online",
+  "title": "Studying Online",
+  "level": "B1 · Intermediate",
+  "description": "Practise the passive, relative clauses and linking words, then write a report on students' experience of online lessons.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Present perfect",
+      "prompt": "Choose the correct answer.",
+      "text": "Since 2020, online lessons ___ much more common.",
+      "options": [
+        "have become",
+        "became",
+        "become",
+        "were becoming"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "With \"since\" + a past time, use the present perfect for a change that continues to now: have become."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple passive",
+      "prompt": "Write the correct passive form of the verb in brackets.",
+      "text": "Thirty students ___ (ask) about their experience of online lessons.",
+      "answers": [
+        "were asked"
+      ],
+      "points": 1,
+      "explanation": "The past simple passive is was/were + past participle. Reports often use it to describe how information was collected."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Modals for recommendations",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "shorter",
+        "make",
+        "the school",
+        "should",
+        "online lessons"
+      ],
+      "answers": [
+        "The school should make online lessons shorter.",
+        "Should the school make online lessons shorter?"
+      ],
+      "points": 1,
+      "explanation": "Use should + infinitive to make a recommendation: The school should make ..."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Linking words",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Online lessons are flexible. Although, many students feel lonely.",
+      "answers": [
+        "Online lessons are flexible. However, many students feel lonely."
+      ],
+      "points": 1,
+      "explanation": "\"Although\" must join two clauses in one sentence. To start a new sentence with a contrast, use \"However\"."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "Most students said they could study at their own pace. ___, they saved time travelling to school.",
+      "options": [
+        "However",
+        "In addition",
+        "Although",
+        "As a result"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"In addition\" adds a second advantage to the first one."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Relative clauses",
+      "prompt": "Complete the sentence with one word.",
+      "text": "Students ___ have a quiet room at home find online lessons easier.",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "points": 1,
+      "explanation": "Use \"who\" or \"that\" to introduce a relative clause about people."
+    },
+    {
+      "id": "e7",
+      "type": "error-correction",
+      "focus": "Present perfect vs past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Last term, the school has started using a new online platform.",
+      "answers": [
+        "Last term, the school started using a new online platform."
+      ],
+      "points": 1,
+      "explanation": "With a finished time like \"last term\", use the past simple: the school started."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Past simple passive",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word WERE. Begin: \"All the lessons ...\"",
+      "text": "Teachers recorded all the lessons.",
+      "keyword": "WERE",
+      "answers": [
+        "All the lessons were recorded by teachers.",
+        "All the lessons were recorded by the teachers.",
+        "All the lessons were recorded."
+      ],
+      "points": 1,
+      "explanation": "To make a past simple passive, use was/were + past participle. Add \"by\" only if the person doing the action is important."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Verb + -ing",
+      "prompt": "Choose the correct answer.",
+      "text": "Many students said they missed ___ their friends every day.",
+      "options": [
+        "to see",
+        "see",
+        "seeing",
+        "saw"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Miss\" is followed by the -ing form: missed seeing."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation: adjectives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Some students found it ___ (difficulty) to concentrate at home.",
+      "answers": [
+        "difficult"
+      ],
+      "points": 1,
+      "explanation": "After \"found it\" we need an adjective. The adjective from \"difficulty\" is \"difficult\"."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Comparatives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "harder",
+        "students",
+        "online",
+        "found",
+        "most",
+        "lessons"
+      ],
+      "answers": [
+        "Most students found online lessons harder."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives take -er in the comparative: hard - harder."
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Past obligation: had to",
+      "prompt": "Choose the correct answer.",
+      "text": "Students ___ turn on their cameras during lessons; it was a rule.",
+      "options": [
+        "should",
+        "could",
+        "might",
+        "had to"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"had to\" for an obligation or rule in the past."
+    },
+    {
+      "id": "e13",
+      "type": "error-correction",
+      "focus": "Used to: negative",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Before 2020, we didn't used to have any online lessons.",
+      "answers": [
+        "Before 2020, we didn't use to have any online lessons.",
+        "Before 2020, we never used to have any online lessons."
+      ],
+      "points": 1,
+      "explanation": "After \"didn't\", use \"use to\" without -d: we didn't use to have."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Linking words: however",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word HOWEVER. Begin: \"Online lessons save time. ...\"",
+      "text": "Online lessons save time, but they can be boring.",
+      "keyword": "HOWEVER",
+      "answers": [
+        "Online lessons save time. However, they can be boring."
+      ],
+      "points": 1,
+      "explanation": "\"However\" shows a contrast like \"but\", but it starts a new sentence and is followed by a comma."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Phrasal verbs: get up",
+      "prompt": "Complete the sentence with one word.",
+      "text": "Many students found it hard to ___ up early for morning lessons.",
+      "answers": [
+        "get",
+        "wake"
+      ],
+      "points": 1,
+      "explanation": "\"Get up\" means to leave your bed; \"wake up\" means to stop sleeping."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Second conditional",
+      "prompt": "Choose the correct answer.",
+      "text": "If the school ___ better laptops, students would learn more easily.",
+      "options": [
+        "had",
+        "has",
+        "will have",
+        "would have"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "In the second conditional, use the past simple after \"if\" and \"would\" in the other part."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Relative clauses: which",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "platform",
+        "we",
+        "easy",
+        "the",
+        "use",
+        "very",
+        "which"
+      ],
+      "answers": [
+        "The platform which we use is very easy."
+      ],
+      "points": 1,
+      "explanation": "Use \"which\" (or \"that\") to add information about a thing: the platform which we use."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Online lessons are more cheaper for the school.",
+      "answers": [
+        "Online lessons are cheaper for the school."
+      ],
+      "points": 1,
+      "explanation": "Do not use \"more\" with an -er comparative: cheaper, not \"more cheaper\"."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Preferences: would rather",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word RATHER. Begin: \"I would ...\"",
+      "text": "I prefer to study in a classroom.",
+      "keyword": "RATHER",
+      "answers": [
+        "I would rather study in a classroom."
+      ],
+      "points": 1,
+      "explanation": "\"Would rather\" is followed by the infinitive without \"to\": I would rather study."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Present perfect continuous with for",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word FOR. Begin: \"The school has ...\"",
+      "text": "The school started using online lessons two years ago.",
+      "keyword": "FOR",
+      "answers": [
+        "The school has been using online lessons for two years.",
+        "The school has used online lessons for two years.",
+        "The school has been using online lessons for 2 years."
+      ],
+      "points": 1,
+      "explanation": "Use the present perfect (continuous) with \"for\" + a period of time for something that started in the past and continues now."
+    }
+  ],
+  "task": {
+    "genre": "Report",
+    "prompt": "Your school has offered some lessons online this year. The head teacher has asked you to write a report about students' experience of studying online.",
+    "contentPoints": [
+      "Explain the aim of the report and how you collected information.",
+      "Describe the advantages students mentioned.",
+      "Describe the problems students mentioned.",
+      "Make at least one recommendation."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "The aim of this report is to ...",
+      "Most students said that ...",
+      "However, a number of students ...",
+      "In addition, ...",
+      "I would recommend that ...",
+      "The school should ..."
+    ],
+    "modelAnswer": "Introduction\nThe aim of this report is to describe students' experience of online lessons this year. Thirty students in Year 10 were asked to complete a short questionnaire.\n\nAdvantages\nMost students said that online lessons were flexible because they could study at their own pace. In addition, they saved time, as they didn't have to travel to school. Many students also liked the fact that all lessons were recorded, so they could watch them again before exams.\n\nProblems\nHowever, a number of students said they felt lonely and missed their friends. Others found it hard to concentrate at home, especially when their internet connection was slow.\n\nRecommendations\nI would recommend that the school continues to record lessons. However, teachers should make online lessons shorter and include more group activities, so that students can work together."
+  }
+}

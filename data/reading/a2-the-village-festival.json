@@ -1,0 +1,451 @@
+{
+  "id": "the-village-festival",
+  "title": "The Village Festival",
+  "level": "A2 · Elementary",
+  "description": "A small village holds its yearly summer festival.",
+  "instructions": "Read the text about a village festival, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Every year in July, the small village of Elmford has a summer festival. It takes place on the green field next to the river. People come from other towns to enjoy it. This year, more than five hundred visitors came."
+    },
+    {
+      "id": "p2",
+      "text": "The festival starts at ten o'clock in the morning with music from the village band. There are stalls selling homemade jam, bread and honey. Children can paint their faces or ride on a little train. In the afternoon, there is a race for dogs and their owners."
+    },
+    {
+      "id": "p3",
+      "text": "The most popular event is the boat race on the river. Teams of four people build their own boats from wood and old plastic bottles. Many boats sink before the finish line, and everyone laughs. This year, a team of grandparents won the race."
+    },
+    {
+      "id": "p4",
+      "text": "All the money from the festival goes to the village school. Last year, the school bought new computers with it. This year, the head teacher wants to build a small library. The people of Elmford are already planning next year's festival."
+    },
+    {
+      "id": "p5",
+      "text": "This year, Lucy Evans helped at the festival for the first time. She is fourteen and lives in Elmford with her parents. She worked at the cake stall with her aunt from nine o'clock in the morning. They sold more than two hundred cakes. By three o'clock, the table was empty, and Lucy's feet were very tired."
+    },
+    {
+      "id": "p6",
+      "text": "In the evening, there was a big party on the field. A band from the city played music, and people danced on the grass. Families sat on blankets and ate their dinner. When it got dark, there were fireworks over the river. The little children watched with their mouths open, and the dogs from the race hid under the tables."
+    },
+    {
+      "id": "p7",
+      "text": "The next morning, many people came back to clean the field. They picked up rubbish and took down the stalls. The head teacher thanked everyone and said the festival made more money than ever before. Lucy is already thinking about next year. She wants to have her own stall and sell homemade lemonade, and her aunt says she is going to help her."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A school that needs new computers",
+        "Elmford's yearly summer festival",
+        "How to build a wooden boat",
+        "Different dog races in England"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text describes the events and purpose of Elmford's summer festival.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "the small village of Elmford has a summer festival"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Where does the festival take place?",
+      "options": [
+        "In the village school",
+        "In the town centre",
+        "On a boat",
+        "On a field next to the river"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "It takes place on the green field next to the river.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It takes place on the green field next to the river."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"sink\" means...",
+      "options": [
+        "go down under the water",
+        "go very fast",
+        "turn around",
+        "break into pieces on land"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The homemade boats go under the water before the finish, which makes people laugh.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Many boats sink before the finish line, and everyone laughs."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "Why do people laugh at the boat race?",
+      "options": [
+        "Because the river is very small",
+        "Because the dogs are in the boats",
+        "Because it is funny when the homemade boats fail",
+        "Because the grandparents fall in the water"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The boats are made from wood and old bottles, and when many of them sink, people find it funny.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "build their own boats from wood and old plastic bottles"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "Many boats sink before the finish line, and everyone laughs."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention the new computers?",
+      "options": [
+        "To show that the festival sells computers",
+        "To explain why children paint their faces",
+        "To show that the school is very old",
+        "To show how the festival money helps the school"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The money goes to the school, and the computers are an example of what it bought.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "All the money from the festival goes to the village school."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Last year, the school bought new computers with it."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Who won the boat race this year?",
+      "options": [
+        "A team of grandparents",
+        "The village band",
+        "A team of children",
+        "The head teacher"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "This year, a team of grandparents won the race.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "This year, a team of grandparents won the race."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "When does Elmford have its summer festival?",
+      "options": [
+        "Every year in August",
+        "Every year in July",
+        "Every spring",
+        "Every two years"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Every year in July, Elmford has a summer festival.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Every year in July, the small village of Elmford has a summer festival."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "How many visitors came to the festival this year?",
+      "options": [
+        "More than five hundred",
+        "About fifty",
+        "Exactly two hundred",
+        "More than five thousand"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "This year, more than five hundred visitors came.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "This year, more than five hundred visitors came."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "inference",
+      "text": "What can we understand from \"People come from other towns to enjoy it\"?",
+      "options": [
+        "Nobody in Elmford goes to the festival",
+        "The festival is in another town",
+        "Visitors must pay a lot of money",
+        "The festival is known outside Elmford"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "People travel from other towns, so the festival is well known.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "People come from other towns to enjoy it."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"homemade\" means...",
+      "options": [
+        "very expensive",
+        "bought in a big shop",
+        "made at home, not in a factory",
+        "very old"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Homemade jam and bread are made by people in their own kitchens.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "There are stalls selling homemade jam, bread and honey."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What happens at the festival in the afternoon?",
+      "options": [
+        "A boat race for children",
+        "Fireworks over the river",
+        "A big dinner in the school",
+        "A race for dogs and their owners"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "In the afternoon, there is a race for dogs and their owners.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "In the afternoon, there is a race for dogs and their owners."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"popular\" is closest in meaning to...",
+      "options": [
+        "very dangerous",
+        "very short",
+        "liked by many people",
+        "new this year"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The boat race is the event that most people like.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "The most popular event is the boat race on the river."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "What do the teams make their boats from?",
+      "options": [
+        "Paper and old boxes",
+        "Wood and old plastic bottles",
+        "Metal from old cars",
+        "Old tables and chairs"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Teams build their boats from wood and old plastic bottles.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Teams of four people build their own boats from wood and old plastic bottles."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"stall\" means...",
+      "options": [
+        "a small boat",
+        "a kind of cake",
+        "a table where people sell things",
+        "a place to sleep"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lucy and her aunt sold cakes from a table at the festival.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "She worked at the cake stall with her aunt"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "How many cakes did Lucy and her aunt sell?",
+      "options": [
+        "About fifty",
+        "More than two hundred",
+        "Exactly one hundred",
+        "More than five hundred"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They sold more than two hundred cakes.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "They sold more than two hundred cakes."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer say that Lucy's feet were very tired?",
+      "options": [
+        "To show how hard she worked that day",
+        "To explain why she did not go to the party",
+        "To show that she ran in the race",
+        "To show that her shoes were new"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She worked from nine o'clock and sold all the cakes, so it was hard work.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "By three o'clock, the table was empty, and Lucy's feet were very tired."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "Why did the dogs hide under the tables?",
+      "options": [
+        "They were looking for food",
+        "They were tired after the boat race",
+        "They wanted to sleep",
+        "They were afraid of the fireworks"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The dogs hid when the fireworks started, so the noise scared them.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "there were fireworks over the river"
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "the dogs from the race hid under the tables"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"rubbish\" means...",
+      "options": [
+        "things that people throw away",
+        "money from the stalls",
+        "chairs and tables",
+        "flowers and plants"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After the festival, people picked up the things that visitors threw away.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "They picked up rubbish and took down the stalls."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer mention that many people came back the next morning?",
+      "options": [
+        "To show that the festival lasted two days",
+        "To explain why the boats sank",
+        "To show that the village works together",
+        "To show that people forgot their bags"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Many people came back to help clean, so the village works as a team.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "The next morning, many people came back to clean the field."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What can we understand about Lucy's first festival?",
+      "options": [
+        "She does not want to help again",
+        "She enjoyed helping and wants to do more",
+        "She wants to win the boat race",
+        "She did not like working with her aunt"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She is already thinking about next year and wants her own stall.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Lucy is already thinking about next year."
+        }
+      ]
+    }
+  ]
+}

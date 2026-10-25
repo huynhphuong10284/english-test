@@ -1,0 +1,327 @@
+{
+  "id": "w-the-value-of-volunteering",
+  "title": "The Value of Volunteering",
+  "level": "C1 · Advanced",
+  "description": "Practise cleft sentences, inversion and hedging, then write an article encouraging readers to volunteer.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Cleft sentences",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "___ I learned from volunteering was patience.",
+      "options": [
+        "That",
+        "Which",
+        "What",
+        "It"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A \"what\" cleft begins with \"What\" + clause, followed by \"was\" + the focus: What I learned ... was patience."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Inversion with \"Only when\"",
+      "prompt": "Complete the gap using the words in brackets in the correct order. Add any word you need.",
+      "text": "Only when I started volunteering ___ (I / realise) how lonely some elderly people are.",
+      "answers": [
+        "did I realise",
+        "did I realize"
+      ],
+      "points": 1,
+      "explanation": "After \"Only when + clause\" at the start of a sentence, the main clause is inverted: did I realise."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Hedging",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "seem",
+        "improves",
+        "that",
+        "would",
+        "it",
+        "wellbeing",
+        "volunteering"
+      ],
+      "answers": [
+        "It would seem that volunteering improves wellbeing."
+      ],
+      "points": 1,
+      "explanation": "\"It would seem that ...\" is a hedging phrase that presents a claim cautiously."
+    },
+    {
+      "id": "e4",
+      "type": "transformation",
+      "focus": "Advanced passives",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The festival ___ from cancellation by volunteers.\"",
+      "text": "People think that volunteers saved the festival from cancellation.",
+      "keyword": "THOUGHT",
+      "answers": [
+        "The festival is thought to have been saved from cancellation by volunteers."
+      ],
+      "points": 1,
+      "explanation": "For a past passive action reported in the present, use is thought + to have been + past participle."
+    },
+    {
+      "id": "e5",
+      "type": "error-correction",
+      "focus": "Collocations",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Volunteering gives young people the chance to gain experience and do new friends.",
+      "answers": [
+        "Volunteering gives young people the chance to gain experience and make new friends."
+      ],
+      "points": 1,
+      "explanation": "The correct collocation is \"make friends\", not \"do friends\"."
+    },
+    {
+      "id": "e6",
+      "type": "choice",
+      "focus": "Cohesion",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Volunteering helps the community. ___, it benefits the volunteers themselves.",
+      "options": [
+        "By the same token",
+        "Notwithstanding",
+        "To this end",
+        "Conversely"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"By the same token\" adds a further point that follows the same logic. \"Conversely\" would introduce an opposite idea."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Nominalisation",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"For many people, ___ the main barrier to volunteering.\"",
+      "text": "Many people do not volunteer because they do not have enough time.",
+      "keyword": "LACK",
+      "answers": [
+        "For many people, a lack of time is the main barrier to volunteering.",
+        "For many people, lack of time is the main barrier to volunteering.",
+        "For many people, the lack of time is the main barrier to volunteering.",
+        "For many people, a lack of free time is the main barrier to volunteering."
+      ],
+      "points": 1,
+      "explanation": "Nominalisation turns \"do not have enough time\" into the noun phrase \"a lack of time\", which can then be the subject."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "Charities rely heavily on volunteers to ___ (r) awareness of their causes.",
+      "answers": [
+        "raise"
+      ],
+      "points": 1,
+      "explanation": "\"Raise awareness\" is a fixed collocation meaning to make people know more about an issue."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Dependent prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I have always been passionate in helping others.",
+      "answers": [
+        "I have always been passionate about helping others."
+      ],
+      "points": 1,
+      "explanation": "The adjective \"passionate\" is followed by \"about\": passionate about something."
+    },
+    {
+      "id": "e10",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "Volunteering gave me the chance to engage ___ people from very different backgrounds.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "at"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Engage with\" people or ideas means to make an effort to understand and interact with them."
+    },
+    {
+      "id": "e11",
+      "type": "transformation",
+      "focus": "Past perfect passive",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"The event ___ when I joined.\"",
+      "text": "Someone had already organised the event when I joined.",
+      "keyword": "BEEN",
+      "answers": [
+        "The event had already been organised when I joined.",
+        "The event had been organised already when I joined.",
+        "The event had already been organized when I joined."
+      ],
+      "points": 1,
+      "explanation": "The past perfect passive (had been + past participle) shows that something was done to the subject before another past event."
+    },
+    {
+      "id": "e12",
+      "type": "word-order",
+      "focus": "Inversion with \"Not until\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "did I",
+        "my own",
+        "good fortune",
+        "not until",
+        "appreciate",
+        "I volunteered"
+      ],
+      "answers": [
+        "Not until I volunteered did I appreciate my own good fortune.",
+        "I did not appreciate my own good fortune until I volunteered."
+      ],
+      "points": 1,
+      "explanation": "When \"Not until + clause\" begins a sentence, the main clause is inverted: did I appreciate."
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Volunteering is an ___ (enrich) experience for people of all ages.",
+      "answers": [
+        "enriching"
+      ],
+      "points": 1,
+      "explanation": "We need an adjective beginning with a vowel after \"an\": enriching means improving the quality of something."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Many charities depend on the generous of local people.",
+      "answers": [
+        "Many charities depend on the generosity of local people."
+      ],
+      "points": 1,
+      "explanation": "After \"the\" and before \"of\" we need a noun: generous (adjective) becomes generosity."
+    },
+    {
+      "id": "e15",
+      "type": "transformation",
+      "focus": "Regret + -ing",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"I ___ volunteering earlier.\"",
+      "text": "I wish I had started volunteering earlier.",
+      "keyword": "REGRET",
+      "answers": [
+        "I regret not starting volunteering earlier.",
+        "I regret not having started volunteering earlier.",
+        "I regret not beginning volunteering earlier.",
+        "I regret not having begun volunteering earlier."
+      ],
+      "points": 1,
+      "explanation": "\"Regret + (not) + -ing\" or \"regret + (not) having + past participle\" expresses sorrow about a past action, like \"I wish I had ...\"."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Collocations",
+      "prompt": "Choose the correct option to complete the sentence.",
+      "text": "The experience ___ my confidence enormously.",
+      "options": [
+        "expanded",
+        "grew",
+        "rose",
+        "boosted"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Boost someone's confidence\" is a common collocation meaning to increase it."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Cohesion",
+      "prompt": "Complete the gap with one word. The first letter is given in brackets.",
+      "text": "Volunteering is unpaid. ___ (N), it can often lead to paid employment.",
+      "answers": [
+        "Nevertheless",
+        "Nonetheless"
+      ],
+      "points": 1,
+      "explanation": "\"Nevertheless\" and \"Nonetheless\" introduce a contrast with the previous sentence, meaning \"in spite of this\"."
+    },
+    {
+      "id": "e18",
+      "type": "word-order",
+      "focus": "Cleft sentences with \"It was ... who\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "who",
+        "my grandmother",
+        "it was",
+        "to volunteer",
+        "first encouraged me"
+      ],
+      "answers": [
+        "It was my grandmother who first encouraged me to volunteer."
+      ],
+      "points": 1,
+      "explanation": "An \"it\" cleft (It was + person + who ...) emphasises who did something."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Uncountable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Volunteers are often required to undergo a training before they start.",
+      "answers": [
+        "Volunteers are often required to undergo training before they start.",
+        "Volunteers are often required to undergo some training before they start.",
+        "Volunteers are often required to undergo a training course before they start.",
+        "Volunteers are often required to undergo a training programme before they start."
+      ],
+      "points": 1,
+      "explanation": "\"Training\" is uncountable, so it cannot be used with \"a\"; say \"undergo training\" or \"a training course\"."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Purpose with \"so as not to\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given (3-6 words). Write the whole sentence: \"I kept a diary ___ my experiences.\"",
+      "text": "I kept a diary so that I would not forget my experiences.",
+      "keyword": "AS",
+      "answers": [
+        "I kept a diary so as not to forget my experiences.",
+        "I kept a diary so as to remember my experiences."
+      ],
+      "points": 1,
+      "explanation": "\"So as (not) to + infinitive\" is a formal way of expressing purpose; the negative \"not\" comes before \"to\"."
+    }
+  ],
+  "task": {
+    "genre": "Article",
+    "prompt": "A youth magazine is running a series called \"Giving Back\". Write an article about the value of volunteering, based on your own experience or that of someone you know.",
+    "contentPoints": [
+      "Describe a volunteering experience.",
+      "Explain how volunteering benefits other people.",
+      "Explain how it benefits the volunteers themselves.",
+      "Address what stops people from volunteering and encourage readers to take part."
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "usefulLanguage": [
+      "What would you do with ...?",
+      "Only when I ... did I realise ...",
+      "What I learned was ...",
+      "It would seem that ...",
+      "So why don't more people ...?",
+      "My advice is simple: ..."
+    ],
+    "modelAnswer": "Why giving your time is the best gift of all\n\nWhat would you do with an extra four hours a week? Watch more television? Scroll through social media? Two years ago, I decided to spend mine volunteering at a care home for elderly people, and it has changed my life.\n\nOnly when I started volunteering did I realise how lonely some elderly people are. Many residents receive no visitors for weeks at a time, so even a short conversation or a game of cards can brighten their day. What I learned from them was patience, along with a great deal about history that no textbook could teach.\n\nThe benefits are not limited to the people we help. It would seem that volunteering improves the wellbeing of volunteers themselves, reducing stress and giving a sense of purpose. By the same token, it allows young people to gain experience, develop teamwork and make new friends from very different backgrounds.\n\nSo why don't more people volunteer? For many people, a lack of time is the main barrier, while others simply do not know where to start. However, many organisations offer flexible roles, from helping at weekend events to working online from home. Charities rely heavily on volunteers to raise awareness of their causes, so even an hour a month can make a difference.\n\nIf you have ever thought about volunteering, my advice is simple: stop thinking and start. You may be surprised by how much you receive in return."
+  }
+}

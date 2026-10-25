@@ -1,0 +1,451 @@
+{
+  "id": "antibiotic-resistance",
+  "title": "The Coming Age of Resistance",
+  "level": "C1 · Advanced",
+  "description": "An article on how bacteria become resistant to antibiotics and why new drugs are scarce.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "The introduction of antibiotics in the mid-twentieth century transformed medicine. Infections that had once been routinely fatal, such as pneumonia and infected wounds, became readily treatable, and procedures from surgery to chemotherapy became far safer because the risk of infection could be controlled. Yet almost from the outset, scientists warned that the effectiveness of these drugs might not last, and their warnings have proved prescient."
+    },
+    {
+      "id": "p2",
+      "text": "Antibiotic resistance arises through natural selection. Within any large population of bacteria, a few individuals may carry genetic variations that allow them to survive exposure to a particular drug. When an antibiotic kills their susceptible neighbours, these resistant bacteria are left to multiply, and their descendants inherit the same advantage. Bacteria can also exchange genetic material with one another, which means that resistance can spread not only from one generation to the next but between different species."
+    },
+    {
+      "id": "p3",
+      "text": "Human behaviour has greatly accelerated this process. Antibiotics are frequently prescribed for viral infections, against which they are entirely ineffective, and patients sometimes stop taking a course of treatment once they feel better. In many countries, antibiotics are also used in large quantities in livestock farming, sometimes not to treat disease but to promote growth or prevent infection in crowded conditions, creating ideal circumstances for resistant strains to emerge."
+    },
+    {
+      "id": "p4",
+      "text": "Compounding the problem is a marked slowdown in the development of new antibiotics. Discovering novel compounds has become increasingly difficult, and the economics of the industry are unfavourable: new antibiotics are typically used sparingly, precisely in order to preserve their effectiveness, which limits the revenue they can generate. As a result, several large pharmaceutical companies have withdrawn from the field, leaving much of the work to smaller firms and academic laboratories."
+    },
+    {
+      "id": "p5",
+      "text": "Addressing resistance will therefore require action on several fronts. More careful prescribing, better infection control in hospitals, improved sanitation and vaccination can all reduce the need for antibiotics in the first place. At the same time, governments may need to devise new ways of rewarding companies for developing drugs that are deliberately kept in reserve. Without such measures, there is a real danger that common infections and routine operations could once again become life-threatening."
+    },
+    {
+      "id": "p6",
+      "text": "One area that has attracted growing attention is the role of the wider environment. Antibiotics and resistant bacteria do not remain confined to hospitals and farms; they enter rivers and soils through sewage, agricultural run-off and waste from drug manufacturing. In these settings, even low concentrations of antibiotics may be enough to favour resistant strains, and the genes responsible can circulate among the vast and diverse populations of microbes that live there. This has encouraged a so-called 'One Health' approach, which treats human, animal and environmental health as interconnected rather than as separate domains to be managed by different authorities. Although the precise contribution of environmental contamination remains uncertain, few researchers now believe that resistance can be tackled effectively by focusing on clinical settings alone."
+    },
+    {
+      "id": "p7",
+      "text": "Scientists are also exploring alternatives to conventional antibiotics. Bacteriophages, viruses that infect and destroy specific bacteria, were studied in the early twentieth century but were largely abandoned in many countries once antibiotics became widely available; they are now attracting renewed interest, although phage treatments often have to be matched carefully to the particular strain causing an infection. Other researchers are investigating compounds that disarm bacteria rather than kill them, on the theory that weakening a pathogen's ability to cause disease may exert less pressure on it to evolve resistance. Rapid diagnostic tests could make an equally important contribution by allowing doctors to identify the cause of an infection within hours, rather than prescribing broad-spectrum drugs while they wait for laboratory results. None of these approaches is likely to replace antibiotics entirely, but together they could reduce the burden placed on a dwindling arsenal."
+    },
+    {
+      "id": "p8",
+      "text": "Ultimately, antibiotic resistance is as much a problem of collective action as of science. The benefits of using an antibiotic accrue to the individual patient, whereas the costs, in the form of increased resistance, are shared by everyone, including future generations. Because resistant bacteria cross borders as easily as travellers and traded goods, no country can protect its population by acting in isolation, and measures taken in wealthy nations may achieve little if poorer countries lack access to both effective drugs and basic sanitation. Treating antibiotics as a shared resource, to be conserved much like clean air or fisheries, may be the most useful way of thinking about the challenge. It suggests that the question is not merely how to discover new medicines, but how to use the ones we already have wisely."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the passage?",
+      "options": [
+        "Antibiotic resistance is a growing threat driven by biology, human behaviour and economics, and requires action on several fronts.",
+        "Antibiotics have already become useless against all infections.",
+        "Resistance is caused mainly by patients who stop treatment early.",
+        "Pharmaceutical companies are solely responsible for the problem."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The passage explains the biological basis of resistance, the human and economic factors that worsen it, and the need for a multi-pronged response.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Addressing resistance will therefore require action on several fronts."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, how can resistance spread between different species of bacteria?",
+      "options": [
+        "Through contact with antibiotics in food",
+        "Through the exchange of genetic material",
+        "Through the death of susceptible bacteria",
+        "Through the mutation of viruses"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Bacteria can exchange genetic material, allowing resistance to pass between species.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Bacteria can also exchange genetic material with one another"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"prescient\" is closest in meaning to:",
+      "options": [
+        "exaggerated",
+        "ignored",
+        "scientifically flawed",
+        "showing knowledge of what would happen"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Scientists warned early that antibiotics might stop working, and this has turned out to be true.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "scientists warned that the effectiveness of these drugs might not last, and their warnings have proved prescient"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can be inferred about prescribing antibiotics for viral infections?",
+      "options": [
+        "It is effective only if the full course is completed.",
+        "It occurs only in livestock farming.",
+        "It contributes to resistance without offering any benefit against the infection.",
+        "It slows the spread of resistant bacteria."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Antibiotics are \"entirely ineffective\" against viruses, yet such use is listed among behaviours that accelerate resistance.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Human behaviour has greatly accelerated this process."
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "against which they are entirely ineffective"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Why have several large pharmaceutical companies withdrawn from antibiotic development?",
+      "options": [
+        "Governments have banned the development of new antibiotics.",
+        "New antibiotics tend to be used sparingly, which limits their profitability.",
+        "Smaller firms have bought their research programmes.",
+        "Existing antibiotics remain effective against all bacteria."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Sparing use of new drugs limits revenue, making the field economically unattractive.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "which limits the revenue they can generate"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "As a result, several large pharmaceutical companies have withdrawn from the field"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer explain that new antibiotics are used sparingly \"precisely in order to preserve their effectiveness\"?",
+      "options": [
+        "To criticise doctors for refusing to prescribe new drugs",
+        "To argue that new antibiotics are less effective than older ones",
+        "To explain how bacteria become resistant",
+        "To show how a sensible medical practice creates an economic disincentive"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Restricting use is medically wise, but it is exactly what makes the economics of the industry unfavourable.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "the economics of the industry are unfavourable"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "What is the function of the final sentence of the passage?",
+      "options": [
+        "To predict that all antibiotics will stop working within a few years",
+        "To summarise the history of antibiotics",
+        "To stress the potential seriousness of failing to act",
+        "To suggest that operations should be avoided"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The sentence warns of the consequences if the measures described are not taken; it is a conditional warning, not a firm prediction.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Without such measures, there is a real danger that common infections and routine operations could once again become life-threatening."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "Which policy would the writer most likely support?",
+      "options": [
+        "Rewarding companies for developing antibiotics even if those drugs are rarely used",
+        "Encouraging wider use of antibiotics in farming",
+        "Leaving antibiotic research entirely to the market",
+        "Prescribing antibiotics for all infections as a precaution"
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer suggests governments may need new ways to reward the development of drugs kept in reserve.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "devise new ways of rewarding companies for developing drugs that are deliberately kept in reserve"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 6 to 8?",
+      "options": [
+        "Environmental contamination has now been shown to be the main cause of antibiotic resistance.",
+        "Resistance must be tackled beyond hospitals, with new tools and international cooperation, because it is a shared problem.",
+        "Alternatives such as bacteriophages will soon make conventional antibiotics unnecessary.",
+        "Wealthy nations can solve the problem of resistance by investing more heavily in research."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The final paragraphs widen the focus to the environment, alternative treatments and the need for collective, international action.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Ultimately, antibiotic resistance is as much a problem of collective action as of science."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, how do antibiotics and resistant bacteria reach rivers and soils?",
+      "options": [
+        "Mainly through patients throwing away medicines they have not finished",
+        "Through the exchange of genetic material between bacterial species",
+        "Through sewage, agricultural run-off and waste from drug manufacturing",
+        "Through hospital waste alone, which is poorly regulated in most places"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The paragraph names three routes: sewage, agricultural run-off and manufacturing waste.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "they enter rivers and soils through sewage, agricultural run-off and waste from drug manufacturing"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"confined\" is closest in meaning to:",
+      "options": [
+        "restricted",
+        "concentrated",
+        "hidden",
+        "produced"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Antibiotics and bacteria do not stay limited to hospitals and farms; they spread beyond them.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "do not remain confined to hospitals and farms"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 6 about the 'One Health' approach?",
+      "options": [
+        "It has proved that environmental contamination is the main source of resistant bacteria.",
+        "It is concerned mainly with improving hygiene and infection control inside hospitals.",
+        "It aims to remove antibiotics from agriculture and the environment entirely.",
+        "It reflects the view that resistance cannot be managed well by authorities working in isolation from one another."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The approach treats human, animal and environmental health as connected rather than as separate areas for different authorities; the contribution of the environment is still described as uncertain.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "treats human, animal and environmental health as interconnected rather than as separate domains to be managed by different authorities"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "According to paragraph 7, why were bacteriophages largely abandoned in many countries?",
+      "options": [
+        "They were found to be harmful to patients.",
+        "Antibiotics became widely available.",
+        "They could only ever attack a few kinds of bacteria.",
+        "Bacteria quickly became resistant to them."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Phage research was largely dropped once antibiotics were widely available.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "were largely abandoned in many countries once antibiotics became widely available"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What does the writer suggest about compounds that disarm bacteria rather than kill them?",
+      "options": [
+        "They have already replaced conventional antibiotics in a number of countries.",
+        "They are known to cure infections more effectively than antibiotics do.",
+        "They might slow the development of resistance because they put less pressure on bacteria to evolve.",
+        "They work by infecting and destroying particular types of bacteria."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The theory behind them is that weakening rather than killing bacteria may create less pressure to evolve resistance; this is presented as a hope, not a proven result.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "may exert less pressure on it to evolve resistance"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, how could rapid diagnostic tests help?",
+      "options": [
+        "By detecting resistance genes in rivers, soils and farm waste",
+        "By removing the need for antibiotics in most common infections",
+        "By speeding up the discovery of new antibiotic compounds",
+        "By letting doctors avoid prescribing broad-spectrum drugs while waiting for results"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Quick identification of the cause of an infection means doctors need not rely on broad-spectrum drugs while waiting.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "rather than prescribing broad-spectrum drugs while they wait for laboratory results"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"dwindling\" is closest in meaning to:",
+      "options": [
+        "gradually shrinking",
+        "outdated",
+        "increasingly expensive",
+        "unreliable"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The supply of effective antibiotics is getting smaller as resistance spreads and few new drugs appear.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "reduce the burden placed on a dwindling arsenal"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer compare antibiotics to \"clean air or fisheries\"?",
+      "options": [
+        "To suggest that antibiotics are as plentiful as natural resources",
+        "To argue that pollution is the main cause of antibiotic resistance",
+        "To propose that environmental agencies should regulate antibiotics",
+        "To present them as a shared resource that careless individual use can run down"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Like clean air or fish stocks, the effectiveness of antibiotics is a common good that must be conserved.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Treating antibiotics as a shared resource, to be conserved much like clean air or fisheries"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "Based on paragraph 8, why might antibiotics be overused even when people understand the risks?",
+      "options": [
+        "The patient gains the benefit, while the cost of resistance is spread across everyone.",
+        "Most patients do not know that antibiotics can lose their effectiveness.",
+        "Resistance only affects future generations, not people alive today.",
+        "Poorer countries lack access to effective drugs and sanitation."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Because benefits are individual and costs are collective, each user has little personal reason to hold back; this is the logic of a collective-action problem.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "The benefits of using an antibiotic accrue to the individual patient, whereas the costs, in the form of increased resistance, are shared by everyone"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "According to paragraph 8, why can no country protect its population by acting alone?",
+      "options": [
+        "Wealthy nations refuse to share newly developed antibiotics.",
+        "Resistant bacteria cross borders as easily as travellers and traded goods.",
+        "International agreements prevent countries from limiting antibiotic use.",
+        "Poorer countries manufacture most of the antibiotics used worldwide."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Resistant bacteria move freely between countries, so isolated national action is not enough.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Because resistant bacteria cross borders as easily as travellers and traded goods, no country can protect its population by acting in isolation"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the phrase \"accrue to\" is closest in meaning to:",
+      "options": [
+        "are denied to",
+        "are paid for by",
+        "are received by",
+        "are recorded by"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The benefits go to, or are gained by, the individual patient.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "The benefits of using an antibiotic accrue to the individual patient"
+        }
+      ]
+    }
+  ]
+}

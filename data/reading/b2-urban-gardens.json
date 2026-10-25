@@ -1,0 +1,455 @@
+{
+  "id": "urban-gardens",
+  "title": "Green Spaces in Growing Cities",
+  "level": "B2 · Upper-intermediate",
+  "description": "How community gardens are changing city life.",
+  "instructions": "Read the article about urban gardening, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "By 2050, nearly seven out of ten people on Earth are expected to live in cities. As urban areas expand, open land disappears beneath roads, offices and apartment blocks. In response, a growing number of residents are turning empty lots, rooftops and even car parks into community gardens, small patches of green where neighbours grow vegetables, herbs and flowers together."
+    },
+    {
+      "id": "p2",
+      "text": "The most obvious benefit of these gardens is fresh food. In many low-income neighbourhoods, supermarkets are scarce and fresh produce is expensive, a situation sometimes described as a \"food desert\". A well-managed community garden cannot feed an entire district, but it can supply families with affordable vegetables during the growing season and encourage healthier eating habits, particularly among children who help to plant and harvest."
+    },
+    {
+      "id": "p3",
+      "text": "However, researchers argue that the social benefits may be even more important than the food itself. Gardens give people of different ages and backgrounds a reason to meet regularly and work towards a shared goal. A study in several European cities found that people who took part in community gardening reported feeling less lonely and more connected to their local area than those who did not."
+    },
+    {
+      "id": "p4",
+      "text": "Urban gardens also have environmental advantages. Plants absorb rainwater that would otherwise flood drains, and green roofs help to cool buildings during hot summers, reducing the need for air conditioning. In addition, gardens provide a habitat for bees and other insects whose numbers have declined sharply in recent decades."
+    },
+    {
+      "id": "p5",
+      "text": "Despite these benefits, community gardens are often vulnerable. Because many are built on land that is borrowed rather than owned, they can be removed when developers want to build. Supporters therefore argue that city governments should protect gardens in their long-term plans, treating them not as temporary projects but as essential parts of urban infrastructure, just like parks and libraries."
+    },
+    {
+      "id": "p6",
+      "text": "Running a community garden is not always easy, either. Volunteers may lose enthusiasm after the first season, especially when the work turns out to be harder than expected or the harvest is disappointing. Disagreements can arise over who is responsible for watering, how plots should be divided and whether newcomers should be allowed to join. Successful gardens usually develop clear but simple rules and share tasks fairly among members. Many also rely on one or two highly committed organisers, which can become a weakness if those people move away or simply become too tired to continue. In addition, soil on former industrial sites may be contaminated, so it often has to be tested before anything edible can be grown safely."
+    },
+    {
+      "id": "p7",
+      "text": "Gardens can also serve as outdoor classrooms. Schools in many cities have created their own vegetable plots, where pupils learn about plant growth, seasons and nutrition in a practical way that is difficult to reproduce from a textbook. Teachers often report that children who struggle to sit still in a classroom become absorbed in digging, planting and watching seeds develop. Adults, too, can gain new skills, from composting and saving seeds to running a small market stall. Some gardens also hold workshops on cooking with seasonal vegetables, linking what is grown to what ends up on the plate. For older residents with years of gardening experience, passing on their knowledge to younger neighbours can bring a welcome sense of purpose and respect."
+    },
+    {
+      "id": "p8",
+      "text": "It would be unrealistic to claim that urban gardens alone can solve the problems of modern cities. They cannot replace large-scale farming, and they will never produce more than a small share of the food that city dwellers eat. Their true value lies elsewhere: in the way they bring people together, make neighbourhoods greener and remind residents where their food actually comes from. In a world where many children have never seen a vegetable growing, that reminder is far from trivial. As cities continue to grow, the question is not whether there is room for such gardens, but whether planners and communities are willing to make room for them."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Cities should stop building new apartment blocks.",
+        "Community gardens bring food, social and environmental benefits but need protection.",
+        "Food deserts are the biggest problem in modern cities.",
+        "Bees are disappearing because cities are growing."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraphs 2–4 each describe one type of benefit, and paragraph 5 argues that gardens need protecting.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "a growing number of residents are turning empty lots, rooftops and even car parks into community gardens"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "Despite these benefits, community gardens are often vulnerable."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the phrase \"food desert\" refers to an area where:",
+      "options": [
+        "the climate is too dry to grow vegetables",
+        "people do not like eating vegetables",
+        "fresh food is hard to find or too expensive",
+        "restaurants are closed at night"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The sentence defines the term: supermarkets are scarce and fresh produce is expensive.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "supermarkets are scarce and fresh produce is expensive"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "According to paragraph 2, what can a community garden NOT do?",
+      "options": [
+        "Provide affordable vegetables",
+        "Encourage children to eat healthily",
+        "Feed an entire district",
+        "Supply food during the growing season"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text says a garden \"cannot feed an entire district\".",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "A well-managed community garden cannot feed an entire district"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What did the study in European cities find?",
+      "options": [
+        "Gardeners felt less lonely and more connected to their area.",
+        "Gardeners ate more vegetables than non-gardeners.",
+        "Older people enjoyed gardening more than young people.",
+        "Most residents did not want gardens in their neighbourhood."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 3 reports that participants felt less lonely and more connected.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "reported feeling less lonely and more connected to their local area"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can be inferred about the researchers mentioned in paragraph 3?",
+      "options": [
+        "They think the food from gardens is of poor quality.",
+        "They believe relationships between people are a key value of gardens.",
+        "They do not support community gardens.",
+        "They only studied gardens outside Europe."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They argue social benefits \"may be even more important than the food itself\", so they value the relationships gardens create.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "researchers argue that the social benefits may be even more important than the food itself"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Which environmental benefit is NOT mentioned in paragraph 4?",
+      "options": [
+        "Reducing flooding",
+        "Cooling buildings",
+        "Providing homes for insects",
+        "Cleaning polluted air"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 4 mentions rainwater, cooling and insect habitats, but not air pollution.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Plants absorb rainwater that would otherwise flood drains"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "green roofs help to cool buildings during hot summers"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "gardens provide a habitat for bees and other insects"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"vulnerable\" is closest in meaning to:",
+      "options": [
+        "popular",
+        "easily harmed or lost",
+        "carefully planned",
+        "very expensive"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The next sentence explains that gardens can be removed when developers want the land — they are easily lost.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "they can be removed when developers want to build"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "purpose",
+      "text": "Why does the writer compare gardens to parks and libraries?",
+      "options": [
+        "To suggest gardens should be treated as permanent public services",
+        "To show that gardens are more popular than libraries",
+        "To explain where gardens are usually built",
+        "To argue that parks should be turned into gardens"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Parks and libraries are permanent, essential infrastructure; the comparison supports protecting gardens long-term.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "treating them not as temporary projects but as essential parts of urban infrastructure, just like parks and libraries"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which title would best suit the article as a whole?",
+      "options": [
+        "How to Build a Supermarket",
+        "The Decline of the Honeybee",
+        "Why Cities Should Stop Growing",
+        "Growing Together: The Value of Community Gardens in Cities"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The article describes the food, social, environmental and educational benefits of community gardens, as well as their difficulties.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Their true value lies elsewhere: in the way they bring people together, make neighbourhoods greener"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "purpose",
+      "text": "Why does the writer begin the article with a prediction about city populations?",
+      "options": [
+        "To explain why green space in cities is becoming scarcer",
+        "To argue that people should move to the countryside",
+        "To show that cities are becoming less crowded",
+        "To criticise the building of apartment blocks"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Growing cities mean that open land disappears, which is the background to the rise of community gardens.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "As urban areas expand, open land disappears beneath roads, offices and apartment blocks."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does paragraph 4 suggest about gardens and bees?",
+      "options": [
+        "Bees prefer cities to the countryside.",
+        "Gardens are the main reason bees are declining.",
+        "Gardens may help to support insect populations that are under pressure.",
+        "Bee numbers have recently increased in cities."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Gardens provide a habitat for insects whose numbers have fallen, so they may help these species.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "gardens provide a habitat for bees and other insects whose numbers have declined sharply"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 6, which of the following can cause disagreements among gardeners?",
+      "options": [
+        "The price of vegetables in shops",
+        "Who is responsible for watering",
+        "The colour of the garden fence",
+        "The choice of local politicians"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Disagreements can arise over watering, the division of plots and whether newcomers can join.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Disagreements can arise over who is responsible for watering"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"contaminated\" is closest in meaning to:",
+      "options": [
+        "very dry",
+        "rich in nutrients",
+        "privately owned",
+        "polluted with harmful substances"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Soil on old industrial sites may contain harmful substances, so it must be tested before food is grown.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "soil on former industrial sites may be contaminated"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What can be inferred about gardens that depend heavily on one or two organisers?",
+      "options": [
+        "They are always more successful than other gardens.",
+        "They do not need any rules.",
+        "Their future may be uncertain if those people leave.",
+        "They never have disagreements."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If the organisers move away or become too tired, the garden may struggle to continue.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "which can become a weakness if those people move away or simply become too tired to continue"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, what do teachers often report about some children in school gardens?",
+      "options": [
+        "Children prefer reading about plants to growing them.",
+        "Children are usually afraid of insects.",
+        "Children learn faster from textbooks.",
+        "Children who find it hard to sit still become absorbed in the work."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Teachers say that children who struggle to sit still in class become absorbed in gardening.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "children who struggle to sit still in a classroom become absorbed in digging, planting and watching seeds develop"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"absorbed\" is closest in meaning to:",
+      "options": [
+        "completely interested and involved",
+        "tired",
+        "confused",
+        "wet"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The children are so interested in the activity that they give it their full attention.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "become absorbed in digging"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Which of the following skills for adults is mentioned in paragraph 7?",
+      "options": [
+        "Repairing bicycles",
+        "Building houses",
+        "Cooking in restaurants",
+        "Saving seeds"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Adults can learn composting, saving seeds and running a small market stall.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "from composting and saving seeds to running a small market stall"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What does paragraph 7 suggest about older residents with gardening experience?",
+      "options": [
+        "Sharing their knowledge can make them feel valued.",
+        "They are unwilling to teach others.",
+        "They usually run market stalls.",
+        "They have stopped gardening."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Passing on knowledge gives them a sense of purpose and respect.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "can bring a welcome sense of purpose and respect"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "What is the purpose of the first sentence of paragraph 8?",
+      "options": [
+        "To argue that urban gardens are a waste of money",
+        "To admit the limits of urban gardens before explaining their real value",
+        "To introduce a new problem facing cities",
+        "To compare different types of farming"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer first accepts that gardens cannot solve every problem, then explains where their true value lies.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "It would be unrealistic to claim that urban gardens alone can solve the problems of modern cities."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What does the writer imply in the final sentence of the article?",
+      "options": [
+        "There is no longer any space for gardens in cities.",
+        "Gardens should only be built outside cities.",
+        "Whether gardens survive depends mainly on people's choices, not on a lack of space.",
+        "Planners have already protected all city gardens."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer suggests that space can be found if planners and communities decide to make room for gardens.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "but whether planners and communities are willing to make room for them"
+        }
+      ]
+    }
+  ]
+}

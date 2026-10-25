@@ -1,0 +1,447 @@
+{
+  "id": "the-limits-of-meritocracy",
+  "title": "The Limits of Meritocracy",
+  "level": "C2 · Proficiency",
+  "description": "An essay examining the appeal of meritocratic ideals and the critiques that question their fairness and social effects.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "The word meritocracy was coined in the 1950s by the British sociologist Michael Young, and it is one of the minor ironies of intellectual history that a term he intended as a warning should have become a term of approbation. Young's satirical fable imagined a society in which status was allocated strictly according to measured intelligence and effort, and in which the successful, convinced that they owed their position entirely to their own merits, grew arrogant while the unsuccessful were deprived of any consoling sense that their fate was undeserved."
+    },
+    {
+      "id": "p2",
+      "text": "The ideal nonetheless exerts an obvious and, in many respects, legitimate appeal. Compared with societies in which positions were inherited by birth or distributed through patronage, a system that rewards talent and diligence appears both fairer and more efficient. It promises that the most capable surgeon, rather than the best-connected one, will operate, and it holds out to the children of modest families a route to advancement that aristocratic orders conspicuously denied them. Few would wish to return to a world in which office was a hereditary possession."
+    },
+    {
+      "id": "p3",
+      "text": "The difficulty lies in the gap between the ideal and its realisation. Talent, critics observe, does not develop in a vacuum; it is cultivated by stable homes, good schools, private tuition and the countless informal advantages that affluent families can confer. Where such advantages are unevenly distributed, a competition that is formally open may be substantively rigged, and the resulting hierarchy may reproduce inherited privilege while lending it the sheen of desert. Some researchers have suggested that in several wealthy countries educational attainment has become an increasingly reliable marker of parental background, although the strength of this relationship varies considerably from place to place."
+    },
+    {
+      "id": "p4",
+      "text": "A more radical line of criticism questions whether merit, even if it could be measured fairly, would justify large inequalities of reward. Philosophers in the tradition of John Rawls have argued that natural endowments are themselves a matter of luck: no one deserves to have been born with a quick mind or a robust constitution, any more than to have been born rich. On this view, the market value of a given talent depends on contingent circumstances, and treating it as a moral credential confuses good fortune with virtue."
+    },
+    {
+      "id": "p5",
+      "text": "Perhaps the most corrosive consequence, some commentators argue, is psychological and political rather than economic. A society that insists its winners have earned their success implicitly tells its losers that they have earned their failure. Resentment of educated elites, on this account, may stem less from envy of their wealth than from the humiliation of being judged and found wanting. Defenders of meritocracy reply that this diagnosis underestimates the dignity people derive from being rewarded for genuine accomplishment, and that abandoning the ideal would risk a return to arbitrary or nepotistic allocation."
+    },
+    {
+      "id": "p6",
+      "text": "The challenge, then, may be not to repudiate merit but to dethrone it: to retain its role in allocating particular positions while resisting its expansion into a comprehensive measure of human worth. Such a reconception would require attention both to the conditions under which talents are developed and to the forms of recognition available to those whose contributions the labour market values poorly. Whether liberal societies possess the political will for such a project is, at present, an open question."
+    },
+    {
+      "id": "p7",
+      "text": "Recent critics have extended Young's diagnosis in instructive directions. The philosopher Michael Sandel has argued that the rhetoric of rising, which tells citizens that they can go as far as their talents will take them, has bred hubris among those who succeed and a corrosive credentialism that treats a university degree as a precondition of social esteem. The legal scholar Daniel Markovits has gone further, contending that meritocratic competition harms even its apparent beneficiaries, who are subjected from early childhood to relentless training and later to punishing working hours in order to preserve their advantage. If these accounts are broadly correct, the problem is not simply that meritocracy is imperfectly realised but that its successful operation generates costs on both sides of the divide."
+    },
+    {
+      "id": "p8",
+      "text": "Among the remedies proposed, some are deliberately provocative. Sandel has suggested, for instance, that highly selective universities might admit students by lottery from among the pool of applicants judged capable of thriving there, on the grounds that such a procedure would acknowledge the role of fortune in success and puncture the conceit that admission certifies superior worth. Critics object that a lottery would itself seem arbitrary and might discourage effort, while sympathisers reply that the threshold of qualification would preserve the incentive to work. Other proposals are less dramatic but perhaps more consequential: restoring the prestige and remuneration of vocational training, for example, or broadening the forms of contribution that public institutions honour, so that esteem is not monopolised by those who excel in academic examinations."
+    },
+    {
+      "id": "p9",
+      "text": "None of these measures would abolish the tension that Young identified, and it would be naive to suppose otherwise. Any society must select people for positions that demand particular skills, and any principle of selection will generate winners and losers. What can be altered is the meaning attached to the outcome. A society that regarded success as partly a matter of fortune, and failure as compatible with dignity, might retain the efficiency of meritocratic selection while shedding something of the arrogance and humiliation that Young's fable so presciently depicted. That such a society would be less flattering to its winners is, perhaps, a price worth paying."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best expresses the main idea of the passage?",
+      "options": [
+        "Meritocracy should be abolished and replaced with a system of hereditary office.",
+        "Meritocracy is a perfectly fair system that critics have misunderstood.",
+        "Meritocracy has real advantages, but it should not be treated as a complete measure of human worth.",
+        "Meritocracy fails solely because intelligence cannot be measured accurately."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer acknowledges its appeal but argues for \"dethroning\" merit rather than repudiating it.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The challenge, then, may be not to repudiate merit but to dethrone it"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What did Michael Young originally intend the term \"meritocracy\" to be?",
+      "options": [
+        "A warning",
+        "A scientific classification",
+        "A political slogan",
+        "A term of praise"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer notes the irony that a term \"he intended as a warning\" became approving.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "a term he intended as a warning should have become a term of approbation"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"approbation\" is closest in meaning to",
+      "options": [
+        "suspicion",
+        "approval",
+        "description",
+        "regulation"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Approbation\" means approval or praise, contrasted here with \"a warning\".",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "a term of approbation"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What does the writer imply by saying a competition may be \"formally open\" but \"substantively rigged\"?",
+      "options": [
+        "Anyone may officially enter, but unequal prior advantages largely determine who wins.",
+        "Examiners routinely cheat in favour of wealthy candidates.",
+        "The rules of the competition are kept secret from poorer families.",
+        "Formal rules are irrelevant because talent is entirely inherited."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The contrast is between official access and actual outcomes shaped by uneven advantages; no deliberate cheating is claimed.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Where such advantages are unevenly distributed, a competition that is formally open may be substantively rigged"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What does the passage say about the link between educational attainment and parental background?",
+      "options": [
+        "It has disappeared in most wealthy countries.",
+        "It is identical in strength across all countries.",
+        "It has been proven to be the sole cause of inequality.",
+        "Some researchers suggest it has strengthened in several wealthy countries, though it varies."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The claim is hedged: \"some researchers have suggested\", and the strength \"varies considerably\".",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Some researchers have suggested that in several wealthy countries educational attainment has become an increasingly reliable marker of parental background"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer refer to philosophers in the tradition of John Rawls in paragraph 4?",
+      "options": [
+        "To show that philosophers unanimously support meritocracy.",
+        "To introduce the argument that natural talents are a matter of luck and so do not straightforwardly justify unequal rewards.",
+        "To argue that people born rich deserve their wealth.",
+        "To explain how merit can be measured more accurately."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The Rawlsian argument challenges the moral basis of rewarding talent, not its measurement.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "natural endowments are themselves a matter of luck"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "According to the argument in paragraph 5, why might resentment of educated elites arise?",
+      "options": [
+        "Mainly because elites earn far higher salaries.",
+        "Because elites refuse to share their educational opportunities.",
+        "Because meritocracy is too weakly enforced in practice.",
+        "Because people feel humiliated at being implicitly judged as deserving their failure."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The commentators suggest resentment stems \"less from envy of their wealth than from the humiliation of being judged\".",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "may stem less from envy of their wealth than from the humiliation of being judged and found wanting"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "purpose",
+      "text": "What is the function of the final sentence of paragraph 5?",
+      "options": [
+        "To present a counter-argument from those who support meritocracy.",
+        "To summarise the writer's own final conclusion.",
+        "To provide statistical evidence of nepotism.",
+        "To show that defenders and critics fully agree."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The sentence gives the defenders' reply, maintaining balance before the conclusion.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Defenders of meritocracy reply that this diagnosis underestimates the dignity people derive from being rewarded for genuine accomplishment"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"dethrone\" most nearly means",
+      "options": [
+        "completely destroy",
+        "remove from a position of supreme importance",
+        "replace with inherited privilege",
+        "praise more highly"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "To dethrone merit is to keep it but strip it of its dominant status, unlike \"repudiate\".",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "not to repudiate merit but to dethrone it: to retain its role in allocating particular positions while resisting its expansion into a comprehensive measure of human worth"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "inference",
+      "text": "What is the writer's attitude to the prospects of the reform proposed in paragraph 6?",
+      "options": [
+        "Confident that it will soon be achieved.",
+        "Certain that it is impossible.",
+        "Uncertain whether there is sufficient political will to achieve it.",
+        "Indifferent to whether it happens."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer calls it \"an open question\" whether societies have the political will.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Whether liberal societies possess the political will for such a project is, at present, an open question."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "According to paragraph 7, what has the rhetoric of rising bred, in Sandel's view?",
+      "options": [
+        "Greater equality of opportunity across social classes.",
+        "Renewed respect for manual and vocational work.",
+        "A decline in university enrolment.",
+        "Hubris among the successful and a credentialism that treats a degree as a precondition of esteem."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Sandel argues it has bred hubris and a corrosive credentialism.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "has bred hubris among those who succeed and a corrosive credentialism that treats a university degree as a precondition of social esteem"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What is distinctive about Markovits's argument as presented in paragraph 7?",
+      "options": [
+        "It claims that meritocracy harms even those who appear to benefit from it.",
+        "It claims that meritocracy harms only those who fail to succeed.",
+        "It defends meritocracy against Sandel's criticisms.",
+        "It is concerned only with university admissions."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Markovits 'has gone further', arguing that the apparent beneficiaries are also harmed.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "meritocratic competition harms even its apparent beneficiaries"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"corrosive\" in \"a corrosive credentialism\" is closest in meaning to",
+      "options": [
+        "costly",
+        "temporary",
+        "gradually destructive",
+        "competitive"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Something corrosive gradually wears away or damages, here social esteem and solidarity.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "a corrosive credentialism"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "According to the last sentence of paragraph 7, what follows if the critics' accounts are broadly correct?",
+      "options": [
+        "Meritocracy merely needs to be implemented more faithfully.",
+        "The problem lies in meritocracy's successful operation itself, which imposes costs on winners and losers alike.",
+        "Positions should once again be allocated by inheritance.",
+        "Only the elites suffer under a meritocratic system."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The problem is 'not simply that meritocracy is imperfectly realised' but that it generates costs on both sides even when it works.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the problem is not simply that meritocracy is imperfectly realised but that its successful operation generates costs on both sides of the divide"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 8, how did Sandel suggest highly selective universities might admit students?",
+      "options": [
+        "By abolishing entrance requirements and admitting everyone who applies.",
+        "By giving priority to applicants from families with no university education.",
+        "By lottery from among all applicants, regardless of their qualifications.",
+        "By lottery from among the applicants judged capable of thriving there."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The lottery would be held only among applicants who meet a threshold, not among all applicants.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "admit students by lottery from among the pool of applicants judged capable of thriving there"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer set out both the critics' objections and the sympathisers' reply concerning the lottery?",
+      "options": [
+        "To show that the proposal is contested by presenting arguments on both sides.",
+        "To reject the lottery proposal as unworkable.",
+        "To prove that a lottery would discourage effort.",
+        "To explain the practical mechanics of running a lottery."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer presents the objection and the reply without settling the matter, showing it is debated.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Critics object that a lottery would itself seem arbitrary and might discourage effort, while sympathisers reply that the threshold of qualification would preserve the incentive to work."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"monopolised\" is closest in meaning to",
+      "options": [
+        "purchased",
+        "shared",
+        "held exclusively",
+        "rewarded"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If esteem is monopolised by a group, that group alone possesses it.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "so that esteem is not monopolised by those who excel in academic examinations"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "Which of the following is mentioned in paragraph 8 as a less dramatic proposal?",
+      "options": [
+        "Closing the most selective universities.",
+        "Reducing the salaries of university graduates.",
+        "Abolishing academic examinations altogether.",
+        "Restoring the prestige and pay of vocational training."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Restoring the prestige and remuneration of vocational training is given as an example.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "restoring the prestige and remuneration of vocational training"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "According to the final paragraph, what does the writer believe can realistically be changed?",
+      "options": [
+        "The need to select people for skilled positions.",
+        "The meaning that society attaches to success and failure.",
+        "The existence of winners and losers in any selection.",
+        "The efficiency of meritocratic selection."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Selection and its winners and losers are unavoidable; 'What can be altered is the meaning attached to the outcome.'",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "What can be altered is the meaning attached to the outcome."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "Which statement best expresses the main idea of the final paragraph?",
+      "options": [
+        "Meritocratic selection should be abolished altogether.",
+        "Young's warning about meritocracy has proved mistaken.",
+        "Selection cannot be avoided, but seeing success as partly fortune and failure as compatible with dignity could reduce meritocracy's harms.",
+        "The winners of meritocratic competition deserve the satisfaction it brings."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The paragraph accepts selection but argues for changing the meaning of outcomes to shed arrogance and humiliation.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "A society that regarded success as partly a matter of fortune, and failure as compatible with dignity, might retain the efficiency of meritocratic selection"
+        }
+      ]
+    }
+  ]
+}

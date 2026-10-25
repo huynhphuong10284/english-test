@@ -1,0 +1,319 @@
+{
+  "id": "w-my-favourite-animal",
+  "title": "My Favourite Animal",
+  "level": "A1 · Beginner",
+  "description": "Practise have got, can and the present simple, and write about your favourite animal.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Have got",
+      "prompt": "Choose the correct word.",
+      "text": "Elephants ___ very big ears.",
+      "options": [
+        "have got",
+        "has got",
+        "is",
+        "are"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"have got\" with plural nouns (they): elephants have got."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present simple: third person -s",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "A cat ___ (sleep) a lot in the day.",
+      "answers": [
+        "sleeps"
+      ],
+      "points": 1,
+      "explanation": "With he, she or it, add -s to the verb: a cat sleeps."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Can",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "can",
+        "dolphins",
+        "fast",
+        "swim",
+        "very"
+      ],
+      "answers": [
+        "Dolphins can swim very fast.",
+        "Can dolphins swim very fast?"
+      ],
+      "points": 1,
+      "explanation": "Subject + can + base verb + very + adverb: Dolphins can swim very fast."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Present simple: third person -s",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My dog like playing with a ball.",
+      "answers": [
+        "My dog likes playing with a ball."
+      ],
+      "points": 1,
+      "explanation": "My dog = it, so the verb needs -s: my dog likes."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Possessive adjectives",
+      "prompt": "Choose the correct word.",
+      "text": "The rabbit is eating ___ food.",
+      "options": [
+        "it's",
+        "its",
+        "it",
+        "they"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"its\" (no apostrophe) for something that belongs to an animal or thing. \"It's\" means \"it is\"."
+    },
+    {
+      "id": "e6",
+      "type": "error-correction",
+      "focus": "There is / there are",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There is three cats in my house.",
+      "answers": [
+        "There are three cats in my house."
+      ],
+      "points": 1,
+      "explanation": "Use \"there are\" with plural nouns: there are three cats."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Plurals",
+      "prompt": "Choose the correct answer.",
+      "text": "I like ___. They are very clever.",
+      "options": [
+        "horse",
+        "a horses",
+        "horses",
+        "horse's"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use the plural (-s) to talk about animals in general: I like horses."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "There are: negative",
+      "prompt": "Write the negative form of be.",
+      "text": "There ___ (not / be) any lions in my country.",
+      "answers": [
+        "aren't",
+        "are not"
+      ],
+      "points": 1,
+      "explanation": "Use \"there aren't\" (are not) with plural nouns: there aren't any lions."
+    },
+    {
+      "id": "e9",
+      "type": "error-correction",
+      "focus": "Present simple: be",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Penguins is black and white.",
+      "answers": [
+        "Penguins are black and white."
+      ],
+      "points": 1,
+      "explanation": "Use \"are\" with plural nouns: penguins are."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Have got",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "a long tail",
+        "has",
+        "my cat",
+        "got"
+      ],
+      "answers": [
+        "My cat has got a long tail.",
+        "Has my cat got a long tail?"
+      ],
+      "points": 1,
+      "explanation": "Use \"has got\" with he, she and it: My cat has got a long tail."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Can't",
+      "prompt": "Choose the correct word.",
+      "text": "Penguins ___ fly, but they can swim.",
+      "options": [
+        "can",
+        "isn't",
+        "doesn't",
+        "can't"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"can't\" + verb for things you are not able to do: penguins can't fly."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Present simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "Rabbits ___ (eat) carrots and grass.",
+      "answers": [
+        "eat"
+      ],
+      "points": 1,
+      "explanation": "With plural nouns (they), use the base form of the verb: rabbits eat."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Prepositions of place: on",
+      "prompt": "Choose the correct word.",
+      "text": "My cat sleeps ___ my bed.",
+      "options": [
+        "on",
+        "at",
+        "to",
+        "of"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"on\" for a surface: on my bed, on the sofa."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Possessive 's",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My grandmas dog is very old.",
+      "answers": [
+        "My grandma's dog is very old."
+      ],
+      "points": 1,
+      "explanation": "Add 's to a person to show that something belongs to them: my grandma's dog."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Like + -ing",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "running",
+        "in the park",
+        "my dog",
+        "loves"
+      ],
+      "answers": [
+        "My dog loves running in the park.",
+        "In the park my dog loves running."
+      ],
+      "points": 1,
+      "explanation": "Love + verb-ing: My dog loves running."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Present simple: questions",
+      "prompt": "Complete the question with Do or Does.",
+      "text": "___ your dog like water?",
+      "answers": [
+        "Does"
+      ],
+      "points": 1,
+      "explanation": "Use \"Does\" in questions with he, she and it: Does your dog like ...?"
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Linking words: because",
+      "prompt": "Choose the correct word.",
+      "text": "I love dogs ___ they are friendly.",
+      "options": [
+        "but",
+        "because",
+        "or",
+        "so"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"because\" to give a reason."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Articles: a / an",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "My favourite animal is a elephant.",
+      "answers": [
+        "My favourite animal is an elephant."
+      ],
+      "points": 1,
+      "explanation": "Use \"an\" before a vowel sound: an elephant."
+    },
+    {
+      "id": "e19",
+      "type": "word-order",
+      "focus": "Present simple: third person -s",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "carrots",
+        "every day",
+        "eats",
+        "my rabbit"
+      ],
+      "answers": [
+        "My rabbit eats carrots every day.",
+        "Every day my rabbit eats carrots."
+      ],
+      "points": 1,
+      "explanation": "With he, she and it, add -s to the verb: my rabbit eats."
+    },
+    {
+      "id": "e20",
+      "type": "gap-fill",
+      "focus": "Prepositions of time: in",
+      "prompt": "Write in, on or at.",
+      "text": "Owls sleep ___ the day.",
+      "answers": [
+        "in"
+      ],
+      "points": 1,
+      "explanation": "Use \"in\" with parts of the day: in the day, in the morning."
+    }
+  ],
+  "task": {
+    "genre": "Short description",
+    "prompt": "Write about your favourite animal.",
+    "contentPoints": [
+      "Say what your favourite animal is.",
+      "Describe what it looks like.",
+      "Say what it can do.",
+      "Say why you like it."
+    ],
+    "minWords": 30,
+    "maxWords": 50,
+    "usefulLanguage": [
+      "My favourite animal is ...",
+      "It has got ...",
+      "It can ...",
+      "It likes ...",
+      "I like it because ..."
+    ],
+    "modelAnswer": "My favourite animal is the panda. It is black and white and it has got small ears. Pandas live in China. They can climb trees and they like eating bamboo. I like pandas because they are big, soft and very funny."
+  }
+}

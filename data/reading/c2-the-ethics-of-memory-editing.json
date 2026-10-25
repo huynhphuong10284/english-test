@@ -1,0 +1,447 @@
+{
+  "id": "the-ethics-of-memory-editing",
+  "title": "The Ethics of Editing Memory",
+  "level": "C2 · Proficiency",
+  "description": "An essay weighing the therapeutic promise of memory modification against concerns about identity, authenticity and moral responsibility.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "For most of human history, the past has been the one domain over which we exercised no direct control. We could reinterpret our memories, suppress them or embellish them in the retelling, but we could not reach into the brain and alter their content. Research over recent decades has begun to unsettle that assumption. Studies in animals, and more tentatively in humans, suggest that memories are not fixed recordings but are reconstructed each time they are recalled, and that during this window of instability they may be weakened, modified or, conceivably, erased."
+    },
+    {
+      "id": "p2",
+      "text": "The therapeutic attractions are obvious. For people tormented by traumatic memories, whether survivors of violence, combat veterans or victims of disaster, the prospect of dampening the emotional charge of a recollection without eliminating the recollection itself holds considerable appeal. Pharmacological interventions administered during recall have, in some preliminary trials, appeared to reduce the intensity of fear responses, although results have been mixed and the durability of any effect remains uncertain. Advocates argue that withholding such treatment from those who suffer would be difficult to justify."
+    },
+    {
+      "id": "p3",
+      "text": "Critics have raised objections of a different order. Memory, they point out, is not simply a store of information but a constituent of personal identity; we are, in some measure, the narrative we tell about what has happened to us. To excise or soften painful episodes may therefore be to alter the self who experienced them, and it is far from clear that a person can meaningfully consent in advance to becoming someone subtly different. Some have also warned that suffering, however unwelcome, can be a source of moral learning and that a life purged of painful memory might be correspondingly impoverished."
+    },
+    {
+      "id": "p4",
+      "text": "A further cluster of concerns is social rather than personal. Memories of wrongdoing serve as evidence, and their alteration could compromise the testimony of witnesses or victims. Painful recollections may also motivate collective action; communities that remember atrocities are, arguably, better placed to prevent their recurrence. More troubling still is the possibility that perpetrators, rather than victims, might seek to blunt the remorse that ought to accompany their actions, thereby escaping a form of moral accounting."
+    },
+    {
+      "id": "p5",
+      "text": "Defenders of memory modification respond that many of these anxieties apply equally to existing practices. Psychotherapy routinely reshapes how people remember and feel about their past, and no one suggests that it threatens identity in any objectionable sense. Nor is it obvious, they contend, that people possess a duty to go on suffering for the sake of moral education or social utility. On this view, the decisive question is not whether memory may be altered, since it is constantly altered, but whether a given intervention respects the autonomy and interests of the person concerned."
+    },
+    {
+      "id": "p6",
+      "text": "Given how rudimentary the relevant techniques remain, much of this debate is necessarily speculative. Yet that is precisely its value. Ethical frameworks developed before a technology matures are more likely to shape its use than those improvised afterwards, and the questions memory editing raises about authenticity, responsibility and the relationship between remembering and being are unlikely to grow simpler with time."
+    },
+    {
+      "id": "p7",
+      "text": "Part of what makes these questions pressing is a growing appreciation of how malleable ordinary memory already is. The psychologist Elizabeth Loftus and others have shown that recollections can be distorted by misleading information supplied after the event, and that some people can be led to recall, with apparent sincerity, episodes that never occurred. Such findings cut in two directions. On the one hand, they suggest that the critics' picture of memory as a faithful record of the self may be somewhat idealised, since the narrative we tell about our past is already shaped by suggestion and reconstruction. On the other, they underline how vulnerable memory is to deliberate manipulation, and therefore how much might be at stake if more powerful tools for altering it were to fall into careless or malicious hands."
+    },
+    {
+      "id": "p8",
+      "text": "Further difficulties arise when one considers how such interventions might be regulated in practice. Treatments first developed for severe trauma rarely remain confined to their original purpose; a drug approved for veterans with debilitating symptoms might, over time, be sought by people wishing to dull the memory of a humiliating failure or an ordinary bereavement. A bioethics council advising the American president raised precisely this concern in the early years of this century, questioning whether the routine blunting of painful memories might erode the capacity to respond fittingly to events that ought to move us. Whether such a drift from therapy towards enhancement would be harmful, or merely a further extension of choices people already make, is unlikely to be settled by evidence alone."
+    },
+    {
+      "id": "p9",
+      "text": "What may be needed, then, is neither prohibition nor uncritical enthusiasm but a set of principles capable of distinguishing between cases. Interventions intended to relieve severe and persistent suffering, undertaken with the informed consent of the person concerned and with attention to any legal proceedings in which their memory might serve as evidence, would seem to stand on firmer ground than those sought for convenience or imposed by others. Such principles will inevitably be contested at the margins. But their articulation would at least ensure that, if the past does become subject to deliberate revision, the revision takes place under conditions that we have chosen rather than ones that have simply overtaken us."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which of the following best describes the passage as a whole?",
+      "options": [
+        "A balanced survey of arguments for and against altering memories, stressing the value of debating them early.",
+        "A report on the proven success of drugs that erase traumatic memories.",
+        "An argument that memory modification should be banned because it destroys identity.",
+        "A technical account of how memories are stored in the brain."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The passage presents therapeutic, personal, social and counter-arguments and ends by valuing early ethical reflection.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Ethical frameworks developed before a technology matures are more likely to shape its use than those improvised afterwards"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 1, when may memories be modified?",
+      "options": [
+        "Only when they are first formed.",
+        "During a period of instability when they are recalled.",
+        "After they have been permanently consolidated in sleep.",
+        "Only in animals, never in humans."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Memories are reconstructed on recall, and during that window they may be altered.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "during this window of instability they may be weakened, modified or, conceivably, erased"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What does the passage say about the results of preliminary pharmacological trials?",
+      "options": [
+        "They have consistently erased traumatic memories.",
+        "They have shown that effects are permanent.",
+        "They have produced mixed results whose durability is uncertain.",
+        "They have been abandoned for ethical reasons."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer hedges: results \"have been mixed\" and durability \"remains uncertain\".",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "results have been mixed and the durability of any effect remains uncertain"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "Why might a person be unable to \"meaningfully consent\" to memory alteration, according to critics?",
+      "options": [
+        "Because people suffering from trauma are legally incapable of consent.",
+        "Because doctors would be unable to explain the procedure clearly.",
+        "Because the treatment is not yet available outside clinical trials.",
+        "Because the person who consents may not be the same, in a significant sense, as the person who results."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "If memory constitutes identity, altering it may create a subtly different self, so consent given in advance is problematic.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "it is far from clear that a person can meaningfully consent in advance to becoming someone subtly different"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"excise\" is closest in meaning to",
+      "options": [
+        "cut out",
+        "tax",
+        "exercise",
+        "explain"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Excise\" here means to remove, as a surgeon cuts out tissue.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "To excise or soften painful episodes"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer mention perpetrators in paragraph 4?",
+      "options": [
+        "To argue that only perpetrators should be allowed to use the treatment.",
+        "To highlight a particularly troubling misuse in which wrongdoers could avoid appropriate remorse.",
+        "To show that perpetrators usually forget their crimes naturally.",
+        "To suggest that victims' testimony is generally unreliable."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer calls it \"more troubling still\" that perpetrators might escape moral accounting.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "perpetrators, rather than victims, might seek to blunt the remorse that ought to accompany their actions"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "What is the purpose of the reference to psychotherapy in paragraph 5?",
+      "options": [
+        "To show that psychotherapy has already been replaced by drug treatments.",
+        "To argue that psychotherapy is more dangerous than memory editing.",
+        "To suggest that altering how people remember is already an accepted practice, weakening some objections.",
+        "To prove that memory editing has no effect on identity."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Defenders use psychotherapy as an analogy: it reshapes memory without being thought to threaten identity. \"Prove\" overstates the hedged claim.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Psychotherapy routinely reshapes how people remember and feel about their past"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "Which statement best reflects the writer's implied attitude in the final paragraph?",
+      "options": [
+        "The debate is pointless until the technology has been perfected.",
+        "Memory editing will certainly become widespread within a few years.",
+        "The defenders of memory modification have clearly won the argument.",
+        "Speculative ethical discussion now is worthwhile precisely because the technology is still immature."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer turns the speculative nature of the debate into its strength: \"Yet that is precisely its value.\"",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "much of this debate is necessarily speculative. Yet that is precisely its value."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the phrase \"emotional charge\" refers to",
+      "options": [
+        "the cost of treatment",
+        "the intensity of feeling attached to a memory",
+        "an accusation made against a patient",
+        "the electrical activity of the brain"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The aim is to reduce the feeling associated with the memory without eliminating the memory itself.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "dampening the emotional charge of a recollection without eliminating the recollection itself"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 7, what have Elizabeth Loftus and others shown?",
+      "options": [
+        "Memories remain perfectly stable once they have been formed.",
+        "Only traumatic memories are vulnerable to distortion.",
+        "Misleading information has no measurable effect on recall.",
+        "Recollections can be distorted by misleading information supplied after the event."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The research shows distortion through misleading post-event information and even the recall of events that never happened.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "recollections can be distorted by misleading information supplied after the event"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "In light of the findings described in paragraph 7, what does the writer suggest about the critics' view of memory in paragraph 3?",
+      "options": [
+        "It may be somewhat idealised, since memory is already shaped by suggestion and reconstruction.",
+        "It is entirely mistaken and should be abandoned.",
+        "It is fully confirmed by research on false memories.",
+        "It applies only to studies conducted on animals."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer hedges: the picture of memory as a faithful record 'may be somewhat idealised'. The second option overstates this.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the critics' picture of memory as a faithful record of the self may be somewhat idealised"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "purpose",
+      "text": "Why does the writer say that the findings on false memory \"cut in two directions\"?",
+      "options": [
+        "To show that the findings are scientifically unreliable.",
+        "To argue that memory editing should be banned outright.",
+        "To indicate that the same evidence both weakens one objection and strengthens concern about manipulation.",
+        "To compare two different methods of studying memory."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The findings undermine the idealised view of memory but also show how vulnerable memory is to manipulation.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Such findings cut in two directions."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"malleable\" is closest in meaning to",
+      "options": [
+        "easily shaped or changed",
+        "dependable",
+        "fragile and easily destroyed",
+        "deliberately hidden"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Malleable memory is memory that can be shaped, as the research on distortion shows.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "how malleable ordinary memory already is"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Which example does the writer give in paragraph 8 of how memory treatments might drift beyond their original purpose?",
+      "options": [
+        "Veterans refusing treatment for their symptoms.",
+        "Students using drugs to improve their exam performance.",
+        "Courts ordering witnesses to undergo memory alteration.",
+        "People seeking to dull the memory of a humiliating failure or an ordinary bereavement."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A drug approved for veterans might later be sought for humiliating failures or ordinary bereavements.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "be sought by people wishing to dull the memory of a humiliating failure or an ordinary bereavement"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 8, what concern did the bioethics council raise?",
+      "options": [
+        "That memory-blunting drugs would be too expensive for most patients.",
+        "That the drugs would prove ineffective in clinical trials.",
+        "That routinely blunting painful memories might erode the capacity to respond fittingly to events that ought to move us.",
+        "That veterans would be denied access to effective treatment."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The council questioned whether routine blunting might erode fitting emotional responses.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "questioning whether the routine blunting of painful memories might erode the capacity to respond fittingly to events that ought to move us"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What does the writer imply about treatments first developed for severe trauma?",
+      "options": [
+        "They will always be restricted to the cases for which they were designed.",
+        "Their use is likely to expand beyond the cases for which they were first intended.",
+        "They are ineffective for combat veterans.",
+        "They should never be approved by regulators."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Such treatments 'rarely remain confined to their original purpose'.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Treatments first developed for severe trauma rarely remain confined to their original purpose"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What is the writer's position on whether a drift from therapy towards enhancement would be harmful?",
+      "options": [
+        "The writer is certain it would be harmful.",
+        "The writer is certain it would be harmless.",
+        "The writer expects new evidence to settle the matter soon.",
+        "The writer suggests it is a question that cannot be resolved by evidence alone."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer says the question 'is unlikely to be settled by evidence alone', implying that value judgements are involved.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "is unlikely to be settled by evidence alone"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 9, the phrase \"contested at the margins\" means that the principles will be disputed",
+      "options": [
+        "in borderline cases",
+        "in footnotes",
+        "by a narrow majority",
+        "in remote places"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "'At the margins' refers to the edges of a principle's application, that is, borderline cases.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "Such principles will inevitably be contested at the margins."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "Which intervention would the writer most likely regard as standing on the firmest ground?",
+      "options": [
+        "One imposed by an employer to reduce workplace stress.",
+        "One sought to forget a minor social embarrassment.",
+        "One undertaken with informed consent to relieve severe and persistent suffering.",
+        "One administered to a key witness shortly before a trial."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer favours interventions relieving severe suffering with informed consent and attention to legal proceedings.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "Interventions intended to relieve severe and persistent suffering, undertaken with the informed consent of the person concerned"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the final paragraph?",
+      "options": [
+        "Memory editing should be prohibited until it is fully understood.",
+        "Principles that distinguish between cases are needed so that any revision of memory happens under conditions we have chosen.",
+        "Enthusiasm for memory editing is justified by its therapeutic promise.",
+        "Consent is irrelevant when an intervention relieves suffering."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraph rejects both prohibition and uncritical enthusiasm in favour of principles chosen in advance.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "neither prohibition nor uncritical enthusiasm but a set of principles capable of distinguishing between cases"
+        }
+      ]
+    }
+  ]
+}

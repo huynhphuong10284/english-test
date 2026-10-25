@@ -1,0 +1,311 @@
+{
+  "id": "w-a-theatre-review",
+  "title": "A Theatre Review",
+  "level": "C2 · Proficiency",
+  "description": "Practise inversion, concessive structures and evaluative idioms, then review a theatre production.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Idiomatic collocations",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The lead actor gave a ___ performance that held the audience spellbound.",
+      "options": [
+        "ruling",
+        "commanding",
+        "directing",
+        "demanding"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A \"commanding performance\" is one that dominates the stage with authority and confidence."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Inversion",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Seldom ___ a revival felt so urgent and so relevant to our times.",
+      "answers": [
+        "has"
+      ],
+      "points": 1,
+      "explanation": "With \"seldom\" at the start, use inversion; the present perfect gives \"has + subject + past participle\": seldom has a revival felt ..."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Fronting",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "lies",
+        "the play's real power",
+        "in",
+        "the second act"
+      ],
+      "answers": [
+        "In the second act lies the play's real power.",
+        "The play's real power lies in the second act."
+      ],
+      "points": 1,
+      "explanation": "A prepositional phrase can be fronted for emphasis, with the verb before the subject: in the second act lies the play's real power."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Subject-verb agreement",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The staging is, admittedly, a little clumsy in places, but this hardly matter.",
+      "answers": [
+        "The staging is, admittedly, a little clumsy in places, but this hardly matters."
+      ],
+      "points": 1,
+      "explanation": "\"This\" is singular, so the verb needs -s: this hardly matters. Adverbs such as \"hardly\" do not change the verb form."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Concession",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Minimal ...\".",
+      "text": "Although the set is minimal, it is remarkably effective.",
+      "keyword": "though",
+      "answers": [
+        "Minimal though the set is, it is remarkably effective.",
+        "Minimal though it is, the set is remarkably effective.",
+        "Minimal though the set may be, it is remarkably effective."
+      ],
+      "points": 1,
+      "explanation": "\"Adjective + though + subject + verb\" is a literary way of expressing concession: minimal though the set is, ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Never ...\".",
+      "text": "I have never seen a more moving final scene.",
+      "keyword": "never",
+      "answers": [
+        "Never have I seen a more moving final scene."
+      ],
+      "points": 1,
+      "explanation": "With \"never\" at the start of a sentence, the auxiliary comes before the subject: never have I seen ..."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The second half ...\".",
+      "text": "The second half failed to maintain the tension and energy.",
+      "keyword": "steam",
+      "answers": [
+        "The second half ran out of steam.",
+        "The second half lost steam.",
+        "The second half ran out of steam somewhat."
+      ],
+      "points": 1,
+      "explanation": "\"Run out of steam\" means to lose energy or momentum, often used about performances, campaigns or stories."
+    },
+    {
+      "id": "e8",
+      "type": "choice",
+      "focus": "Ellipsis",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Some critics found the ending abrupt, but I ___.",
+      "options": [
+        "wasn't",
+        "hadn't",
+        "didn't",
+        "haven't"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The auxiliary must match the tense and verb of the first clause: found (past simple) becomes \"I didn't\" (find it abrupt)."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Idiomatic collocations",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The production has received ___ reviews, with every major critic singing its praises.",
+      "options": [
+        "rave",
+        "raving",
+        "raved",
+        "ravishing"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Rave reviews\" are extremely enthusiastic reviews. \"Rave\" is used here as an adjective in a fixed collocation."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Idiomatic expressions",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The final scene was so moving that there was barely a dry ___ in the house. (one word, beginning with E)",
+      "answers": [
+        "eye"
+      ],
+      "points": 1,
+      "explanation": "\"There was not a dry eye in the house\" means that everyone in the audience was moved to tears."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Inversion after \"only\" + time phrase",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Only after the interval the play really came to life.",
+      "answers": [
+        "Only after the interval did the play really come to life."
+      ],
+      "points": 1,
+      "explanation": "When \"only after/when/then\" starts a sentence, the main clause is inverted with an auxiliary: only after the interval did the play come to life."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Idiomatic expressions",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The young actress playing the maid ...\".",
+      "text": "The young actress playing the maid gave the best performance of the evening.",
+      "keyword": "show",
+      "answers": [
+        "The young actress playing the maid stole the show.",
+        "The young actress playing the maid really stole the show."
+      ],
+      "points": 1,
+      "explanation": "To \"steal the show\" means to attract the most attention and praise in a performance."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Concessive linkers",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The second act, ___ uneven, contains some of the finest writing of the season.",
+      "options": [
+        "despite",
+        "nevertheless",
+        "whereas",
+        "albeit"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Albeit\" (= although) can be followed directly by an adjective or adverb: albeit uneven. \"Despite\" needs a noun, and \"nevertheless\" and \"whereas\" cannot be used this way."
+    },
+    {
+      "id": "e14",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Her portrayal of Lady Macbeth was utterly ___ (compel), and I found myself unable to look away.",
+      "answers": [
+        "compelling"
+      ],
+      "points": 1,
+      "explanation": "The adjective \"compelling\" (from the verb \"compel\") describes something so interesting that you cannot stop watching or reading it."
+    },
+    {
+      "id": "e15",
+      "type": "word-order",
+      "focus": "Fronting with comparative adjectives",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "the lighting design",
+        "impressive",
+        "more",
+        "was",
+        "even"
+      ],
+      "answers": [
+        "Even more impressive was the lighting design.",
+        "The lighting design was even more impressive."
+      ],
+      "points": 1,
+      "explanation": "A comparative complement can be fronted for emphasis, with the verb before the subject: even more impressive was the lighting design."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Adverb formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The cast, though small, worked together seamless throughout.",
+      "answers": [
+        "The cast, though small, worked together seamlessly throughout."
+      ],
+      "points": 1,
+      "explanation": "The verb \"worked\" must be modified by an adverb, so \"seamless\" becomes \"seamlessly\"."
+    },
+    {
+      "id": "e17",
+      "type": "transformation",
+      "focus": "Conditionals with \"but for\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"But ...\".",
+      "text": "Without the superb lighting, the production would have seemed rather flat.",
+      "keyword": "but",
+      "answers": [
+        "But for the superb lighting, the production would have seemed rather flat."
+      ],
+      "points": 1,
+      "explanation": "\"But for + noun\" is a formal way of saying \"if it had not been for\" or \"without\"."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Adjective + preposition",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The production is notable ___ its inventive use of puppetry.",
+      "answers": [
+        "for"
+      ],
+      "points": 1,
+      "explanation": "We say something is \"notable for\" a particular quality, just as it is \"famous for\" or \"remarkable for\" it."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Noun + preposition",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The production made a lasting impact to me.",
+      "answers": [
+        "The production made a lasting impact on me."
+      ],
+      "points": 1,
+      "explanation": "The noun \"impact\" is followed by \"on\": to make or have an impact on someone or something."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Idiomatic expressions",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Most of the jokes in the second act ...\".",
+      "text": "Most of the jokes in the second act did not amuse the audience.",
+      "keyword": "flat",
+      "answers": [
+        "Most of the jokes in the second act fell flat.",
+        "Most of the jokes in the second act fell flat with the audience."
+      ],
+      "points": 1,
+      "explanation": "If a joke or performance \"falls flat\", it fails to produce the effect that was intended."
+    }
+  ],
+  "task": {
+    "genre": "Review",
+    "prompt": "An arts website has asked readers to review a theatre production they have seen recently. Write your review.",
+    "contentPoints": [
+      "Briefly introduce the play and the production.",
+      "Evaluate the acting, including at least one individual performance.",
+      "Comment on the staging, such as set, lighting or music.",
+      "Give a balanced overall verdict and say who should see it."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "Seldom has ...",
+      "gave a commanding performance",
+      "..., though it is, ...",
+      "Where the production falters is ...",
+      "ran out of steam",
+      "Never have I ..."
+    ],
+    "modelAnswer": "Seldom has a revival felt so urgent. The Ferryman's Daughter, a family drama first staged half a century ago, has been given a lean, intense new production at the Riverside Theatre, and its portrait of a community divided by a single act of betrayal seems more relevant now than ever.\n\nThe story concerns Agnes, a boatbuilder's daughter who discovers that her father has been secretly selling the town's land to developers. What follows is less a plot than a slow unravelling, as loyalties are tested and old resentments rise to the surface.\n\nAt the centre of it all is Hannah Okoro, who gives a commanding performance as Agnes. She moves from wry humour to quiet fury with astonishing control, and her final confrontation with her father, played with weary dignity by Leon Gray, is the emotional climax of the evening. The supporting cast are strong, although one or two of the younger actors occasionally rush their lines.\n\nThe staging is admittedly a little clumsy in places, with some awkward scene changes, but this hardly matters. Minimal though the set is, consisting of little more than a wooden jetty and a row of lanterns, it is remarkably effective. The lighting, which shifts from golden evenings to cold grey dawns, does much of the storytelling, while a single cello accompanies the most painful moments.\n\nWhere the production falters is in its pacing. The first half is gripping, but the second half runs out of steam before regaining its energy in the closing scenes. Some critics have found the ending abrupt; I did not, though I can understand why they did.\n\nNever have I seen a more moving final scene in a small theatre. Despite its flaws, this is a production that rewards patience. Anyone who enjoys serious, character-driven drama should book a ticket before the run ends."
+  }
+}

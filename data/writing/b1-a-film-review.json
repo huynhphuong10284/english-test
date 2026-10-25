@@ -1,0 +1,325 @@
+{
+  "id": "w-a-film-review",
+  "title": "A Film Review",
+  "level": "B1 · Intermediate",
+  "description": "Practise -ed/-ing adjectives and linking words, then write a review of a film you have seen.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "-ed and -ing adjectives",
+      "prompt": "Choose the correct answer.",
+      "text": "The ending was so ___ that I nearly fell asleep.",
+      "options": [
+        "bored",
+        "bore",
+        "boredom",
+        "boring"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use the -ing adjective to describe the thing that causes the feeling (a boring ending) and -ed for how a person feels (I was bored)."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Present perfect with ever",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "It is the funniest film I have ever ___ (see).",
+      "answers": [
+        "seen"
+      ],
+      "points": 1,
+      "explanation": "After a superlative, use the present perfect with \"ever\": the funniest film I have ever seen. \"See\" is irregular: seen."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Relative clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "who",
+        "the film",
+        "a dragon",
+        "is about",
+        "finds",
+        "a girl"
+      ],
+      "answers": [
+        "The film is about a girl who finds a dragon."
+      ],
+      "points": 1,
+      "explanation": "Put the relative clause with \"who\" directly after the person it describes: a girl who finds a dragon."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "-ed and -ing adjectives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I was very exciting when the film started.",
+      "answers": [
+        "I was very excited when the film started."
+      ],
+      "points": 1,
+      "explanation": "To describe how a person feels, use the -ed adjective: I was excited."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "The special effects are amazing. ___, the story is quite weak.",
+      "options": [
+        "Although",
+        "Because",
+        "However",
+        "As a result"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"However\" starts a new sentence that contrasts with the one before. \"Although\" must join two clauses in the same sentence."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Passive voice",
+      "prompt": "Write the correct passive form of the verb in brackets.",
+      "text": "The film ___ (direct) by a young Korean director.",
+      "answers": [
+        "was directed",
+        "is directed"
+      ],
+      "points": 1,
+      "explanation": "The passive is be + past participle. We use it when the film is more important than the person: The film was directed by ..."
+    },
+    {
+      "id": "e7",
+      "type": "error-correction",
+      "focus": "Second conditional",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "If I were you, I will watch it at the cinema.",
+      "answers": [
+        "If I were you, I would watch it at the cinema.",
+        "If I were you, I'd watch it at the cinema."
+      ],
+      "points": 1,
+      "explanation": "The second conditional uses would, not will, in the main clause: If I were you, I would ..."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Linking words: although",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word ALTHOUGH. Begin: \"Although ...\"",
+      "text": "The film is long, but it is never boring.",
+      "keyword": "ALTHOUGH",
+      "answers": [
+        "Although the film is long, it is never boring.",
+        "Although it is long, the film is never boring.",
+        "Although the film is long, it is not boring.",
+        "Although the film is long, it's never boring.",
+        "Although it's long, the film is never boring.",
+        "Although the film is long, it isn't boring.",
+        "Although the film is long, it's not boring."
+      ],
+      "points": 1,
+      "explanation": "\"Although\" replaces \"but\" and goes at the start of the clause with the contrasting idea."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Verb + to-infinitive",
+      "prompt": "Choose the correct answer.",
+      "text": "I decided ___ the film again with my sister.",
+      "options": [
+        "to watch",
+        "watching",
+        "watch",
+        "watched"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Some verbs, such as decide, want and hope, are followed by the to-infinitive: decided to watch."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation: nouns",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The film was a big ___ (succeed) all over the world.",
+      "answers": [
+        "success"
+      ],
+      "points": 1,
+      "explanation": "After \"a big\" we need a noun. The noun from \"succeed\" is \"success\"."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Present perfect with yet",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "yet",
+        "seen",
+        "the",
+        "I",
+        "haven't",
+        "sequel"
+      ],
+      "answers": [
+        "I haven't seen the sequel yet."
+      ],
+      "points": 1,
+      "explanation": "\"Yet\" is used in negative sentences and questions in the present perfect, and it usually goes at the end."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Gerund after prepositions",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I'm not very keen on watch horror films.",
+      "answers": [
+        "I'm not very keen on watching horror films."
+      ],
+      "points": 1,
+      "explanation": "After a preposition such as \"on\", use the -ing form: keen on watching."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct answer.",
+      "text": "The book was good, but the film was even ___.",
+      "options": [
+        "good",
+        "better",
+        "best",
+        "more good"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Good\" has an irregular comparative: better. \"Even\" makes a comparative stronger: even better."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Present perfect with never",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word NEVER. Begin: \"I have ...\"",
+      "text": "This is the first time I have seen a Korean film.",
+      "keyword": "NEVER",
+      "answers": [
+        "I have never seen a Korean film before.",
+        "I have never seen a Korean film."
+      ],
+      "points": 1,
+      "explanation": "\"This is the first time I have done something\" means \"I have never done it before\"."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Phrasal verbs: come out",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "The film ___ (come) out last month and it's already very popular.",
+      "answers": [
+        "came"
+      ],
+      "points": 1,
+      "explanation": "\"Come out\" means to be shown or sold to the public for the first time. With \"last month\" use the past simple: came."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Relative clauses: which",
+      "prompt": "Choose the correct answer.",
+      "text": "The film, ___ lasts three hours, is based on a true story.",
+      "options": [
+        "who",
+        "which",
+        "what",
+        "that"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use \"which\" for things. Between commas (extra information) we cannot use \"that\"."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Modals of advice",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "film",
+        "shouldn't",
+        "this",
+        "you",
+        "miss"
+      ],
+      "answers": [
+        "You shouldn't miss this film."
+      ],
+      "points": 1,
+      "explanation": "Use should/shouldn't + infinitive without \"to\" to give advice or a recommendation."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Used to",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "When I was a child, I use to watch cartoons every morning.",
+      "answers": [
+        "When I was a child, I used to watch cartoons every morning."
+      ],
+      "points": 1,
+      "explanation": "In positive sentences the form is \"used to\" (with -d) + infinitive."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Too and enough",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word OLD. Begin: \"I wasn't ...\"",
+      "text": "I was too young to see the film at the cinema.",
+      "keyword": "OLD",
+      "answers": [
+        "I wasn't old enough to see the film at the cinema."
+      ],
+      "points": 1,
+      "explanation": "\"Too + adjective\" can be changed to \"not + opposite adjective + enough\": too young = not old enough."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Comparatives: not as ... as",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word AS. Begin: \"The second film ...\"",
+      "text": "The first film was funnier than the second one.",
+      "keyword": "AS",
+      "answers": [
+        "The second film was not as funny as the first one.",
+        "The second film was not as funny as the first.",
+        "The second film was not as funny as the first film.",
+        "The second film was not as funny as the first one was."
+      ],
+      "points": 1,
+      "explanation": "\"A was funnier than B\" means \"B was not as funny as A\". Use the normal adjective in \"as ... as\"."
+    }
+  ],
+  "task": {
+    "genre": "Review",
+    "prompt": "An English-language website for students wants film reviews. Write a review of a film you have seen recently.",
+    "contentPoints": [
+      "Name the film and say what type of film it is.",
+      "Briefly describe the story without giving away the ending.",
+      "Say what you liked and did not like.",
+      "Say who you would recommend it to."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "... is a(n) ... film directed by ...",
+      "It tells the story of ...",
+      "What I liked most was ...",
+      "The only problem is that ...",
+      "I'd recommend it to anyone who ..."
+    ],
+    "modelAnswer": "The Last Lighthouse is an adventure film directed by Maria Lopez. I saw it at the cinema last weekend, and it's one of the best films I've seen this year.\n\nIt tells the story of Tom, a fourteen-year-old boy who goes to stay with his grandfather on a tiny island. One stormy night, the light in the old lighthouse goes out, and Tom has to find a way to save a ship that is in danger.\n\nWhat I liked most was the photography. The sea and the storms look amazing on a big screen. In addition, the young actor who plays Tom is excellent. The only problem is that the middle of the film is a bit slow.\n\nHowever, I'd recommend it to anyone who loves exciting stories about the sea. If I were you, I would watch it at the cinema."
+  }
+}

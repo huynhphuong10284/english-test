@@ -1,0 +1,447 @@
+{
+  "id": "learning-to-swim",
+  "title": "Learning to Swim",
+  "level": "A2 · Elementary",
+  "description": "A story about a woman who learns to swim as an adult.",
+  "instructions": "Read the text about learning to swim, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "When Maria was a child, she never learned to swim. Her family lived far from the sea, and there was no swimming pool in her village. As an adult, she often felt nervous near water. On holidays, she sat on the beach while her friends swam."
+    },
+    {
+      "id": "p2",
+      "text": "Last year, Maria turned forty. She decided it was time to change. She found a class for adults at the sports centre near her home. The class met every Wednesday evening, and there were only six students."
+    },
+    {
+      "id": "p3",
+      "text": "The first lesson was difficult. Maria held the side of the pool and did not want to let go. The teacher, Mr Lee, was very patient. He said, 'Don't worry. Everyone is scared at the beginning.' Slowly, Maria learned to float and to kick her legs."
+    },
+    {
+      "id": "p4",
+      "text": "After three months, Maria could swim the whole length of the pool. She was very proud of herself. This summer, she went to the beach with her friends again. This time, she did not sit on the sand. She swam in the sea with them."
+    },
+    {
+      "id": "p5",
+      "text": "Swimming in the sea was different from swimming in the pool. The water was colder, and there were small waves. At first, Maria stayed near the beach where she could stand. Her friend Paula swam next to her and helped her. After ten minutes, Maria felt calm, and she swam out a little further with her friends. That evening, they all ate fish at a small restaurant by the sea and talked about the day."
+    },
+    {
+      "id": "p6",
+      "text": "After the holiday, Maria went back to the sports centre. She joined a new class for better swimmers on Saturday mornings. Now she can swim on her back and do a little underwater swimming too. She goes to the pool three times a week before work, and she feels healthier and stronger than before."
+    },
+    {
+      "id": "p7",
+      "text": "Last month, Mr Lee asked Maria to help him with the new beginners' class. Most of the students are adults who are afraid of water, like Maria was. She tells them her own story, and they listen carefully. 'If I can learn at forty, you can learn too,' she says. Next year, Maria wants to take a course and become a swimming teacher herself."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A swimming teacher's life",
+        "Why children should learn to swim at school",
+        "An adult who learns to swim and becomes more confident",
+        "A holiday at the beach with friends"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text follows Maria from being nervous near water to swimming in the sea after taking lessons as an adult.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "She decided it was time to change."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "She swam in the sea with them."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Why didn't Maria learn to swim as a child?",
+      "options": [
+        "Her parents did not let her",
+        "She was often ill",
+        "She did not like her teacher",
+        "There was no sea or pool near her home"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Her family lived far from the sea and her village had no swimming pool.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Her family lived far from the sea, and there was no swimming pool in her village."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"patient\" means...",
+      "options": [
+        "calm and not easily annoyed",
+        "very strict",
+        "always in a hurry",
+        "tired and bored"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Lee stayed calm and kind when Maria was scared, so \"patient\" means calm and not easily annoyed.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "The teacher, Mr Lee, was very patient."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "How often did the swimming class meet?",
+      "options": [
+        "Every day",
+        "Once a week",
+        "Twice a week",
+        "Once a month"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The class met every Wednesday evening, which is once a week.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The class met every Wednesday evening"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can we understand from the last paragraph?",
+      "options": [
+        "Maria still feels nervous in the sea",
+        "Maria's friends taught her to swim",
+        "Maria is no longer afraid of the water",
+        "Maria stopped going to the beach"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Before, Maria sat on the beach. Now she swims in the sea with her friends, so she is not afraid any more.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "This time, she did not sit on the sand."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "She swam in the sea with them."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer say that Maria sat on the beach while her friends swam (paragraph 1)?",
+      "options": [
+        "To describe the beach near her village",
+        "To show what Maria missed because she could not swim",
+        "To show that Maria liked the sun",
+        "To explain why her friends were good swimmers"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "This detail shows what Maria could not do, and it connects to the end of the story, when she finally swims with her friends.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "On holidays, she sat on the beach while her friends swam."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "How old was Maria when she decided to learn to swim?",
+      "options": [
+        "Thirty",
+        "Fifty",
+        "Twenty",
+        "Forty"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Last year Maria turned forty and decided it was time to change.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Last year, Maria turned forty."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"nervous\" is closest in meaning to...",
+      "options": [
+        "happy",
+        "hungry",
+        "worried and a little afraid",
+        "bored"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Maria could not swim, so she felt worried and a little afraid near water.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "she often felt nervous near water"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "How many students were in Maria's first class?",
+      "options": [
+        "Ten",
+        "Two",
+        "Twenty",
+        "Six"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "There were only six students in the class.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "there were only six students"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did Maria do in the first lesson?",
+      "options": [
+        "She held the side of the pool",
+        "She swam the whole length of the pool",
+        "She jumped into the deep water",
+        "She helped the other students"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She held the side of the pool and did not want to let go.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Maria held the side of the pool and did not want to let go."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What can we understand from Mr Lee's words in paragraph 3?",
+      "options": [
+        "Mr Lee was also scared of water",
+        "Maria's fear was normal for a beginner",
+        "Maria was the worst student in the class",
+        "The pool was dangerous for beginners"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He told her that everyone is scared at the beginning, so her fear was normal.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Everyone is scared at the beginning.'"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"float\" means...",
+      "options": [
+        "stay on top of the water",
+        "go down under the water",
+        "walk in the water",
+        "get out of the pool"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Maria learned to stay on top of the water without sinking.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Maria learned to float and to kick her legs"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"proud\" is closest in meaning to...",
+      "options": [
+        "ashamed",
+        "pleased with what she did",
+        "sleepy",
+        "angry"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She could swim the whole pool, so she was pleased with herself.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "She was very proud of herself."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer describe the cold water and small waves in paragraph 5?",
+      "options": [
+        "To explain why Maria did not swim",
+        "To show that the beach was dirty",
+        "To show that the sea was harder than the pool",
+        "To explain why the friends went home early"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The sea was colder and had waves, so it was more difficult for Maria.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "The water was colder, and there were small waves."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "Who helped Maria in the sea?",
+      "options": [
+        "Mr Lee",
+        "Her sister",
+        "A man from the restaurant",
+        "Her friend Paula"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Her friend Paula swam next to her and helped her.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Her friend Paula swam next to her and helped her."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "When is Maria's new class for better swimmers?",
+      "options": [
+        "On Wednesday evenings",
+        "On Sunday afternoons",
+        "On Saturday mornings",
+        "Every day before work"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She joined a new class on Saturday mornings.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "She joined a new class for better swimmers on Saturday mornings."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"underwater\" means...",
+      "options": [
+        "below the top of the water",
+        "next to the pool",
+        "very fast",
+        "on your back"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Underwater swimming means swimming below the top of the water.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "do a little underwater swimming too"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What can we understand about swimming in Maria's life now?",
+      "options": [
+        "She only swims on holiday",
+        "It has become an important part of her life",
+        "She is tired of it",
+        "She swims only to help Mr Lee"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She goes to the pool three times a week, so swimming is now a big part of her life.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "She goes to the pool three times a week before work"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "Why do the beginners listen carefully to Maria?",
+      "options": [
+        "She talks very loudly",
+        "She is their boss at work",
+        "She gives them presents",
+        "Her story is similar to their own"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The students are adults who are afraid of water, like Maria was.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Most of the students are adults who are afraid of water, like Maria was."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why does Maria say \"If I can learn at forty, you can learn too\"?",
+      "options": [
+        "To give the students more confidence",
+        "To show that she is older than Mr Lee",
+        "To tell the students to leave the class",
+        "To explain why the class is expensive"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She uses her own story to show the students that they can also learn.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "'If I can learn at forty, you can learn too,'"
+        }
+      ]
+    }
+  ]
+}

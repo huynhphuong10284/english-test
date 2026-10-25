@@ -1,0 +1,439 @@
+{
+  "id": "the-new-park",
+  "title": "The New Park",
+  "level": "A1 · Beginner",
+  "description": "Two friends spend a Saturday at a new park in town.",
+  "instructions": "Read the text about a new park, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "There is a new park in our town. It opened last month. It has a big pond, a playground and many trees."
+    },
+    {
+      "id": "p2",
+      "text": "On Saturday, I went to the park with my friend Nora. We fed bread to the ducks on the pond. Then we played on the swings."
+    },
+    {
+      "id": "p3",
+      "text": "There is also a small cafe in the park. We bought two ice creams there. Nora's ice cream was chocolate. Mine was strawberry."
+    },
+    {
+      "id": "p4",
+      "text": "After our ice creams, we walked around the pond. There is a small bridge over the water. We stood on the bridge and looked at the fish. Some of the fish were orange and very big."
+    },
+    {
+      "id": "p5",
+      "text": "Near the playground, there is a big field. Some boys played football there. A man was flying a red kite. It went very high in the sky. Nora said, 'I want a kite too!'"
+    },
+    {
+      "id": "p6",
+      "text": "At three o'clock, it was very hot. Then Nora's dad came with their little dog, Bobby. We all sat under a tall tree. It was cool in the shade. Bobby drank some water and slept on the grass."
+    },
+    {
+      "id": "p7",
+      "text": "At five o'clock, Nora's dad took us home. I told my mum about the park. 'Can we go again next week?' I asked. She said, 'Yes, and I will come too!' The new park is my favourite place in town now."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "A new school in town",
+        "A visit to the new park",
+        "How to make bread",
+        "A long trip by train"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text describes the new park and a visit there with Nora.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "There is a new park in our town."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "When did the park open?",
+      "options": [
+        "Last week",
+        "Last year",
+        "Last month",
+        "Yesterday"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The park opened last month.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It opened last month."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What did the children give to the ducks?",
+      "options": [
+        "Bread",
+        "Rice",
+        "Apples",
+        "Cake"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They fed bread to the ducks.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "We fed bread to the ducks on the pond."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"pond\" means...",
+      "options": [
+        "a tall tree",
+        "a small shop",
+        "a kind of swing",
+        "a small area of water"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A \"pond\" is a small area of water. Ducks swim on it.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "We fed bread to the ducks on the pond."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What kind of ice cream did the writer have?",
+      "options": [
+        "Chocolate",
+        "Vanilla",
+        "Strawberry",
+        "Banana"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer's ice cream was strawberry. Nora's was chocolate.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Mine was strawberry."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What does the new park have?",
+      "options": [
+        "A swimming pool and a zoo",
+        "A cinema and a shop",
+        "A football stadium and a library",
+        "A big pond, a playground and many trees"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The park has a big pond, a playground and many trees.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "It has a big pond, a playground and many trees."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "When did the writer go to the park?",
+      "options": [
+        "On Sunday",
+        "On Saturday",
+        "On Friday",
+        "On Monday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "On Saturday, the writer went to the park with Nora.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "On Saturday, I went to the park with my friend Nora."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What did the children play on?",
+      "options": [
+        "The swings",
+        "The slide",
+        "The bridge",
+        "The football field"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Then they played on the swings.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Then we played on the swings."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "Where did the children buy their ice creams?",
+      "options": [
+        "At a shop in town",
+        "At the school",
+        "At Nora's house",
+        "At a small cafe in the park"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "There is a small cafe in the park, and they bought ice creams there.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "There is also a small cafe in the park. We bought two ice creams there."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What kind of ice cream did Nora have?",
+      "options": [
+        "Chocolate",
+        "Strawberry",
+        "Vanilla",
+        "Banana"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nora's ice cream was chocolate.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Nora's ice cream was chocolate."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"bridge\" means...",
+      "options": [
+        "a small boat",
+        "a tall tree",
+        "something you walk on to go over water",
+        "a kind of fish"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The bridge is over the water, and the children stood on it.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "There is a small bridge over the water."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "What colour were some of the fish?",
+      "options": [
+        "Red",
+        "Orange",
+        "Blue",
+        "Green"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Some of the fish were orange and very big.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Some of the fish were orange and very big."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "What people did on the big field",
+        "Feeding the ducks",
+        "Buying a new kite in a shop",
+        "Nora's football team"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 5 describes the field, with boys playing football and a man flying a kite.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Near the playground, there is a big field."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What colour was the man's kite?",
+      "options": [
+        "Yellow",
+        "Blue",
+        "Red",
+        "Orange"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A man was flying a red kite.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "A man was flying a red kite."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why did Nora say, 'I want a kite too!'?",
+      "options": [
+        "She lost her kite",
+        "She wanted to play football",
+        "She was cold",
+        "She liked the man's kite"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Nora saw the red kite go very high in the sky and she wanted one too.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It went very high in the sky. Nora said, 'I want a kite too!'"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "Why did everyone sit under a tall tree?",
+      "options": [
+        "It was raining",
+        "It was very hot",
+        "They were looking for Bobby",
+        "They wanted to see the fish"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "At three o'clock, it was very hot, so they sat in the cool shade.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "At three o'clock, it was very hot."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"shade\" means...",
+      "options": [
+        "a very hot place",
+        "a small shop",
+        "a cool place out of the sun",
+        "a pool of water"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It was hot, but under the tree it was cool in the shade, away from the sun.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "It was cool in the shade."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "Who is Bobby?",
+      "options": [
+        "Nora's dad",
+        "Nora's brother",
+        "A boy in the field",
+        "Nora's little dog"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Nora's dad came with their little dog, Bobby.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Then Nora's dad came with their little dog, Bobby."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "What time did the writer go home?",
+      "options": [
+        "At three o'clock",
+        "At five o'clock",
+        "At four o'clock",
+        "At six o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "At five o'clock, Nora's dad took them home.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "At five o'clock, Nora's dad took us home."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "Who will go to the park with the writer next week?",
+      "options": [
+        "The writer's mum",
+        "Nora's dad",
+        "The writer's teacher",
+        "The boys from the field"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer's mum said, 'Yes, and I will come too!'",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "She said, 'Yes, and I will come too!'"
+        }
+      ]
+    }
+  ]
+}

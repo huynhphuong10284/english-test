@@ -1,0 +1,463 @@
+{
+  "id": "working-from-home",
+  "title": "Working from Home",
+  "level": "B1 · Intermediate",
+  "description": "The good and bad sides of working from home, and some tips for doing it well.",
+  "instructions": "Read the article about working from home, then choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "A few years ago, working from home was unusual for most office workers. Today, millions of people spend at least part of their week working from their kitchen table or a spare room. Technology has made this possible, as video calls, shared documents and fast internet allow colleagues to work together from different places. Many companies now offer a mix of office days and home days, which is often called hybrid working."
+    },
+    {
+      "id": "p2",
+      "text": "For many employees, the biggest advantage is that they no longer have to commute every day. This saves both time and money, and it can reduce stress. Parents often find it easier to take their children to school or to be at home when they return. Some people also say they can concentrate better at home because there are fewer interruptions from colleagues."
+    },
+    {
+      "id": "p3",
+      "text": "However, working from home has its drawbacks. Some workers feel lonely because they miss chatting with colleagues over coffee or lunch. Others find it hard to separate work from home life, so they end up checking emails late in the evening. Young employees may also find it more difficult to learn from experienced staff when they rarely see them in person."
+    },
+    {
+      "id": "p4",
+      "text": "Because of these problems, many experts recommend a few simple habits. Having a fixed working area, even a small one, helps the brain switch into work mode. Taking regular breaks and going outside for a short walk can improve both mood and energy. Finally, setting a clear time to finish work each day helps people protect their free time and rest properly."
+    },
+    {
+      "id": "p5",
+      "text": "Companies have mixed feelings about working from home. On the one hand, they can save money by renting smaller offices, and they can hire talented people who live far away. On the other hand, some managers worry that teamwork and creativity suffer when people rarely meet. Unplanned conversations in a corridor or kitchen often lead to new ideas, and these are harder to recreate on a screen. As a result, a number of companies now ask staff to come into the office on certain days each week."
+    },
+    {
+      "id": "p6",
+      "text": "The change has also affected towns and cities. In some city centres, cafes and sandwich shops that depended on office workers have lost customers, especially on Mondays and Fridays. At the same time, some local businesses in quieter neighbourhoods have become busier, because people now buy their lunch and coffee closer to home. Some families have even moved away from expensive cities to smaller towns or the countryside, since they no longer need to travel to the office every day."
+    },
+    {
+      "id": "p7",
+      "text": "It is important to remember, though, that many people cannot work from home at all. Nurses, shop assistants, bus drivers and builders all need to be physically present to do their jobs, and many of them work long shifts at evenings and weekends. For them, the debate about home working may seem far from their own daily lives. In the future, the most successful workplaces will probably be those that offer flexibility where it is possible, while making sure that all employees, wherever they work, feel valued and treated fairly."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the passage mainly about?",
+      "options": [
+        "Why companies want all workers back in the office",
+        "How to set up a fast internet connection",
+        "The advantages and disadvantages of working from home, with advice for doing it well",
+        "The history of video calls"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The article describes the advantages (paragraph 2), the drawbacks (paragraph 3) and gives advice (paragraph 4).",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "millions of people spend at least part of their week working from their kitchen table or a spare room"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "However, working from home has its drawbacks."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"commute\" means:",
+      "options": [
+        "work late at night",
+        "eat lunch with colleagues",
+        "change jobs often",
+        "travel regularly between home and work"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Not having to commute saves time and money, so it means the daily journey to and from work.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "they no longer have to commute every day"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "According to paragraph 1, what is hybrid working?",
+      "options": [
+        "A mix of office days and home days",
+        "Working only from home",
+        "Working two jobs at the same time",
+        "Working in different countries"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 1 defines hybrid working as a mix of office days and home days.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Many companies now offer a mix of office days and home days, which is often called hybrid working."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Why do some people say they concentrate better at home?",
+      "options": [
+        "They have bigger desks.",
+        "There are fewer interruptions from colleagues.",
+        "They work shorter hours.",
+        "Their internet is faster."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 2 says there are fewer interruptions from colleagues at home.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "there are fewer interruptions from colleagues"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can we infer about young employees who work from home?",
+      "options": [
+        "They prefer to work alone.",
+        "They usually earn more.",
+        "They are better with technology than older staff.",
+        "They may develop their skills more slowly."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "If they find it harder to learn from experienced staff, their skills may develop more slowly.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Young employees may also find it more difficult to learn from experienced staff when they rarely see them in person."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer mention checking emails late in the evening?",
+      "options": [
+        "To show how hard it can be to separate work from home life",
+        "To show that home workers are lazy",
+        "To explain how email works",
+        "To suggest that evening is the best time to work"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is an example of work continuing into home time, a drawback of working from home.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Others find it hard to separate work from home life, so they end up checking emails late in the evening."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Which of these is NOT one of the habits recommended in paragraph 4?",
+      "options": [
+        "Having a fixed working area",
+        "Taking regular breaks",
+        "Working at the weekend to finish tasks",
+        "Setting a clear time to finish work"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 4 recommends a fixed working area, regular breaks and a clear finishing time. Working at the weekend is not mentioned.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Having a fixed working area, even a small one, helps the brain switch into work mode."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "setting a clear time to finish work each day helps people protect their free time and rest properly"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What does the writer suggest about workers who have no clear finishing time?",
+      "options": [
+        "They are more productive.",
+        "They may not get enough rest.",
+        "They will be promoted faster.",
+        "They feel less lonely."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A clear finishing time helps people rest properly, so without one they may not rest enough.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "setting a clear time to finish work each day helps people protect their free time and rest properly"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "According to paragraph 1, what has made working from home possible?",
+      "options": [
+        "Cheaper office buildings",
+        "Longer holidays for workers",
+        "New laws about working hours",
+        "Video calls, shared documents and fast internet"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 1 says video calls, shared documents and fast internet allow colleagues to work together from different places.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "video calls, shared documents and fast internet allow colleagues to work together from different places"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"drawbacks\" is closest in meaning to:",
+      "options": [
+        "disadvantages",
+        "rewards",
+        "rules",
+        "decisions"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The paragraph lists problems such as loneliness and difficulty separating work from home life, which are disadvantages.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "However, working from home has its drawbacks."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Companies want all staff to work from home every day.",
+        "Companies see both advantages and disadvantages in working from home.",
+        "Managers no longer need offices at all.",
+        "Workers prefer to talk in corridors rather than on screens."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 5 says companies have mixed feelings and gives arguments on both sides.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Companies have mixed feelings about working from home."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "On the one hand"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "On the other hand"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 5, how can companies save money?",
+      "options": [
+        "By paying workers less",
+        "By closing on Mondays and Fridays",
+        "By renting smaller offices",
+        "By buying cheaper computers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 says companies can save money by renting smaller offices.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "they can save money by renting smaller offices"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"recreate\" is closest in meaning to:",
+      "options": [
+        "relax and enjoy free time",
+        "make something happen again in a different situation",
+        "remove completely",
+        "record on video"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The unplanned conversations of the office are hard to make happen in the same way on a screen.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "these are harder to recreate on a screen"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "Why do some companies probably ask staff to come into the office on certain days?",
+      "options": [
+        "They want to rent bigger offices.",
+        "They think workers are lonely at weekends.",
+        "They hope meeting in person will help teamwork and new ideas.",
+        "They want staff to stop using video calls."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Managers worry that teamwork and creativity suffer when people rarely meet, and the office days are introduced as a result.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "some managers worry that teamwork and creativity suffer when people rarely meet"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "As a result, a number of companies now ask staff to come into the office on certain days each week."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "main-idea",
+      "text": "What is paragraph 6 mainly about?",
+      "options": [
+        "Why cafes in city centres are better than local cafes",
+        "How to open a sandwich shop in a quiet neighbourhood",
+        "Why the countryside is cheaper than the city",
+        "How working from home has changed where people spend money and where they live"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 6 describes changes for city centre businesses, local neighbourhoods and families who have moved.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "The change has also affected towns and cities."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "According to paragraph 6, which businesses have lost customers?",
+      "options": [
+        "Cafes and sandwich shops in some city centres",
+        "Shops in quieter neighbourhoods",
+        "Businesses in the countryside",
+        "Companies that make computers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 6 says cafes and sandwich shops in city centres that depended on office workers have lost customers.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "In some city centres, cafes and sandwich shops that depended on office workers have lost customers"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Why have some families moved to smaller towns or the countryside?",
+      "options": [
+        "Their companies closed their offices completely.",
+        "They want to open their own cafes.",
+        "Their children's schools moved there.",
+        "They no longer need to travel to the office every day."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 6 says they moved since they no longer need to travel to the office every day.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "since they no longer need to travel to the office every day"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "purpose",
+      "text": "Why does the writer mention nurses, shop assistants, bus drivers and builders?",
+      "options": [
+        "To show which jobs are the best paid",
+        "To remind readers that many jobs cannot be done from home",
+        "To suggest that these workers should work from home",
+        "To explain how hybrid working is organised"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "These are examples of people who need to be physically present to do their jobs.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "many people cannot work from home at all"
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "Nurses, shop assistants, bus drivers and builders all need to be physically present to do their jobs"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer suggest about how workers like nurses may feel about the debate on home working?",
+      "options": [
+        "It may not seem very relevant to their own lives.",
+        "They are the people most interested in it.",
+        "They want to start working from home soon.",
+        "They think office workers should all lose their jobs."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer says the debate may seem far from their own daily lives, because home working is not possible for them.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "For them, the debate about home working may seem far from their own daily lives."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"flexibility\" is closest in meaning to:",
+      "options": [
+        "the ability to bend your body easily",
+        "a fixed timetable that cannot change",
+        "the ability to change arrangements to suit people's needs",
+        "a higher salary"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Workplaces that offer flexibility allow different working arrangements, such as working from home, where it is possible.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "offer flexibility where it is possible"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "id": "a-train-journey",
+  "title": "A Train Journey",
+  "level": "A2 · Elementary",
+  "description": "A young man takes a long train trip and meets an interesting stranger.",
+  "instructions": "Read the text about a train journey, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Last spring, Hugo travelled by train from Paris to Rome to visit his cousin. The journey took more than eleven hours. Hugo chose the train because he does not like flying. He also wanted to see the countryside from the window."
+    },
+    {
+      "id": "p2",
+      "text": "Hugo had a seat next to an older woman with a big red suitcase. Her name was Elena, and she was a painter. She showed Hugo some small paintings in her bag. They were pictures of mountains, lakes and small villages."
+    },
+    {
+      "id": "p3",
+      "text": "When the train went through the Alps, Elena took out her paints. She painted the snowy mountains very quickly. Hugo watched her and asked many questions. The hours passed fast, and he forgot to read his book."
+    },
+    {
+      "id": "p4",
+      "text": "Before Elena got off in Milan, she gave Hugo the painting of the mountains. Hugo was very surprised and thanked her many times. Today, the painting is on the wall of his bedroom. Every time he looks at it, he remembers that journey."
+    },
+    {
+      "id": "p5",
+      "text": "Hugo arrived in Rome late in the evening. His cousin Marco was waiting for him at the station with a big smile. Hugo was tired, but he could not stop talking about Elena and her paintings. Marco listened and laughed. 'You only wanted a quiet trip with your book!' he said."
+    },
+    {
+      "id": "p6",
+      "text": "Hugo stayed in Rome for one week. Every day, he and Marco walked around the old streets and visited famous places. One afternoon, Hugo bought a small notebook and some coloured pencils. He started to draw the buildings, the bridges and the fountains. His drawings were not as good as Elena's, but he enjoyed making them very much."
+    },
+    {
+      "id": "p7",
+      "text": "On the way home, Hugo took the train again. This time, he did not read his book either. He sat by the window and drew the hills, the farms and the rivers. A little girl in the next seat watched him and asked many questions. Hugo smiled, because he remembered his first journey with Elena. Before he got off in Paris, he gave the girl one of his drawings. She held it in both hands and said it was her best present ever."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "Hugo's cousin in Rome",
+        "Why flying is dangerous",
+        "A train trip where Hugo met a painter",
+        "How to paint mountains"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The story is about Hugo's train journey and his meeting with Elena, the painter.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Hugo travelled by train from Paris to Rome"
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "Her name was Elena, and she was a painter."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Why did Hugo travel by train?",
+      "options": [
+        "It was cheaper than the bus",
+        "He does not like flying",
+        "His cousin told him to",
+        "He wanted to meet Elena"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Hugo chose the train because he does not like flying.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Hugo chose the train because he does not like flying."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "Why did Hugo forget to read his book?",
+      "options": [
+        "He left the book in Paris",
+        "The train was too dark",
+        "He was sleeping",
+        "He was too interested in Elena and her painting"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He watched Elena paint and asked many questions, so the time passed fast.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Hugo watched her and asked many questions."
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "The hours passed fast, and he forgot to read his book."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"snowy\" means...",
+      "options": [
+        "covered with snow",
+        "very warm",
+        "very green",
+        "full of people"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mountains like the Alps are often white with snow, so \"snowy\" means covered with snow.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "She painted the snowy mountains very quickly."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer say the painting is now on Hugo's bedroom wall?",
+      "options": [
+        "To show that Hugo is a painter too",
+        "To explain where Elena lives",
+        "To show that his bedroom is small",
+        "To show that the gift is special to him"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He keeps the painting where he sees it and it helps him remember the journey.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Today, the painting is on the wall of his bedroom."
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "Every time he looks at it, he remembers that journey."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Where did Elena get off the train?",
+      "options": [
+        "In Rome",
+        "In Paris",
+        "In Milan",
+        "In the Alps"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Elena got off in Milan.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Before Elena got off in Milan"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "How long did the journey from Paris to Rome take?",
+      "options": [
+        "Exactly eleven hours",
+        "More than eleven hours",
+        "About five hours",
+        "Two days"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The journey took more than eleven hours.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "The journey took more than eleven hours."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Why did Hugo go to Rome?",
+      "options": [
+        "To sell some paintings",
+        "To find a job",
+        "To study painting",
+        "To visit his cousin"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He travelled to Rome to visit his cousin.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "travelled by train from Paris to Rome to visit his cousin"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"countryside\" means...",
+      "options": [
+        "the centre of a big city",
+        "land with fields and farms, away from towns",
+        "the sea and the beaches",
+        "the inside of a train"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The countryside is the land outside towns, with fields, farms and hills.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "He also wanted to see the countryside from the window."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What did Elena's small paintings show?",
+      "options": [
+        "Big cities and trains",
+        "People and animals",
+        "Mountains, lakes and small villages",
+        "Flowers and fruit"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They were pictures of mountains, lakes and small villages.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "They were pictures of mountains, lakes and small villages."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"waiting\" means that Marco...",
+      "options": [
+        "ran onto the train",
+        "left the station early",
+        "was sleeping on a chair",
+        "stayed at the station until Hugo arrived"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Marco stayed at the station until Hugo arrived.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "His cousin Marco was waiting for him at the station"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "Why did Marco laugh at Hugo?",
+      "options": [
+        "Hugo's clothes were funny",
+        "Hugo arrived very late",
+        "Hugo's trip was very different from his plan",
+        "Marco did not believe the story"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Hugo planned a quiet trip with his book, but he spent it talking with a painter.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "'You only wanted a quiet trip with your book!'"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"famous\" is closest in meaning to...",
+      "options": [
+        "known by many people",
+        "very old",
+        "very small",
+        "closed to visitors"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Famous places are places that many people know about.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "visited famous places"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "What did Hugo buy in Rome?",
+      "options": [
+        "A painting of the mountains",
+        "A small notebook and some coloured pencils",
+        "A new book for the train",
+        "A big red suitcase"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "One afternoon he bought a small notebook and some coloured pencils.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Hugo bought a small notebook and some coloured pencils"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "purpose",
+      "text": "Why does the writer say Hugo's drawings \"were not as good as Elena's\"?",
+      "options": [
+        "To show that he drew because he liked it, not because he was good",
+        "To show that Elena was a bad teacher",
+        "To explain why he stopped drawing",
+        "To show that Marco did not like them"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "His drawings were not very good, but he enjoyed making them very much.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "His drawings were not as good as Elena's, but he enjoyed making them very much."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "How did meeting Elena change Hugo?",
+      "options": [
+        "It made him want to fly next time",
+        "It made him dislike trains",
+        "It made him want to live in Milan",
+        "It made him interested in drawing"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "After the trip with Elena, Hugo bought pencils and started to draw.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "He started to draw the buildings, the bridges and the fountains."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"enjoyed\" is closest in meaning to...",
+      "options": [
+        "hated",
+        "finished",
+        "liked",
+        "sold"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Hugo liked making his drawings very much.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "he enjoyed making them very much"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "What did Hugo do on the train home?",
+      "options": [
+        "He drew the view from the window",
+        "He read his book all the way",
+        "He slept until Paris",
+        "He painted with Elena again"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He sat by the window and drew the hills, the farms and the rivers.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "He sat by the window and drew the hills, the farms and the rivers."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "Why did the little girl remind Hugo of his first journey?",
+      "options": [
+        "She was also going to Milan",
+        "She watched him and asked questions, like he did with Elena",
+        "She was a famous painter",
+        "She was reading the same book"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The girl did the same thing that Hugo did when Elena painted.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "A little girl in the next seat watched him and asked many questions."
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "Hugo watched her and asked many questions."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "purpose",
+      "text": "Why does the story end with Hugo giving the girl a drawing?",
+      "options": [
+        "To show that Hugo did the same kind thing as Elena",
+        "To show that Hugo did not want his drawings",
+        "To explain why the girl was sad",
+        "To show that Hugo sells his drawings"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Elena gave Hugo a painting, and now Hugo gives the girl a drawing.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "he gave the girl one of his drawings"
+        }
+      ]
+    }
+  ]
+}

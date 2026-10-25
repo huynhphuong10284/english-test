@@ -1,0 +1,443 @@
+{
+  "id": "my-bedroom",
+  "title": "My Bedroom",
+  "level": "A1 · Beginner",
+  "description": "A child describes the things in their bedroom.",
+  "instructions": "Read the text about a bedroom, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "My bedroom is small but nice. The walls are light green. There is one window. I can see a big tree from it."
+    },
+    {
+      "id": "p2",
+      "text": "My bed is next to the window. Next to my bed, there is a little table with a lamp on it. I put my clock on the table too."
+    },
+    {
+      "id": "p3",
+      "text": "I have a desk and a chair for my homework. On the wall, there is a poster of a tiger. My clothes are in a brown cupboard. I keep my room tidy."
+    },
+    {
+      "id": "p4",
+      "text": "Under my bed, there is a big red box. I keep my toys in it. I have a toy train, some cars and a teddy bear. The teddy bear is very old. It was my dad's bear when he was a little boy."
+    },
+    {
+      "id": "p5",
+      "text": "Next to the cupboard, there is a small bookshelf. It has three shelves. I have about forty books. Most of them are about animals. My favourite book is about tigers. That is why I have a tiger poster on my wall!"
+    },
+    {
+      "id": "p6",
+      "text": "In the evening, I do my homework at my desk. I turn on the lamp because the room gets dark. My cat, Bella, often sleeps on my bed. She likes the warm blanket."
+    },
+    {
+      "id": "p7",
+      "text": "Every Sunday, I clean my room. I put my toys in the box and my books on the shelves. Then my mum looks at my room. She always says, 'Good job!' My bedroom is my favourite place in the house."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "The writer's school",
+        "A big tree in the garden",
+        "The writer's bedroom",
+        "A trip to see tigers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The text describes the writer's bedroom and the things in it.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "My bedroom is small but nice."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What colour are the bedroom walls?",
+      "options": [
+        "Light blue",
+        "White",
+        "Yellow",
+        "Light green"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The walls are light green.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "The walls are light green."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "What is on the little table?",
+      "options": [
+        "A lamp and a clock",
+        "Some books",
+        "A tiger poster",
+        "Some clothes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "There is a lamp on the little table, and the writer puts a clock there too.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "there is a little table with a lamp on it"
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "I put my clock on the table too."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"tidy\" means...",
+      "options": [
+        "dirty",
+        "clean and in order",
+        "very dark",
+        "very big"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Tidy\" means clean and in order. The writer's clothes are in the cupboard, not on the floor.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "I keep my room tidy."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Where are the writer's clothes?",
+      "options": [
+        "On the bed",
+        "Under the desk",
+        "On the chair",
+        "In a brown cupboard"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The clothes are in a brown cupboard.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "My clothes are in a brown cupboard."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "How many windows are there in the bedroom?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text says there is one window.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "There is one window."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "What can the writer see from the window?",
+      "options": [
+        "A park",
+        "The sea",
+        "A big tree",
+        "A school"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer can see a big tree from the window.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I can see a big tree from it."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Where is the writer's bed?",
+      "options": [
+        "Next to the door",
+        "Next to the window",
+        "Under the poster",
+        "Next to the cupboard"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The bed is next to the window.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "My bed is next to the window."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What is the poster on the wall of?",
+      "options": [
+        "A tiger",
+        "A lion",
+        "A football player",
+        "A cat"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "On the wall, there is a poster of a tiger.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "On the wall, there is a poster of a tiger."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "What is under the writer's bed?",
+      "options": [
+        "A lamp",
+        "A brown cupboard",
+        "A big red box",
+        "Some books"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Under the bed, there is a big red box.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Under my bed, there is a big red box."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 4, \"I keep my toys in it\" means the writer...",
+      "options": [
+        "throws the toys away",
+        "sells the toys",
+        "washes the toys",
+        "puts and stores the toys there"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "To keep something in a place means to put it there and leave it there.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "I keep my toys in it."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "Who had the teddy bear before the writer?",
+      "options": [
+        "The writer's mum",
+        "The writer's dad",
+        "The writer's grandma",
+        "The writer's friend"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The bear was the dad's bear when he was a little boy.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "It was my dad's bear when he was a little boy."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "The writer's toys",
+        "A trip to the zoo",
+        "The writer's books",
+        "The writer's homework"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 5 describes the bookshelf and the writer's books.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Next to the cupboard, there is a small bookshelf."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "How many shelves does the bookshelf have?",
+      "options": [
+        "Two",
+        "Four",
+        "Five",
+        "Three"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The bookshelf has three shelves.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It has three shelves."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why does the writer have a tiger poster?",
+      "options": [
+        "They saw a tiger at the zoo",
+        "Their favourite book is about tigers",
+        "Their mum likes tigers",
+        "It was a birthday present"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer's favourite book is about tigers. That is why there is a tiger poster.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "My favourite book is about tigers. That is why I have a tiger poster on my wall!"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "Why does the writer turn on the lamp in the evening?",
+      "options": [
+        "The room gets dark",
+        "The cat is scared",
+        "The lamp is new",
+        "The window is open"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer turns on the lamp because the room gets dark.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "I turn on the lamp because the room gets dark."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Who is Bella?",
+      "options": [
+        "The writer's sister",
+        "The writer's teddy bear",
+        "The writer's friend",
+        "The writer's cat"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Bella is the writer's cat.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "My cat, Bella, often sleeps on my bed."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"warm\" means...",
+      "options": [
+        "a little hot, not cold",
+        "very wet",
+        "very dirty",
+        "very thin"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Bella likes the warm blanket because it is nice and not cold.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "She likes the warm blanket."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "When does the writer clean the bedroom?",
+      "options": [
+        "Every Saturday",
+        "Every day",
+        "Every Sunday",
+        "Every Friday"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Every Sunday, the writer cleans the room.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Every Sunday, I clean my room."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "How does the writer feel about the bedroom?",
+      "options": [
+        "They do not like it",
+        "They love it",
+        "They think it is too small to use",
+        "They want a new one"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer says the bedroom is their favourite place in the house.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "My bedroom is my favourite place in the house."
+        }
+      ]
+    }
+  ]
+}

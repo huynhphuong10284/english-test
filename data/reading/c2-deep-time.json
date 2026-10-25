@@ -1,0 +1,451 @@
+{
+  "id": "deep-time",
+  "title": "Deep Time and the Human Imagination",
+  "level": "C2 · Proficiency",
+  "description": "An essay on the discovery of geological time and the difficulty of grasping timescales far beyond human experience.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Until the late eighteenth century, most educated Europeans assumed that the Earth was only a few thousand years old. The assumption was not merely theological; it also reflected the absence of any obvious means of measuring time beyond the reach of written records. The Scottish naturalist James Hutton, observing rock formations in which layers laid down horizontally had been tilted, eroded and overlain by fresh deposits, concluded that such features could only have formed through slow processes operating over immense periods. In a celebrated phrase, he declared that he could find no vestige of a beginning and no prospect of an end."
+    },
+    {
+      "id": "p2",
+      "text": "The concept that Hutton helped to inaugurate, later popularised under the name deep time, has since been quantified with a precision he could scarcely have imagined. Radiometric dating places the age of the Earth at roughly four and a half billion years, and the fossil record documents the emergence and extinction of countless forms of life across hundreds of millions of years. Yet precision of measurement has not been matched by ease of comprehension. Numbers of this magnitude are, for most people, little more than strings of zeros."
+    },
+    {
+      "id": "p3",
+      "text": "Writers and educators have accordingly resorted to analogy. If the history of the Earth were compressed into a single calendar year, a familiar device runs, anatomically modern humans would appear only in the final minutes before midnight on the thirty-first of December. Such images are vivid and, within limits, illuminating. They may, however, carry an unintended implication: by depicting humanity as a last-minute arrival, they can suggest either that our presence is negligible or, conversely, that everything preceding us was merely a prelude."
+    },
+    {
+      "id": "p4",
+      "text": "Both implications are arguably misleading. The brevity of human history relative to geological time does not diminish its significance on any scale that matters to human beings, nor does it follow that earlier epochs were a preparation for us. Evolutionary biologists have long cautioned against reading the history of life as a ladder ascending towards a predetermined summit; the branching, contingent pattern revealed by the fossil record lends little support to any such teleology."
+    },
+    {
+      "id": "p5",
+      "text": "Some thinkers have argued that cultivating an awareness of deep time could have ethical as well as intellectual value. Decisions about nuclear waste, which may remain hazardous for tens of thousands of years, or about carbon emissions whose effects will persist for centuries, require us to reason about consequences that will unfold long after anyone now living has died. A civilisation habituated to planning in electoral cycles or financial quarters may be ill-equipped for such reasoning, and an imaginative familiarity with longer horizons might, on this view, temper its short-sightedness."
+    },
+    {
+      "id": "p6",
+      "text": "It would be naive to suppose that contemplating geological epochs will, by itself, transform political behaviour; the pressures of the present are formidable and the incentives that reward short-term thinking are deeply entrenched. Nevertheless, the discovery of deep time remains one of the profoundest reorientations in the history of thought, comparable in its way to the displacement of the Earth from the centre of the cosmos. Like that earlier revolution, it unsettles our sense of our own importance while, paradoxically, enlarging the scope of our responsibility."
+    },
+    {
+      "id": "p7",
+      "text": "The comparison is instructive in a further respect. Just as the Copernican picture was absorbed only gradually, and arguably more completely by astronomers than by the wider culture, so the implications of deep time may still be in the process of being assimilated. A striking illustration is the debate over whether human activity warrants the designation of a new geological epoch, the Anthropocene. Advocates point to the global dispersal of radioactive isotopes, plastics and altered sediment as markers that future geologists might detect in the rock record. A formal proposal to recognise the epoch was nonetheless declined by the relevant stratigraphic body, in part because some of its members considered the changes in question too recent, and their onset too uneven, to be fixed at a single boundary. The term has survived its rejection, however, and continues to circulate widely in informal use."
+    },
+    {
+      "id": "p8",
+      "text": "There is an irony in this debate that has not escaped commentators. The very discipline that once displaced humanity from the centre of the story now finds itself asked to record humanity's signature in the strata. The irony is perhaps more apparent than real, for what the Anthropocene concept registers is not human importance in any honorific sense but the scale of human impact, which is a different matter. A species may be geologically consequential without being cosmically significant, much as a volcanic eruption may reshape a landscape without thereby acquiring any special dignity. Read in this way, the concept does not reverse the lesson of deep time so much as complicate it: we are, it seems, both latecomers and agents whose effects may outlast us by a vast margin."
+    },
+    {
+      "id": "p9",
+      "text": "That second recognition gives practical edge to the ethical considerations sketched earlier. Planners responsible for sites storing long-lived radioactive waste have, for instance, had to consider how warnings might be communicated to people living many thousands of years hence, who may share neither our languages nor our symbols. The difficulty of the task is itself revealing: it exposes how little of our culture we can confidently expect to endure across intervals that, geologically speaking, are trivially short. If deep time cannot by itself reform our politics, it may at least discipline our imagination, reminding us that the future in which our choices will be judged extends far beyond the horizon within which they are usually made."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main subject of the passage?",
+      "options": [
+        "The scientific methods used to date rocks and fossils.",
+        "The discovery of deep time, the difficulty of comprehending it and its possible ethical significance.",
+        "The life and career of James Hutton.",
+        "The reasons why humans are the most important species in Earth's history."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The passage moves from Hutton's discovery, through problems of comprehension and analogy, to ethical implications.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the discovery of deep time remains one of the profoundest reorientations in the history of thought"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What led Hutton to conclude that the Earth was extremely old?",
+      "options": [
+        "Written records from ancient civilisations.",
+        "Radiometric dating of rocks.",
+        "Rock formations that showed layers tilted, eroded and covered by new deposits.",
+        "The discovery of fossils of extinct animals."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Radiometric dating came later; Hutton based his conclusion on observed rock formations.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "observing rock formations in which layers laid down horizontally had been tilted, eroded and overlain by fresh deposits"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "What does the writer suggest about the belief in a young Earth before Hutton?",
+      "options": [
+        "It was partly due to a lack of methods for measuring time beyond written history.",
+        "It was held only by religious authorities.",
+        "It was based on careful but mistaken geological observation.",
+        "It was rejected by most educated Europeans."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer states the assumption \"was not merely theological\" but reflected an absence of means of measurement.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "The assumption was not merely theological; it also reflected the absence of any obvious means of measuring time beyond the reach of written records."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 1, the word \"vestige\" is closest in meaning to",
+      "options": [
+        "origin",
+        "measurement",
+        "explanation",
+        "trace"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A vestige is a remaining trace or sign of something.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "he could find no vestige of a beginning"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention the calendar-year analogy in paragraph 3?",
+      "options": [
+        "To prove that humans are insignificant in the history of the Earth.",
+        "To give an example of a helpful device that may nonetheless carry misleading implications.",
+        "To criticise educators for using inaccurate figures.",
+        "To show that deep time can be understood without difficulty."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The analogy is called vivid and illuminating \"within limits\" but may carry unintended implications.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Such images are vivid and, within limits, illuminating. They may, however, carry an unintended implication"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"teleology\" refers to",
+      "options": [
+        "the study of fossils",
+        "the belief that a process is directed towards a final goal",
+        "the measurement of geological time",
+        "the random branching of species"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The contrast is with \"contingent\" branching; teleology implies a predetermined summit or purpose.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "a ladder ascending towards a predetermined summit"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "Why might a civilisation that plans \"in electoral cycles or financial quarters\" be poorly suited to certain decisions?",
+      "options": [
+        "Because elections and finance are irrelevant to environmental problems.",
+        "Because such planning horizons are too long for urgent problems.",
+        "Because politicians are unaware of nuclear waste.",
+        "Because its habitual time horizons are far shorter than the timescales over which some consequences unfold."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Nuclear waste and emissions have effects over centuries or millennia, whereas such planning focuses on short periods.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "require us to reason about consequences that will unfold long after anyone now living has died"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "Which statement best reflects the writer's view in paragraph 6?",
+      "options": [
+        "Awareness of deep time will inevitably transform political behaviour.",
+        "Awareness of deep time is valuable, though it is unlikely on its own to overcome entrenched short-term incentives.",
+        "Awareness of deep time has no ethical relevance.",
+        "Short-term thinking is the only rational response to political pressure."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer calls it naive to expect transformation \"by itself\" while still valuing the discovery.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "It would be naive to suppose that contemplating geological epochs will, by itself, transform political behaviour"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "purpose",
+      "text": "Why does the writer compare the discovery of deep time to the displacement of the Earth from the centre of the cosmos?",
+      "options": [
+        "To emphasise that both reduced humanity's sense of centrality while arguably enlarging its responsibilities.",
+        "To show that Hutton also contributed to astronomy.",
+        "To argue that the earlier revolution was more important.",
+        "To suggest that both discoveries were initially ignored."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The final sentence links the two revolutions as unsettling our importance yet enlarging our responsibility.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "it unsettles our sense of our own importance while, paradoxically, enlarging the scope of our responsibility"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 7, what do advocates of the Anthropocene point to as evidence?",
+      "options": [
+        "The disappearance of most large mammal species within recorded history.",
+        "Gradual changes in the Earth's orbit and climate.",
+        "The global dispersal of radioactive isotopes, plastics and altered sediment.",
+        "Written records spanning several thousand years of human settlement."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Advocates cite these as markers future geologists might detect in the rock record.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Advocates point to the global dispersal of radioactive isotopes, plastics and altered sediment"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does the writer suggest in paragraph 7 about the way the implications of deep time have been absorbed?",
+      "options": [
+        "They were fully absorbed by the general public soon after Hutton's work.",
+        "They have been rejected by most professional geologists.",
+        "They were absorbed far more quickly than the Copernican picture.",
+        "They may still be in the process of being absorbed, much as the Copernican picture was taken in only gradually."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer draws a hedged parallel: the implications 'may still be in the process of being assimilated'.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "so the implications of deep time may still be in the process of being assimilated"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 7, why was the formal proposal to recognise the Anthropocene declined?",
+      "options": [
+        "Some members considered the changes too recent, and their onset too uneven, to be fixed at a single boundary.",
+        "Human influence was judged to be undetectable in the rock record.",
+        "The term was considered too informal for scientific use.",
+        "Radioactive isotopes were found to be absent from most regions."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The paragraph attributes the decision in part to doubts about recency and unevenness.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "some of its members considered the changes in question too recent, and their onset too uneven, to be fixed at a single boundary"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"honorific\" is closest in meaning to",
+      "options": [
+        "scientific",
+        "temporary",
+        "conferring honour or prestige",
+        "capable of measurement"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer contrasts importance in an honorific sense, implying prestige, with mere scale of impact.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "not human importance in any honorific sense but the scale of human impact"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer mention a volcanic eruption in paragraph 8?",
+      "options": [
+        "To argue that human impact is smaller than that of natural events.",
+        "To illustrate that something can have a large geological effect without possessing any special significance.",
+        "To show that geologists often confuse natural and human-made deposits.",
+        "To provide further evidence that the Anthropocene should be formally recognised."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The eruption is an analogy: reshaping a landscape does not confer dignity, just as geological consequence does not confer cosmic significance.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "much as a volcanic eruption may reshape a landscape without thereby acquiring any special dignity"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "How does the writer view the relationship between the Anthropocene concept and the lesson of deep time?",
+      "options": [
+        "The concept restores humanity to the central place it lost.",
+        "The concept shows that the lesson of deep time was mistaken.",
+        "The concept has no bearing on the lesson of deep time.",
+        "The concept complicates the lesson rather than reversing it, since humans are both latecomers and long-lasting agents of change."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer says the concept 'does not reverse the lesson of deep time so much as complicate it'.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the concept does not reverse the lesson of deep time so much as complicate it"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "According to paragraph 9, what problem have planners of radioactive-waste sites had to consider?",
+      "options": [
+        "How to find locations that will remain geologically stable.",
+        "How to persuade governments to fund long-term storage.",
+        "How to communicate warnings to people thousands of years in the future who may not share our languages or symbols.",
+        "How to estimate the length of time for which the waste remains hazardous."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Planners must consider how warnings could reach distant future people with different languages and symbols.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "how warnings might be communicated to people living many thousands of years hence, who may share neither our languages nor our symbols"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What does the writer believe the difficulty of designing such warnings reveals?",
+      "options": [
+        "How little of our culture we can confidently expect to survive over intervals that are short in geological terms.",
+        "That future people will certainly be unable to understand any warning we leave.",
+        "That radioactive waste should no longer be stored underground.",
+        "That languages change faster than geological processes."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The task 'exposes how little of our culture we can confidently expect to endure'. The second option overstates a hedged point.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "it exposes how little of our culture we can confidently expect to endure across intervals that, geologically speaking, are trivially short"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 9, the word \"hence\" in \"many thousands of years hence\" is closest in meaning to",
+      "options": [
+        "therefore",
+        "previously",
+        "elsewhere",
+        "from now"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Here 'hence' is used in its temporal sense, meaning 'from now'.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "many thousands of years hence"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "main-idea",
+      "text": "What is the main point of paragraphs 7 and 8?",
+      "options": [
+        "The Anthropocene has now been officially recognised as a geological epoch.",
+        "Humanity has become the most significant force in the history of the Earth.",
+        "The Anthropocene debate shows that deep time is still being assimilated and adds the recognition that human effects may be geologically lasting.",
+        "Geologists have abandoned the concept of deep time in favour of human history."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The paragraphs use the Anthropocene debate to show ongoing assimilation and to complicate the lesson of deep time.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "A striking illustration is the debate over whether human activity warrants the designation of a new geological epoch"
+        },
+        {
+          "paragraphId": "p8",
+          "quote": "we are, it seems, both latecomers and agents whose effects may outlast us by a vast margin"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "According to the final paragraph, what may an awareness of deep time at least do?",
+      "options": [
+        "Discipline our imagination by reminding us that the future in which our choices will be judged extends far beyond our usual horizon.",
+        "Reform political institutions so that they plan over geological timescales.",
+        "Make long-term planning unnecessary by revealing how brief human history is.",
+        "Guarantee that warnings left for the future will be understood."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer hedges: deep time cannot by itself reform politics, but it may at least discipline our imagination.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "it may at least discipline our imagination"
+        }
+      ]
+    }
+  ]
+}

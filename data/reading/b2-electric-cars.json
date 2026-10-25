@@ -1,0 +1,447 @@
+{
+  "id": "electric-cars",
+  "title": "The Road to Electric Cars",
+  "level": "B2 · Upper-intermediate",
+  "description": "The history, advantages and remaining challenges of electric vehicles.",
+  "instructions": "Read the article about electric cars, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Electric cars are not a new invention. In the early years of the twentieth century, they competed with petrol-powered vehicles and were praised for being quiet and clean. But petrol cars soon became cheaper and could travel much further, and for most of the following century electric vehicles remained a curiosity. Only in recent years, thanks largely to improvements in battery technology, have they begun to return to the mainstream."
+    },
+    {
+      "id": "p2",
+      "text": "The main argument in their favour is environmental. Because electric cars produce no exhaust fumes, they can improve air quality in crowded cities, where traffic pollution is linked to breathing problems. Their effect on climate change depends partly on how the electricity they use is generated: a car charged from a grid that relies heavily on coal offers smaller benefits than one charged with power from wind or solar sources. Even so, studies generally conclude that over its whole lifetime, an electric car is responsible for lower emissions than a comparable petrol one."
+    },
+    {
+      "id": "p3",
+      "text": "Nevertheless, several obstacles still discourage potential buyers. Electric models often cost more to purchase, although lower fuel and maintenance costs can reduce the difference over time. Many drivers also experience what has been called 'range anxiety', the fear that the battery will run out before they reach a charging point. In areas where public chargers are scarce, this worry is entirely understandable."
+    },
+    {
+      "id": "p4",
+      "text": "The batteries themselves raise further questions. They depend on minerals such as lithium and cobalt, whose extraction can damage the environment and has in some regions been associated with poor working conditions. Researchers are therefore developing batteries that require fewer scarce materials, and companies are investing in ways to recycle old batteries so that valuable components can be recovered and reused."
+    },
+    {
+      "id": "p5",
+      "text": "Some transport experts caution that replacing every petrol car with an electric one would not solve all of the problems caused by road traffic. Congestion, accidents and the space taken up by parked vehicles would remain. In their view, electric cars should form part of a broader strategy that also includes better public transport, safer cycling routes and towns designed so that people need to drive less in the first place."
+    },
+    {
+      "id": "p6",
+      "text": "Much will depend on how quickly charging networks expand. Drivers who own a house with a garage or driveway can usually charge overnight at home, which is both convenient and relatively cheap. Those who live in flats or park on the street, however, often have to rely on public chargers, which may be slower, more expensive or simply occupied when they are needed. Some cities are experimenting with chargers built into streetlights or kerbs, so that residents without private parking are not left behind. Without such measures, there is a risk that electric cars will remain mainly a choice for wealthier households."
+    },
+    {
+      "id": "p7",
+      "text": "Another concern is whether electricity networks can cope with millions of extra vehicles. If large numbers of drivers plugged in at the same moment, for example when they arrived home from work in the early evening, demand could rise sharply. Engineers believe that this challenge is manageable, particularly if charging is spread across the night, when demand is usually low. In the future, parked cars might even send electricity back to the grid at busy times, so that their batteries act as a kind of giant shared store of energy. Ideas like this remain at an early stage, but they show how the car could become part of the energy system rather than simply a consumer of it."
+    },
+    {
+      "id": "p8",
+      "text": "For many consumers, the decision will ultimately come down to cost and convenience rather than principle. As more electric cars are sold, a second-hand market is gradually developing, which should make them affordable to people who could never buy a new vehicle. Prices of new models are also expected to fall as batteries become cheaper to produce. Some governments have encouraged the change through tax reductions or by announcing future limits on the sale of new petrol and diesel cars. Whatever the pace of change, it seems clear that the question is no longer whether electric cars have a future, but how fast and how fairly the transition will take place."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Electric cars were more popular a century ago than they are today.",
+        "Batteries are too dangerous to use in cars.",
+        "Everyone should buy an electric car immediately.",
+        "Electric cars offer clear benefits but face challenges and are not a complete solution."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The article covers the advantages of electric cars, the obstacles they face and the limits of what they can achieve.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The main argument in their favour is environmental."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "would not solve all of the problems caused by road traffic"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Why did petrol cars replace early electric cars?",
+      "options": [
+        "They were quieter.",
+        "They produced less pollution.",
+        "They became cheaper and could travel further.",
+        "Electricity was not yet available."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 1 gives cost and range as the reasons.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "petrol cars soon became cheaper and could travel much further"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "What can be inferred about an electric car charged from a grid that depends mainly on coal?",
+      "options": [
+        "It produces exhaust fumes.",
+        "Its benefits for the climate are reduced.",
+        "It cannot be driven in cities.",
+        "It is cheaper to run than other electric cars."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The text says such a car offers smaller benefits than one charged with renewable power.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "a car charged from a grid that relies heavily on coal offers smaller benefits"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the phrase \"range anxiety\" refers to:",
+      "options": [
+        "worry that the battery will run out during a journey",
+        "fear of driving fast",
+        "concern about high prices",
+        "stress caused by traffic jams"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text defines it immediately after the phrase.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the fear that the battery will run out before they reach a charging point"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "According to paragraph 3, what can reduce the price difference between electric and petrol cars over time?",
+      "options": [
+        "Higher taxes on petrol",
+        "Lower fuel and maintenance costs",
+        "Cheaper batteries",
+        "Free parking"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Running costs are lower for electric cars, which balances the higher purchase price.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "lower fuel and maintenance costs can reduce the difference over time"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer mention lithium and cobalt?",
+      "options": [
+        "To explain why electric cars are fast",
+        "To recommend investing in mining",
+        "To point out that battery production has its own environmental and social problems",
+        "To show that batteries last for ever"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mining these minerals can damage the environment and involve poor working conditions.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "whose extraction can damage the environment and has in some regions been associated with poor working conditions"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"congestion\" is closest in meaning to:",
+      "options": [
+        "air pollution",
+        "car repairs",
+        "road signs",
+        "heavy traffic"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Congestion is one of the traffic problems that electric cars would not solve.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Congestion, accidents and the space taken up by parked vehicles would remain."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "What do the transport experts in paragraph 5 most likely believe?",
+      "options": [
+        "Reducing the need to drive is as important as changing the type of car.",
+        "Electric cars will make public transport unnecessary.",
+        "Cycling is more dangerous than driving.",
+        "Petrol cars should remain the main form of transport."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They want a broader strategy including towns where people need to drive less.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "towns designed so that people need to drive less in the first place"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which sentence best expresses the writer's overall conclusion about electric cars?",
+      "options": [
+        "Electric cars will probably disappear again, as they did in the past.",
+        "Electric cars are only suitable for people with a garage.",
+        "The real question now is how quickly and fairly the change to electric cars will happen.",
+        "Governments should ban all cars from city centres."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The article ends by saying that electric cars clearly have a future and that the remaining issues are the speed and fairness of the transition.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the question is no longer whether electric cars have a future, but how fast and how fairly the transition will take place"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "purpose",
+      "text": "Why does the writer begin the article by describing electric cars in the early twentieth century?",
+      "options": [
+        "To show that the technology is older than many people might think",
+        "To argue that old cars were better than modern ones",
+        "To explain how petrol engines work",
+        "To describe the first car the writer owned"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The opening points out that electric cars are not new and competed with petrol cars more than a century ago.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Electric cars are not a new invention."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "According to paragraph 2, how can electric cars benefit people living in cities?",
+      "options": [
+        "They reduce the number of road accidents.",
+        "They take up less parking space.",
+        "They make journeys much faster.",
+        "They can improve air quality because they produce no exhaust fumes."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Electric cars produce no exhaust fumes, so they can improve air quality in crowded cities.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Because electric cars produce no exhaust fumes, they can improve air quality in crowded cities"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 6, which drivers usually find charging easiest?",
+      "options": [
+        "Those who live in flats",
+        "Those who have a garage or driveway at home",
+        "Those who park on the street",
+        "Those who only drive at weekends"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "People with a garage or driveway can charge overnight at home, cheaply and conveniently.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Drivers who own a house with a garage or driveway can usually charge overnight at home"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the phrase \"left behind\" suggests that some residents might be:",
+      "options": [
+        "excluded from benefits that others enjoy",
+        "forced to move to another house",
+        "asked to wait at the side of the road",
+        "left at home while others travel"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The new chargers are meant to make sure people without private parking can also use electric cars.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "so that residents without private parking are not left behind"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What can be inferred from the final sentence of paragraph 6?",
+      "options": [
+        "Wealthy households generally dislike electric cars.",
+        "Public chargers are always free to use.",
+        "Chargers in streetlights have already solved the problem.",
+        "A lack of home charging could make electric cars less accessible to people on lower incomes."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "If only people with private parking can charge easily, electric cars may stay mainly with richer households.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "there is a risk that electric cars will remain mainly a choice for wealthier households"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the phrase \"cope with\" is closest in meaning to:",
+      "options": [
+        "deal successfully with",
+        "compete with",
+        "pay for",
+        "connect to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The concern is whether electricity networks can manage the extra demand from millions of vehicles.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "whether electricity networks can cope with millions of extra vehicles"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "According to paragraph 7, when could demand for electricity rise sharply?",
+      "options": [
+        "During the night, when most people are asleep",
+        "When old batteries are being recycled",
+        "If many drivers charged their cars at the same time in the early evening",
+        "When cars are driven at high speed"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Demand could rise sharply if large numbers of drivers plugged in at the same moment after work.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "If large numbers of drivers plugged in at the same moment"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer describe parked cars as \"a kind of giant shared store of energy\"?",
+      "options": [
+        "To warn that car batteries may be dangerous",
+        "To show that cars use too much electricity",
+        "To criticise drivers who leave their cars parked all day",
+        "To help readers picture how cars could support the electricity system"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The image helps readers imagine many car batteries working together to supply the grid at busy times.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "so that their batteries act as a kind of giant shared store of energy"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What does the writer suggest about the idea of cars sending electricity back to the grid?",
+      "options": [
+        "It has already solved the problem of high demand.",
+        "It is promising but not yet in widespread use.",
+        "It would quickly destroy car batteries.",
+        "Engineers consider it impossible."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer says such ideas are still at an early stage, but presents them positively.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Ideas like this remain at an early stage"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "According to paragraph 8, what is expected to make new electric cars cheaper?",
+      "options": [
+        "Rising petrol prices",
+        "Cars becoming smaller",
+        "Batteries becoming cheaper to produce",
+        "Governments taking over car factories"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Prices of new models are expected to fall as batteries become cheaper to make.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Prices of new models are also expected to fall as batteries become cheaper to produce."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What does the writer imply about how most people will choose a car?",
+      "options": [
+        "Most people choose a car mainly to protect the environment.",
+        "Practical factors such as price will matter more than environmental beliefs.",
+        "People rarely compare prices before buying a car.",
+        "Second-hand cars will never be popular."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer says the decision will come down to cost and convenience \"rather than principle\".",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the decision will ultimately come down to cost and convenience rather than principle"
+        }
+      ]
+    }
+  ]
+}

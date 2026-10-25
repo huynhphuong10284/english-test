@@ -1,0 +1,463 @@
+{
+  "id": "language-and-thought",
+  "title": "Does Language Shape Thought?",
+  "level": "C2 · Proficiency",
+  "description": "An academic essay on the linguistic relativity debate, from Sapir and Whorf to research on colour and spatial language.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "The question of whether the language we speak shapes the way we think is among the most venerable, and most contested, in the study of mind. In its most celebrated modern formulation, associated with the linguist Edward Sapir and his student Benjamin Lee Whorf, the hypothesis held that the grammatical and lexical categories of a language impose a particular segmentation upon experience, such that speakers of very different languages might be said to inhabit, in some meaningful sense, different conceptual worlds."
+    },
+    {
+      "id": "p2",
+      "text": "Whorf's own arguments, however, rested on evidence that later scholars found wanting. His claim that the Hopi language lacked any means of referring to time, and that its speakers consequently conceived of time quite differently from Europeans, was subsequently challenged by detailed grammatical analyses suggesting that Hopi possessed a perfectly serviceable repertoire of temporal expressions. By the latter half of the twentieth century, the strong version of the hypothesis, often termed linguistic determinism, had fallen into considerable disrepute, eclipsed by a prevailing view that emphasised the universality of human cognition."
+    },
+    {
+      "id": "p3",
+      "text": "Research on colour terminology appeared, for a time, to confirm this universalist turn. Cross-linguistic surveys indicated that, although languages vary considerably in the number of basic colour terms they possess, the terms they do have tend to cluster around similar focal points, and to be acquired in a broadly predictable sequence. Such regularities were taken to suggest that colour categories are anchored in the physiology of human vision rather than arbitrarily carved out by language."
+    },
+    {
+      "id": "p4",
+      "text": "More recent experimental work has complicated this picture without overturning it. Speakers of languages that lexically distinguish lighter and darker shades of blue, for instance, have been found to discriminate between such shades fractionally faster than speakers of languages that do not, an advantage that disappears when participants are simultaneously engaged in a verbal task. The implication, cautiously drawn, is that language does not so much determine what can be perceived as modulate the speed and ease with which certain distinctions are made, perhaps by recruiting linguistic labels online during perception."
+    },
+    {
+      "id": "p5",
+      "text": "Some of the most provocative findings concern spatial language. In a number of communities, speakers habitually describe location not in egocentric terms such as left and right but in absolute, geocentric terms akin to north and south, even for objects on a table. Members of such communities have been reported to maintain remarkably accurate orientation in unfamiliar surroundings and, when asked to reproduce an arrangement of objects after being rotated, to preserve its cardinal rather than its relative orientation. Critics have countered that such behaviour may reflect environmental or cultural factors that merely co-occur with linguistic habits, and that the experimental tasks themselves may be ambiguous enough to invite either strategy."
+    },
+    {
+      "id": "p6",
+      "text": "What emerges from these debates is not a vindication of Whorf so much as a reformulation of his question. Few researchers today would maintain that language confines thought within impermeable boundaries; equally few would deny that habitual patterns of speech can incline attention, memory and categorisation in particular directions. The more productive inquiry, it would seem, concerns not whether language influences thought, but in which domains, to what degree, and through which cognitive mechanisms it does so."
+    },
+    {
+      "id": "p7",
+      "text": "The domain of number has furnished some of the strongest evidence for a substantial linguistic effect. Studies of communities whose languages lack words for exact quantities beyond very small numbers, such as the Piraha of the Amazon, have reported that speakers perform well when comparing approximate magnitudes but struggle to match larger sets exactly, for instance when asked to lay out a row of objects equal in number to a row they have just seen. These findings have been read as suggesting that number words function as a cognitive technology, enabling the precise tracking of quantities that unaided perception cannot sustain. Yet even here the interpretation is not straightforward, since the absence of number words typically coincides with the absence of counting practices, trade and other activities that might independently cultivate numerical precision."
+    },
+    {
+      "id": "p8",
+      "text": "Other celebrated findings have proved more fragile. Experiments suggesting that the grammatical gender of a noun colours the attributes that speakers associate with its referent, so that an object grammatically feminine in one language is described in more stereotypically feminine terms by its speakers, attracted wide attention, but several attempts to reproduce some of the best-known results have been unsuccessful. Studies of bilingual speakers, by contrast, have offered a comparatively elegant design, since the same individuals can be tested in each of their languages. Some such studies report that the way bilinguals categorise events shifts according to the language in which they are operating at the time, a pattern difficult to attribute to differences of culture or environment alone."
+    },
+    {
+      "id": "p9",
+      "text": "A useful way of drawing these strands together is the notion, proposed by the psycholinguist Dan Slobin, of thinking for speaking. On this view, the most robust influence of language lies in the thinking that is required to formulate an utterance: a speaker whose grammar obliges certain distinctions, such as whether an action was completed or whether information was witnessed at first hand, must attend to them in order to speak at all. Whether such habits of attention extend to non-linguistic thought, and how far, is an empirical matter that cannot be settled by intuition. The modest answer that the evidence permits may disappoint those drawn to Whorf's grander claims, but it has the considerable merit of being testable."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement most accurately reflects the essay's central argument?",
+      "options": [
+        "Whorf was correct that speakers of different languages live in entirely different conceptual worlds.",
+        "Language has been shown to have no measurable effect on cognition.",
+        "Colour research has definitively settled the question of linguistic relativity.",
+        "The debate has shifted from whether language influences thought to how, where and how much it does."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The conclusion reframes the question as one of domains, degree and mechanisms, rejecting both strong determinism and complete universalism.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "What emerges from these debates is not a vindication of Whorf so much as a reformulation of his question."
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "in which domains, to what degree, and through which cognitive mechanisms it does so"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Why was Whorf's claim about the Hopi language challenged?",
+      "options": [
+        "Later analyses suggested that Hopi did in fact have adequate ways of expressing time.",
+        "The Hopi people were found to speak several different languages.",
+        "Whorf had never actually studied Hopi grammar.",
+        "Hopi speakers performed poorly on tests of temporal reasoning."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Detailed grammatical analyses suggested Hopi possessed a serviceable repertoire of temporal expressions.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Hopi possessed a perfectly serviceable repertoire of temporal expressions"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the phrase \"fallen into considerable disrepute\" is closest in meaning to",
+      "options": [
+        "become widely misunderstood",
+        "been forgotten entirely",
+        "lost much of its credibility",
+        "been officially banned"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "To fall into disrepute is to lose one's good reputation or credibility.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "had fallen into considerable disrepute"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What did cross-linguistic surveys of colour terms find?",
+      "options": [
+        "All languages have the same number of basic colour terms.",
+        "Colour terms tend to cluster around similar focal points across languages.",
+        "Colour terms are acquired in a random order.",
+        "Languages with more colour terms produce better eyesight."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Languages vary in the number of terms, but the terms cluster around similar focal points.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the terms they do have tend to cluster around similar focal points"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What does the disappearance of the blue-discrimination advantage during a verbal task suggest?",
+      "options": [
+        "Speakers of such languages have physiologically different eyes.",
+        "Verbal tasks permanently impair colour perception.",
+        "The advantage was caused by differences in intelligence.",
+        "The advantage depends on language being actively available during perception."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "When verbal resources are occupied, the advantage vanishes, implying linguistic labels are recruited online during perception.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "an advantage that disappears when participants are simultaneously engaged in a verbal task"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "perhaps by recruiting linguistic labels online during perception"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "Which conclusion about colour perception would the writer most likely endorse?",
+      "options": [
+        "Language modulates the ease of making certain distinctions rather than determining what can be seen.",
+        "Speakers of languages without a separate word for light blue cannot perceive it.",
+        "Language has no influence whatsoever on colour perception.",
+        "Colour categories are entirely arbitrary creations of language."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer states, cautiously, that language modulates speed and ease rather than determining perception; the other options either overgeneralise or reverse this.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "language does not so much determine what can be perceived as modulate the speed and ease with which certain distinctions are made"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "What is the function of the final sentence of paragraph 5?",
+      "options": [
+        "To confirm that geocentric language causes superior orientation.",
+        "To introduce alternative explanations that weaken a causal interpretation of the findings.",
+        "To argue that spatial language research should be abandoned.",
+        "To provide further examples of communities using geocentric terms."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Critics suggest co-occurring environmental or cultural factors and ambiguous tasks, undermining the claim that language itself is the cause.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "such behaviour may reflect environmental or cultural factors that merely co-occur with linguistic habits"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "purpose",
+      "text": "Why does the writer describe the recent colour research as having \"complicated this picture without overturning it\"?",
+      "options": [
+        "To indicate that the research disproved universalism entirely.",
+        "To suggest that the research was methodologically confused.",
+        "To signal that the findings add nuance to, rather than refute, the universalist account.",
+        "To show that colour research is irrelevant to the Whorfian debate."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The phrase indicates a refinement of the universalist view rather than its rejection.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "More recent experimental work has complicated this picture without overturning it."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "According to paragraph 5, what did members of geocentric-language communities do after being rotated?",
+      "options": [
+        "They refused to complete the task.",
+        "They preserved the relative left-right orientation of the objects.",
+        "They randomly rearranged the objects.",
+        "They preserved the cardinal orientation of the arrangement."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They preserved cardinal rather than relative orientation.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "to preserve its cardinal rather than its relative orientation"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 7, what did speakers in communities lacking words for exact quantities find difficult?",
+      "options": [
+        "Matching larger sets of objects exactly.",
+        "Comparing approximate magnitudes.",
+        "Recognising very small quantities.",
+        "Remembering the names of the objects used in the task."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Speakers performed well on approximate comparisons but struggled to match larger sets exactly.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "speakers perform well when comparing approximate magnitudes but struggle to match larger sets exactly"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"unaided\" in \"unaided perception\" is closest in meaning to",
+      "options": [
+        "untrained",
+        "unreliable",
+        "without the help of tools such as number words",
+        "unconscious"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Unaided perception is perception without the support of a cognitive tool such as number words.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "enabling the precise tracking of quantities that unaided perception cannot sustain"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "Why, according to the writer, is the interpretation of the number studies not straightforward?",
+      "options": [
+        "The experiments were poorly designed and carried out.",
+        "The lack of number words coincides with a lack of counting practices that might independently explain the results.",
+        "The communities studied in fact possess words for exact numbers.",
+        "Human perception of quantity is too unreliable to be measured."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Other activities that might cultivate numerical precision are also absent, so language cannot be isolated as the cause.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the absence of number words typically coincides with the absence of counting practices, trade and other activities that might independently cultivate numerical precision"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "inference",
+      "text": "What does describing number words as \"a cognitive technology\" imply?",
+      "options": [
+        "They are physical devices used for calculation.",
+        "They are unnecessary for most everyday tasks.",
+        "They can be learned only through formal schooling.",
+        "They are tools that extend the mind's capacities beyond what perception alone allows."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Like a technology, number words enable a capacity, precise tracking of quantity, that perception cannot sustain unaided.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "number words function as a cognitive technology"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"fragile\" in \"have proved more fragile\" is closest in meaning to",
+      "options": [
+        "less able to withstand scrutiny",
+        "physically delicate",
+        "emotionally sensitive",
+        "more recently discovered"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Fragile findings are ones that do not hold up well, as shown by failed attempts to reproduce them.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Other celebrated findings have proved more fragile."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 8, what happened to some of the best-known results on grammatical gender?",
+      "options": [
+        "They were confirmed by every subsequent study.",
+        "They were shown to apply only to bilingual speakers.",
+        "Several attempts to reproduce them were unsuccessful.",
+        "They were formally withdrawn by their original authors."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The paragraph states that several attempts to reproduce some of the best-known results failed.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "several attempts to reproduce some of the best-known results have been unsuccessful"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer describe studies of bilingual speakers as offering \"a comparatively elegant design\"?",
+      "options": [
+        "To praise the linguistic abilities of bilingual speakers.",
+        "To explain that testing the same individuals in each of their languages helps rule out cultural or environmental explanations.",
+        "To argue that studies of monolingual speakers are worthless.",
+        "To show that bilingual studies are cheaper to conduct."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Because the same people are tested in each language, differences are hard to attribute to culture or environment.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "since the same individuals can be tested in each of their languages"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "How do the bilingual findings in paragraph 8 relate to the critics' objection in paragraph 5?",
+      "options": [
+        "They help address the concern that apparent linguistic effects may really reflect cultural or environmental factors.",
+        "They confirm that linguistic effects are entirely explained by culture.",
+        "They show that spatial language has no effect on orientation.",
+        "They prove the strong version of linguistic determinism."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Critics in paragraph 5 suggested co-occurring cultural or environmental factors; the bilingual pattern is hard to attribute to such factors alone.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "a pattern difficult to attribute to differences of culture or environment alone"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "such behaviour may reflect environmental or cultural factors that merely co-occur with linguistic habits"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "What is the writer's attitude towards the modest answer that the evidence permits?",
+      "options": [
+        "The writer regrets that it is less exciting than Whorf's claims.",
+        "The writer considers it unscientific.",
+        "The writer values it because it is testable, even if it disappoints some.",
+        "The writer expects it to be replaced soon by Whorf's grander claims."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer concedes it may disappoint but credits it with 'the considerable merit of being testable'.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "it has the considerable merit of being testable"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "vocabulary",
+      "text": "In paragraph 9, the word \"obliges\" is closest in meaning to",
+      "options": [
+        "thanks",
+        "permits",
+        "discourages",
+        "requires"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A grammar that obliges certain distinctions requires speakers to mark them.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "a speaker whose grammar obliges certain distinctions"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 7 to 9?",
+      "options": [
+        "The evidence uniformly supports the strong version of linguistic determinism.",
+        "The evidence for linguistic effects varies in strength across domains, and the most defensible claims are modest but testable.",
+        "All of the well-known findings on language and thought have failed to replicate.",
+        "Research on bilingual speakers has made other approaches to the question obsolete."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraphs move from stronger (number) to more fragile (gender) evidence and conclude with a modest, testable position.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "The domain of number has furnished some of the strongest evidence for a substantial linguistic effect."
+        },
+        {
+          "paragraphId": "p9",
+          "quote": "The modest answer that the evidence permits"
+        }
+      ]
+    }
+  ]
+}

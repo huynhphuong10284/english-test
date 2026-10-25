@@ -1,0 +1,321 @@
+{
+  "id": "w-heritage-versus-development",
+  "title": "Heritage versus Development",
+  "level": "C2 · Proficiency",
+  "description": "Practise inversion, concession and persuasive collocations, then write a letter to the editor about a planning dispute.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Subjunctive",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "I urge that the council ___ its decision before it is too late.",
+      "options": [
+        "to reconsider",
+        "reconsidered",
+        "reconsidering",
+        "reconsider"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "After \"urge that\", formal English uses the subjunctive base form: I urge that the council reconsider."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The proposed tower would be completely out of ___ (keep) with the surrounding Georgian terraces.",
+      "answers": [
+        "keeping"
+      ],
+      "points": 1,
+      "explanation": "\"Out of keeping with\" means not suitable for or not matching its surroundings. The opposite is \"in keeping with\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Fronting",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "stands",
+        "the street",
+        "the old mill",
+        "at the end of"
+      ],
+      "answers": [
+        "At the end of the street stands the old mill.",
+        "The old mill stands at the end of the street."
+      ],
+      "points": 1,
+      "explanation": "In descriptive writing, a phrase of place can be fronted, followed by the verb and then the subject: at the end of the street stands the old mill."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Hedging",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I would argue that the council has underestimate the strength of local feeling.",
+      "answers": [
+        "I would argue that the council has underestimated the strength of local feeling."
+      ],
+      "points": 1,
+      "explanation": "The present perfect needs a past participle: has underestimated. \"I would argue that\" softens the claim politely."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"At no ...\".",
+      "text": "Residents were not consulted at any point.",
+      "keyword": "point",
+      "answers": [
+        "At no point were residents consulted."
+      ],
+      "points": 1,
+      "explanation": "A negative phrase such as \"at no point\" at the start of a sentence takes inversion: at no point were residents consulted."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Concession",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"While ...\".",
+      "text": "Even though I understand the need for housing, I cannot support this plan.",
+      "keyword": "appreciate",
+      "answers": [
+        "While I appreciate the need for housing, I cannot support this plan.",
+        "While I appreciate the need for housing, I can't support this plan.",
+        "While I appreciate the need for housing, I cannot support the plan."
+      ],
+      "points": 1,
+      "explanation": "\"While I appreciate ..., ...\" concedes a point politely before disagreeing, which is typical of persuasive letters."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Once the building is demolished, it ...\".",
+      "text": "Once the building is demolished, it cannot be replaced.",
+      "keyword": "lost",
+      "answers": [
+        "Once the building is demolished, it is lost forever.",
+        "Once the building is demolished, it is lost for ever.",
+        "Once the building is demolished, it is lost for good.",
+        "Once the building is demolished, it's lost forever.",
+        "Once the building is demolished, it's lost for ever.",
+        "Once the building is demolished, it's lost for good.",
+        "Once the building is demolished, it will be lost forever.",
+        "Once the building is demolished, it will be lost for good.",
+        "Once the building is demolished, it will be lost for ever."
+      ],
+      "points": 1,
+      "explanation": "\"Lost forever\" or \"lost for good\" means permanently gone, emphasising that the loss cannot be reversed."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Ellipsis",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The developers claim the scheme will benefit the town, but I fail to see how it ___.",
+      "answers": [
+        "will",
+        "would",
+        "could",
+        "can"
+      ],
+      "points": 1,
+      "explanation": "A modal can stand alone, replacing the repeated verb phrase (benefit the town): I fail to see how it will."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Idiomatic expressions",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The council appears to have ridden ___ over the objections of residents.",
+      "options": [
+        "roughshod",
+        "rough",
+        "roughly",
+        "roughness"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "To \"ride roughshod over\" people or their objections means to act without any regard for their feelings or rights."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The mill is an ___ (replace) part of the town's history.",
+      "answers": [
+        "irreplaceable"
+      ],
+      "points": 1,
+      "explanation": "\"Irreplaceable\" = impossible to replace. It combines the negative prefix ir-, the verb \"replace\" and the suffix -able (keeping the final e)."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Adjective + preposition",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The building is of considerable architectural significance and is worthy for protection.",
+      "answers": [
+        "The building is of considerable architectural significance and is worthy of protection."
+      ],
+      "points": 1,
+      "explanation": "The adjective \"worthy\" is followed by \"of\": worthy of protection, worthy of attention."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Inversion after \"only if\"",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Only ...\".",
+      "text": "The town will keep its character only if such buildings are protected.",
+      "keyword": "only",
+      "answers": [
+        "Only if such buildings are protected will the town keep its character."
+      ],
+      "points": 1,
+      "explanation": "When \"only if\" begins a sentence, the main clause is inverted: only if ... will the town keep its character."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Stance",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The developers' claim that the building is beyond repair is, ___, questionable.",
+      "options": [
+        "to put it softly",
+        "to put it mildly",
+        "to say it mildly",
+        "putting it mild"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"To put it mildly\" signals understatement: the writer means something much stronger than \"questionable\"."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Inversion with \"nowhere\"",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "nowhere",
+        "more evident",
+        "the council's indifference",
+        "than",
+        "in this decision"
+      ],
+      "answers": [
+        "Nowhere is the council's indifference more evident than in this decision.",
+        "The council's indifference is nowhere more evident than in this decision."
+      ],
+      "points": 1,
+      "explanation": "When the negative adverb \"nowhere\" is fronted for emphasis, the verb comes before the subject: nowhere is the council's indifference more evident ..."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Comparative structures",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The new tower would be twice as tall than the cathedral.",
+      "answers": [
+        "The new tower would be twice as tall as the cathedral."
+      ],
+      "points": 1,
+      "explanation": "Multiples such as \"twice\" and \"three times\" are used with \"as + adjective + as\", not \"than\"."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Idiomatic expressions",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The council has ...\".",
+      "text": "The council has deliberately ignored the concerns of local residents.",
+      "keyword": "blind",
+      "answers": [
+        "The council has turned a blind eye to the concerns of local residents.",
+        "The council has deliberately turned a blind eye to the concerns of local residents."
+      ],
+      "points": 1,
+      "explanation": "To \"turn a blind eye to\" something means to deliberately ignore it."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Advanced word formation",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Once demolished, the mill would be lost to future generations ___.",
+      "options": [
+        "irrevocable",
+        "unrevokingly",
+        "irrevocably",
+        "revocably"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We need an adverb to modify \"lost\": \"irrevocably\" means in a way that cannot be changed or undone."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "I urge the council to leave no ___ unturned in its search for an alternative site. (one word, beginning with S)",
+      "answers": [
+        "stone"
+      ],
+      "points": 1,
+      "explanation": "To \"leave no stone unturned\" means to try every possible way of doing something."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The outcome seems ...\".",
+      "text": "It seems that the council had already decided the outcome before the consultation began.",
+      "keyword": "foregone",
+      "answers": [
+        "The outcome seems to have been a foregone conclusion before the consultation began.",
+        "The outcome seems to have been a foregone conclusion even before the consultation began."
+      ],
+      "points": 1,
+      "explanation": "A \"foregone conclusion\" is a result that is certain before the process even starts. \"Seems to have been\" refers back to the past."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Concessive structures",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "For all the council's assurances, but residents remain unconvinced.",
+      "answers": [
+        "For all the council's assurances, residents remain unconvinced."
+      ],
+      "points": 1,
+      "explanation": "\"For all\" (= despite) already expresses the contrast, so \"but\" must not be added to the main clause."
+    }
+  ],
+  "task": {
+    "genre": "Letter to the editor",
+    "prompt": "Your local newspaper reported that the council has approved plans to demolish a historic building to make way for a modern development. Write a letter to the editor giving your views.",
+    "contentPoints": [
+      "Explain why you are writing and refer to the newspaper's report.",
+      "Describe the historical or cultural value of the building.",
+      "Acknowledge the arguments in favour of the development.",
+      "Propose an alternative solution and call for action."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "I am writing in response to ...",
+      "While I appreciate ..., ...",
+      "At no point ...",
+      "would be out of keeping with ...",
+      "I urge that the council ...",
+      "Yours faithfully"
+    ],
+    "modelAnswer": "Dear Editor,\n\nI am writing in response to your report last week that the council has approved plans to demolish Harland Mill to make way for a twelve-storey office and apartment block. As someone who has lived in the town for over thirty years, I believe this decision is both short-sighted and unnecessary.\n\nAt the end of Canal Street stands the old mill, one of the last surviving reminders of the industry that built our town. Its brick chimney and arched windows have appeared in paintings, photographs and countless family stories. For many residents, it is not merely a building but a link to the generations who worked there. Once it is demolished, it is lost for ever, and no amount of compensation can bring it back.\n\nWhile I appreciate the need for new housing, I would argue that the council has underestimated the strength of local feeling. At no point were residents properly consulted; the plans were approved after a single, poorly advertised meeting. Furthermore, the proposed tower would be completely out of keeping with the Victorian streets around it. The developers claim the scheme will revitalise the area, but I fail to see how it will, when similar blocks elsewhere in the town remain half empty.\n\nThere is, I believe, a better solution. Across the country, historic industrial buildings have been converted into flats, studios and community spaces, preserving their character while giving them new purpose. A sensitive conversion of Harland Mill could provide much-needed homes without destroying what makes the area distinctive.\n\nI therefore urge that the council reconsider its decision and commission an independent study of the conversion option. I would also encourage your readers to attend the public meeting next month and make their views known. Our heritage, once gone, cannot be rebuilt.\n\nYours faithfully,\nEleanor Marsh"
+  }
+}

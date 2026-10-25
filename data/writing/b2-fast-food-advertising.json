@@ -1,0 +1,322 @@
+{
+  "id": "w-fast-food-advertising",
+  "title": "Fast Food Advertising",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise passive reporting verbs, conditionals and formal linking, then write an essay about fast food advertising.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Passive reporting verbs",
+      "prompt": "Choose the correct answer.",
+      "text": "Fast food adverts ___ to have a strong influence on children's eating habits.",
+      "options": [
+        "believe",
+        "are believing",
+        "are believed",
+        "have believed"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Passive reporting structure: subject + is/are believed + to-infinitive."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Passive voice",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "In some countries, junk food adverts ___ (already / ban) during children's TV programmes.",
+      "answers": [
+        "have already been banned"
+      ],
+      "points": 1,
+      "explanation": "The present perfect passive is have/has + been + past participle; \"already\" goes after have: have already been banned."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Linking words",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "are",
+        "fast food adverts",
+        "everywhere",
+        "adverts for vegetables",
+        "are rare",
+        "whereas"
+      ],
+      "answers": [
+        "Fast food adverts are everywhere, whereas adverts for vegetables are rare.",
+        "Adverts for vegetables are rare, whereas fast food adverts are everywhere."
+      ],
+      "points": 1,
+      "explanation": "\"Whereas\" joins two contrasting facts in one sentence."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Second conditional",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "If advertising were banned, companies will find other ways to reach young people.",
+      "answers": [
+        "If advertising were banned, companies would find other ways to reach young people.",
+        "If advertising were banned, companies'd find other ways to reach young people.",
+        "If advertising was banned, companies would find other ways to reach young people."
+      ],
+      "points": 1,
+      "explanation": "In a second conditional, the result clause uses would + infinitive: companies would find."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "The government introduced stricter rules. ___, children's consumption of sugary drinks fell sharply.",
+      "options": [
+        "As a result",
+        "Whereas",
+        "Nevertheless",
+        "Even though"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"As a result\" introduces a consequence of the previous sentence."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Participle clauses",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "___ (target) at young children, these adverts often use cartoon characters.",
+      "answers": [
+        "Targeted",
+        "Aimed"
+      ],
+      "points": 1,
+      "explanation": "A past participle clause has a passive meaning: (the adverts are) targeted at young children."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Passive reporting verbs",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Advertising ___ obesity.\"",
+      "text": "People think that advertising causes obesity.",
+      "keyword": "THOUGHT",
+      "answers": [
+        "Advertising is thought to cause obesity."
+      ],
+      "points": 1,
+      "explanation": "Passive reporting verb + to-infinitive: advertising is thought to cause."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Wish / if only",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"I ___ fruit more.\"",
+      "text": "It's a shame that supermarkets don't advertise fruit more.",
+      "keyword": "WISH",
+      "answers": [
+        "I wish supermarkets advertised fruit more.",
+        "I wish supermarkets would advertise fruit more.",
+        "I wish that supermarkets advertised fruit more.",
+        "I wish that supermarkets would advertise fruit more."
+      ],
+      "points": 1,
+      "explanation": "Wish + past simple (or would) expresses a wish for a present situation to be different."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Modals of deduction",
+      "prompt": "Choose the correct answer.",
+      "text": "The company ___ have spent millions on that advert; it was shown during the World Cup final.",
+      "options": [
+        "can't",
+        "must",
+        "needn't",
+        "shouldn't"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Must have + past participle is a confident deduction about the past, based on evidence."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Many adverts are deliberately ___ (lead) about the health benefits of their products.",
+      "answers": [
+        "misleading"
+      ],
+      "points": 1,
+      "explanation": "The prefix mis- means wrongly; misleading describes information that makes people believe something false."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Reduced relative clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "must",
+        "healthy food",
+        "adverts",
+        "promote",
+        "before 9 p.m.",
+        "shown"
+      ],
+      "answers": [
+        "Adverts shown before 9 p.m. must promote healthy food."
+      ],
+      "points": 1,
+      "explanation": "A past participle can replace a passive relative clause: adverts shown = adverts which are shown."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Articles: general meaning",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The sugar is one of the main causes of obesity.",
+      "answers": [
+        "Sugar is one of the main causes of obesity."
+      ],
+      "points": 1,
+      "explanation": "Use no article with uncountable nouns when you talk about them in general: sugar."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Passive voice",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"Huge amounts of money ___ advertising aimed at teenagers.\"",
+      "text": "Companies spend huge amounts of money on advertising aimed at teenagers.",
+      "keyword": "SPENT",
+      "answers": [
+        "Huge amounts of money are spent on advertising aimed at teenagers.",
+        "Huge amounts of money are spent by companies on advertising aimed at teenagers."
+      ],
+      "points": 1,
+      "explanation": "Present simple passive: am/is/are + past participle. The agent (by companies) can be left out."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Although vs despite",
+      "prompt": "Choose the correct answer.",
+      "text": "___ the drinks contain a lot of sugar, they are advertised as healthy.",
+      "options": [
+        "Despite",
+        "However",
+        "In spite of",
+        "Although"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Although is followed by a full clause (subject + verb); despite and in spite of need a noun or -ing form."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Collocations",
+      "prompt": "Complete the sentence with one word. The first letter is given in brackets.",
+      "text": "Advertising has a huge ___ (i...) on what children want to eat.",
+      "answers": [
+        "influence",
+        "impact"
+      ],
+      "points": 1,
+      "explanation": "Have an influence/impact on something is a common collocation."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Reported warnings",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "too many snacks",
+        "not to",
+        "doctors",
+        "buy",
+        "warned",
+        "parents"
+      ],
+      "answers": [
+        "Doctors warned parents not to buy too many snacks."
+      ],
+      "points": 1,
+      "explanation": "Warn + object + not to + infinitive reports a warning."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Passive voice (past)",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The advert was banning after hundreds of complaints.",
+      "answers": [
+        "The advert was banned after hundreds of complaints."
+      ],
+      "points": 1,
+      "explanation": "Past simple passive: was/were + past participle (banned)."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Reported speech: promise",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The company ___ the sugar in its drinks.\"",
+      "text": "\"We will reduce the sugar in our drinks,\" said the company.",
+      "keyword": "PROMISED",
+      "answers": [
+        "The company promised to reduce the sugar in its drinks.",
+        "The company promised that it would reduce the sugar in its drinks.",
+        "The company promised it would reduce the sugar in its drinks."
+      ],
+      "points": 1,
+      "explanation": "Promise + to-infinitive (or promise that + would) reports a promise."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Quantifiers",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There are too much adverts for unhealthy food on children's channels.",
+      "answers": [
+        "There are too many adverts for unhealthy food on children's channels."
+      ],
+      "points": 1,
+      "explanation": "Use too many with plural countable nouns (adverts) and too much with uncountable nouns (advertising)."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Modals of deduction (past)",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The ban ___ sales of sugary drinks.\"",
+      "text": "It is possible that the ban reduced sales of sugary drinks.",
+      "keyword": "MAY",
+      "answers": [
+        "The ban may have reduced sales of sugary drinks."
+      ],
+      "points": 1,
+      "explanation": "May have + past participle expresses a possibility about the past."
+    }
+  ],
+  "task": {
+    "genre": "Essay",
+    "prompt": "In your English class you have been discussing healthy eating. Your teacher has asked you to write an essay with the title: \"Advertising fast food to children should be banned.\" Do you agree?",
+    "contentPoints": [
+      "Explain how fast food advertising influences children.",
+      "Present an argument against a ban, for example freedom or the economy.",
+      "Suggest another way to encourage healthy eating.",
+      "Give your own opinion in the conclusion."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "It is widely believed that ...",
+      "There is evidence that ...",
+      "Opponents of a ban argue that ...",
+      "Consequently, ...",
+      "To sum up, ..."
+    ],
+    "modelAnswer": "Childhood obesity has become a serious problem in many countries, and fast food advertising is often blamed for it. Some people believe that adverts for burgers, fries and sugary drinks aimed at children should be banned completely.\n\nIt is widely believed that young children cannot tell the difference between entertainment and advertising. Fast food companies use bright colours, cartoon characters and free toys to make their products attractive. Consequently, children ask their parents for these meals again and again. There is evidence that in countries where such adverts have been restricted, children eat less junk food.\n\nOn the other hand, opponents of a ban argue that it is the responsibility of parents, not the government, to decide what their children eat. They also point out that the advertising industry provides thousands of jobs, and that a ban could harm the economy.\n\nIn my opinion, however, a ban alone is not enough. Schools should also teach children about nutrition, and healthy food should be made cheaper and more attractive. If vegetables were advertised as cleverly as burgers, children might actually want to eat them.\n\nTo sum up, I agree that fast food advertising to children should be banned, but only as part of a wider plan to encourage healthy eating."
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "id": "w-a-report-on-sports-facilities",
+  "title": "A Report on Sports Facilities",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise passives, reported speech and formal linking, then write a report on sports facilities in your town.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Passive voice",
+      "prompt": "Choose the correct answer.",
+      "text": "The swimming pool ___ at the moment, so it is closed to the public.",
+      "options": [
+        "is renovating",
+        "is being renovated",
+        "renovates",
+        "has renovated"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The present continuous passive (is being + past participle) describes an action in progress now."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Reported speech",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Several users said that the changing rooms ___ (be) dirty and old-fashioned.",
+      "answers": [
+        "were",
+        "are"
+      ],
+      "points": 1,
+      "explanation": "After a past reporting verb, \"are\" usually moves back to \"were\", although \"are\" is possible if it is still true."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Formal linking",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "the gym",
+        "well equipped",
+        "whereas",
+        "is",
+        "in poor condition",
+        "the tennis court"
+      ],
+      "answers": [
+        "The gym is well equipped, whereas the tennis court is in poor condition.",
+        "The tennis court is in poor condition, whereas the gym is well equipped."
+      ],
+      "points": 1,
+      "explanation": "\"Whereas\" compares two contrasting facts in one sentence."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Passive voice",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The sports centre was build in the 1980s and has not been modernised since.",
+      "answers": [
+        "The sports centre was built in the 1980s and has not been modernised since.",
+        "The sports centre was built in the 1980s and hasn't been modernised since.",
+        "The sports centre was built in the 1980s and has not been modernized since."
+      ],
+      "points": 1,
+      "explanation": "The passive needs the past participle: was built, not \"was build\"."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "Membership fees have gone up by 30%. ___, fewer young people use the centre.",
+      "options": [
+        "Nevertheless",
+        "Whereas",
+        "Consequently",
+        "In contrast"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Consequently\" shows that the fall in users is a result of the price increase."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Passive voice",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "It is recommended that the opening hours ___ (extend) at weekends.",
+      "answers": [
+        "be extended",
+        "should be extended"
+      ],
+      "points": 1,
+      "explanation": "After \"It is recommended that\", use be + past participle (subjunctive) or should be + past participle."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Reported speech",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"A swimmer ___ the pool earlier in the morning.\"",
+      "text": "\"Why don't you open the pool earlier in the morning?\" a swimmer asked the manager.",
+      "keyword": "SUGGESTED",
+      "answers": [
+        "A swimmer suggested opening the pool earlier in the morning.",
+        "A swimmer suggested that the manager open the pool earlier in the morning.",
+        "A swimmer suggested that the manager should open the pool earlier in the morning.",
+        "A swimmer suggested the manager should open the pool earlier in the morning.",
+        "A swimmer suggested the manager open the pool earlier in the morning.",
+        "A swimmer suggested that they open the pool earlier in the morning.",
+        "A swimmer suggested that they should open the pool earlier in the morning."
+      ],
+      "points": 1,
+      "explanation": "\"Suggest\" is followed by an -ing form or a that-clause (with should or the base form), never by an infinitive with \"to\"."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Passive voice",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"A survey of local residents ___ the council last spring.\"",
+      "text": "The council carried out a survey of local residents last spring.",
+      "keyword": "WAS",
+      "answers": [
+        "A survey of local residents was carried out by the council last spring."
+      ],
+      "points": 1,
+      "explanation": "Past simple passive: was + past participle, with \"by\" to show who did the action. Phrasal verbs keep their particle: was carried out."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Formal linking: on the other hand",
+      "prompt": "Choose the correct answer.",
+      "text": "The gym is modern; ___, the changing rooms need urgent attention.",
+      "options": [
+        "on the other hand",
+        "whereas",
+        "despite",
+        "because"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "On the other hand introduces a contrasting point and is usually followed by a comma; whereas joins two clauses without a semicolon."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "The new opening hours would be more ___ (convenience) for working people.",
+      "answers": [
+        "convenient"
+      ],
+      "points": 1,
+      "explanation": "Change the noun convenience into the adjective convenient after more."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Causative get",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "repaired",
+        "the centre",
+        "in the car park",
+        "should get",
+        "the lights"
+      ],
+      "answers": [
+        "The centre should get the lights in the car park repaired."
+      ],
+      "points": 1,
+      "explanation": "Causative get + object + past participle means arrange for someone else to do something."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Quantifiers: most / most of",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Most of users said that the staff were friendly.",
+      "answers": [
+        "Most of the users said that the staff were friendly.",
+        "Most users said that the staff were friendly."
+      ],
+      "points": 1,
+      "explanation": "Use most + noun (most users) or most of + the/my etc. + noun (most of the users)."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Modal passive (past)",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The roof ___ years ago.\"",
+      "text": "The council should have repaired the roof years ago.",
+      "keyword": "BEEN",
+      "answers": [
+        "The roof should have been repaired years ago."
+      ],
+      "points": 1,
+      "explanation": "Should have been + past participle is the passive form for criticising something that did not happen in the past."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Modals of deduction",
+      "prompt": "Choose the correct answer.",
+      "text": "The pool ___ be very popular; there is always a queue to get in.",
+      "options": [
+        "can't",
+        "needn't",
+        "shouldn't",
+        "must"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Must + infinitive shows a confident deduction about the present based on evidence."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Need + -ing (passive meaning)",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "The equipment in the weights room needs ___ (replace).",
+      "answers": [
+        "replacing",
+        "to be replaced"
+      ],
+      "points": 1,
+      "explanation": "Need + -ing or need + to be + past participle both have a passive meaning: someone needs to replace it."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Third conditional",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "had been lower",
+        "joined",
+        "if",
+        "would have",
+        "more people",
+        "the fees"
+      ],
+      "answers": [
+        "More people would have joined if the fees had been lower.",
+        "If the fees had been lower, more people would have joined."
+      ],
+      "points": 1,
+      "explanation": "Third conditional: if + past perfect, would have + past participle, for an imaginary past situation."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The tennis courts are in a worst condition than last year.",
+      "answers": [
+        "The tennis courts are in a worse condition than last year.",
+        "The tennis courts are in worse condition than last year."
+      ],
+      "points": 1,
+      "explanation": "Use the comparative worse with than; worst is the superlative."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Unless",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The centre will close ___ it.\"",
+      "text": "The centre will close if more people do not use it.",
+      "keyword": "UNLESS",
+      "answers": [
+        "The centre will close unless more people use it."
+      ],
+      "points": 1,
+      "explanation": "Unless means if not, so it is followed by a positive verb."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Participle clauses (passive)",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Asking about the facilities, most residents said they were satisfied.",
+      "answers": [
+        "When asked about the facilities, most residents said they were satisfied.",
+        "Asked about the facilities, most residents said they were satisfied.",
+        "When they were asked about the facilities, most residents said they were satisfied."
+      ],
+      "points": 1,
+      "explanation": "The residents were asked, so the participle must be passive: (When) asked about ..."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Too / enough",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The pool is ___ swim properly.\"",
+      "text": "The pool is so crowded that people cannot swim properly.",
+      "keyword": "TOO",
+      "answers": [
+        "The pool is too crowded for people to swim properly."
+      ],
+      "points": 1,
+      "explanation": "Too + adjective + for + person + to-infinitive says something is more than is acceptable."
+    }
+  ],
+  "task": {
+    "genre": "Report",
+    "prompt": "The manager of your local sports centre has asked you to write a report on its facilities, based on the opinions of young people who use it. Write your report.",
+    "contentPoints": [
+      "Explain the aim of the report and how you collected information.",
+      "Describe what young people like about the centre.",
+      "Describe the main problems they mentioned.",
+      "Make clear recommendations for improvement."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "The aim of this report is to ...",
+      "Most of those interviewed said that ...",
+      "A number of users complained that ...",
+      "It is recommended that ...",
+      "In conclusion, ..."
+    ],
+    "modelAnswer": "Introduction\n\nThe aim of this report is to assess the facilities at Greenfield Sports Centre from the point of view of young users. The information was collected by interviewing thirty students aged between fifteen and eighteen.\n\nPositive aspects\n\nMost of those interviewed said that the gym was the best part of the centre. It was modernised two years ago and is well equipped with machines and weights. Furthermore, the staff were described as friendly and helpful, especially the fitness instructors.\n\nMain problems\n\nA number of users complained that the changing rooms were dirty and that the showers often had no hot water. The swimming pool is popular, but it is usually crowded in the evenings, whereas it is almost empty in the early morning. In addition, many students said that the membership fees were too high for teenagers.\n\nRecommendations\n\nFirstly, it is recommended that the changing rooms be cleaned more often and the showers repaired as soon as possible. Secondly, a cheaper student membership should be introduced. Finally, the pool could open earlier on weekdays, so that students can swim before school.\n\nConclusion\n\nIf these changes were made, more young people would use the centre regularly and would recommend it to their friends."
+  }
+}

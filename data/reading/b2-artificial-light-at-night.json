@@ -1,0 +1,459 @@
+{
+  "id": "artificial-light-at-night",
+  "title": "When Night Is No Longer Dark",
+  "level": "B2 · Upper-intermediate",
+  "description": "The effects of artificial light at night on wildlife and human health, and how it can be reduced.",
+  "instructions": "Read the article about light pollution, then answer the questions. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "For most of human history, the night sky was filled with thousands of visible stars. Today, however, a large proportion of the world's population lives under skies so brightly lit that the Milky Way can no longer be seen. Streetlights, illuminated advertisements and floodlit buildings have transformed the night, and scientists are increasingly concerned that this artificial glow, known as light pollution, has consequences far beyond the loss of a beautiful view."
+    },
+    {
+      "id": "p2",
+      "text": "Wildlife is among the most seriously affected. Many animals rely on natural cycles of light and darkness to find food, migrate and reproduce. Newly hatched sea turtles, for instance, instinctively crawl towards the brightest horizon, which on an undeveloped beach is the moonlit sea. Near brightly lit coastal roads, however, they may head inland instead, where they are far less likely to survive. Night-flying insects are also drawn to artificial lights, often circling them until they die of exhaustion."
+    },
+    {
+      "id": "p3",
+      "text": "Humans are not immune to these effects either. Our bodies follow an internal clock that is closely linked to daylight, and exposure to bright light in the evening can suppress melatonin, a hormone that helps regulate sleep. Researchers have linked disrupted sleep patterns to a range of health problems, although they stress that the relationship is complex and that light is only one of many factors involved."
+    },
+    {
+      "id": "p4",
+      "text": "Unlike many forms of pollution, light pollution is relatively easy to reverse. Shielding streetlights so that they point downwards, using warmer colours of light and switching off unnecessary lighting late at night can dramatically reduce the glow above a town. Some communities have gone further and applied for recognition as dark-sky places, which can attract visitors eager to experience a truly starry sky."
+    },
+    {
+      "id": "p5",
+      "text": "Nevertheless, progress has been uneven. The switch to energy-efficient LED lamps, which was intended to save money and reduce emissions, has in some places led to even brighter nights, because cheaper lighting encourages people to install more of it. Experts argue that the goal should not be to eliminate artificial light altogether, but to use it more thoughtfully, lighting only what needs to be lit, when it needs to be lit."
+    },
+    {
+      "id": "p6",
+      "text": "There are also strong economic arguments for change. Much of the light produced at night is simply wasted, shining upwards into the sky or sideways into bedrooms rather than onto the streets and paths where it is needed. Lighting this empty space costs local councils a considerable amount of money every year and adds to energy demand at a time when many countries are trying to cut carbon emissions. Some towns that have dimmed or switched off part of their street lighting after midnight have reported noticeable savings. Fears that darker streets would lead to more crime or road accidents have often turned out to be unfounded in these places, although residents are frequently worried at first and need to be reassured."
+    },
+    {
+      "id": "p7",
+      "text": "Individuals can also play a part. Outdoor security lights fitted with motion sensors, which turn on only when someone approaches, are often more effective than lights that stay on all night, since a sudden light is more likely to attract attention. Closing curtains in the evening, choosing bulbs with a warmer tone for garden lighting and avoiding decorative lights that point at the sky are simple steps that cost very little. Inside the home, reducing the use of bright screens in the hour before bed may also help people to fall asleep more easily, although habits like these can be surprisingly hard to change."
+    },
+    {
+      "id": "p8",
+      "text": "Perhaps the greatest obstacle is that few people notice what they have lost. A child growing up in a large city may never have seen a truly dark sky, and so may not regard the orange glow above the rooftops as a problem at all. For this reason, some campaigners believe that education is just as important as new technology. Star-watching events, school projects and night walks in protected areas can remind people that darkness is not simply the absence of light, but a natural resource worth protecting. If that idea becomes more widely accepted, the stars that our ancestors took for granted may gradually return to the skies above our towns."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the article?",
+      "options": [
+        "Artificial light at night harms wildlife and people, but it can be reduced with careful planning.",
+        "LED lamps have solved the problem of light pollution.",
+        "Sea turtles are the animals most at risk from city life.",
+        "People should stop using streetlights completely."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The article describes the harm caused by light pollution (paragraphs 1-3) and ways of reducing it (paragraphs 4-5).",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "has consequences far beyond the loss of a beautiful view"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "light pollution is relatively easy to reverse"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Why do newly hatched sea turtles sometimes move inland?",
+      "options": [
+        "They are looking for food on land.",
+        "The sea is too cold for them.",
+        "They follow older turtles.",
+        "They are attracted by bright lights from roads."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Turtles crawl towards the brightest horizon, so lights from coastal roads lead them away from the sea.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Near brightly lit coastal roads, however, they may head inland instead"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"suppress\" is closest in meaning to:",
+      "options": [
+        "increase",
+        "reduce or stop",
+        "measure",
+        "replace"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Bright evening light reduces the production of melatonin, which is why it can disturb sleep.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "exposure to bright light in the evening can suppress melatonin"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can be inferred from the researchers' caution in paragraph 3?",
+      "options": [
+        "Light has no effect on human sleep.",
+        "Melatonin is harmful to health.",
+        "Artificial light alone cannot be blamed for all sleep-related health problems.",
+        "Researchers have stopped studying sleep."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The researchers say light is \"only one of many factors\", so other causes are also involved.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "light is only one of many factors involved"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Which method of reducing light pollution is NOT mentioned in paragraph 4?",
+      "options": [
+        "Making streetlights point downwards",
+        "Using warmer colours of light",
+        "Replacing streetlights with solar panels",
+        "Turning off unnecessary lights late at night"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 4 mentions shielding lights, warmer colours and switching lights off, but not solar panels.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Shielding streetlights so that they point downwards"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "using warmer colours of light"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "switching off unnecessary lighting late at night"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer mention LED lamps in paragraph 5?",
+      "options": [
+        "To recommend LEDs as the best solution to light pollution",
+        "To explain how LEDs help sea turtles",
+        "To prove that energy prices are rising",
+        "To show that a well-intended change can sometimes make the problem worse"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "LEDs were meant to save money and emissions, but cheaper light led people to install more of it.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "has in some places led to even brighter nights"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "vocabulary",
+      "text": "In paragraph 3, \"Humans are not immune to these effects\" means that humans are:",
+      "options": [
+        "also affected by them",
+        "responsible for them",
+        "interested in them",
+        "unaware of them"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Immune\" means protected from something; \"not immune\" means humans are affected too.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "Humans are not immune to these effects either."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "What do the experts in paragraph 5 recommend?",
+      "options": [
+        "Banning all artificial lighting",
+        "Using light only where and when it is really needed",
+        "Installing more lighting for safety",
+        "Closing dark-sky places to visitors"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The experts want light to be used thoughtfully, not eliminated.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "lighting only what needs to be lit, when it needs to be lit"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which title would best suit the article as a whole?",
+      "options": [
+        "Rethinking Our Use of Light After Dark",
+        "Why Cities Are Safer at Night",
+        "The Life Cycle of the Sea Turtle",
+        "How LED Lamps Are Made"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The article describes the problems caused by artificial light and argues throughout that we should use light more carefully and value darkness.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "to use it more thoughtfully"
+        },
+        {
+          "paragraphId": "p8",
+          "quote": "a natural resource worth protecting"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "purpose",
+      "text": "What is the purpose of the first sentence of the article?",
+      "options": [
+        "To explain how stars are formed",
+        "To criticise people who lived in the past",
+        "To contrast the past with the situation today",
+        "To give advice on where to watch the stars"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer begins with the starry skies of the past so that the next sentence can show how different the situation is today.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "For most of human history, the night sky was filled with thousands of visible stars."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What does paragraph 4 suggest about becoming a dark-sky place?",
+      "options": [
+        "It means banning all lighting after dark.",
+        "It is only possible for towns near the coast.",
+        "It mainly interests professional scientists.",
+        "It can bring economic benefits to a community."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Dark-sky places can attract visitors, which suggests that protecting darkness can also help the local economy.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "which can attract visitors eager to experience a truly starry sky"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 6, why is much of the light produced at night wasted?",
+      "options": [
+        "It shines into the sky or into homes instead of onto streets and paths.",
+        "Lamps are switched on too early in the evening.",
+        "Old lamps break down too often.",
+        "Most streets have no pedestrians at night."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer says the light goes upwards or sideways rather than where it is needed.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "shining upwards into the sky or sideways into bedrooms rather than onto the streets and paths where it is needed"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"unfounded\" is closest in meaning to:",
+      "options": [
+        "widely shared",
+        "difficult to explain",
+        "officially recorded",
+        "not supported by evidence"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The fears about crime and accidents \"turned out to be unfounded\", meaning there was no good reason for them.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "have often turned out to be unfounded in these places"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What can be inferred about how residents react when their town reduces street lighting?",
+      "options": [
+        "They usually demand brighter lights within a few weeks.",
+        "They may at first fear that their area will become less safe.",
+        "They are not interested in how much lighting costs.",
+        "They prefer to pay for their own security lights."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer mentions fears about crime and accidents and says residents often need to be reassured at first.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "residents are frequently worried at first and need to be reassured"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, why can motion-sensor security lights work better than lights left on all night?",
+      "options": [
+        "They are much brighter than ordinary lights.",
+        "They are required by law in many areas.",
+        "A light that comes on suddenly is more likely to be noticed.",
+        "They do not need any electricity."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer explains that a sudden light attracts more attention than one that is always on.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "since a sudden light is more likely to attract attention"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer mention screens in paragraph 7?",
+      "options": [
+        "To argue that screens cause more light pollution than streetlights",
+        "To suggest that people should stop using phones altogether",
+        "To explain how motion sensors work",
+        "To connect the advice about lighting with the effect of light on sleep"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The point about screens before bed links back to the earlier discussion of light and sleep in paragraph 3.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "reducing the use of bright screens in the hour before bed may also help people to fall asleep more easily"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What does the writer imply by saying that \"habits like these can be surprisingly hard to change\"?",
+      "options": [
+        "Knowing that something is good for us does not mean we will find it easy to do.",
+        "Screens have no real effect on sleep.",
+        "Most people already avoid screens before bed.",
+        "Only children find it difficult to change their habits."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The writer suggests that, even though the advice is simple, people may struggle to follow it.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "although habits like these can be surprisingly hard to change"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "Why might a child who grows up in a large city not see light pollution as a problem?",
+      "options": [
+        "The child is taught at school that bright lights are healthy.",
+        "The child has never experienced a truly dark sky to compare it with.",
+        "City skies are actually darker than skies in the countryside.",
+        "The child has never seen an orange glow above the rooftops."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Without having seen a dark sky, the child has nothing to compare the bright city sky with.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "may never have seen a truly dark sky"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "Which of the following is mentioned in paragraph 8 as a way of educating people about darkness?",
+      "options": [
+        "Television documentaries",
+        "Higher electricity prices",
+        "Night walks in protected areas",
+        "New laws against outdoor lighting"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 8 lists star-watching events, school projects and night walks in protected areas.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Star-watching events, school projects and night walks in protected areas"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the phrase \"took for granted\" suggests that our ancestors:",
+      "options": [
+        "studied the stars very carefully",
+        "expected the stars to be there without thinking about it",
+        "were afraid of the stars",
+        "tried hard to protect the stars"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "To take something for granted is to accept it as normal without realising its value.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the stars that our ancestors took for granted"
+        }
+      ]
+    }
+  ]
+}

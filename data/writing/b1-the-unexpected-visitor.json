@@ -1,0 +1,319 @@
+{
+  "id": "w-the-unexpected-visitor",
+  "title": "The Unexpected Visitor",
+  "level": "B1 · Intermediate",
+  "description": "Practise the past continuous and past simple, then write a story about a surprising visitor.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct answer.",
+      "text": "I ___ my homework when somebody knocked on the door.",
+      "options": [
+        "did",
+        "was doing",
+        "have done",
+        "am doing"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use the past continuous for a longer action in progress and the past simple for the short action that interrupts it."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past continuous",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "It ___ (rain) heavily, so the street was empty.",
+      "answers": [
+        "was raining"
+      ],
+      "points": 1,
+      "explanation": "Use the past continuous (was/were + -ing) to describe the background of a story."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Relative clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "was",
+        "the man",
+        "completely",
+        "who",
+        "wet",
+        "at the door",
+        "stood"
+      ],
+      "answers": [
+        "The man who stood at the door was completely wet."
+      ],
+      "points": 1,
+      "explanation": "A relative clause with \"who\" comes straight after the person it describes: the man who stood at the door."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "He opened his bag and taked out an old photograph.",
+      "answers": [
+        "He opened his bag and took out an old photograph."
+      ],
+      "points": 1,
+      "explanation": "\"Take\" is irregular. Its past simple form is \"took\", not \"taked\"."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "___ I didn't know him, he seemed strangely familiar.",
+      "options": [
+        "However",
+        "In addition",
+        "Although",
+        "As a result"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Although\" joins two contrasting ideas in one sentence: Although I didn't know him, he seemed familiar."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Past simple",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "When I opened the door, a tall man ___ (smile) at me.",
+      "answers": [
+        "smiled"
+      ],
+      "points": 1,
+      "explanation": "Use the past simple for a series of completed actions in a story: I opened, he smiled."
+    },
+    {
+      "id": "e7",
+      "type": "error-correction",
+      "focus": "Past continuous",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "While we were talk, the lights suddenly went out.",
+      "answers": [
+        "While we were talking, the lights suddenly went out."
+      ],
+      "points": 1,
+      "explanation": "The past continuous is was/were + the -ing form: we were talking."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Past continuous with while",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word WHILE. Begin: \"The doorbell rang ...\"",
+      "text": "I was cooking dinner. The doorbell rang.",
+      "keyword": "WHILE",
+      "answers": [
+        "The doorbell rang while I was cooking dinner.",
+        "While I was cooking dinner, the doorbell rang."
+      ],
+      "points": 1,
+      "explanation": "\"While\" introduces the longer action in the past continuous: The doorbell rang while I was cooking dinner."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Used to",
+      "prompt": "Choose the correct answer.",
+      "text": "The man said he ___ live in our house many years ago.",
+      "options": [
+        "used to",
+        "was used to",
+        "use to",
+        "is used to"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"used to + infinitive\" for a past situation that is not true now."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation: -ment",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "To my ___ (amaze), he knew my name.",
+      "answers": [
+        "amazement"
+      ],
+      "points": 1,
+      "explanation": "After \"my\" we need a noun. Add -ment to make a noun: amaze - amazement."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Phrasal verbs: turn out",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "uncle",
+        "turned",
+        "he",
+        "that",
+        "it",
+        "was",
+        "out",
+        "my"
+      ],
+      "answers": [
+        "It turned out that he was my uncle."
+      ],
+      "points": 1,
+      "explanation": "\"It turned out that ...\" means we discovered something surprising later."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "He looked more old than my grandfather.",
+      "answers": [
+        "He looked older than my grandfather."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives take -er in the comparative: old - older."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Relative clauses: whose",
+      "prompt": "Choose the correct answer.",
+      "text": "He showed me a photo of a girl ___ face looked just like mine.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"whose\" + noun to show possession: a girl whose face (= her face)."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Past obligation: had to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word HAD. Begin: \"He ...\"",
+      "text": "It was necessary for him to leave before midnight.",
+      "keyword": "HAD",
+      "answers": [
+        "He had to leave before midnight."
+      ],
+      "points": 1,
+      "explanation": "Use \"had to + infinitive\" for something that was necessary in the past."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Verb + -ing: stop",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "He suddenly stopped ___ (talk) and looked out of the window.",
+      "answers": [
+        "talking"
+      ],
+      "points": 1,
+      "explanation": "\"Stop + -ing\" means an activity ends: he stopped talking."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Present perfect with since",
+      "prompt": "Choose the correct answer.",
+      "text": "I ___ him since that night.",
+      "options": [
+        "didn't see",
+        "haven't seen",
+        "don't see",
+        "wasn't seeing"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use the present perfect with \"since\" for a situation that started in the past and continues now."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Indirect questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "he",
+        "him",
+        "asked",
+        "I",
+        "was",
+        "who"
+      ],
+      "answers": [
+        "I asked him who he was."
+      ],
+      "points": 1,
+      "explanation": "In reported or indirect questions, the word order is like a statement: who he was (not \"who was he\")."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Second conditional",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "If I knew who he was, I will tell you.",
+      "answers": [
+        "If I knew who he was, I would tell you."
+      ],
+      "points": 1,
+      "explanation": "In the second conditional, use \"would\" (not \"will\") with the past simple after \"if\"."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Relative clauses: which",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word WHICH. Begin: \"He gave me a box ...\"",
+      "text": "He gave me a box. It was full of old letters.",
+      "keyword": "WHICH",
+      "answers": [
+        "He gave me a box which was full of old letters."
+      ],
+      "points": 1,
+      "explanation": "Use \"which\" to join two sentences about the same thing: a box which was full of ..."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Too ... to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word TOO. Begin: \"I was ...\"",
+      "text": "I was so frightened that I couldn't say anything.",
+      "keyword": "TOO",
+      "answers": [
+        "I was too frightened to say anything."
+      ],
+      "points": 1,
+      "explanation": "\"So ... that I couldn't\" can be changed to \"too + adjective + to-infinitive\"."
+    }
+  ],
+  "task": {
+    "genre": "Story",
+    "prompt": "Write a story that begins with this sentence: \"It was a cold winter evening when somebody knocked on the door.\"",
+    "contentPoints": [
+      "Begin with the sentence given.",
+      "Describe who the visitor was.",
+      "Explain what the visitor wanted.",
+      "Give the story a surprising or interesting ending."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "It was a cold winter evening when ...",
+      "While I was ...",
+      "Suddenly, ...",
+      "At first, ... but then ...",
+      "In the end, ...",
+      "I couldn't believe ..."
+    ],
+    "modelAnswer": "It was a cold winter evening when somebody knocked on the door. I was watching TV alone because my parents were visiting my aunt.\n\nWhen I opened the door, I saw an old man who was wearing a long brown coat. He was holding an umbrella, but he was completely wet. \"I'm sorry to disturb you,\" he said. \"I lived in this house sixty years ago. May I look at the garden?\"\n\nAt first, I felt nervous. However, he looked kind, so I took him to the back door. He walked to the old apple tree, dug a little with his hands and found a small metal box.\n\nInside, there was a photograph of a young girl. \"My sister,\" he whispered, and his eyes filled with tears. Then he thanked me and disappeared into the rain."
+  }
+}

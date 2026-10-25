@@ -1,0 +1,324 @@
+{
+  "id": "w-improving-the-school-canteen",
+  "title": "Improving the School Canteen",
+  "level": "B2 · Upper-intermediate",
+  "description": "Practise passives, formal linking and wish, then write a proposal for improving your school canteen.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Passive voice",
+      "prompt": "Choose the correct answer.",
+      "text": "At the moment, all meals ___ in the kitchen of another school.",
+      "options": [
+        "are prepared",
+        "prepare",
+        "are preparing",
+        "have prepared"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use the present simple passive (am/is/are + past participle) for current routines when the doer is not the focus."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Passive voice",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "It is recommended that more vegetarian dishes ___ (offer) from next term.",
+      "answers": [
+        "be offered",
+        "should be offered"
+      ],
+      "points": 1,
+      "explanation": "After \"recommend that\" in formal English, use the subjunctive (be offered) or should + passive infinitive (should be offered)."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Linking words",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "popular",
+        "the salad bar",
+        "is",
+        "whereas",
+        "are rarely chosen",
+        "the desserts"
+      ],
+      "answers": [
+        "The salad bar is popular, whereas the desserts are rarely chosen.",
+        "The desserts are rarely chosen, whereas the salad bar is popular."
+      ],
+      "points": 1,
+      "explanation": "\"Whereas\" joins two contrasting facts in one sentence."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Wish / if only",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Many students wish the canteen would be open earlier yesterday.",
+      "answers": [
+        "Many students wish the canteen had been open earlier yesterday."
+      ],
+      "points": 1,
+      "explanation": "For regret about the past (yesterday), use wish + past perfect: wish the canteen had been open."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "The queues are very long. ___, many students eat nothing at lunchtime.",
+      "options": [
+        "Whereas",
+        "Consequently",
+        "Nevertheless",
+        "Although"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Consequently\" shows a result: the long queues cause students to skip lunch."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Participle clauses",
+      "prompt": "Complete the sentence with the correct form of the word in brackets. You may add one linking word.",
+      "text": "___ (ask) about the menu, most students said it was too repetitive.",
+      "answers": [
+        "When asked",
+        "Asked"
+      ],
+      "points": 1,
+      "explanation": "A past participle clause (Asked ... / When asked ...) has a passive meaning: when the students were asked."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Passive voice",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"A new water fountain ___ next month.\"",
+      "text": "The school will install a new water fountain next month.",
+      "keyword": "BE",
+      "answers": [
+        "A new water fountain will be installed next month.",
+        "A new water fountain will be installed by the school next month."
+      ],
+      "points": 1,
+      "explanation": "The future passive is will + be + past participle: will be installed."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Third conditional",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"If so many students had ___ out of food.\"",
+      "text": "The canteen ran out of food because so many students came.",
+      "keyword": "NOT",
+      "answers": [
+        "If so many students had not come, the canteen would not have run out of food.",
+        "If so many students had not come, the canteen wouldn't have run out of food."
+      ],
+      "points": 1,
+      "explanation": "Third conditional: if + past perfect, would (not) have + past participle, for an unreal past situation."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Modals of deduction",
+      "prompt": "Choose the correct answer.",
+      "text": "The chef ___ forgotten to add salt; the soup has no taste at all.",
+      "options": [
+        "can't have",
+        "needn't have",
+        "must have",
+        "should"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Must have + past participle is a confident deduction about the past, based on evidence."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "Students often complain about the lack of ___ (vary) on the menu.",
+      "answers": [
+        "variety"
+      ],
+      "points": 1,
+      "explanation": "The noun formed from vary is variety (a range of different things)."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Causative have",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "repainted",
+        "last summer",
+        "had",
+        "the canteen",
+        "the school"
+      ],
+      "answers": [
+        "The school had the canteen repainted last summer.",
+        "Last summer the school had the canteen repainted.",
+        "The school had repainted the canteen last summer."
+      ],
+      "points": 1,
+      "explanation": "Causative have + object + past participle shows that someone else did the work: had the canteen repainted."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Articles: uncountable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Most students would like to have a healthier food.",
+      "answers": [
+        "Most students would like to have healthier food.",
+        "Most students would like to have some healthier food."
+      ],
+      "points": 1,
+      "explanation": "Food is uncountable here, so it cannot take a/an."
+    },
+    {
+      "id": "e13",
+      "type": "transformation",
+      "focus": "Needn't have",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"We ___ packed lunches.\"",
+      "text": "It wasn't necessary for us to bring packed lunches, but we did.",
+      "keyword": "NEEDN'T",
+      "answers": [
+        "We needn't have brought packed lunches."
+      ],
+      "points": 1,
+      "explanation": "Needn't have + past participle means you did something, but it was not necessary."
+    },
+    {
+      "id": "e14",
+      "type": "choice",
+      "focus": "Formal linking: on the other hand",
+      "prompt": "Choose the correct answer.",
+      "text": "The new menu is healthier. ___, it is more expensive.",
+      "options": [
+        "Whereas",
+        "Therefore",
+        "In spite of",
+        "On the other hand"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "On the other hand starts a new sentence and introduces a contrasting point."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Reported speech (past perfect)",
+      "prompt": "Complete the sentence with the correct form of the word in brackets.",
+      "text": "The cook explained that the oven ___ (break) down the previous day.",
+      "answers": [
+        "had broken"
+      ],
+      "points": 1,
+      "explanation": "In reported speech, an earlier past action moves back to the past perfect: had broken."
+    },
+    {
+      "id": "e16",
+      "type": "word-order",
+      "focus": "Would rather",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "than",
+        "eat",
+        "most students",
+        "in the canteen",
+        "would",
+        "outside",
+        "rather"
+      ],
+      "answers": [
+        "Most students would rather eat outside than in the canteen.",
+        "Most students would rather eat in the canteen than outside."
+      ],
+      "points": 1,
+      "explanation": "Would rather + infinitive without to ... than expresses a preference."
+    },
+    {
+      "id": "e17",
+      "type": "error-correction",
+      "focus": "So / such",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The queue was such long that we missed the start of the lesson.",
+      "answers": [
+        "The queue was so long that we missed the start of the lesson."
+      ],
+      "points": 1,
+      "explanation": "Use so before an adjective on its own (so long); use such before a noun phrase (such a long queue)."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Too / enough",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The canteen ___ to seat all the students.\"",
+      "text": "The canteen is so small that it can't seat all the students.",
+      "keyword": "ENOUGH",
+      "answers": [
+        "The canteen is not big enough to seat all the students.",
+        "The canteen is not large enough to seat all the students."
+      ],
+      "points": 1,
+      "explanation": "Not + adjective + enough + to-infinitive means something lacks the necessary quality."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Subject-verb agreement",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "There didn't use to be any vegetarian options, but now there is several.",
+      "answers": [
+        "There didn't use to be any vegetarian options, but now there are several."
+      ],
+      "points": 1,
+      "explanation": "With there + be, the verb agrees with the noun that follows: there are several (options)."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Causative have",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word given and do not change it. Use between two and five words, including the word given. Second sentence: \"The school ___ every morning.\"",
+      "text": "A catering company delivers the school's meals every morning.",
+      "keyword": "HAS",
+      "answers": [
+        "The school has its meals delivered every morning.",
+        "The school has its meals delivered by a catering company every morning.",
+        "The school has the meals delivered every morning.",
+        "The school has its meals delivered by the catering company every morning."
+      ],
+      "points": 1,
+      "explanation": "Causative have + object + past participle shows that a service is done by someone else."
+    }
+  ],
+  "task": {
+    "genre": "Proposal",
+    "prompt": "Your head teacher wants to improve the school canteen and has asked students for proposals. Write a proposal for the head teacher.",
+    "contentPoints": [
+      "Describe the current situation in the canteen.",
+      "Explain the main problems students have mentioned.",
+      "Make at least two practical recommendations.",
+      "Explain how the changes would benefit students."
+    ],
+    "minWords": 180,
+    "maxWords": 220,
+    "usefulLanguage": [
+      "The aim of this proposal is to ...",
+      "At present, ...",
+      "It is recommended that ...",
+      "This would result in ...",
+      "In conclusion, ..."
+    ],
+    "modelAnswer": "Introduction\n\nThe aim of this proposal is to suggest ways of improving the school canteen. It is based on a survey of 120 students which was carried out last month.\n\nCurrent situation\n\nAt present, the canteen serves around 400 meals every day between 12.30 and 1.15. Most dishes are prepared in advance and reheated, and the menu changes only once a month.\n\nMain problems\n\nWhen asked about the canteen, most students complained about the long queues. Many of them said that they had sometimes missed lunch altogether because the break was too short. In addition, the food is considered unhealthy and repetitive, whereas students would like more fresh and vegetarian options.\n\nRecommendations\n\nFirstly, it is recommended that lunch be served in two shifts, so that younger and older students eat at different times. Secondly, a salad bar should be introduced, and the menu should be changed every week. Finally, a suggestion box could be placed near the entrance.\n\nConclusion\n\nIf these changes were made, queues would become shorter and students would eat more healthily. Consequently, they would feel more energetic in afternoon lessons. I strongly believe that the proposal would benefit the whole school community."
+  }
+}

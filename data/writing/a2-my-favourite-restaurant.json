@@ -1,0 +1,317 @@
+{
+  "id": "w-my-favourite-restaurant",
+  "title": "My Favourite Restaurant",
+  "level": "A2 · Elementary",
+  "description": "Practise superlatives, comparatives and adverbs of frequency, then describe your favourite restaurant.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Superlatives",
+      "prompt": "Choose the correct answer.",
+      "text": "It is the ___ restaurant in my town.",
+      "options": [
+        "cheaper",
+        "most cheap",
+        "cheapest",
+        "cheap"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "With \"the\" and \"in my town\" we need the superlative. Short adjectives add -est: cheap - the cheapest."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Prepositions of place",
+      "prompt": "Complete the sentence with one word.",
+      "text": "The restaurant is ___ to the cinema.",
+      "answers": [
+        "next"
+      ],
+      "points": 1,
+      "explanation": "\"Next to\" means beside: the restaurant is next to the cinema."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Adverbs of frequency",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "often",
+        "noodles",
+        "order",
+        "I",
+        "chicken"
+      ],
+      "answers": [
+        "I often order chicken noodles."
+      ],
+      "points": 1,
+      "explanation": "Adverbs of frequency go before the main verb: I often order ..."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Adverbs of frequency",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We go there usually on Friday evenings.",
+      "answers": [
+        "We usually go there on Friday evenings."
+      ],
+      "points": 1,
+      "explanation": "Adverbs of frequency go before the main verb, not after it: we usually go."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Comparatives",
+      "prompt": "Choose the correct answer.",
+      "text": "Their pizza is ___ than the pizza at other places.",
+      "options": [
+        "good",
+        "better",
+        "best",
+        "more good"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Good\" has an irregular comparative: good - better - best."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Linking words: so",
+      "prompt": "Complete the sentence with \"so\" or \"because\".",
+      "text": "The waiters are very friendly, ___ I like going there.",
+      "answers": [
+        "so"
+      ],
+      "points": 1,
+      "explanation": "\"So\" introduces a result: the waiters are friendly, so I like going there."
+    },
+    {
+      "id": "e7",
+      "type": "error-correction",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Last week I eat a big bowl of soup there.",
+      "answers": [
+        "Last week I ate a big bowl of soup there."
+      ],
+      "points": 1,
+      "explanation": "\"Last week\" needs the past simple. \"Eat\" is irregular: eat - ate."
+    },
+    {
+      "id": "e8",
+      "type": "choice",
+      "focus": "How much",
+      "prompt": "Choose the correct answer.",
+      "text": "How ___ does a bowl of pho cost?",
+      "options": [
+        "much",
+        "many",
+        "money",
+        "price"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We ask about prices with \"How much...?\": How much does it cost?"
+    },
+    {
+      "id": "e9",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "Last Saturday my dad ___ (pay) for everyone's dinner.",
+      "answers": [
+        "paid"
+      ],
+      "points": 1,
+      "explanation": "\"Pay\" is irregular: pay - paid (not \"payed\")."
+    },
+    {
+      "id": "e10",
+      "type": "word-order",
+      "focus": "Past simple: questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "order",
+        "what",
+        "you",
+        "did"
+      ],
+      "answers": [
+        "What did you order?"
+      ],
+      "points": 1,
+      "explanation": "Question word + did + subject + base verb: What did you order?"
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Countable and uncountable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The waiter gave us some rices.",
+      "answers": [
+        "The waiter gave us some rice."
+      ],
+      "points": 1,
+      "explanation": "\"Rice\" is uncountable, so it has no plural -s: some rice."
+    },
+    {
+      "id": "e12",
+      "type": "choice",
+      "focus": "Some / any",
+      "prompt": "Choose the correct answer.",
+      "text": "Would you like ___ more tea?",
+      "options": [
+        "any",
+        "many",
+        "a",
+        "some"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We use \"some\" in offers with \"Would you like...?\": Would you like some tea?"
+    },
+    {
+      "id": "e13",
+      "type": "gap-fill",
+      "focus": "Prepositions of time: on",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "The restaurant is closed ___ Mondays.",
+      "answers": [
+        "on"
+      ],
+      "points": 1,
+      "explanation": "We use \"on\" with days of the week: on Mondays, on Friday evening."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Will for predictions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "it",
+        "love",
+        "will",
+        "you"
+      ],
+      "answers": [
+        "You will love it.",
+        "Will you love it?"
+      ],
+      "points": 1,
+      "explanation": "Subject + will + base verb for a prediction: You will love it."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Past continuous",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "When we arrived, the waiter were cleaning our table.",
+      "answers": [
+        "When we arrived, the waiter was cleaning our table."
+      ],
+      "points": 1,
+      "explanation": "In the past continuous we use \"was\" with a singular subject: the waiter was cleaning."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Past continuous",
+      "prompt": "Choose the correct answer.",
+      "text": "We ___ our dinner when the lights went out.",
+      "options": [
+        "were eating",
+        "was eating",
+        "are eating",
+        "eat"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "We use the past continuous for an action in progress when something else happened. With \"we\" we use \"were\"."
+    },
+    {
+      "id": "e17",
+      "type": "gap-fill",
+      "focus": "Much / many",
+      "prompt": "Complete the sentence with \"much\" or \"many\".",
+      "text": "The cook doesn't put ___ salt in the food.",
+      "answers": [
+        "much"
+      ],
+      "points": 1,
+      "explanation": "\"Salt\" is uncountable, so we use \"much\" in negative sentences."
+    },
+    {
+      "id": "e18",
+      "type": "word-order",
+      "focus": "Linking words: but",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "delicious",
+        "the service is",
+        "but",
+        "the food is",
+        "slow"
+      ],
+      "answers": [
+        "The food is delicious, but the service is slow.",
+        "The service is slow, but the food is delicious."
+      ],
+      "points": 1,
+      "explanation": "\"But\" joins two contrasting ideas: The food is delicious, but the service is slow."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Will for offers",
+      "prompt": "Choose the correct answer.",
+      "text": "Waiter: Please sit down. I ___ bring you the menu.",
+      "options": [
+        "am",
+        "going",
+        "bring",
+        "will"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We use \"will\" + base verb to offer to do something: I will bring you the menu."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Going to for plans",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We are going to celebrating my birthday there.",
+      "answers": [
+        "We are going to celebrate my birthday there."
+      ],
+      "points": 1,
+      "explanation": "After \"going to\" we use the base verb: going to celebrate."
+    }
+  ],
+  "task": {
+    "genre": "Description",
+    "prompt": "Describe your favourite restaurant or cafe.",
+    "contentPoints": [
+      "Say the name of the restaurant and where it is.",
+      "Describe what it looks like.",
+      "Say what food it serves and what you usually order.",
+      "Say why you like it and how often you go there."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "My favourite restaurant is ...",
+      "It is next to/near ...",
+      "It serves ...",
+      "I usually order ...",
+      "It is the best ... in town."
+    ],
+    "modelAnswer": "My favourite restaurant is Mai's Kitchen. It is in the city centre, next to the cinema. It is small, but it has big windows and lots of green plants. It serves noodle soups, rice dishes and fresh fruit juices. I usually order chicken noodles because they are the best in town. The waiters are very friendly, so we often go there on Friday evenings."
+  }
+}

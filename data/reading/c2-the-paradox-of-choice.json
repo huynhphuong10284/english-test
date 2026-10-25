@@ -1,0 +1,463 @@
+{
+  "id": "the-paradox-of-choice",
+  "title": "The Paradox of Choice Revisited",
+  "level": "C2 · Proficiency",
+  "description": "An essay examining the claim that more choice makes people less satisfied, and the critiques it has attracted.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Few assumptions are as deeply embedded in liberal market societies as the notion that choice is an unalloyed good. To widen the range of options available to consumers, citizens or patients is, on this view, to enlarge their freedom, and enlarged freedom can only enhance well-being. It was precisely this assumption that a body of research in the late 1990s and early 2000s set out to unsettle, advancing the deceptively simple proposition that, beyond a certain point, additional options may leave people not freer but more anxious, more indecisive and, ultimately, less content."
+    },
+    {
+      "id": "p2",
+      "text": "The study most frequently cited in support of this proposition involved a tasting table of gourmet jams in an upmarket supermarket. When shoppers were offered twenty-four varieties, more of them stopped to sample; yet when the display was reduced to six, a markedly higher proportion went on to make a purchase. The finding was seized upon with an enthusiasm that its modest scale scarcely warranted, migrating rapidly from academic journals into management handbooks, policy briefings and popular science bestsellers, where it acquired the aura of an established law of human behaviour."
+    },
+    {
+      "id": "p3",
+      "text": "Proponents of what came to be called choice overload proposed several mechanisms to account for the effect. An expansive array of options, they argued, raises the cognitive cost of comparison, so that deciding becomes a burden rather than a pleasure. It also inflates expectations: confronted with dozens of alternatives, people come to believe that a perfect option must exist, and are correspondingly disappointed by whatever they select. Most insidiously, abundant choice is said to amplify regret, since every forgone alternative becomes a reproach, and responsibility for an unsatisfying outcome rests squarely with the chooser rather than with circumstance."
+    },
+    {
+      "id": "p4",
+      "text": "Yet the edifice has proved less robust than its popularity might suggest. Attempts to replicate the original findings have yielded strikingly inconsistent results, and a widely discussed meta-analysis pooling dozens of experiments concluded that the average effect of choice overload was, to all intents and purposes, negligible. This is not to say that the phenomenon is illusory; rather, it appears to materialise only under particular conditions, as when options are difficult to compare, when the chooser lacks clear preferences or relevant expertise, or when the decision must be made under pressure of time."
+    },
+    {
+      "id": "p5",
+      "text": "Other critics have questioned the theory on more fundamental grounds. Economists point out that markets offering many options also allow individuals with idiosyncratic tastes to find precisely what suits them, a benefit that laboratory studies, which typically measure momentary satisfaction, may fail to capture. Cultural psychologists, for their part, have observed that much of the original research was conducted with affluent Western participants, for whom choice is closely bound up with self-expression; whether the same dynamics obtain in societies where decisions are more often made collectively remains far from settled."
+    },
+    {
+      "id": "p6",
+      "text": "What survives this scrutiny is perhaps a more modest, and arguably more useful, insight. The question is less whether choice is good or bad in the abstract than how it is structured. Well-designed defaults, sensible categorisation and tools that help people articulate their own priorities can allow individuals to enjoy the benefits of variety without being overwhelmed by it. To abandon the paradox of choice altogether would be as hasty as its original, uncritical embrace."
+    },
+    {
+      "id": "p7",
+      "text": "Some of the most suggestive work in this area concerns not the number of options but the disposition of the chooser. Drawing on the economist Herbert Simon's notion of satisficing, the psychologist Barry Schwartz distinguished between maximisers, who seek the best possible option and feel compelled to examine alternatives exhaustively, and satisficers, who settle for an option that meets their criteria of adequacy. One study of graduates seeking employment reported that maximisers secured somewhat better-paid positions yet felt less satisfied with them, and more anxious during the search, than their satisficing peers. If such findings hold, they suggest that the costs of abundant choice may fall disproportionately on those temperamentally inclined to treat every decision as an optimisation problem, and that the remedy may lie partly in the chooser rather than in the menu."
+    },
+    {
+      "id": "p8",
+      "text": "The policy implications have been pursued most energetically by advocates of what the economist Richard Thaler and the legal scholar Cass Sunstein termed choice architecture. Since the way options are presented inevitably influences what people choose, they argue, designers might as well arrange them to favour outcomes that people would endorse on reflection, for instance by enrolling employees in pension schemes automatically while leaving them free to opt out. Evidence suggests that such defaults can markedly increase participation. Critics, however, detect in this approach a paternalism that sits uneasily with its professed respect for liberty, and ask who is to decide which outcomes people would endorse. The reply that some architecture is unavoidable, and that a neutral presentation is a chimera, has some force, but it does not by itself settle whose purposes the architecture should serve."
+    },
+    {
+      "id": "p9",
+      "text": "Underlying these debates is a question about the meaning of freedom itself. If freedom were simply a matter of the number of options formally available, then any reduction in choice would represent a loss, and the architect's hand would always be an intrusion. But freedom may equally be understood as the capacity to pursue one's own ends effectively, a capacity that can be impaired by confusion and exhaustion as well as by constraint. On this second understanding, the structuring of choice need not diminish liberty and may, in favourable circumstances, enhance it. Which understanding one adopts will shape not only how one interprets the research but what one thinks ought to be done about it."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which of the following best captures the writer's overall position?",
+      "options": [
+        "Choice overload has been decisively disproved and should be discarded.",
+        "Choice overload is a universal law of behaviour that applies in every culture.",
+        "Choice overload is real but conditional, and the key issue is how choices are structured.",
+        "Markets should restrict the number of options available to consumers."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer rejects both the uncritical embrace and the outright dismissal, concluding that the effect depends on conditions and on how choice is structured.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "it appears to materialise only under particular conditions"
+        },
+        {
+          "paragraphId": "p6",
+          "quote": "The question is less whether choice is good or bad in the abstract than how it is structured."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "What happened in the jam study when the display was reduced to six varieties?",
+      "options": [
+        "A higher proportion of shoppers made a purchase.",
+        "More shoppers stopped to sample the jams.",
+        "Shoppers reported greater regret about their purchases.",
+        "Sales of the jams remained unchanged."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "With six varieties, a markedly higher proportion went on to buy; more people sampled with twenty-four.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "when the display was reduced to six, a markedly higher proportion went on to make a purchase"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "What does the writer imply about the reception of the jam study?",
+      "options": [
+        "It was unfairly ignored by policymakers.",
+        "Its influence outstripped the strength of the evidence it provided.",
+        "It was rejected by academic journals before becoming popular.",
+        "It was the largest study ever conducted on consumer behaviour."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The phrase 'an enthusiasm that its modest scale scarcely warranted' signals that the study was over-interpreted.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The finding was seized upon with an enthusiasm that its modest scale scarcely warranted"
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "where it acquired the aura of an established law of human behaviour"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "According to proponents, why might abundant choice increase regret?",
+      "options": [
+        "Because people are forced to choose quickly.",
+        "Because more options make prices higher.",
+        "Because experts make decisions on people's behalf.",
+        "Because rejected alternatives become a source of self-reproach and responsibility falls on the chooser."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Each forgone alternative becomes a reproach, and the chooser, not circumstance, is responsible.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "every forgone alternative becomes a reproach, and responsibility for an unsatisfying outcome rests squarely with the chooser rather than with circumstance"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"edifice\" most nearly refers to",
+      "options": [
+        "the supermarket in which the jam study took place",
+        "the elaborate body of theory built around choice overload",
+        "the meta-analysis that pooled many experiments",
+        "the economic system of liberal market societies"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "'Edifice' is used metaphorically for the theoretical structure that had been built up around choice overload.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Yet the edifice has proved less robust than its popularity might suggest."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Which condition is NOT mentioned as one under which choice overload may appear?",
+      "options": [
+        "When options are hard to compare.",
+        "When the chooser lacks expertise.",
+        "When the options are all very expensive.",
+        "When the decision is made under time pressure."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 4 lists difficulty of comparison, lack of preferences or expertise, and time pressure; price is not mentioned.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "as when options are difficult to compare, when the chooser lacks clear preferences or relevant expertise, or when the decision must be made under pressure of time"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "What is the purpose of the reference to cultural psychologists in paragraph 5?",
+      "options": [
+        "To question whether findings from affluent Western samples can be generalised to other societies.",
+        "To demonstrate that choice overload is stronger in collectivist societies.",
+        "To argue that Western participants are poor at making decisions.",
+        "To confirm that the original research was methodologically flawless."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The point concerns the limited generalisability of the research; the writer says the matter 'remains far from settled', not that the effect is stronger elsewhere.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "much of the original research was conducted with affluent Western participants"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "remains far from settled"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "Which limitation of laboratory studies do economists' objections imply?",
+      "options": [
+        "They overstate the benefits of variety.",
+        "They use too many participants with idiosyncratic tastes.",
+        "They measure long-term satisfaction too precisely.",
+        "They may miss the longer-term benefit of finding an option that truly fits one's preferences."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "By measuring only momentary satisfaction, lab studies may overlook the value of finding a well-matched option.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "a benefit that laboratory studies, which typically measure momentary satisfaction, may fail to capture"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "purpose",
+      "text": "Why does the writer end with the sentence \"To abandon the paradox of choice altogether would be as hasty as its original, uncritical embrace\"?",
+      "options": [
+        "To urge readers to return to the original theory without reservation.",
+        "To caution against overcorrecting in response to the theory's weaknesses.",
+        "To suggest that the meta-analysis was conducted too hastily.",
+        "To dismiss the critiques presented in paragraph 5."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The sentence balances the essay: having criticised the theory, the writer warns against swinging to total rejection.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "To abandon the paradox of choice altogether would be as hasty as its original, uncritical embrace."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 7, how did Schwartz characterise maximisers?",
+      "options": [
+        "They seek the best possible option and feel compelled to examine alternatives exhaustively.",
+        "They settle for an option that meets their criteria of adequacy.",
+        "They avoid making decisions whenever possible.",
+        "They always choose the most expensive option available."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Maximisers seek the best and examine alternatives exhaustively; settling for adequacy describes satisficers.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "maximisers, who seek the best possible option and feel compelled to examine alternatives exhaustively"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What can be inferred from the study of graduates seeking employment?",
+      "options": [
+        "Maximisers were worse off than satisficers in every respect.",
+        "Satisficers secured better-paid positions than maximisers.",
+        "Objectively better outcomes do not necessarily bring greater satisfaction.",
+        "Salary is the only meaningful measure of a successful job search."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Maximisers obtained somewhat better-paid jobs yet felt less satisfied, so better outcomes did not mean greater contentment.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "maximisers secured somewhat better-paid positions yet felt less satisfied with them"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What does the writer suggest about where a remedy for the costs of abundant choice might be found?",
+      "options": [
+        "Entirely in reducing the number of options on offer.",
+        "In discouraging people from searching for jobs.",
+        "In replacing human choosers with automated systems.",
+        "Partly in the disposition of the chooser, not only in the range of options."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer says, with hedging, that 'the remedy may lie partly in the chooser rather than in the menu'.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the remedy may lie partly in the chooser rather than in the menu"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"temperamentally\" is closest in meaning to",
+      "options": [
+        "by natural disposition",
+        "for a short time",
+        "in an angry manner",
+        "as a result of training"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Those temperamentally inclined to maximise are disposed to do so by their character.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "those temperamentally inclined to treat every decision as an optimisation problem"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "Which example of choice architecture is given in paragraph 8?",
+      "options": [
+        "Limiting supermarket displays to six varieties of jam.",
+        "Prohibiting employees from joining certain pension schemes.",
+        "Enrolling employees in pension schemes automatically while leaving them free to opt out.",
+        "Requiring employees to choose from a long list of pension options."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Automatic enrolment with the freedom to opt out is the example given.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "enrolling employees in pension schemes automatically while leaving them free to opt out"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What underlies the critics' objection to choice architecture?",
+      "options": [
+        "The belief that defaults have no effect on behaviour.",
+        "Doubt about whether it is legitimate for designers to decide which outcomes people would endorse.",
+        "The view that it gives people too much freedom.",
+        "Concern that it is too expensive to implement."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Critics see paternalism and ask who decides what people would endorse. The first option contradicts the evidence on participation.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "ask who is to decide which outcomes people would endorse"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"chimera\" in \"a neutral presentation is a chimera\" is closest in meaning to",
+      "options": [
+        "a dangerous creature",
+        "a necessary evil",
+        "a compromise solution",
+        "an illusion"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Calling neutral presentation a chimera means it is an illusion that cannot really exist.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "a neutral presentation is a chimera"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "How does the writer evaluate the reply that some choice architecture is unavoidable?",
+      "options": [
+        "It has some force but does not settle whose purposes the architecture should serve.",
+        "It conclusively answers the critics' objection.",
+        "It is entirely without merit.",
+        "It is irrelevant to the debate about paternalism."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer grants the reply 'some force' but says it does not by itself settle the key question.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "has some force, but it does not by itself settle whose purposes the architecture should serve"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 9, the word \"impaired\" is closest in meaning to",
+      "options": [
+        "improved",
+        "measured",
+        "weakened",
+        "replaced"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A capacity impaired by confusion and exhaustion is weakened or damaged by them.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "a capacity that can be impaired by confusion and exhaustion as well as by constraint"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer contrast two understandings of freedom in paragraph 9?",
+      "options": [
+        "To prove that freedom is ultimately an illusion.",
+        "To show that more options always mean greater freedom.",
+        "To argue that choice architects should decide what people want.",
+        "To show that how freedom is understood determines whether structuring choice counts as a loss of liberty."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "On the first view structuring choice is an intrusion; on the second it may enhance liberty.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "On this second understanding, the structuring of choice need not diminish liberty"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 7 to 9?",
+      "options": [
+        "Research has shown that choice overload does not exist.",
+        "The effects of choice depend on the chooser and on how options are structured, and judgements about intervening depend on how freedom is understood.",
+        "Governments should restrict the number of choices available to citizens.",
+        "Maximisers are generally happier than satisficers."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraphs cover chooser disposition, choice architecture and competing conceptions of freedom.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "concerns not the number of options but the disposition of the chooser"
+        },
+        {
+          "paragraphId": "p9",
+          "quote": "Which understanding one adopts will shape not only how one interprets the research but what one thinks ought to be done about it."
+        }
+      ]
+    }
+  ]
+}

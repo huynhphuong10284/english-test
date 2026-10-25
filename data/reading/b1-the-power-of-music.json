@@ -1,0 +1,447 @@
+{
+  "id": "the-power-of-music",
+  "title": "The Power of Music",
+  "level": "B1 · Intermediate",
+  "description": "How music affects our mood, our bodies and our ability to learn.",
+  "instructions": "Read the passage about music, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Music is found in every human culture, from ancient tribes to modern cities. People sing at weddings, play songs at parties and listen to music while they travel or exercise. Scientists have become increasingly interested in why music is so important to us. Their research suggests that music affects our bodies and minds in surprising ways."
+    },
+    {
+      "id": "p2",
+      "text": "One of the clearest effects of music is on our mood. A cheerful song can make us feel more energetic, while a slow, gentle melody can help us relax after a difficult day. When we listen to music we enjoy, the brain releases chemicals that make us feel good. This is one reason why many people reach for their headphones when they feel sad or anxious."
+    },
+    {
+      "id": "p3",
+      "text": "Music can also help with physical activity. Runners and cyclists often find that a song with a strong beat helps them keep a steady pace. Some studies suggest that people feel less tired when they exercise to music, even if they are working just as hard. In hospitals, music is sometimes used to calm patients before an operation or to help them recover."
+    },
+    {
+      "id": "p4",
+      "text": "Learning to play an instrument may bring further benefits. Children who take music lessons have to practise patience, listen carefully and remember long patterns of notes. Some researchers believe these skills can support learning in other subjects, although the evidence is not yet certain. What is clear is that music brings people together, whether they are singing in a choir or dancing at a concert."
+    },
+    {
+      "id": "p5",
+      "text": "Music is also closely connected to memory. Hearing a song from our teenage years can suddenly bring back the place we were, the people we were with and even how we felt at the time. Some care homes use this power to help elderly people with memory problems. Even when they struggle to recognise members of their own family, many of them can still sing along to songs they learned when they were young. For a few minutes, the music seems to wake up parts of the mind that were thought to be lost."
+    },
+    {
+      "id": "p6",
+      "text": "Many people like to listen to music while they work or study, but its effect seems to depend on the person and the task. For simple, repetitive jobs, music can make the time pass more quickly and keep people motivated. For tasks that need careful thought, such as reading a difficult text, songs with words may be distracting, because the brain tries to follow the lyrics as well. For this reason, some students prefer music without singing, while others need complete silence to concentrate."
+    },
+    {
+      "id": "p7",
+      "text": "Finally, technology has changed the way we listen. In the past, people bought records or waited for their favourite song to come on the radio. Today, streaming services offer millions of songs on a phone, often for a small monthly fee. Some critics worry that, with so much choice, we now treat music as background noise and rarely listen with full attention. Yet concerts and festivals remain as popular as ever, which suggests that people still value the experience of sharing music in the same place at the same time."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the passage?",
+      "options": [
+        "Music has many positive effects on people's minds and bodies.",
+        "Music lessons are the best way to improve school results.",
+        "Scientists do not understand why people like music.",
+        "Only some cultures enjoy music."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The passage describes the effects of music on mood, exercise, health and learning.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "Their research suggests that music affects our bodies and minds in surprising ways."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, what happens in the brain when we listen to music we enjoy?",
+      "options": [
+        "It stops working for a short time.",
+        "It forgets sad memories.",
+        "It releases chemicals that make us feel good.",
+        "It becomes more tired."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 2 says the brain releases chemicals that make us feel good.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "the brain releases chemicals that make us feel good"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"steady\" is closest in meaning to:",
+      "options": [
+        "fast",
+        "regular and even",
+        "difficult",
+        "changing"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A steady pace is one that stays the same, regular and even.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "helps them keep a steady pace"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can we infer from paragraph 3 about exercising to music?",
+      "options": [
+        "It makes people work less hard.",
+        "It is only useful for professional athletes.",
+        "It is not allowed in hospitals.",
+        "It can make exercise feel easier."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "People feel less tired even though they work just as hard, so the exercise feels easier.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "people feel less tired when they exercise to music, even if they are working just as hard"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention hospitals in paragraph 3?",
+      "options": [
+        "To criticise how doctors treat patients",
+        "To give another example of music helping the body",
+        "To explain how operations are performed",
+        "To advertise a new type of medicine"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Hospitals are a further example of music having a physical benefit: calming patients and helping them recover.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "In hospitals, music is sometimes used to calm patients before an operation or to help them recover."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "What is the writer's attitude to the idea that music lessons improve learning in other subjects?",
+      "options": [
+        "The writer is completely sure it is true.",
+        "The writer thinks it is a silly idea.",
+        "The writer says it has been proved wrong.",
+        "The writer is careful because the evidence is not yet certain."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer says only that some researchers believe it, and that the evidence is not yet certain.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "although the evidence is not yet certain"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "Which skill do children practise in music lessons, according to paragraph 4?",
+      "options": [
+        "Patience",
+        "Running",
+        "Drawing",
+        "Cooking"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 4 says children have to practise patience, listen carefully and remember patterns of notes.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Children who take music lessons have to practise patience, listen carefully and remember long patterns of notes."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "According to paragraph 1, at which event do people sing?",
+      "options": [
+        "At business meetings",
+        "At sports competitions",
+        "At weddings",
+        "At school exams"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 1 says people sing at weddings.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "People sing at weddings, play songs at parties and listen to music while they travel or exercise."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"anxious\" is closest in meaning to:",
+      "options": [
+        "happy and excited",
+        "worried and nervous",
+        "tired and sleepy",
+        "angry and loud"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Anxious appears together with sad as a negative feeling that people try to improve with music.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "many people reach for their headphones when they feel sad or anxious"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "Music has a strong link with memory, even for people with memory problems.",
+        "Teenagers listen to more music than older people.",
+        "Care homes should play music all day long.",
+        "Elderly people prefer old songs to new ones."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 5 explains how songs bring back memories and how care homes use music to help people with memory problems.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Music is also closely connected to memory."
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "Some care homes use this power to help elderly people with memory problems."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the phrase \"struggle to\" in \"struggle to recognise\" is closest in meaning to:",
+      "options": [
+        "refuse to",
+        "pretend to",
+        "find it very difficult to",
+        "decide not to"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "People with memory problems find it hard to recognise their family, yet they can still sing old songs.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Even when they struggle to recognise members of their own family"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 5, what can many elderly people with memory problems still do?",
+      "options": [
+        "Learn to play a new instrument quickly",
+        "Remember everything that happened yesterday",
+        "Write new songs about their lives",
+        "Sing along to songs they learned when they were young"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 5 says many of them can still sing along to songs they learned when they were young.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "many of them can still sing along to songs they learned when they were young"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "According to paragraph 6, when can music make time pass more quickly?",
+      "options": [
+        "While reading a difficult text",
+        "During simple, repetitive jobs",
+        "During an important exam",
+        "While sleeping at night"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 6 says that for simple, repetitive jobs, music can make the time pass more quickly.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "For simple, repetitive jobs, music can make the time pass more quickly and keep people motivated."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"lyrics\" refers to:",
+      "options": [
+        "the words of a song",
+        "the speed of a song",
+        "the musical instruments in a band",
+        "the people who sing in a choir"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The paragraph talks about songs with words, and the brain tries to follow the lyrics, which are those words.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "songs with words may be distracting, because the brain tries to follow the lyrics as well"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "Why may songs with words be distracting during careful work?",
+      "options": [
+        "Because they are usually too loud",
+        "Because they make people feel sleepy",
+        "Because the brain tries to follow the lyrics as well",
+        "Because they are too slow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 6 explains that the brain tries to follow the lyrics as well as the task.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "because the brain tries to follow the lyrics as well"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What would the writer probably suggest to a student who is reading a difficult text?",
+      "options": [
+        "Listen to the loudest music possible.",
+        "Always study with the radio on.",
+        "Sing along to help remember the text.",
+        "Try music without singing, or silence, instead of songs with words."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer says songs with words may be distracting for careful tasks and that some students prefer music without singing or silence.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "some students prefer music without singing, while others need complete silence to concentrate"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer mention records and the radio in paragraph 7?",
+      "options": [
+        "To show that records were cheaper than streaming",
+        "To advise readers to buy a radio",
+        "To compare past ways of listening with the way people listen today",
+        "To explain how songs are recorded"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer describes how people listened in the past before explaining what has changed with streaming.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "In the past, people bought records or waited for their favourite song to come on the radio. Today, streaming services offer millions of songs"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 7, what do streaming services offer?",
+      "options": [
+        "Free tickets to concerts and festivals",
+        "Millions of songs on a phone, often for a small monthly fee",
+        "Lessons in how to play an instrument",
+        "Old records that people can collect"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Paragraph 7 says streaming services offer millions of songs on a phone, often for a small monthly fee.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "streaming services offer millions of songs on a phone, often for a small monthly fee"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the popularity of concerts and festivals suggest, according to the writer?",
+      "options": [
+        "Having more songs at home has not stopped people enjoying live music together.",
+        "Streaming services will soon disappear.",
+        "People no longer listen to music at home.",
+        "Concerts are cheaper than streaming."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Even with so much music on their phones, people still go to concerts, which shows they value sharing music in the same place.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "concerts and festivals remain as popular as ever, which suggests that people still value the experience of sharing music in the same place at the same time"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main idea of the last paragraph?",
+      "options": [
+        "Streaming has made music less popular.",
+        "Critics think people should stop using phones.",
+        "Radio is still the most common way to hear music.",
+        "Technology has changed how we listen to music, but live music is still valued."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 7 describes the change from records and radio to streaming, then says concerts and festivals remain popular.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Finally, technology has changed the way we listen."
+        },
+        {
+          "paragraphId": "p7",
+          "quote": "Yet concerts and festivals remain as popular as ever"
+        }
+      ]
+    }
+  ]
+}

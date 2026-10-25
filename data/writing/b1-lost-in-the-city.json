@@ -1,0 +1,323 @@
+{
+  "id": "w-lost-in-the-city",
+  "title": "Lost in the City",
+  "level": "B1 · Intermediate",
+  "description": "Practise the past continuous, relative clauses and linking words, then write a story about getting lost.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Past continuous vs past simple",
+      "prompt": "Choose the correct answer.",
+      "text": "While I ___ at the shop windows, I lost my friends.",
+      "options": [
+        "looked",
+        "have looked",
+        "was looking",
+        "am looking"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Use the past continuous after \"while\" for the longer background action: While I was looking ..."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Past simple negative",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "I ___ (not / know) the name of our hotel.",
+      "answers": [
+        "didn't know",
+        "did not know"
+      ],
+      "points": 1,
+      "explanation": "The past simple negative is did not (didn't) + infinitive: I didn't know."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Past continuous",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "dark",
+        "starting",
+        "it",
+        "to get",
+        "was"
+      ],
+      "answers": [
+        "It was starting to get dark."
+      ],
+      "points": 1,
+      "explanation": "Past continuous: subject + was/were + -ing: It was starting to get dark."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Relative clauses",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I asked a woman which was selling flowers for help.",
+      "answers": [
+        "I asked a woman who was selling flowers for help.",
+        "I asked a woman that was selling flowers for help."
+      ],
+      "points": 1,
+      "explanation": "Use \"who\" (or \"that\") for people. \"Which\" is for things."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "My phone battery was dead. ___, I couldn't call anyone.",
+      "options": [
+        "As a result",
+        "Although",
+        "However",
+        "In addition"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"As a result\" shows that the second sentence is a consequence of the first."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Could / couldn't",
+      "prompt": "Complete the sentence with the past form of \"can\" (positive or negative).",
+      "text": "I was so tired that I ___ walk any further.",
+      "answers": [
+        "couldn't",
+        "could not"
+      ],
+      "points": 1,
+      "explanation": "The past of \"can't\" is \"couldn't\": I couldn't walk any further."
+    },
+    {
+      "id": "e7",
+      "type": "error-correction",
+      "focus": "Past continuous",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "It was raining and everybody were hurrying home.",
+      "answers": [
+        "It was raining and everybody was hurrying home."
+      ],
+      "points": 1,
+      "explanation": "\"Everybody\" is singular, so it takes \"was\": everybody was hurrying."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Linking words: although",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word ALTHOUGH. Begin: \"Although ...\"",
+      "text": "I was lost, but I didn't panic.",
+      "keyword": "ALTHOUGH",
+      "answers": [
+        "Although I was lost, I didn't panic.",
+        "Although I was lost, I did not panic."
+      ],
+      "points": 1,
+      "explanation": "\"Although\" introduces the contrasting idea and replaces \"but\": Although I was lost, I didn't panic."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Stop + to-infinitive",
+      "prompt": "Choose the correct answer.",
+      "text": "I stopped ___ a man for directions.",
+      "options": [
+        "ask",
+        "to ask",
+        "asking",
+        "asked"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Stop + to-infinitive\" means to stop in order to do something: I stopped to ask. \"Stop + -ing\" means to finish doing it."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "-ed and -ing adjectives",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The streets all looked the same, which was very ___ (confuse).",
+      "answers": [
+        "confusing"
+      ],
+      "points": 1,
+      "explanation": "Use the -ing adjective to describe the thing that causes the feeling: the streets were confusing."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Phrasal verbs: get off",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "at",
+        "off",
+        "wrong",
+        "we",
+        "stop",
+        "got",
+        "the"
+      ],
+      "answers": [
+        "We got off at the wrong stop."
+      ],
+      "points": 1,
+      "explanation": "\"Get off\" means to leave a bus or train."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The map on my phone was more useful as the paper one.",
+      "answers": [
+        "The map on my phone was more useful than the paper one."
+      ],
+      "points": 1,
+      "explanation": "After a comparative, use \"than\", not \"as\": more useful than."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Modals of advice",
+      "prompt": "Choose the correct answer.",
+      "text": "If you get lost in a big city, you ___ stay calm.",
+      "options": [
+        "would",
+        "mustn't",
+        "had",
+        "should"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Use \"should + infinitive\" to give advice."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Past continuous with when",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word WHEN. Begin: \"I was crossing the square ...\"",
+      "text": "I was crossing the square. I saw my friends.",
+      "keyword": "WHEN",
+      "answers": [
+        "I was crossing the square when I saw my friends."
+      ],
+      "points": 1,
+      "explanation": "Use the past continuous for the longer action and \"when\" + past simple for the shorter action that happened in the middle of it."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "I ___ (feel) really scared when it started to get dark.",
+      "answers": [
+        "felt",
+        "was feeling"
+      ],
+      "points": 1,
+      "explanation": "\"Feel\" is irregular: feel - felt - felt."
+    },
+    {
+      "id": "e16",
+      "type": "choice",
+      "focus": "Linking words: in the end",
+      "prompt": "Choose the correct answer.",
+      "text": "We walked for hours. ___, we found our hotel.",
+      "options": [
+        "Although",
+        "At the end",
+        "In the end",
+        "However"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"In the end\" means finally, after a long time. \"At the end\" needs \"of\": at the end of the street."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Indirect questions",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "where",
+        "me",
+        "could",
+        "is",
+        "the",
+        "you",
+        "station",
+        "tell"
+      ],
+      "answers": [
+        "Could you tell me where the station is?"
+      ],
+      "points": 1,
+      "explanation": "In indirect questions, the word order is like a statement: where the station is (not \"where is the station\")."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Present perfect vs past simple",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I have got lost in Paris two years ago.",
+      "answers": [
+        "I got lost in Paris two years ago."
+      ],
+      "points": 1,
+      "explanation": "Use the past simple, not the present perfect, with \"ago\"."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Too ... to",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word TOO. Begin: \"It was ...\"",
+      "text": "It was so dark that we couldn't read the map.",
+      "keyword": "TOO",
+      "answers": [
+        "It was too dark for us to read the map.",
+        "It was too dark to read the map."
+      ],
+      "points": 1,
+      "explanation": "\"So ... that we couldn't\" can be changed to \"too + adjective + (for us) + to-infinitive\"."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Relative clauses: who",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word WHO. Begin: \"The police officer ...\"",
+      "text": "A police officer helped us. She was very kind.",
+      "keyword": "WHO",
+      "answers": [
+        "The police officer who helped us was very kind."
+      ],
+      "points": 1,
+      "explanation": "Use \"who\" to join two sentences about the same person: the police officer who helped us."
+    }
+  ],
+  "task": {
+    "genre": "Story",
+    "prompt": "Write a story with the title \"Lost in the City\".",
+    "contentPoints": [
+      "Say where you were and who you were with.",
+      "Explain how you got lost.",
+      "Describe how you felt and what you did.",
+      "Say how the story ended."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "It all started when ...",
+      "While I was ...",
+      "I suddenly realised that ...",
+      "I had no idea where ...",
+      "Luckily, ...",
+      "In the end, ..."
+    ],
+    "modelAnswer": "Last summer, I went on holiday to Rome with my family. On our second day, we visited a busy market near the city centre.\n\nWhile my parents were buying fruit, I was looking at some old postcards. When I turned around, they weren't there anymore. I suddenly realised that I was lost. My phone battery was dead, so I couldn't call them, and I didn't know the name of our hotel.\n\nAt first, I felt really scared. However, I remembered my dad's advice: \"If you get lost, stay where you are.\" So I sat down next to the postcard stall and waited. The old man who was selling the postcards gave me a glass of water and talked to me kindly.\n\nTwenty minutes later, my parents ran towards me. We were all so relieved!"
+  }
+}

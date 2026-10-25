@@ -1,0 +1,455 @@
+{
+  "id": "urban-heat-islands",
+  "title": "The Hidden Heat of Cities",
+  "level": "C1 · Advanced",
+  "description": "An article on why cities are hotter than the countryside and what can be done about it.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "On a still summer evening, the centre of a large city can be several degrees warmer than the surrounding countryside. This phenomenon, known as the urban heat island effect, has been documented for well over a century, but it has acquired new urgency as global temperatures rise and an ever larger share of humanity lives in urban areas. What was once a meteorological curiosity is now widely regarded as a significant threat to public health."
+    },
+    {
+      "id": "p2",
+      "text": "The causes are well understood. Asphalt, concrete and brick absorb solar radiation during the day and release it slowly after dark, which is why the difference between city and country is often greatest at night. The scarcity of vegetation compounds the problem, since plants cool their surroundings by releasing water vapour through their leaves. Tall buildings can also trap heat by obstructing the wind, while vehicles, air-conditioning units and industrial activity add waste heat of their own."
+    },
+    {
+      "id": "p3",
+      "text": "The consequences are far from evenly distributed. Within a single city, temperatures can vary markedly between neighbourhoods, and the hottest districts are frequently those with the least green space and the poorest housing. Residents of such areas, who may be elderly, chronically ill or unable to afford air conditioning, are disproportionately vulnerable during heatwaves. Researchers have therefore increasingly come to view urban heat not merely as an environmental issue but as a question of social justice."
+    },
+    {
+      "id": "p4",
+      "text": "A variety of remedies have been proposed. Planting street trees and creating parks can lower local temperatures, as can green roofs covered in vegetation. So-called cool roofs and pavements, painted or surfaced with reflective materials, reduce the amount of heat that buildings and roads absorb. Yet each measure has its limitations: trees take decades to mature and require water, while reflective surfaces can, in certain configurations, simply redirect heat towards pedestrians or neighbouring buildings."
+    },
+    {
+      "id": "p5",
+      "text": "Ironically, one of the most common responses to urban heat may be making it worse. Air conditioning protects individuals, but it expels heat into the street and consumes energy that, in many places, is still generated from fossil fuels. Addressing the urban heat island effect thus requires more than technical fixes applied building by building; it calls for a coordinated approach to urban design that treats the city as a single, interconnected system."
+    },
+    {
+      "id": "p6",
+      "text": "The health risks of urban heat are closely linked to its timing. Because cities retain warmth after sunset, residents may experience little relief overnight, and the human body depends on cooler nights to recover from the strain of hot days. Prolonged exposure without such respite places particular stress on the heart and kidneys, and older people may not feel thirsty or recognise the danger until they are already seriously unwell. Heat-related deaths are also easily overlooked, since they are often recorded under other causes, such as heart failure, rather than attributed directly to temperature. As a result, the true toll of a heatwave may only become apparent when researchers compare the number of deaths during a hot period with the number that would normally be expected."
+    },
+    {
+      "id": "p7",
+      "text": "Alongside new technologies, some cities are looking to traditional architecture for inspiration, reasoning that earlier builders had to cope with heat without mechanical cooling. In hot regions, buildings were long designed with thick walls, shaded courtyards and narrow streets that limited exposure to the sun, as well as features that encouraged air to circulate. Modern planning, by contrast, has often favoured wide roads and glass-fronted towers that absorb and reflect heat with little regard for the local climate. Water can also play a role: fountains, canals and restored urban streams can cool their immediate surroundings, although their effect tends to be localised. Combining such features with green space may offer more resilient solutions than any single intervention, particularly if they are designed with the specific climate and layout of each city in mind."
+    },
+    {
+      "id": "p8",
+      "text": "Crucially, the effectiveness of any strategy depends on where it is applied. Detailed temperature maps, produced using satellite images and networks of sensors, now allow planners to identify the hottest streets and the most vulnerable populations with considerable precision. Such information can help to ensure that investment in trees and cooling measures reaches the neighbourhoods that need it most, rather than those whose residents are best able to lobby for improvements. Early-warning systems that alert residents and social services to approaching heatwaves can also save lives by prompting checks on isolated people. As summers grow hotter, the cities that cope best are likely to be those that treat heat not as an occasional emergency but as a permanent consideration in how they are planned and governed."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best summarises the passage?",
+      "options": [
+        "Cities are warmer than the countryside mainly because of air conditioning.",
+        "Urban heat islands are a growing and unevenly felt problem that demands coordinated planning.",
+        "Planting trees is the only effective solution to urban heat.",
+        "The urban heat island effect is a recent scientific discovery."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The passage presents urban heat as a public health and justice issue and concludes that it requires a coordinated approach to urban design.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "is now widely regarded as a significant threat to public health"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "it calls for a coordinated approach to urban design"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, why is the temperature difference between city and country often greatest at night?",
+      "options": [
+        "Traffic is heaviest in the evening.",
+        "Plants stop releasing water vapour at night.",
+        "Wind speeds rise in the countryside after sunset.",
+        "Building materials release heat absorbed during the day slowly after dark."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Asphalt, concrete and brick store heat during the day and release it slowly after dark.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "absorb solar radiation during the day and release it slowly after dark"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"compounds\" is closest in meaning to:",
+      "options": [
+        "makes worse",
+        "combines chemically",
+        "explains",
+        "partly solves"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A lack of vegetation adds to the problem of heat, so \"compounds\" means makes it worse.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The scarcity of vegetation compounds the problem"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 3 about the hottest neighbourhoods?",
+      "options": [
+        "They are usually located on the edge of the city.",
+        "They contain more air conditioning than wealthier districts.",
+        "Their residents often have the fewest resources to cope with extreme heat.",
+        "They are home mainly to young and healthy people."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The hottest districts have the poorest housing, and their residents may be unable to afford air conditioning, making them especially vulnerable.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "the hottest districts are frequently those with the least green space and the poorest housing"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "disproportionately vulnerable during heatwaves"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention that reflective surfaces may \"redirect heat towards pedestrians\"?",
+      "options": [
+        "To argue that reflective surfaces should be banned",
+        "To show that pedestrians are a major cause of urban heat",
+        "To prove that green roofs are cheaper than cool roofs",
+        "To illustrate that even promising remedies can have drawbacks"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The example supports the claim that \"each measure has its limitations\".",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "Yet each measure has its limitations"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "Which remedy does paragraph 4 say takes decades to become fully effective?",
+      "options": [
+        "Planting trees",
+        "Green roofs",
+        "Cool pavements",
+        "Reflective paint"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The paragraph states that trees take decades to mature.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "trees take decades to mature and require water"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "Why does the writer begin paragraph 5 with the word \"Ironically\"?",
+      "options": [
+        "Because air conditioning is too expensive for most residents",
+        "Because fossil fuels are no longer used to generate electricity",
+        "Because a measure used to cope with heat contributes to the problem itself",
+        "Because cities turn out to be cooler than expected in summer"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "It is ironic that air conditioning, a response to heat, expels heat into the street and uses energy that is often generated from fossil fuels.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Air conditioning protects individuals, but it expels heat into the street"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "Which approach would the writer most likely support?",
+      "options": [
+        "Installing air conditioning in every home in vulnerable districts",
+        "A citywide plan that coordinates green space, building design and energy use",
+        "Leaving each building owner to choose their own cooling solution",
+        "Focusing exclusively on reflective roofs"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer rejects isolated, building-by-building fixes in favour of treating the city as one interconnected system.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "requires more than technical fixes applied building by building"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "treats the city as a single, interconnected system"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 6 to 8?",
+      "options": [
+        "Traditional architecture alone can solve the problem of urban heat.",
+        "Heat-related deaths are recorded accurately in most cities.",
+        "Water features are the most effective way of cooling a whole city.",
+        "Urban heat poses serious, often hidden health risks, and responses work best when suited to local conditions and targeted where need is greatest."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The final paragraphs cover health risks, climate-appropriate design and targeting measures using detailed data.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "the effectiveness of any strategy depends on where it is applied"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, why are warm nights particularly harmful?",
+      "options": [
+        "Traffic noise prevents people from sleeping properly.",
+        "Air conditioning is usually switched off at night.",
+        "The body depends on cooler nights to recover from hot days.",
+        "Air pollution reaches its highest levels after dark."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Without cooler nights, the body cannot recover from daytime heat.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the human body depends on cooler nights to recover from the strain of hot days"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 6 about older people during heatwaves?",
+      "options": [
+        "They are generally less affected by heat than younger people.",
+        "They may not realise they are in danger, so checks by others can be important.",
+        "They are usually well protected by air conditioning.",
+        "They tend to drink more water than usual when it is hot."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Older people may not feel thirsty or recognise the danger, which suggests that outside help matters.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "older people may not feel thirsty or recognise the danger until they are already seriously unwell"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "detail",
+      "text": "According to paragraph 6, why may heat-related deaths be overlooked?",
+      "options": [
+        "They are often recorded under other causes, such as heart failure.",
+        "Hospitals rarely admit patients during heatwaves.",
+        "Most of these deaths occur in the countryside.",
+        "Researchers seldom examine data on deaths."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Deaths are attributed to conditions like heart failure rather than to heat.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "they are often recorded under other causes, such as heart failure, rather than attributed directly to temperature"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"respite\" is closest in meaning to:",
+      "options": [
+        "a medical treatment",
+        "an official warning",
+        "a rise in temperature",
+        "a short period of relief"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Without a break from the heat, the body comes under prolonged stress.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Prolonged exposure without such respite"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "purpose",
+      "text": "Why does the writer mention comparing deaths during a hot period with the number \"that would normally be expected\"?",
+      "options": [
+        "To show that heatwaves cause fewer deaths than is often claimed",
+        "To criticise doctors for recording causes of death incorrectly",
+        "To explain how the hidden toll of a heatwave can be estimated",
+        "To argue that heatwaves affect only elderly people"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Since individual deaths are rarely attributed to heat, comparing totals reveals the true impact.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the true toll of a heatwave may only become apparent when researchers compare the number of deaths during a hot period with the number that would normally be expected"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "Which features of traditional architecture in hot regions are mentioned in paragraph 7?",
+      "options": [
+        "Thick walls, shaded courtyards and narrow streets",
+        "Glass-fronted towers and wide roads",
+        "Reflective roofs and pavements",
+        "Air-conditioning units and fountains"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "These traditional features limited exposure to the sun.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "buildings were long designed with thick walls, shaded courtyards and narrow streets that limited exposure to the sun"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What does paragraph 7 imply about much modern planning?",
+      "options": [
+        "It has deliberately copied traditional building designs.",
+        "It has often paid too little attention to the local climate.",
+        "It has made cities cooler by building wider roads.",
+        "It has relied heavily on fountains and canals."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Wide roads and glass towers were favoured with little regard for climate, in contrast to traditional designs.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "with little regard for the local climate"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"localised\" is closest in meaning to:",
+      "options": [
+        "widespread",
+        "short-lived",
+        "expensive",
+        "limited to a small area"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Water cools only its immediate surroundings.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "although their effect tends to be localised"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 8, how are detailed temperature maps produced?",
+      "options": [
+        "By asking residents to report the hottest streets",
+        "Using satellite images and networks of sensors",
+        "From records of hospital admissions during heatwaves",
+        "Through computer models of building materials"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The paragraph names satellite images and sensor networks.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "produced using satellite images and networks of sensors"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does paragraph 8 suggest might happen without detailed information about heat?",
+      "options": [
+        "No cooling measures would receive any funding at all.",
+        "The poorest neighbourhoods would receive most of the investment.",
+        "Cooling investment might go to areas whose residents lobby most effectively rather than those in greatest need.",
+        "Heatwaves would become less frequent in large cities."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The maps help direct resources to need rather than to the best-organised residents, implying that without them the opposite could happen.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "rather than those whose residents are best able to lobby for improvements"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"lobby\" is closest in meaning to:",
+      "options": [
+        "try to influence decision-makers",
+        "wait in a public building",
+        "pay higher local taxes",
+        "move to another area"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Some residents are better able to press authorities for improvements.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "best able to lobby for improvements"
+        }
+      ]
+    }
+  ]
+}

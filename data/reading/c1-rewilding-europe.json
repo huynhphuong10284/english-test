@@ -1,0 +1,451 @@
+{
+  "id": "rewilding-europe",
+  "title": "Letting Nature Take the Lead",
+  "level": "C1 · Advanced",
+  "description": "An article on rewilding in Europe and the controversy it has provoked.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Across Europe, a quiet ecological transformation is under way. As rural populations have declined and agriculture has become concentrated on the most productive land, large areas of farmland in mountainous and marginal regions have been abandoned. Forests have expanded, and several species of large mammal, including wolves, bears and lynx, have returned to areas from which they had been absent for generations. For proponents of rewilding, this represents a remarkable opportunity."
+    },
+    {
+      "id": "p2",
+      "text": "Rewilding differs from traditional conservation in important respects. Conventional approaches have often sought to maintain particular habitats in a fixed state, for example by grazing meadows or managing woodland to protect specific species. Rewilding, by contrast, aims to restore natural processes, such as predation, flooding and the grazing of wild herbivores, and then to allow ecosystems to develop with minimal human intervention, accepting that the outcome cannot be precisely predicted."
+    },
+    {
+      "id": "p3",
+      "text": "Advocates point to a range of potential benefits. Restored wetlands and forests can store carbon and reduce the risk of downstream flooding, while large predators may help to regulate populations of deer and other herbivores, allowing vegetation to recover. Rewilded areas can also attract visitors, offering economic opportunities to rural communities that have struggled as traditional farming has declined."
+    },
+    {
+      "id": "p4",
+      "text": "The approach is far from universally welcomed, however. Farmers, particularly those who keep sheep, have voiced strong opposition to the return of wolves, which can kill livestock, and many rural residents feel that rewilding is promoted by urban environmentalists with little understanding of country life. Others regard abandoned agricultural landscapes as part of a cultural heritage that deserves to be maintained rather than allowed to revert to forest."
+    },
+    {
+      "id": "p5",
+      "text": "The future of rewilding in Europe may therefore depend less on ecological science than on its ability to win local support. Projects that involve communities from the outset, compensate farmers for losses and create tangible economic benefits appear more likely to succeed than those imposed from above. If rewilding is to flourish on a densely populated continent, it will need to be understood not as the exclusion of people from nature but as a new way of living alongside it."
+    },
+    {
+      "id": "p6",
+      "text": "Even among ecologists, the effects of rewilding are the subject of considerable debate. The idea that reintroduced predators can transform entire landscapes by changing the behaviour and numbers of their prey has proved attractive, but such cascading effects appear to vary greatly from place to place and are often harder to demonstrate than popular accounts suggest. In landscapes shaped by centuries of farming, roads and settlements, ecosystems may not respond in the way they would in a genuinely wild setting, and the numbers of large herbivores may be kept in check as much by hunting and traffic as by predators. Some researchers also caution that the absence of management can lead to outcomes that conservationists themselves regard as undesirable, such as the loss of open grassland habitats that support particular butterflies, birds and plants. Rewilding, in other words, involves trade-offs as well as gains."
+    },
+    {
+      "id": "p7",
+      "text": "Another challenge concerns scale. Many large animals require extensive territories, and few European protected areas are large enough to sustain viable populations on their own. Wolves, for instance, may travel considerable distances in search of new territory, crossing national borders and agricultural land in the process. For this reason, many advocates emphasise the importance of ecological corridors, strips of suitable habitat that link otherwise isolated areas and allow animals to move between them. Creating such networks inevitably involves negotiating with numerous landowners and several layers of government, which makes rewilding as much an exercise in coordination and diplomacy as in ecology. It also means that the decisions of one country can affect wildlife populations in its neighbours, which is why shared approaches to monitoring and to compensating farmers are increasingly discussed at a European rather than a purely national level."
+    },
+    {
+      "id": "p8",
+      "text": "Not all rewilding needs to take place on a grand scale, however. Removing obsolete dams to allow rivers to flow freely, reintroducing beavers whose dams create wetlands, or simply allowing parts of farms and gardens to be managed less intensively can all contribute to restoring natural processes. Such modest projects are often easier to reconcile with existing land uses and may help to build familiarity and trust before more ambitious schemes are attempted. They also illustrate a wider point: rewilding is less a single blueprint than a spectrum of approaches, ranging from small adjustments in how land is managed to the restoration of large, self-sustaining ecosystems. Choosing among them will require both ecological evidence and an honest conversation about what kind of landscapes Europeans want to live in."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main point of the passage?",
+      "options": [
+        "Rewilding has been rejected by most Europeans.",
+        "Rewilding offers significant opportunities in Europe, but its success depends on winning the support of local people.",
+        "Wolves are the main threat to European farming.",
+        "Traditional conservation is more effective than rewilding."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After presenting the benefits and the opposition, the writer concludes that local support is the deciding factor.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "may therefore depend less on ecological science than on its ability to win local support"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 1, what has created the opportunity for rewilding in parts of Europe?",
+      "options": [
+        "A rapid growth in rural populations",
+        "Government programmes to reintroduce bears",
+        "The abandonment of farmland in mountainous and marginal areas",
+        "The expansion of agriculture into forests"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Declining rural populations and concentrated agriculture have left marginal farmland abandoned.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "large areas of farmland in mountainous and marginal regions have been abandoned"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "detail",
+      "text": "How does rewilding differ from conventional conservation?",
+      "options": [
+        "It keeps habitats in a fixed state.",
+        "It focuses on protecting a single species.",
+        "It relies heavily on grazing by domestic animals.",
+        "It restores natural processes and then limits human intervention."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Conventional conservation maintains habitats in a fixed state; rewilding restores processes and lets ecosystems develop.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "aims to restore natural processes"
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "with minimal human intervention"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"revert\" is closest in meaning to:",
+      "options": [
+        "return to a previous state",
+        "be converted into farmland",
+        "be destroyed",
+        "be protected by law"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Abandoned farmland would go back to being forest, as it was before it was cleared.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "allowed to revert to forest"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "purpose",
+      "text": "Why does the writer mention that rewilded areas can attract visitors?",
+      "options": [
+        "To argue that tourism is more important than farming",
+        "To suggest that visitors damage wild ecosystems",
+        "To explain why farmers oppose rewilding",
+        "To show that rewilding may bring economic benefits to struggling rural areas"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Visitors are listed among the benefits, offering economic opportunities to declining rural communities.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "offering economic opportunities to rural communities that have struggled"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 4 about opposition to rewilding?",
+      "options": [
+        "It stems from cultural and social concerns as well as economic ones.",
+        "It comes mainly from urban environmentalists.",
+        "It is based solely on fear of bears.",
+        "It has disappeared now that wolves have returned."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Besides livestock losses, opponents resent outsiders' attitudes and value farmed landscapes as heritage.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "rewilding is promoted by urban environmentalists with little understanding of country life"
+        },
+        {
+          "paragraphId": "p4",
+          "quote": "part of a cultural heritage"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "What is the purpose of the final sentence of the passage?",
+      "options": [
+        "To argue that people should leave rural areas",
+        "To reframe rewilding as compatible with human presence",
+        "To claim that Europe is too crowded for rewilding",
+        "To summarise the ecological benefits of predators"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer presents rewilding as a way of living alongside nature rather than excluding people from it.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "not as the exclusion of people from nature but as a new way of living alongside it"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "inference",
+      "text": "Which rewilding project would the writer consider most likely to succeed?",
+      "options": [
+        "One designed by national experts and introduced without consultation",
+        "One that bans all farming in the area",
+        "One that consults residents early and compensates farmers for livestock losses",
+        "One that focuses only on restoring wetlands"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Projects that involve communities from the start and compensate farmers are said to be more likely to succeed than those imposed from above.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Projects that involve communities from the outset, compensate farmers for losses"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 6 to 8?",
+      "options": [
+        "Reintroduced predators have been shown to transform landscapes reliably across Europe.",
+        "Rewilding can only succeed in very large protected areas within a single country.",
+        "Small local projects should replace ambitious rewilding schemes entirely.",
+        "Rewilding faces scientific uncertainties and practical challenges, and it can take many forms, from small projects to large-scale restoration."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The final paragraphs discuss ecological debate, the problem of scale and the range of approaches available.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "rewilding is less a single blueprint than a spectrum of approaches"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, what is true of the cascading effects of reintroduced predators?",
+      "options": [
+        "They have been proved to occur wherever wolves return.",
+        "They vary considerably between places and are often hard to demonstrate.",
+        "They occur only in areas with no roads or settlements.",
+        "They have no measurable effect on prey animals."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Such effects vary greatly and are harder to show than popular accounts suggest.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "such cascading effects appear to vary greatly from place to place and are often harder to demonstrate than popular accounts suggest"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "Why might some conservationists be uneasy about leaving land completely unmanaged?",
+      "options": [
+        "It could lead to the loss of open habitats on which certain species depend.",
+        "It would allow predator numbers to rise beyond control.",
+        "It would reduce the number of visitors to rural areas.",
+        "It would increase the risk of flooding downstream."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Without management, open grasslands that support particular species may disappear, an outcome some conservationists see as undesirable.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the loss of open grassland habitats that support particular butterflies, birds and plants"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"trade-offs\" refers to:",
+      "options": [
+        "commercial agreements between landowners",
+        "errors made in scientific research",
+        "situations in which gaining one benefit means losing another",
+        "payments offered to farmers for their losses"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Rewilding brings gains but may also cost, for example, valuable grassland habitats.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Rewilding, in other words, involves trade-offs as well as gains."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "According to paragraph 7, why are ecological corridors important?",
+      "options": [
+        "They keep wolves away from agricultural land.",
+        "They mark the borders between European countries.",
+        "They make each protected area large enough on its own.",
+        "They link isolated areas so that animals can move between them."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Corridors connect otherwise isolated habitats and allow movement.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "strips of suitable habitat that link otherwise isolated areas and allow animals to move between them"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 7 about protecting large carnivores such as wolves?",
+      "options": [
+        "It is best handled by each country independently.",
+        "It is impossible on a densely populated continent.",
+        "It may require cooperation between neighbouring countries.",
+        "It concerns national park authorities alone."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Wolves cross borders and one country's decisions affect its neighbours' wildlife, so cross-border cooperation is implied.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the decisions of one country can affect wildlife populations in its neighbours"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"viable\" is closest in meaning to:",
+      "options": [
+        "easily seen by visitors",
+        "able to survive in the long term",
+        "dangerous to livestock",
+        "growing very rapidly"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Few protected areas can support populations large enough to persist by themselves.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "large enough to sustain viable populations on their own"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "purpose",
+      "text": "Why does the writer describe rewilding as \"as much an exercise in coordination and diplomacy as in ecology\"?",
+      "options": [
+        "To stress that many of the practical obstacles are social and political",
+        "To suggest that ecologists should be trained as diplomats",
+        "To argue that scientific knowledge matters little in rewilding",
+        "To criticise governments for refusing to cooperate"
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Building corridors means negotiating with many landowners and levels of government.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "Creating such networks inevitably involves negotiating with numerous landowners and several layers of government"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "Which of the following is NOT mentioned in paragraph 8 as a smaller-scale form of rewilding?",
+      "options": [
+        "Removing obsolete dams from rivers",
+        "Reintroducing beavers that create wetlands",
+        "Reintroducing wolves to mountain areas",
+        "Managing parts of farms less intensively"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dams, beavers and less intensive management are all listed; wolves are discussed elsewhere and not as a modest project.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Removing obsolete dams to allow rivers to flow freely, reintroducing beavers whose dams create wetlands, or simply allowing parts of farms and gardens to be managed less intensively"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "inference",
+      "text": "How might modest rewilding projects help with the problems described earlier in the passage?",
+      "options": [
+        "They deliver greater ecological benefits than large-scale schemes.",
+        "They remove any need to negotiate with landowners.",
+        "They will eventually make large-scale rewilding unnecessary.",
+        "They may reduce local resistance by building trust before larger schemes are proposed."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Earlier paragraphs stress local opposition and the need for support; small projects can build familiarity and trust.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "may help to build familiarity and trust before more ambitious schemes are attempted"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"blueprint\" is closest in meaning to:",
+      "options": [
+        "a fixed plan or model",
+        "a scientific theory",
+        "a legal requirement",
+        "a map of protected land"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Rewilding is not one fixed design to be copied but a range of approaches.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "less a single blueprint than a spectrum of approaches"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "According to paragraph 8, what will choosing among rewilding approaches require?",
+      "options": [
+        "A single plan agreed by every European government",
+        "Ecological evidence and an honest conversation about the landscapes people want",
+        "The complete removal of farming from rewilded land",
+        "Steady income from visitors and tourism"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer names both scientific evidence and public discussion.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Choosing among them will require both ecological evidence and an honest conversation about what kind of landscapes Europeans want to live in."
+        }
+      ]
+    }
+  ]
+}

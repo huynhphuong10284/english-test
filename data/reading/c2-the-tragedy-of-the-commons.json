@@ -1,0 +1,455 @@
+{
+  "id": "the-tragedy-of-the-commons",
+  "title": "The Tragedy of the Commons Reconsidered",
+  "level": "C2 · Proficiency",
+  "description": "An essay tracing the influence of a famous argument about shared resources and the empirical challenges it has faced.",
+  "instructions": "Read the essay carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "In 1968 the ecologist Garrett Hardin published an essay whose title has since become a kind of shorthand for collective self-destruction. Imagine, he proposed, a pasture open to all. Each herder, reasoning rationally, will conclude that adding one more animal brings him the full benefit of that animal while the cost of overgrazing is shared among everyone. Since every herder reasons identically, the pasture is inexorably degraded. Freedom in a commons, Hardin concluded with characteristic bleakness, brings ruin to all."
+    },
+    {
+      "id": "p2",
+      "text": "The argument owed much of its persuasive force to its apparent inevitability. It required no villains, only ordinary actors pursuing their own advantage, and it seemed to apply with equal cogency to fisheries, forests, groundwater and, eventually, the atmosphere itself. For a generation of policymakers, the lesson appeared unambiguous: unless shared resources were either enclosed as private property or placed under the firm control of the state, their exhaustion was merely a matter of time."
+    },
+    {
+      "id": "p3",
+      "text": "It was precisely this binary that the political economist Elinor Ostrom set out to dismantle. Drawing on detailed fieldwork and a vast comparative literature, she documented numerous communities, from Swiss alpine villages to Japanese mountain hamlets and irrigation cooperatives in Spain and the Philippines, that had managed common resources sustainably for generations without recourse to either privatisation or central command. What these communities shared was not altruism but institutions: clearly defined boundaries, rules adapted to local conditions, mechanisms for monitoring and graduated sanctions, and accessible means of resolving disputes."
+    },
+    {
+      "id": "p4",
+      "text": "Ostrom's work exposed a conflation at the heart of Hardin's model. The pasture he described was not, strictly speaking, a commons at all, but an open-access resource, one from which no one could be excluded and over which no rules prevailed. Genuine commons, historians have since emphasised, were typically hedged about with customs governing who might use them, when, and to what extent. The tragedy, in other words, may have been less a property of shared ownership than of the absence of any governance whatsoever."
+    },
+    {
+      "id": "p5",
+      "text": "None of this renders Hardin's insight obsolete. The conditions under which communities succeed in self-governance are demanding, and they are conspicuously difficult to reproduce at scale. A village can observe whether a neighbour is cutting too much timber; it is quite another matter to monitor the emissions of billions of people dispersed across sovereign states with divergent interests. Global problems such as climate change and the depletion of ocean fisheries arguably resemble Hardin's pasture more closely than Ostrom's alpine meadows."
+    },
+    {
+      "id": "p6",
+      "text": "The enduring value of the debate may therefore lie less in vindicating one thinker over the other than in reframing the question. Rather than asking whether shared resources are doomed, it becomes more fruitful to ask under what conditions cooperation can be sustained, and which institutional arrangements, nested and polycentric or otherwise, might extend those conditions beyond the scale of the village. That this question admits of no single answer is, perhaps, the most sobering lesson of all."
+    },
+    {
+      "id": "p7",
+      "text": "Ostrom herself, towards the end of her career, suggested that the global problem need not be approached solely through a single, comprehensive international agreement. She argued instead for a polycentric approach, in which cities, regions, national governments and transnational bodies each take action at their own scale, learning from one another's experiments and building the trust on which more ambitious cooperation depends. The international agreement to phase out substances that deplete the ozone layer is often cited as evidence that large-scale cooperation is attainable. Whether that precedent transfers to climate change is debatable, however, since the ozone problem involved a relatively small number of producers and substitutes that were available at modest cost, whereas carbon emissions are woven into almost every aspect of economic life."
+    },
+    {
+      "id": "p8",
+      "text": "The framework has also been extended to resources that Hardin could hardly have foreseen. Knowledge, software and online encyclopaedias are shared in common by millions, yet they differ from pastures in a crucial respect: one person's use does not diminish what remains for others. The characteristic danger in such cases is therefore not depletion but underprovision, since individuals may be content to benefit from contributions without making any of their own. The legal scholar Michael Heller has identified a further variant, the tragedy of the anticommons, in which a resource is underused because too many parties hold rights to exclude others, as when the fragmentation of patents obstructs the development of new medicines. These extensions suggest that the original parable describes one pathology among several rather than a universal law."
+    },
+    {
+      "id": "p9",
+      "text": "It is worth recalling, finally, that Hardin's essay was principally concerned not with pastures but with human population growth, and that its proposals for coercive restrictions on reproduction have drawn sustained criticism for their implications for individual liberty and for the world's poorer populations. The memorable parable has largely outlived the argument it was enlisted to support. That fate is in some ways fitting. Metaphors of this kind are valuable for the questions they provoke rather than the answers they appear to dictate, and the history of the tragedy of the commons suggests that their influence is greatest, and most hazardous, when they are mistaken for descriptions of how the world must inevitably be."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best summarises the writer's overall view?",
+      "options": [
+        "Hardin's argument has been entirely refuted by evidence of successful community management.",
+        "The debate is best understood as raising the question of when and how cooperation over shared resources can be sustained.",
+        "Shared resources must be either privatised or controlled by the state if they are to survive.",
+        "Ostrom's findings apply equally well to global problems such as climate change."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer neither dismisses Hardin nor fully endorses Ostrom, concluding that the real value lies in asking under what conditions cooperation can be sustained.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "it becomes more fruitful to ask under what conditions cooperation can be sustained"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to the passage, why does each herder in Hardin's model add another animal?",
+      "options": [
+        "Because he wishes to deprive his neighbours of grazing land.",
+        "Because the state has failed to enforce limits on grazing.",
+        "Because he receives the whole benefit while the cost is spread among all users.",
+        "Because he does not realise that the pasture can be degraded."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Hardin's logic rests on the asymmetry between a private gain and a shared cost.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "adding one more animal brings him the full benefit of that animal while the cost of overgrazing is shared among everyone"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "inference",
+      "text": "What can be inferred about why Hardin's argument proved so influential?",
+      "options": [
+        "Its conclusion seemed to follow from ordinary self-interest rather than from any wrongdoing.",
+        "It was supported by extensive fieldwork in many different countries.",
+        "It recommended community-based institutions that policymakers found attractive.",
+        "It focused narrowly on agriculture and therefore seemed uncontroversial."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The writer attributes its force to its apparent inevitability: it needed no villains, only ordinary actors. Fieldwork belonged to Ostrom, and the policy lesson drawn was enclosure or state control.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "It required no villains, only ordinary actors pursuing their own advantage"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"recourse\" is closest in meaning to",
+      "options": [
+        "resistance",
+        "return",
+        "reference",
+        "resort"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Without recourse to\" means without turning to or resorting to something as a means of help.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "without recourse to either privatisation or central command"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "Which of the following is NOT listed as a feature of the successful communities Ostrom studied?",
+      "options": [
+        "Clearly defined boundaries",
+        "A strong tradition of altruism among members",
+        "Graduated sanctions for rule-breakers",
+        "Accessible means of resolving disputes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The passage states explicitly that what these communities shared was \"not altruism but institutions\".",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "What these communities shared was not altruism but institutions"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer distinguish between a \"commons\" and an \"open-access resource\" in paragraph 4?",
+      "options": [
+        "To suggest that Hardin deliberately misrepresented historical evidence.",
+        "To argue that all forms of shared ownership inevitably lead to overuse.",
+        "To show that the tragedy Hardin described may stem from an absence of rules rather than from shared ownership itself.",
+        "To explain why historians have generally ignored the subject of common land."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The distinction relocates the cause of the tragedy: it may arise from the absence of governance, not from common ownership as such.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "The tragedy, in other words, may have been less a property of shared ownership than of the absence of any governance whatsoever."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "The writer's comparison of a village and global emissions in paragraph 5 implies that",
+      "options": [
+        "monitoring and enforcement become much harder as the scale and number of participants grow.",
+        "self-governing communities are less effective than states at monitoring their members.",
+        "climate change cannot be addressed by any form of institutional arrangement.",
+        "Ostrom was unaware that her findings applied only to small communities."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "The contrast highlights the difficulty of monitoring at scale. The writer does not claim the problem is insoluble, and the final paragraph explicitly considers extending institutions.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "they are conspicuously difficult to reproduce at scale"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "it is quite another matter to monitor the emissions of billions of people"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the phrase \"hedged about with\" most nearly means",
+      "options": [
+        "concealed behind",
+        "surrounded and restricted by",
+        "weakened by",
+        "gradually replaced by"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Commons were bounded and constrained by customs governing their use.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "were typically hedged about with customs governing who might use them"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "purpose",
+      "text": "What is the function of the final sentence of the passage?",
+      "options": [
+        "To declare that Ostrom has finally won the debate.",
+        "To dismiss the question as too abstract to be worth pursuing.",
+        "To suggest that private property offers the only reliable solution.",
+        "To concede that the reframed question lacks a simple universal solution, tempering any optimism."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Calling the absence of a single answer \"the most sobering lesson\" adds a note of caution to the reframing.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "That this question admits of no single answer is, perhaps, the most sobering lesson of all."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 7, what approach to the global problem did Ostrom argue for towards the end of her career?",
+      "options": [
+        "A polycentric approach in which actors at many levels take action at their own scale.",
+        "A single, comprehensive international agreement as the only possible solution.",
+        "The privatisation of the atmosphere and the oceans.",
+        "The abandonment of international cooperation in favour of national action alone."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ostrom argued for action by cities, regions, nations and transnational bodies, each at its own scale.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "She argued instead for a polycentric approach"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "Why might the precedent of the ozone agreement not transfer to climate change?",
+      "options": [
+        "Because the ozone agreement ultimately failed.",
+        "Because the ozone problem involved far more producers than climate change.",
+        "Because the ozone problem involved few producers and affordable substitutes, whereas carbon emissions pervade economic life.",
+        "Because climate change does not involve a shared resource."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The contrast between few producers with cheap substitutes and pervasive carbon emissions makes the transfer debatable.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "the ozone problem involved a relatively small number of producers and substitutes that were available at modest cost"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "purpose",
+      "text": "Why does the writer mention the international agreement on ozone-depleting substances?",
+      "options": [
+        "To prove that climate change will soon be solved in the same way.",
+        "To present evidence that large-scale cooperation is possible, while questioning whether it applies to climate change.",
+        "To criticise Ostrom's polycentric approach.",
+        "To explain the chemistry of ozone depletion."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The agreement is 'often cited' as evidence of attainable cooperation, but the writer calls its transfer to climate change debatable.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "is often cited as evidence that large-scale cooperation is attainable"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the phrase \"woven into\" is closest in meaning to",
+      "options": [
+        "separated from",
+        "concealed within",
+        "recently added to",
+        "deeply integrated into"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Emissions woven into economic life are bound up with nearly every part of it.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "carbon emissions are woven into almost every aspect of economic life"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 8, how do knowledge and software differ from pastures?",
+      "options": [
+        "One person's use does not diminish what remains for others.",
+        "They are always privately owned.",
+        "They are depleted more quickly than pastures.",
+        "They are used by very few people."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Unlike grazing land, such resources are not used up by use.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "one person's use does not diminish what remains for others"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why is underprovision, rather than depletion, the characteristic danger for resources such as online encyclopaedias?",
+      "options": [
+        "Because people use them too intensively.",
+        "Because the law forbids most people from contributing.",
+        "Because people can benefit without contributing, so too few may contribute.",
+        "Because each use destroys part of the resource."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Since use does not deplete the resource, the risk is that people take the benefit without contributing.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "individuals may be content to benefit from contributions without making any of their own"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "According to paragraph 8, what is the \"tragedy of the anticommons\"?",
+      "options": [
+        "The overuse of a resource that is open to everyone.",
+        "The loss of traditional knowledge in rural communities.",
+        "The excessive sharing of patented inventions.",
+        "The underuse of a resource because too many parties hold rights to exclude others."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Heller's anticommons is underuse caused by too many exclusion rights.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "a resource is underused because too many parties hold rights to exclude others"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "inference",
+      "text": "What does the example of fragmented patents suggest about the policy lesson described in paragraph 2?",
+      "options": [
+        "Private property rights always solve the problems of shared resources.",
+        "Dividing rights among many holders can itself obstruct the use of a resource, so privatisation is not a universal remedy.",
+        "Patents encourage the development of new medicines in every case.",
+        "Medicines should be treated as open-access resources."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Paragraph 2 presents privatisation as a solution; the anticommons shows that too many private exclusion rights can cause underuse.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "as when the fragmentation of patents obstructs the development of new medicines"
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "unless shared resources were either enclosed as private property or placed under the firm control of the state"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 9, the word \"enlisted\" is closest in meaning to",
+      "options": [
+        "recruited",
+        "excluded",
+        "listed",
+        "registered"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The parable was recruited, or brought in, to support Hardin's argument about population.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "the argument it was enlisted to support"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "What does the writer imply about Hardin's proposals concerning population?",
+      "options": [
+        "They were widely adopted by governments.",
+        "They have proved more influential than the parable itself.",
+        "They have been heavily criticised and largely overshadowed by the parable.",
+        "They were unrelated to the main subject of his essay."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The proposals drew sustained criticism, and the parable 'has largely outlived the argument it was enlisted to support'.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "The memorable parable has largely outlived the argument it was enlisted to support."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "main-idea",
+      "text": "What is the main point of the final paragraph?",
+      "options": [
+        "Hardin's essay was chiefly about the management of pastures.",
+        "Population growth is the most serious threat to shared resources.",
+        "Metaphors should never be used in discussions of policy.",
+        "Metaphors such as Hardin's are valuable for the questions they raise but hazardous when taken as descriptions of what is inevitable."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The paragraph says such metaphors are valuable for the questions they provoke and most hazardous when mistaken for inevitabilities.",
+      "evidence": [
+        {
+          "paragraphId": "p9",
+          "quote": "Metaphors of this kind are valuable for the questions they provoke rather than the answers they appear to dictate"
+        }
+      ]
+    }
+  ]
+}

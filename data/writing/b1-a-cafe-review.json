@@ -1,0 +1,336 @@
+{
+  "id": "w-a-cafe-review",
+  "title": "A Cafe Review",
+  "level": "B1 · Intermediate",
+  "description": "Practise comparatives, relative clauses and linking words, then write a review of a cafe.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Too and enough",
+      "prompt": "Choose the correct answer.",
+      "text": "The cafe is a bit small; there isn't ___ space for big groups.",
+      "options": [
+        "too",
+        "enough",
+        "very",
+        "many"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Enough\" means \"as much as we need\" and goes before a noun: enough space."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Comparatives",
+      "prompt": "Write the correct form of the adjective in brackets.",
+      "text": "The cakes here are much ___ (good) than at the cafe next door.",
+      "answers": [
+        "better"
+      ],
+      "points": 1,
+      "explanation": "\"Good\" has an irregular comparative: better."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Present perfect",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "been",
+        "I've",
+        "times",
+        "there",
+        "three",
+        "already"
+      ],
+      "answers": [
+        "I've already been there three times.",
+        "I've been there three times already."
+      ],
+      "points": 1,
+      "explanation": "\"Already\" usually goes between \"have\" and the past participle: I've already been."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Relative clauses",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The waiter who he served us was very friendly.",
+      "answers": [
+        "The waiter who served us was very friendly.",
+        "The waiter that served us was very friendly."
+      ],
+      "points": 1,
+      "explanation": "\"Who\" replaces the subject \"he\", so do not repeat it: the waiter who served us."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words",
+      "prompt": "Choose the correct answer.",
+      "text": "The food is excellent. ___, the prices are quite high.",
+      "options": [
+        "In addition",
+        "As a result",
+        "However",
+        "Because"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"However\" introduces a contrast: a good point followed by a bad point."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Modals of advice",
+      "prompt": "Complete the sentence with a modal verb.",
+      "text": "You ___ try the chocolate cake; it's delicious!",
+      "answers": [
+        "should",
+        "must",
+        "ought to"
+      ],
+      "points": 1,
+      "explanation": "Use should (or must for a strong recommendation) + infinitive without \"to\" to recommend something."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Relative clauses: where",
+      "prompt": "Choose the correct answer.",
+      "text": "It's a lovely place ___ you can relax with a good book.",
+      "options": [
+        "where",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"where\" after a place noun when it is followed by a full clause: a place where you can relax."
+    },
+    {
+      "id": "e8",
+      "type": "transformation",
+      "focus": "Superlatives",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word COSIEST. Begin: \"This ...\"",
+      "text": "No cafe in town is as cosy as this one.",
+      "keyword": "COSIEST",
+      "answers": [
+        "This is the cosiest cafe in town.",
+        "This cafe is the cosiest in town.",
+        "This cafe is the cosiest cafe in town.",
+        "This one is the cosiest cafe in town.",
+        "This one is the cosiest in town."
+      ],
+      "points": 1,
+      "explanation": "\"No ... is as cosy as\" means it is the cosiest. Short adjectives ending in -y change to -iest: cosy - the cosiest."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Gerund after prepositions",
+      "prompt": "Choose the correct answer.",
+      "text": "If you're interested in ___ new dishes, you'll love the menu.",
+      "options": [
+        "try",
+        "to try",
+        "tried",
+        "trying"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "After a preposition such as \"in\", \"at\" or \"of\", use the -ing form: interested in trying."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation: -ful",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The staff were very ___ (help) and brought us extra napkins.",
+      "answers": [
+        "helpful"
+      ],
+      "points": 1,
+      "explanation": "Add -ful to some nouns to make adjectives: help - helpful, use - useful."
+    },
+    {
+      "id": "e11",
+      "type": "word-order",
+      "focus": "Used to",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "every",
+        "meet",
+        "used",
+        "there",
+        "we",
+        "to",
+        "Sunday"
+      ],
+      "answers": [
+        "We used to meet there every Sunday.",
+        "Every Sunday we used to meet there."
+      ],
+      "points": 1,
+      "explanation": "Use \"used to + infinitive\" for past habits that are no longer true: we used to meet."
+    },
+    {
+      "id": "e12",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The coffee is more cheap than in other cafes.",
+      "answers": [
+        "The coffee is cheaper than in other cafes."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives take -er in the comparative, not \"more\": cheap - cheaper."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Present perfect vs past simple",
+      "prompt": "Choose the correct answer.",
+      "text": "We ___ there for lunch last Saturday.",
+      "options": [
+        "have gone",
+        "went",
+        "have been going",
+        "go"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Use the past simple with a finished time such as \"last Saturday\", not the present perfect."
+    },
+    {
+      "id": "e14",
+      "type": "transformation",
+      "focus": "Comparatives: not as ... as",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word AS. Begin: \"The cafe next door ...\"",
+      "text": "The Green Cup is cheaper than the cafe next door.",
+      "keyword": "AS",
+      "answers": [
+        "The cafe next door is not as cheap as The Green Cup.",
+        "The cafe next door is not as cheap as The Green Cup is."
+      ],
+      "points": 1,
+      "explanation": "\"A is cheaper than B\" means \"B is not as cheap as A\". Use the normal adjective between \"as ... as\"."
+    },
+    {
+      "id": "e15",
+      "type": "gap-fill",
+      "focus": "Phrasal verbs: run out of",
+      "prompt": "Write the correct form of the verb in brackets.",
+      "text": "The cafe was so popular that it ___ (run) out of cheesecake by midday.",
+      "answers": [
+        "ran",
+        "had run"
+      ],
+      "points": 1,
+      "explanation": "\"Run out of\" means to have none left. \"Run\" is irregular: run - ran - run."
+    },
+    {
+      "id": "e16",
+      "type": "error-correction",
+      "focus": "Modals of obligation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "You must to book a table at the weekend.",
+      "answers": [
+        "You must book a table at the weekend.",
+        "You have to book a table at the weekend."
+      ],
+      "points": 1,
+      "explanation": "Modal verbs like must are followed by the infinitive without \"to\": you must book."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Relative clauses: which",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "delicious",
+        "ordered",
+        "the",
+        "which",
+        "was",
+        "I",
+        "soup"
+      ],
+      "answers": [
+        "The soup which I ordered was delicious.",
+        "I ordered the soup which was delicious."
+      ],
+      "points": 1,
+      "explanation": "A relative clause with \"which\" gives more information about a thing: the soup which I ordered."
+    },
+    {
+      "id": "e18",
+      "type": "transformation",
+      "focus": "Present perfect with for",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word FOR. Begin: \"The cafe has ...\"",
+      "text": "The cafe opened two years ago.",
+      "keyword": "FOR",
+      "answers": [
+        "The cafe has been open for two years.",
+        "The cafe has been open for 2 years.",
+        "The cafe has been here for two years.",
+        "The cafe has been there for two years.",
+        "The cafe has existed for two years.",
+        "The cafe has been in business for two years.",
+        "The cafe has been open for two years now."
+      ],
+      "points": 1,
+      "explanation": "Use the present perfect with \"for\" + a period of time for a situation that started in the past and continues now: has been open for two years."
+    },
+    {
+      "id": "e19",
+      "type": "error-correction",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We sitted by the window and watched the rain.",
+      "answers": [
+        "We sat by the window and watched the rain."
+      ],
+      "points": 1,
+      "explanation": "\"Sit\" is irregular: sit - sat - sat."
+    },
+    {
+      "id": "e20",
+      "type": "transformation",
+      "focus": "Relative clauses: whose",
+      "prompt": "Complete the second sentence so that it means the same as the first. Use the word WHOSE. Begin: \"The cafe belongs to a woman ...\"",
+      "text": "The cafe belongs to a woman. Her cakes have won prizes.",
+      "keyword": "WHOSE",
+      "answers": [
+        "The cafe belongs to a woman whose cakes have won prizes."
+      ],
+      "points": 1,
+      "explanation": "Use \"whose\" instead of a possessive like \"her\" or \"his\" to join two sentences: a woman whose cakes ..."
+    }
+  ],
+  "task": {
+    "genre": "Review",
+    "prompt": "You see this on a local English-language website: \"Reviews wanted! Tell us about a cafe in your area. What is it like? What did you have? Would you recommend it?\" Write your review.",
+    "contentPoints": [
+      "Say where the cafe is and describe what it looks like.",
+      "Describe the food, drinks and service.",
+      "Mention at least one negative point.",
+      "Say whether you recommend it and who to."
+    ],
+    "minWords": 100,
+    "maxWords": 150,
+    "usefulLanguage": [
+      "... is a small cafe in ...",
+      "The atmosphere is ...",
+      "I ordered ...",
+      "The only thing I didn't like was ...",
+      "Although ..., ...",
+      "I would definitely recommend it to ..."
+    ],
+    "modelAnswer": "The Green Cup is a small cafe on Market Street, just opposite the station. Although it's quite new, it has already become very popular with students.\n\nThe cafe is bright and cosy, with plants everywhere and big windows where you can watch people walking past. Last Saturday, I ordered a hot chocolate and a slice of carrot cake. The cake was delicious, and the hot chocolate was much better than at most other cafes I've been to. The waiter who served us was friendly and helpful, too.\n\nThe only thing I didn't like was the noise. At the weekend it gets very busy, and it's hard to have a conversation. In addition, the prices are a little high.\n\nHowever, I would definitely recommend The Green Cup to anyone who loves cake. Go on a weekday afternoon if you want a quiet table!"
+  }
+}

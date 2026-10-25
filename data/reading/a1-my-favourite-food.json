@@ -1,0 +1,439 @@
+{
+  "id": "my-favourite-food",
+  "title": "My Favourite Food",
+  "level": "A1 · Beginner",
+  "description": "A child talks about making and eating pizza with grandma.",
+  "instructions": "Read the text about a favourite food, then choose the best answer (A, B, C or D) for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "My favourite food is pizza. I like pizza with cheese and tomatoes. I do not like pizza with fish."
+    },
+    {
+      "id": "p2",
+      "text": "Every Saturday, my grandma makes pizza at home. I help her. I put the cheese on top. The kitchen smells delicious."
+    },
+    {
+      "id": "p3",
+      "text": "We eat the pizza in the garden. My grandpa drinks orange juice with it. I always eat three pieces. After that, I am very full."
+    },
+    {
+      "id": "p4",
+      "text": "Grandma makes the pizza from the start. First, she mixes flour, water and salt. Then she makes it flat and round. She puts tomato sauce on it. Then I add the cheese. The pizza goes in the hot oven for fifteen minutes."
+    },
+    {
+      "id": "p5",
+      "text": "My little brother, Tom, does not like tomatoes. So Grandma makes a small pizza only for him. It has cheese and ham on it. Tom is five years old. He eats very slowly and talks a lot. Sometimes he gives his ham to me!"
+    },
+    {
+      "id": "p6",
+      "text": "Sometimes we eat pizza at a restaurant in town. It is called Luigi's. We go there on my birthday. The pizzas there are very big. But I think Grandma's pizza is better. It is hot, fresh and made with love."
+    },
+    {
+      "id": "p7",
+      "text": "I also like other food. I like rice, chicken and apples. But I do not like carrots. My mum says, 'Carrots are good for you!' I eat them, but pizza is still my favourite food."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the text mainly about?",
+      "options": [
+        "The writer's favourite food",
+        "A trip to a restaurant",
+        "Grandma's garden",
+        "How to catch fish"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The text is about pizza, the writer's favourite food.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "My favourite food is pizza."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "Who makes pizza every Saturday?",
+      "options": [
+        "Mum",
+        "Grandpa",
+        "The writer's teacher",
+        "Grandma"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Grandma makes pizza at home every Saturday.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "Every Saturday, my grandma makes pizza at home."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"delicious\" means...",
+      "options": [
+        "very cold",
+        "very loud",
+        "very good to eat",
+        "very dirty"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Delicious\" means very good to eat or smell. The pizza is cooking in the kitchen.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The kitchen smells delicious."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "What does the writer NOT like on pizza?",
+      "options": [
+        "Cheese",
+        "Fish",
+        "Tomatoes",
+        "Onions"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer does not like pizza with fish. Cheese and tomatoes are good.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I do not like pizza with fish."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "How many pieces of pizza does the writer eat?",
+      "options": [
+        "Two",
+        "Four",
+        "One",
+        "Three"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer always eats three pieces.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "I always eat three pieces."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "detail",
+      "text": "What does the writer like on pizza?",
+      "options": [
+        "Fish and cheese",
+        "Cheese and tomatoes",
+        "Ham and onions",
+        "Chicken and carrots"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer likes pizza with cheese and tomatoes.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "I like pizza with cheese and tomatoes."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "detail",
+      "text": "How does the writer help Grandma on Saturdays?",
+      "options": [
+        "The writer washes the plates",
+        "The writer buys the tomatoes",
+        "The writer puts the cheese on top",
+        "The writer cooks the soup"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The writer helps Grandma and puts the cheese on top.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "I help her. I put the cheese on top."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "detail",
+      "text": "Where does the family eat the pizza?",
+      "options": [
+        "In the garden",
+        "In the kitchen",
+        "At a restaurant",
+        "In the living room"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They eat the pizza in the garden.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "We eat the pizza in the garden."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "detail",
+      "text": "What does Grandpa drink with his pizza?",
+      "options": [
+        "Milk",
+        "Tea",
+        "Orange juice",
+        "Water"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Grandpa drinks orange juice with the pizza.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "My grandpa drinks orange juice with it."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "vocabulary",
+      "text": "In paragraph 3, the word \"full\" means...",
+      "options": [
+        "very hungry",
+        "very tired",
+        "very thirsty",
+        "not hungry because you ate a lot"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer eats three pieces, so after that they are full and do not want more food.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "After that, I am very full."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "detail",
+      "text": "What does Grandma mix first?",
+      "options": [
+        "Cheese and tomatoes",
+        "Flour, water and salt",
+        "Eggs and milk",
+        "Sugar and butter"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "First, Grandma mixes flour, water and salt.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "First, she mixes flour, water and salt."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"oven\" means...",
+      "options": [
+        "a hot box in the kitchen for cooking food",
+        "a big plate",
+        "a cold box for keeping food",
+        "a table in the garden"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The pizza goes in the hot oven to cook.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "The pizza goes in the hot oven for fifteen minutes."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "detail",
+      "text": "How long does the pizza stay in the oven?",
+      "options": [
+        "Five minutes",
+        "Thirty minutes",
+        "One hour",
+        "Fifteen minutes"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The pizza goes in the hot oven for fifteen minutes.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "The pizza goes in the hot oven for fifteen minutes."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "main-idea",
+      "text": "What is paragraph 5 mainly about?",
+      "options": [
+        "The writer's little brother and his pizza",
+        "Grandma's garden",
+        "A pizza restaurant",
+        "How to make tomato sauce"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paragraph 5 is about Tom and the special small pizza Grandma makes for him.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "So Grandma makes a small pizza only for him."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "Why does Grandma make a small pizza only for Tom?",
+      "options": [
+        "He is very hungry",
+        "He is ill",
+        "He does not like tomatoes",
+        "He likes fish"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom does not like tomatoes, so Grandma makes a different pizza for him.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "My little brother, Tom, does not like tomatoes. So Grandma makes a small pizza only for him."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "What is on Tom's pizza?",
+      "options": [
+        "Cheese and tomatoes",
+        "Cheese and ham",
+        "Fish and onions",
+        "Chicken and rice"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom's pizza has cheese and ham on it.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It has cheese and ham on it."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "detail",
+      "text": "What is the name of the restaurant in town?",
+      "options": [
+        "Luigi's",
+        "Grandma's",
+        "Tom's",
+        "Pizza House"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The restaurant is called Luigi's.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "It is called Luigi's."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "When does the family go to the restaurant?",
+      "options": [
+        "Every Saturday",
+        "Every Sunday",
+        "On the writer's birthday",
+        "After school every day"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They go to Luigi's on the writer's birthday.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "We go there on my birthday."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "inference",
+      "text": "Which pizza does the writer like best?",
+      "options": [
+        "The pizza at Luigi's",
+        "Tom's pizza",
+        "Pizza with fish",
+        "Grandma's pizza"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer thinks Grandma's pizza is better than the restaurant pizza.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "But I think Grandma's pizza is better."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "detail",
+      "text": "Which food does the writer NOT like?",
+      "options": [
+        "Rice",
+        "Carrots",
+        "Chicken",
+        "Apples"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer likes rice, chicken and apples, but does not like carrots.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "But I do not like carrots."
+        }
+      ]
+    }
+  ]
+}

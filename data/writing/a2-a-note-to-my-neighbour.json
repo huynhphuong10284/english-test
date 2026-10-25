@@ -1,0 +1,320 @@
+{
+  "id": "w-a-note-to-my-neighbour",
+  "title": "A Note to My Neighbour",
+  "level": "A2 · Elementary",
+  "description": "Practise prepositions, \"going to\" and adverbs of frequency, then write a note asking a neighbour for help.",
+  "instructions": "Do the exercises in Part 1. Then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Prepositions of time",
+      "prompt": "Choose the correct answer.",
+      "text": "We are going to be away ___ Friday to Sunday.",
+      "options": [
+        "from",
+        "since",
+        "at",
+        "in"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Use \"from ... to ...\" for the start and end of a period of time."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Prepositions of place",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "The cat food is ___ the cupboard next to the fridge.",
+      "answers": [
+        "in"
+      ],
+      "points": 1,
+      "explanation": "Use \"in\" for something inside a container or a closed space: in the cupboard."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Prepositions of place",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "under",
+        "key",
+        "the",
+        "is",
+        "mat",
+        "the"
+      ],
+      "answers": [
+        "The key is under the mat.",
+        "Is the key under the mat?"
+      ],
+      "points": 1,
+      "explanation": "Subject + be + preposition of place + noun: The key is under the mat."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Adverbs of frequency",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "She eats usually twice a day.",
+      "answers": [
+        "She usually eats twice a day."
+      ],
+      "points": 1,
+      "explanation": "Adverbs of frequency (usually, always, often) go before the main verb: she usually eats."
+    },
+    {
+      "id": "e5",
+      "type": "choice",
+      "focus": "Linking words: sequence",
+      "prompt": "Choose the correct answer.",
+      "text": "Please water the plants. ___, check that the windows are closed.",
+      "options": [
+        "Because",
+        "So",
+        "After that",
+        "But"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"After that\" tells someone the next thing to do, in order."
+    },
+    {
+      "id": "e6",
+      "type": "gap-fill",
+      "focus": "Going to",
+      "prompt": "Complete the sentence with \"going to\" and the verb in brackets.",
+      "text": "We ___ (visit) my grandmother in Hue.",
+      "answers": [
+        "are going to visit"
+      ],
+      "points": 1,
+      "explanation": "For plans, use am/is/are + going to + base verb: we are going to visit."
+    },
+    {
+      "id": "e7",
+      "type": "choice",
+      "focus": "Will for offers",
+      "prompt": "Choose the correct answer.",
+      "text": "Don't worry about your post. I ___ take it in for you.",
+      "options": [
+        "am",
+        "will",
+        "going to",
+        "do"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "We use \"will\" + verb to offer help at the moment we decide: I will take it in for you."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Will for predictions",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "I think it ___ (rain) tomorrow, so you don't need to water the garden.",
+      "answers": [
+        "will rain"
+      ],
+      "points": 1,
+      "explanation": "We use \"will\" + verb for predictions, often after \"I think\": it will rain."
+    },
+    {
+      "id": "e9",
+      "type": "word-order",
+      "focus": "Linking words: so",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "please water",
+        "hot",
+        "so",
+        "the plants",
+        "it is"
+      ],
+      "answers": [
+        "It is hot, so please water the plants."
+      ],
+      "points": 1,
+      "explanation": "\"So\" introduces a result: It is hot (reason), so please water the plants (result)."
+    },
+    {
+      "id": "e10",
+      "type": "error-correction",
+      "focus": "Past simple: irregular verbs",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I putted the spare key in your letterbox.",
+      "answers": [
+        "I put the spare key in your letterbox."
+      ],
+      "points": 1,
+      "explanation": "\"Put\" is irregular and does not change in the past simple: put - put - put."
+    },
+    {
+      "id": "e11",
+      "type": "choice",
+      "focus": "Some / any",
+      "prompt": "Choose the correct answer.",
+      "text": "There are ___ eggs in the fridge. Please eat them before they go bad.",
+      "options": [
+        "any",
+        "much",
+        "a",
+        "some"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "We use \"some\" in positive sentences with plural or uncountable nouns: some eggs."
+    },
+    {
+      "id": "e12",
+      "type": "gap-fill",
+      "focus": "Past continuous",
+      "prompt": "Write the correct form of the word in brackets.",
+      "text": "The cat ___ (sleep) on the sofa when I left this morning.",
+      "answers": [
+        "was sleeping"
+      ],
+      "points": 1,
+      "explanation": "We use the past continuous (was/were + -ing) for an action in progress when another action happened."
+    },
+    {
+      "id": "e13",
+      "type": "word-order",
+      "focus": "Present continuous for future plans",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "coming",
+        "are",
+        "when",
+        "back",
+        "you"
+      ],
+      "answers": [
+        "When are you coming back?"
+      ],
+      "points": 1,
+      "explanation": "Question word + are + subject + -ing: When are you coming back? We use it for fixed future plans."
+    },
+    {
+      "id": "e14",
+      "type": "error-correction",
+      "focus": "Some / any",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "We don't have some cat food left.",
+      "answers": [
+        "We don't have any cat food left.",
+        "We have no cat food left."
+      ],
+      "points": 1,
+      "explanation": "We use \"any\" (not \"some\") in negative sentences: We don't have any cat food."
+    },
+    {
+      "id": "e15",
+      "type": "choice",
+      "focus": "Much / many",
+      "prompt": "Choose the correct answer.",
+      "text": "The cat doesn't eat ___ food, so one small bowl is enough.",
+      "options": [
+        "many",
+        "much",
+        "a few",
+        "a"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Much\" is used with uncountable nouns like \"food\", especially in negatives. \"Many\" is for plural nouns."
+    },
+    {
+      "id": "e16",
+      "type": "gap-fill",
+      "focus": "Prepositions of time",
+      "prompt": "Complete the sentence with one preposition.",
+      "text": "Please feed the cat twice a day: ___ the morning and in the evening.",
+      "answers": [
+        "in"
+      ],
+      "points": 1,
+      "explanation": "We say \"in the morning\", \"in the afternoon\" and \"in the evening\", but \"at night\"."
+    },
+    {
+      "id": "e17",
+      "type": "word-order",
+      "focus": "Past simple: regular verbs",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "some cat food",
+        "for",
+        "I",
+        "you",
+        "ordered"
+      ],
+      "answers": [
+        "I ordered some cat food for you."
+      ],
+      "points": 1,
+      "explanation": "Subject + past simple verb + object + for + person: I ordered some cat food for you."
+    },
+    {
+      "id": "e18",
+      "type": "error-correction",
+      "focus": "Will for offers",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "I will to bring you a present from Hue.",
+      "answers": [
+        "I will bring you a present from Hue."
+      ],
+      "points": 1,
+      "explanation": "After \"will\" we use the base verb without \"to\": I will bring."
+    },
+    {
+      "id": "e19",
+      "type": "choice",
+      "focus": "Past simple: questions",
+      "prompt": "Choose the correct answer.",
+      "text": "___ you get my message last night?",
+      "options": [
+        "Do",
+        "Were",
+        "Was",
+        "Did"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Past simple questions with normal verbs use \"Did\" + subject + base verb: Did you get...?"
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Comparatives",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The weather will be hoter at the weekend.",
+      "answers": [
+        "The weather will be hotter at the weekend."
+      ],
+      "points": 1,
+      "explanation": "Short adjectives ending in one vowel + one consonant double the consonant: hot - hotter."
+    }
+  ],
+  "task": {
+    "genre": "Note",
+    "prompt": "You are going away for the weekend. Write a note to your neighbour asking them to look after your cat.",
+    "contentPoints": [
+      "Say when you are going away and where.",
+      "Ask your neighbour to look after your pet and say what to do.",
+      "Say where to find the key and the food.",
+      "Thank your neighbour."
+    ],
+    "minWords": 50,
+    "maxWords": 80,
+    "usefulLanguage": [
+      "Dear Mrs ...,",
+      "We are going to ...",
+      "Could you please ...?",
+      "... is in/under/next to ...",
+      "Thank you very much!"
+    ],
+    "modelAnswer": "Dear Mrs Lee,\n\nWe are going to visit my grandmother from Friday to Sunday. Could you please feed our cat, Mimi? She usually eats twice a day, in the morning and in the evening. Her food is in the cupboard next to the fridge, and the key is under the mat. Please water the plants too.\n\nThank you very much!\n\nAn (number 12)"
+  }
+}

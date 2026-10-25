@@ -1,0 +1,320 @@
+{
+  "id": "w-evaluating-a-pilot-scheme",
+  "title": "Evaluating a Pilot Scheme",
+  "level": "C2 · Proficiency",
+  "description": "Practise formal register, passive reporting and conditional inversion, then write a report evaluating a pilot scheme.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Formal register",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Feedback on the scheme was ___ positive, with only minor reservations.",
+      "options": [
+        "massively",
+        "overwhelmingly",
+        "totally",
+        "hugely"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "\"Overwhelmingly positive\" is the natural, formal collocation. \"Massively\" and \"hugely\" sound informal here, and \"totally\" does not fit with \"only minor reservations\"."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Subjunctive",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "It is recommended that the scheme ___ (extend) to all faculties.",
+      "answers": [
+        "be extended"
+      ],
+      "points": 1,
+      "explanation": "After \"it is recommended that\", formal English uses the subjunctive base form; with a passive meaning, this is \"be + past participle\"."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Hedging",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "appear",
+        "to have",
+        "the figures",
+        "would",
+        "improved"
+      ],
+      "answers": [
+        "The figures would appear to have improved."
+      ],
+      "points": 1,
+      "explanation": "\"Would appear to have + past participle\" hedges a claim about the past, which is typical of cautious report writing."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Relative clauses",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Participants completed a questionnaire, the results of whom are summarised below.",
+      "answers": [
+        "Participants completed a questionnaire, the results of which are summarised below.",
+        "Participants completed a questionnaire, the results of which are summarized below."
+      ],
+      "points": 1,
+      "explanation": "Use \"which\", not \"whom\", for things: the results of which. \"Whom\" refers only to people."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Conditional inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Should ...\".",
+      "text": "If the funding is renewed, the scheme could run for another year.",
+      "keyword": "should",
+      "answers": [
+        "Should the funding be renewed, the scheme could run for another year."
+      ],
+      "points": 1,
+      "explanation": "In formal writing, \"if\" can be replaced by \"should\" with inversion: should the funding be renewed, ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Passive reporting structures",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The scheme ...\".",
+      "text": "People say that the scheme has reduced drop-out rates.",
+      "keyword": "said",
+      "answers": [
+        "The scheme is said to have reduced drop-out rates.",
+        "The scheme is said to have reduced dropout rates."
+      ],
+      "points": 1,
+      "explanation": "Use \"subject + is said + perfect infinitive\" to report a past action impersonally: the scheme is said to have reduced ..."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The scheme ...\".",
+      "text": "The scheme was only partly successful.",
+      "keyword": "mixed",
+      "answers": [
+        "The scheme met with mixed success.",
+        "The scheme had mixed success.",
+        "The scheme was a mixed success.",
+        "The scheme enjoyed mixed success.",
+        "The scheme achieved mixed success."
+      ],
+      "points": 1,
+      "explanation": "\"Mixed success\" means success in some areas but not others, and often follows \"meet with\", \"have\" or \"achieve\"."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Ellipsis",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Mentors who received training rated the scheme highly, while those who did not ___ less enthusiastic.",
+      "answers": [
+        "were"
+      ],
+      "points": 1,
+      "explanation": "After \"those who did not\", the repeated words (receive training) are left out. The main verb \"were\" is still needed: those who did not were less enthusiastic."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Dependent prepositions",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Mentors' workload should be commensurate ___ the time allowance they receive.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "on"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "\"Commensurate with\" means in proportion to or appropriate to something; it is a formal adjective + preposition combination."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Overall, the scheme has proved its ___ and deserves continued support. (one word, beginning with W)",
+      "answers": [
+        "worth"
+      ],
+      "points": 1,
+      "explanation": "If something \"proves its worth\", it shows that it is useful or valuable."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Comparative structures",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The more sessions students attended, the most confident they became.",
+      "answers": [
+        "The more sessions students attended, the more confident they became."
+      ],
+      "points": 1,
+      "explanation": "The double comparative \"the + comparative ..., the + comparative ...\" needs a comparative in both halves: the more ..., the more confident."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The scheme was set up ...\".",
+      "text": "The scheme was set up in order to reduce drop-out rates among first-year students.",
+      "keyword": "view",
+      "answers": [
+        "The scheme was set up with a view to reducing drop-out rates among first-year students."
+      ],
+      "points": 1,
+      "explanation": "\"With a view to\" expresses purpose and is followed by an -ing form, because \"to\" here is a preposition."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Hedging",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The improvement in attendance, while encouraging, is ___ attributable to the scheme alone, since other factors were also at play.",
+      "options": [
+        "unnecessarily",
+        "not surely",
+        "not necessarily",
+        "needlessly"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Not necessarily\" hedges a claim by saying it may not always be true. \"Unnecessarily\" and \"needlessly\" mean \"without need\", and \"not surely\" is not idiomatic."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Participle clauses",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "are",
+        "as a whole",
+        "the results",
+        "taken",
+        "encouraging"
+      ],
+      "answers": [
+        "Taken as a whole, the results are encouraging.",
+        "The results, taken as a whole, are encouraging.",
+        "The results are encouraging, taken as a whole."
+      ],
+      "points": 1,
+      "explanation": "A past participle clause such as \"taken as a whole\" (= if they are considered as a whole) is a concise way to frame an overall judgement."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Most participants found the sessions beneficial, although a minority considered them unnecessity.",
+      "answers": [
+        "Most participants found the sessions beneficial, although a minority considered them unnecessary."
+      ],
+      "points": 1,
+      "explanation": "After \"consider + object\" we need an adjective, \"unnecessary\", not a noun."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"On ...\".",
+      "text": "Because the results were so positive, the college has decided to extend the scheme.",
+      "keyword": "strength",
+      "answers": [
+        "On the strength of the positive results, the college has decided to extend the scheme.",
+        "On the strength of the results, the college has decided to extend the scheme.",
+        "On the strength of such positive results, the college has decided to extend the scheme.",
+        "On the strength of these positive results, the college has decided to extend the scheme."
+      ],
+      "points": 1,
+      "explanation": "\"On the strength of\" means because of or on the basis of something, typically evidence or a recommendation."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Formal register",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The scheme was ___ by a lack of trained mentors in its early weeks.",
+      "options": [
+        "hammered",
+        "harnessed",
+        "hassled",
+        "hampered"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "To be \"hampered by\" something means to be held back or obstructed by it; it is a typical formal verb in reports."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "The scheme proved highly cost-___ (effect), requiring only minimal funding.",
+      "answers": [
+        "effective"
+      ],
+      "points": 1,
+      "explanation": "\"Cost-effective\" means giving good value for the money spent. The adjective is formed from \"effect\" + -ive."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"There were ...\".",
+      "text": "There were some minor problems at the start, but these were soon resolved.",
+      "keyword": "teething",
+      "answers": [
+        "There were some teething problems, but these were soon resolved.",
+        "There were some minor teething problems, but these were soon resolved.",
+        "There were some teething problems at the start, but these were soon resolved.",
+        "There were a few teething problems, but these were soon resolved.",
+        "There were some teething troubles, but these were soon resolved.",
+        "There were a few teething problems at the start, but these were soon resolved."
+      ],
+      "points": 1,
+      "explanation": "\"Teething problems\" (or \"teething troubles\") are small problems that occur in the early stages of a new scheme or product."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Prepositional phrases",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Several mentors complained of a lack of clarity regarding to their responsibilities.",
+      "answers": [
+        "Several mentors complained of a lack of clarity regarding their responsibilities.",
+        "Several mentors complained of a lack of clarity with regard to their responsibilities."
+      ],
+      "points": 1,
+      "explanation": "\"Regarding\" is followed directly by its object, without \"to\". Alternatively, use the full phrase \"with regard to\"."
+    }
+  ],
+  "task": {
+    "genre": "Report",
+    "prompt": "Your college ran a six-month peer-mentoring pilot scheme for first-year students. The principal has asked you to write a report evaluating the scheme.",
+    "contentPoints": [
+      "State the purpose of the report and briefly describe the scheme.",
+      "Present the main findings, both positive and negative.",
+      "Identify any problems that arose during the pilot.",
+      "Make clear recommendations about the future of the scheme."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "The aim of this report is to ...",
+      "Feedback was overwhelmingly ...",
+      "It would appear that ...",
+      "Should the scheme be ..., ...",
+      "It is recommended that ... be ..."
+    ],
+    "modelAnswer": "Introduction\nThe aim of this report is to evaluate the peer-mentoring pilot scheme which ran from September to February, and to recommend whether it should continue. Under the scheme, sixty first-year students were each paired with a second-year mentor, whom they met fortnightly. The findings below are based on a questionnaire completed by all participants and on interviews with a sample of mentors and staff.\n\nMain findings\nFeedback on the scheme was overwhelmingly positive. Over eighty per cent of first-year students said that their mentor had helped them to settle into college life, and many reported feeling more confident about asking for help with coursework. The scheme is also said to have reduced drop-out rates: only two participants left their courses during the period, compared with seven in the same group last year. While this difference cannot be attributed to mentoring alone, it would appear to be significant.\n\nProblems identified\nThe scheme was not, however, without its difficulties. Several pairs met irregularly, largely because no fixed meeting times had been arranged. In addition, mentors who received training rated the scheme highly, while those who did not were noticeably less enthusiastic, and some admitted that they had been unsure of their role. Finally, a small number of students felt that their mentor had been assigned without regard to their subject or interests.\n\nRecommendations\nOn balance, the pilot has met with considerable, if not complete, success. It is therefore recommended that the scheme be extended to all faculties next year, subject to the following conditions. Firstly, every mentor should complete a short training course before being assigned a student. Secondly, pairs should be matched according to subject wherever possible. Thirdly, a member of staff should monitor attendance each month. Should funding be renewed on this basis, the scheme could become a valuable permanent feature of student support."
+  }
+}

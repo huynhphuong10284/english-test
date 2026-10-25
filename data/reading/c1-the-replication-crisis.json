@@ -1,0 +1,451 @@
+{
+  "id": "the-replication-crisis",
+  "title": "When Science Fails to Repeat Itself",
+  "level": "C1 · Advanced",
+  "description": "An article on why many published research findings could not be reproduced, and how science is responding.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Replication is often described as the cornerstone of the scientific method. If a finding is genuine, other researchers following the same procedures should be able to reproduce it. Over roughly the past fifteen years, however, large-scale attempts to repeat published studies, particularly in psychology but also in medicine, economics and other fields, have found that a troubling proportion of results could not be reproduced, or emerged considerably weaker the second time around. This discovery has come to be known as the replication crisis."
+    },
+    {
+      "id": "p2",
+      "text": "The causes are less a matter of outright fraud than of subtle and widespread practices. Researchers analysing their data often face numerous legitimate choices, such as which participants to exclude or which statistical test to apply. By exploring these options until a statistically significant result appears, a practice sometimes called p-hacking, they can unintentionally produce findings that reflect chance rather than reality. Small sample sizes exacerbate the problem, since they make spurious results more likely and genuine effects harder to detect reliably."
+    },
+    {
+      "id": "p3",
+      "text": "Institutional incentives have played an equally important role. Journals have traditionally favoured novel, striking findings over careful repetitions of earlier work, and careers in academia depend heavily on a steady output of such publications. Studies that found no effect frequently went unpublished, a tendency known as publication bias, which meant that the scientific literature presented a systematically distorted picture in which positive results were overrepresented."
+    },
+    {
+      "id": "p4",
+      "text": "In response, many researchers have embraced reforms. One of the most significant is preregistration, in which scientists publicly record their hypotheses and analysis plans before collecting data, thereby limiting the scope for undisclosed flexibility. Some journals now accept papers on the basis of their design alone, committing to publish them regardless of the outcome. The sharing of data and materials has also become far more common, allowing others to scrutinise and build upon published work."
+    },
+    {
+      "id": "p5",
+      "text": "It would be a mistake to conclude that science itself is broken. The very fact that the problem was identified and quantified by scientists demonstrates the capacity of the enterprise to correct itself, albeit more slowly than its idealised image suggests. The crisis has nonetheless served as a salutary reminder that any single study, however impressive, should be treated as provisional until its findings have been independently confirmed."
+    },
+    {
+      "id": "p6",
+      "text": "Interpreting a failed replication is not always straightforward, however. When a repeat study does not reproduce an original result, it may be that the original finding was a false positive, but it may also be that the two studies differed in some way that nobody had anticipated, such as the population tested, the precise wording of instructions or the cultural setting. Researchers who conducted the original studies have sometimes argued that their results were not given a fair test for precisely these reasons. Sometimes a further, more carefully matched replication helps to settle the matter. Such objections can be legitimate, yet they can also become a way of protecting a favoured idea from any possible refutation. If an effect is so fragile that it appears only under conditions that cannot be specified in advance, its practical and theoretical significance is open to question."
+    },
+    {
+      "id": "p7",
+      "text": "The crisis has also prompted a broader reconsideration of how statistical evidence is interpreted. For decades, many researchers treated a conventional threshold of statistical significance as a dividing line between findings that were real and findings that were not, a habit that encouraged the very practices described earlier. Statisticians have long warned that this binary approach is misleading, since a result just above the threshold is scarcely different from one just below it. There is now greater emphasis on reporting the size of an effect and the uncertainty surrounding it, rather than merely whether it passed an arbitrary cut-off. Some researchers have also called for larger, collaborative studies in which many laboratories pool their resources, producing samples big enough to yield more precise estimates."
+    },
+    {
+      "id": "p8",
+      "text": "The replication crisis has implications beyond the academic world. Findings from psychology and medicine frequently shape public policy, clinical practice and popular advice, and claims that later prove unreliable can lead to wasted resources or misguided decisions. Popular books and talks have sometimes carried findings far beyond what the original evidence could justify. At the same time, there is a risk that the crisis will be exploited by those who wish to dismiss inconvenient scientific conclusions altogether, as though the discovery of flawed studies meant that no research could be trusted. The appropriate response lies somewhere between credulity and cynicism: a recognition that well-established findings, supported by many independent lines of evidence, deserve considerably more confidence than a single striking result reported in the press."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "Which statement best expresses the main idea of the passage?",
+      "options": [
+        "Most scientific research is fraudulent and cannot be trusted.",
+        "Psychology is the only discipline affected by problems of replication.",
+        "Preregistration has completely solved the replication crisis.",
+        "Many published findings have proved hard to reproduce, prompting reforms that show science's capacity for self-correction."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The passage describes the failure to reproduce many results, its causes and the reforms adopted, concluding that science can correct itself.",
+      "evidence": [
+        {
+          "paragraphId": "p1",
+          "quote": "a troubling proportion of results could not be reproduced"
+        },
+        {
+          "paragraphId": "p5",
+          "quote": "demonstrates the capacity of the enterprise to correct itself"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, what lies mainly behind the crisis?",
+      "options": [
+        "Deliberate falsification of data by most researchers",
+        "Common analytical practices that can unintentionally produce misleading results",
+        "A shortage of funding for statistical software",
+        "Errors made by journal editors"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The writer explicitly says the causes are subtle, widespread practices rather than outright fraud.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The causes are less a matter of outright fraud than of subtle and widespread practices."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "text": "In paragraph 2, the word \"spurious\" is closest in meaning to:",
+      "options": [
+        "surprising",
+        "statistically significant",
+        "false or not genuine",
+        "carefully measured"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"Spurious\" results are contrasted with \"genuine effects\", so the word means false.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "they make spurious results more likely and genuine effects harder to detect reliably"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "inference",
+      "text": "What can be inferred about the effect of publication bias described in paragraph 3?",
+      "options": [
+        "It made effects appear more consistent and robust than they really were.",
+        "It mainly affected studies with large sample sizes.",
+        "It was deliberately introduced to deceive the public.",
+        "It caused journals to publish too many repetitions of earlier studies."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Because studies that found nothing went unpublished, positive results were overrepresented, giving a distorted, overly favourable picture.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "a systematically distorted picture in which positive results were overrepresented"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "detail",
+      "text": "What does preregistration involve?",
+      "options": [
+        "Sharing data after a study has been published",
+        "Registering with a journal before submitting a paper",
+        "Publicly recording hypotheses and analysis plans before data are collected",
+        "Repeating a study before publishing it"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Paragraph 4 defines preregistration as recording hypotheses and analysis plans before collecting data.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "scientists publicly record their hypotheses and analysis plans before collecting data"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "purpose",
+      "text": "Why does the writer mention that some journals accept papers \"on the basis of their design alone\"?",
+      "options": [
+        "To criticise journals for ignoring research results",
+        "To give an example of a reform that counters the neglect of studies finding no effect",
+        "To show that study design matters more than data",
+        "To explain why fewer papers are now published"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Committing to publish regardless of outcome directly addresses publication bias, described in paragraph 3.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "committing to publish them regardless of the outcome"
+        },
+        {
+          "paragraphId": "p3",
+          "quote": "Studies that found no effect frequently went unpublished"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "purpose",
+      "text": "What is the purpose of the first sentence of paragraph 5?",
+      "options": [
+        "To summarise the causes described earlier",
+        "To introduce a further cause of the crisis",
+        "To argue that the reforms were unnecessary",
+        "To guard against an overly pessimistic interpretation of the crisis"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The writer warns readers not to draw the extreme conclusion that science is broken.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "It would be a mistake to conclude that science itself is broken."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"salutary\" most nearly means:",
+      "options": [
+        "useful as a warning",
+        "celebratory",
+        "damaging",
+        "formal"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The crisis reminds scientists to treat single studies as provisional, which is a beneficial lesson, even if an uncomfortable one.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "served as a salutary reminder"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "Which statement best summarises paragraphs 6 to 8?",
+      "options": [
+        "A failed replication always proves that the original finding was false.",
+        "Statistical significance is no longer used in scientific research.",
+        "The replication crisis shows that scientific research cannot be trusted.",
+        "Failed replications need careful interpretation, statistical habits are changing, and the public should weigh evidence rather than reject science."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The final paragraphs discuss interpreting failed replications, reforms in statistical practice and how the public should respond.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "The appropriate response lies somewhere between credulity and cynicism"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to paragraph 6, what might explain a failed replication apart from a false original result?",
+      "options": [
+        "Unanticipated differences, such as the population tested or the wording of instructions",
+        "Deliberate fraud by the team carrying out the repeat study",
+        "The use of preregistration in the repeat study",
+        "The larger sample size used in the original study"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The two studies may have differed in unexpected ways.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "the two studies differed in some way that nobody had anticipated, such as the population tested, the precise wording of instructions or the cultural setting"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What is the writer's view of original researchers who claim their findings were not given a fair test?",
+      "options": [
+        "They are usually trying to conceal deliberate fraud.",
+        "Their objections are sometimes valid but can be used to shield an idea from being disproved.",
+        "Their objections should always be accepted without question.",
+        "They seldom respond publicly to failed replications."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer grants that such objections can be legitimate but warns they can protect favoured ideas from refutation.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Such objections can be legitimate, yet they can also become a way of protecting a favoured idea from any possible refutation."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "inference",
+      "text": "What does the final sentence of paragraph 6 suggest about very fragile effects?",
+      "options": [
+        "They are certain to be false positives.",
+        "They are the most valuable findings in psychology.",
+        "Even if they are real, they may be of limited importance.",
+        "They can always be reproduced with enough effort."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "An effect that appears only under unspecifiable conditions has questionable practical and theoretical significance, whether or not it exists.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "its practical and theoretical significance is open to question"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 6, the word \"refutation\" is closest in meaning to:",
+      "options": [
+        "being published",
+        "being funded",
+        "being repeated",
+        "being proved wrong"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Objections can protect an idea from ever being shown to be false.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "protecting a favoured idea from any possible refutation"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 7, why is treating a significance threshold as a dividing line misleading?",
+      "options": [
+        "A result just above the threshold is scarcely different from one just below it.",
+        "Each journal sets its threshold at a different level.",
+        "Significance cannot be calculated for small samples.",
+        "Effect sizes always matter more than any threshold."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Results on either side of the line are nearly identical, so a sharp division makes little sense.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "since a result just above the threshold is scarcely different from one just below it"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "detail",
+      "text": "According to paragraph 7, what is now given greater emphasis?",
+      "options": [
+        "Whether a result has passed the significance cut-off",
+        "Publishing results from single laboratories only",
+        "Reporting the size of an effect and the uncertainty around it",
+        "Using smaller samples to reduce research costs"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Effect sizes and uncertainty are emphasised rather than passing a threshold.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "There is now greater emphasis on reporting the size of an effect and the uncertainty surrounding it"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "inference",
+      "text": "What can be inferred about the \"binary approach\" to statistical significance?",
+      "options": [
+        "It was introduced as a reform in response to the crisis.",
+        "It gave researchers a strong incentive to push their results past the threshold.",
+        "Statisticians have generally recommended it.",
+        "It helped to prevent p-hacking."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Treating the threshold as decisive encouraged the practices, such as p-hacking, described in paragraph 2.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "a habit that encouraged the very practices described earlier"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "purpose",
+      "text": "Why does the writer mention large, collaborative studies involving many laboratories?",
+      "options": [
+        "To show that single laboratories may no longer publish their work",
+        "To argue that small studies are usually fraudulent",
+        "As an example of a further reform aimed at producing more precise results",
+        "To explain how the replication crisis began"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Pooling resources yields larger samples and more precise estimates, addressing the small-sample problem.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "producing samples big enough to yield more precise estimates"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"arbitrary\" is closest in meaning to:",
+      "options": [
+        "extremely strict",
+        "scientifically proven",
+        "legally required",
+        "chosen without a strong underlying reason"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The cut-off is a convention rather than a natural boundary between real and unreal findings.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "whether it passed an arbitrary cut-off"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "detail",
+      "text": "According to paragraph 8, why does the crisis matter beyond the academic world?",
+      "options": [
+        "Unreliable findings can influence policy, clinical practice and popular advice.",
+        "Universities lose funding when their studies fail to replicate.",
+        "Journalists are responsible for most unreliable claims.",
+        "Policymakers rarely make use of scientific findings."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Findings feed into policy, medicine and advice, so unreliable ones can lead to poor decisions.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Findings from psychology and medicine frequently shape public policy, clinical practice and popular advice"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "How would the writer most likely advise a reader to treat a striking new study reported in the press?",
+      "options": [
+        "With rejection, since most published studies are unreliable",
+        "With caution until it is supported by further independent evidence",
+        "With full acceptance if it appeared in a respected journal",
+        "With indifference until the replication crisis is resolved"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer gives more weight to findings supported by many independent lines of evidence than to single striking results.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "deserve considerably more confidence than a single striking result reported in the press"
+        }
+      ]
+    }
+  ]
+}

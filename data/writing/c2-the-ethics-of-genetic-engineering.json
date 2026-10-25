@@ -1,0 +1,327 @@
+{
+  "id": "w-the-ethics-of-genetic-engineering",
+  "title": "The Ethics of Genetic Engineering",
+  "level": "C2 · Proficiency",
+  "description": "Practise the subjunctive, inversion and hedging, then write an essay on the ethics of gene editing.",
+  "instructions": "Complete the exercises in Part 1, then write your text in Part 2.",
+  "exercises": [
+    {
+      "id": "e1",
+      "type": "choice",
+      "focus": "Subjunctive",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Many bioethicists insist that every clinical trial ___ subject to independent review.",
+      "options": [
+        "be",
+        "being",
+        "to be",
+        "been"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After verbs of insisting, demanding or recommending, formal English uses the base form (the subjunctive): insist that every trial be subject to review."
+    },
+    {
+      "id": "e2",
+      "type": "gap-fill",
+      "focus": "Inversion after \"not only\"",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Not only ___ gene editing cure inherited diseases, but it could also remove them from future generations. (modal verb)",
+      "answers": [
+        "could",
+        "might",
+        "may",
+        "can"
+      ],
+      "points": 1,
+      "explanation": "When \"not only\" begins a clause, the auxiliary comes before the subject, as in a question: not only could gene editing cure ..."
+    },
+    {
+      "id": "e3",
+      "type": "word-order",
+      "focus": "Hedging",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "premature",
+        "it",
+        "to draw",
+        "would",
+        "firm conclusions",
+        "seem"
+      ],
+      "answers": [
+        "It would seem premature to draw firm conclusions."
+      ],
+      "points": 1,
+      "explanation": "\"It would seem + adjective + to-infinitive\" is a cautious, formal way of giving an opinion without overcommitting."
+    },
+    {
+      "id": "e4",
+      "type": "error-correction",
+      "focus": "Idiomatic collocations",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The new technique has raised serious ethical concerns and opened a can of insects.",
+      "answers": [
+        "The new technique has raised serious ethical concerns and opened a can of worms."
+      ],
+      "points": 1,
+      "explanation": "The fixed idiom is \"open a can of worms\", meaning to create a complicated set of new problems. Idioms cannot be changed word by word."
+    },
+    {
+      "id": "e5",
+      "type": "transformation",
+      "focus": "Inversion",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Never before ...\".",
+      "text": "We have never before had such power over our own biology.",
+      "keyword": "never",
+      "answers": [
+        "Never before have we had such power over our own biology."
+      ],
+      "points": 1,
+      "explanation": "After a negative adverbial such as \"never before\" at the start of a sentence, invert the subject and auxiliary: never before have we had ..."
+    },
+    {
+      "id": "e6",
+      "type": "transformation",
+      "focus": "Concession",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"However real ...\".",
+      "text": "Although the risks are real, they should not paralyse research.",
+      "keyword": "however",
+      "answers": [
+        "However real the risks are, they should not paralyse research.",
+        "However real the risks may be, they should not paralyse research.",
+        "However real the risks might be, they should not paralyse research.",
+        "However real the risks are, they should not paralyze research.",
+        "However real the risks may be, they should not paralyze research.",
+        "However real the risks might be, they should not paralyze research."
+      ],
+      "points": 1,
+      "explanation": "\"However + adjective + subject + verb\" expresses concession: however real the risks are, ... (= no matter how real). \"May be\" adds a formal, tentative tone."
+    },
+    {
+      "id": "e7",
+      "type": "transformation",
+      "focus": "Hedging and stance",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"The debate about designer babies ...\".",
+      "text": "The debate about designer babies is far from over.",
+      "keyword": "means",
+      "answers": [
+        "The debate about designer babies is by no means over.",
+        "The debate about designer babies is by no means finished.",
+        "The debate about designer babies is by no means at an end."
+      ],
+      "points": 1,
+      "explanation": "\"By no means\" is an emphatic negative meaning \"not at all\": the debate is by no means over."
+    },
+    {
+      "id": "e8",
+      "type": "gap-fill",
+      "focus": "Ellipsis and substitution",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Critics fear that parents will choose their children's traits, and some clinics already allow them to ___. (two words)",
+      "answers": [
+        "do so",
+        "do that"
+      ],
+      "points": 1,
+      "explanation": "\"Do so\" replaces a whole verb phrase already mentioned (choose their children's traits), avoiding repetition in formal writing."
+    },
+    {
+      "id": "e9",
+      "type": "choice",
+      "focus": "Idiomatic expressions",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Critics warn that by redesigning human beings we are ___ God.",
+      "options": [
+        "acting",
+        "playing",
+        "doing",
+        "making"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "To \"play God\" means to behave as if you had unlimited power over life and nature; it is often used in ethical debates about science."
+    },
+    {
+      "id": "e10",
+      "type": "gap-fill",
+      "focus": "Word formation",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Germline editing could have ___ (foresee) consequences for future generations.",
+      "answers": [
+        "unforeseen",
+        "unforeseeable"
+      ],
+      "points": 1,
+      "explanation": "\"Unforeseen\" (not predicted) and \"unforeseeable\" (impossible to predict) are both formed from \"foresee\" with the prefix un-."
+    },
+    {
+      "id": "e11",
+      "type": "error-correction",
+      "focus": "Adjective + preposition",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Such research must be subject for rigorous ethical oversight.",
+      "answers": [
+        "Such research must be subject to rigorous ethical oversight."
+      ],
+      "points": 1,
+      "explanation": "The adjective \"subject\" (= controlled or affected by) is followed by \"to\": subject to approval, subject to oversight."
+    },
+    {
+      "id": "e12",
+      "type": "transformation",
+      "focus": "Idiomatic collocations",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"We must ...\".",
+      "text": "We must distinguish clearly between treating disease and enhancing ability.",
+      "keyword": "distinction",
+      "answers": [
+        "We must draw a clear distinction between treating disease and enhancing ability.",
+        "We must make a clear distinction between treating disease and enhancing ability."
+      ],
+      "points": 1,
+      "explanation": "We \"draw\" or \"make\" a distinction between two things; an adverb (clearly) becomes an adjective (clear) before the noun."
+    },
+    {
+      "id": "e13",
+      "type": "choice",
+      "focus": "Fixed phrases",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "The long-term effects of gene editing are, as ___, unknown.",
+      "options": [
+        "still",
+        "now",
+        "yet",
+        "already"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"As yet\" is a formal fixed phrase meaning \"so far\" or \"until now\", often used with negative ideas."
+    },
+    {
+      "id": "e14",
+      "type": "word-order",
+      "focus": "Fronting for emphasis",
+      "prompt": "Put the words in the correct order to make a sentence.",
+      "words": [
+        "is",
+        "equally troubling",
+        "of",
+        "the prospect",
+        "designer babies"
+      ],
+      "answers": [
+        "Equally troubling is the prospect of designer babies.",
+        "The prospect of designer babies is equally troubling."
+      ],
+      "points": 1,
+      "explanation": "An adjective complement can be fronted to link to the previous point, with the verb before the subject: equally troubling is the prospect of ..."
+    },
+    {
+      "id": "e15",
+      "type": "error-correction",
+      "focus": "Word formation",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "The procedure raises profound ethical dilemmas and is far from uncontroversy.",
+      "answers": [
+        "The procedure raises profound ethical dilemmas and is far from uncontroversial."
+      ],
+      "points": 1,
+      "explanation": "\"Far from\" is followed here by an adjective: far from uncontroversial (= very controversial). \"Uncontroversy\" is not a word."
+    },
+    {
+      "id": "e16",
+      "type": "transformation",
+      "focus": "Idiomatic expressions",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Approving this treatment could ...\".",
+      "text": "Approving this treatment could lead to a huge number of similar applications.",
+      "keyword": "floodgates",
+      "answers": [
+        "Approving this treatment could open the floodgates to similar applications.",
+        "Approving this treatment could open the floodgates for similar applications.",
+        "Approving this treatment could open the floodgates to a huge number of similar applications.",
+        "Approving this treatment could open the floodgates for a huge number of similar applications."
+      ],
+      "points": 1,
+      "explanation": "To \"open the floodgates\" means to allow something to happen on a very large scale, usually something that was previously controlled."
+    },
+    {
+      "id": "e17",
+      "type": "choice",
+      "focus": "Subjunctive with \"lest\"",
+      "prompt": "Choose the best option to complete the sentence.",
+      "text": "Strict limits are needed ___ the technology be misused.",
+      "options": [
+        "unless",
+        "so that",
+        "otherwise",
+        "lest"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "\"Lest\" (= in order to prevent) is formal and is followed by the subjunctive (be) or \"should\": lest the technology be misused."
+    },
+    {
+      "id": "e18",
+      "type": "gap-fill",
+      "focus": "Fixed phrases",
+      "prompt": "Complete the sentence with the missing word or words.",
+      "text": "Gene therapy has raised great hopes, but the field is still in its ___. (one word, beginning with I)",
+      "answers": [
+        "infancy"
+      ],
+      "points": 1,
+      "explanation": "If something is \"in its infancy\", it is at a very early stage of development."
+    },
+    {
+      "id": "e19",
+      "type": "transformation",
+      "focus": "Conditionals",
+      "prompt": "Complete the second sentence so that it means the same as the first, using the word given. Do not change the word. Write the whole sentence, beginning \"Gene editing is acceptable ...\".",
+      "text": "Gene editing is acceptable, but only if it is used to treat serious disease.",
+      "keyword": "provided",
+      "answers": [
+        "Gene editing is acceptable provided that it is used to treat serious disease.",
+        "Gene editing is acceptable provided it is used to treat serious disease.",
+        "Gene editing is acceptable provided that it is only used to treat serious disease.",
+        "Gene editing is acceptable provided it is only used to treat serious disease.",
+        "Gene editing is acceptable only provided that it is used to treat serious disease.",
+        "Gene editing is acceptable provided that it's used to treat serious disease.",
+        "Gene editing is acceptable provided it's used to treat serious disease."
+      ],
+      "points": 1,
+      "explanation": "\"Provided (that)\" means \"only if\" and introduces a strict condition."
+    },
+    {
+      "id": "e20",
+      "type": "error-correction",
+      "focus": "Uncountable nouns",
+      "prompt": "There is one mistake in the sentence. Write the correct sentence.",
+      "text": "Scientists have made a remarkable progress in the field of genetics.",
+      "answers": [
+        "Scientists have made remarkable progress in the field of genetics."
+      ],
+      "points": 1,
+      "explanation": "\"Progress\" is uncountable, so it cannot be used with \"a\"."
+    }
+  ],
+  "task": {
+    "genre": "Essay",
+    "prompt": "Your class has discussed whether human genetic engineering should be allowed. Write an essay giving your view on the ethics of editing human genes.",
+    "contentPoints": [
+      "Outline the potential medical benefits of gene editing.",
+      "Discuss at least two ethical risks, such as inequality or consent.",
+      "Distinguish between treating disease and enhancing human traits.",
+      "Reach a clear, balanced conclusion about how the technology should be regulated."
+    ],
+    "minWords": 280,
+    "maxWords": 320,
+    "usefulLanguage": [
+      "It would seem reasonable to argue that ...",
+      "Not only does ... but it also ...",
+      "There is a fine line between ...",
+      "This is by no means to suggest that ...",
+      "On balance, ..."
+    ],
+    "modelAnswer": "Few scientific developments have provoked as much unease as the ability to rewrite the human genome. Gene-editing tools now allow researchers to alter DNA with remarkable precision, and the question is no longer whether we can intervene in our own biology, but whether, and how far, we should.\n\nThe case in favour is compelling. Thousands of conditions, from cystic fibrosis to certain forms of blindness, are caused by single faulty genes. Not only could editing relieve individual suffering, but it could also spare future generations from inheriting the same illnesses. To deny families this possibility on abstract philosophical grounds would seem, to my mind, difficult to justify.\n\nNevertheless, the risks are considerable. The first concerns consent. A child whose genes are altered before birth cannot agree to the procedure, yet will live with its consequences, some of which may not emerge for decades. The second is inequality. If such treatments remain expensive, the wealthy could, in effect, purchase biological advantages for their offspring, entrenching privilege in a way no previous generation has been able to.\n\nIt is here that a crucial distinction must be drawn. Correcting a gene that causes a devastating disease is, I would argue, fundamentally different from selecting for height, intelligence or appearance. The former restores health; the latter treats children as products to be designed. Admittedly, the line between the two is not always clear, since what counts as a disorder is itself partly a social judgement.\n\nOn balance, I believe that a total ban would be neither realistic nor desirable. What is required instead is strict international regulation which permits therapeutic editing under rigorous supervision while prohibiting enhancement outright. It is essential that such rules be agreed before commercial pressures make them impossible to enforce. Science has given us extraordinary power; the challenge now is to exercise it with humility."
+  }
+}

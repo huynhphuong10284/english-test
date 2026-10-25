@@ -1,0 +1,447 @@
+{
+  "id": "nudges-and-behavioural-economics",
+  "title": "The Gentle Art of the Nudge",
+  "level": "C1 · Advanced",
+  "description": "An article on behavioural economics and the debate over using nudges in public policy.",
+  "instructions": "Read the article carefully. Some questions are worth 2 marks. Choose the best answer for each question.",
+  "paragraphs": [
+    {
+      "id": "p1",
+      "text": "Traditional economic theory rested on the assumption that people are rational agents who weigh costs and benefits carefully and act consistently in their own interests. Behavioural economics, which draws on insights from psychology, has challenged this picture by documenting the many systematic ways in which real human beings depart from it. We procrastinate, we are swayed by the way choices are presented, and we tend to stick with whatever option requires the least effort."
+    },
+    {
+      "id": "p2",
+      "text": "From these observations emerged the idea of the nudge: a change in the way choices are structured that steers people towards particular decisions without forbidding any option or significantly altering financial incentives. The best-known example concerns default settings. When employees are automatically enrolled in a pension scheme and must actively opt out if they do not wish to participate, participation tends to be far higher than when they must actively opt in, even though the available choices are identical."
+    },
+    {
+      "id": "p3",
+      "text": "The appeal of nudges to policymakers is easy to understand. They are typically cheap, they preserve freedom of choice, and they can be tested rigorously through controlled trials before being widely adopted. Governments in a number of countries have established dedicated units to apply behavioural insights to areas as diverse as tax collection, energy consumption and organ donation, and some of these interventions have produced measurable improvements at modest cost."
+    },
+    {
+      "id": "p4",
+      "text": "Nevertheless, the approach has attracted considerable criticism. Some philosophers object that nudges are manipulative, since they work precisely by exploiting cognitive biases of which people are largely unaware. Others question whether the effects are as large or as durable as early enthusiasm suggested; several reviews have concluded that, once studies with unimpressive results are taken into account, the average impact of many nudges is rather smaller than initially reported."
+    },
+    {
+      "id": "p5",
+      "text": "Perhaps the most serious concern is that nudges may serve as a convenient substitute for more ambitious policy. Encouraging individuals to save more or eat more healthily is considerably less costly, both financially and politically, than addressing the structural conditions that shape their behaviour. Used judiciously, nudges can be a valuable instrument; treated as a panacea, they risk placing the burden of complex social problems on individual decision-makers."
+    },
+    {
+      "id": "p6",
+      "text": "Defenders of nudging have responded to the charge of manipulation in several ways. They point out that there is no neutral way of presenting choices: a form must list its options in some order, and a cafeteria must place some foods nearer the till than others. Since people will be influenced by the arrangement in any case, the argument runs, it is better for that influence to be designed deliberately and in the public interest than left to chance or to commercial interests. Some have also proposed that nudges should be transparent, meaning that people could in principle discover how and why they were being steered. A nudge that would only work if it were kept secret, on this view, should be regarded with particular suspicion. Transparency, in other words, serves as a test of whether a nudge could be defended openly."
+    },
+    {
+      "id": "p7",
+      "text": "The same psychological insights can, of course, be exploited for less benign purposes. Businesses have long understood that defaults, framing and inertia shape what consumers do, and some deliberately make it easy to sign up for a subscription but tedious to cancel it. Critics have coined the term 'sludge' to describe such excessive friction, which discourages people from acting in their own interests, whether by cancelling a contract, claiming a benefit to which they are entitled or switching to a cheaper supplier. Some governments have begun to examine their own administrative procedures in this light, recognising that complicated forms and lengthy waiting times can deter precisely those citizens who most need assistance. Reducing sludge may, in some cases, achieve more than adding new nudges."
+    },
+    {
+      "id": "p8",
+      "text": "A further lesson of the past two decades is that behavioural interventions are often highly sensitive to context. A reminder letter that increases tax payments in one country may have little effect in another, and a message that works for one group of people may be ignored or even resented by a different group. This has encouraged a more cautious and experimental attitude, in which interventions are tested locally before being adopted on a large scale, and in which disappointing results are published rather than quietly discarded. Such modesty is arguably a sign of the field's maturity rather than its failure. Behavioural economics has shown convincingly that human decisions are shaped by their surroundings; the harder question, which remains open, is how and by whom those surroundings ought to be designed."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "type": "main-idea",
+      "text": "What is the main idea of the passage?",
+      "options": [
+        "Nudges are a useful but limited policy tool whose benefits and risks must be weighed carefully.",
+        "Behavioural economics has proved that people always act irrationally.",
+        "Nudges have replaced traditional economic policy in most countries.",
+        "Nudges are unethical and should be abandoned."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The passage explains the appeal of nudges, presents the criticisms, and concludes that they are valuable if used judiciously but not a cure-all.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "Used judiciously, nudges can be a valuable instrument"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "detail",
+      "text": "According to paragraph 2, what defines a nudge?",
+      "options": [
+        "It rewards people financially for making the right choice.",
+        "It removes undesirable options from the choices available.",
+        "It influences decisions without banning options or substantially changing financial incentives.",
+        "It requires people to justify their decisions."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A nudge steers choices while leaving all options available and incentives largely unchanged.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "steers people towards particular decisions without forbidding any option or significantly altering financial incentives"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "purpose",
+      "text": "Why does the writer mention the pension scheme example?",
+      "options": [
+        "To argue that pension schemes should be compulsory",
+        "To show how a change in default settings can strongly influence behaviour",
+        "To demonstrate that employees understand pensions poorly",
+        "To illustrate how financial incentives change behaviour"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The example illustrates the power of defaults: participation is far higher when people must opt out, even though the choices are identical.",
+      "evidence": [
+        {
+          "paragraphId": "p2",
+          "quote": "The best-known example concerns default settings."
+        },
+        {
+          "paragraphId": "p2",
+          "quote": "even though the available choices are identical"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "detail",
+      "text": "Which of the following is NOT given as a reason why nudges appeal to policymakers?",
+      "options": [
+        "They are usually inexpensive.",
+        "They leave people free to choose.",
+        "They can be evaluated through controlled trials.",
+        "They have been shown to produce large, permanent changes in behaviour."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Paragraph 3 mentions cost, freedom of choice and testability; paragraph 4 actually questions how large and durable the effects are.",
+      "evidence": [
+        {
+          "paragraphId": "p3",
+          "quote": "They are typically cheap, they preserve freedom of choice, and they can be tested rigorously through controlled trials"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "inference",
+      "text": "What can be inferred from paragraph 4 about early research on nudges?",
+      "options": [
+        "It may have overstated their effects because less impressive studies were overlooked.",
+        "It was conducted mainly by philosophers.",
+        "It found that nudges had no effect at all.",
+        "It deliberately concealed the manipulative nature of nudges."
+      ],
+      "answer": 0,
+      "points": 2,
+      "explanation": "Once studies with unimpressive results are included, the average impact is smaller than first reported, implying early estimates were inflated.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "once studies with unimpressive results are taken into account, the average impact of many nudges is rather smaller than initially reported"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "vocabulary",
+      "text": "In paragraph 5, the word \"panacea\" is closest in meaning to:",
+      "options": [
+        "a dangerous mistake",
+        "a temporary measure",
+        "a political slogan",
+        "a solution to every problem"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The writer contrasts using nudges \"judiciously\" with treating them as a cure for all problems.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "treated as a panacea, they risk placing the burden of complex social problems on individual decision-makers"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "inference",
+      "text": "What does the writer imply about the relationship between nudges and structural reform?",
+      "options": [
+        "Structural reform becomes unnecessary when nudges succeed.",
+        "Nudges are more expensive than structural reform.",
+        "Nudges should complement, not replace, efforts to address underlying conditions.",
+        "Structural reform and nudges are essentially the same thing."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "The writer's main concern is that nudges could become a \"substitute\" for more ambitious policy, implying they should accompany it instead.",
+      "evidence": [
+        {
+          "paragraphId": "p5",
+          "quote": "nudges may serve as a convenient substitute for more ambitious policy"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "vocabulary",
+      "text": "In paragraph 4, the word \"durable\" is closest in meaning to:",
+      "options": [
+        "measurable",
+        "long-lasting",
+        "widespread",
+        "ethical"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Critics ask whether the effects are large and whether they last, so \"durable\" means long-lasting.",
+      "evidence": [
+        {
+          "paragraphId": "p4",
+          "quote": "whether the effects are as large or as durable as early enthusiasm suggested"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "main-idea",
+      "text": "What is the main point of paragraph 6?",
+      "options": [
+        "Because choices are always presented in some way, defenders argue that deliberate and transparent nudging can be justified.",
+        "Nudges are acceptable only when people remain unaware of them.",
+        "Cafeterias should be required by law to place healthy foods near the till.",
+        "Most philosophers now accept that nudges are not manipulative."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The paragraph sets out the defence that influence is unavoidable and that nudges should be designed in the public interest and be open to scrutiny.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "it is better for that influence to be designed deliberately and in the public interest than left to chance or to commercial interests"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "detail",
+      "text": "According to defenders of nudging, why is there \"no neutral way of presenting choices\"?",
+      "options": [
+        "Governments always have a political interest in what people choose.",
+        "People invariably select the first option they see.",
+        "Options must always be arranged somehow, and the arrangement will influence people.",
+        "Commercial interests control most of the choices people face."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Forms must list options in some order and foods must be placed somewhere, so some influence is unavoidable.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "Since people will be influenced by the arrangement in any case"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "inference",
+      "text": "What can be inferred about a nudge that would only work if it were kept secret?",
+      "options": [
+        "It would be more effective and therefore preferable to transparent nudges.",
+        "It would be acceptable as long as it served the public interest.",
+        "It would not technically count as a nudge at all.",
+        "It would be especially difficult to defend against the charge of manipulation."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "Defenders propose transparency as a safeguard, so a nudge that depends on secrecy looks most like manipulation.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "A nudge that would only work if it were kept secret, on this view, should be regarded with particular suspicion."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "purpose",
+      "text": "Why does the writer mention the order of options on a form and the position of foods in a cafeteria?",
+      "options": [
+        "To show how businesses take advantage of consumers",
+        "To illustrate the claim that choices cannot be presented without some influence",
+        "To give examples of nudges that have failed in practice",
+        "To argue that people make irrational choices about food"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "Both examples show that any presentation of choices involves an arrangement that affects decisions.",
+      "evidence": [
+        {
+          "paragraphId": "p6",
+          "quote": "a form must list its options in some order, and a cafeteria must place some foods nearer the till than others"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "vocabulary",
+      "text": "In paragraph 7, the word \"benign\" is closest in meaning to:",
+      "options": [
+        "harmless or well-meaning",
+        "profitable",
+        "obvious",
+        "scientific"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The insights can be used for purposes that are not kindly, such as trapping consumers in subscriptions.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "can, of course, be exploited for less benign purposes"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "detail",
+      "text": "According to paragraph 7, what does the term \"sludge\" describe?",
+      "options": [
+        "Subscriptions that are quick and simple to sign up for",
+        "Excessive friction that discourages people from acting in their own interests",
+        "Defaults that are designed in the public interest",
+        "Forms that are too brief to collect useful information"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Sludge refers to friction that stops people doing what would benefit them.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "to describe such excessive friction, which discourages people from acting in their own interests"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "inference",
+      "text": "What does paragraph 7 suggest about complicated administrative procedures?",
+      "options": [
+        "They are deliberately designed by governments to save money.",
+        "They mainly affect wealthier and better-educated citizens.",
+        "They may stop some people from receiving help to which they are entitled.",
+        "They have already been removed by most governments."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanation": "Complicated forms and long waits can deter the citizens who most need help, much as sludge deters people from claiming benefits.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "complicated forms and lengthy waiting times can deter precisely those citizens who most need assistance"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "detail",
+      "text": "Which example of sludge is given in paragraph 7?",
+      "options": [
+        "Automatically enrolling employees in a pension scheme",
+        "Placing healthier foods closer to the cafeteria till",
+        "Sending reminder letters to people who owe tax",
+        "Making it easy to start a subscription but tedious to cancel it"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Some businesses make sign-up easy and cancellation tedious.",
+      "evidence": [
+        {
+          "paragraphId": "p7",
+          "quote": "some deliberately make it easy to sign up for a subscription but tedious to cancel it"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "vocabulary",
+      "text": "In paragraph 8, the word \"resented\" is closest in meaning to:",
+      "options": [
+        "regarded with annoyance",
+        "misunderstood",
+        "quickly forgotten",
+        "warmly welcomed"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A message might not only be ignored but also provoke irritation in some groups.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "may be ignored or even resented by a different group"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "detail",
+      "text": "According to paragraph 8, what has the sensitivity of interventions to context encouraged?",
+      "options": [
+        "Abandoning behavioural interventions altogether",
+        "Using the same message in every country",
+        "Testing interventions locally and publishing disappointing results",
+        "Keeping unsuccessful results confidential"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It has led to local testing before scaling up and to publishing results that disappoint.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "interventions are tested locally before being adopted on a large scale, and in which disappointing results are published rather than quietly discarded"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "purpose",
+      "text": "Why does the writer describe this modesty as \"a sign of the field's maturity rather than its failure\"?",
+      "options": [
+        "To admit that behavioural economics has largely failed",
+        "To present the more cautious approach in a positive light",
+        "To criticise researchers for being too modest in the past",
+        "To argue that nudges no longer need to be tested"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanation": "The writer anticipates that caution might look like failure and reframes it as a strength.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Such modesty is arguably a sign of the field's maturity rather than its failure."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "inference",
+      "text": "What does the writer imply by saying that the question of \"how and by whom those surroundings ought to be designed\" remains open?",
+      "options": [
+        "Research has not yet shown that surroundings influence decisions.",
+        "Businesses rather than governments should design choice environments.",
+        "Governments have now agreed on clear rules for nudging.",
+        "Debates about who may legitimately shape people's choices, and how, have not been settled."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanation": "The influence of surroundings is described as convincingly shown; what remains disputed is the ethical and political question of who should design them.",
+      "evidence": [
+        {
+          "paragraphId": "p8",
+          "quote": "Behavioural economics has shown convincingly that human decisions are shaped by their surroundings"
+        }
+      ]
+    }
+  ]
+}
