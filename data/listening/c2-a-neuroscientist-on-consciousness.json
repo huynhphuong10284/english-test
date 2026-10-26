@@ -1,0 +1,598 @@
+{
+  "id": "l-c2-a-neuroscientist-on-consciousness",
+  "title": "A Neuroscientist on Consciousness",
+  "level": "C2 · Proficiency",
+  "description": "Four extracts in which neuroscientists discuss what consciousness is and whether science can explain it.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A radio interview",
+      "intro": "You will hear a presenter, Mai, interviewing a neuroscientist, Dr Adeyemi.",
+      "speakers": {
+        "Mai": "female",
+        "Dr Adeyemi": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Dr Adeyemi, you've spent thirty years studying the brain, and yet you describe consciousness as the thing that keeps you humble. Why?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Adeyemi",
+          "text": "Because we can explain a great deal about the brain without touching the central mystery. We know which regions light up when you see red, and we can predict, rather well, what a person will report. But why should any of that activity feel like something from the inside? That's the question philosophers call the hard problem, and I confess that no experiment I've run has made it feel any easier."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "Some of your colleagues say the problem is an illusion, that once we explain every function, nothing will be left to explain."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Adeyemi",
+          "text": "I respect that position, and I used to lean towards it. The trouble is that it asks me to deny the one thing I know with certainty, which is that I am having an experience right now. It seems a high price to pay for tidiness."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "So where does a scientist even begin?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Adeyemi",
+          "text": "Modestly. Rather than asking what consciousness is, we ask what differs in the brain when a stimulus is consciously perceived and when it is not. You can show someone a faint image so that it is sometimes noticed and sometimes missed, and then compare the brain activity in the two cases. It's unglamorous work, but it narrows the search."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "And what have you found?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Dr Adeyemi",
+          "text": "That conscious perception tends to involve a sudden, widespread burst of activity across the brain, whereas unconscious processing stays local. Whether that burst creates the experience or merely accompanies it is exactly where the argument begins."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A lecture on theories",
+      "intro": "You will hear a neuroscientist, Dr Karlsson, describing rival theories of consciousness.",
+      "speakers": {
+        "Dr Karlsson": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Dr Karlsson",
+          "text": "At the moment, the field is dominated by a handful of rival theories, and it would be dishonest to pretend that any has won. The first I will mention is the global workspace theory. It likens the mind to a theatre in which a small spotlight picks out one piece of information and broadcasts it to the whole audience of specialised processes. What you are conscious of is simply what has entered the spotlight."
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Karlsson",
+          "text": "The second, integrated information theory, takes the opposite approach. It begins not with the brain but with the experience itself, and asks what any physical system would need to have in order to support it. Its answer is a particular kind of interconnectedness, and the controversial consequence is that consciousness might exist in places we would never expect, even in simple devices."
+        },
+        {
+          "id": "s11",
+          "speaker": "Dr Karlsson",
+          "text": "A third family of ideas holds that consciousness is the brain's best guess about what is causing its sensory signals. On this view, perception is a kind of controlled hallucination, constantly corrected by incoming data. Some of the most vivid support comes from illusions, where the brain stubbornly sees what it expects rather than what is there."
+        },
+        {
+          "id": "s12",
+          "speaker": "Dr Karlsson",
+          "text": "Naturally, these theories make different predictions, and recently several research groups agreed to test them against each other in a large collaborative project. What I admire is that the leaders of each theory publicly committed in advance to say what result would count against them. The outcome was mixed, with each camp finding aspects that fit and aspects that did not."
+        },
+        {
+          "id": "s13",
+          "speaker": "Dr Karlsson",
+          "text": "Some people read that as failure. I read it as science behaving properly. A field that can be embarrassed by its own data is a field that is learning, and I would sooner have an honest stalemate than a premature victory."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Patients and animals",
+      "intro": "You will hear a presenter, Daniel, talking to a researcher, Dr Nguyen, about consciousness in patients and animals.",
+      "speakers": {
+        "Daniel": "male",
+        "Dr Nguyen": "female"
+      },
+      "script": [
+        {
+          "id": "s14",
+          "speaker": "Daniel",
+          "text": "Dr Nguyen, you work with patients who appear unresponsive after severe brain injury. How can you tell whether anyone is still in there?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Dr Nguyen",
+          "text": "It's one of the most difficult questions in medicine, and for a long time we relied on behaviour alone. If a patient did not respond, we assumed that nobody was home. We now know that is sometimes wrong. In a famous set of studies, patients who showed no outward sign of awareness were asked to imagine playing tennis, and their brain scans showed the same pattern as healthy volunteers doing so."
+        },
+        {
+          "id": "s16",
+          "speaker": "Daniel",
+          "text": "That must have been astonishing."
+        },
+        {
+          "id": "s17",
+          "speaker": "Dr Nguyen",
+          "text": "It was sobering, frankly. Families had been told for years that their relative could not hear them. Of course, a result like that is only the beginning, because we need much better ways of detecting awareness than asking someone to imagine a sport. Some teams now stimulate the brain with a magnetic pulse and measure how the echo spreads, which doesn't depend on the patient doing anything at all."
+        },
+        {
+          "id": "s18",
+          "speaker": "Daniel",
+          "text": "And what about animals? Surely they are conscious too."
+        },
+        {
+          "id": "s19",
+          "speaker": "Dr Nguyen",
+          "text": "Many scientists believe so, and a group of researchers signed a declaration saying that mammals and birds possess the neural machinery for experience. I'd add a caution, though. The difficulty is that we have only our own experience as a guide, and we risk either projecting it onto creatures that lack it or denying it to those who have it. Neither mistake is harmless."
+        },
+        {
+          "id": "s20",
+          "speaker": "Daniel",
+          "text": "Why does the answer matter?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Dr Nguyen",
+          "text": "Because it determines how we treat them. If an octopus can suffer, then how we farm and cook it is an ethical question, not merely a culinary one. And I would rather we err on the side of kindness."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A closing essay",
+      "intro": "You will hear a neuroscientist reflecting on what understanding consciousness might change.",
+      "speakers": {
+        "Dr Adeyemi": "male"
+      },
+      "script": [
+        {
+          "id": "s22",
+          "speaker": "Dr Adeyemi",
+          "text": "People sometimes ask me whether a complete theory of consciousness would spoil the mystery. I have heard the worry that explaining the mind would make it ordinary, in the way that critics once said a rainbow lost its magic when it was explained as refracted light. My experience has been the reverse. The more I learn, the more astonished I become."
+        },
+        {
+          "id": "s23",
+          "speaker": "Dr Adeyemi",
+          "text": "What I do worry about is the practical side. Within a few decades we may build machines that talk about feelings with great fluency. Whether they feel anything is a question we are currently unprepared to answer, and fluency is a poor guide. A very convincing performance of distress is not the same as distress."
+        },
+        {
+          "id": "s24",
+          "speaker": "Dr Adeyemi",
+          "text": "I find myself caught between two mistakes. If we dismiss the possibility that artificial systems might one day be conscious, we risk ignoring suffering that we ourselves have created. If we grant consciousness too readily, we may be manipulated by clever software and waste sympathy that real creatures need. A good theory is therefore not an academic luxury. It is a moral tool."
+        },
+        {
+          "id": "s25",
+          "speaker": "Dr Adeyemi",
+          "text": "Finally, a personal note. Studying the brain has made me gentler. When I think that each person I meet is the centre of a private universe I can never enter, I find it harder to be impatient. That is not a scientific conclusion, I admit, but it is the most valuable thing the work has given me."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why does Dr Adeyemi say consciousness keeps him humble?",
+      "options": [
+        "Experiments on the brain have become too expensive to run",
+        "Philosophers have already solved the hard problem",
+        "He has failed to find any brain activity linked to seeing red",
+        "Explaining brain functions leaves experience itself unexplained"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says we can explain much without touching why activity should feel like something.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "But why should any of that activity feel like something from the inside?"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is his view of the idea that the hard problem is an illusion?",
+      "options": [
+        "He has never taken it seriously and has always rejected it",
+        "He has always supported it and still holds that view",
+        "He once leaned towards it but now finds it too costly",
+        "He thinks it is obviously right, since functions explain all"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He used to lean towards it but says it asks him to deny experience, a high price for tidiness.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "It seems a high price to pay for tidiness."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does the experiment with faint images compare?",
+      "options": [
+        "Brain activity when a faint image is noticed or missed",
+        "Eyesight in different people shown the same faint image",
+        "Brain activity in people who are asleep and awake",
+        "Responses to images shown in colour and in black and white"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It compares brain activity when a faint image is noticed and when it is missed.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "compare the brain activity in the two cases"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why is the burst of activity finding still disputed?",
+      "options": [
+        "It is unclear if it causes experience or just accompanies it",
+        "It was never repeated by other research teams",
+        "It has been observed only in animals, not in humans",
+        "It stays local to one region, so it proves little about awareness"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says whether it creates the experience or merely accompanies it is where the argument begins.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "Whether that burst creates the experience or merely accompanies it"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "According to Dr Adeyemi, what characterises unconscious processing?",
+      "options": [
+        "It is much easier to measure in the laboratory",
+        "It produces a sudden burst of activity everywhere",
+        "It spreads widely across the whole of the brain",
+        "It stays local rather than spreading across the brain"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says conscious perception involves a widespread burst, whereas unconscious processing stays local.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "whereas unconscious processing stays local"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What does Dr Karlsson say about the state of the field?",
+      "options": [
+        "No single theory has won out yet",
+        "All of the theories now broadly agree",
+        "Consciousness has at last been explained",
+        "Global workspace theory has been confirmed"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says it would be dishonest to pretend any has won.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "it would be dishonest to pretend that any has won"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does global workspace theory compare the mind to?",
+      "options": [
+        "A computer network of processors",
+        "A river fed by many streams",
+        "A theatre with a spotlight",
+        "A library with many readers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It likens the mind to a theatre in which a spotlight picks out information.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "likens the mind to a theatre"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What controversial consequence does integrated information theory have?",
+      "options": [
+        "Consciousness might exist in simple devices",
+        "Brains are unnecessary for any kind of thought",
+        "Only humans are able to be conscious",
+        "Consciousness is an illusion of the brain"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says consciousness might exist in places we would not expect, even in simple devices.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "even in simple devices"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does she say she admires the leaders of each theory?",
+      "options": [
+        "They agreed with one another on every point",
+        "They refused to take part in the joint project",
+        "They stated in advance what would count against them",
+        "They won the argument over the rival theories"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They publicly committed in advance to say what result would count against them.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "publicly committed in advance to say what result would count against them"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is Dr Karlsson's attitude towards the mixed outcome of the joint project?",
+      "options": [
+        "She sees it as science working as it should",
+        "She regards it as a failure of the whole field",
+        "She is angry with the leaders of each camp",
+        "She thinks the project was a waste of time"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she reads it as science behaving properly.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "I read it as science behaving properly."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did the scans of unresponsive patients show?",
+      "options": [
+        "Random patterns that doctors could not interpret",
+        "Damage spread across the whole of the brain",
+        "No activity at all in the relevant regions",
+        "The same patterns as healthy people imagining tennis"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The scans showed the same pattern as healthy volunteers imagining playing tennis.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "their brain scans showed the same pattern as healthy volunteers"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Dr Nguyen describe her reaction to that result?",
+      "options": [
+        "Disappointing, because the scans were unclear",
+        "Unsurprising, because doctors had long suspected it",
+        "Encouraging, because the patients had recovered",
+        "Sobering, because families had been told otherwise"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She calls it sobering because families were told their relative could not hear.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "It was sobering, frankly."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does she mention a magnetic pulse?",
+      "options": [
+        "It cures some kinds of severe brain injury",
+        "It replaces brain scans in studies of healthy volunteers",
+        "It detects awareness without any effort from the patient",
+        "It works only on animals, not on human patients"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The method does not depend on the patient doing anything at all.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "which doesn't depend on the patient doing anything at all"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Dr Nguyen warn about judging animal consciousness?",
+      "options": [
+        "The question is too unimportant to be worth studying",
+        "We may wrongly project experience or wrongly deny it",
+        "Only birds, and not mammals, have neural machinery",
+        "Animals are never conscious in any real sense"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says we risk projecting our experience onto creatures that lack it or denying it to those who have it.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "projecting it onto creatures that lack it or denying it to those who have it"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does she mention the octopus?",
+      "options": [
+        "To show that the answer has ethical consequences",
+        "To suggest that octopuses are very intelligent",
+        "To criticise the way that cooks treat seafood",
+        "To describe an experiment on animal awareness"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "If an octopus can suffer, how we treat it becomes an ethical question.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "is an ethical question, not merely a culinary one"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Dr Adeyemi respond to the worry that explanation spoils mystery?",
+      "options": [
+        "He becomes more astonished the more he learns",
+        "He agrees that explanation spoils the mystery",
+        "He finds the mind ordinary once it is explained",
+        "He has stopped doing research on the question"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says his experience has been the reverse; he becomes more astonished.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "The more I learn, the more astonished I become."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does he say fluency is a poor guide to consciousness in machines?",
+      "options": [
+        "Machines cannot yet speak about feelings at all",
+        "A convincing show of distress is not real distress",
+        "Fluency is rare even among human speakers",
+        "Machines never improve their use of language"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says a convincing performance of distress is not the same as distress.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "A very convincing performance of distress is not the same as distress."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What dilemma does he describe?",
+      "options": [
+        "Ignoring possible suffering or being manipulated by software",
+        "Whether to publish results before they are proven",
+        "Whether to stop research on consciousness altogether",
+        "Whether to build more machines that talk about feelings"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "If we dismiss it we may ignore suffering; if we grant it too readily we may be manipulated.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "we may be manipulated by clever software"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does he call a good theory a moral tool?",
+      "options": [
+        "Because it affects how we treat possible minds",
+        "Because it will solve political disagreements",
+        "Because it is easy to teach to students",
+        "Because it is cheap to test in laboratories"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says a good theory helps us avoid ignoring suffering or wasting sympathy.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "It is a moral tool."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What has studying the brain done for him personally?",
+      "options": [
+        "It has made him lonely among his colleagues",
+        "It has made him more sceptical of science",
+        "It has made him wealthier than he expected",
+        "It has made him gentler and more patient"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says studying the brain has made him gentler and less impatient.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "Studying the brain has made me gentler."
+        }
+      ]
+    }
+  ]
+}

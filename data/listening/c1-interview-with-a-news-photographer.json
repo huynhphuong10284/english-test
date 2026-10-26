@@ -1,0 +1,624 @@
+{
+  "id": "l-c1-interview-with-a-news-photographer",
+  "title": "Interview with a News Photographer",
+  "level": "C1 · Advanced",
+  "description": "A radio interview with a veteran news photographer about her career, ethics, technology and advice for the next generation.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Starting out",
+      "intro": "You will hear a radio presenter, Daniel, interviewing a news photographer, Hana, about how she began.",
+      "speakers": {
+        "Daniel": "male",
+        "Hana": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Daniel",
+          "text": "My guest this morning has spent thirty years photographing the news, from floods to elections. Hana, welcome. Did you always want to be a photographer?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Hana",
+          "text": "Not at all, Daniel. I wanted to be a doctor. I only picked up a camera because my uncle lent me his, and I took it on a school trip. When I developed the film, there was one picture of a classmate laughing, and I remember thinking, I've caught something that wasn't there a second earlier."
+        },
+        {
+          "id": "s3",
+          "speaker": "Daniel",
+          "text": "And that was enough to change your plans?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Hana",
+          "text": "It took a few years, honestly. I studied biology, hated the laboratory, and spent every weekend wandering around the city with the camera. Eventually a local newspaper offered me a trial week, and I stayed eleven years."
+        },
+        {
+          "id": "s5",
+          "speaker": "Daniel",
+          "text": "What did a young photographer actually do on a local paper?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Hana",
+          "text": "Everything nobody else wanted. Village fêtes, planning meetings, a prize-winning marrow. I used to resent it. Looking back, it was the best education I could have had, because you learn to find a picture in a dull room. Anyone can photograph a disaster. Making a committee meeting look human is the real test."
+        },
+        {
+          "id": "s7",
+          "speaker": "Daniel",
+          "text": "You make it sound almost like a craft."
+        },
+        {
+          "id": "s8",
+          "speaker": "Hana",
+          "text": "It is a craft, and I think we undervalue that. People imagine it's luck, that you simply stand in the right place. Luck matters, but it favours the person who's already there at six in the morning, waiting, and who knows which way the light will fall."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Ethics in the field",
+      "intro": "You will hear Daniel and Hana discuss difficult decisions photographers face.",
+      "speakers": {
+        "Daniel": "male",
+        "Hana": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Daniel",
+          "text": "You've worked in areas hit by terrible events. How do you decide when to lift the camera and when to put it down?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Hana",
+          "text": "There's no rule, and that's what makes it hard. I ask myself two questions. Is this person aware of me, and would they mind if they could see the picture in a newspaper? If the answer to the second is yes, I generally don't take it. But the answer isn't always simple."
+        },
+        {
+          "id": "s11",
+          "speaker": "Daniel",
+          "text": "Can you think of a time when you got it wrong?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Hana",
+          "text": "Early on, after a train accident, I photographed a man sitting on the kerb with his head in his hands. The picture was published, it was powerful, and people praised it. A week later his daughter wrote to me. She wasn't angry, just sad. She said she wished she'd been asked. I've never forgotten that."
+        },
+        {
+          "id": "s13",
+          "speaker": "Daniel",
+          "text": "So what do you do differently now?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Hana",
+          "text": "I talk to people, even if only for half a minute. Often they say, please, take it, I want people to know. Sometimes they say no, and I respect that. And occasionally the conversation itself changes what the picture is. I stop being an observer and start being a witness."
+        },
+        {
+          "id": "s15",
+          "speaker": "Daniel",
+          "text": "Some critics say that conflict photography is voyeuristic."
+        },
+        {
+          "id": "s16",
+          "speaker": "Hana",
+          "text": "I understand why they say it, and in some cases they're right. But I'd argue the opposite risk is worse. If nobody looks, then nobody is accountable. I'd rather live with the discomfort of looking than the comfort of not knowing."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A changing industry",
+      "intro": "You will hear Daniel and Hana talk about how technology has changed news photography.",
+      "speakers": {
+        "Daniel": "male",
+        "Hana": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Daniel",
+          "text": "Today, almost everyone carries a camera in their pocket. Has that made your profession obsolete?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Hana",
+          "text": "That's the question I'm asked at every dinner party. And, no, I don't think so, though I'd be lying if I said nothing has changed. When something happens now, the first pictures are almost always taken by someone who simply happened to be there. They're often extraordinary, and I'm grateful for them."
+        },
+        {
+          "id": "s19",
+          "speaker": "Daniel",
+          "text": "So what is left for a professional?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Hana",
+          "text": "Context, mainly. A phone picture tells you that something happened. A professional's job is to tell you what it means, and to do so honestly. We check who, where and when. We refuse to alter pictures in ways that change their meaning. It's a boring answer, but trust is what we sell."
+        },
+        {
+          "id": "s21",
+          "speaker": "Daniel",
+          "text": "And there are new worries, aren't there, about images generated by computers?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Hana",
+          "text": "Yes, and frankly they frighten me more than any rival with a phone. If a convincing image can be produced in seconds with no camera at all, then every genuine photograph gets treated with suspicion. That's the real damage. It isn't that people will believe fakes. It's that they'll stop believing anything."
+        },
+        {
+          "id": "s23",
+          "speaker": "Daniel",
+          "text": "Is there a solution?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Hana",
+          "text": "Partly a technical one, such as records that show where a picture came from. But mostly, I think, it's a matter of reputation. Readers have to be able to say, I trust that newspaper because it has never lied to me. That takes decades to build and one careless afternoon to lose."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Advice and the future",
+      "intro": "You will hear the end of the interview, in which Hana gives advice to young photographers.",
+      "speakers": {
+        "Daniel": "male",
+        "Hana": "female"
+      },
+      "script": [
+        {
+          "id": "s25",
+          "speaker": "Daniel",
+          "text": "We're nearly out of time, Hana. If a young person wrote to you tomorrow wanting your job, what would you say?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Hana",
+          "text": "I'd say, first, don't buy expensive equipment. Everybody thinks the camera is the thing. It isn't. Spend your money on travel and your time on stories nobody else is covering. A good project about your own street is worth more than a poor copy of a famous picture."
+        },
+        {
+          "id": "s27",
+          "speaker": "Daniel",
+          "text": "And the practical side? It's not a well-paid career, is it?"
+        },
+        {
+          "id": "s28",
+          "speaker": "Hana",
+          "text": "No, and I won't pretend otherwise. Most freelancers I know combine the work with teaching or other jobs, and there's no shame in that. What worries me is that young photographers are asked to work for exposure. Exposure doesn't pay the rent. Know your worth and say it politely, but say it."
+        },
+        {
+          "id": "s29",
+          "speaker": "Daniel",
+          "text": "Has the job taken a toll on you personally?"
+        },
+        {
+          "id": "s30",
+          "speaker": "Hana",
+          "text": "Of course. There are pictures I can't look at any more. But there's a gift in it too. I've been allowed into people's worst days and best days, and trusted. That's an enormous privilege, and it's why I still get up at six."
+        },
+        {
+          "id": "s31",
+          "speaker": "Daniel",
+          "text": "Last question. Is there a picture you wish you'd taken?"
+        },
+        {
+          "id": "s32",
+          "speaker": "Hana",
+          "text": "Funnily enough, yes. A woman at a bus stop, in the rain, holding an umbrella over a stranger's pram. I had the camera in my bag and didn't want to intrude. By the time I decided, the bus had come. I still think about her more than about many pictures I did take."
+        },
+        {
+          "id": "s33",
+          "speaker": "Daniel",
+          "text": "A lovely place to end. Hana, thank you."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How did Hana first get her camera?",
+      "options": [
+        "She won it at school.",
+        "She bought it with her first salary.",
+        "Her uncle lent it to her."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she picked up a camera because her uncle lent her his.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "my uncle lent me his"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Hana now feel about her early work on a local paper?",
+      "options": [
+        "She regrets staying there for so long.",
+        "She thinks it was a complete waste of time.",
+        "She still resents doing the dull jobs.",
+        "She is grateful for what it taught her."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She used to resent it but now thinks it was the best education she could have had.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "it was the best education I could have had"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does Hana mean when she says that making a committee meeting look human is the real test?",
+      "options": [
+        "Committee meetings matter more than disasters do.",
+        "Meetings ought to be photographed more often.",
+        "Photographing ordinary events well takes skill."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She means finding a picture in a dull room shows more skill than photographing a disaster.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "Making a committee meeting look human is the real test."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What point does Hana make about luck?",
+      "options": [
+        "Luck plays no part in good photography at all.",
+        "Luck helps those who are prepared and present.",
+        "Luck is the only thing that matters in the job."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Luck favours the person already there at six in the morning who knows the light.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "Luck matters, but it favours the person who's already there at six in the morning"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did Hana study at university?",
+      "options": [
+        "Biology",
+        "Medicine",
+        "Photography"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She studied biology and hated the laboratory. She only wanted to be a doctor at first.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I studied biology, hated the laboratory"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What two questions does Hana ask herself before taking a picture?",
+      "options": [
+        "Is the story newsworthy, and will the picture sell?",
+        "Does the person know I'm there, and would they mind?",
+        "Is the light good enough, and is the place safe?"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She asks whether the person is aware of her and would mind the picture appearing.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Is this person aware of me, and would they mind if they could see the picture in a newspaper?"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Hana remember the man at the train accident?",
+      "options": [
+        "He wrote and asked her to delete the picture.",
+        "His daughter wished she had been asked.",
+        "It was the first picture she ever had published.",
+        "The picture won a major photography prize."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His daughter wrote, sad rather than angry, saying she wished she'd been asked.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "She said she wished she'd been asked."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is Hana's attitude to the criticism that conflict photography is voyeuristic?",
+      "options": [
+        "She rejects it entirely as unfair to photographers.",
+        "She partly agrees but says not looking is worse.",
+        "She agrees with it and has given up the work."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She admits critics are sometimes right, but says the opposite risk is worse.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "I'd argue the opposite risk is worse."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Hana now talk to people before photographing them?",
+      "options": [
+        "To protect herself from legal trouble later on",
+        "To ask permission, which can change the picture",
+        "To make them pose so the picture looks better"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Conversation shows respect and can make her a witness rather than an observer.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "I stop being an observer and start being a witness."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is the main idea of Hana's closing comment in this part?",
+      "options": [
+        "Discomfort is preferable to ignorance.",
+        "Newspapers should publish fewer images.",
+        "Photographers should avoid conflict."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she would rather live with the discomfort of looking than the comfort of not knowing.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "I'd rather live with the discomfort of looking than the comfort of not knowing."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Hana feel about photographs taken by members of the public?",
+      "options": [
+        "Threatened by them",
+        "Doubtful of their quality",
+        "Angry about them",
+        "Grateful for them"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says they're often extraordinary and she is grateful.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I'm grateful for them."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "According to Hana, what do professional photographers offer?",
+      "options": [
+        "Context and honest meaning",
+        "Better and more expensive equipment",
+        "Much cheaper pictures than amateurs take"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A phone picture shows something happened; a professional says what it means, honestly.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "A professional's job is to tell you what it means, and to do so honestly."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why do computer-generated images worry Hana most?",
+      "options": [
+        "They are far too expensive for papers to detect.",
+        "They will soon put most photographers out of work.",
+        "They make people distrust genuine photographs."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The real damage is that people will stop believing anything.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "they'll stop believing anything"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Hana say trust takes decades to build?",
+      "options": [
+        "To explain why reputation matters for a newspaper",
+        "To argue for stricter laws on fake images",
+        "To criticise young journalists for careless work"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She argues readers trust a newspaper that has never lied to them, which takes decades.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "That takes decades to build and one careless afternoon to lose."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Which technical solution does Hana mention?",
+      "options": [
+        "Banning computer-generated images from papers",
+        "Higher resolution cameras for photographers",
+        "Records showing where an image came from"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She mentions records that show where a picture came from.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "records that show where a picture came from"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does Hana advise young photographers to spend their money on?",
+      "options": [
+        "A professional camera",
+        "Travel",
+        "Editing software"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says not to buy expensive equipment but to spend money on travel.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "Spend your money on travel"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Hana's view of working for exposure?",
+      "options": [
+        "It is essential for anyone starting in photography.",
+        "It does not pay bills and should be resisted.",
+        "It is a good way for beginners to get started."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says exposure doesn't pay the rent and photographers should know their worth.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "Exposure doesn't pay the rent."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does Hana say she still gets up at six?",
+      "options": [
+        "Her editor demands it of all the photographers.",
+        "She is afraid of missing breaking news stories.",
+        "She needs the money from early assignments.",
+        "She feels privileged to be trusted by people."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She calls being let into people's worst and best days an enormous privilege.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "That's an enormous privilege, and it's why I still get up at six."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why didn't Hana take the picture at the bus stop?",
+      "options": [
+        "Her camera was broken and unusable.",
+        "The woman refused to be photographed.",
+        "She hesitated and the bus came."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She did not want to intrude, and by the time she decided the bus had come.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "By the time I decided, the bus had come."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is the overall message of Hana's advice?",
+      "options": [
+        "Choose a different and better-paid career.",
+        "Find your own stories and know your value.",
+        "Always buy the best equipment you can afford."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She advises personal projects, travel, and knowing your worth.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "Know your worth and say it politely, but say it."
+        }
+      ]
+    }
+  ]
+}

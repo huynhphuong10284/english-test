@@ -1,0 +1,622 @@
+{
+  "id": "l-b1-a-talk-at-a-science-museum",
+  "title": "A Talk at a Science Museum",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings from a day at a science museum: a welcome announcement, a dinosaur tour, a chat between students and a talk about bees.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Welcome to the museum",
+      "intro": "You will hear a member of staff welcoming visitors to a science museum.",
+      "speakers": {
+        "Ms Green": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Ms Green",
+          "text": "Welcome to the Discovery Science Museum. I'm Ms Green, and I'll tell you what's happening today."
+        },
+        {
+          "id": "s2",
+          "speaker": "Ms Green",
+          "text": "The museum has three floors. The dinosaur hall is on the ground floor, the space gallery is on the first floor, and the Invention Lab is at the top. The lift is out of order today, so please use the stairs or the ramp near the café."
+        },
+        {
+          "id": "s3",
+          "speaker": "Ms Green",
+          "text": "At eleven o'clock, there's a free show called Lightning in the Lab. It was supposed to be in room four, but it's been moved to the main theatre because so many people have booked."
+        },
+        {
+          "id": "s4",
+          "speaker": "Ms Green",
+          "text": "The planetarium costs an extra three pounds and shows a film about the planets every hour on the hour. The last show today is at four o'clock."
+        },
+        {
+          "id": "s5",
+          "speaker": "Ms Green",
+          "text": "Lunch is available in the café, but you're welcome to eat your own sandwiches in the garden. Please don't eat in the galleries, because food can damage the exhibits."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ms Green",
+          "text": "Finally, if you get lost, ask any member of staff in a yellow shirt. Have a wonderful day."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The dinosaur hall",
+      "intro": "You will hear a guide, Dan, talking to a teacher, Mrs Lee, in front of a dinosaur skeleton.",
+      "speakers": {
+        "Dan": "male",
+        "Mrs Lee": "female"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Dan",
+          "text": "This is our most famous exhibit, the skeleton of a long-necked dinosaur. It's twenty-two metres long."
+        },
+        {
+          "id": "s8",
+          "speaker": "Mrs Lee",
+          "text": "It's enormous, Dan. How do scientists know how old it is?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Dan",
+          "text": "Good question. They study the rock around the bones. This one was found in a desert, and it's about a hundred and fifty million years old."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mrs Lee",
+          "text": "And is it complete?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Dan",
+          "text": "Not quite. About sixty per cent of the bones are real. The rest, including the skull, were made from plastic, because the original skull was never found."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mrs Lee",
+          "text": "That's surprising. My students will be disappointed."
+        },
+        {
+          "id": "s13",
+          "speaker": "Dan",
+          "text": "I wouldn't worry. Most children are more excited when they learn how scientists work it out. Actually, in the corner you'll find a table where you can touch real fossils."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mrs Lee",
+          "text": "That sounds ideal. Can the children take photos?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Dan",
+          "text": "Yes, but without flash, please. It can harm some of the older displays. And if they'd like to draw the dinosaur, we have free pencils and paper at the desk."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mrs Lee",
+          "text": "Wonderful. Thank you so much."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Students and the worksheet",
+      "intro": "You will hear two students, Peter and Linh, talking about their museum worksheet.",
+      "speakers": {
+        "Peter": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Peter",
+          "text": "Linh, have you finished the worksheet? I'm stuck on question six."
+        },
+        {
+          "id": "s18",
+          "speaker": "Linh",
+          "text": "Which one's that? The one about the mirror room?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Peter",
+          "text": "Yes. It asks why the room looks bigger than it is."
+        },
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "Because mirrors on every wall reflect the light again and again, so it looks like the room goes on forever. I wrote that down, and then I took a photo of it."
+        },
+        {
+          "id": "s21",
+          "speaker": "Peter",
+          "text": "Ah, of course. I thought it was because of the lights on the ceiling."
+        },
+        {
+          "id": "s22",
+          "speaker": "Linh",
+          "text": "That's what I assumed at first, too, but the guide corrected me."
+        },
+        {
+          "id": "s23",
+          "speaker": "Peter",
+          "text": "Fine. By the way, did you try the robot arm?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "I did. It was harder than it looks. I tried to pick up a cup, and I knocked it over three times."
+        },
+        {
+          "id": "s25",
+          "speaker": "Peter",
+          "text": "I managed it on my second try. I think I'm a natural."
+        },
+        {
+          "id": "s26",
+          "speaker": "Linh",
+          "text": "Don't get too proud. You dropped your sandwich in the café, remember? Anyway, shall we do the quiz in the gift shop? There's a free pencil if you finish."
+        },
+        {
+          "id": "s27",
+          "speaker": "Peter",
+          "text": "Sure. Let's go."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A talk about bees",
+      "intro": "You will hear a scientist, Dr Patel, giving a talk in the museum.",
+      "speakers": {
+        "Dr Patel": "female"
+      },
+      "script": [
+        {
+          "id": "s28",
+          "speaker": "Dr Patel",
+          "text": "Good afternoon, everyone. I'm Dr Patel, and I study bees. Today I'd like to show you something that surprised scientists for many years."
+        },
+        {
+          "id": "s29",
+          "speaker": "Dr Patel",
+          "text": "Bees can't speak, but they communicate with a special movement called the waggle dance. When a bee finds a good source of flowers, it returns to the hive and dances in a figure of eight."
+        },
+        {
+          "id": "s30",
+          "speaker": "Dr Patel",
+          "text": "The angle of the dance tells the other bees which direction to fly, using the sun as a guide. The longer the dance lasts, the further away the flowers are."
+        },
+        {
+          "id": "s31",
+          "speaker": "Dr Patel",
+          "text": "For a long time, people thought this was just a nice story. It was only in the nineteen sixties that a scientist proved it by following the bees with tiny marks of paint."
+        },
+        {
+          "id": "s32",
+          "speaker": "Dr Patel",
+          "text": "Sadly, bee numbers are falling in many countries, mainly because of the loss of wild flowers and the use of strong chemicals on farms. Without bees, a third of our food would disappear."
+        },
+        {
+          "id": "s33",
+          "speaker": "Dr Patel",
+          "text": "So what can you do? Plant flowers on your balcony or in your garden, and avoid using chemicals. Even small actions can help. Now, who has a question?"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the space gallery?",
+      "options": [
+        "On the top floor",
+        "On the ground floor",
+        "On the first floor"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The dinosaur hall is on the ground floor, the space gallery on the first floor and the Invention Lab at the top.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "the space gallery is on the first floor"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why should visitors use the stairs or the ramp?",
+      "options": [
+        "The lift is too small for groups.",
+        "The lift is only for staff today.",
+        "The lift is out of order."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ms Green says the lift is out of order today.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "The lift is out of order today"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where will the show Lightning in the Lab take place?",
+      "options": [
+        "In the main theatre",
+        "In room four upstairs",
+        "In the planetarium hall"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It was planned for room four but has been moved to the main theatre.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "it's been moved to the main theatre"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does the planetarium cost?",
+      "options": [
+        "It costs three extra pounds.",
+        "It is free with a ticket.",
+        "It costs four pounds each."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The planetarium costs an extra three pounds. Four o'clock is the time of the last show.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "The planetarium costs an extra three pounds"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How can visitors recognise the staff?",
+      "options": [
+        "They wear green hats.",
+        "They wear yellow shirts.",
+        "They wear blue badges."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ms Green says to ask a member of staff in a yellow shirt.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "any member of staff in a yellow shirt"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long is the dinosaur skeleton?",
+      "options": [
+        "Twenty-two metres",
+        "Twelve metres",
+        "Fifty metres"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Dan says it is twenty-two metres long.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "It's twenty-two metres long."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How old is the dinosaur?",
+      "options": [
+        "About two hundred and fifty million years",
+        "About a hundred million years",
+        "About a hundred and fifty million years"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It is about a hundred and fifty million years old.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "it's about a hundred and fifty million years old"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why is the skull made of plastic?",
+      "options": [
+        "It was too heavy for the room.",
+        "The original skull was never found.",
+        "It was broken by a visitor long ago."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The real skull was never found, so a plastic one was made.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "the original skull was never found"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Dan think children will feel about the skeleton?",
+      "options": [
+        "Disappointed about the plastic skull",
+        "Interested in how scientists work",
+        "Bored by the old fossil table"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says children are more excited when they learn how scientists work it out.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Most children are more excited when they learn how scientists work it out."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What must visitors NOT use when they take photos?",
+      "options": [
+        "Their phones",
+        "A flash",
+        "A tripod"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dan says photos are fine without flash, because it can harm the older displays.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Yes, but without flash, please."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Which worksheet question is Peter stuck on?",
+      "options": [
+        "Question ten",
+        "Question four",
+        "Question six"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Peter says he is stuck on question six, which is about the mirror room.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I'm stuck on question six."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does the mirror room look bigger than it is?",
+      "options": [
+        "Because mirrors reflect light many times",
+        "Because of the bright lights on the ceiling",
+        "Because the floor slopes down a little"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mirrors on every wall reflect the light again and again. Peter's idea about the lights was wrong.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "mirrors on every wall reflect the light again and again"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What did Linh think of the robot arm?",
+      "options": [
+        "It was easy for a beginner.",
+        "It was boring after three tries.",
+        "It was harder than it looks."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says it was harder than it looks, and she knocked the cup over three times.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "It was harder than it looks."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How many tries did Peter need with the robot arm?",
+      "options": [
+        "One",
+        "Three",
+        "Two"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He managed it on his second try. Linh was the one who knocked the cup over three times.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "I managed it on my second try."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why do they want to go to the gift shop?",
+      "options": [
+        "To eat their lunch there",
+        "To do a quiz for a pencil",
+        "To buy some gifts"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh suggests doing the quiz in the gift shop, where there is a free pencil.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "shall we do the quiz in the gift shop?"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Dr Patel mainly talking about?",
+      "options": [
+        "How bees communicate",
+        "How bees make their honey",
+        "How to keep bees at home"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She explains the waggle dance, the way bees communicate.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "they communicate with a special movement called the waggle dance"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What tells the bees which direction to fly?",
+      "options": [
+        "The angle of the dance",
+        "The colour of the flowers nearby",
+        "The length of the dance itself"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The angle of the dance shows the direction. The length shows the distance.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "The angle of the dance tells the other bees which direction to fly"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does a longer dance mean?",
+      "options": [
+        "The flowers are further away.",
+        "The flowers are closer to the hive.",
+        "There is danger near the hive."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The longer the dance lasts, the further away the flowers are.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "The longer the dance lasts, the further away the flowers are."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How did a scientist prove the dance was real?",
+      "options": [
+        "By asking farmers about their bees",
+        "By following bees marked with paint",
+        "By using early computers to count"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He followed the bees with tiny marks of paint in the nineteen sixties.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "proved it by following the bees with tiny marks of paint"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Dr Patel suggest planting flowers?",
+      "options": [
+        "To attract tourists to the garden",
+        "To make honey at home",
+        "To help bees survive"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Bee numbers are falling, so she says small actions such as planting flowers can help.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "bee numbers are falling in many countries"
+        },
+        {
+          "lineId": "s33",
+          "quote": "Plant flowers on your balcony or in your garden"
+        }
+      ]
+    }
+  ]
+}

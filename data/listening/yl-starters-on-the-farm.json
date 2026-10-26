@@ -1,0 +1,348 @@
+{
+  "id": "l-yl-s-on-the-farm",
+  "title": "On the Farm",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about a farm: animals, a farmer's morning and a ride.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Farm animals",
+      "intro": "You will hear Anna and her grandpa.",
+      "speakers": {
+        "Grandpa": "male",
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Anna",
+          "text": "Grandpa, I see a cow!"
+        },
+        {
+          "id": "s2",
+          "speaker": "Grandpa",
+          "text": "Yes, her name is Daisy. She is black and white."
+        },
+        {
+          "id": "s3",
+          "speaker": "Anna",
+          "text": "How many chickens do you have?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Grandpa",
+          "text": "I have six chickens."
+        },
+        {
+          "id": "s5",
+          "speaker": "Anna",
+          "text": "Where are the pigs?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Grandpa",
+          "text": "The sheep are in the barn. The pigs are in the mud. Pigs love mud."
+        },
+        {
+          "id": "s7",
+          "speaker": "Anna",
+          "text": "I like the farm, Grandpa. The animals are so nice."
+        },
+        {
+          "id": "s8",
+          "speaker": "Grandpa",
+          "text": "I'm happy you like it. Now let's have milk and bread."
+        },
+        {
+          "id": "s9",
+          "speaker": "Anna",
+          "text": "Yes, please. I'm hungry."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A farmer's morning",
+      "intro": "You will hear a farmer, Mrs Lan.",
+      "speakers": {
+        "Mrs Lan": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Mrs Lan",
+          "text": "Good morning. I am a farmer. Every morning I give food to the horses. They like carrots."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Lan",
+          "text": "Then I get eggs from the chickens."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mrs Lan",
+          "text": "Then I give water to the sheep."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mrs Lan",
+          "text": "After that, I clean the barn. I like my work, and I like the animals."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mrs Lan",
+          "text": "In the evening, I go home and eat dinner with my family."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · The tractor",
+      "intro": "You will hear Tom and Mai.",
+      "speakers": {
+        "Tom": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Tom",
+          "text": "Look at the big tractor!"
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "It's red. Can we ride in the tractor?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Tom",
+          "text": "No, it is too dangerous. But we can ride the horse."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "Yes, please!"
+        },
+        {
+          "id": "s19",
+          "speaker": "Tom",
+          "text": "The horse is brown and very kind. His name is Star."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "Hello, Star! Let's give him an apple, Tom."
+        },
+        {
+          "id": "s21",
+          "speaker": "Tom",
+          "text": "Good idea. Then we can go for a ride."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is the cow's name?",
+      "options": [
+        "Molly",
+        "Daisy",
+        "Anna"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Grandpa says her name is Daisy.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "her name is Daisy"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many chickens are there?",
+      "options": [
+        "Five",
+        "Six",
+        "Four"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Grandpa has six chickens.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I have six chickens"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where are the pigs?",
+      "options": [
+        "In the mud",
+        "In the barn",
+        "In the river"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The pigs are in the mud. The sheep are in the barn.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "The pigs are in the mud"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Anna see first?",
+      "options": [
+        "A pig",
+        "A horse",
+        "A cow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Anna says: \"I see a cow!\"",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "I see a cow"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What do the horses like?",
+      "options": [
+        "Carrots",
+        "Grass",
+        "Apples"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mrs Lan says the horses like carrots.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "They like carrots"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does she do after the horses?",
+      "options": [
+        "She goes home.",
+        "She gets eggs.",
+        "She gives water to the pigs."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After the horses, she gets eggs from the chickens.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I get eggs from the chickens"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does she give to the sheep?",
+      "options": [
+        "Water",
+        "Eggs",
+        "Food"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She gives water to the sheep.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I give water to the sheep"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What colour is the tractor?",
+      "options": [
+        "Yellow",
+        "Red",
+        "Green"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai says the tractor is red.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "It's red"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Can they ride in the tractor?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "No. Tom says it is too dangerous.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "it is too dangerous"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What can they ride?",
+      "options": [
+        "A horse",
+        "A bike",
+        "A cow"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom says they can ride the horse.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "we can ride the horse"
+        }
+      ]
+    }
+  ]
+}

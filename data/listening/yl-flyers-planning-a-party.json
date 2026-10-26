@@ -1,0 +1,599 @@
+{
+  "id": "l-yl-f-planning-a-party",
+  "title": "Planning a Party",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about a birthday party: planning, shopping, a voicemail and a thank-you speech.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Planning the party",
+      "intro": "You will hear a girl, Mai, and her dad planning a birthday party.",
+      "speakers": {
+        "Mai": "female",
+        "Dad": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Dad",
+          "text": "Mai, let's make a list for your birthday party. How many friends do you want to invite?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Mai",
+          "text": "Ten, please. Oh, and my cousin Peter, so that's eleven."
+        },
+        {
+          "id": "s3",
+          "speaker": "Dad",
+          "text": "That's fine. Shall we have it in the garden?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Mai",
+          "text": "Not on Saturday. The weather forecast says it will rain. Let's have it on Sunday afternoon."
+        },
+        {
+          "id": "s5",
+          "speaker": "Dad",
+          "text": "Good idea. Do you want a theme, like pirates or superheroes?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Mai",
+          "text": "I'd like a space party. Everybody can wear silver clothes."
+        },
+        {
+          "id": "s7",
+          "speaker": "Dad",
+          "text": "Lovely. And what about the cake?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Mai",
+          "text": "A chocolate cake, shaped like a rocket. Can Grandpa make it? His cakes are the best."
+        },
+        {
+          "id": "s9",
+          "speaker": "Dad",
+          "text": "I'll ask him tonight."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Shopping for the party",
+      "intro": "You will hear Mai's dad shopping with her in a supermarket.",
+      "speakers": {
+        "Dad": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Dad",
+          "text": "Right, Mai. We need balloons, juice and some snacks. Where shall we start?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Mai",
+          "text": "Balloons first. Can we get silver and blue ones? Red is too bright for a space party."
+        },
+        {
+          "id": "s12",
+          "speaker": "Dad",
+          "text": "Of course. How many packets? There are twenty in each one."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mai",
+          "text": "Two packets, please. Then we can put some outside the front door."
+        },
+        {
+          "id": "s14",
+          "speaker": "Dad",
+          "text": "Next, the drinks. Orange juice or apple juice?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "Orange, but not too sweet. Last year Tom said his was too sugary."
+        },
+        {
+          "id": "s16",
+          "speaker": "Dad",
+          "text": "Right. And for snacks? Crisps and popcorn?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "Popcorn, yes, but no crisps. Lots of people had them at Anna's party."
+        },
+        {
+          "id": "s18",
+          "speaker": "Dad",
+          "text": "OK. I think that's everything. Let's go to the checkout."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A voicemail from a friend",
+      "intro": "You will hear a boy, Leo, leaving a message for Mai about the party.",
+      "speakers": {
+        "Leo": "male"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Leo",
+          "text": "Hi, Mai. It's Leo. Thank you for the invitation to your party."
+        },
+        {
+          "id": "s20",
+          "speaker": "Leo",
+          "text": "I'm very sorry, but I can't come until four o'clock. I have a football match in the morning, and then lunch at my grandmother's house."
+        },
+        {
+          "id": "s21",
+          "speaker": "Leo",
+          "text": "I've bought you a present. It's a book about the planets, with beautiful pictures. I hope you don't have it already."
+        },
+        {
+          "id": "s22",
+          "speaker": "Leo",
+          "text": "Do I need to bring anything? I could bring some games if you like. I've got a big board game about space."
+        },
+        {
+          "id": "s23",
+          "speaker": "Leo",
+          "text": "Please call me back on my mobile. I'll be home all evening. See you on Sunday!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Mai's speech",
+      "intro": "You will hear Mai speaking at the end of her party.",
+      "speakers": {
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Mai",
+          "text": "Can I have your attention, please? I'd like to say a few words before everybody goes home."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mai",
+          "text": "First, thank you all for coming and for the wonderful presents. My favourite is the telescope from Mum and Dad. I can't wait to look at the stars tonight."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mai",
+          "text": "Second, thank you to Grandpa for the amazing cake. It was delicious, and I think there's still a piece for everybody to take home."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mai",
+          "text": "I'd also like to thank my dad for taking the photos. He took more than a hundred, and he's going to send them to your parents."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mai",
+          "text": "Finally, the winner of the best silver costume is Peter, with his shiny helmet. Congratulations, Peter! You win a little toy rocket."
+        },
+        {
+          "id": "s29",
+          "speaker": "Mai",
+          "text": "Thank you, everybody. Have a safe journey home!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many people will Mai invite in total?",
+      "options": [
+        "Ten",
+        "Twelve",
+        "Eleven"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She invites ten friends and her cousin Peter.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Ten, please. Oh, and my cousin Peter, so that's eleven."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When will the party be?",
+      "options": [
+        "On Sunday morning",
+        "On Sunday afternoon",
+        "On Saturday afternoon"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Saturday will be rainy, so Mai chooses Sunday.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Let's have it on Sunday afternoon."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What theme does Mai choose?",
+      "options": [
+        "Superheroes",
+        "Pirates",
+        "Space"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum suggests pirates or superheroes, but Mai wants space.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I'd like a space party."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What cake does Mai want?",
+      "options": [
+        "A chocolate rocket",
+        "A strawberry cake",
+        "A fruit cake"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She asks for a chocolate cake shaped like a rocket.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "A chocolate cake, shaped like a rocket."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Why does Mai want Grandpa to make the cake?",
+      "options": [
+        "His cakes are the best.",
+        "Cakes in shops are expensive.",
+        "He is not busy."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says Grandpa's cakes are the best.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "His cakes are the best."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What colour balloons does Mai want?",
+      "options": [
+        "Red and yellow",
+        "Silver and blue",
+        "Green and white"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says red is too bright for a space party.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "Can we get silver and blue ones?"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How many packets of balloons do they buy?",
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Each packet has twenty balloons and Mai asks for two.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Two packets, please."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which juice will they buy?",
+      "options": [
+        "Lemon juice",
+        "Apple juice",
+        "Orange juice"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai chooses orange, but not too sweet.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Orange, but not too sweet."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why doesn't Mai want crisps?",
+      "options": [
+        "She doesn't like them.",
+        "Many people had them at another party.",
+        "They are too expensive."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lots of people had them at Anna's party.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "Lots of people had them at Anna's party."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "Where does Mai put some balloons?",
+      "options": [
+        "In the garden",
+        "Outside the front door",
+        "In the kitchen"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She suggests putting some outside the front door.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "we can put some outside the front door"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Leo call?",
+      "options": [
+        "To talk about the party",
+        "To ask for help",
+        "To cancel the party"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He thanks Mai and discusses coming to the party.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Thank you for the invitation to your party."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why will Leo be late?",
+      "options": [
+        "He has a football match.",
+        "He has a music lesson.",
+        "He is ill."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He has a football match in the morning, then lunch.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I have a football match in the morning"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time can Leo come?",
+      "options": [
+        "At six o'clock",
+        "At two o'clock",
+        "At four o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He can't come until four o'clock.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I can't come until four o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What present has Leo bought?",
+      "options": [
+        "A football",
+        "A book about planets",
+        "A board game"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The board game is something he could bring, not the present.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "It's a book about the planets"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Leo offer to bring?",
+      "options": [
+        "Some drinks",
+        "Some cakes",
+        "Some games"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He offers a big board game about space.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I could bring some games if you like."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Mai speak?",
+      "options": [
+        "To thank people",
+        "To start a game",
+        "To say goodbye to her family"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says thank you for coming, for presents and for help.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I'd like to say a few words before everybody goes home."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "Which present does Mai like best?",
+      "options": [
+        "The book",
+        "The toy rocket",
+        "The telescope"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The telescope from Mum and Dad is her favourite.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "My favourite is the telescope from Mum and Dad."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What can guests take home?",
+      "options": [
+        "A piece of cake",
+        "A photo",
+        "A balloon"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says there is still a piece of cake for everybody.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "there's still a piece for everybody to take home"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Who took the photos?",
+      "options": [
+        "Her mum",
+        "Grandpa",
+        "Her dad"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dad took more than a hundred photos.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "my dad for taking the photos"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Who won the costume prize?",
+      "options": [
+        "Peter",
+        "Tom",
+        "Leo"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Peter won with his shiny helmet.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "the winner of the best silver costume is Peter"
+        }
+      ]
+    }
+  ]
+}

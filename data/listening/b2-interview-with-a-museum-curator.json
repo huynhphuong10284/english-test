@@ -1,0 +1,618 @@
+{
+  "id": "l-b2-interview-with-a-museum-curator",
+  "title": "Interview with a Museum Curator",
+  "level": "B2 · Upper-intermediate",
+  "description": "A museum announcement, a radio interview with a curator, a staff discussion about an exhibition and a talk about looking after objects.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Museum announcement",
+      "intro": "You will hear a recorded announcement at a city museum.",
+      "speakers": {
+        "Voice": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Voice",
+          "text": "Good morning, and welcome to the City History Museum. Before you begin your visit, here is some useful information."
+        },
+        {
+          "id": "s2",
+          "speaker": "Voice",
+          "text": "The museum has three floors. The ground floor houses our permanent collection, which tells the story of the city from its beginnings as a river port. On the first floor you will find our temporary exhibition, which changes every four months."
+        },
+        {
+          "id": "s3",
+          "speaker": "Voice",
+          "text": "Please note that the second floor is closed this week for repairs to the roof. We apologise for the inconvenience, and visitors may use the lift to reach the café, which has moved to the ground floor."
+        },
+        {
+          "id": "s4",
+          "speaker": "Voice",
+          "text": "Photography is welcome in most galleries, but please do not use a flash, as bright light can damage old paper and fabric. You may not take photographs in the textile room at all."
+        },
+        {
+          "id": "s5",
+          "speaker": "Voice",
+          "text": "Guided tours leave from the main desk every day at eleven o'clock and again at two o'clock. They last about forty-five minutes, and they are free, although we do ask for a small donation if you enjoyed the tour."
+        },
+        {
+          "id": "s6",
+          "speaker": "Voice",
+          "text": "Finally, today at three o'clock our curator will give a short talk about the new exhibition. Seats are limited, so please arrive early. Thank you, and enjoy your visit."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Radio interview with a curator",
+      "intro": "You will hear a radio presenter, Linh, interviewing a museum curator, Dr James Cole.",
+      "speakers": {
+        "Linh": "female",
+        "James": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "Dr Cole, most of us picture a curator as someone in a quiet room, surrounded by old objects. Is that accurate?"
+        },
+        {
+          "id": "s8",
+          "speaker": "James",
+          "text": "Partly, I suppose. I do spend time with objects, but if I'm honest, I spend far more time answering emails, writing labels and persuading people to lend us things. It's much less romantic than it sounds."
+        },
+        {
+          "id": "s9",
+          "speaker": "Linh",
+          "text": "What exactly is a curator's job?"
+        },
+        {
+          "id": "s10",
+          "speaker": "James",
+          "text": "Essentially, we decide which stories the museum tells. We choose objects, research them, and arrange them so that visitors can understand something new. An object alone is just an object. It becomes interesting when you place it next to another one and the connection becomes clear."
+        },
+        {
+          "id": "s11",
+          "speaker": "Linh",
+          "text": "How did you get into the profession?"
+        },
+        {
+          "id": "s12",
+          "speaker": "James",
+          "text": "By accident, really. I studied history at university and I wanted to teach. But I volunteered at a small local museum during the summer holidays, and I was lucky enough to be given a box of letters from the First World War to catalogue. I was hooked."
+        },
+        {
+          "id": "s13",
+          "speaker": "Linh",
+          "text": "Is there an object in the collection that you particularly love?"
+        },
+        {
+          "id": "s14",
+          "speaker": "James",
+          "text": "Yes, a very ordinary one. It's a child's wooden toy boat from the nineteenth century. It's scratched, with a bit of string still attached. It reminds me that history isn't only about kings and battles. It's also about people who played, and cooked, and worried about their children."
+        },
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "What's the biggest challenge in your work?"
+        },
+        {
+          "id": "s16",
+          "speaker": "James",
+          "text": "Deciding what to leave out. We can display only about five per cent of the collection at any time. Every choice means that something wonderful stays in a box in the basement."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Staff discussion about a new exhibition",
+      "intro": "You will hear two museum staff, Mai and Tom, discussing an exhibition about the local river.",
+      "speakers": {
+        "Mai": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Tom",
+          "text": "Mai, have you seen the draft plan for the river exhibition? I think there are far too many objects in the first room."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "I had the same impression. There are almost sixty items in a space that fits perhaps thirty comfortably. People will walk straight past them."
+        },
+        {
+          "id": "s19",
+          "speaker": "Tom",
+          "text": "Exactly. But the curator is attached to every single piece. I tried to suggest removing the old fishing nets and she was almost offended."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "Maybe we could keep the nets but show them on a screen instead. We could photograph them in high quality and let visitors zoom in."
+        },
+        {
+          "id": "s21",
+          "speaker": "Tom",
+          "text": "That's not a bad idea, although I'm not sure about screens. I find that visitors want to see real things, not just pictures. We've had very good feedback when we let people touch a replica."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mai",
+          "text": "That's true. What about making a replica of the net, then? Children could handle it, and the original would be safe behind glass."
+        },
+        {
+          "id": "s23",
+          "speaker": "Tom",
+          "text": "I like that. It would be cheaper than building a whole new display too. Shall we raise it at the meeting on Friday?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Mai",
+          "text": "Let's. I'll write a short proposal with some rough costs, and you could add the visitor comments from last year."
+        },
+        {
+          "id": "s25",
+          "speaker": "Tom",
+          "text": "Fine. And I'll ask the education team if their volunteers could help to make the replica. They've been looking for a project."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mai",
+          "text": "Perfect. If the curator hears that children will enjoy it, I think she'll agree."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Talk: Looking after objects",
+      "intro": "You will hear a museum conservator, Mr Nam, giving a talk to a group of volunteers.",
+      "speakers": {
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Nam",
+          "text": "Thank you all for volunteering. Before you begin work in the stores, I'd like to explain the three enemies of every museum object: light, moisture and handling."
+        },
+        {
+          "id": "s28",
+          "speaker": "Nam",
+          "text": "Light first. Strong light fades colours and weakens paper and cloth. That's why some of our galleries are so dim. It isn't to create atmosphere, though that's a pleasant side effect. It's to make the objects last for another hundred years."
+        },
+        {
+          "id": "s29",
+          "speaker": "Nam",
+          "text": "Second, moisture. If the air is too damp, metal rusts and wood grows mould. If it is too dry, wood cracks and leather becomes hard. So we keep the temperature and the humidity as steady as we can, and steady is more important than perfect."
+        },
+        {
+          "id": "s30",
+          "speaker": "Nam",
+          "text": "Third, handling. Believe it or not, clean hands can still cause harm, because skin leaves oils and tiny amounts of acid. For that reason you'll wear gloves for metal and glass, but not for paper, since gloves reduce your feeling and you might tear it."
+        },
+        {
+          "id": "s31",
+          "speaker": "Nam",
+          "text": "A rule I'd like you to remember is this: if you aren't sure, don't touch it. Ask me or one of my colleagues. Nobody will think you are foolish. We've all made mistakes, and I once dropped a vase that was two hundred years old. Fortunately I'd put a soft mat beneath it."
+        },
+        {
+          "id": "s32",
+          "speaker": "Nam",
+          "text": "Each of you will be given a notebook. If you notice anything unusual, such as a crack, a strange smell, or an insect, write it down and tell me immediately. Small problems found early can be solved."
+        },
+        {
+          "id": "s33",
+          "speaker": "Nam",
+          "text": "Now, please follow me to the store, and we'll practise how to carry a tray of objects safely."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which floor is closed this week?",
+      "options": [
+        "The first floor",
+        "The ground floor",
+        "The second floor"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The second floor is closed for roof repairs.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "the second floor is closed this week for repairs to the roof"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the café now?",
+      "options": [
+        "On the ground floor",
+        "On the second floor, near the lift",
+        "On the first floor, next to the exhibition"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The café has moved to the ground floor.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "the café, which has moved to the ground floor"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why should visitors not use a flash?",
+      "options": [
+        "It can damage old paper and fabric.",
+        "It disturbs other visitors in the galleries.",
+        "It is not allowed by the museum's insurance."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Bright light can damage old paper and fabric.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "bright light can damage old paper and fabric"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When does the second guided tour start?",
+      "options": [
+        "At eleven o'clock",
+        "At three o'clock",
+        "At two o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tours leave at eleven and again at two. Three o'clock is the curator's talk.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "again at two o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why should visitors arrive early for the curator's talk?",
+      "options": [
+        "It is free.",
+        "Seats are limited.",
+        "It is a long talk."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The announcement says seats are limited.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "Seats are limited"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Dr Cole say about his daily work?",
+      "options": [
+        "It is exactly the quiet work that people picture.",
+        "It is very relaxing, with plenty of time alone.",
+        "It is less romantic than people imagine."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he spends most time on emails, labels and persuading lenders, and it is less romantic.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "It's much less romantic than it sounds"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What does Dr Cole say a curator essentially does?",
+      "options": [
+        "Repairs damaged objects so they can be displayed",
+        "Sells spare objects to private collectors",
+        "Decides what stories the museum tells"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Curators choose objects and arrange them to tell stories.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "we decide which stories the museum tells"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How did he first become interested in museum work?",
+      "options": [
+        "By volunteering and cataloguing letters",
+        "By studying art and design at university",
+        "By working in a museum shop in the summer"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He volunteered and catalogued a box of First World War letters.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I was hooked"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does he love the wooden toy boat?",
+      "options": [
+        "It once belonged to a king or a nobleman.",
+        "It shows history includes ordinary people.",
+        "It is the most valuable object in the museum."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It reminds him that history is also about ordinary people who played and cooked.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "history isn't only about kings and battles"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does he find most difficult?",
+      "options": [
+        "Finding enough visitors to come in",
+        "Writing so many emails every day",
+        "Choosing what not to display"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Only about five per cent of the collection is displayed, so choosing is hard.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Deciding what to leave out."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What do Tom and Mai think about the first room?",
+      "options": [
+        "It is almost empty and rather boring",
+        "It has far too many objects in it.",
+        "It is too dark for visitors to read labels"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There are almost sixty items for space that fits about thirty.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "far too many objects in the first room"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How did the curator react when Tom suggested removing the nets?",
+      "options": [
+        "She was almost offended.",
+        "She did not say anything about it.",
+        "She agreed to remove them at once."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom says she was almost offended.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "she was almost offended"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What is Tom's view of screens?",
+      "options": [
+        "He loves them and wants to use more of them",
+        "He wants only screens and no real objects",
+        "He is unsure, as visitors like real things."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says visitors want to see real things, not just pictures.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "visitors want to see real things"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What do they decide to do with the nets?",
+      "options": [
+        "Make a replica that children can handle",
+        "Show them only on a screen with zoom",
+        "Sell them to raise money for the exhibition"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A replica can be handled by children while the original stays behind glass.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "Children could handle it"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why will Tom speak to the education team?",
+      "options": [
+        "To complain about the costs of the proposal",
+        "To book a school visit for next Friday",
+        "To ask volunteers to help make the replica"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He will ask whether their volunteers could help make the replica.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "if their volunteers could help to make the replica"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is the talk mainly about?",
+      "options": [
+        "How to become a curator in a large museum",
+        "The history of the museum and its collection",
+        "The dangers that threaten museum objects"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mr Nam explains light, moisture and handling as the enemies of objects.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "three enemies of every museum object"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why are some galleries dim?",
+      "options": [
+        "To save electricity during the winter months",
+        "To create a spooky atmosphere for visitors",
+        "To protect objects from damage"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dim light makes objects last longer; atmosphere is only a side effect.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "to make the objects last for another hundred years"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is more important than perfect conditions for temperature and humidity?",
+      "options": [
+        "Keeping them steady",
+        "Keeping them as low as possible",
+        "Keeping them as high as possible"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says steady is more important than perfect.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "steady is more important than perfect"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why do volunteers not wear gloves for paper?",
+      "options": [
+        "Gloves are too expensive for volunteers to use",
+        "Paper is less valuable than metal or glass",
+        "Gloves reduce feeling and may cause tearing"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Gloves reduce your feeling and you might tear the paper.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "gloves reduce your feeling and you might tear it"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is his attitude to mistakes?",
+      "options": [
+        "Understanding, because everyone makes them",
+        "Very strict, because objects are so valuable",
+        "Angry, especially when something is dropped"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says nobody will think you foolish and tells how he once dropped a vase.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "Nobody will think you are foolish"
+        }
+      ]
+    }
+  ]
+}

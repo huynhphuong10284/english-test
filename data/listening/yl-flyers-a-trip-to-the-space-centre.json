@@ -1,0 +1,599 @@
+{
+  "id": "l-yl-f-a-trip-to-the-space-centre",
+  "title": "A Trip to the Space Centre",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about a school visit to a space centre: planning, a phone call, a message and a guide's talk.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Planning the trip",
+      "intro": "You will hear two friends, Ben and Mai, talking about a school trip.",
+      "speakers": {
+        "Ben": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Ben, are you excited about our trip to the space centre on Friday?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Ben",
+          "text": "Yes, very! I want to see the big rocket. My brother says it's taller than our school."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "I'm more interested in the planetarium. We can watch a film about the stars."
+        },
+        {
+          "id": "s4",
+          "speaker": "Ben",
+          "text": "Oh, I'd rather go to the rocket garden first. What time does the coach leave?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "At quarter past eight, not half past eight like last time. Mrs Hill told us this morning."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ben",
+          "text": "Good. Should I take my camera?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "You can't use cameras in the planetarium, but you can take photos outside. Bring a sandwich too. The café is very expensive."
+        },
+        {
+          "id": "s8",
+          "speaker": "Ben",
+          "text": "OK. I'll make a cheese sandwich. Oh, and do we need a jacket?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Mai",
+          "text": "Yes, it's often windy near the launch field."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A phone call to the centre",
+      "intro": "You will hear a teacher, Mr Dang, phoning the space centre.",
+      "speakers": {
+        "Mr Dang": "male",
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Anna",
+          "text": "Good morning, Space Centre. Anna speaking."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mr Dang",
+          "text": "Hello. I'm calling about a visit for my class on Friday. There will be twenty-two children."
+        },
+        {
+          "id": "s12",
+          "speaker": "Anna",
+          "text": "Lovely. Would you like a guide for your group?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Mr Dang",
+          "text": "Yes, please. And can you tell me about lunch? We could eat in the café, or maybe outside."
+        },
+        {
+          "id": "s14",
+          "speaker": "Anna",
+          "text": "Well, you can eat in the picnic area. It's free. The café is full on Fridays."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mr Dang",
+          "text": "Perfect. Is there a gift shop? The children always want to buy something."
+        },
+        {
+          "id": "s16",
+          "speaker": "Anna",
+          "text": "Yes, but it closes at three o'clock for school groups, so please go there before that."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mr Dang",
+          "text": "That's fine. We'll leave at half past three. Thank you very much."
+        },
+        {
+          "id": "s18",
+          "speaker": "Anna",
+          "text": "You're welcome. See you on Friday!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A message from a friend",
+      "intro": "You will hear Sam leaving a message for his friend Nam.",
+      "speakers": {
+        "Sam": "male"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Sam",
+          "text": "Hi, Nam. It's Sam. I'm calling about our space project for school."
+        },
+        {
+          "id": "s20",
+          "speaker": "Sam",
+          "text": "I looked on the internet last night, and I found a lot of facts about the planets. Jupiter is the biggest one, but I think Saturn is more beautiful because of its rings."
+        },
+        {
+          "id": "s21",
+          "speaker": "Sam",
+          "text": "I'm going to draw the planets on a long piece of paper. Can you bring some blue and yellow pens? I've got red and green already."
+        },
+        {
+          "id": "s22",
+          "speaker": "Sam",
+          "text": "Let's meet at the library on Thursday afternoon, at four o'clock. Don't come on Wednesday, because I've got a piano lesson."
+        },
+        {
+          "id": "s23",
+          "speaker": "Sam",
+          "text": "Oh, and please bring your torch. We can use it to make a model of the sun. Call me if you can't come. Bye!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A guide's talk",
+      "intro": "You will hear a guide, Linh, talking to a group of visitors.",
+      "speakers": {
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "Welcome to the Space Centre, everyone. My name is Linh and I'm going to be your guide today."
+        },
+        {
+          "id": "s25",
+          "speaker": "Linh",
+          "text": "First, we're going to see the moon rock. It's more than four billion years old, and you can touch a small piece of it. Please wash your hands afterwards."
+        },
+        {
+          "id": "s26",
+          "speaker": "Linh",
+          "text": "Next, we'll visit the rocket garden. The tallest rocket there is forty metres high. Some people think it's scary, but I think it's wonderful."
+        },
+        {
+          "id": "s27",
+          "speaker": "Linh",
+          "text": "After that, there's a short break. You can have a drink, but please don't take food into the exhibition, because it isn't allowed."
+        },
+        {
+          "id": "s28",
+          "speaker": "Linh",
+          "text": "Finally, you can try the space simulator. It's the most popular thing in the centre, so you will need to wait in a queue. You must be taller than one metre twenty to go on it."
+        },
+        {
+          "id": "s29",
+          "speaker": "Linh",
+          "text": "Please stay with the group. If you get lost, go to the red desk near the entrance. Now, follow me!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What are Ben and Mai talking about?",
+      "options": [
+        "A lesson in class",
+        "A film about stars",
+        "A school trip"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The trip is mentioned first; the film is only one thing they will see.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "our trip to the space centre on Friday"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Ben most want to see?",
+      "options": [
+        "The café",
+        "The planetarium",
+        "The big rocket"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ben says he wants to see the rocket. Mai is the one who likes the planetarium.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I want to see the big rocket."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time does the coach leave?",
+      "options": [
+        "Quarter past eight",
+        "Half past eight",
+        "Quarter to nine"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The time was half past eight last time, but this time it is quarter past eight.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "At quarter past eight"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What can't the children do in the planetarium?",
+      "options": [
+        "Watch a film",
+        "Eat sandwiches",
+        "Use cameras"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says cameras are not allowed in the planetarium.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "You can't use cameras in the planetarium"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why should they take a jacket?",
+      "options": [
+        "The café is cold.",
+        "It is raining.",
+        "It is often windy."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says it's often windy near the launch field.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "it's often windy near the launch field"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why is Mr Dang phoning?",
+      "options": [
+        "To arrange a class visit",
+        "To change the coach time",
+        "To buy a rocket model"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He is calling about a visit for his class on Friday.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I'm calling about a visit for my class on Friday."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where will the class have lunch?",
+      "options": [
+        "In the picnic area",
+        "In the café",
+        "On the coach"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The café is full on Fridays, so the picnic area is the answer.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "you can eat in the picnic area"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Mr Dang ask for?",
+      "options": [
+        "A bigger room",
+        "A guide",
+        "A free ticket"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Anna asks if he wants a guide and he says yes.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Yes, please."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When does the gift shop close for school groups?",
+      "options": [
+        "At half past three",
+        "At three o'clock",
+        "At four o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Half past three is when the class will leave.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "it closes at three o'clock for school groups"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What do the children always want?",
+      "options": [
+        "To meet a guide",
+        "To buy something",
+        "To eat in the café"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Dang says they always want to buy something.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "The children always want to buy something."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What are the boys making for school?",
+      "options": [
+        "A film",
+        "A space project",
+        "A model of a rocket"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Sam says they have a space project for school.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "our space project for school"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "Which planet does Sam think is most beautiful?",
+      "options": [
+        "Saturn",
+        "The sun",
+        "Jupiter"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Jupiter is the biggest, but Sam likes Saturn because of its rings.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I think Saturn is more beautiful because of its rings"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Which pens does Sam want Nam to bring?",
+      "options": [
+        "Black and white",
+        "Red and green",
+        "Blue and yellow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Sam already has red and green pens.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Can you bring some blue and yellow pens?"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When will they meet?",
+      "options": [
+        "On Thursday morning",
+        "On Thursday afternoon",
+        "On Wednesday afternoon"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Sam cannot meet on Wednesday because of his piano lesson.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "Let's meet at the library on Thursday afternoon"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why does Sam ask Nam to bring a torch?",
+      "options": [
+        "To look at the planets",
+        "To make a model of the sun",
+        "To read in the dark"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The torch will be used for a model of the sun.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "We can use it to make a model of the sun."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "Who is Linh?",
+      "options": [
+        "A scientist from the moon",
+        "A guide at the centre",
+        "A teacher"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she is going to be the visitors' guide.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I'm going to be your guide today"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What can visitors touch first?",
+      "options": [
+        "A piece of moon rock",
+        "A planet model",
+        "A small rocket"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The moon rock is the first thing they see and they can touch a small piece.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "you can touch a small piece of it"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Linh think about the tallest rocket?",
+      "options": [
+        "It is scary.",
+        "It is wonderful.",
+        "It is too old."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Some people find it scary, but Linh thinks it is wonderful.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I think it's wonderful"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What must visitors NOT take into the exhibition?",
+      "options": [
+        "Food",
+        "Cameras",
+        "Drinks"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Drinks are fine at the break; food is not allowed in the exhibition.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "please don't take food into the exhibition"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where should lost visitors go?",
+      "options": [
+        "To the simulator",
+        "To the rocket garden",
+        "To the red desk"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says to go to the red desk near the entrance.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "go to the red desk near the entrance"
+        }
+      ]
+    }
+  ]
+}

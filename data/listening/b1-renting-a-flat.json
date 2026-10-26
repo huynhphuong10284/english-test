@@ -1,0 +1,628 @@
+{
+  "id": "l-b1-renting-a-flat",
+  "title": "Renting a Flat",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings about renting a flat: a phone call to an agent, a flat viewing, a landlord voicemail and a podcast with advice.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A call to an agent",
+      "intro": "You will hear Nam phoning an estate agent, Ms Taylor, about flats to rent.",
+      "speakers": {
+        "Ms Taylor": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Ms Taylor",
+          "text": "Good morning, Parkside Lettings. Ms Taylor speaking."
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "Hello. I'm calling about the two-bedroom flat on Orchard Road that you advertised online."
+        },
+        {
+          "id": "s3",
+          "speaker": "Ms Taylor",
+          "text": "Yes, it's still available. It's on the second floor, and the rent is nine hundred and fifty pounds a month."
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "That's a bit more than I expected. Does that include bills?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Ms Taylor",
+          "text": "Water is included, but you pay for electricity and internet yourself. The deposit is one month's rent."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "I see. And is it furnished?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Ms Taylor",
+          "text": "Partly. There's a bed in each room, a sofa and a fridge, but no washing machine. The landlord says you can bring your own."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "Are pets allowed? I have a small cat."
+        },
+        {
+          "id": "s9",
+          "speaker": "Ms Taylor",
+          "text": "Sorry, not in this building. But there's another flat on Mill Street, a bit smaller, where cats are fine. It's eight hundred and fifty pounds."
+        },
+        {
+          "id": "s10",
+          "speaker": "Nam",
+          "text": "Hmm, I'd like to see both, if possible."
+        },
+        {
+          "id": "s11",
+          "speaker": "Ms Taylor",
+          "text": "Certainly. I can show you Orchard Road on Thursday at five, and Mill Street on Friday morning at ten. Could I take your phone number?"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Viewing the flat",
+      "intro": "You will hear a landlord, Mr Wood, showing a flat to Mai.",
+      "speakers": {
+        "Mai": "female",
+        "Mr Wood": "male"
+      },
+      "script": [
+        {
+          "id": "s12",
+          "speaker": "Mai",
+          "text": "Hello, Mr Wood. Thank you for showing me the flat."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mr Wood",
+          "text": "My pleasure. Come in. As you can see, the living room gets lots of light in the morning because the windows face east."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mai",
+          "text": "It's lovely. And the kitchen?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Mr Wood",
+          "text": "It was repainted last month. The cooker is new, but the oven door is a little stiff, so I'll ask someone to fix it before you move in."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "Good. What about the bedrooms?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Mr Wood",
+          "text": "The big one overlooks the garden, which is very quiet. The smaller one is next to the road, so you'll hear traffic, I'm afraid."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "I could use that one as an office. I work from home two days a week."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mr Wood",
+          "text": "That would be perfect. And the internet is fast here, so there shouldn't be any problems."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "What are the neighbours like?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Mr Wood",
+          "text": "Very friendly. An older couple live downstairs, and they've been here for thirty years. The only rule is no loud music after ten o'clock."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mai",
+          "text": "That's fine with me. I'd like to take it. When could I move in?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Mr Wood",
+          "text": "On the first of next month. I'll send the contract tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A message from the landlord",
+      "intro": "You will hear a voicemail message from a landlord, Mr Khan, to his tenant.",
+      "speakers": {
+        "Mr Khan": "male"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Mr Khan",
+          "text": "Hello, this is Mr Khan, your landlord. I'm calling about the leak in your bathroom that you reported last week."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mr Khan",
+          "text": "I'm sorry it took so long. A plumber is coming on Wednesday between nine and twelve. Someone needs to be home to let him in, so if you're at work, you can leave a key with Mrs Perez next door."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mr Khan",
+          "text": "The job should take about two hours. You'll have no water for part of that time, so please fill a few bottles in advance."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mr Khan",
+          "text": "Also, I'd like to remind you that the rent is due on the fifth of each month. This month's payment hasn't arrived yet. I'm sure it's a mistake, but please check your bank account."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mr Khan",
+          "text": "One more thing. The building's front door lock is being changed on Friday, and you'll receive a new key at the office. Please collect it before six o'clock, because the office closes then."
+        },
+        {
+          "id": "s29",
+          "speaker": "Mr Khan",
+          "text": "Call me on my mobile if you have any questions. Thanks very much. Goodbye."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Tips for first-time renters",
+      "intro": "You will hear Hannah on a podcast for students.",
+      "speakers": {
+        "Hannah": "female"
+      },
+      "script": [
+        {
+          "id": "s30",
+          "speaker": "Hannah",
+          "text": "Hi, everyone, and welcome to Student Life. Today I'm sharing advice for anyone renting a flat for the first time."
+        },
+        {
+          "id": "s31",
+          "speaker": "Hannah",
+          "text": "First, read the contract carefully. It may be boring, but it explains how long you must stay and how much notice you must give before leaving. Many students sign without reading, and they get a nasty surprise later."
+        },
+        {
+          "id": "s32",
+          "speaker": "Hannah",
+          "text": "Second, take photographs of everything on the day you move in, especially any marks on the walls or floor. If you don't, the landlord might say you caused the damage, and you could lose part of your deposit."
+        },
+        {
+          "id": "s33",
+          "speaker": "Hannah",
+          "text": "Third, think about the total cost, not only the rent. Bills, internet and transport can add another two hundred pounds a month. A cheap flat far from the city centre isn't always cheaper."
+        },
+        {
+          "id": "s34",
+          "speaker": "Hannah",
+          "text": "Finally, if you share with friends, agree on the rules from the start. Who cleans the bathroom? Who pays for what? Honestly, most arguments I've seen weren't about money, but about dirty dishes."
+        },
+        {
+          "id": "s35",
+          "speaker": "Hannah",
+          "text": "Renting can be a wonderful first step towards independence. Just be prepared, and you'll enjoy it."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much is the rent for the flat on Orchard Road?",
+      "options": [
+        "Nine hundred and fifty pounds a month",
+        "Eight hundred and fifty pounds a month",
+        "One thousand pounds a month"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The rent is nine hundred and fifty pounds. Eight hundred and fifty is the Mill Street flat.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "the rent is nine hundred and fifty pounds a month"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which bill is included in the rent?",
+      "options": [
+        "Internet",
+        "Water",
+        "Electricity"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Water is included, but the tenant pays for electricity and internet.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Water is included"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is missing from the Orchard Road flat?",
+      "options": [
+        "A washing machine",
+        "A fridge for the kitchen",
+        "A bed for the second room"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "There is a bed, a sofa and a fridge, but no washing machine.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "but no washing machine"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why is the Orchard Road flat a problem for Nam?",
+      "options": [
+        "It is on the second floor",
+        "Pets are not allowed.",
+        "It has no washing machine"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam has a cat, and pets are not allowed in that building.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "not in this building"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When will Nam see the flat on Mill Street?",
+      "options": [
+        "Friday at ten o'clock",
+        "Friday at five o'clock",
+        "Thursday at five o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mill Street is on Friday morning at ten. Orchard Road is on Thursday at five.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "Mill Street on Friday morning at ten"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why does the living room get a lot of light in the morning?",
+      "options": [
+        "The windows face east.",
+        "It has a glass roof.",
+        "It is on the top floor."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Wood says the windows face east.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "the windows face east"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is the problem in the kitchen?",
+      "options": [
+        "The cooker is old.",
+        "The walls need painting.",
+        "The oven door is stiff."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The cooker is new, but the oven door is a little stiff. The kitchen was repainted last month.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "the oven door is a little stiff"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will Mai hear in the smaller bedroom?",
+      "options": [
+        "Traffic",
+        "The neighbours' music",
+        "Birds in the garden"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The smaller bedroom is next to the road, so she will hear traffic.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "you'll hear traffic, I'm afraid"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "How does Mai plan to use the smaller bedroom?",
+      "options": [
+        "As a guest room",
+        "As a gym",
+        "As an office"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She works from home two days a week, so she could use it as an office.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I could use that one as an office."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When can Mai move in?",
+      "options": [
+        "On the first of this month",
+        "On the first of next month",
+        "As soon as she signs tomorrow"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Wood says she can move in on the first of next month. He will send the contract tomorrow.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "On the first of next month."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why is Mr Khan calling?",
+      "options": [
+        "To raise the rent",
+        "To say a plumber is coming",
+        "To invite the tenant to a meeting"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He is calling about the bathroom leak, and a plumber is coming to fix it.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "A plumber is coming on Wednesday between nine and twelve."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When will the plumber come?",
+      "options": [
+        "Wednesday morning",
+        "Friday morning",
+        "Wednesday evening"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The plumber comes on Wednesday between nine and twelve.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "on Wednesday between nine and twelve"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where can the tenant leave a key?",
+      "options": [
+        "With Mrs Perez next door",
+        "At the estate agent's office",
+        "Under the mat by the front door"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "If the tenant is at work, the key can be left with Mrs Perez next door.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "leave a key with Mrs Perez next door"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why should the tenant fill some bottles with water?",
+      "options": [
+        "The leak has made the water dirty",
+        "There will be no water for a while",
+        "The plumber needs them to fix the leak"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The tenant will have no water for part of the two hours.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "You'll have no water for part of that time"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is the problem with the rent?",
+      "options": [
+        "The rent will go up from next month",
+        "It was paid twice by mistake",
+        "This month's rent has not arrived"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mr Khan says this month's payment hasn't arrived yet.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "This month's payment hasn't arrived yet."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Hannah's podcast mainly about?",
+      "options": [
+        "How to buy a flat in the city",
+        "Advice for first-time renters",
+        "How to decorate a rented room"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She shares advice for anyone renting a flat for the first time.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "advice for anyone renting a flat for the first time"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why should renters read the contract carefully?",
+      "options": [
+        "It gives the prices of all the furniture",
+        "It explains how long they must stay",
+        "It lists the rules about the neighbours"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The contract explains how long you must stay and how much notice you must give.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "it explains how long you must stay"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why should renters take photographs when they move in?",
+      "options": [
+        "To post them online",
+        "To remember their friends",
+        "To protect their deposit"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The photographs show that marks were already there, so the landlord cannot take money from the deposit.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "you could lose part of your deposit"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why is a cheap flat far from the centre not always cheaper?",
+      "options": [
+        "The landlord asks for a bigger deposit.",
+        "Travel costs can add up.",
+        "The rent usually rises."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Bills, internet and transport can add a lot to the monthly cost.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "Bills, internet and transport can add another two hundred pounds a month."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Hannah say causes most arguments between friends who share?",
+      "options": [
+        "Money problems",
+        "Loud music late at night",
+        "Dirty dishes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says most arguments are not about money, but about dirty dishes.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "most arguments I've seen weren't about money, but about dirty dishes"
+        }
+      ]
+    }
+  ]
+}

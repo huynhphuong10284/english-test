@@ -1,0 +1,434 @@
+{
+  "id": "l-yl-m-a-snowy-day",
+  "title": "A Snowy Day",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about a snowy day: a morning at home, a weather report and a game outside.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Snow at home",
+      "intro": "You will hear Ben and his mum on a winter morning.",
+      "speakers": {
+        "Mum": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mum",
+          "text": "Ben, wake up! Look out of the window. It snowed all night!"
+        },
+        {
+          "id": "s2",
+          "speaker": "Ben",
+          "text": "Wow! Is school open today, Mum?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Mum",
+          "text": "No, the school is closed. The radio says the roads are icy."
+        },
+        {
+          "id": "s4",
+          "speaker": "Ben",
+          "text": "Yes! Can I go out and play with my cousin Tom?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Mum",
+          "text": "After breakfast. And you must wear your hat, scarf and gloves. It's very cold. Don't stay out too long, and come in for hot soup at lunchtime."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ben",
+          "text": "Can I wear my red boots?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Mum",
+          "text": "No, they're wet. Wear your green ones, by the door."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The weather report",
+      "intro": "You will hear a radio weather and travel report.",
+      "speakers": {
+        "Mr Grant": "male"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Mr Grant",
+          "text": "Good morning. This is your weather and travel report for today."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mr Grant",
+          "text": "Snow fell overnight, and there are about twenty centimetres in the north of town. More snow is coming this afternoon."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mr Grant",
+          "text": "Buses are running, but they are slow. The train to the city is cancelled, and the airport is closed until tomorrow. Please check the bus times on the internet before you leave home."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mr Grant",
+          "text": "If you drive, go slowly. And remember, the lake in the park is not safe for walking or skating."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Grant",
+          "text": "Tomorrow will be sunny, so the snow will start to melt."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Building a snowman",
+      "intro": "You will hear Ben and his friend Linh outside in the snow.",
+      "speakers": {
+        "Linh": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Linh",
+          "text": "Ben, let's build a snowman! I've got a carrot for his nose."
+        },
+        {
+          "id": "s14",
+          "speaker": "Ben",
+          "text": "Great idea. I'll make the body, and you make the head."
+        },
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "We need two black stones for his eyes. And your scarf. Is that OK?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Ben",
+          "text": "Hmm, it's my favourite scarf, but OK. He looks cold."
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "Now he's finished. Let's call him Mr Frosty."
+        },
+        {
+          "id": "s18",
+          "speaker": "Ben",
+          "text": "Perfect. Now can we go down the hill on my sledge? I'm so happy about the snow today. Maybe tomorrow we can make a snow family, with a mum, a dad and a baby."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How long did it snow?",
+      "options": [
+        "All morning",
+        "All night",
+        "For an hour"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says it snowed all night.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "It snowed all night!"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why is the school closed?",
+      "options": [
+        "The teachers are ill.",
+        "There is no electricity.",
+        "The roads are icy."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The radio says the roads are icy.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "the roads are icy"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Who will Ben play with?",
+      "options": [
+        "His sister",
+        "His cousin Tom",
+        "His friend Sam"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben wants to play with his cousin Tom.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "play with my cousin Tom"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What must Ben wear?",
+      "options": [
+        "A hat, scarf and gloves",
+        "A coat and shorts",
+        "A raincoat"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum says he must wear his hat, scarf and gloves.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "you must wear your hat, scarf and gloves"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which boots will Ben wear?",
+      "options": [
+        "The black ones",
+        "The red ones",
+        "The green ones"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The red boots are wet, so he will wear the green ones.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "Wear your green ones, by the door."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is the report about?",
+      "options": [
+        "School lessons",
+        "The weather and travel",
+        "A football match"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It gives news about the weather and travel.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "This is your weather and travel report for today."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is cancelled?",
+      "options": [
+        "The school bus",
+        "The buses",
+        "The train to the city"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The train to the city is cancelled. The buses are running.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "The train to the city is cancelled"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When will the airport open again?",
+      "options": [
+        "Today",
+        "This evening",
+        "Tomorrow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The airport is closed until tomorrow.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "the airport is closed until tomorrow"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is not safe?",
+      "options": [
+        "The lake in the park",
+        "The main road",
+        "The park hill"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The lake in the park is not safe.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "the lake in the park is not safe for walking or skating"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will the weather be tomorrow?",
+      "options": [
+        "Sunny",
+        "Cloudy",
+        "Snowy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tomorrow will be sunny.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Tomorrow will be sunny"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What are they building?",
+      "options": [
+        "A castle",
+        "A snowman",
+        "A snow house"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says they will build a snowman.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "let's build a snowman!"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is the carrot for?",
+      "options": [
+        "His hat",
+        "His mouth",
+        "His nose"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh has a carrot for his nose.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "I've got a carrot for his nose."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Who makes the head?",
+      "options": [
+        "Linh",
+        "Ben",
+        "Their teacher"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben makes the body and Linh makes the head.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "you make the head"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Ben give to the snowman?",
+      "options": [
+        "His hat",
+        "His scarf",
+        "His gloves"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh asks for Ben's scarf, and Ben agrees.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "it's my favourite scarf, but OK"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will they do next?",
+      "options": [
+        "Go sledging",
+        "Go home",
+        "Have lunch"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben asks to go down the hill on his sledge.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "can we go down the hill on my sledge?"
+        }
+      ]
+    }
+  ]
+}

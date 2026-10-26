@@ -1,0 +1,439 @@
+{
+  "id": "l-yl-m-the-class-pet",
+  "title": "The Class Pet",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about choosing and looking after a class hamster.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Choosing a pet",
+      "intro": "You will hear a teacher, Mrs Evans, and a boy, Nam.",
+      "speakers": {
+        "Mrs Evans": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mrs Evans",
+          "text": "Nam, we're getting a class pet next week. Would you like to help me choose?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "Yes, please! Can we have a dog?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Mrs Evans",
+          "text": "No, a dog is too big for our classroom. I'm thinking of a rabbit or a hamster."
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "I prefer rabbits. They are soft, and they have long ears."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mrs Evans",
+          "text": "Rabbits need a lot of space, though. A hamster is small and it's happy in a cage."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "Then let's get a hamster. And I have a name idea: Biscuit."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mrs Evans",
+          "text": "Lovely name. We'll get him on Monday. I'll buy a cage and some food this weekend, so everything is ready."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Class rules",
+      "intro": "You will hear Mrs Evans talking to her class about the hamster.",
+      "speakers": {
+        "Mrs Evans": "female"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Mrs Evans",
+          "text": "Class, our hamster has arrived. His name is Biscuit, and he's two years old."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mrs Evans",
+          "text": "Every day, two children will look after him. They will give him fresh water and food in the morning."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mrs Evans",
+          "text": "On Fridays, we'll clean his cage. Please wash your hands after you touch him."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Evans",
+          "text": "Don't wake him up when he's sleeping, and never give him sweets. Seeds and carrots are best."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mrs Evans",
+          "text": "Biscuit will go home with Linh for the school holiday. I'm sure that every one of you will be kind and careful with him."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · At home",
+      "intro": "You will hear Linh talking to her dad.",
+      "speakers": {
+        "Linh": "female",
+        "Dad": "male"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Linh",
+          "text": "Dad, can I look after our class hamster in the holidays? Mrs Evans said I can!"
+        },
+        {
+          "id": "s14",
+          "speaker": "Dad",
+          "text": "A hamster? Where will he sleep?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "In my bedroom, next to the window. He needs a quiet place."
+        },
+        {
+          "id": "s16",
+          "speaker": "Dad",
+          "text": "Hmm, I'm not sure. What about the cat?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "I'll close the door. Please, Dad! I'll clean the cage every day, I promise."
+        },
+        {
+          "id": "s18",
+          "speaker": "Dad",
+          "text": "OK, OK. But you must do it yourself. I'm not going to help."
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "Thank you! You're the best dad in the world. I'll tell Mum the good news when she comes home, and she will be happy too."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When are they getting the pet?",
+      "options": [
+        "Next month",
+        "Next week",
+        "Tomorrow"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mrs Evans says they are getting a class pet next week.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "we're getting a class pet next week"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why can't they have a dog?",
+      "options": [
+        "It is too loud.",
+        "It is too expensive.",
+        "It is too big."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A dog is too big for the classroom.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "a dog is too big for our classroom"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Which pet does Nam like best at first?",
+      "options": [
+        "A fish",
+        "A rabbit",
+        "A hamster"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam says he prefers rabbits.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I prefer rabbits."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why does Mrs Evans say no to a rabbit?",
+      "options": [
+        "Rabbits eat too much.",
+        "Rabbits need a lot of space.",
+        "Rabbits are noisy."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Rabbits need a lot of space.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Rabbits need a lot of space"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is the pet's name?",
+      "options": [
+        "Cookie",
+        "Biscuit",
+        "Bubble"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam suggests the name Biscuit.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I have a name idea: Biscuit."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Mrs Evans talking about?",
+      "options": [
+        "How to draw a hamster",
+        "Where to buy a hamster",
+        "How to look after the hamster"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She explains how the class will look after Biscuit.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "Every day, two children will look after him."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How old is Biscuit?",
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Biscuit is two years old.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "he's two years old"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When do the children give him food?",
+      "options": [
+        "On Fridays",
+        "After lunch",
+        "In the morning"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They give him water and food in the morning. Fridays are for cleaning.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "food in the morning"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is best for Biscuit to eat?",
+      "options": [
+        "Sweets",
+        "Seeds and carrots",
+        "Bread"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mrs Evans says seeds and carrots are best.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "Seeds and carrots are best."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who will take Biscuit home in the holiday?",
+      "options": [
+        "Nam",
+        "Mrs Evans",
+        "Linh"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Biscuit will go home with Linh.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Biscuit will go home with Linh"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "What does Linh want?",
+      "options": [
+        "To look after the hamster at home",
+        "To buy a cat",
+        "To clean the classroom"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She asks if she can look after the hamster in the holidays.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "can I look after our class hamster in the holidays?"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where will the hamster sleep?",
+      "options": [
+        "In the garden",
+        "In Linh's bedroom",
+        "In the kitchen"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says it will sleep in her bedroom.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "In my bedroom, next to the window."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What is Dad worried about?",
+      "options": [
+        "The smell",
+        "The noise",
+        "The cat"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dad asks \"What about the cat?\" because a cat might hurt a hamster.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "What about the cat?"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will Linh do every day?",
+      "options": [
+        "Wash the cat",
+        "Clean the cage",
+        "Take him to school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh promises to clean the cage every day.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I'll clean the cage every day"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Will Dad help with the hamster?",
+      "options": [
+        "Yes, at weekends",
+        "Yes, every day",
+        "No"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dad says Linh must do it herself.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I'm not going to help."
+        }
+      ]
+    }
+  ]
+}

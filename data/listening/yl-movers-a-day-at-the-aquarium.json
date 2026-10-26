@@ -1,0 +1,454 @@
+{
+  "id": "l-yl-m-a-day-at-the-aquarium",
+  "title": "A Day at the Aquarium",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about a visit to the aquarium: a boy and his mum, an announcement and two friends.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Tom and Mum",
+      "intro": "You will hear Tom and his mum at the aquarium.",
+      "speakers": {
+        "Tom": "male",
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mum",
+          "text": "Look, Tom! The sharks are over there. Do you want to see them first?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Tom",
+          "text": "No, Mum. I want to see the turtles first. Then we can see the sharks."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mum",
+          "text": "OK. The turtle tank is next to the café. We can have lunch after that."
+        },
+        {
+          "id": "s4",
+          "speaker": "Tom",
+          "text": "Can I have a fish pie? No, wait, I don't like fish. I'll have a cheese sandwich."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mum",
+          "text": "Good idea. And at the end, I'll buy you a toy dolphin from the shop."
+        },
+        {
+          "id": "s6",
+          "speaker": "Tom",
+          "text": "Thanks, Mum! I'd like a blue one, please."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mum",
+          "text": "Let's take a photo of you with the big shark first, then we can walk to the turtles."
+        },
+        {
+          "id": "s8",
+          "speaker": "Tom",
+          "text": "Great! I'm so happy we came today, Mum. This is my best day this month."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · At the aquarium",
+      "intro": "You will hear an announcement at the aquarium.",
+      "speakers": {
+        "Mr Brown": "male"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Mr Brown",
+          "text": "Welcome to the aquarium, everyone. The big fish show starts at eleven o'clock, not ten o'clock."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mr Brown",
+          "text": "Please sit near the front if you want to see the divers. They are very good, and they give the fish their food."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mr Brown",
+          "text": "After the show, you can touch the starfish in the small pool. Please wash your hands first."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Brown",
+          "text": "Don't use your cameras with a flash, because the light hurts the fish."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mr Brown",
+          "text": "The shop closes at five o'clock today. Thank you, and enjoy your day!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Two friends",
+      "intro": "You will hear Nam talking to his friend Linh about the aquarium.",
+      "speakers": {
+        "Nam": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s14",
+          "speaker": "Nam",
+          "text": "Hi, Linh! Did you go to the aquarium yesterday?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "Yes, I did! I went with my cousin. We saw a huge octopus."
+        },
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "Wow! Was it scary?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "A little, but I liked it. My cousin liked the penguins best. She laughed at them for ages."
+        },
+        {
+          "id": "s18",
+          "speaker": "Nam",
+          "text": "I want to go on Saturday. How much is a ticket?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "It's eight pounds for children. But you can go free on your birthday!"
+        },
+        {
+          "id": "s20",
+          "speaker": "Nam",
+          "text": "My birthday is next week, so I'll wait until then."
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "Don't forget to bring a warm jumper. It's quite cold inside the building."
+        },
+        {
+          "id": "s22",
+          "speaker": "Nam",
+          "text": "Thanks for telling me. I'll ask my mum to take me, and I'll buy some postcards."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Tom want to see first?",
+      "options": [
+        "The dolphins",
+        "The turtles",
+        "The sharks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom says he wants to see the turtles first. The sharks come after that.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I want to see the turtles first."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the turtle tank?",
+      "options": [
+        "Near the sharks",
+        "Next to the shop",
+        "Next to the café"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum says the turtle tank is next to the café.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "The turtle tank is next to the café."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Tom have for lunch?",
+      "options": [
+        "A fish pie",
+        "A cheese sandwich",
+        "Some cake"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom doesn't like fish, so he chooses a cheese sandwich.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I'll have a cheese sandwich."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Mum buy for Tom?",
+      "options": [
+        "A toy shark",
+        "A book about fish",
+        "A toy dolphin"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum says she will buy a toy dolphin from the shop.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "I'll buy you a toy dolphin"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What colour does Tom want?",
+      "options": [
+        "Blue",
+        "Grey",
+        "Green"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom says he would like a blue one.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I'd like a blue one, please."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time does the fish show start?",
+      "options": [
+        "At eleven o'clock",
+        "At five o'clock",
+        "At ten o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The show starts at eleven, not ten. Five o'clock is when the shop closes.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "The big fish show starts at eleven o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where should people sit to see the divers?",
+      "options": [
+        "Near the front",
+        "At the back",
+        "Near the door"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The speaker says to sit near the front.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Please sit near the front if you want to see the divers."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What can visitors touch after the show?",
+      "options": [
+        "Sharks",
+        "Turtles",
+        "Starfish"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They can touch the starfish in the small pool.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "you can touch the starfish in the small pool"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What must visitors do before they touch the animals?",
+      "options": [
+        "Wash their hands",
+        "Take off their shoes",
+        "Buy a ticket"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The speaker asks them to wash their hands first.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "Please wash your hands first."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why can't visitors use a flash?",
+      "options": [
+        "It is too dark",
+        "It breaks the camera",
+        "It hurts the fish"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The light from a flash hurts the fish.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "the light hurts the fish"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Who did Linh go with?",
+      "options": [
+        "Her cousin",
+        "Her teacher",
+        "Her sister"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh says she went with her cousin.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "I went with my cousin."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did Linh see?",
+      "options": [
+        "A huge octopus",
+        "A giant crab",
+        "A big whale"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh says they saw a huge octopus.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "We saw a huge octopus."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What did Linh's cousin like best?",
+      "options": [
+        "The sharks",
+        "The penguins",
+        "The octopus"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says her cousin liked the penguins best.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "My cousin liked the penguins best."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How much is a ticket for a child?",
+      "options": [
+        "Six pounds",
+        "Eight pounds",
+        "Ten pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says it is eight pounds for children.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "It's eight pounds for children."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why will Nam wait until next week?",
+      "options": [
+        "He can go free on his birthday",
+        "The aquarium is closed",
+        "He is busy on Saturday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Children go free on their birthday, and his birthday is next week.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "My birthday is next week, so I'll wait until then."
+        }
+      ]
+    }
+  ]
+}

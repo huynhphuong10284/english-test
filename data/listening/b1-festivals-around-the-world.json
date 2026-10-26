@@ -1,0 +1,602 @@
+{
+  "id": "l-b1-festivals-around-the-world",
+  "title": "Festivals Around the World",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings about festivals: a radio interview, an announcement, a conversation and a podcast about Tet.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A radio interview",
+      "intro": "You will hear Mai interviewing Daniel, who loves visiting festivals.",
+      "speakers": {
+        "Mai": "female",
+        "Daniel": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Welcome to Culture Corner. Today we're talking about festivals, and my guest is Daniel, who has travelled to more than twenty countries to join them."
+        },
+        {
+          "id": "s2",
+          "speaker": "Daniel",
+          "text": "Thanks, Mai. It's a pleasure. Although to be honest, I only count the ones I really enjoyed, so maybe it's closer to eighteen."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "Which festival surprised you most?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Daniel",
+          "text": "Probably the lantern festival in northern Thailand. I expected a quiet event, but thousands of people were in the fields, and everyone released a paper lantern at the same time. The sky turned orange. I'd never seen anything like it."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "Was it difficult to get a place?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Daniel",
+          "text": "Very. The tickets sold out in March, and the festival is in November. I was lucky because a friend of mine knew the organiser."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "And what's your advice for people who want to go to a big festival?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Daniel",
+          "text": "Book early, and don't carry too much. Most people bring huge bags, then they spend the whole day worrying about them. A small bag, a bottle of water and a camera are enough."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mai",
+          "text": "Good advice. Thank you, Daniel."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A festival announcement",
+      "intro": "You will hear an announcement at a food festival.",
+      "speakers": {
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Linh",
+          "text": "Good morning, and welcome to the Riverside Food Festival. Before you start tasting, please listen to a few important announcements."
+        },
+        {
+          "id": "s11",
+          "speaker": "Linh",
+          "text": "First, the festival opens at ten o'clock and closes at nine in the evening. Last year it closed at eight, but so many people asked for extra time that we changed it."
+        },
+        {
+          "id": "s12",
+          "speaker": "Linh",
+          "text": "Second, the cooking competition was planned for the main stage, but because of the rain forecast, it will take place in the big green tent near the bridge. It begins at two o'clock, not at noon as the programme says."
+        },
+        {
+          "id": "s13",
+          "speaker": "Linh",
+          "text": "Third, if you are looking for a quiet place to sit and eat, the library garden is open to everyone. Please remember to take your plates back to the stalls, because we want to keep the river clean."
+        },
+        {
+          "id": "s14",
+          "speaker": "Linh",
+          "text": "Finally, children under twelve can join our free pancake workshop at four o'clock. You don't need to book, but there are only twenty places, so please arrive early. Enjoy the festival!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Choosing a festival",
+      "intro": "You will hear two friends, Hannah and Nam, talking about summer plans.",
+      "speakers": {
+        "Hannah": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Hannah",
+          "text": "Nam, have you decided which festival to go to this summer? The music one or the colour festival?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "Well, I was thinking about the colour festival, because my cousin went last year and said it was fantastic. But then I read that you finish the day covered in powder from head to toe."
+        },
+        {
+          "id": "s17",
+          "speaker": "Hannah",
+          "text": "That's the whole point! Everybody throws coloured powder, and it's meant to celebrate the arrival of spring."
+        },
+        {
+          "id": "s18",
+          "speaker": "Nam",
+          "text": "I know, but I'm not sure about my clothes. I'd have to throw away everything I wear."
+        },
+        {
+          "id": "s19",
+          "speaker": "Hannah",
+          "text": "Not really. You just wear old white clothes. I did it two years ago, and I still use the same shirt for painting."
+        },
+        {
+          "id": "s20",
+          "speaker": "Nam",
+          "text": "Hmm. What about the music festival, then? It's cheaper, isn't it?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Hannah",
+          "text": "Actually, it isn't. The tickets for the music festival cost eighty pounds, and the colour festival is only fifty. But the music one lasts three days, so you also need a tent."
+        },
+        {
+          "id": "s22",
+          "speaker": "Nam",
+          "text": "Right. That's a lot of extra money. And I hate sleeping outside."
+        },
+        {
+          "id": "s23",
+          "speaker": "Hannah",
+          "text": "So the colour festival sounds better for you. And it's just one day, so you can go home to your own bed."
+        },
+        {
+          "id": "s24",
+          "speaker": "Nam",
+          "text": "You've convinced me. Let's book tonight."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A podcast about Tet",
+      "intro": "You will hear Minh, a student, talking about a holiday in his country.",
+      "speakers": {
+        "Minh": "male"
+      },
+      "script": [
+        {
+          "id": "s25",
+          "speaker": "Minh",
+          "text": "Hello, everybody, and welcome to our school podcast. This week I'd like to tell you about Tet, the Lunar New Year, which is the most important holiday in my country."
+        },
+        {
+          "id": "s26",
+          "speaker": "Minh",
+          "text": "Tet usually falls in January or February, and families start getting ready weeks before. People clean the house, because they believe it sweeps away bad luck from the old year. However, you must not sweep on the first day, or you might sweep away good luck too."
+        },
+        {
+          "id": "s27",
+          "speaker": "Minh",
+          "text": "One of my favourite traditions is making sticky rice cakes. My grandmother starts at six in the evening, and we sit around the pot all night, telling stories. Many of my friends find that boring, but for me it's the best part of the holiday."
+        },
+        {
+          "id": "s28",
+          "speaker": "Minh",
+          "text": "On the first morning, children put on new clothes and visit relatives. The adults give us small red envelopes with money inside. I used to spend it all on sweets, but now I save most of it."
+        },
+        {
+          "id": "s29",
+          "speaker": "Minh",
+          "text": "Some visitors think Tet is only about food and presents, but it's really about family. Even people who live far away try to come home, and the trains and buses are full for days. If you ever get the chance to celebrate Tet in Vietnam, I'm sure you'll never forget it."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many countries has Daniel really enjoyed festivals in?",
+      "options": [
+        "About thirty",
+        "About eighteen",
+        "More than twenty"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Daniel says the number is closer to eighteen, because he only counts the ones he enjoyed.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "maybe it's closer to eighteen"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What did Daniel expect before he went to the lantern festival?",
+      "options": [
+        "A difficult journey",
+        "A very large crowd",
+        "A quiet event"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he expected a quiet event, but thousands of people came.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I expected a quiet event"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When did the festival tickets sell out?",
+      "options": [
+        "In November",
+        "In March",
+        "In the summer"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The tickets sold out in March. November is when the festival takes place.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "The tickets sold out in March"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How did Daniel get a place at the festival?",
+      "options": [
+        "He queued outside for several hours.",
+        "A friend of his knew the organiser.",
+        "He won a ticket in a competition."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He was lucky because a friend knew the organiser.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "a friend of mine knew the organiser"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "What advice does Daniel give?",
+      "options": [
+        "Take only a few things.",
+        "Travel with a friend.",
+        "Bring a big bag for safety."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says a small bag, water and a camera are enough.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "A small bag, a bottle of water and a camera are enough."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time does the festival close this year?",
+      "options": [
+        "At nine o'clock",
+        "At eight o'clock",
+        "At ten o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It closes at nine. Eight o'clock was last year's closing time.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "closes at nine in the evening"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why was the closing time changed?",
+      "options": [
+        "People asked for extra time.",
+        "The weather is bad.",
+        "There is a cooking show."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "So many people asked for extra time that the festival now closes later.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "so many people asked for extra time that we changed it"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where will the cooking competition take place?",
+      "options": [
+        "In the big tent near the bridge",
+        "On the main stage, as planned",
+        "In the library garden by the river"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Because of the rain, it moves from the main stage to the big green tent.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "it will take place in the big green tent near the bridge"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time does the cooking competition begin?",
+      "options": [
+        "At four o'clock",
+        "At noon",
+        "At two o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It begins at two o'clock, not at noon as the programme says.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "It begins at two o'clock, not at noon"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Who can join the pancake workshop?",
+      "options": [
+        "Everyone in the town",
+        "Children who book first",
+        "Children under twelve"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The workshop is for children under twelve, and nobody needs to book.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "children under twelve can join our free pancake workshop"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What are the two friends mainly discussing?",
+      "options": [
+        "A trip they took together last year",
+        "How to choose a good tent",
+        "Choosing which festival to go to"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They compare the music festival and the colour festival to decide which one Nam will go to.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "which festival to go to this summer"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What worries Nam about the colour festival?",
+      "options": [
+        "Having to sleep in a cold tent",
+        "Getting his clothes dirty",
+        "The price of the tickets"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam is not sure about his clothes because everyone is covered in powder.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I'm not sure about my clothes."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Hannah say she still uses her white shirt for?",
+      "options": [
+        "Painting",
+        "Cleaning the house",
+        "Playing sport"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she still uses the same shirt for painting.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I still use the same shirt for painting."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "How much cheaper is the colour festival than the music festival?",
+      "options": [
+        "Fifty pounds",
+        "Twenty pounds",
+        "Thirty pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The music festival costs eighty pounds and the colour festival fifty, so it is thirty pounds cheaper.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "eighty pounds, and the colour festival is only fifty"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Nam finally choose the colour festival?",
+      "options": [
+        "His cousin went there last year and loved it.",
+        "It lasts one day and he hates sleeping outside.",
+        "Hannah promises to lend him her old white shirt."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The music festival lasts three days and needs a tent, but Nam hates sleeping outside.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I hate sleeping outside."
+        },
+        {
+          "lineId": "s23",
+          "quote": "it's just one day"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Minh's podcast mainly about?",
+      "options": [
+        "A holiday in his country",
+        "How to cook sticky rice cakes",
+        "Travelling by train at Tet"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He tells listeners about Tet, the most important holiday in his country.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "I'd like to tell you about Tet"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why do people clean the house before Tet?",
+      "options": [
+        "To welcome all the visitors",
+        "To get rid of bad luck",
+        "To find their old clothes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They believe cleaning sweeps away bad luck from the old year.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "it sweeps away bad luck from the old year"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Minh feel about making rice cakes?",
+      "options": [
+        "He is too tired to help.",
+        "He thinks it is boring.",
+        "He enjoys it very much."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Minh's friends find it boring, but for him it is the best part of the holiday.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "for me it's the best part of the holiday"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does Minh do with the money in the red envelopes now?",
+      "options": [
+        "He spends it on sweets.",
+        "He saves most of it.",
+        "He gives it to his grandmother."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He used to spend it on sweets, but now he saves most of it.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "now I save most of it"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "What does Minh want listeners to understand about Tet?",
+      "options": [
+        "It is mainly about travel.",
+        "It is mainly about family.",
+        "It is mainly about presents."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says visitors think it is about food and presents, but it is really about family.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "it's really about family"
+        }
+      ]
+    }
+  ]
+}

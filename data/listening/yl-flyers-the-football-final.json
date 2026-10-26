@@ -1,0 +1,584 @@
+{
+  "id": "l-yl-f-the-football-final",
+  "title": "The Football Final",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about a school football final: a chat, a stadium announcement, half-time advice and a radio report.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Before the match",
+      "intro": "You will hear Mai and Ben talking about the football final.",
+      "speakers": {
+        "Mai": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Ben, are you excited about the football final on Saturday?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Ben",
+          "text": "Very! Our school plays against Park School. I'm playing in defence this time."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "Really? I thought you always played in goal."
+        },
+        {
+          "id": "s4",
+          "speaker": "Ben",
+          "text": "I did, but Tim hurt his arm, so the coach asked me to change. Actually, I prefer defence."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "My brother's coming to watch. He's bringing a big blue flag."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ben",
+          "text": "Our colour is red! But that's fine. Will you come by bus?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "No, my dad is going to drive us. We'll arrive early to get good seats."
+        },
+        {
+          "id": "s8",
+          "speaker": "Ben",
+          "text": "Good idea. I'm so nervous, I can't eat breakfast on match days. I only drink a glass of milk."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mai",
+          "text": "Don't worry, Ben. You always play well. I'm sure your team will win."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · At the stadium",
+      "intro": "You will hear an announcement before the Schools Cup final.",
+      "speakers": {
+        "Announcer": "male"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Announcer",
+          "text": "Good afternoon, everyone, and welcome to the Schools Cup final. The match starts at three o'clock, not half past two as it says on some tickets."
+        },
+        {
+          "id": "s11",
+          "speaker": "Announcer",
+          "text": "The car park is full, so please leave your cars in the field behind the school."
+        },
+        {
+          "id": "s12",
+          "speaker": "Announcer",
+          "text": "You can buy drinks and ice creams near gate four. Please put your rubbish in the bins."
+        },
+        {
+          "id": "s13",
+          "speaker": "Announcer",
+          "text": "If you find a lost bag, please give it to the lady in the school office."
+        },
+        {
+          "id": "s14",
+          "speaker": "Announcer",
+          "text": "After the match, the head teacher will give the cup to the winning team. Now, please stand up and welcome the players!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · At half-time",
+      "intro": "You will hear a coach, Lan, talking to a player, Minh, at half-time.",
+      "speakers": {
+        "Lan": "female",
+        "Minh": "male"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Lan",
+          "text": "Minh, you ran very well in the first half, but we're losing one-nil."
+        },
+        {
+          "id": "s16",
+          "speaker": "Minh",
+          "text": "I know, Coach. I'm tired, and my feet hurt a bit."
+        },
+        {
+          "id": "s17",
+          "speaker": "Lan",
+          "text": "Drink some water. In the second half, pass the ball to Nam. He's fast and he's free on the left."
+        },
+        {
+          "id": "s18",
+          "speaker": "Minh",
+          "text": "OK. Shall I try to score myself?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Lan",
+          "text": "Only if you're near the goal. Don't shoot from far away. That's what you did in the first half."
+        },
+        {
+          "id": "s20",
+          "speaker": "Minh",
+          "text": "You're right. I was a little nervous."
+        },
+        {
+          "id": "s21",
+          "speaker": "Lan",
+          "text": "Don't worry. Be brave and enjoy the game. We can still win."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Radio sports news",
+      "intro": "You will hear a radio report about the football final.",
+      "speakers": {
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s22",
+          "speaker": "Linh",
+          "text": "And now the sports news. Last night's final was very exciting. Park School scored first, but Green Hill School won three-two in the last minute."
+        },
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "The winning goal was scored by a girl called Hana, who is only eleven years old. Her team-mates carried her on their shoulders."
+        },
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "The captain, Minh, said, we never stopped believing. More than two hundred people watched the match, and the sun shone all afternoon."
+        },
+        {
+          "id": "s25",
+          "speaker": "Linh",
+          "text": "The winners will visit the zoo next week. It's a surprise from their head teacher."
+        },
+        {
+          "id": "s26",
+          "speaker": "Linh",
+          "text": "The players from Park School were sad, but they clapped for the winners. That was a lovely thing to see. Well done to both teams!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Who does Ben's school play against?",
+      "options": [
+        "Green Hill School",
+        "Tim's school",
+        "Park School"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ben says they play against Park School.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Our school plays against Park School."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is Ben playing this time?",
+      "options": [
+        "In goal",
+        "In defence",
+        "In attack"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben is playing in defence. He used to play in goal.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I'm playing in defence this time."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why did the coach ask Ben to change?",
+      "options": [
+        "Tim hurt his arm.",
+        "Ben was tired.",
+        "Ben wanted to score."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tim hurt his arm, so the coach asked Ben to change.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Tim hurt his arm"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is Mai's brother bringing?",
+      "options": [
+        "A big blue flag",
+        "A red scarf",
+        "A big drum"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He is bringing a big blue flag. Red is Ben's team colour.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "He's bringing a big blue flag."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How will Mai go to the match?",
+      "options": [
+        "By bus",
+        "In her dad's car",
+        "On foot"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai says her dad is going to drive them.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "my dad is going to drive us"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time does the match start?",
+      "options": [
+        "At three o'clock",
+        "At half past two",
+        "At four o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The match starts at three o'clock, not half past two.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "The match starts at three o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where should people leave their cars?",
+      "options": [
+        "In the car park",
+        "In the school office",
+        "In the field behind the school"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The car park is full, so cars go in the field behind the school.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "leave your cars in the field behind the school"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where can people buy ice creams?",
+      "options": [
+        "Near gate four",
+        "In the office",
+        "Behind the school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Drinks and ice creams are sold near gate four.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "near gate four"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where should people take a lost bag?",
+      "options": [
+        "To gate four",
+        "To the head teacher",
+        "To the school office"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They should give it to the lady in the school office.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "the lady in the school office"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who will give the cup to the winners?",
+      "options": [
+        "The announcer",
+        "The coach",
+        "The head teacher"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The head teacher will give the cup to the winning team.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "the head teacher will give the cup"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is the score at half-time?",
+      "options": [
+        "It is nil-nil.",
+        "They are winning one-nil.",
+        "They are losing one-nil."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lan says they are losing one-nil.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "we're losing one-nil"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How does Minh feel?",
+      "options": [
+        "Angry",
+        "Tired",
+        "Happy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Minh says he is tired and his feet hurt.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "I'm tired"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Who should Minh pass the ball to?",
+      "options": [
+        "Nam",
+        "Tim",
+        "Hana"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lan tells Minh to pass the ball to Nam, who is free on the left.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "pass the ball to Nam"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did Minh do wrong in the first half?",
+      "options": [
+        "He passed to the wrong team.",
+        "He shot from far away.",
+        "He ran too slowly."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lan says he shot from far away in the first half.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Don't shoot from far away."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does the coach think about the game?",
+      "options": [
+        "They should stop.",
+        "They cannot win.",
+        "They can still win."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says: \"We can still win.\"",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "We can still win."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Who won the final?",
+      "options": [
+        "Nobody",
+        "Green Hill School",
+        "Park School"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Green Hill School won three-two.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "Green Hill School won three-two in the last minute"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What was the final score?",
+      "options": [
+        "Two-three",
+        "Three-two",
+        "Three-one"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The winners scored three goals and Park School scored two.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "won three-two"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How old is Hana?",
+      "options": [
+        "Twelve",
+        "Eleven",
+        "Ten"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Hana is only eleven years old.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "only eleven years old"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How many people watched the match?",
+      "options": [
+        "About one hundred",
+        "More than three hundred",
+        "More than two hundred"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "More than two hundred people watched.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "More than two hundred people watched the match"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is the surprise for the winners?",
+      "options": [
+        "A cup of gold",
+        "A new ball",
+        "A trip to the zoo"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The head teacher is sending them to the zoo next week.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "The winners will visit the zoo next week."
+        }
+      ]
+    }
+  ]
+}

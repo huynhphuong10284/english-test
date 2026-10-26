@@ -1,0 +1,618 @@
+{
+  "id": "l-a1-my-new-home",
+  "title": "My New Home",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about moving to a new home: a visit, a school talk, a message and a furniture shop.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A visit to the new flat",
+      "intro": "You will hear Mai visiting her friend Tom in his new flat.",
+      "speakers": {
+        "Tom": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Hi, Tom! Wow, your new flat is lovely. Is it big?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Tom",
+          "text": "Thanks, Mai. It has two bedrooms, a kitchen and a small living room. It's on the third floor."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "Is there a lift?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Tom",
+          "text": "No, there isn't. I walk up the stairs every day. It's good for me!"
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "Ha! Which room do you like best?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Tom",
+          "text": "I like the kitchen. It's bright, and I love cooking. My bedroom is quite small, but it has a big window."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "Is there a garden?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Tom",
+          "text": "No, but there is a balcony. I have three plants there, and a little blue chair."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mai",
+          "text": "It's perfect. Are your neighbours nice?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Tom",
+          "text": "Yes, very nice. An old lady lives next door. She gave me a cake on my first day."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A talk at school",
+      "intro": "You will hear a boy, Ben, talking to his class about his new house.",
+      "speakers": {
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Ben",
+          "text": "Hello, everyone. Last month, my family moved to a new house. It is near the park."
+        },
+        {
+          "id": "s12",
+          "speaker": "Ben",
+          "text": "Our old house was in the city centre. It was noisy, and we had no garden."
+        },
+        {
+          "id": "s13",
+          "speaker": "Ben",
+          "text": "Now we have a big garden with an apple tree. My dad wants to buy a dog, but my mum says no."
+        },
+        {
+          "id": "s14",
+          "speaker": "Ben",
+          "text": "My bedroom is upstairs. I share it with my little brother, Jack. We have a bunk bed. I sleep on the top!"
+        },
+        {
+          "id": "s15",
+          "speaker": "Ben",
+          "text": "My favourite place is the garden. In the evening, I read my books under the tree."
+        },
+        {
+          "id": "s16",
+          "speaker": "Ben",
+          "text": "The only problem is the school bus. Now I get up at six o'clock, because the bus comes at seven."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A message from Mum",
+      "intro": "You will hear a voicemail message from Linh's mother.",
+      "speakers": {
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Mum",
+          "text": "Hello, Linh. It's Mum. I'm at the new house with the movers."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mum",
+          "text": "Please come at four o'clock, not at three. We are not ready yet."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mum",
+          "text": "Take the bus number twelve, and get off at the bank. Our street is next to the bank."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mum",
+          "text": "Please bring your cat, Mimi. She is in the small box in your room. Give her some water first."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mum",
+          "text": "Don't bring your big books. We will carry them tomorrow. And can you buy some bread on the way?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Mum",
+          "text": "Our house is number fifteen. The door is yellow. See you soon, my dear!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · In a furniture shop",
+      "intro": "You will hear Minh and a shop assistant, Sarah.",
+      "speakers": {
+        "Minh": "male",
+        "Sarah": "female"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Sarah",
+          "text": "Good afternoon. Can I help you?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Minh",
+          "text": "Yes, please. I have a new room, and I need a desk."
+        },
+        {
+          "id": "s25",
+          "speaker": "Sarah",
+          "text": "Of course. We have a white desk and a brown desk. The white desk is eighty pounds."
+        },
+        {
+          "id": "s26",
+          "speaker": "Minh",
+          "text": "Hmm. That's a lot. How much is the brown desk?"
+        },
+        {
+          "id": "s27",
+          "speaker": "Sarah",
+          "text": "It's sixty pounds. It has two drawers, too."
+        },
+        {
+          "id": "s28",
+          "speaker": "Minh",
+          "text": "Great. I'll take the brown one. Do you have a chair?"
+        },
+        {
+          "id": "s29",
+          "speaker": "Sarah",
+          "text": "Yes. This green chair is twenty pounds. It's very comfortable."
+        },
+        {
+          "id": "s30",
+          "speaker": "Minh",
+          "text": "OK, but I don't like green. Do you have a black one?"
+        },
+        {
+          "id": "s31",
+          "speaker": "Sarah",
+          "text": "Yes, here you are. Can we bring everything to your house?"
+        },
+        {
+          "id": "s32",
+          "speaker": "Minh",
+          "text": "Yes, please. Is tomorrow morning OK?"
+        },
+        {
+          "id": "s33",
+          "speaker": "Sarah",
+          "text": "Sure. Tomorrow at ten o'clock. What's your address?"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many bedrooms does Tom's flat have?",
+      "options": [
+        "One",
+        "Three",
+        "Two"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says the flat has two bedrooms. Three is the floor.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "two bedrooms"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which floor is the flat on?",
+      "options": [
+        "The third floor",
+        "The second floor",
+        "The first floor"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom says the flat is on the third floor.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "third floor"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Which room does Tom like best?",
+      "options": [
+        "The living room",
+        "The kitchen",
+        "His bedroom"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom likes the kitchen because it is bright and he loves cooking.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I like the kitchen"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is on the balcony?",
+      "options": [
+        "A table",
+        "A garden",
+        "Three plants"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom has three plants and a little blue chair on the balcony.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "I have three plants there"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did the neighbour give Tom?",
+      "options": [
+        "A plant",
+        "A chair",
+        "A cake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The old lady next door gave him a cake.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "She gave me a cake"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Ben talking about?",
+      "options": [
+        "His new house",
+        "His holiday",
+        "His school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben talks about moving to a new house.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "my family moved to a new house"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What was bad about the old house?",
+      "options": [
+        "It was very small.",
+        "It was noisy.",
+        "It was far from school."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben says the old house was noisy and had no garden.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "It was noisy"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who does Ben share his bedroom with?",
+      "options": [
+        "His cousin",
+        "His brother",
+        "His sister"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He shares it with his little brother, Jack.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "I share it with my little brother"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "Where does Ben like to read?",
+      "options": [
+        "In his bed",
+        "In the park",
+        "Under the tree"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ben reads his books under the tree in the garden.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "I read my books under the tree"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time does the school bus come?",
+      "options": [
+        "At seven o'clock",
+        "At six o'clock",
+        "At eight o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The bus comes at seven. Six o'clock is when Ben gets up.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "the bus comes at seven"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why is Mum calling?",
+      "options": [
+        "To ask for some money",
+        "To say she is ill",
+        "To ask Linh to come to the new house"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum is at the new house and tells Linh when and how to come.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Please come at four o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time should Linh come?",
+      "options": [
+        "At four o'clock",
+        "At three o'clock",
+        "At five o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum says four o'clock, not three.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "not at three"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where should Linh get off the bus?",
+      "options": [
+        "At the park",
+        "At the bank",
+        "At the school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says to get off at the bank.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "get off at the bank"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What should Linh bring?",
+      "options": [
+        "Her cat",
+        "Her big books",
+        "Her bicycle"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum asks Linh to bring her cat, Mimi. The big books can wait until tomorrow.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Please bring your cat"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What colour is the door?",
+      "options": [
+        "Blue",
+        "Yellow",
+        "Red"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says the door is yellow.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "The door is yellow"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What does Minh want to buy?",
+      "options": [
+        "A sofa",
+        "A desk",
+        "A bed"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Minh says he needs a desk for his new room.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I need a desk"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How much is the brown desk?",
+      "options": [
+        "Eighty pounds",
+        "Sixty pounds",
+        "Twenty pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The brown desk is sixty pounds. The white desk is eighty.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "It's sixty pounds"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does the brown desk have?",
+      "options": [
+        "A lamp",
+        "Two drawers",
+        "A mirror"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Sarah says it has two drawers.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "It has two drawers"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "Why doesn't Minh take the green chair?",
+      "options": [
+        "It is too small.",
+        "It is too expensive.",
+        "He doesn't like green."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Minh says he doesn't like green and asks for a black one.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "I don't like green"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When will the shop bring the things?",
+      "options": [
+        "Tomorrow at ten o'clock",
+        "Today at ten o'clock",
+        "Tomorrow at two o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sarah says tomorrow at ten o'clock.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "Tomorrow at ten o'clock"
+        }
+      ]
+    }
+  ]
+}

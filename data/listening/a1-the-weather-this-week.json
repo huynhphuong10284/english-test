@@ -1,0 +1,573 @@
+{
+  "id": "l-a1-the-weather-this-week",
+  "title": "The Weather This Week",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about the weather: a radio forecast, a picnic plan, a phone call and a school announcement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The weather report",
+      "intro": "You will hear a radio weather report for the week.",
+      "speakers": {
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Anna",
+          "text": "Good morning, and welcome to the weather report for this week. Here is the news for the whole country."
+        },
+        {
+          "id": "s2",
+          "speaker": "Anna",
+          "text": "On Monday it will be sunny and warm. The temperature will be twenty-five degrees."
+        },
+        {
+          "id": "s3",
+          "speaker": "Anna",
+          "text": "Tuesday will be cloudy, but there will be no rain. On Wednesday, we expect heavy rain in the morning and a strong wind in the afternoon."
+        },
+        {
+          "id": "s4",
+          "speaker": "Anna",
+          "text": "Thursday will be cooler, about eighteen degrees, with some light rain in the evening."
+        },
+        {
+          "id": "s5",
+          "speaker": "Anna",
+          "text": "Friday will be sunny again, and the weekend looks hot and dry. Don't forget your hat and sunscreen! Have a lovely week, and thank you for listening to the weather report."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Planning a picnic",
+      "intro": "You will hear Nam and Linh planning a picnic.",
+      "speakers": {
+        "Nam": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "Linh, let's have a picnic on Wednesday."
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "Wednesday? No, it'll rain. I heard the weather report."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "Oh no. What about Tuesday?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Linh",
+          "text": "Tuesday is cloudy, but dry. That's OK. But I have swimming class at four o'clock."
+        },
+        {
+          "id": "s10",
+          "speaker": "Nam",
+          "text": "Then let's meet at noon and go home at three."
+        },
+        {
+          "id": "s11",
+          "speaker": "Linh",
+          "text": "Perfect. It will be a great day. I'll bring sandwiches and juice. Can you bring a blanket?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Nam",
+          "text": "Sure. And I'll bring my football. We can play a game after lunch."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone call",
+      "intro": "You will hear Mai talking to her grandfather on the phone.",
+      "speakers": {
+        "Grandpa": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Grandpa",
+          "text": "Hello, Mai! It's Grandpa. How's the weather in your city?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Mai",
+          "text": "Hi, Grandpa. It's very hot today, thirty-four degrees. And it's very humid."
+        },
+        {
+          "id": "s15",
+          "speaker": "Grandpa",
+          "text": "Here it's cold and foggy. It was only three degrees this morning."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "Brrr! Do you wear a big coat?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Grandpa",
+          "text": "Yes, and a hat and gloves. I stay inside and drink hot tea."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "I stay inside too, but I turn on the fan and eat ice cream!"
+        },
+        {
+          "id": "s19",
+          "speaker": "Grandpa",
+          "text": "Ha! Next month I'll visit you. I want to see the sun."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A school announcement",
+      "intro": "You will hear Mr Brown making an announcement at school.",
+      "speakers": {
+        "Mr Brown": "male"
+      },
+      "script": [
+        {
+          "id": "s20",
+          "speaker": "Mr Brown",
+          "text": "Good morning, students. This is Mr Brown with an important announcement."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mr Brown",
+          "text": "Because of the bad weather this week, sports day is moving from Thursday to next Friday."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mr Brown",
+          "text": "On rainy days, you can stay in the library or the hall at break time. Please do not run in the corridors."
+        },
+        {
+          "id": "s23",
+          "speaker": "Mr Brown",
+          "text": "Tomorrow, there will be a strong wind. Please do not bring umbrellas to school, because they are not safe. Wear a raincoat instead."
+        },
+        {
+          "id": "s24",
+          "speaker": "Mr Brown",
+          "text": "Finally, school buses will leave early on Wednesday, at twenty past three."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will the weather be like on Monday?",
+      "options": [
+        "Cloudy",
+        "Rainy",
+        "Sunny and warm"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The report says Monday will be sunny and warm.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "On Monday it will be sunny and warm."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How warm will it be on Monday?",
+      "options": [
+        "Eighteen degrees",
+        "Twenty-five degrees",
+        "Thirty degrees"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Monday will be twenty-five degrees. Eighteen is for Thursday.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "The temperature will be twenty-five degrees."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Wednesday be like?",
+      "options": [
+        "Hot and dry",
+        "Cloudy and dry",
+        "Rain and wind"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "There will be heavy rain in the morning and wind in the afternoon.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "we expect heavy rain in the morning and a strong wind in the afternoon"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Thursday be like?",
+      "options": [
+        "Hot and sunny",
+        "Very windy",
+        "Cooler, with light rain"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Thursday will be cooler with light rain in the evening.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Thursday will be cooler"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will the weekend be like?",
+      "options": [
+        "Cloudy and cool",
+        "Cold and wet",
+        "Hot and dry"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The weekend looks hot and dry.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "the weekend looks hot and dry"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why can't they have the picnic on Wednesday?",
+      "options": [
+        "It will be too hot.",
+        "It will rain.",
+        "Linh is at school."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says it will rain on Wednesday.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "No, it'll rain."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which day do they choose?",
+      "options": [
+        "Wednesday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Wednesday is rainy, so they choose Tuesday.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "Tuesday is cloudy, but dry."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Linh do at four o'clock?",
+      "options": [
+        "She plays football.",
+        "She has swimming class.",
+        "She goes home."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She has swimming class at four o'clock.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I have swimming class at four o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time will they meet?",
+      "options": [
+        "At four o'clock",
+        "At three o'clock",
+        "At noon"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam says to meet at noon. Three o'clock is when they go home.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "let's meet at noon"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Linh ask Nam to bring?",
+      "options": [
+        "Juice",
+        "A blanket",
+        "Sandwiches"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh will bring food and drink and asks Nam for a blanket.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "Can you bring a blanket?"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is the weather like in Mai's city?",
+      "options": [
+        "Hot and humid",
+        "Windy and wet",
+        "Cold and foggy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai says it is very hot and very humid.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "It's very hot today"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How hot is it where Mai lives?",
+      "options": [
+        "Thirty-four degrees",
+        "Three degrees",
+        "Twenty-four degrees"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is thirty-four degrees. Three degrees is Grandpa's temperature.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "thirty-four degrees"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is the weather like where Grandpa lives?",
+      "options": [
+        "Hot and sunny",
+        "Rainy",
+        "Cold and foggy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Grandpa says it is cold and foggy.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Here it's cold and foggy."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Grandpa wear?",
+      "options": [
+        "A coat, a hat and gloves",
+        "A fan and a hat",
+        "Only a coat"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He wears a coat, a hat and gloves.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "Yes, and a hat and gloves."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Grandpa want to visit Mai?",
+      "options": [
+        "He wants to buy a fan.",
+        "He wants ice cream.",
+        "He wants some sun."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he wants to see the sun, so he wants to leave the cold weather.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I want to see the sun."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why is sports day moving?",
+      "options": [
+        "Because the teacher is ill",
+        "Because of bad weather",
+        "Because of a holiday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says it is moving because of the bad weather this week.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Because of the bad weather this week"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When is the new day for sports day?",
+      "options": [
+        "Next Wednesday",
+        "This Thursday",
+        "Next Friday"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It moves from Thursday to next Friday.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "sports day is moving from Thursday to next Friday"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where can students stay on rainy days?",
+      "options": [
+        "In the corridors",
+        "In the library or the hall",
+        "In the playground"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They can stay in the library or the hall, but not run in the corridors.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "you can stay in the library or the hall at break time"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What should students NOT bring tomorrow?",
+      "options": [
+        "Umbrellas",
+        "Lunch",
+        "Raincoats"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Umbrellas are not safe in the strong wind.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "Please do not bring umbrellas to school"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What happens on Wednesday?",
+      "options": [
+        "School is closed.",
+        "School buses leave early.",
+        "There is a test."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The buses leave early at twenty past three.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "school buses will leave early on Wednesday"
+        }
+      ]
+    }
+  ]
+}

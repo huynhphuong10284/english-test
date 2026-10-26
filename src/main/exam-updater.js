@@ -12,9 +12,9 @@
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
-const { validateExam, validateWritingExam } = require('./exam-store');
+const { VALIDATORS } = require('./exam-store');
 
-const EXAM_FILE = /^data\/(reading|writing)\/([a-z0-9-]+\.json)$/;
+const EXAM_FILE = /^data\/(reading|writing|listening)\/([a-z0-9-]+\.json)$/;
 const DICTIONARY_FILES = ['data/dictionary/vi.json', 'data/dictionary/supplement.json'];
 const MAX_FILE_BYTES = 20 * 1024 * 1024;
 const TIMEOUT_MS = 30000;
@@ -126,7 +126,7 @@ class ExamUpdater {
         const exam = file.path.match(EXAM_FILE);
         if (exam) {
           // Same checks as the bundled exams, so a broken file never reaches the app.
-          (exam[1] === 'writing' ? validateWritingExam : validateExam)(json, file.path);
+          VALIDATORS[exam[1]](json, file.path);
           if (knownIds.has(json.id)) result.changed++;
           else {
             result.added++;

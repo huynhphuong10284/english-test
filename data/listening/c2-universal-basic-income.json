@@ -1,0 +1,583 @@
+{
+  "id": "l-c2-universal-basic-income",
+  "title": "Universal Basic Income",
+  "level": "C2 · Proficiency",
+  "description": "Four extracts from a public debate on whether every citizen should receive a regular, unconditional payment.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The case for",
+      "intro": "You will hear the chair, Peter, introducing the debate, followed by the first speaker, Dr Salazar.",
+      "speakers": {
+        "Peter": "male",
+        "Dr Salazar": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Peter",
+          "text": "Good evening and welcome to tonight's debate. The motion before us is that every adult citizen should receive a regular payment from the state, with no conditions attached. We will hear first from Dr Salazar, who is speaking in favour. You have six minutes, Doctor."
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Salazar",
+          "text": "Thank you. I want to begin with a simple observation. Our welfare system was designed for a world of steady jobs and stable families, and it has become a maze. People must prove they are poor, prove they are looking for work and prove, repeatedly, that nothing has changed. Each of those checks costs money, and each is a trap, because the moment you earn a little extra you may lose more in benefits than you gain."
+        },
+        {
+          "id": "s3",
+          "speaker": "Dr Salazar",
+          "text": "A basic income removes the trap. Everybody receives the same sum, whether they work or not, and every pound you earn is yours to keep on top of it. The incentive to take a small job, or to start a small business, is restored. Critics assume that people given money will stop working. Yet the experience of those who have tried it suggests that most people use security to take more risks, not fewer."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Salazar",
+          "text": "There is also a deeper argument, and it concerns dignity. At present, the system treats the poor as suspects. A universal payment treats everyone as a citizen with a share in the wealth that society produces together. And as automation changes the nature of work, I believe we will need that principle more, not less."
+        },
+        {
+          "id": "s5",
+          "speaker": "Dr Salazar",
+          "text": "I will not claim that it is cheap. It is not. But I would ask the audience to compare it with the hidden costs we already pay, in ill health, in lost talent and in the sheer bureaucracy of means testing. I submit that a society which can afford to bail out its banks can afford to guarantee its people a floor."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The case against",
+      "intro": "You will hear the opposing speaker, Mr Okonkwo, replying to the motion.",
+      "speakers": {
+        "Mr Okonkwo": "male"
+      },
+      "script": [
+        {
+          "id": "s6",
+          "speaker": "Mr Okonkwo",
+          "text": "I am grateful to my opponent, who has spoken eloquently, and I share her frustration with the present system. But frustration with a bad machine is not an argument for building a bigger one. The question tonight is not whether welfare needs reform. It is whether this particular reform is wise, and I say that it is not."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mr Okonkwo",
+          "text": "Let us start with arithmetic. If you give every adult a payment large enough to live on, the cost is staggering, many times what we spend on benefits now. There are only two ways to pay for it. You can raise taxes dramatically, or you can set the payment so low that it replaces nothing. Neither, I submit, delivers the promised revolution."
+        },
+        {
+          "id": "s8",
+          "speaker": "Mr Okonkwo",
+          "text": "A lower payment is not harmless, either. If it is paid in place of targeted support, then the disabled, the chronically ill and single parents, who need far more than the average person, could be left worse off. Money handed to a wealthy citizen is money not available to those in desperate need. Universality sounds fair, but it is blind to difference."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mr Okonkwo",
+          "text": "My third objection is less about economics and more about values. Work gives people more than a wage. It provides structure, belonging and a sense of contribution. I am not suggesting that everyone would stop working. I am saying that a society which pays people regardless of what they give may slowly forget why contribution matters."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mr Okonkwo",
+          "text": "I would rather spend that money on training, on childcare and on decent jobs. That is a harder path, I admit, and a less glamorous one. But it respects people as participants rather than recipients."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · An economist weighs the evidence",
+      "intro": "You will hear an economist, Professor Lindqvist, commenting on trials of basic income.",
+      "speakers": {
+        "Professor Lindqvist": "male"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Professor Lindqvist",
+          "text": "Since both speakers appealed to evidence, let me say what the trials actually show, which is rather less than either would like. Over the past decade, governments and charities have run small experiments in several countries. The typical design gives a few hundred people a modest monthly sum for a year or two and compares them with a similar group who receive nothing."
+        },
+        {
+          "id": "s12",
+          "speaker": "Professor Lindqvist",
+          "text": "On the question of laziness, the results are fairly reassuring. Recipients did not generally stop working, although some reduced their hours slightly, and those who did often used the time for study or care of relatives. Wellbeing improved, with lower stress and better mental health. These are real gains, and I would not dismiss them."
+        },
+        {
+          "id": "s13",
+          "speaker": "Professor Lindqvist",
+          "text": "However, I must add three cautions. First, the payments were temporary. People behave differently when they know the money will stop, so we cannot assume the same response to a permanent guarantee. Second, the samples were small and often confined to one town, which says nothing about the effect on a whole economy, such as the price of housing. Third, because nobody pays for the trial with higher taxes, we learn little about how taxpayers would react."
+        },
+        {
+          "id": "s14",
+          "speaker": "Professor Lindqvist",
+          "text": "So, in my reading, the trials rebut the crudest fear, that people will simply stop working, but they cannot settle the central question of affordability. Anyone who says the evidence proves their case, on either side, is claiming more than it will bear."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Questions and closing",
+      "intro": "You will hear a member of the audience, Mai, asking a question, and the chair, Peter, responding.",
+      "speakers": {
+        "Mai": "female",
+        "Peter": "male"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "My question is for the speaker in favour. You say the payment would be freely given, but who exactly pays? A nurse who works nights would be taxed to fund a person who chooses to surf all day. Is that fair?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Peter",
+          "text": "I will let the speaker answer, but may I remind the audience that the question has been put with some feeling."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "I mean it sincerely, Chair. I'm not trying to be provocative. I work with people on low pay every day, and many of them feel that nobody on either side of politics is thinking about them. I simply want to know whether this idea would give them anything real, or whether it would merely sound generous on a platform like this one."
+        },
+        {
+          "id": "s18",
+          "speaker": "Peter",
+          "text": "Quite so. Dr Salazar, if you would."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mai",
+          "text": "And to be clear, I'm actually undecided. I would like to be persuaded, but so far I have heard a great many principles and rather few figures, and I am wary of anything that sounds too good to be true."
+        },
+        {
+          "id": "s20",
+          "speaker": "Peter",
+          "text": "Then let us hear the answer, and then I will ask both speakers to sum up in one minute each. Remember that this audience will vote before it leaves, and I would invite you to vote on the argument, not on the speaker."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mai",
+          "text": "Thank you. I think what troubles me most is the idea that something so large could be decided on the strength of small experiments."
+        },
+        {
+          "id": "s22",
+          "speaker": "Peter",
+          "text": "That, if I may say so, is a point on which the speakers and the economist seemed to agree. Let us see whether the closing statements can move you. After that, the ballot papers will be handed out at the door."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the motion being debated?",
+      "options": [
+        "That banks should pay more tax to fund welfare",
+        "That every adult should receive an unconditional state payment",
+        "That welfare should be abolished for working adults",
+        "That wages should be raised for the lowest paid"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The chair says every adult citizen should receive a regular payment with no conditions.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "every adult citizen should receive a regular payment from the state, with no conditions attached"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What problem with the current system does Dr Salazar describe?",
+      "options": [
+        "Benefits are too generous for people who work",
+        "Jobs are too stable to need any support",
+        "Applications are impossible to find or complete online",
+        "Earning a little extra can leave people worse off"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says that earning extra may lose more in benefits than is gained.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "you may lose more in benefits than you gain"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does she say a basic income would restore incentives?",
+      "options": [
+        "The payment is conditional on finding some work",
+        "Earnings are kept on top of the payment",
+        "Employers have to pay much higher wages",
+        "The payment is taxed heavily at higher incomes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Because every pound earned is kept on top of the payment.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "every pound you earn is yours to keep on top of it"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does Dr Salazar say about the idea of dignity?",
+      "options": [
+        "The poor should accept less in return for security",
+        "Dignity is not really a political issue at all",
+        "The current system treats the poor as suspects",
+        "Citizens should repay the state when they can"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says the system treats the poor as suspects, whereas a universal payment treats everyone as a citizen.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "the system treats the poor as suspects"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does she mention the bailing out of banks?",
+      "options": [
+        "To blame the banks for causing unemployment today",
+        "To argue that society can afford a guaranteed floor",
+        "To suggest cutting bank profits to pay for it",
+        "To prove that the policy is cheap to run"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says a society that can bail out banks can afford to guarantee a floor.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "can afford to guarantee its people a floor"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Mr Okonkwo begin his reply?",
+      "options": [
+        "By agreeing that the present system is frustrating",
+        "By rejecting every point that she had made",
+        "By asking the chair for some more time",
+        "By praising the motion before attacking it"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He shares her frustration with the present system but says that is no reason for this reform.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I share her frustration with the present system"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What are the two ways of paying for a large payment, according to him?",
+      "options": [
+        "Cutting defence spending or selling off public property",
+        "Raising taxes dramatically or setting the payment very low",
+        "Charging employers or students much higher fees",
+        "Printing more money or borrowing from other countries"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says you either raise taxes dramatically or set the payment so low that it replaces nothing.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "You can raise taxes dramatically, or you can set the payment so low that it replaces nothing."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why might a lower universal payment harm some people?",
+      "options": [
+        "Wealthy citizens would refuse to accept it",
+        "Those with greater needs could lose targeted support",
+        "Employers would reduce wages to compensate",
+        "Everyone would receive less than they did before"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "If it replaces targeted support, the disabled and single parents may be worse off.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "could be left worse off"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is his third objection based on?",
+      "options": [
+        "The values of contribution and work",
+        "The cost of printing the money",
+        "Experience from other countries",
+        "The results of public opinion polls"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it is about values: work provides structure, belonging and contribution.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "Work gives people more than a wage."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does he mention training, childcare and decent jobs?",
+      "options": [
+        "To praise the present system of benefits",
+        "To ask for lower taxes on workers",
+        "To criticise the unemployed and their choices",
+        "To offer an alternative use of the money"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says he would rather spend the money on those things, which respect people as participants.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "I would rather spend that money on training, on childcare and on decent jobs."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What does Professor Lindqvist say about the trials overall?",
+      "options": [
+        "They show less than either side claims",
+        "They prove that basic income fails in practice",
+        "They prove that basic income works in practice",
+        "They have never been run in any country"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the trials show rather less than either speaker would like.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "which is rather less than either would like"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did recipients do with reduced working hours?",
+      "options": [
+        "Started new companies of their own",
+        "Went on extended holidays abroad",
+        "Often studied or cared for relatives",
+        "Stopped paying rent to their landlords"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Those who reduced hours often used the time for study or care of relatives.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "used the time for study or care of relatives"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does he say temporary payments limit what we can conclude?",
+      "options": [
+        "Recipients forgot about the money once the year ended",
+        "Temporary payments were too small to change behaviour",
+        "The trials were mostly paid for by higher taxes",
+        "People behave differently if they know the money will stop"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says people behave differently when they know the money will stop.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "People behave differently when they know the money will stop"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is his conclusion?",
+      "options": [
+        "The trials settle the debate in favour of basic income",
+        "Evidence is irrelevant to a question of values",
+        "Basic income is unaffordable in every circumstance",
+        "The trials ease one fear but leave affordability open"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says the trials rebut the crudest fear but cannot settle affordability.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "but they cannot settle the central question of affordability"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "What is the effect of his final sentence?",
+      "options": [
+        "To warn both sides against overstating the evidence",
+        "To oppose the motion on grounds of cost",
+        "To thank the speakers for their evidence",
+        "To support the motion on grounds of dignity"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says anyone claiming the evidence proves their case is claiming more than it will bear.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "is claiming more than it will bear"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Mai ask her question?",
+      "options": [
+        "To support the motion with a personal story",
+        "To suggest a cheaper scheme for low earners",
+        "To challenge the fairness of who pays",
+        "To ask about the results of the trials"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She asks who pays and whether it is fair to tax a working nurse.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "who exactly pays?"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Peter's first comment suggest about Mai's question?",
+      "options": [
+        "It was put with strong feeling",
+        "It was too long for the time allowed",
+        "It was off-topic for this stage of debate",
+        "It was meant as a joke by Mai"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the question has been put with some feeling.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "the question has been put with some feeling"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does Mai say about her own position?",
+      "options": [
+        "She works for the government on welfare policy",
+        "She is against the motion on grounds of cost",
+        "She has not yet made up her mind",
+        "She is in favour of the motion, with reservations"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she is undecided and would like to be persuaded.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I'm actually undecided."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Peter ask the audience to do when voting?",
+      "options": [
+        "Judge the argument rather than the speaker",
+        "Vote for the speaker they like most",
+        "Abstain from voting if they remain undecided",
+        "Vote before the closing speeches have ended"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He invites them to vote on the argument, not on the speaker.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "vote on the argument, not on the speaker"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What worries Mai most?",
+      "options": [
+        "The behaviour of the speakers in the debate",
+        "The length of the debate and its format",
+        "The date of the vote and the ballot",
+        "A large decision resting on small experiments"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says something so large could be decided on the strength of small experiments.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "decided on the strength of small experiments"
+        }
+      ]
+    }
+  ]
+}

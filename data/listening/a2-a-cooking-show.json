@@ -1,0 +1,608 @@
+{
+  "id": "l-a2-a-cooking-show",
+  "title": "A Cooking Show",
+  "level": "A2 · Elementary",
+  "description": "Four recordings from a TV cooking show: a chef making soup, a phone-in, a cake recipe and a closing talk.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Making vegetable soup",
+      "intro": "You will hear a chef, Chef Rosa, and her helper Ben on a cooking show.",
+      "speakers": {
+        "Chef Rosa": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Chef Rosa",
+          "text": "Welcome to Cook with Rosa! Today, Ben and I are making a vegetable soup. It is easy, cheap and very healthy."
+        },
+        {
+          "id": "s2",
+          "speaker": "Ben",
+          "text": "I love soup, especially in winter. What do we need, Rosa?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Chef Rosa",
+          "text": "We need two carrots, one onion and three potatoes. Ben, can you cut the onion first?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Ben",
+          "text": "Yes, but onions always make me cry! Is it OK if I wear my swimming glasses?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Chef Rosa",
+          "text": "Ha ha, why not? Now we put a little oil in a big pot and cook the onion for five minutes."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ben",
+          "text": "Then I add the carrots and potatoes?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Chef Rosa",
+          "text": "Exactly. After that, add water and a little salt. We don't need much, because too much salt is bad for you."
+        },
+        {
+          "id": "s8",
+          "speaker": "Ben",
+          "text": "How long do we cook it?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Chef Rosa",
+          "text": "About twenty minutes. Some people add tomatoes, but I prefer to use green beans at the end. They look beautiful."
+        },
+        {
+          "id": "s10",
+          "speaker": "Ben",
+          "text": "It smells wonderful already. I can't wait to eat it!"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A phone call to the show",
+      "intro": "You will hear a viewer, Minh, phoning the show to ask the chef for help.",
+      "speakers": {
+        "Minh": "male",
+        "Chef Rosa": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Chef Rosa",
+          "text": "We have a caller on the line. Hello, you are on Cook with Rosa. What is your name?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Minh",
+          "text": "Hello, Rosa. My name is Minh, and I'm fourteen years old. I want to cook dinner for my parents on Saturday."
+        },
+        {
+          "id": "s13",
+          "speaker": "Chef Rosa",
+          "text": "What a lovely idea! Do you like cooking?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Minh",
+          "text": "Yes, but I only know how to make eggs. My mum's birthday is on Saturday, and she loves pasta."
+        },
+        {
+          "id": "s15",
+          "speaker": "Chef Rosa",
+          "text": "Then make a simple tomato pasta. It takes only fifteen minutes. Do you have a big pot?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Minh",
+          "text": "We have one, but it's very old. Is that a problem?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Chef Rosa",
+          "text": "Not at all. Just don't make the pasta too soft. Taste it after eight minutes."
+        },
+        {
+          "id": "s18",
+          "speaker": "Minh",
+          "text": "OK. And should I make a salad too?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Chef Rosa",
+          "text": "Yes, a green salad is perfect. Oh, and one more thing. Light a candle on the table. It makes dinner feel special."
+        },
+        {
+          "id": "s20",
+          "speaker": "Minh",
+          "text": "Thank you, Rosa. I will tell you how it goes!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A cake recipe",
+      "intro": "You will hear Chef Rosa explaining how to bake a cake.",
+      "speakers": {
+        "Chef Rosa": "female"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Chef Rosa",
+          "text": "Now it's time for dessert. Today, I'm going to show you a chocolate banana cake."
+        },
+        {
+          "id": "s22",
+          "speaker": "Chef Rosa",
+          "text": "First, heat the oven to one hundred and eighty degrees. Then mix two ripe bananas with a cup of sugar."
+        },
+        {
+          "id": "s23",
+          "speaker": "Chef Rosa",
+          "text": "Next, add two eggs and some flour. If you don't have enough flour, don't worry. You can use a little less, and the cake will be softer."
+        },
+        {
+          "id": "s24",
+          "speaker": "Chef Rosa",
+          "text": "Now the best part. Add the chocolate, but keep a few pieces to put on top. I always eat one piece. Okay, maybe two!"
+        },
+        {
+          "id": "s25",
+          "speaker": "Chef Rosa",
+          "text": "Bake the cake for forty minutes. To check it, put a knife in the middle. If the knife is clean, the cake is ready."
+        },
+        {
+          "id": "s26",
+          "speaker": "Chef Rosa",
+          "text": "Finally, wait until the cake is cool before you cut it. I know it's difficult, but it tastes better!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · The end of the show",
+      "intro": "You will hear Chef Rosa at the end of the show.",
+      "speakers": {
+        "Chef Rosa": "female"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Chef Rosa",
+          "text": "Well, that's all we have time for today. Thank you for watching Cook with Rosa."
+        },
+        {
+          "id": "s28",
+          "speaker": "Chef Rosa",
+          "text": "Next week, we have a special guest. A famous baker from Hue is coming to show us how to make Vietnamese pancakes."
+        },
+        {
+          "id": "s29",
+          "speaker": "Chef Rosa",
+          "text": "Many of you asked for the recipe for today's soup. You can find it on our website, and you can also write to us. We will send it by post."
+        },
+        {
+          "id": "s30",
+          "speaker": "Chef Rosa",
+          "text": "I'd also like to say a big thank you to Minh, who phoned today. He sent me a photo of his pasta dinner, and it looked great. His mum was very happy!"
+        },
+        {
+          "id": "s31",
+          "speaker": "Chef Rosa",
+          "text": "Remember, cooking is not about being perfect. It is about having fun and sharing food with people you love. Goodbye, and happy cooking!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What are Rosa and Ben making?",
+      "options": [
+        "A potato cake",
+        "A tomato salad",
+        "A vegetable soup"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Rosa says they are making a vegetable soup.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "making a vegetable soup"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many potatoes do they need?",
+      "options": [
+        "Three",
+        "Two",
+        "Five"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They need two carrots, one onion and three potatoes.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "three potatoes"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why does Ben want to wear swimming glasses?",
+      "options": [
+        "It is a joke about winter.",
+        "Onions make him cry.",
+        "He is cooking outside."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Onions always make Ben cry, so he wants glasses.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "onions always make me cry"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How long do they cook the soup?",
+      "options": [
+        "Five minutes",
+        "About twenty minutes",
+        "About an hour"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The soup cooks for about twenty minutes. Five minutes is only for the onion.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "About twenty minutes."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Rosa prefer to add at the end?",
+      "options": [
+        "Tomatoes",
+        "Green beans",
+        "More salt"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Some people add tomatoes, but Rosa prefers green beans.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I prefer to use green beans at the end."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Minh call the show?",
+      "options": [
+        "To ask for cooking help",
+        "To give a recipe",
+        "To win a prize"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He wants to cook dinner for his parents and needs ideas.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I want to cook dinner for my parents on Saturday."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What can Minh cook now?",
+      "options": [
+        "Eggs",
+        "Pasta",
+        "Soup"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he only knows how to make eggs.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "I only know how to make eggs."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why is Saturday special?",
+      "options": [
+        "It is his father's job day.",
+        "It is his mum's birthday.",
+        "It is his birthday."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Saturday is his mum's birthday.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "My mum's birthday is on Saturday"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When should Minh taste the pasta?",
+      "options": [
+        "After five minutes",
+        "After fifteen minutes",
+        "After eight minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Rosa says to taste it after eight minutes. Fifteen minutes is the total time.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "Taste it after eight minutes."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Rosa say will make dinner feel special?",
+      "options": [
+        "A candle",
+        "A new pot",
+        "Some music"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says a candle on the table makes dinner special.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Light a candle on the table."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What cake does Rosa make?",
+      "options": [
+        "A chocolate banana cake",
+        "A carrot cake",
+        "A lemon cake"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she will make a chocolate banana cake.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "a chocolate banana cake"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does she mix with the bananas?",
+      "options": [
+        "Eggs",
+        "Sugar",
+        "Flour"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "First she mixes the bananas with a cup of sugar. Eggs and flour come next.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "mix two ripe bananas with a cup of sugar"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What happens if you use a little less flour?",
+      "options": [
+        "The cake is burnt.",
+        "The cake is softer.",
+        "The cake is smaller."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the cake will be softer.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "the cake will be softer"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How can you check if the cake is ready?",
+      "options": [
+        "By looking at the clock",
+        "By using a knife",
+        "By smelling it"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "You put a knife in the middle. If it is clean, the cake is ready.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "put a knife in the middle"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Rosa feel about waiting for the cake to cool?",
+      "options": [
+        "She thinks it is not necessary.",
+        "She thinks it is difficult.",
+        "She thinks it is boring."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she knows it is difficult, but it tastes better.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I know it's difficult"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Who will be on the show next week?",
+      "options": [
+        "A baker from Hue",
+        "A farmer",
+        "A doctor"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A famous baker from Hue is coming next week.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "A famous baker from Hue is coming"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where can viewers find the soup recipe?",
+      "options": [
+        "On the radio",
+        "On the website",
+        "In a book"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Rosa says the recipe is on the website. They can also write to the show.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "You can find it on our website"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What did Minh send to Rosa?",
+      "options": [
+        "A photo of his dinner",
+        "A letter",
+        "A recipe"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Minh sent a photo of his pasta dinner.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "He sent me a photo of his pasta dinner"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "How did Minh's mum feel about the dinner?",
+      "options": [
+        "Happy",
+        "Angry",
+        "Surprised and sad"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Rosa says his mum was very happy.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "His mum was very happy!"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Rosa's opinion about cooking?",
+      "options": [
+        "It must be perfect.",
+        "It is only for chefs.",
+        "It is about having fun and sharing."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says cooking is about having fun and sharing food with people you love.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "It is about having fun and sharing food with people you love."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "id": "l-b2-the-future-of-electric-cars",
+  "title": "The Future of Electric Cars",
+  "level": "B2 · Upper-intermediate",
+  "description": "Four recordings about electric cars: an interview, a conversation between friends, a lecture on batteries and a podcast about charging.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Radio interview",
+      "intro": "You will hear a radio presenter, Mai, interviewing Dr Hall, an expert on transport.",
+      "speakers": {
+        "Mai": "female",
+        "Dr Hall": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Welcome to Morning Science. Today I'm talking to Dr Hall, who studies transport. Dr Hall, will petrol cars really disappear?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Hall",
+          "text": "Well, not overnight, Mai. Many countries plan to stop selling new petrol cars in about ten years, but millions of old cars will still be on the roads long after that."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "So the change will be gradual. What is slowing it down?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Hall",
+          "text": "Mostly price. An electric car still costs more to buy, although it's cheaper to run. People look at the sticker price and get nervous, which is a pity, because over five years many drivers actually save money."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "I've heard that some people worry about range, too."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Hall",
+          "text": "Yes, and honestly, I think that worry is bigger than the real problem. The average driver travels about thirty miles a day, and most modern electric cars can manage over two hundred miles on one charge. The fear is mostly psychological."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "What about the environment? Aren't the batteries terrible for the planet?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Dr Hall",
+          "text": "That's a fair question. Making a battery does create a lot of pollution. But after a year or two of driving, an electric car has usually made up for that, especially if the electricity comes from wind or sun."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mai",
+          "text": "So you're optimistic."
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Hall",
+          "text": "Cautiously, yes. I'd say the technology is ready. It's the habits and the budgets that need to catch up."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Choosing a car",
+      "intro": "You will hear two friends, Nam and Linh, discussing Nam's plan to buy a car.",
+      "speakers": {
+        "Nam": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Nam",
+          "text": "Linh, I've finally decided. I'm going to buy an electric car next month."
+        },
+        {
+          "id": "s12",
+          "speaker": "Linh",
+          "text": "Really? I thought you wanted a second-hand petrol one. What changed your mind?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Nam",
+          "text": "My fuel bill, mainly. I spend nearly two hundred pounds a month driving to work. Charging at home would cost about a third of that."
+        },
+        {
+          "id": "s14",
+          "speaker": "Linh",
+          "text": "Hmm. But what about charging? We live in a flat, Nam. You don't have a driveway."
+        },
+        {
+          "id": "s15",
+          "speaker": "Nam",
+          "text": "That's the one thing that worries me. There's a public charger at the end of our street, though, and my office has four more in the car park."
+        },
+        {
+          "id": "s16",
+          "speaker": "Linh",
+          "text": "Four chargers for how many staff? Forty? You might wait ages."
+        },
+        {
+          "id": "s17",
+          "speaker": "Nam",
+          "text": "Well, no, because most of my colleagues drive petrol cars. I'd say I'd only have to queue once a week at the most."
+        },
+        {
+          "id": "s18",
+          "speaker": "Linh",
+          "text": "I'm still not convinced. My cousin bought one last year and he says the battery lost power in the cold."
+        },
+        {
+          "id": "s19",
+          "speaker": "Nam",
+          "text": "Yes, that happens a little in winter, but it's not dramatic. He probably just expected too much."
+        },
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "Maybe. Anyway, I'd test drive a few before deciding. Promise me you'll do that."
+        },
+        {
+          "id": "s21",
+          "speaker": "Nam",
+          "text": "I promise. Actually, I've already booked one for Saturday morning. Do you want to come?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Linh",
+          "text": "Go on, then. But I'm driving first."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A lecture on batteries",
+      "intro": "You will hear part of a university lecture given by Professor Bennett.",
+      "speakers": {
+        "Professor Bennett": "female"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Professor Bennett",
+          "text": "Good afternoon, everyone. Today I want to look at the part of an electric car that matters most: the battery."
+        },
+        {
+          "id": "s24",
+          "speaker": "Professor Bennett",
+          "text": "Most batteries today use lithium, a light metal that stores a lot of energy for its weight. The problem is that lithium has to be mined, and mining uses a great deal of water."
+        },
+        {
+          "id": "s25",
+          "speaker": "Professor Bennett",
+          "text": "Researchers are therefore working on alternatives. One promising idea is a battery made with sodium, which is found in ordinary salt. Sodium batteries are cheaper, although at the moment they store less energy."
+        },
+        {
+          "id": "s26",
+          "speaker": "Professor Bennett",
+          "text": "Another development is the solid-state battery. Instead of liquid inside, it has a solid material, which makes it safer and allows faster charging. Some laboratories claim they can reach eighty per cent in ten minutes."
+        },
+        {
+          "id": "s27",
+          "speaker": "Professor Bennett",
+          "text": "I'd be careful with those claims, though. Laboratory results often look wonderful, but it can take ten years to turn an idea into a product that millions of people can buy."
+        },
+        {
+          "id": "s28",
+          "speaker": "Professor Bennett",
+          "text": "Recycling is the third area. At present only about half of old batteries are recycled, but new factories should raise that figure significantly by the end of this decade."
+        },
+        {
+          "id": "s29",
+          "speaker": "Professor Bennett",
+          "text": "So what should we conclude? In my view, no single breakthrough will solve everything. Progress will come from many small improvements, and that, frankly, is how most technology has always developed."
+        },
+        {
+          "id": "s30",
+          "speaker": "Professor Bennett",
+          "text": "For next week, please read the article on the reading list and think about which of these three areas you consider most important."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A podcast about charging",
+      "intro": "You will hear Minh, the presenter of a podcast, talking to Hannah, who runs a charging company.",
+      "speakers": {
+        "Minh": "male",
+        "Hannah": "female"
+      },
+      "script": [
+        {
+          "id": "s31",
+          "speaker": "Minh",
+          "text": "Welcome back to Green Roads. This week, I'm joined by Hannah, who runs a charging company. Hannah, what's the biggest myth about charging?"
+        },
+        {
+          "id": "s32",
+          "speaker": "Hannah",
+          "text": "That it takes hours. Yes, at home overnight it does, but you're asleep anyway. On a motorway, a fast charger can add a lot of range in about twenty minutes, which is roughly the time you'd stop for coffee."
+        },
+        {
+          "id": "s33",
+          "speaker": "Minh",
+          "text": "And yet I still see queues at some stations."
+        },
+        {
+          "id": "s34",
+          "speaker": "Hannah",
+          "text": "True, and that's frustrating. The problem isn't the number of chargers overall, it's where they are. We have lots in cities, but far fewer in villages and on small roads."
+        },
+        {
+          "id": "s35",
+          "speaker": "Minh",
+          "text": "So who is responsible for fixing that?"
+        },
+        {
+          "id": "s36",
+          "speaker": "Hannah",
+          "text": "Everyone, really. Companies like mine, local councils, even supermarkets. Actually, supermarkets are doing the most useful thing, because people can charge while they shop."
+        },
+        {
+          "id": "s37",
+          "speaker": "Minh",
+          "text": "What about the price? I've heard public charging can be dearer than petrol."
+        },
+        {
+          "id": "s38",
+          "speaker": "Hannah",
+          "text": "Sometimes, yes, and I won't pretend otherwise. Home charging is the cheap option. Public charging is for convenience, so I'd advise people to use it only when they need to."
+        },
+        {
+          "id": "s39",
+          "speaker": "Minh",
+          "text": "Last question. If you could give one piece of advice to a new owner, what would it be?"
+        },
+        {
+          "id": "s40",
+          "speaker": "Hannah",
+          "text": "Plan the first long trip carefully. Once you've done it once and seen it works, the worry disappears."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the interview mainly about?",
+      "options": [
+        "How to repair electric cars at home",
+        "Why petrol has become so expensive lately",
+        "Whether electric cars will replace petrol ones",
+        "Where wind power for cars is produced"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The presenter asks whether petrol cars will disappear, and Dr Hall discusses the speed of change.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "will petrol cars really disappear?"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "According to Dr Hall, what mainly slows down the change?",
+      "options": [
+        "Pollution from wind farms",
+        "A shortage of drivers",
+        "The price of buying the car",
+        "The cost of running the car"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says \"Mostly price\": electric cars cost more to buy, although they are cheaper to run.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Mostly price."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Dr Hall feel about worries over range?",
+      "options": [
+        "He is angry about them",
+        "He has no opinion about them",
+        "He thinks they are completely correct",
+        "He thinks they are exaggerated"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says the worry is bigger than the real problem and mostly psychological.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "that worry is bigger than the real problem"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How far does the average driver travel in a day?",
+      "options": [
+        "Two hundred miles",
+        "Over a hundred miles",
+        "About ten miles",
+        "About thirty miles"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Two hundred miles is what a car can manage on one charge; the average driver travels about thirty.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "travels about thirty miles a day"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does Dr Hall suggest about pollution from making batteries?",
+      "options": [
+        "It is worse than pollution from petrol cars",
+        "It is the main reason to avoid them",
+        "It is offset after a year or two",
+        "It is not a real problem for drivers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says the electric car usually makes up for the pollution after a year or two.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "has usually made up for that"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why has Nam decided to buy an electric car?",
+      "options": [
+        "His old car broke down last month",
+        "He wants to save money on fuel",
+        "His office will pay for the charging",
+        "Linh persuaded him to buy one"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says his fuel bill is the main reason: charging would cost about a third.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "My fuel bill, mainly."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What worries Nam most?",
+      "options": [
+        "How his cousin will react",
+        "Finding a second-hand model",
+        "Where he can charge it",
+        "The speed of the car"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He lives in a flat with no driveway, so charging is the one thing that worries him.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "That's the one thing that worries me."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Linh doubt the office chargers will be enough?",
+      "options": [
+        "The car park is closed at the weekends",
+        "The chargers are very expensive for staff",
+        "Most of her colleagues already have electric cars",
+        "There may be too few for the staff"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She asks about four chargers for perhaps forty staff and thinks Nam might wait ages.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Four chargers for how many staff?"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Nam think about his cousin's complaint?",
+      "options": [
+        "It proves electric cars are useless in winter",
+        "He has not heard about it before",
+        "He agrees with every word of it",
+        "He believes the cousin expected too much"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Nam says the cousin probably just expected too much.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "He probably just expected too much."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will Nam and Linh do on Saturday morning?",
+      "options": [
+        "Look at petrol cars",
+        "Try an electric car",
+        "Go to the office",
+        "Visit the cousin"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam has already booked a test drive for Saturday morning.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "I've already booked one for Saturday morning."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is the lecture mainly about?",
+      "options": [
+        "How electric cars are advertised and sold",
+        "Why sodium is dangerous in batteries",
+        "The history of lithium mining in the world",
+        "Possible improvements in battery technology"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The speaker looks at the battery and several ways it could improve.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "the part of an electric car that matters most: the battery"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why is lithium a problem?",
+      "options": [
+        "It makes batteries too heavy for cars",
+        "It produces too much salt as waste",
+        "Mining it uses a great deal of water",
+        "It is illegal to sell in most countries"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says lithium has to be mined and mining uses a great deal of water.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "mining uses a great deal of water"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is an advantage of solid-state batteries?",
+      "options": [
+        "They are much cheaper than sodium ones",
+        "They are safer and can charge faster",
+        "They do not need any recycling",
+        "They are already sold in every shop"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the solid material makes it safer and allows faster charging.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "makes it safer and allows faster charging"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does the speaker feel about laboratory claims?",
+      "options": [
+        "She thinks they are all lies",
+        "She never pays attention to them",
+        "She is thrilled by the results",
+        "She is cautious about such claims"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says she would be careful with those claims because products take years to develop.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "I'd be careful with those claims, though."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does the speaker believe about future progress?",
+      "options": [
+        "It will stop within the next decade",
+        "Only recycling will make a difference",
+        "It will come from small improvements",
+        "One big breakthrough will solve everything"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says no single breakthrough will solve everything; progress will be many small improvements.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "no single breakthrough will solve everything"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How long does fast charging on a motorway take to add a lot of range?",
+      "options": [
+        "About twenty minutes",
+        "About ten minutes",
+        "About an hour",
+        "All night"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Hannah says about twenty minutes, roughly the time for a coffee. Overnight is for home charging.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "in about twenty minutes"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Hannah say is the real problem with chargers?",
+      "options": [
+        "They are in the wrong places",
+        "There are too few chargers in total",
+        "They are too slow everywhere",
+        "Nobody wants to use them"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the problem is not the number overall, but where they are.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "it's where they are"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Who does Hannah think is doing the most useful thing?",
+      "options": [
+        "Car makers",
+        "Her own company",
+        "Supermarkets",
+        "Local councils"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says supermarkets are doing the most useful thing because people can charge while shopping.",
+      "evidence": [
+        {
+          "lineId": "s36",
+          "quote": "supermarkets are doing the most useful thing"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Hannah feel about the price of public charging?",
+      "options": [
+        "She thinks nobody pays it",
+        "She refuses to discuss it",
+        "She says it is always cheaper than petrol",
+        "She honestly admits it can cost more"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says \"I won't pretend otherwise\", agreeing it can be dearer.",
+      "evidence": [
+        {
+          "lineId": "s38",
+          "quote": "I won't pretend otherwise."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Hannah advise planning the first long trip?",
+      "options": [
+        "Because supermarkets are far from the motorways",
+        "Because roads are often closed in winter",
+        "Because the worry disappears once it works",
+        "Because it saves money on fuel"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "After one successful long trip, she says the worry disappears.",
+      "evidence": [
+        {
+          "lineId": "s40",
+          "quote": "Once you've done it once and seen it works, the worry disappears."
+        }
+      ]
+    }
+  ]
+}

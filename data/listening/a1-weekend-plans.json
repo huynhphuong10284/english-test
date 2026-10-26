@@ -1,0 +1,588 @@
+{
+  "id": "l-a1-weekend-plans",
+  "title": "Weekend Plans",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about weekend plans: friends chatting, a school notice, a phone message and an invitation.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Chatting about the weekend",
+      "intro": "You will hear Nam and Emma talking on Friday.",
+      "speakers": {
+        "Nam": "male",
+        "Emma": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Emma",
+          "text": "Hi, Nam. What are you doing this weekend?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "On Saturday, I'm going to play football with my cousins. We play at ten o'clock."
+        },
+        {
+          "id": "s3",
+          "speaker": "Emma",
+          "text": "That sounds fun. What about Sunday?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "I'm going to visit my grandparents. They live in a small village. We usually eat fish and rice together."
+        },
+        {
+          "id": "s5",
+          "speaker": "Emma",
+          "text": "Lovely! I'm not going out on Saturday. I want to stay at home and read my new book."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "Don't you want to go to the cinema? There is a good film on Saturday evening."
+        },
+        {
+          "id": "s7",
+          "speaker": "Emma",
+          "text": "Hmm, maybe. But I'm very tired this week. I think I'll watch TV and go to bed early."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "OK. Have a nice weekend, Emma!"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A school notice",
+      "intro": "You will hear a teacher, Mr Baker, talking about a weekend club.",
+      "speakers": {
+        "Mr Baker": "male"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Mr Baker",
+          "text": "Good morning, students. This is a notice about our weekend art club."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mr Baker",
+          "text": "The club is on Sunday morning, not Saturday. It starts at nine o'clock and finishes at eleven."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mr Baker",
+          "text": "This week, we are going to paint pictures of animals. Please bring an old shirt, because paint can be messy."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Baker",
+          "text": "The club is free, but we need your name. Please give it to Miss Hill at the school office."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mr Baker",
+          "text": "After the club, we will have a snack. There will be apples and orange juice. See you on Sunday!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone message",
+      "intro": "You will hear a message from Linh to her friend Peter.",
+      "speakers": {
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s14",
+          "speaker": "Linh",
+          "text": "Hi, Peter. It's Linh. Are you free on Saturday? I have a plan."
+        },
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "Let's go to the lake. We can take a picnic. I'll bring sandwiches and some fruit."
+        },
+        {
+          "id": "s16",
+          "speaker": "Linh",
+          "text": "Can you bring the drinks? Maybe water and lemonade. And please bring a ball, too."
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "The weather is going to be sunny, but it's a little cold in the morning. So take a jacket."
+        },
+        {
+          "id": "s18",
+          "speaker": "Linh",
+          "text": "Let's meet at the bus stop at nine o'clock, no, sorry, half past nine. Call me back, please. Bye!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · An invitation",
+      "intro": "You will hear Mai inviting her friend Jack to a party.",
+      "speakers": {
+        "Jack": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Mai",
+          "text": "Jack, it's my birthday next Saturday. Can you come to my party?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Jack",
+          "text": "Yes, of course! How old are you going to be?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Mai",
+          "text": "I'm going to be eleven. The party is at my house, at four o'clock."
+        },
+        {
+          "id": "s22",
+          "speaker": "Jack",
+          "text": "Great. What are we going to do?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Mai",
+          "text": "First we're going to play games in the garden. Then we'll eat pizza and cake."
+        },
+        {
+          "id": "s24",
+          "speaker": "Jack",
+          "text": "I love pizza! Do you want a present?"
+        },
+        {
+          "id": "s25",
+          "speaker": "Mai",
+          "text": "No, please don't buy a present. Just come and have fun!"
+        },
+        {
+          "id": "s26",
+          "speaker": "Jack",
+          "text": "OK. I'll come with my sister. Is that all right?"
+        },
+        {
+          "id": "s27",
+          "speaker": "Mai",
+          "text": "Yes, she's very welcome. See you on Saturday!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What are Nam and Emma talking about?",
+      "options": [
+        "Their weekend",
+        "Their holiday",
+        "Their homework"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They talk about what they will do this weekend.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "What are you doing this weekend?"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is Nam going to do on Saturday?",
+      "options": [
+        "Visit his grandparents",
+        "Play football",
+        "Go to the cinema"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam will play football with his cousins on Saturday.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "play football with my cousins"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where do Nam's grandparents live?",
+      "options": [
+        "By the sea",
+        "In a big city",
+        "In a small village"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They live in a small village.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "They live in a small village"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Emma want to do on Saturday?",
+      "options": [
+        "Play football",
+        "Read her new book",
+        "Cook fish"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Emma wants to stay at home and read her new book.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "read my new book"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Why doesn't Emma want to go out?",
+      "options": [
+        "She has homework.",
+        "She is tired.",
+        "She doesn't like films."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Emma says she is very tired this week.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "I'm very tired this week"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why is Mr Baker talking?",
+      "options": [
+        "To tell students about a club",
+        "To say the school is closed",
+        "To give a maths test"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He gives a notice about the weekend art club.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "a notice about our weekend art club"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When is the club?",
+      "options": [
+        "Saturday morning",
+        "Sunday morning",
+        "Sunday afternoon"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The club is on Sunday morning, not Saturday.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "on Sunday morning, not Saturday"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will the students paint?",
+      "options": [
+        "Animals",
+        "Flowers",
+        "Houses"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They will paint pictures of animals.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "paint pictures of animals"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What should the students bring?",
+      "options": [
+        "A new pencil",
+        "Some money",
+        "An old shirt"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He asks them to bring an old shirt because paint is messy. The club is free.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "bring an old shirt"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will they have after the club?",
+      "options": [
+        "Apples and orange juice",
+        "Cake and tea",
+        "Sandwiches and milk"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They will have apples and orange juice.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "apples and orange juice"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Linh call Peter?",
+      "options": [
+        "To ask about homework",
+        "To plan a trip to the lake",
+        "To say sorry"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh invites Peter to go to the lake with a picnic.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Let's go to the lake"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will Linh bring?",
+      "options": [
+        "A ball",
+        "Sandwiches and fruit",
+        "Drinks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh will bring sandwiches and some fruit.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "I'll bring sandwiches and some fruit"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What should Peter bring?",
+      "options": [
+        "A book and a ball",
+        "A jacket and food",
+        "Drinks and a ball"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She asks him to bring drinks and a ball. The jacket is for the cold morning.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Can you bring the drinks?"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why should Peter take a jacket?",
+      "options": [
+        "It will rain.",
+        "It is cold in the morning.",
+        "It is windy at the lake."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says it is a little cold in the morning.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "it's a little cold in the morning"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time will they meet?",
+      "options": [
+        "At half past nine",
+        "At ten o'clock",
+        "At nine o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh changes the time to half past nine.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "sorry, half past nine"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Mai talk to Jack?",
+      "options": [
+        "To invite him to a party",
+        "To ask for help",
+        "To say goodbye"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai asks Jack to come to her birthday party.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Can you come to my party?"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How old is Mai going to be?",
+      "options": [
+        "Twelve",
+        "Eleven",
+        "Ten"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai says she is going to be eleven.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "I'm going to be eleven"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What are they going to do first?",
+      "options": [
+        "Play games",
+        "Eat pizza",
+        "Eat cake"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "First they will play games in the garden.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "First we're going to play games in the garden"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Mai want Jack to bring?",
+      "options": [
+        "No present",
+        "A game",
+        "A cake"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai says: please don't buy a present.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "please don't buy a present"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Who will come with Jack?",
+      "options": [
+        "His sister",
+        "His mother",
+        "His cousin"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Jack will come with his sister.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I'll come with my sister"
+        }
+      ]
+    }
+  ]
+}

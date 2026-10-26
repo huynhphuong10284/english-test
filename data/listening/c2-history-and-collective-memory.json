@@ -1,0 +1,628 @@
+{
+  "id": "l-c2-history-and-collective-memory",
+  "title": "History and Collective Memory",
+  "level": "C2 · Proficiency",
+  "description": "A university seminar on how societies remember the past, from memorials and oral history to the debate about statues.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Who owns the past?",
+      "intro": "You will hear a professor opening a seminar on collective memory.",
+      "speakers": {
+        "Professor Whitfield": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Professor Whitfield",
+          "text": "Welcome to the seminar. This term we're asking a deceptively simple question: who owns the past? Not who owns the archives, but who owns the stories a society tells itself about what happened."
+        },
+        {
+          "id": "s2",
+          "speaker": "Professor Whitfield",
+          "text": "The concept of collective memory is usually traced to a French sociologist writing between the wars. His central claim was radical for its time: memory is not stored privately in individual heads, but shaped by the groups we belong to. We remember as members of families, villages, classes and nations."
+        },
+        {
+          "id": "s3",
+          "speaker": "Professor Whitfield",
+          "text": "Consider how this works. You may believe you remember a family holiday vividly. But much of that vividness comes from the retelling, from the photographs on the wall, from the argument over whose version is right. The memory has been, quite literally, co-authored."
+        },
+        {
+          "id": "s4",
+          "speaker": "Professor Whitfield",
+          "text": "Now scale that up. A nation also tells and retells. Anniversaries, textbooks, films, monuments, even the names of streets, all rehearse a particular account of the past, and, crucially, a particular account of who we are."
+        },
+        {
+          "id": "s5",
+          "speaker": "Professor Whitfield",
+          "text": "I should distinguish this from history. History, at least in aspiration, is a discipline of evidence: it welcomes doubt and revises itself. Collective memory is a living practice, and it prefers clarity. It likes heroes, villains and turning points. Historians often find themselves unwelcome at commemorations for precisely this reason."
+        },
+        {
+          "id": "s6",
+          "speaker": "Professor Whitfield",
+          "text": "I don't want to suggest, though, that memory is simply history's inferior cousin. Without it, the past would be inert, a heap of documents nobody feels responsible for. Memory is what makes the past matter. The trouble is that mattering and accuracy do not always travel together."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Memorials and forgetting",
+      "intro": "You will hear a student, Minh, discussing memorials with Professor Whitfield.",
+      "speakers": {
+        "Minh": "male",
+        "Professor Whitfield": "female"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Minh",
+          "text": "Professor, can I push back on that distinction? Doesn't history itself get shaped by nations? Textbooks are written by governments, after all."
+        },
+        {
+          "id": "s8",
+          "speaker": "Professor Whitfield",
+          "text": "A good objection, Minh. History as an institution is certainly not innocent. Governments fund archives, set curricula and decide what's taught to ten-year-olds. So I'd say the line is blurred in practice, though still worth drawing in principle."
+        },
+        {
+          "id": "s9",
+          "speaker": "Minh",
+          "text": "Why worth drawing, if it's blurred?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Professor Whitfield",
+          "text": "Because it gives us a standard to appeal to. If a commemoration claims something that the evidence contradicts, historians can say so. Without a distinction, every account is just one more story, and the loudest wins."
+        },
+        {
+          "id": "s11",
+          "speaker": "Minh",
+          "text": "I was reading about a war memorial in a small town in the north. The names of the fallen were carved, but it said nothing about the soldiers who were executed for desertion."
+        },
+        {
+          "id": "s12",
+          "speaker": "Professor Whitfield",
+          "text": "A classic case. Memorials tend to remember sacrifice and forget shame. Decades later, families campaigned for those men to be pardoned, and the debate was less about the soldiers than about what the nation wanted to believe about itself."
+        },
+        {
+          "id": "s13",
+          "speaker": "Minh",
+          "text": "So forgetting isn't accidental."
+        },
+        {
+          "id": "s14",
+          "speaker": "Professor Whitfield",
+          "text": "Sometimes it's accidental, but often it's organised. Societies need to forget certain things in order to move on, and that's not always sinister. After civil conflicts, for example, a measure of silence can keep the peace. The difficulty is that silenced stories rarely disappear. They resurface in the next generation, often angrier."
+        },
+        {
+          "id": "s15",
+          "speaker": "Minh",
+          "text": "Like a debt that gathers interest."
+        },
+        {
+          "id": "s16",
+          "speaker": "Professor Whitfield",
+          "text": "Rather a good image. Do write that down, but attribute it to yourself."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Oral history",
+      "intro": "You will hear a lecturer, Dr Lowe, talking about spoken testimony as a historical source.",
+      "speakers": {
+        "Dr Lowe": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Dr Lowe",
+          "text": "Let me turn to a source that historians once treated with suspicion: the spoken testimony of ordinary people. Oral history grew out of a conviction that official records are written by the powerful, and that the rest of the population is mostly absent from the archive."
+        },
+        {
+          "id": "s18",
+          "speaker": "Dr Lowe",
+          "text": "When researchers began recording elderly workers, migrants and veterans in the middle of the last century, they were told, politely at first and then less politely, that memory is unreliable. And they agreed. Memory is unreliable. It compresses, rearranges and embellishes."
+        },
+        {
+          "id": "s19",
+          "speaker": "Dr Lowe",
+          "text": "But they made a subtle argument. A mistake in testimony can be a clue rather than a defect. In one well-known study, interviewees in an industrial town placed a famous strike three years later than the documents showed, and attached it to a different outcome than the real one. That looks like carelessness until you realise what they were doing. They were moving the event to where it made emotional sense, to the moment when the community, in their eyes, lost its confidence."
+        },
+        {
+          "id": "s20",
+          "speaker": "Dr Lowe",
+          "text": "In other words, the error told the historian what the strike meant, not when it happened. The document gave the date, and the testimony gave the significance."
+        },
+        {
+          "id": "s21",
+          "speaker": "Dr Lowe",
+          "text": "There's an ethical side, too. Listening to testimony is not a neutral act. The interviewer chooses the questions, and often the silences. Some survivors of conflict I have worked with spoke for the first time only because someone finally stayed long enough to hear the end of a sentence."
+        },
+        {
+          "id": "s22",
+          "speaker": "Dr Lowe",
+          "text": "I would add a caution. Testimonies can harden. A story told many times at commemorations, to journalists and schools, becomes smooth, a kind of performance. The most revealing interviews are often the first ones, before the story has found its shape."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Should statues come down?",
+      "intro": "You will hear two historians, Dr Harris and Dr Ngoc, debating the removal of statues.",
+      "speakers": {
+        "Dr Harris": "male",
+        "Dr Ngoc": "female"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Dr Harris",
+          "text": "I'll say it plainly: removing a statue is erasing history. If we start taking down every monument to someone with views we now find objectionable, there'll be no past left on the streets."
+        },
+        {
+          "id": "s24",
+          "speaker": "Dr Ngoc",
+          "text": "I'd gently challenge the premise, Daniel. A statue isn't history, it's an honour. It was put there, usually generations after the person's death, by people who wished to celebrate them. Taking it down doesn't delete the archive. It changes who we choose to celebrate."
+        },
+        {
+          "id": "s25",
+          "speaker": "Dr Harris",
+          "text": "But monuments also teach us something about the era that built them. Remove the statue and you remove the evidence of what that era admired."
+        },
+        {
+          "id": "s26",
+          "speaker": "Dr Ngoc",
+          "text": "That's a better argument, and I take it seriously. Which is why many historians favour relocating monuments to museums, where they can be explained. A statue in a square says, this person is admirable. A statue in a gallery, with a label, says, this is what people once thought."
+        },
+        {
+          "id": "s27",
+          "speaker": "Dr Harris",
+          "text": "My worry is that museums become graveyards for things we're embarrassed about, and that each generation will feel entitled to rewrite the street map to suit itself."
+        },
+        {
+          "id": "s28",
+          "speaker": "Dr Ngoc",
+          "text": "Each generation already does. The statue was itself a rewrite. The question is whether the process is democratic and transparent, or the work of a crowd at midnight or a committee in secret."
+        },
+        {
+          "id": "s29",
+          "speaker": "Dr Harris",
+          "text": "That I can accept. Process matters more than the verdict."
+        },
+        {
+          "id": "s30",
+          "speaker": "Dr Ngoc",
+          "text": "I'd say they both matter. But I think we're agreeing that the worst outcome is silence, putting things in storage and hoping nobody asks."
+        },
+        {
+          "id": "s31",
+          "speaker": "Dr Harris",
+          "text": "Then we agree on the destination, if not the route."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the main idea of the professor's opening talk?",
+      "options": [
+        "Memory of the past is shaped by groups and differs from history",
+        "Archives should be controlled by the people who use them most often",
+        "Individuals remember events more accurately than nations do",
+        "History is more reliable than any form of memory could be"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She introduces collective memory as something shaped by groups, and then distinguishes it from history as a discipline of evidence.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "memory is not stored privately in individual heads, but shaped by the groups we belong to"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What was the French sociologist's central claim?",
+      "options": [
+        "Families remember more accurately than villages",
+        "Nations decide what individuals forget",
+        "Memory is shaped by the groups we belong to",
+        "Memory is stored privately in each person"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says his claim was that memory is not private but shaped by groups such as families, villages, classes and nations.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "shaped by the groups we belong to"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does the example of the family holiday show?",
+      "options": [
+        "Photographs are the most reliable evidence of the past",
+        "Family arguments tend to damage the memory of events",
+        "People usually remember their holidays wrongly",
+        "Vivid memories often come from retelling and sharing"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says the vividness comes from retelling, photographs and arguments, so the memory is co-authored.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "The memory has been, quite literally, co-authored."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does the professor regard collective memory?",
+      "options": [
+        "As unimportant to the way modern societies work",
+        "As more accurate than the work of historians",
+        "As valuable, although accuracy is not guaranteed",
+        "As an inferior and misleading copy of real history"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She rejects the idea that memory is history's inferior cousin, saying it makes the past matter, though mattering and accuracy do not always go together.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "Memory is what makes the past matter."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does the professor say historians are often unwelcome at commemorations?",
+      "options": [
+        "To argue that historians should keep out of politics",
+        "To suggest that historians dislike taking part in any public events",
+        "To explain why commemorations are so expensive to organise",
+        "To show that memory wants clarity whereas history welcomes doubt"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She uses this to illustrate that memory likes heroes, villains and turning points, while history welcomes doubt and revises itself.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Historians often find themselves unwelcome at commemorations for precisely this reason."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Minh mention textbooks written by governments?",
+      "options": [
+        "To argue that textbooks are far too long for schoolchildren",
+        "To complain about the education he received himself",
+        "To challenge the separation of history from national memory",
+        "To show that governments tend to forget the past"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He questions the professor's distinction by pointing out that history is also shaped by nations through textbooks.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "Doesn't history itself get shaped by nations?"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does the professor respond to Minh's objection?",
+      "options": [
+        "She agrees that the distinction should now be abandoned",
+        "She rejects the objection completely and moves on",
+        "She accepts that the line is blurred but defends it as useful",
+        "She says that government textbooks are always accurate"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She calls it a good objection, says the line is blurred in practice, but argues it still gives a standard to appeal to.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "the line is blurred in practice, though still worth drawing in principle"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What did the war memorial fail to mention?",
+      "options": [
+        "The names of the fallen",
+        "The towns in the north",
+        "The families who campaigned for a pardon",
+        "Soldiers executed for desertion"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Minh says the names of the fallen were carved, but nothing was said about the soldiers executed for desertion.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "it said nothing about the soldiers who were executed for desertion"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What does the professor suggest about forgetting?",
+      "options": [
+        "It permanently removes difficult stories from a society's past",
+        "It is always accidental, never planned by those in power",
+        "It is always harmful to the peace of a society after conflict",
+        "It is often organised and useful, but silenced stories may return"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says forgetting is often organised, can keep the peace, but silenced stories usually resurface angrier in the next generation.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "silenced stories rarely disappear"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does the professor react to Minh's comparison with a debt?",
+      "options": [
+        "She finds it confusing and asks him to explain",
+        "She thinks it is inaccurate for historical debts",
+        "She approves of it with some humour",
+        "She says it has been used many times before"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She calls it a rather good image and jokes that he should attribute it to himself.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Rather a good image."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why did oral historians begin recording ordinary people?",
+      "options": [
+        "They wanted to prove that memory was perfectly reliable",
+        "They were paid by governments to collect testimony",
+        "They found that many written archives were destroyed",
+        "They believed official records were written by the powerful"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Dr Lowe says oral history grew from a conviction that official records are written by the powerful and ordinary people are mostly absent.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "official records are written by the powerful"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does the study of the industrial strike show?",
+      "options": [
+        "The strike was moved by the town's leaders to hide it",
+        "Errors in testimony can reveal what an event meant to people",
+        "Interviewees deliberately lied to the researchers involved",
+        "Documents are less reliable than memory in every case"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says the error told the historian what the strike meant, not when it happened.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "the error told the historian what the strike meant, not when it happened"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Dr Lowe imply about interviewing?",
+      "options": [
+        "It should only be done by professionally trained doctors",
+        "It is a neutral way of collecting plain facts",
+        "It works best when the interviewer stays silent throughout",
+        "The interviewer's choices influence what is said"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says listening is not neutral, because the interviewer chooses the questions and often the silences.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Listening to testimony is not a neutral act."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Dr Lowe mention survivors who spoke for the first time?",
+      "options": [
+        "To show that patient listening can make testimony possible",
+        "To criticise earlier historians for lacking patience with survivors",
+        "To prove that survivors would rather stay silent",
+        "To argue that interviews must be kept short"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says they spoke only because someone stayed long enough to hear the end of a sentence.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "someone finally stayed long enough to hear the end of a sentence"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why are the first interviews often the most revealing?",
+      "options": [
+        "The interviewers tend to ask much better questions",
+        "The story has not yet become a smooth performance",
+        "The witnesses are younger and remember more clearly",
+        "The documents are still fresh in the archive"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He explains that stories told repeatedly become smooth and performed, so early interviews are more revealing.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "before the story has found its shape"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Dr Harris's view at the start of the debate?",
+      "options": [
+        "Statues are unimportant to historians",
+        "Statues should be moved to private collections",
+        "Modern leaders should choose which statues remain",
+        "Removing statues amounts to erasing history"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says plainly that removing a statue is erasing history and that no past would be left on the streets.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "removing a statue is erasing history"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Dr Ngoc say a statue is an honour, not history?",
+      "options": [
+        "To suggest that statues are always built by governments",
+        "To prove that statues are inaccurate portraits of the dead",
+        "To claim that no statue should ever be built",
+        "To argue that removal does not delete the historical record"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says a statue celebrates someone and removing it does not delete the archive, only changes who we celebrate.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "Taking it down doesn't delete the archive."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What do many historians prefer to do with controversial monuments?",
+      "options": [
+        "Replace them with larger statues of other people",
+        "Leave them in place without any explanation at all",
+        "Move them to museums where they can be explained",
+        "Store them out of sight until the debate ends"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dr Ngoc says many historians favour relocating monuments to museums, where labels can explain them.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "many historians favour relocating monuments to museums"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Dr Ngoc mean by saying the statue was itself a rewrite?",
+      "options": [
+        "Building monuments already reflects a later generation's choices",
+        "The statue was built in order to be removed later",
+        "The statue was copied from an earlier statue elsewhere",
+        "The statue was inaccurate in its appearance and style"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She means that putting up a statue was a decision by people long after the event, so changing monuments is nothing new.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "The statue was itself a rewrite."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What do the two historians agree on at the end?",
+      "options": [
+        "Museums should avoid displaying controversial objects",
+        "The worst outcome is silence, with problems hidden away",
+        "Statues should never be moved from public squares",
+        "Crowds should decide which monuments are removed"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dr Ngoc says the worst outcome is silence and storage, and Dr Harris says they agree on the destination.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "the worst outcome is silence"
+        }
+      ]
+    }
+  ]
+}

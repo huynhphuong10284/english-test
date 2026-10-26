@@ -1,0 +1,568 @@
+{
+  "id": "l-a1-my-daily-routine",
+  "title": "My Daily Routine",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about daily life: a morning chat, an afternoon talk, a phone message and a weekend chat.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A morning chat",
+      "intro": "You will hear Nam and Mai talking about their mornings.",
+      "speakers": {
+        "Nam": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Nam",
+          "text": "Hi, Mai. You look tired today. What time do you get up?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Mai",
+          "text": "I get up at six o'clock, but today I woke up at five. My dog was very noisy."
+        },
+        {
+          "id": "s3",
+          "speaker": "Nam",
+          "text": "Oh dear! What do you do in the morning?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Mai",
+          "text": "First I have a shower. Then I eat breakfast. I usually have eggs and bread. My brother has rice, but I don't like it in the morning."
+        },
+        {
+          "id": "s5",
+          "speaker": "Nam",
+          "text": "Do you walk to school?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Mai",
+          "text": "No, I go by bus. It leaves at seven fifteen. Sometimes I'm late. I think about a taxi, but it's too expensive, so I run!"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Peter's afternoon",
+      "intro": "You will hear a boy, Peter, talking about his afternoon.",
+      "speakers": {
+        "Peter": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Peter",
+          "text": "Hello, my name is Peter, and I'm twelve. I want to tell you about my afternoon and evening."
+        },
+        {
+          "id": "s8",
+          "speaker": "Peter",
+          "text": "School finishes at half past three. I go home and have a snack, usually an apple and some milk."
+        },
+        {
+          "id": "s9",
+          "speaker": "Peter",
+          "text": "At four o'clock I do my homework. It takes an hour. I like maths, but I don't like English homework."
+        },
+        {
+          "id": "s10",
+          "speaker": "Peter",
+          "text": "After that I play football with my friends in the park. We play until six, when it gets dark."
+        },
+        {
+          "id": "s11",
+          "speaker": "Peter",
+          "text": "We have dinner at seven. My dad cooks on Mondays and Fridays. I go to bed at half past nine."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A message from Mum",
+      "intro": "You will hear a phone message from Minh's mum.",
+      "speakers": {
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s12",
+          "speaker": "Mum",
+          "text": "Hi, Minh. It's Mum. I'm still at work, and I finish late today, at half past six."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mum",
+          "text": "Please wash the rice and put it in the cooker at five o'clock. Don't forget!"
+        },
+        {
+          "id": "s14",
+          "speaker": "Mum",
+          "text": "Your sister has a piano lesson at four. Please take her there, and bring her home by bus."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mum",
+          "text": "Oh, and the dog needs food. It's in the kitchen cupboard, not in the fridge."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mum",
+          "text": "Thanks, Minh. Call me if you have a problem. Bye!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · The weekend",
+      "intro": "You will hear Lan and Jack talking about Sundays.",
+      "speakers": {
+        "Jack": "male",
+        "Lan": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Lan",
+          "text": "Jack, what do you do on Sundays?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Jack",
+          "text": "I sleep late! I get up at ten o'clock. Then I call my grandmother."
+        },
+        {
+          "id": "s19",
+          "speaker": "Lan",
+          "text": "Do you visit her?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Jack",
+          "text": "Yes, in the afternoon. She lives near the river. We cook together, and we watch a film."
+        },
+        {
+          "id": "s21",
+          "speaker": "Lan",
+          "text": "That sounds lovely. I'm busy on Sundays. I clean my room, and I wash my clothes."
+        },
+        {
+          "id": "s22",
+          "speaker": "Jack",
+          "text": "Oh, I hate cleaning. I only clean my room once a month."
+        },
+        {
+          "id": "s23",
+          "speaker": "Lan",
+          "text": "In the evening I read a book or listen to music. I love music."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time does Mai usually get up?",
+      "options": [
+        "At five o'clock",
+        "At seven fifteen",
+        "At six o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she gets up at six o'clock. Five o'clock was only today.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I get up at six o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why is Mai tired today?",
+      "options": [
+        "Her dog was noisy.",
+        "Her brother was noisy.",
+        "The bus was late."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Her dog was very noisy, so she woke up early.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "My dog was very noisy."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Mai usually eat for breakfast?",
+      "options": [
+        "Eggs and bread",
+        "Rice",
+        "Only fruit"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She usually has eggs and bread. Her brother eats rice.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I usually have eggs and bread."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How does Mai go to school?",
+      "options": [
+        "By taxi",
+        "On foot",
+        "By bus"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She goes by bus. A taxi is too expensive.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I go by bus."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does Mai do when she is late?",
+      "options": [
+        "She takes a taxi.",
+        "She runs.",
+        "She stays at home."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A taxi is too expensive, so she runs.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "so I run!"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Peter talking about?",
+      "options": [
+        "His afternoon and evening",
+        "His school lessons",
+        "His family holiday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He tells us what he does after school until bedtime.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "I want to tell you about my afternoon and evening."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Peter have as a snack?",
+      "options": [
+        "Cake and juice",
+        "An apple and some milk",
+        "Bread and cheese"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He usually has an apple and some milk.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "an apple and some milk"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "Which homework does Peter NOT like?",
+      "options": [
+        "Science",
+        "English",
+        "Maths"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He likes maths, but he doesn't like English homework.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I don't like English homework."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Peter do after his homework?",
+      "options": [
+        "He cooks dinner.",
+        "He goes to bed.",
+        "He plays football."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He plays football with his friends in the park.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "I play football with my friends in the park."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time does Peter go to bed?",
+      "options": [
+        "At seven o'clock",
+        "At half past nine",
+        "At six o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He goes to bed at half past nine. Six and seven are other times in his day.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I go to bed at half past nine."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When does Mum finish work?",
+      "options": [
+        "At half past six",
+        "At five o'clock",
+        "At four o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum finishes at half past six. Five and four are other times in the message.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I finish late today, at half past six."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What must Minh do at five o'clock?",
+      "options": [
+        "Put the rice in the cooker",
+        "Feed the dog",
+        "Take his sister to piano"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum asks him to put the rice in the cooker at five o'clock.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "put it in the cooker at five o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where must Minh take his sister?",
+      "options": [
+        "To work",
+        "To school",
+        "To a piano lesson"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "His sister has a piano lesson at four.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "Your sister has a piano lesson at four."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where is the dog food?",
+      "options": [
+        "In the fridge",
+        "In the car",
+        "In the kitchen cupboard"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It is in the kitchen cupboard, not in the fridge.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "It's in the kitchen cupboard"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Mum call?",
+      "options": [
+        "To ask Minh to do some jobs",
+        "To say she is ill",
+        "To ask about homework"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She asks Minh to cook the rice, take his sister out and feed the dog.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Please wash the rice"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What time does Jack get up on Sundays?",
+      "options": [
+        "At ten o'clock",
+        "At nine o'clock",
+        "At eight o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he gets up at ten o'clock.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I get up at ten o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Who does Jack call?",
+      "options": [
+        "His grandmother",
+        "His teacher",
+        "His brother"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He calls his grandmother, then visits her.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Then I call my grandmother."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What do Jack and his grandmother do together?",
+      "options": [
+        "They clean the room.",
+        "They cook and watch a film.",
+        "They walk by the river."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They cook together and watch a film. The river is only where she lives.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "We cook together, and we watch a film."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Jack think about cleaning?",
+      "options": [
+        "He thinks it is easy.",
+        "He loves it.",
+        "He hates it."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Jack says: I hate cleaning.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I hate cleaning."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does Lan do in the evening?",
+      "options": [
+        "She washes her clothes.",
+        "She reads or listens to music.",
+        "She calls her grandmother."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "In the evening she reads a book or listens to music. Washing clothes is her daytime job.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "I read a book or listen to music."
+        }
+      ]
+    }
+  ]
+}

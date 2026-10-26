@@ -1,0 +1,618 @@
+{
+  "id": "l-c2-language-and-thought",
+  "title": "Language and Thought",
+  "level": "C2 · Proficiency",
+  "description": "Four extracts from a linguistics seminar on whether the language we speak shapes the way we think.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · An introductory lecture",
+      "intro": "You will hear a linguist introducing the idea that language shapes thought.",
+      "speakers": {
+        "Professor": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Professor",
+          "text": "Welcome to the seminar. Over the next six weeks we will examine one of the oldest and most contested questions in the study of mind: does the language you speak determine what you are able to think? The idea is usually attributed to two American scholars of the early twentieth century, though versions of it can be found much earlier, in the writings of German philosophers who believed that each language embodied the spirit of a people."
+        },
+        {
+          "id": "s2",
+          "speaker": "Professor",
+          "text": "It is helpful to distinguish a strong version from a weak one. The strong version, called linguistic determinism, holds that language sets the boundaries of thought. If your language has no word for a concept, you cannot grasp it. I should say at once that almost nobody defends this view today. Translators manage to convey unfamiliar ideas all the time, and babies plainly think before they speak."
+        },
+        {
+          "id": "s3",
+          "speaker": "Professor",
+          "text": "The weak version, linguistic relativity, is far more modest and far more interesting. It proposes that the habits of your language nudge your attention in certain directions. Speakers are not trapped, but they may find some distinctions easier to notice or remember than others. It is a matter of ease and emphasis, not of possibility."
+        },
+        {
+          "id": "s4",
+          "speaker": "Professor",
+          "text": "Why has the question proved so slippery? Partly because it is hard to design a fair test. You cannot simply ask people to describe their thinking, since that requires language. And you cannot randomly assign children to languages. Researchers therefore have to be inventive, comparing speakers of different languages on tasks that do not depend on words, such as sorting, memorising or judging similarity."
+        },
+        {
+          "id": "s5",
+          "speaker": "Professor",
+          "text": "My own position, which I will try to defend honestly, is that the effects are real but smaller than the popular books suggest. When you hear that one language has fifty words for snow, treat it with suspicion. The interesting findings are subtler, and they are found in grammar rather than vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A student and a lecturer",
+      "intro": "You will hear a student, Mai, discussing an assignment with her lecturer, Dr Walsh.",
+      "speakers": {
+        "Mai": "female",
+        "Dr Walsh": "male"
+      },
+      "script": [
+        {
+          "id": "s6",
+          "speaker": "Mai",
+          "text": "Dr Walsh, thanks for seeing me. I'm planning my essay on grammatical gender, but I'm worried I've chosen something too narrow."
+        },
+        {
+          "id": "s7",
+          "speaker": "Dr Walsh",
+          "text": "Not at all. It's a rich topic. What's your angle?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Mai",
+          "text": "Well, in Spanish and German, objects have a gender. A bridge is feminine in one language and masculine in the other. I read that speakers describe bridges differently as a result, as elegant and slender in one case, and strong and sturdy in the other."
+        },
+        {
+          "id": "s9",
+          "speaker": "Dr Walsh",
+          "text": "Ah, yes, that's a famous finding. I'd urge you to be careful with it, though. Many of the original studies asked participants to produce adjectives in the very language being tested, so the result might simply reflect word associations rather than genuine thought."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mai",
+          "text": "So the effect could be a trick of the experimental design."
+        },
+        {
+          "id": "s11",
+          "speaker": "Dr Walsh",
+          "text": "It could. More convincing work gets around the problem by teaching people invented names for unfamiliar objects and then testing memory. Even there, the effects tend to be modest. If I were you, I would present the evidence fairly and then ask what it would take to settle the matter."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mai",
+          "text": "I'd also like to include my own experience. I speak Vietnamese at home, where pronouns carry information about age and status, and when I use English I sometimes feel strangely exposed because there's only one way to say you."
+        },
+        {
+          "id": "s13",
+          "speaker": "Dr Walsh",
+          "text": "That's a wonderful observation, but remember that personal impressions are not evidence. By all means use it to open the essay, as an illustration, and then explain why researchers would not accept it as proof."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mai",
+          "text": "That makes sense. So the structure would be an anecdote, a review of the research and then an evaluation."
+        },
+        {
+          "id": "s15",
+          "speaker": "Dr Walsh",
+          "text": "Exactly. And keep it narrow, as you said. Depth will earn you more credit than breadth."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A talk on direction and time",
+      "intro": "You will hear a researcher describing studies of how languages express space and time.",
+      "speakers": {
+        "Dr Mensah": "male"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Dr Mensah",
+          "text": "Some of the most striking evidence comes from communities that describe space very differently from us. In English, we say that a person is on my left or in front of me. Those terms depend on the speaker's body. But in some languages, people use compass directions for everything. They might say that there is an ant on your south-west leg, or ask you to move your cup a little to the north."
+        },
+        {
+          "id": "s17",
+          "speaker": "Dr Mensah",
+          "text": "What is remarkable is the consequence. Speakers of such languages stay oriented in unfamiliar places, even indoors and in the dark, with an accuracy that most English speakers find astonishing. They have to, because their language forces them to keep track of direction at every moment. The habit of speech trains a habit of attention."
+        },
+        {
+          "id": "s18",
+          "speaker": "Dr Mensah",
+          "text": "A second line of work concerns time. English speakers talk about the future as ahead of us and the past as behind. Experiments suggest that Mandarin speakers more readily picture time as running vertically, so that earlier events are up and later events are down. When both groups are shown pictures of a person ageing, they arrange them in slightly different patterns."
+        },
+        {
+          "id": "s19",
+          "speaker": "Dr Mensah",
+          "text": "I would be the first to caution against overstating this. The differences are statistical, not absolute, and many speakers of both languages show both patterns. Moreover, the effects can be altered quickly. In one study, simply training English speakers to use vertical metaphors for a few minutes changed how they responded."
+        },
+        {
+          "id": "s20",
+          "speaker": "Dr Mensah",
+          "text": "To me, that is the most revealing result of all. It suggests that language does not lock us into a way of thinking. It supplies a default, a groove that thought finds easy to run in, and with a little effort we can leave it."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A seminar presentation",
+      "intro": "You will hear a presenter, Linh, and a classmate, Tom, discussing a bilingual speaker study after a presentation.",
+      "speakers": {
+        "Linh": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "So to summarise, the study I'm presenting followed bilingual adults who were asked to describe the same short film in each of their two languages. Remarkably, the way they talked about the events differed depending on the language, even though the film was identical."
+        },
+        {
+          "id": "s22",
+          "speaker": "Tom",
+          "text": "Differed how, exactly?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "In English, which marks ongoing actions grammatically, they tended to describe what people were doing as it unfolded. In German, which does so less, they were more likely to mention where the people were heading. And when asked afterwards which scenes they remembered, the English mode of describing slightly changed what they recalled."
+        },
+        {
+          "id": "s24",
+          "speaker": "Tom",
+          "text": "Hmm, I'm not totally convinced. Couldn't it just be that people say whatever is natural in a language without it affecting their thinking?"
+        },
+        {
+          "id": "s25",
+          "speaker": "Linh",
+          "text": "That's the obvious objection, and the authors address it. They included a task in which participants had to judge similarity silently, while repeating numbers aloud, which blocks them from using inner speech. The pattern persisted. That suggests the effect isn't merely a matter of what they said."
+        },
+        {
+          "id": "s26",
+          "speaker": "Tom",
+          "text": "That is rather stronger than I expected. What do you make of it?"
+        },
+        {
+          "id": "s27",
+          "speaker": "Linh",
+          "text": "I find it persuasive but limited. The sample was small, and all the participants were highly educated adults. I'd want to see it repeated with other languages before drawing sweeping conclusions."
+        },
+        {
+          "id": "s28",
+          "speaker": "Tom",
+          "text": "Fair enough. I think what I take from today is that nobody in this field really wants the dramatic version any more. We're left with the modest claim, which is probably the more honest one."
+        },
+        {
+          "id": "s29",
+          "speaker": "Linh",
+          "text": "And perhaps the more fascinating. If something as small as a tense can steer attention, imagine what a lifetime of speech does."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What question does the seminar series address?",
+      "options": [
+        "How many languages exist and how they have changed over time",
+        "Whether the language we speak determines what we can think",
+        "Why translators so often make mistakes when conveying ideas",
+        "How children first learn words in their earliest years"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She asks whether the language you speak determines what you are able to think.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "does the language you speak determine what you are able to think?"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does the professor say about the strong version of the idea?",
+      "options": [
+        "It is accepted by most translators",
+        "It has been proved correct",
+        "Hardly anyone defends it today",
+        "It was invented in the last decade"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says almost nobody defends linguistic determinism today.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "almost nobody defends this view today"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is the claim of the weak version, linguistic relativity?",
+      "options": [
+        "Speakers cannot understand concepts from foreign languages at all",
+        "Words matter far more to thought than grammar does",
+        "Babies think in words before they can speak",
+        "Language nudges attention towards certain distinctions"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "It says the habits of language nudge attention; it is about ease and emphasis.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "the habits of your language nudge your attention in certain directions"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why is the question hard to test?",
+      "options": [
+        "People cannot describe their thinking without language",
+        "Few people speak two languages well enough to be tested",
+        "Languages change too quickly for a fair comparison",
+        "Children refuse to take part in language studies"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Asking people to describe thinking requires language, and children cannot be assigned to languages.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "since that requires language"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is the professor's own position?",
+      "options": [
+        "The effects are real but smaller than popular books suggest",
+        "The question cannot be studied because thought needs language",
+        "The effects are huge and obvious in everyday speech",
+        "The effects do not exist, whatever the popular books say"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the effects are real but smaller than popular books suggest.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "the effects are real but smaller than the popular books suggest"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "What is Mai worried about at the start?",
+      "options": [
+        "That her essay topic is too narrow",
+        "That she has missed too many lectures this term",
+        "That her English is not good enough for the essay",
+        "That the deadline is much too close for research"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she is worried she has chosen something too narrow.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I'm worried I've chosen something too narrow."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Dr Walsh urge caution about the bridge study?",
+      "options": [
+        "The study used too few bridges to draw any conclusion",
+        "The adjectives may reflect word associations in the test language",
+        "The result has been proved in many other languages",
+        "The participants were children who could not describe objects"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Participants produced adjectives in the language tested, so the result may reflect word associations.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "the result might simply reflect word associations rather than genuine thought"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Dr Walsh say about the more convincing studies?",
+      "options": [
+        "They tested only bilingual children in two countries",
+        "They found very large effects in every language",
+        "They taught people invented names and tested memory",
+        "They avoided using languages by relying on pictures"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They teach invented names for unfamiliar objects and test memory, with modest effects.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "teaching people invented names for unfamiliar objects"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Dr Walsh think of Mai's personal experience as evidence?",
+      "options": [
+        "It should be left out of the essay entirely",
+        "It is the best evidence available to her",
+        "It proves the strong version of the theory",
+        "It is a good illustration but not proof"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says to use it to open the essay as an illustration but it is not evidence.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "personal impressions are not evidence"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What advice does Dr Walsh give about the essay overall?",
+      "options": [
+        "Write mainly about her own life, then the research",
+        "Cover as many languages as possible, because breadth earns credit",
+        "Keep it narrow, because depth earns more credit",
+        "Avoid mentioning research and rely on personal examples"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says depth will earn more credit than breadth.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Depth will earn you more credit than breadth."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How do some communities describe the position of objects?",
+      "options": [
+        "With the sound the objects make when they move",
+        "With the names of colours rather than positions",
+        "With compass directions rather than body-based terms",
+        "With the size of the objects rather than place"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They use compass directions for everything, such as an ant on your south-west leg.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "people use compass directions for everything"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why can speakers of such languages stay oriented so well?",
+      "options": [
+        "Their language forces them to track direction constantly",
+        "They avoid unfamiliar places and stay near home",
+        "They carry compasses with them in the dark",
+        "They are taught navigation at school from childhood"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Their language forces them to keep track of direction at every moment.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "their language forces them to keep track of direction at every moment"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What do the experiments suggest about Mandarin speakers?",
+      "options": [
+        "They more readily picture time as vertical",
+        "They arrange pictures randomly, without any pattern",
+        "They cannot talk about the future in Mandarin",
+        "They think the past is ahead of them"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mandarin speakers more readily picture earlier events as up and later events as down.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Mandarin speakers more readily picture time as running vertically"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does the speaker mention training English speakers to use vertical metaphors?",
+      "options": [
+        "To prove that English is really a vertical language",
+        "To show that the effects can be changed quickly",
+        "To explain why Mandarin is so difficult for English speakers",
+        "To criticise the researchers for overstating the findings"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A few minutes of training changed responses, showing effects can be altered.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "changed how they responded"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What conclusion does the speaker draw about language and thought?",
+      "options": [
+        "Language locks us into one way of thinking for life",
+        "Language matters only in childhood, not later on",
+        "Language provides a default that we can leave with effort",
+        "Language has no influence at all on attention"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He calls it a groove thought finds easy to run in, which we can leave.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "with a little effort we can leave it"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What did the bilingual adults do in the study?",
+      "options": [
+        "Described the same film in each of their two languages",
+        "Translated a book from one language into the other",
+        "Argued about a film in both of their languages",
+        "Learned a new language while watching a short film"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They described the same short film in both languages.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "asked to describe the same short film in each of their two languages"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why did the researchers have participants repeat numbers aloud?",
+      "options": [
+        "To measure their reading speed during the task",
+        "To test their memory for the numbers afterwards",
+        "To make the task more enjoyable for them",
+        "To stop them using inner speech during the task"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Repeating numbers blocks inner speech, so any effect is not just about what they said.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "which blocks them from using inner speech"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Tom's reaction to the researchers' explanation?",
+      "options": [
+        "He finds it boring and rather repetitive",
+        "He finds it stronger than he expected",
+        "He rejects it completely as a poor design",
+        "He has no opinion about the explanation"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom says it is rather stronger than he expected.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "That is rather stronger than I expected."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What reservation does Linh have about the study?",
+      "options": [
+        "The film was too long",
+        "The results were identical in both languages",
+        "The sample was small and highly educated",
+        "The authors ignored the obvious objection"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says the sample was small and consisted of highly educated adults.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "The sample was small"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What do the two students agree about?",
+      "options": [
+        "Only the modest version of the claim is credible",
+        "Every language shapes thought in exactly the same way",
+        "The research is worthless because the samples are small",
+        "The dramatic version has been proved by the studies"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom says nobody wants the dramatic version any more and Linh agrees the modest claim is fascinating.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "nobody in this field really wants the dramatic version any more"
+        }
+      ]
+    }
+  ]
+}

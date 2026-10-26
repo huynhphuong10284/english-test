@@ -1,0 +1,618 @@
+{
+  "id": "l-b2-taking-a-gap-year",
+  "title": "Taking a Gap Year",
+  "level": "B2 · Upper-intermediate",
+  "description": "A radio introduction, a family discussion, an interview with a returned traveller and a talk from a university adviser about gap years.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Radio feature: What is a gap year?",
+      "intro": "You will hear a radio presenter introducing a feature about gap years.",
+      "speakers": {
+        "Presenter": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Presenter",
+          "text": "Welcome to Student Life. Today we're looking at a question that thousands of young people ask themselves every spring: should I take a year out before university?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Presenter",
+          "text": "The idea of a gap year began in Britain, where school leavers would spend twelve months travelling or working before they started their degrees. Today it's popular all over the world, although the way people spend the time has changed a great deal."
+        },
+        {
+          "id": "s3",
+          "speaker": "Presenter",
+          "text": "In the past, most gap years were about travel, and many students went to faraway countries to volunteer. Now more young people choose to work at home to save money, because university has become so expensive."
+        },
+        {
+          "id": "s4",
+          "speaker": "Presenter",
+          "text": "Supporters say that a gap year makes students more mature. Studies suggest that students who take a year out often get better marks in their first year, probably because they are more motivated and know what they want to study."
+        },
+        {
+          "id": "s5",
+          "speaker": "Presenter",
+          "text": "Critics, however, worry that it's easy to lose the study habit. Some students find it hard to return to the classroom, and a few never go back at all."
+        },
+        {
+          "id": "s6",
+          "speaker": "Presenter",
+          "text": "So who is right? Later in the programme we'll hear from a student who is just back from a year abroad, but first, let's listen to one family who couldn't agree."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A family discussion",
+      "intro": "You will hear a father, Mr Brown, talking with his daughter, Emma, about her plans.",
+      "speakers": {
+        "Emma": "female",
+        "Dad": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Emma",
+          "text": "Dad, I've made a decision. I'd like to defer my place at university and take a gap year."
+        },
+        {
+          "id": "s8",
+          "speaker": "Dad",
+          "text": "Oh. Well, that's a surprise. I thought you were looking forward to starting in September."
+        },
+        {
+          "id": "s9",
+          "speaker": "Emma",
+          "text": "I am, in a way. But honestly, I'm tired. I've worked non-stop for two years, and I don't even know if I've chosen the right course."
+        },
+        {
+          "id": "s10",
+          "speaker": "Dad",
+          "text": "That's exactly what worries me. If you have doubts, why not start and change course later? Plenty of students do."
+        },
+        {
+          "id": "s11",
+          "speaker": "Emma",
+          "text": "And waste a year of fees if it goes wrong? That seems much riskier to me."
+        },
+        {
+          "id": "s12",
+          "speaker": "Dad",
+          "text": "Hmm, I hadn't thought of it that way. What would you actually do for twelve months? I'm not paying for a long holiday."
+        },
+        {
+          "id": "s13",
+          "speaker": "Emma",
+          "text": "I wouldn't expect you to. My plan is to work in a hotel for six months to save money. Then I'd spend the rest of the year volunteering at a school in Vietnam, which is where Grandma grew up."
+        },
+        {
+          "id": "s14",
+          "speaker": "Dad",
+          "text": "That does sound more serious than I imagined. And you'd improve your Vietnamese, which would please your grandmother."
+        },
+        {
+          "id": "s15",
+          "speaker": "Emma",
+          "text": "Exactly. So you're not against it?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Dad",
+          "text": "I'm not against it, but I'd like you to write the plan down, with the dates and the costs. If it holds together on paper, I'll support you."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Interview with a returned traveller",
+      "intro": "You will hear a presenter, Linh, interviewing a student, Jack, who has just returned from a gap year.",
+      "speakers": {
+        "Linh": "female",
+        "Jack": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "Jack, you've just come back from a year in South America. How would you describe it?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Jack",
+          "text": "Honestly, it was the best and the hardest year of my life. I went with a friend, but after two months we argued and went separate ways, which was frightening at first."
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "That sounds stressful. What did you do on your own?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Jack",
+          "text": "I joined a farm project in the mountains, picking coffee. I'd never worked with my hands before, and the first week my back ached terribly. But I learned Spanish quickly because nobody there spoke English."
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "Did you ever think about coming home early?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Jack",
+          "text": "Once, in about the fourth month. I got ill, and I felt very far from my family. But a local family looked after me, and that experience is what I remember best, much more than any famous sights I saw."
+        },
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "Many people say a gap year is just an expensive holiday. What do you say to that?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Jack",
+          "text": "I'd say it depends on you. If you only visit tourist places and take photographs, then yes. But if you take risks, work and meet people, it changes you. I'm more patient now, and I'm certainly less shy."
+        },
+        {
+          "id": "s25",
+          "speaker": "Linh",
+          "text": "And are you ready to study again?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Jack",
+          "text": "More than I expected. I start in three weeks, and I'm looking forward to sitting in a library again. I never thought I'd say that."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Advice from a university adviser",
+      "intro": "You will hear a university adviser, Mr Nam Tran, giving advice to students at a school.",
+      "speakers": {
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Nam",
+          "text": "Good afternoon, everyone. I've spoken to hundreds of students about gap years, so let me give you some practical advice, whichever way you decide."
+        },
+        {
+          "id": "s28",
+          "speaker": "Nam",
+          "text": "First, check the rules of your university. Many universities allow you to keep your place for a year, but you usually have to ask before a certain date, and some courses, such as medicine, are stricter than others."
+        },
+        {
+          "id": "s29",
+          "speaker": "Nam",
+          "text": "Second, set a goal. Students who say, I'll see what happens, often end up doing nothing. You don't need an exciting project, but you should be able to explain in one sentence why you are taking the time."
+        },
+        {
+          "id": "s30",
+          "speaker": "Nam",
+          "text": "Third, think about money. A gap year doesn't have to be expensive. Some of the most useful experiences, such as working in a local business, actually pay you. Others, like organised volunteering trips abroad, can cost thousands, and I'd be careful with companies that charge very high fees."
+        },
+        {
+          "id": "s31",
+          "speaker": "Nam",
+          "text": "Fourth, keep a record. Write down what you learn and the skills you gain. When you apply for jobs later, employers will be much more interested in a specific example than in a general statement that you travelled."
+        },
+        {
+          "id": "s32",
+          "speaker": "Nam",
+          "text": "Finally, don't see a gap year as an escape from a decision. It's not for everyone, and there's no shame in going straight to university. The best choice is the one that you have thought about carefully."
+        },
+        {
+          "id": "s33",
+          "speaker": "Nam",
+          "text": "If you'd like to talk it through, my office is open on Wednesday mornings, and no appointment is needed."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where did the idea of the gap year begin?",
+      "options": [
+        "In Britain",
+        "In South America",
+        "In Vietnam"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The presenter says it began in Britain.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "The idea of a gap year began in Britain"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why do more young people choose to work at home now?",
+      "options": [
+        "University has become expensive.",
+        "There are fewer volunteer projects.",
+        "They dislike travelling."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They work at home to save money because university is so expensive.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "because university has become so expensive"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "According to studies, what is an advantage of taking a gap year?",
+      "options": [
+        "Students pay lower fees at university.",
+        "Students find it easier to get jobs.",
+        "Students often get better first-year marks."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Studies suggest students who take a year out often get better marks.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "often get better marks in their first year"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What worry do critics of gap years have?",
+      "options": [
+        "Students may become too mature for classmates.",
+        "Students may lose the habit of studying.",
+        "Students may spend far too much money."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Critics worry that it is easy to lose the study habit.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "it's easy to lose the study habit"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does the presenter mention the family at the end?",
+      "options": [
+        "To advertise a travel company for families",
+        "To end the programme with some advice",
+        "To introduce a family who disagreed"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says they will hear one family who could not agree.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "one family who couldn't agree"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Emma's decision?",
+      "options": [
+        "To delay her place for a year",
+        "To leave university and find a job",
+        "To change her course before starting"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Emma wants to defer her place and take a gap year.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "I'd like to defer my place at university and take a gap year"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Emma feel about her studies at the moment?",
+      "options": [
+        "She is angry about her exam results.",
+        "She is tired and doubts her course.",
+        "She is excited and confident about September."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she is tired and doubts that she chose the right course.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I'm tired"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Emma think starting university first is riskier?",
+      "options": [
+        "She would have no friends at first.",
+        "She might waste a year of fees.",
+        "The course would be too hard for her."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says changing course later could waste a year of fees.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "waste a year of fees"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will Emma do during the first half of her year?",
+      "options": [
+        "Volunteer in a school",
+        "Work in a hotel",
+        "Study Vietnamese"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She plans to work in a hotel for six months to save money.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "work in a hotel for six months"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does her father ask her to write the plan down?",
+      "options": [
+        "He wants to show it to her grandmother.",
+        "He wants to change her mind about it.",
+        "He wants to check it is realistic first."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says that if it holds together on paper, he will support her.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "If it holds together on paper, I'll support you"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What happened to Jack in the first two months?",
+      "options": [
+        "He and his friend went separate ways.",
+        "He lost his money in a big city.",
+        "He got ill and went home early."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He and his friend argued and went separate ways.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "after two months we argued and went separate ways"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why did Jack learn Spanish quickly?",
+      "options": [
+        "He already spoke it fairly well.",
+        "He took lessons every single day.",
+        "Nobody around him spoke English."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "On the farm nobody spoke English, so he had to use Spanish.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "nobody there spoke English"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Jack remember best about the year?",
+      "options": [
+        "Picking coffee on the mountain farm",
+        "The famous sights that he saw",
+        "Being cared for by a family"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He remembers best the local family who looked after him when he was ill.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "a local family looked after me"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is Jack's opinion of the idea that a gap year is an expensive holiday?",
+      "options": [
+        "It depends on how you spend it.",
+        "It is nonsense for most students.",
+        "It is completely true for everybody."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it depends: tourist visits alone are a holiday, but taking risks and working changes you.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I'd say it depends on you"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "How does Jack feel about going back to study?",
+      "options": [
+        "Nervous about sitting in a library",
+        "Surprisingly eager to start again",
+        "Not interested in returning at all"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He is looking forward to sitting in a library again, more than he expected.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I'm looking forward to sitting in a library again"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does Mr Tran say about some courses, such as medicine?",
+      "options": [
+        "They can have stricter rules.",
+        "They do not allow a gap year.",
+        "They are free."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says some courses, such as medicine, are stricter than others.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "some courses, such as medicine, are stricter than others"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What can happen to students who say \"I'll see what happens\"?",
+      "options": [
+        "They often end up doing nothing.",
+        "They usually save the most money.",
+        "They usually find the best jobs."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Such students often end up doing nothing.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "often end up doing nothing"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is his attitude to organised volunteering trips abroad?",
+      "options": [
+        "He recommends them to every student.",
+        "He thinks they are always free.",
+        "He is careful with expensive ones."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Some can cost thousands, and he would be careful with companies charging very high fees.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "I'd be careful with companies that charge very high fees"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does he suggest keeping a record of what you learn?",
+      "options": [
+        "To show it to the university office",
+        "To give employers specific examples",
+        "To help him save money later"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Employers prefer a specific example to a general statement.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "employers will be much more interested in a specific example"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is his main message at the end?",
+      "options": [
+        "Choose carefully, because everyone is different.",
+        "Nobody should take a gap year at all.",
+        "Everyone should take a gap year if possible."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it is not for everyone and the best choice is the one you have thought about carefully.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "The best choice is the one that you have thought about carefully."
+        }
+      ]
+    }
+  ]
+}

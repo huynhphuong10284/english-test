@@ -1,0 +1,464 @@
+{
+  "id": "l-yl-m-at-the-supermarket",
+  "title": "At the Supermarket",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings at the supermarket: a boy and his mum, a shop announcement and a customer at the till.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Ben and Mum",
+      "intro": "You will hear Ben shopping with his mum.",
+      "speakers": {
+        "Ben": "male",
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mum",
+          "text": "Right, Ben. We need milk, bread and some apples."
+        },
+        {
+          "id": "s2",
+          "speaker": "Ben",
+          "text": "Can we get bananas too? I love them."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mum",
+          "text": "We have bananas at home. But we need eggs."
+        },
+        {
+          "id": "s4",
+          "speaker": "Ben",
+          "text": "Look! Biscuits are on sale. They're only one pound fifty."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mum",
+          "text": "No, thanks. We have enough. Please get a trolley while I look for the milk."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ben",
+          "text": "OK, Mum. Where's the bread?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Mum",
+          "text": "Over there, next to the cakes."
+        },
+        {
+          "id": "s8",
+          "speaker": "Ben",
+          "text": "I found the eggs, Mum. Shall I put them carefully in the trolley, on top of the bread?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Mum",
+          "text": "No, put them on the top, please. The bread is heavy, and it can break them."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A shop announcement",
+      "intro": "You will hear an announcement in a supermarket.",
+      "speakers": {
+        "Mrs Bell": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Mrs Bell",
+          "text": "Good morning, shoppers. Today in the fruit section, oranges are half price. Fresh strawberries are two pounds a box."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Bell",
+          "text": "In the bakery, you can try a free piece of chocolate cake until twelve o'clock."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mrs Bell",
+          "text": "Please remember that the shop will close early today, at six o'clock, because we are cleaning."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mrs Bell",
+          "text": "Also, a blue bicycle is outside the front door. If it's yours, please come to the help desk. Thank you for shopping with us."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mrs Bell",
+          "text": "Please ask our friendly staff if you need any help today."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · At the till",
+      "intro": "You will hear Nam paying at the till.",
+      "speakers": {
+        "Linh": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "Hello! Did you find everything you needed?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "Almost. I couldn't find any rice."
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "It's in aisle five, next to the pasta. Shall I wait?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Nam",
+          "text": "No, thanks. I'll go quickly. Oh, and can I pay by card?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "Of course. Please wait a moment. That's twelve pounds forty."
+        },
+        {
+          "id": "s20",
+          "speaker": "Nam",
+          "text": "Here you are."
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "Would you like a bag?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Nam",
+          "text": "Yes, please, a big one."
+        },
+        {
+          "id": "s23",
+          "speaker": "Nam",
+          "text": "Thank you. Have a lovely afternoon."
+        },
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "You too, sir. See you next time, and thank you for shopping with us."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What don't they need to buy?",
+      "options": [
+        "Milk",
+        "Bananas",
+        "Eggs"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says they have bananas at home.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "We have bananas at home."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much are the biscuits?",
+      "options": [
+        "Fifty pence",
+        "Two pounds",
+        "One pound fifty"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ben says the biscuits are only one pound fifty.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "They're only one pound fifty."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why doesn't Mum buy the biscuits?",
+      "options": [
+        "They are too expensive",
+        "Ben doesn't like them",
+        "They have enough"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum says they have enough at home.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "We have enough."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Ben get?",
+      "options": [
+        "A basket",
+        "A trolley",
+        "A bag"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum asks Ben to get a trolley.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Please get a trolley"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the bread?",
+      "options": [
+        "Near the door",
+        "Next to the cakes",
+        "Next to the milk"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says the bread is next to the cakes.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "next to the cakes"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is half price today?",
+      "options": [
+        "Chocolate cake",
+        "Oranges",
+        "Strawberries"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Oranges are half price. Strawberries are two pounds a box.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "oranges are half price"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much are the strawberries?",
+      "options": [
+        "Two pounds a box",
+        "Half price",
+        "Five pounds a box"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The strawberries are two pounds a box.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Fresh strawberries are two pounds a box."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What can people try for free until twelve o'clock?",
+      "options": [
+        "Orange juice",
+        "Chocolate cake",
+        "Fresh bread"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "In the bakery, there is free chocolate cake.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "a free piece of chocolate cake"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why will the shop close early?",
+      "options": [
+        "It is a holiday",
+        "They are cleaning",
+        "The door is broken"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The shop closes early because they are cleaning.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "because we are cleaning"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does the speaker talk about the bicycle?",
+      "options": [
+        "To sell it",
+        "To find its owner",
+        "To say it is lost"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She asks the owner to come to the help desk.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "If it's yours, please come to the help desk."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What couldn't Nam find?",
+      "options": [
+        "Pasta",
+        "Rice",
+        "Bread"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam says he could not find any rice.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "I couldn't find any rice."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where is it?",
+      "options": [
+        "Next to the pasta",
+        "Next to the milk",
+        "Near the door"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh says the rice is in aisle five, next to the pasta.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "next to the pasta"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How will Nam pay?",
+      "options": [
+        "With his phone",
+        "By card",
+        "With cash"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam asks if he can pay by card.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "can I pay by card?"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How much does Nam pay altogether?",
+      "options": [
+        "Fourteen pounds",
+        "Two pounds forty",
+        "Twelve pounds forty"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says it is twelve pounds forty.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "That's twelve pounds forty."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What kind of bag does Nam want?",
+      "options": [
+        "A big bag",
+        "No bag",
+        "A small bag"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam says yes, please, a big one.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "Yes, please, a big one."
+        }
+      ]
+    }
+  ]
+}

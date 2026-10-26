@@ -1,0 +1,613 @@
+{
+  "id": "l-a2-moving-to-a-new-city",
+  "title": "Moving to a New City",
+  "level": "A2 · Elementary",
+  "description": "Four recordings about moving to a new city: two friends, a call to a flat agent, a city tour and a message from a sister.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Big news",
+      "intro": "You will hear two friends, Peter and Mai, talking about a move.",
+      "speakers": {
+        "Peter": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Peter",
+          "text": "Hi, Mai! You look happy today. What's the news?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Mai",
+          "text": "I got a job in Manchester! I start in September, so I'm moving there next month."
+        },
+        {
+          "id": "s3",
+          "speaker": "Peter",
+          "text": "That's fantastic! But it's a long way. How will you get there?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Mai",
+          "text": "By train. It takes about two hours from here. I thought about driving, but I don't have a car, and the parking there is expensive."
+        },
+        {
+          "id": "s5",
+          "speaker": "Peter",
+          "text": "What will you do with all your things?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Mai",
+          "text": "I'm going to give away most of my books and clothes. My new flat is small, so I can only take two suitcases and a few boxes."
+        },
+        {
+          "id": "s7",
+          "speaker": "Peter",
+          "text": "I can help you carry them, if you like. I have a free weekend."
+        },
+        {
+          "id": "s8",
+          "speaker": "Mai",
+          "text": "Oh, thank you, Peter! That's kind. But I'm a little nervous. I don't know anybody in Manchester."
+        },
+        {
+          "id": "s9",
+          "speaker": "Peter",
+          "text": "Don't worry. You are very friendly, and you'll make friends quickly. And I'll visit you at Christmas."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mai",
+          "text": "I'd love that. Now, let's have a coffee. My treat!"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Finding a flat",
+      "intro": "You will hear Nam phoning an agent, Ms Clark, about a flat.",
+      "speakers": {
+        "Nam": "male",
+        "Ms Clark": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Ms Clark",
+          "text": "Good morning, Clark Homes. How can I help?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Nam",
+          "text": "Hello. I'm moving to the city next month, and I'm looking for a flat. I saw one on your website with two bedrooms."
+        },
+        {
+          "id": "s13",
+          "speaker": "Ms Clark",
+          "text": "Yes, that's on Park Street. It's very nice, with a small balcony. The rent is six hundred pounds a month."
+        },
+        {
+          "id": "s14",
+          "speaker": "Nam",
+          "text": "That's a little high for me. I'll share it with a friend, so we'll pay three hundred each. Is it near a bus stop?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Ms Clark",
+          "text": "Yes, the bus stop is just two minutes away, and the supermarket is across the road."
+        },
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "Perfect. Are pets allowed? I have a small cat."
+        },
+        {
+          "id": "s17",
+          "speaker": "Ms Clark",
+          "text": "I'm afraid not. The owner doesn't like animals. But there's another flat on River Road where cats are fine."
+        },
+        {
+          "id": "s18",
+          "speaker": "Nam",
+          "text": "Hmm, I'd like to see both. Can we visit on Thursday afternoon?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Ms Clark",
+          "text": "Of course. Let's say three o'clock. Please bring your passport and your job letter."
+        },
+        {
+          "id": "s20",
+          "speaker": "Nam",
+          "text": "I will. Thank you, Ms Clark. See you on Thursday."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A city tour",
+      "intro": "You will hear a guide welcoming new students to a city tour.",
+      "speakers": {
+        "Guide": "female"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Guide",
+          "text": "Welcome to the city, everybody! My name is Sophie, and I am going to show you the most important places."
+        },
+        {
+          "id": "s22",
+          "speaker": "Guide",
+          "text": "First, on your left, you can see the library. It's free to join, and it's open every day until nine o'clock at night."
+        },
+        {
+          "id": "s23",
+          "speaker": "Guide",
+          "text": "Next, we are going to walk to the market square. There is a fruit and vegetable market there on Wednesdays and Saturdays. The food is fresh and cheaper than in the supermarket."
+        },
+        {
+          "id": "s24",
+          "speaker": "Guide",
+          "text": "If you feel lonely, join a club! There is a chess club, a dance group and a walking club. Most of them meet on weekday evenings."
+        },
+        {
+          "id": "s25",
+          "speaker": "Guide",
+          "text": "Now, a small warning. The weather here changes quickly. It can be sunny in the morning and rainy by lunchtime, so always carry an umbrella."
+        },
+        {
+          "id": "s26",
+          "speaker": "Guide",
+          "text": "Finally, our tour ends at the café by the river. The first drink is on me. Please follow me!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A message from home",
+      "intro": "You will hear Linh leaving a message for her brother, who has moved to a new city.",
+      "speakers": {
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Linh",
+          "text": "Hi, Minh! It's Linh. How is your new life? Mum and Dad ask about you every day."
+        },
+        {
+          "id": "s28",
+          "speaker": "Linh",
+          "text": "I know you're busy with your new job, so I'll be quick. First, Mum wants you to phone her on Sunday. She says she doesn't want to worry, but she does!"
+        },
+        {
+          "id": "s29",
+          "speaker": "Linh",
+          "text": "Second, I found your old camera under my bed. Do you want me to send it? It's very easy to post, and you can take photos of the city."
+        },
+        {
+          "id": "s30",
+          "speaker": "Linh",
+          "text": "Third, we want to visit you in the spring. Dad says the weather will be warmer in April, so that's better than March."
+        },
+        {
+          "id": "s31",
+          "speaker": "Linh",
+          "text": "Don't forget to eat well, OK? I know you are not good at cooking. Try making rice with eggs. It's cheap and easy!"
+        },
+        {
+          "id": "s32",
+          "speaker": "Linh",
+          "text": "Anyway, I miss you a lot. Call me when you have time. Bye for now!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is Mai's news?",
+      "options": [
+        "She is going on holiday.",
+        "She is buying a car.",
+        "She is moving for a new job."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She got a job in Manchester and is moving there.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I got a job in Manchester!"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How will Mai travel to the new city?",
+      "options": [
+        "By bus",
+        "By car",
+        "By train"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She will go by train. She thought about driving but has no car.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "By train."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Mai do with most of her books and clothes?",
+      "options": [
+        "Take them with her",
+        "Sell them",
+        "Give them away"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she will give away most of her books and clothes.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I'm going to give away most of my books and clothes."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Mai feel about the move?",
+      "options": [
+        "Bored",
+        "A little nervous",
+        "Very angry"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she is a little nervous because she knows nobody there.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "I'm a little nervous."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When will Peter visit Mai?",
+      "options": [
+        "In September",
+        "At Christmas",
+        "Next weekend"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he will visit her at Christmas. Next weekend is when he can help carry things.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I'll visit you at Christmas."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does the flat on Park Street have?",
+      "options": [
+        "A garden",
+        "A small balcony",
+        "A swimming pool"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ms Clark says it has a small balcony.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "It's very nice, with a small balcony."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much will Nam pay each month if he shares?",
+      "options": [
+        "Two hundred pounds",
+        "Six hundred pounds",
+        "Three hundred pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The rent is six hundred, so each person pays three hundred.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "we'll pay three hundred each"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How far is the bus stop?",
+      "options": [
+        "Across the road",
+        "Two minutes away",
+        "Ten minutes away"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The bus stop is two minutes away. The supermarket is across the road.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "the bus stop is just two minutes away"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Nam ask about the flat on River Road?",
+      "options": [
+        "It is cheaper.",
+        "It is bigger.",
+        "Cats are fine there."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The Park Street owner does not allow pets, but cats are fine on River Road.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "there's another flat on River Road where cats are fine"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What should Nam bring on Thursday?",
+      "options": [
+        "His cat",
+        "His passport and job letter",
+        "Some money"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ms Clark asks him to bring his passport and his job letter.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Please bring your passport and your job letter."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "Who is the guide talking to?",
+      "options": [
+        "Tourists on holiday",
+        "New people in the city",
+        "City workers"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She welcomes new students and shows them the important places.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Welcome to the city, everybody!"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Until what time is the library open?",
+      "options": [
+        "Until nine o'clock",
+        "Until eight o'clock",
+        "Until six o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is open every day until nine o'clock at night.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "open every day until nine o'clock at night"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "On which days is the market open?",
+      "options": [
+        "Every day",
+        "Wednesdays and Saturdays",
+        "Mondays and Fridays"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There is a market on Wednesdays and Saturdays.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "on Wednesdays and Saturdays"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does the guide mention the clubs?",
+      "options": [
+        "To help people who feel lonely",
+        "To sell tickets",
+        "To talk about her job"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says that if you feel lonely, you can join a club.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "If you feel lonely, join a club!"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why should people carry an umbrella?",
+      "options": [
+        "The sun is very strong.",
+        "The weather changes quickly.",
+        "The city is always rainy."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The weather changes quickly, so an umbrella is useful.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "The weather here changes quickly."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Linh call?",
+      "options": [
+        "To ask about her brother's new life",
+        "To say goodbye forever",
+        "To tell him about her job"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She asks how his new life is and gives him family news.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "How is your new life?"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does Mum want Minh to do on Sunday?",
+      "options": [
+        "Send a letter",
+        "Visit home",
+        "Phone her"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum wants Minh to phone her on Sunday.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "Mum wants you to phone her on Sunday."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where did Linh find the old camera?",
+      "options": [
+        "In the kitchen",
+        "In the car",
+        "Under her bed"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She found it under her bed.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "under my bed"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When will the family visit?",
+      "options": [
+        "In March",
+        "At Christmas",
+        "In April"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dad says April will be warmer than March, so they will visit in April.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "the weather will be warmer in April"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Linh think about Minh's cooking?",
+      "options": [
+        "He is not good at it.",
+        "He is a great cook.",
+        "He cooks every day."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says he is not good at cooking and suggests an easy dish.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "I know you are not good at cooking."
+        }
+      ]
+    }
+  ]
+}

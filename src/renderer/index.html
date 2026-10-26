@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'" />
-  <title>English Reading &amp; Writing Test</title>
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; media-src 'self' blob:" />
+  <title>English Reading, Writing &amp; Listening Test</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -11,7 +11,7 @@
     <!-- Left: exam list -->
     <aside class="sidebar">
       <div class="sidebar-header">
-        <h1>English Reading &amp; Writing</h1>
+        <h1>English Reading, Writing &amp; Listening</h1>
         <p class="muted">Choose a skill, a level and an exam</p>
         <div class="app-actions">
           <button id="btn-update" class="btn btn-secondary btn-small" title="Download new exams from the internet">⟳ Update exams</button>
@@ -21,6 +21,7 @@
         <div class="skill-toggle" role="radiogroup" aria-label="Skill">
           <button class="skill-btn active" data-skill="reading" role="radio" aria-checked="true">Reading</button>
           <button class="skill-btn" data-skill="writing" role="radio" aria-checked="false">Writing</button>
+          <button class="skill-btn" data-skill="listening" role="radio" aria-checked="false">Listening</button>
         </div>
         <label class="level-filter">
           <span>Level</span>
@@ -87,6 +88,11 @@
               <h3>Part 2 · Writing task</h3>
               <div id="task"></div>
             </section>
+          </div>
+
+          <div id="listening-body" hidden>
+            <p id="listening-rule" class="listening-rule"></p>
+            <div id="listening-parts"></div>
           </div>
 
           <footer class="submit-bar">
@@ -190,6 +196,7 @@
 
   <script src="dictionary.js"></script>
   <script src="writing.js"></script>
+  <script src="listening.js"></script>
   <script src="renderer.js"></script>
 </body>
 </html>

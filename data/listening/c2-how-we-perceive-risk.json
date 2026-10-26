@@ -1,0 +1,638 @@
+{
+  "id": "l-c2-how-we-perceive-risk",
+  "title": "How We Perceive Risk",
+  "level": "C2 · Proficiency",
+  "description": "A public talk and discussion about why our fears and the numbers disagree, how to communicate risk and what society should do about it.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Fear and the numbers",
+      "intro": "You will hear a psychologist, Dr Okoye, beginning a public talk about risk.",
+      "speakers": {
+        "Dr Okoye": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Dr Okoye",
+          "text": "Imagine two headlines. One says that a plane has crashed, killing a hundred and fifty people. The other, a mere paragraph on page nine, says that road accidents killed about the same number in your country this week, as they do every week."
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Okoye",
+          "text": "Which one frightens you? Almost everybody says the first, and almost everybody is, statistically speaking, wrong to be more afraid of it. Today I want to explain why our sense of risk and the numbers so often part company."
+        },
+        {
+          "id": "s3",
+          "speaker": "Dr Okoye",
+          "text": "Researchers who studied this in the nineteen-seventies and eighties found that people judge risk along two main dimensions. The first is dread: how catastrophic, uncontrollable and terrifying the harm feels. The second is the unknown: how new, invisible and poorly understood the hazard is."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Okoye",
+          "text": "Nuclear power scores high on both, so it frightens us. Bicycles score low on both, so we pedal off cheerfully, even though cycling on busy roads injures far more people. Notice that neither dimension has anything to do with how many people actually get hurt."
+        },
+        {
+          "id": "s5",
+          "speaker": "Dr Okoye",
+          "text": "Another factor is control. We accept enormous risks when we feel we are in command. Most drivers rate themselves above average, which, as I'm sure you've worked out, cannot be true for all of them. Hand the same person the passenger seat, and their anxiety rises, though the risk has not changed at all."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Okoye",
+          "text": "And then there is availability. We estimate how likely something is by how easily examples come to mind. Dramatic events are vivid, and vivid events are remembered, so they seem frequent."
+        },
+        {
+          "id": "s7",
+          "speaker": "Dr Okoye",
+          "text": "I want to be clear that none of this makes us stupid. These shortcuts evolved in a world of immediate, visible dangers, where they served us well. The trouble is that we now live among slow, statistical hazards, such as heart disease, that never make a dramatic headline."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Questions from the audience",
+      "intro": "You will hear a member of the audience, Nam, asking Dr Okoye some questions.",
+      "speakers": {
+        "Nam": "male",
+        "Dr Okoye": "female"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "Dr Okoye, you said the shortcuts served us well. Doesn't that mean we should simply trust our gut about danger?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Dr Okoye",
+          "text": "For a lion in the grass, yes. For a mortgage, a vaccine or a pension, no. The gut is a superb instrument for the first kind of problem and a poor one for the second. The skill is knowing which kind of problem you face."
+        },
+        {
+          "id": "s10",
+          "speaker": "Nam",
+          "text": "How do we do that?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Dr Okoye",
+          "text": "A useful habit is to ask what the denominator is. If someone says a food doubles your chance of a disease, ask, doubles from what? If the chance was one in ten thousand, it becomes two in ten thousand. That's a big relative change and a tiny absolute one, yet the headline writes itself."
+        },
+        {
+          "id": "s12",
+          "speaker": "Nam",
+          "text": "That feels like a trick."
+        },
+        {
+          "id": "s13",
+          "speaker": "Dr Okoye",
+          "text": "It isn't always deliberate. Relative risk is simply more dramatic, so it travels. But the effect on readers is the same. People either panic or, after hearing enough alarms, stop listening altogether."
+        },
+        {
+          "id": "s14",
+          "speaker": "Nam",
+          "text": "Isn't that the bigger danger? Alarm fatigue?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Dr Okoye",
+          "text": "I think so, yes. If every warning is shouted, people can't tell the serious ones apart. During public health emergencies, I've seen messages lose credibility not because they were wrong but because they were exaggerated at the start."
+        },
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "So honesty about uncertainty is better than a confident simple message?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Dr Okoye",
+          "text": "Counterintuitively, yes. Studies suggest that admitting what isn't known builds trust, provided you also say clearly what people should do now. Uncertainty plus a plan works. Uncertainty alone doesn't."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A puzzle about screening",
+      "intro": "You will hear a lecturer, Dr Keane, describing an experiment about medical tests.",
+      "speakers": {
+        "Dr Keane": "male"
+      },
+      "script": [
+        {
+          "id": "s18",
+          "speaker": "Dr Keane",
+          "text": "Let me share an experiment that has humbled many a clever audience. Suppose a screening test for a disease is ninety per cent accurate. A patient tests positive. How likely is it that she really has the disease?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Dr Keane",
+          "text": "Most doctors, when first asked, say about ninety per cent. They are badly wrong. The answer depends on how common the disease is. If only one person in a hundred has it, then out of a thousand people, ten have the disease, and nine of them test positive. But of the nine hundred and ninety healthy people, a tenth, so about ninety-nine, also test positive. So among a hundred and eight positives, only nine are truly ill. That's about one in twelve."
+        },
+        {
+          "id": "s20",
+          "speaker": "Dr Keane",
+          "text": "Notice what I did. I didn't use probabilities. I used counts of people. When the same problem is presented as natural frequencies, many more people, including doctors, get it right. The difficulty lies less in our brains than in the format we're given."
+        },
+        {
+          "id": "s21",
+          "speaker": "Dr Keane",
+          "text": "Which suggests a simple reform. Anyone who communicates risk should say how many people out of a thousand, not percentages or multipliers. Pictures help too, such as a grid of a thousand faces with a few coloured in."
+        },
+        {
+          "id": "s22",
+          "speaker": "Dr Keane",
+          "text": "Now a second thought, about society. Risks are not experienced alone. A single alarming story can be amplified through the media and conversation until a modest hazard seems enormous, a process researchers call social amplification. And it can work in reverse. A hazard that nobody talks about seems to disappear, however large it is."
+        },
+        {
+          "id": "s23",
+          "speaker": "Dr Keane",
+          "text": "Finally, a confession. I teach this material, and I still catch myself buying a lottery ticket on a Friday. Knowing the numbers does not switch off the feeling. It only gives me a second opinion."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Experts, the public and precaution",
+      "intro": "You will hear a discussion between Mr Walsh and Dr Okoye about how society should respond to risk.",
+      "speakers": {
+        "Mr Walsh": "male",
+        "Dr Okoye": "female"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Mr Walsh",
+          "text": "I'll play the sceptic. All this psychology implies that the public is irrational, and that experts should therefore decide. That's a dangerous step."
+        },
+        {
+          "id": "s25",
+          "speaker": "Dr Okoye",
+          "text": "I agree it's dangerous, and I'd never say the public is irrational. The fears people have often reflect legitimate values. Dread of catastrophe is not a mistake if you think irreversible harm deserves extra weight."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mr Walsh",
+          "text": "So an expert who says this hazard kills few people and should be ignored is missing the point."
+        },
+        {
+          "id": "s27",
+          "speaker": "Dr Okoye",
+          "text": "Often, yes. Expert estimates measure one thing, expected deaths, and ordinary people care about others as well: fairness, consent, who bears the burden. A risk imposed on you by a neighbour's factory feels different from one you choose, and it's reasonable for it to feel different."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mr Walsh",
+          "text": "Then where does the psychology help?"
+        },
+        {
+          "id": "s29",
+          "speaker": "Dr Okoye",
+          "text": "In making sure the debate rests on accurate pictures, and in spotting the cases where a vivid story distorts priorities. Consider a town that spends heavily on a rare danger, while ignoring a common one that would save far more lives."
+        },
+        {
+          "id": "s30",
+          "speaker": "Mr Walsh",
+          "text": "Fair. But I'd add that over-protection has costs. Parents who never let children out of sight to avoid a very rare harm may raise anxious adults with less confidence."
+        },
+        {
+          "id": "s31",
+          "speaker": "Dr Okoye",
+          "text": "Indeed. Safety isn't free. Every precaution moves risk somewhere else, or trades it for a different cost. The sensible question is never, is this safe, but, compared with what?"
+        },
+        {
+          "id": "s32",
+          "speaker": "Mr Walsh",
+          "text": "Compared with what. I might put that on a poster."
+        },
+        {
+          "id": "s33",
+          "speaker": "Dr Okoye",
+          "text": "Please do. Though remember to check the denominator."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the main point of the opening of the talk?",
+      "options": [
+        "Newspapers should stop reporting disasters because they frighten readers needlessly",
+        "Plane crashes kill far more people each year than road accidents do",
+        "People who are afraid of flying should learn to trust the statistics",
+        "People's sense of risk differs from the statistics for systematic reasons"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says almost everyone fears the plane crash more, though road deaths are similar, and she promises to explain why perception and numbers part company.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "why our sense of risk and the numbers so often part company"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which two dimensions do people use to judge risk?",
+      "options": [
+        "How new it is and how many people it affects",
+        "How common it is and how costly it is",
+        "How visible it is and how easy it is to avoid",
+        "How dreadful it feels and how unknown it is"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Researchers found that people judge risk by dread and by the unknown.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "The first is dread"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why do people feel relaxed about cycling, according to the talk?",
+      "options": [
+        "It is statistically safer than nuclear power, as the numbers clearly show",
+        "It is controlled by strict regulations, unlike other forms of transport",
+        "It is the most popular form of transport, so people feel at ease",
+        "It scores low on dread and unfamiliarity, despite causing many injuries"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Bicycles score low on both dimensions, so they do not frighten us, even though cycling injures far more people.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Bicycles score low on both, so we pedal off cheerfully"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does the speaker mention that most drivers rate themselves above average?",
+      "options": [
+        "To show that people overestimate how much control they have",
+        "To explain why road accidents are rare among confident drivers",
+        "To suggest that passengers face less risk than the drivers do",
+        "To prove that drivers are dangerous and should lose their licences"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She uses it to illustrate that feeling in command makes us accept risks, although it cannot be true for all drivers.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Most drivers rate themselves above average"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is the speaker's attitude to our mental shortcuts about risk?",
+      "options": [
+        "They were useful once but suit modern hazards badly",
+        "They should be trained out of everyone as soon as possible",
+        "They are more accurate than statistics for slow modern hazards",
+        "They show that ordinary people are foolish about danger"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says they do not make us stupid and served us well in a world of visible dangers, but do not suit slow statistical hazards.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "none of this makes us stupid"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is Dr Okoye's answer to the question about trusting your gut?",
+      "options": [
+        "It depends on whether the danger is immediate or the decision complex",
+        "It can be trusted only once an expert has checked the facts",
+        "You should never trust it, because it evolved for different dangers",
+        "You should always trust it, because it served our ancestors well"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the gut is superb for a lion in the grass but poor for a mortgage, a vaccine or a pension.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "The gut is a superb instrument for the first kind of problem and a poor one for the second."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What point does Dr Okoye make about doubling a chance of disease?",
+      "options": [
+        "Absolute risk is much harder for researchers to calculate than relative risk",
+        "Headlines should avoid mentioning disease because readers panic too easily",
+        "A big relative change can be tiny in absolute terms",
+        "Doubling a risk always makes it dangerous, whatever the starting point"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says one in ten thousand becoming two in ten thousand is a big relative change but a tiny absolute one.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "a big relative change and a tiny absolute one"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why do headlines so often use relative risk, according to Dr Okoye?",
+      "options": [
+        "Experts insist on it because it is the standard measure",
+        "It is simpler to calculate, and so quicker to report",
+        "It is always the more accurate figure, so readers prefer it",
+        "It is more dramatic, though not always meant to mislead"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says it is not always deliberate, relative risk is simply more dramatic, so it travels.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Relative risk is simply more dramatic, so it travels."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why did some public health messages lose credibility?",
+      "options": [
+        "They were exaggerated at the start",
+        "They were wrong about the facts",
+        "They were too complicated",
+        "They were not repeated often enough"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says messages lost credibility not because they were wrong but because they were exaggerated at the start.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "exaggerated at the start"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Dr Okoye say that uncertainty plus a plan works?",
+      "options": [
+        "To show that plans are more important than facts",
+        "To suggest that simple messages are always better",
+        "To argue that officials should hide what they do not know",
+        "To explain how honest communication can still build trust"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says that admitting what is not known builds trust provided people are also told clearly what to do now.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "admitting what isn't known builds trust"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "In the example, how likely is it that a person with a positive result is really ill?",
+      "options": [
+        "About one in twelve",
+        "About one in two",
+        "About nine in ten",
+        "About one in a hundred"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Of a hundred and eight positive results, only nine are truly ill, which is about one in twelve.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "only nine are truly ill"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Dr Keane conclude about why people get the problem wrong?",
+      "options": [
+        "Doctors are poorly trained in statistics and probability theory",
+        "The test itself is unreliable and gives too many false results",
+        "Most people cannot do arithmetic of any kind under pressure",
+        "The way the information is presented is partly to blame"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says that natural frequencies help many people get it right, so the difficulty lies in the format, not in our brains.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "The difficulty lies less in our brains than in the format we're given."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Dr Keane recommend using numbers out of a thousand and pictures?",
+      "options": [
+        "To avoid frightening patients who hear a positive result",
+        "To reduce the cost of medical tests for hospitals",
+        "To make risks easier for people to understand",
+        "To make risks sound smaller than they really are"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He suggests a reform in how risk is communicated, because counts of people and pictures are easier to grasp.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Anyone who communicates risk should say how many people out of a thousand"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does social amplification show about risk?",
+      "options": [
+        "Risks can seem bigger or smaller depending on how much they are discussed",
+        "The media reports only real dangers, so coverage reflects the actual risk",
+        "Risks are always larger than the experts say, whatever the media does",
+        "Public fear always disappears quickly once the facts are explained"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He explains that an alarming story can make a modest hazard seem enormous, and a hazard nobody mentions seems to vanish.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "A hazard that nobody talks about seems to disappear, however large it is."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "Why does Dr Keane mention buying lottery tickets?",
+      "options": [
+        "To admit that knowing the numbers does not remove the feeling",
+        "To criticise the companies that sell lottery tickets to everyone",
+        "To suggest that most people gamble even when they know the odds",
+        "To show that lotteries are fair, provided you understand the numbers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He confesses that he still buys tickets, and says knowing the numbers only gives him a second opinion.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "Knowing the numbers does not switch off the feeling."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Mr Walsh's initial concern?",
+      "options": [
+        "The public often knows more than the experts about risk",
+        "Calling the public irrational could justify letting experts decide",
+        "Psychology is not a real science and proves very little",
+        "Experts rarely agree on estimates, so nobody should decide"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says the psychology implies the public is irrational, so experts should decide, and calls that a dangerous step.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "That's a dangerous step."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Dr Okoye imply about people's dread of catastrophe?",
+      "options": [
+        "It should be ignored in policy because it is so subjective",
+        "It is stronger in experts than in the public at large",
+        "It is always a sign of poor reasoning about numbers",
+        "It can reflect reasonable values, not simply a mistake"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says dread of catastrophe is not a mistake if you think irreversible harm deserves extra weight.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "Dread of catastrophe is not a mistake"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "According to Dr Okoye, what do ordinary people care about besides expected deaths?",
+      "options": [
+        "Cost, speed and who gets the most convenience",
+        "Fairness, consent and who bears the burden",
+        "Law, history and which nation is affected",
+        "Popularity, tradition and who sets the fashion"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She lists fairness, consent and who bears the burden as things ordinary people care about.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "fairness, consent, who bears the burden"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Mr Walsh suggest about over-protecting children?",
+      "options": [
+        "It prevents anxiety later in life by keeping children close",
+        "It is the best way to avoid very rare harms",
+        "It is only a problem for the parents themselves",
+        "It can have costs, such as less confident adults"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says parents who avoid a very rare harm may raise anxious adults with less confidence.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "over-protection has costs"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Dr Okoye say the question should be compared with what?",
+      "options": [
+        "Because comparisons are easy for the public to understand",
+        "Because experts should decide which hazards matter to people",
+        "Because every precaution replaces one risk or cost with another",
+        "Because safety is impossible to measure in any useful way"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She explains that safety is not free, as each precaution moves risk elsewhere or trades it for another cost.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "Every precaution moves risk somewhere else"
+        }
+      ]
+    }
+  ]
+}

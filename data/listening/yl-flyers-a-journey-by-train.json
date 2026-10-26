@@ -1,0 +1,594 @@
+{
+  "id": "l-yl-f-a-journey-by-train",
+  "title": "A Journey by Train",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about a train journey: planning, a station desk, a message and a station announcement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Planning the journey",
+      "intro": "You will hear Nam and his aunt talking about a train journey.",
+      "speakers": {
+        "Nam": "male",
+        "Aunt Lisa": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Aunt Lisa",
+          "text": "Nam, are you ready for your first long train journey on your own?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "Yes, I think so. I'm going to Hue to see my cousins. How long does it take?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Aunt Lisa",
+          "text": "About six hours. The train leaves at ten past nine and arrives at ten past three."
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "That's a long time. I'll take my book and some cards."
+        },
+        {
+          "id": "s5",
+          "speaker": "Aunt Lisa",
+          "text": "Good. I'll pack sandwiches and a bottle of water. You can also buy hot food on the train, but it's expensive."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "Where will I sit?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Aunt Lisa",
+          "text": "In coach four, seat twelve, next to the window. A kind lady called Mrs Ho will sit near you. She'll look after you."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "Great! I'll phone you when I arrive."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · At the station",
+      "intro": "You will hear a woman buying a ticket at the station.",
+      "speakers": {
+        "Passenger": "female",
+        "Clerk": "male"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Clerk",
+          "text": "Good morning. Where would you like to go?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Passenger",
+          "text": "Two return tickets to Oxford, please. One adult and one child."
+        },
+        {
+          "id": "s11",
+          "speaker": "Clerk",
+          "text": "When are you travelling?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Passenger",
+          "text": "This Saturday, coming back on Sunday evening."
+        },
+        {
+          "id": "s13",
+          "speaker": "Clerk",
+          "text": "The adult ticket is twenty-four pounds and the child ticket is twelve pounds."
+        },
+        {
+          "id": "s14",
+          "speaker": "Passenger",
+          "text": "That's thirty-six pounds altogether. Is there a cheaper ticket?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Clerk",
+          "text": "Yes, with a family card, you save a third. Do you have one?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Passenger",
+          "text": "I'm afraid not. I'll pay the full price. Which platform does the train leave from?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Clerk",
+          "text": "Platform three, at eleven fifteen. You'd better hurry. It's ten past eleven now!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A message about a delay",
+      "intro": "You will hear Nam's uncle leaving a message about a delayed train.",
+      "speakers": {
+        "Uncle Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s18",
+          "speaker": "Uncle Tom",
+          "text": "Hello, Nam. It's Uncle Tom. I'm at the station, and I have some bad news. Your train is late."
+        },
+        {
+          "id": "s19",
+          "speaker": "Uncle Tom",
+          "text": "There was a problem with the signals, so the train will arrive at four o'clock instead of three. Don't worry, it's safe."
+        },
+        {
+          "id": "s20",
+          "speaker": "Uncle Tom",
+          "text": "I'll wait for you on the platform. If I'm not there, I'll be in the station café, near the flower shop."
+        },
+        {
+          "id": "s21",
+          "speaker": "Uncle Tom",
+          "text": "Please stay on the train until it stops completely, and keep your bag close to you."
+        },
+        {
+          "id": "s22",
+          "speaker": "Uncle Tom",
+          "text": "When we get home, we'll have a big dinner. Your cousins are very excited to see you. See you soon!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A station announcement",
+      "intro": "You will hear an announcement at a railway station.",
+      "speakers": {
+        "Announcer": "female"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Announcer",
+          "text": "Attention, please. This is an announcement for passengers at Central Station."
+        },
+        {
+          "id": "s24",
+          "speaker": "Announcer",
+          "text": "The ten forty train to the coast is delayed by twenty minutes. It will now leave from platform six, not platform two."
+        },
+        {
+          "id": "s25",
+          "speaker": "Announcer",
+          "text": "Passengers for the capital should go to platform four. That train will leave on time at eleven o'clock."
+        },
+        {
+          "id": "s26",
+          "speaker": "Announcer",
+          "text": "Please keep your bags with you at all times. If you see a bag without an owner, tell a member of staff."
+        },
+        {
+          "id": "s27",
+          "speaker": "Announcer",
+          "text": "The café on platform one is closed today for repairs, but you can buy drinks from the machine near the main entrance."
+        },
+        {
+          "id": "s28",
+          "speaker": "Announcer",
+          "text": "Finally, we remind you not to run on the platforms. Thank you, and have a pleasant journey."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is Nam going?",
+      "options": [
+        "To the seaside",
+        "To Hue",
+        "To school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he's going to Hue to see his cousins.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I'm going to Hue to see my cousins."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How long is the journey?",
+      "options": [
+        "About six hours",
+        "About three hours",
+        "About nine hours"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The train leaves at nine ten and arrives at three ten.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "About six hours."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Nam take to do on the train?",
+      "options": [
+        "A music player",
+        "A tablet",
+        "A book and cards"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he'll take his book and some cards.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I'll take my book and some cards."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which seat does Nam have?",
+      "options": [
+        "Seat twelve in coach two",
+        "Seat twelve in coach four",
+        "Seat four in coach twelve"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The coach number is four and the seat is twelve.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "In coach four, seat twelve"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Who will look after Nam?",
+      "options": [
+        "Mrs Ho",
+        "His cousin",
+        "The driver"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A kind lady, Mrs Ho, will sit near him.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "She'll look after you."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How many tickets does the woman buy?",
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She buys one adult and one child ticket.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Two return tickets to Oxford, please."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When is she coming back?",
+      "options": [
+        "On Sunday evening",
+        "On Monday morning",
+        "On Saturday evening"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She travels on Saturday and returns on Sunday evening.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "coming back on Sunday evening"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much does she pay?",
+      "options": [
+        "Twenty-four pounds",
+        "Thirty-six pounds",
+        "Twelve pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The adult ticket and child ticket together cost thirty-six pounds.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "That's thirty-six pounds altogether."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why doesn't she get a cheaper ticket?",
+      "options": [
+        "The train is full.",
+        "The clerk is busy.",
+        "She hasn't got a family card."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The cheaper ticket needs a family card, and she has none.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "I'm afraid not."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which platform does the train leave from?",
+      "options": [
+        "Platform five",
+        "Platform eleven",
+        "Platform three"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Eleven fifteen is the time, platform three is the place.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "Platform three, at eleven fifteen."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Uncle Tom call?",
+      "options": [
+        "To tell Nam about a delay",
+        "To change Nam's seat",
+        "To cancel the trip"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the train is late.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Your train is late."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time will the train arrive?",
+      "options": [
+        "At three o'clock",
+        "At five o'clock",
+        "At four o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Three o'clock was the plan; it is now four.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "the train will arrive at four o'clock instead of three"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why is the train late?",
+      "options": [
+        "The driver is ill.",
+        "It is snowing.",
+        "There is a problem with the signals."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says there was a problem with the signals.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "There was a problem with the signals"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where will Uncle Tom be if he's not on the platform?",
+      "options": [
+        "In the station café",
+        "At the flower shop",
+        "In his car"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The café is near the flower shop, but he will be in the café.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I'll be in the station café, near the flower shop."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What should Nam do with his bag?",
+      "options": [
+        "Keep it close",
+        "Give it to Mrs Ho",
+        "Leave it on the seat"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Uncle Tom asks him to keep his bag close.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "keep your bag close to you"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "Where is this announcement made?",
+      "options": [
+        "At an airport",
+        "At a railway station",
+        "On a bus"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It is for passengers at Central Station.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "This is an announcement for passengers at Central Station."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How late is the train to the coast?",
+      "options": [
+        "Forty minutes",
+        "Twenty minutes",
+        "Ten minutes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ten forty is the original time; the delay is twenty minutes.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "delayed by twenty minutes"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Which platform does the train to the coast use now?",
+      "options": [
+        "Platform six",
+        "Platform four",
+        "Platform two"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Platform two was the old platform; platform four is for the capital.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "It will now leave from platform six, not platform two."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What should passengers do about a bag without an owner?",
+      "options": [
+        "Take it home",
+        "Tell a member of staff",
+        "Open it"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They must tell staff.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "tell a member of staff"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where can people buy drinks?",
+      "options": [
+        "From the train",
+        "In the café on platform one",
+        "From the machine near the main entrance"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The café on platform one is closed.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "you can buy drinks from the machine near the main entrance"
+        }
+      ]
+    }
+  ]
+}

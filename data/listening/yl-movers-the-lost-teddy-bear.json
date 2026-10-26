@@ -1,0 +1,475 @@
+{
+  "id": "l-yl-m-the-lost-teddy-bear",
+  "title": "The Lost Teddy Bear",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about a lost teddy bear: a girl and her dad, the park keeper and two friends.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Where is Teddy?",
+      "intro": "You will hear Mai talking to her dad.",
+      "speakers": {
+        "Mai": "female",
+        "Dad": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Dad, I can't find Teddy!"
+        },
+        {
+          "id": "s2",
+          "speaker": "Dad",
+          "text": "When did you last see him?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "This morning. I had him in the car. I think I left him there."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dad",
+          "text": "I looked in the car, and he isn't there. Was he in your school bag?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "No, I took him out at the park. Maybe he's on the bench."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dad",
+          "text": "Then let's go to the park. What does he look like?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "He's brown, with a small red scarf."
+        },
+        {
+          "id": "s8",
+          "speaker": "Dad",
+          "text": "Don't cry, Mai. We'll find him. Put on your coat, and I'll get the car keys."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mai",
+          "text": "Thanks, Dad. I really hope he's safe and warm."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · At the park",
+      "intro": "You will hear Mai talking to the park keeper, Mr Lee.",
+      "speakers": {
+        "Mr Lee": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Mr Lee",
+          "text": "Hello, young lady. Can I help you?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Mai",
+          "text": "I lost my teddy bear. I think I left him in the park."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Lee",
+          "text": "Hmm. Someone found a bear near the swings this morning. Is he brown?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Mai",
+          "text": "Yes! And he has a red scarf."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mr Lee",
+          "text": "Then I think it's him. A boy gave him to me. I put him in a box in my office."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "Thank you so much! He is my best friend."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mr Lee",
+          "text": "You're welcome. Please say thank you to the boy. His name is Jack."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "I'll write a card for him tonight and bring it here tomorrow."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mr Lee",
+          "text": "He'll love that. Now take your bear and go home before it gets dark."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · The next day",
+      "intro": "You will hear Mai talking to her friend Nam.",
+      "speakers": {
+        "Nam": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Nam",
+          "text": "Did you find Teddy?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "Yes! A boy found him by the swings, and the park keeper looked after him."
+        },
+        {
+          "id": "s21",
+          "speaker": "Nam",
+          "text": "That's lucky! Were you sad?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Mai",
+          "text": "Very sad. I cried a little at the park. But now I'm happy. I made a card for Jack."
+        },
+        {
+          "id": "s23",
+          "speaker": "Nam",
+          "text": "What did you draw on it?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Mai",
+          "text": "A picture of the park with a big sun."
+        },
+        {
+          "id": "s25",
+          "speaker": "Nam",
+          "text": "Nice. Maybe you should put Teddy's name inside his scarf."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mai",
+          "text": "Good idea. I'll ask Mum to sew it tonight."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is Mai's problem?",
+      "options": [
+        "She has lost her bag",
+        "She has broken a toy",
+        "She has lost her teddy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says she cannot find Teddy.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "I can't find Teddy!"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where did Mai think she left Teddy first?",
+      "options": [
+        "In her bag",
+        "At school",
+        "In the car"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai thinks she left him in the car, but Dad says he is not there.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "I think I left him there."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where did Mai take Teddy out?",
+      "options": [
+        "At the shop",
+        "At the park",
+        "At school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She took him out at the park.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "I took him out at the park."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where does Mai think Teddy might be?",
+      "options": [
+        "On a swing",
+        "On the bench",
+        "Under a tree"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai says maybe he is on the bench.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Maybe he's on the bench."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is Teddy wearing?",
+      "options": [
+        "A yellow coat",
+        "A blue hat",
+        "A red scarf"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says he has a small red scarf.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "with a small red scarf"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where was the bear found?",
+      "options": [
+        "Near the swings",
+        "In the café",
+        "Near the pond"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Lee says someone found a bear near the swings.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Someone found a bear near the swings"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who gave the bear to Mr Lee?",
+      "options": [
+        "A girl",
+        "A boy",
+        "A police officer"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Lee says a boy gave him the bear.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "A boy gave him to me."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where did Mr Lee put the bear?",
+      "options": [
+        "Behind the door",
+        "In a box",
+        "On his desk"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He put the bear in a box in his office.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "I put him in a box in my office."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Teddy mean to Mai?",
+      "options": [
+        "He is a present from Mr Lee",
+        "He is her best friend",
+        "He is a new toy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai says Teddy is her best friend.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "He is my best friend."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is the boy's name?",
+      "options": [
+        "Jim",
+        "Jack",
+        "Tim"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Lee says his name is Jack.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "His name is Jack."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Who looked after Teddy?",
+      "options": [
+        "Jack's mum",
+        "Nam",
+        "The park keeper"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says the park keeper looked after him.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "the park keeper looked after him"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How did Mai feel at the park?",
+      "options": [
+        "Angry",
+        "Bored",
+        "Sad"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She was very sad and cried a little.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "Very sad."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did Mai make for Jack?",
+      "options": [
+        "A toy",
+        "A card",
+        "A cake"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She made a card for Jack.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I made a card for Jack."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did Mai draw?",
+      "options": [
+        "Her teddy",
+        "The park with a big sun",
+        "Jack"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She drew a picture of the park with a big sun.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "A picture of the park with a big sun."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will Mum do tonight?",
+      "options": [
+        "Buy a new teddy",
+        "Wash the teddy",
+        "Sew Teddy's name in his scarf"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai will ask Mum to sew the name tonight.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I'll ask Mum to sew it tonight."
+        }
+      ]
+    }
+  ]
+}

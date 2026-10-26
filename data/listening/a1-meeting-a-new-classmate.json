@@ -1,0 +1,603 @@
+{
+  "id": "l-a1-meeting-a-new-classmate",
+  "title": "Meeting a New Classmate",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about a new classmate: a first meeting, a class introduction, a phone message and lunchtime.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A first meeting",
+      "intro": "You will hear a new student, Khoa, meeting Anna on his first day.",
+      "speakers": {
+        "Khoa": "male",
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Anna",
+          "text": "Hello! Are you the new student? I'm Anna."
+        },
+        {
+          "id": "s2",
+          "speaker": "Khoa",
+          "text": "Yes, I am. My name is Khoa. Nice to meet you."
+        },
+        {
+          "id": "s3",
+          "speaker": "Anna",
+          "text": "Nice to meet you, too. Where are you from, Khoa?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Khoa",
+          "text": "I'm from Da Nang, in Vietnam. But now I live here, near the library."
+        },
+        {
+          "id": "s5",
+          "speaker": "Anna",
+          "text": "Oh, that's close to my house! How old are you?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Khoa",
+          "text": "I'm twelve. My birthday is in June. And you?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Anna",
+          "text": "I'm twelve, too. My birthday is in March. Do you like sport?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Khoa",
+          "text": "Yes, I love basketball. I play every Saturday."
+        },
+        {
+          "id": "s9",
+          "speaker": "Anna",
+          "text": "Great! I like swimming. Come on, I'll show you the classroom."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A class introduction",
+      "intro": "You will hear a teacher, Mrs Hart, introducing a new girl to the class.",
+      "speakers": {
+        "Mrs Hart": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Mrs Hart",
+          "text": "Good morning, class. Today we have a new classmate. Her name is Maria."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Hart",
+          "text": "Maria is from Spain. She speaks Spanish and a little English, so please speak slowly."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mrs Hart",
+          "text": "She has got a younger brother. He is in Class Two, down the corridor."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mrs Hart",
+          "text": "Maria likes drawing and music. She plays the guitar. Maybe she can play for us on Friday."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mrs Hart",
+          "text": "Maria, please sit next to Tom, by the window. Tom, please be kind and help her with the books."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mrs Hart",
+          "text": "Now, everyone, open your books at page ten."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone message",
+      "intro": "You will hear Tom leaving a message for his friend Khoa.",
+      "speakers": {
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Tom",
+          "text": "Hi, Khoa. It's Tom from school. Mrs Hart gave me your number."
+        },
+        {
+          "id": "s17",
+          "speaker": "Tom",
+          "text": "I want to say welcome to our class. I hope you like it here."
+        },
+        {
+          "id": "s18",
+          "speaker": "Tom",
+          "text": "The school football team practises on Wednesday after school. Do you want to come?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Tom",
+          "text": "We meet at the gym at four o'clock. You don't need special shoes. Just wear your trainers."
+        },
+        {
+          "id": "s20",
+          "speaker": "Tom",
+          "text": "Maybe we can walk to school together tomorrow. I live on Green Street. I'll wait at the bus stop at half past seven."
+        },
+        {
+          "id": "s21",
+          "speaker": "Tom",
+          "text": "Call me back if you're free. Bye!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · At lunchtime",
+      "intro": "You will hear Khoa and Maria talking at lunch.",
+      "speakers": {
+        "Khoa": "male",
+        "Maria": "female"
+      },
+      "script": [
+        {
+          "id": "s22",
+          "speaker": "Khoa",
+          "text": "Hi, Maria. Can I sit here?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Maria",
+          "text": "Of course, Khoa. I'm new too, so I don't know many people."
+        },
+        {
+          "id": "s24",
+          "speaker": "Khoa",
+          "text": "Me neither. What's your favourite subject?"
+        },
+        {
+          "id": "s25",
+          "speaker": "Maria",
+          "text": "I like art. I don't like maths. It's difficult for me."
+        },
+        {
+          "id": "s26",
+          "speaker": "Khoa",
+          "text": "I like maths! I can help you, if you want."
+        },
+        {
+          "id": "s27",
+          "speaker": "Maria",
+          "text": "That's very kind. Thank you. What's in your lunch box?"
+        },
+        {
+          "id": "s28",
+          "speaker": "Khoa",
+          "text": "Rice, chicken and an apple. My mum made it. What about you?"
+        },
+        {
+          "id": "s29",
+          "speaker": "Maria",
+          "text": "I have a cheese sandwich and some grapes. Would you like some?"
+        },
+        {
+          "id": "s30",
+          "speaker": "Khoa",
+          "text": "Yes, please. Thank you. We are friends now!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What are Khoa and Anna doing?",
+      "options": [
+        "Doing homework",
+        "Meeting for the first time",
+        "Playing basketball"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Anna meets the new student, Khoa, and they introduce themselves.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "Are you the new student?"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is Khoa from?",
+      "options": [
+        "Hanoi",
+        "London",
+        "Da Nang"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Khoa says he is from Da Nang. Now he lives near the library.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I'm from Da Nang"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When is Khoa's birthday?",
+      "options": [
+        "In July",
+        "In June",
+        "In March"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Khoa's birthday is in June. Anna's is in March.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "My birthday is in June"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Which sport does Khoa love?",
+      "options": [
+        "Swimming",
+        "Basketball",
+        "Football"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Khoa loves basketball. Anna likes swimming.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "I love basketball"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Anna do next?",
+      "options": [
+        "Buy Khoa a drink",
+        "Take Khoa home",
+        "Show Khoa the classroom"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she will show him the classroom.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I'll show you the classroom"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why is Mrs Hart speaking to the class?",
+      "options": [
+        "To say goodbye to a teacher",
+        "To introduce a new girl",
+        "To start a test"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She introduces the new classmate, Maria.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "we have a new classmate"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which country is Maria from?",
+      "options": [
+        "France",
+        "Italy",
+        "Spain"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Maria is from Spain.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "Maria is from Spain"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where is Maria's brother?",
+      "options": [
+        "In Class Ten",
+        "In Class Two",
+        "At home"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He is in Class Two. Page ten is the book page.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "He is in Class Two"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Maria play?",
+      "options": [
+        "The guitar",
+        "The piano",
+        "The drums"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Maria plays the guitar.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "She plays the guitar"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where will Maria sit?",
+      "options": [
+        "Next to the door",
+        "Next to Tom",
+        "In front of the teacher"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She will sit next to Tom, by the window.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "sit next to Tom"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Tom call Khoa?",
+      "options": [
+        "To ask about homework",
+        "To say he is ill",
+        "To welcome him to the class"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says welcome to the class and invites Khoa to football.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I want to say welcome to our class"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When does the football team practise?",
+      "options": [
+        "On Monday",
+        "On Wednesday",
+        "On Friday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The team practises on Wednesday after school.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "practises on Wednesday after school"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time do they meet?",
+      "options": [
+        "At half past seven",
+        "At four o'clock",
+        "At three o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They meet at the gym at four o'clock. Half past seven is for walking to school.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "We meet at the gym at four o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What should Khoa wear?",
+      "options": [
+        "Special shoes",
+        "A school jacket",
+        "Trainers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He doesn't need special shoes, just trainers.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "wear your trainers"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where will Tom wait tomorrow?",
+      "options": [
+        "At the library",
+        "At the gym",
+        "At the bus stop"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom will wait at the bus stop at half past seven.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I'll wait at the bus stop"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why doesn't Maria know many people?",
+      "options": [
+        "She is shy.",
+        "She is late.",
+        "She is new."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Maria says she is new too.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "I'm new too"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Maria's favourite subject?",
+      "options": [
+        "English",
+        "Maths",
+        "Art"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Maria likes art and does not like maths.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "I like art"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Khoa say about maths?",
+      "options": [
+        "It is difficult.",
+        "He doesn't like it.",
+        "He likes it."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Khoa likes maths and offers to help.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I like maths!"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is in Khoa's lunch box?",
+      "options": [
+        "A cheese sandwich",
+        "Grapes and cake",
+        "Rice, chicken and an apple"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Khoa has rice, chicken and an apple. The sandwich and grapes are Maria's.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "Rice, chicken and an apple"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does Maria offer Khoa?",
+      "options": [
+        "Some grapes",
+        "Her book",
+        "A drink"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She offers him some grapes.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "Would you like some?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "id": "l-a2-a-museum-tour",
+  "title": "A Museum Tour",
+  "level": "A2 · Elementary",
+  "description": "Four recordings about a visit to a museum: buying tickets, a guide's tour, a talk about the dinosaur room and a closing announcement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · At the ticket desk",
+      "intro": "You will hear a family buying tickets at a museum.",
+      "speakers": {
+        "Linh": "female",
+        "Clerk": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Clerk",
+          "text": "Good morning. Welcome to the City Museum. How many tickets would you like?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Linh",
+          "text": "Two adults and two children, please. My son is nine, and my daughter is six."
+        },
+        {
+          "id": "s3",
+          "speaker": "Clerk",
+          "text": "Children under seven are free. So that's two adults and one child. Adults are eight pounds, and the child is four pounds."
+        },
+        {
+          "id": "s4",
+          "speaker": "Linh",
+          "text": "So, that's twenty pounds altogether. Is there a tour today?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Clerk",
+          "text": "Yes, there's a guided tour at eleven o'clock. It starts in the main hall and lasts about an hour."
+        },
+        {
+          "id": "s6",
+          "speaker": "Linh",
+          "text": "Wonderful. And where can I leave our coats? It's quite warm today."
+        },
+        {
+          "id": "s7",
+          "speaker": "Clerk",
+          "text": "There are free lockers behind the shop. You need a pound coin, but you get it back."
+        },
+        {
+          "id": "s8",
+          "speaker": "Linh",
+          "text": "Thank you. Is there a place to have lunch?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Clerk",
+          "text": "Yes, the café is on the second floor. It's closed on Mondays, but it's open today."
+        },
+        {
+          "id": "s10",
+          "speaker": "Linh",
+          "text": "Great. Here is the money. Thanks for your help."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The guided tour",
+      "intro": "You will hear a guide, Mr Hill, talking to a group in the museum.",
+      "speakers": {
+        "Mr Hill": "male"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Mr Hill",
+          "text": "Good morning, everyone. My name is Mr Hill, and I'll be your guide today. Please stay together, and don't touch anything."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Hill",
+          "text": "This building is more than two hundred years old. It was first a school, and it became a museum in nineteen fifty."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mr Hill",
+          "text": "In this room, you can see old clocks. The oldest clock is from sixteen hundred, and it still works. Listen, can you hear it?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Mr Hill",
+          "text": "Next, we go upstairs to the art room. Here we have pictures of the city from many years ago. My favourite is the painting of the old bridge."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mr Hill",
+          "text": "You can take photos in this room, but please turn off the flash. It can damage the old paintings."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mr Hill",
+          "text": "After the art room, we visit the dinosaur room. That is the most popular room for children, so I'll save it for the end."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · The dinosaur room",
+      "intro": "You will hear Mr Hill and a girl called Mai in the dinosaur room.",
+      "speakers": {
+        "Mr Hill": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Mr Hill",
+          "text": "Here we are, the dinosaur room. Does anybody know how big this dinosaur was?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "I think it was as big as a bus!"
+        },
+        {
+          "id": "s19",
+          "speaker": "Mr Hill",
+          "text": "Good guess, Mai, but actually it was bigger. It was about twelve metres long, as long as two buses."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "Wow! What did it eat?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Mr Hill",
+          "text": "This one ate plants. The one over there, with the big teeth, ate meat. You can see it was dangerous."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mai",
+          "text": "I'm glad I didn't live then! Are those eggs?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Mr Hill",
+          "text": "Yes, they are. Scientists found them in the desert about thirty years ago. Each egg is as big as a football."
+        },
+        {
+          "id": "s24",
+          "speaker": "Mai",
+          "text": "That's amazing. Can I touch one?"
+        },
+        {
+          "id": "s25",
+          "speaker": "Mr Hill",
+          "text": "I'm sorry, Mai. These are real, so we can only look. But in the next room there are models that you can touch."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mai",
+          "text": "That's fine. This is the best day ever!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · An announcement",
+      "intro": "You will hear an announcement at the museum at the end of the day.",
+      "speakers": {
+        "Announcer": "female"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Announcer",
+          "text": "Good afternoon, ladies and gentlemen. The museum will close in thirty minutes, at half past five."
+        },
+        {
+          "id": "s28",
+          "speaker": "Announcer",
+          "text": "Please remember to collect your things from the lockers, and do not forget your pound coin."
+        },
+        {
+          "id": "s29",
+          "speaker": "Announcer",
+          "text": "If you want a souvenir, our shop is open until five twenty-five. This week, all postcards are half price, and there is a special book about dinosaurs for children."
+        },
+        {
+          "id": "s30",
+          "speaker": "Announcer",
+          "text": "Tomorrow, the museum has a family day. There will be free painting classes in the art room from ten until twelve. You do not need to book."
+        },
+        {
+          "id": "s31",
+          "speaker": "Announcer",
+          "text": "Thank you for visiting the City Museum. We hope to see you again soon."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much does the child pay?",
+      "options": [
+        "Eight pounds",
+        "Four pounds",
+        "Free"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her son pays four pounds. Her daughter is under seven, so she is free.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "the child is four pounds"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much do they pay altogether?",
+      "options": [
+        "Sixteen pounds",
+        "Twenty-four pounds",
+        "Twenty pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Two adults at eight pounds and one child at four pounds is twenty pounds.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "that's twenty pounds altogether"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time does the tour start?",
+      "options": [
+        "At eleven o'clock",
+        "At ten o'clock",
+        "At twelve o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The guided tour starts at eleven o'clock and lasts about an hour.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "a guided tour at eleven o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What do they need for the lockers?",
+      "options": [
+        "A ticket",
+        "A key",
+        "A pound coin"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They need a pound coin, but they get it back.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "You need a pound coin"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the café?",
+      "options": [
+        "Behind the shop",
+        "On the second floor",
+        "In the main hall"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The café is on the second floor.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "the café is on the second floor"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What was the building before it was a museum?",
+      "options": [
+        "A church",
+        "A school",
+        "A bank"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Hill says the building was first a school.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "It was first a school"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is special about the oldest clock?",
+      "options": [
+        "It is very large.",
+        "It still works.",
+        "It is made of gold."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The oldest clock still works.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "it still works"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is Mr Hill's favourite picture?",
+      "options": [
+        "A painting of the old bridge",
+        "A picture of a school",
+        "A photo of the city"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "His favourite is the painting of the old bridge.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "My favourite is the painting of the old bridge."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why must visitors turn off the flash?",
+      "options": [
+        "It disturbs other visitors.",
+        "It can damage the paintings.",
+        "It is a museum rule for children."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says the flash can damage the old paintings.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "It can damage the old paintings."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Mr Hill keep the dinosaur room for the end?",
+      "options": [
+        "It is the most popular room.",
+        "It is closed now.",
+        "It is the smallest room."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is the most popular room for children, so he saves it for the end.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "That is the most popular room for children"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How long was the big dinosaur?",
+      "options": [
+        "About twenty metres",
+        "About twelve metres",
+        "About as long as one bus"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It was about twelve metres long, as long as two buses.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "about twelve metres long"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did the dinosaur with big teeth eat?",
+      "options": [
+        "Meat",
+        "Fish",
+        "Plants"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The one with the big teeth ate meat.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "ate meat"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where did scientists find the eggs?",
+      "options": [
+        "In a forest",
+        "In the desert",
+        "In the sea"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Scientists found them in the desert about thirty years ago.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "found them in the desert"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why can't Mai touch the egg?",
+      "options": [
+        "It is real.",
+        "It is very dirty.",
+        "It is dangerous."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The eggs are real, so people can only look.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "These are real, so we can only look."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Mai feel at the end?",
+      "options": [
+        "She is happy.",
+        "She is frightened.",
+        "She is bored."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says this is the best day ever.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "This is the best day ever!"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What time does the museum close?",
+      "options": [
+        "At half past five",
+        "At five o'clock",
+        "At six o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The museum will close at half past five. The shop closes earlier, at five twenty-five.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "at half past five"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What are visitors asked to do?",
+      "options": [
+        "Return their guide books",
+        "Collect things from the lockers",
+        "Buy a ticket for tomorrow"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The announcer asks people to collect their things from the lockers.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "collect your things from the lockers"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is half price this week?",
+      "options": [
+        "Books",
+        "Postcards",
+        "Tickets"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "All postcards are half price.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "all postcards are half price"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What will happen tomorrow?",
+      "options": [
+        "There will be a family day.",
+        "The museum will be closed.",
+        "There will be a night tour."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tomorrow is a family day with free painting classes.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "the museum has a family day"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Do people need to book the painting classes?",
+      "options": [
+        "Yes, at the desk",
+        "No",
+        "Yes, by phone"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The announcer says people do not need to book.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "You do not need to book."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "id": "l-a2-sports-club-news",
+  "title": "Sports Club News",
+  "level": "A2 · Elementary",
+  "description": "Four recordings about a local sports club: a radio report, two friends, a phone message and a coach's speech.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Radio sports news",
+      "intro": "You will hear a radio presenter giving local sports news.",
+      "speakers": {
+        "Mark": "male",
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mark",
+          "text": "Good evening and welcome to Local Sports Round-up. With me today is Anna from Riverside Sports Club."
+        },
+        {
+          "id": "s2",
+          "speaker": "Anna",
+          "text": "Hello, Mark. We have some good news this week. Our girls' basketball team won the final on Saturday."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mark",
+          "text": "Congratulations! What was the score?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Anna",
+          "text": "Forty-two to thirty-eight. It was a very close game. Our best player, Hoa, scored twenty points."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mark",
+          "text": "Wonderful. And I hear the club has a new swimming teacher."
+        },
+        {
+          "id": "s6",
+          "speaker": "Anna",
+          "text": "Yes, his name is Mr Cooper. He used to teach in Australia, and the children already love him. Lessons start on Tuesday evenings at six o'clock."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mark",
+          "text": "Is the pool open to everyone?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Anna",
+          "text": "Yes, but you must become a member first. The price is ten pounds a month for adults and five for children."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mark",
+          "text": "That's a good price. Thanks, Anna, and good luck with the next match."
+        },
+        {
+          "id": "s10",
+          "speaker": "Anna",
+          "text": "Thank you, Mark. See you all at the pool!"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Two friends",
+      "intro": "You will hear Tuan and Linh talking about joining a sports club.",
+      "speakers": {
+        "Tuan": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Tuan",
+          "text": "Hi, Linh. I'm thinking about joining the sports club. Do you go there?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Linh",
+          "text": "Yes, I go every Wednesday and Friday. I play tennis. Which sport do you like?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Tuan",
+          "text": "I like running, but I'm not very fast. I'd like to try badminton, too."
+        },
+        {
+          "id": "s14",
+          "speaker": "Linh",
+          "text": "Then come on Friday. There's a beginners' badminton class at four o'clock. It's really fun."
+        },
+        {
+          "id": "s15",
+          "speaker": "Tuan",
+          "text": "Do I need my own racket?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Linh",
+          "text": "No, the club has some. But bring your own shoes, because the floor is slippery."
+        },
+        {
+          "id": "s17",
+          "speaker": "Tuan",
+          "text": "Good. Is it expensive?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Linh",
+          "text": "Not really. The first class is free, and after that it's three pounds each time."
+        },
+        {
+          "id": "s19",
+          "speaker": "Tuan",
+          "text": "That's cheap! Maybe I'll ask my brother, too. He's very tall, so he'd be good at it."
+        },
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "Great idea. Meet me outside the main door at ten to four."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone message",
+      "intro": "You will hear a voicemail message from the club secretary.",
+      "speakers": {
+        "Karen": "female"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Karen",
+          "text": "Hello, this is Karen from Riverside Sports Club. I am calling all football parents with some important news."
+        },
+        {
+          "id": "s22",
+          "speaker": "Karen",
+          "text": "The match on Saturday is moved from ten o'clock to eleven, because the field is too wet. We will play at the school field instead of the club."
+        },
+        {
+          "id": "s23",
+          "speaker": "Karen",
+          "text": "Please remember that each child needs a green shirt. If you do not have one, you can borrow one from the coach."
+        },
+        {
+          "id": "s24",
+          "speaker": "Karen",
+          "text": "We also need two parents to help with drinks. If you can help, please call me back. It's not difficult, and you can watch the match."
+        },
+        {
+          "id": "s25",
+          "speaker": "Karen",
+          "text": "Finally, after the match, the club will give a prize to the player of the year. It's a surprise, so please don't tell the children. Thank you, and see you on Saturday!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · The coach's speech",
+      "intro": "You will hear a coach talking to his team after a match.",
+      "speakers": {
+        "Coach": "male"
+      },
+      "script": [
+        {
+          "id": "s26",
+          "speaker": "Coach",
+          "text": "Well, boys and girls, we lost today, three to one. I know you're sad, but I want to say something."
+        },
+        {
+          "id": "s27",
+          "speaker": "Coach",
+          "text": "First, I'm proud of you. You ran hard for the whole game, even when it started to rain. That's what a team does."
+        },
+        {
+          "id": "s28",
+          "speaker": "Coach",
+          "text": "Second, we made some mistakes, but that's normal. Everybody makes mistakes. What's important is to learn from them."
+        },
+        {
+          "id": "s29",
+          "speaker": "Coach",
+          "text": "Our goalkeeper played very well. Without Minh, we'd have lost by seven or eight goals!"
+        },
+        {
+          "id": "s30",
+          "speaker": "Coach",
+          "text": "Next week, we play the best team in the league. Nobody expects us to win, so we have nothing to lose. Let's have fun."
+        },
+        {
+          "id": "s31",
+          "speaker": "Coach",
+          "text": "Now, go and get changed. And don't forget to say thank you to the other team. It's good manners. See you on Thursday at training!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the radio programme about?",
+      "options": [
+        "Local sports news",
+        "A famous swimmer",
+        "The weather forecast"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The programme gives sports news from a local club.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "welcome to Local Sports Round-up"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did the girls' basketball team do on Saturday?",
+      "options": [
+        "They started training.",
+        "They lost the final.",
+        "They won the final."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Anna says the team won the final on Saturday.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Our girls' basketball team won the final on Saturday."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many points did Hoa score?",
+      "options": [
+        "Twenty",
+        "Thirty-eight",
+        "Forty-two"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Hoa scored twenty points. Forty-two and thirty-eight are the team scores.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Hoa, scored twenty points"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When do the swimming lessons start?",
+      "options": [
+        "On Saturday mornings",
+        "On Tuesday evenings",
+        "On Sunday afternoons"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lessons start on Tuesday evenings at six o'clock.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "Lessons start on Tuesday evenings"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much is it for a child to be a member?",
+      "options": [
+        "Ten pounds a month",
+        "Five pounds a month",
+        "Free"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It costs ten pounds for adults and five for children.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "ten pounds a month for adults and five for children"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which sport does Linh play?",
+      "options": [
+        "Tennis",
+        "Badminton",
+        "Running"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh says she plays tennis. Tuan wants to try badminton.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I play tennis."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time is the beginners' badminton class?",
+      "options": [
+        "At four o'clock",
+        "At ten to four",
+        "At five o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The class is at four o'clock. They meet at ten to four.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "There's a beginners' badminton class at four o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What must Tuan bring?",
+      "options": [
+        "Shoes",
+        "A towel",
+        "A racket"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The club has rackets, but he must bring his own shoes.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "bring your own shoes"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much is the first class?",
+      "options": [
+        "Five pounds",
+        "Free",
+        "Three pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The first class is free, then three pounds each time.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "The first class is free"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why might Tuan's brother be good at badminton?",
+      "options": [
+        "He is very young.",
+        "He plays tennis.",
+        "He is very tall."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tuan says his brother is very tall, so he would be good at it.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "He's very tall, so he'd be good at it."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Karen leave the message?",
+      "options": [
+        "To change the plans for Saturday",
+        "To ask for money",
+        "To sell new shirts"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She tells parents that the match time and place have changed.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "The match on Saturday is moved from ten o'clock to eleven"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why is the match moved?",
+      "options": [
+        "The field is too wet.",
+        "There are not enough players.",
+        "The coach is ill."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The field is too wet.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "because the field is too wet"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where will they play?",
+      "options": [
+        "At the club",
+        "At the park",
+        "At the school field"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They will play at the school field instead of the club.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "We will play at the school field"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What can children do if they have no green shirt?",
+      "options": [
+        "Borrow one from the coach",
+        "Wear any colour",
+        "Stay at home"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They can borrow a shirt from the coach.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "you can borrow one from the coach"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is the surprise after the match?",
+      "options": [
+        "A free lunch",
+        "A prize for the player of the year",
+        "A new field"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The club will give a prize to the player of the year.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "a prize to the player of the year"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is the coach's main message?",
+      "options": [
+        "The team played badly.",
+        "The team must change players.",
+        "Mistakes are normal and the team should be proud."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he is proud and that mistakes help you learn.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "I'm proud of you."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What was the score?",
+      "options": [
+        "Three to one",
+        "Seven to one",
+        "Three to nothing"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The team lost three to one.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "we lost today, three to one"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does the coach feel about the team's effort?",
+      "options": [
+        "He is disappointed.",
+        "He is angry.",
+        "He is proud."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says: I'm proud of you.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "I'm proud of you."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does the coach mention Minh?",
+      "options": [
+        "Minh made a big mistake.",
+        "Minh played well in goal.",
+        "Minh will leave the club."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says the goalkeeper, Minh, played very well.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "Our goalkeeper played very well."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does the coach say they have nothing to lose next week?",
+      "options": [
+        "They have lost every match.",
+        "The other team is very strong, so nobody expects a win.",
+        "The game is not important."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They play the best team, and nobody expects them to win.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "Nobody expects us to win"
+        }
+      ]
+    }
+  ]
+}

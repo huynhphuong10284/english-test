@@ -1,0 +1,623 @@
+{
+  "id": "l-a2-at-the-gym",
+  "title": "At the Gym",
+  "level": "A2 · Elementary",
+  "description": "Four short recordings at a gym: joining, a trainer's talk, two members chatting and an announcement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Joining the gym",
+      "intro": "You will hear Ben talking to the receptionist, Kate, at a gym.",
+      "speakers": {
+        "Kate": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Kate",
+          "text": "Hello, welcome to Fit Zone. Are you here to join?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Ben",
+          "text": "Yes. A friend told me about this gym. How much is it?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Kate",
+          "text": "It's thirty pounds a month, or three hundred pounds for a year if you pay now."
+        },
+        {
+          "id": "s4",
+          "speaker": "Ben",
+          "text": "Hmm, I'd like to try one month first. Is there a student price?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Kate",
+          "text": "Yes, students pay twenty-five pounds a month. Do you have a student card?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Ben",
+          "text": "Yes, here it is."
+        },
+        {
+          "id": "s7",
+          "speaker": "Kate",
+          "text": "Thank you. The gym is open from six in the morning until ten at night, and we're open on Sundays too, but only until six in the evening."
+        },
+        {
+          "id": "s8",
+          "speaker": "Ben",
+          "text": "Great. Can I use the swimming pool?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Kate",
+          "text": "Of course. The pool is included, but the sauna costs two pounds extra each time."
+        },
+        {
+          "id": "s10",
+          "speaker": "Ben",
+          "text": "That's fine. I just want to swim and use the machines."
+        },
+        {
+          "id": "s11",
+          "speaker": "Kate",
+          "text": "Wonderful. Please fill in this form, and don't forget to bring a towel next time. We don't give them out."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The first session",
+      "intro": "You will hear a trainer, Alex, talking to new members.",
+      "speakers": {
+        "Alex": "male"
+      },
+      "script": [
+        {
+          "id": "s12",
+          "speaker": "Alex",
+          "text": "Hi, everybody, and welcome to your first session. My name is Alex and I'm one of the trainers here."
+        },
+        {
+          "id": "s13",
+          "speaker": "Alex",
+          "text": "Before you start, let me explain a few rules. First, always warm up for about ten minutes. You can use the running machines or the bikes. Many injuries happen because people don't warm up."
+        },
+        {
+          "id": "s14",
+          "speaker": "Alex",
+          "text": "Second, drink water often. You can fill your bottle at the machine near the door. Third, if you're not sure how to use a machine, please ask. We're always happy to help, so don't be shy."
+        },
+        {
+          "id": "s15",
+          "speaker": "Alex",
+          "text": "For beginners, I recommend training three times a week, for about forty-five minutes. Don't do too much on the first day. You will probably feel tired and have sore legs tomorrow, but that's normal."
+        },
+        {
+          "id": "s16",
+          "speaker": "Alex",
+          "text": "Please wipe the machines after you use them, and put the weights back in the right place. And finally, phones are fine for music, but please don't make calls in the gym room."
+        },
+        {
+          "id": "s17",
+          "speaker": "Alex",
+          "text": "Any questions? No? Great, let's start with the warm-up."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Two members",
+      "intro": "You will hear two gym members, Dan and Linh, talking after their workout.",
+      "speakers": {
+        "Dan": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s18",
+          "speaker": "Dan",
+          "text": "Hi, Linh! I didn't know you came to this gym."
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "Hi, Dan! I started two months ago. My doctor said I should do more exercise because I sit at a desk all day."
+        },
+        {
+          "id": "s20",
+          "speaker": "Dan",
+          "text": "Same here. I've been coming for six months. At first I hated it, but now I love it."
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "Really? I still find the machines boring. I prefer the classes."
+        },
+        {
+          "id": "s22",
+          "speaker": "Dan",
+          "text": "Which classes do you do?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "Yoga on Tuesdays and dancing on Thursdays. The dancing is so much fun, but I'm terrible at it!"
+        },
+        {
+          "id": "s24",
+          "speaker": "Dan",
+          "text": "I'd like to try yoga, but I'm not very flexible. I can't even touch my toes."
+        },
+        {
+          "id": "s25",
+          "speaker": "Linh",
+          "text": "Neither could I at first! The teacher is very patient. You should come with me next Tuesday at seven."
+        },
+        {
+          "id": "s26",
+          "speaker": "Dan",
+          "text": "OK, maybe. What time does it finish? I have football on Tuesdays at nine."
+        },
+        {
+          "id": "s27",
+          "speaker": "Linh",
+          "text": "Eight o'clock, so you have plenty of time. Do you want to get a coffee now?"
+        },
+        {
+          "id": "s28",
+          "speaker": "Dan",
+          "text": "Sorry, I can't. I must get home for dinner. How about after yoga next week?"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A gym announcement",
+      "intro": "You will hear an announcement for the members of a gym.",
+      "speakers": {
+        "Rachel": "female"
+      },
+      "script": [
+        {
+          "id": "s29",
+          "speaker": "Rachel",
+          "text": "Good evening, members of Fit Zone. Here is some news about next month."
+        },
+        {
+          "id": "s30",
+          "speaker": "Rachel",
+          "text": "First, we have a new timetable for our classes. Yoga will now be on Monday and Wednesday evenings, not Tuesday. The dance class stays on Thursday, but it will start at half past six instead of seven."
+        },
+        {
+          "id": "s31",
+          "speaker": "Rachel",
+          "text": "Second, we have a new class for people over sixty. It's called Easy Move, and it's every morning at ten. It's free for the first week."
+        },
+        {
+          "id": "s32",
+          "speaker": "Rachel",
+          "text": "Third, the swimming pool will be closed next Saturday for cleaning. It will reopen on Sunday at noon."
+        },
+        {
+          "id": "s33",
+          "speaker": "Rachel",
+          "text": "Finally, we're having a charity run in the park on the second Sunday of next month. Members can take part for free, and friends can join for five pounds. All the money will go to the children's hospital."
+        },
+        {
+          "id": "s34",
+          "speaker": "Rachel",
+          "text": "Please speak to a trainer if you'd like to join. Thank you, and enjoy your workout."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much does a student pay for one month?",
+      "options": [
+        "Twenty-five pounds",
+        "Three hundred pounds",
+        "Thirty pounds"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Students pay twenty-five pounds a month. Thirty pounds is the normal price.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "students pay twenty-five pounds a month"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why does Ben show his student card?",
+      "options": [
+        "To get the student price",
+        "To open a locker",
+        "To book the pool"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Kate asks for the card because students pay less.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Do you have a student card?"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When does the gym close on Sundays?",
+      "options": [
+        "At six in the evening",
+        "At ten at night",
+        "At six in the morning"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "On Sundays the gym is open only until six in the evening.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "only until six in the evening"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What costs extra?",
+      "options": [
+        "The machines",
+        "The sauna",
+        "The swimming pool"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The pool is included, but the sauna costs two pounds each time.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "the sauna costs two pounds extra each time"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What must Ben bring next time?",
+      "options": [
+        "A towel",
+        "A bottle of water",
+        "Swimming shorts"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Kate says to bring a towel because the gym does not give them out.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "bring a towel next time"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long should members warm up?",
+      "options": [
+        "Ten minutes",
+        "Forty-five minutes",
+        "Five minutes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Alex says to warm up for about ten minutes. Forty-five minutes is the length of a normal session.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "always warm up for about ten minutes"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where can members fill their water bottle?",
+      "options": [
+        "Near the door",
+        "At the front desk",
+        "In the changing room"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "There is a machine near the door.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "fill your bottle at the machine near the door"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How often should beginners train?",
+      "options": [
+        "Every day",
+        "Once a week",
+        "Three times a week"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Alex recommends three times a week for about forty-five minutes.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "I recommend training three times a week"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What does Alex say about sore legs on the next day?",
+      "options": [
+        "They are normal",
+        "They mean you should stop",
+        "You must see a doctor"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it is normal to feel tired and have sore legs the next day.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "but that's normal"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is NOT allowed in the gym room?",
+      "options": [
+        "Making phone calls",
+        "Drinking water",
+        "Listening to music"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Phones are fine for music, but not for calls.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "please don't make calls in the gym room"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why did Linh start going to the gym?",
+      "options": [
+        "Her doctor told her to exercise",
+        "She wants to lose weight",
+        "A friend asked her"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Her doctor said she should do more exercise because she sits at a desk all day.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "My doctor said I should do more exercise"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How long has Dan been coming to the gym?",
+      "options": [
+        "Two months",
+        "A year",
+        "Six months"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dan says he has been coming for six months. Linh started two months ago.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I've been coming for six months."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Linh prefer?",
+      "options": [
+        "The swimming pool",
+        "The classes",
+        "The machines"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh finds the machines boring and prefers the classes.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "I prefer the classes."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "Why is Dan unsure about yoga?",
+      "options": [
+        "He thinks it is boring",
+        "He is not flexible enough",
+        "He has no time"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dan says he is not very flexible and cannot touch his toes.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I'm not very flexible."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Dan do on Tuesdays at nine?",
+      "options": [
+        "Goes home for dinner",
+        "Yoga",
+        "Plays football"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dan has football on Tuesdays at nine. Yoga finishes at eight.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I have football on Tuesdays at nine."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is the announcement about?",
+      "options": [
+        "Changes and events at the gym",
+        "A cheaper price",
+        "A new trainer"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It gives news about classes, the pool and a charity run.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "Here is some news about next month."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When will yoga be next month?",
+      "options": [
+        "Every morning",
+        "On Tuesdays and Thursdays",
+        "On Mondays and Wednesdays"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Yoga will be on Monday and Wednesday evenings, not Tuesday.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "Yoga will now be on Monday and Wednesday evenings"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What time will the dance class start?",
+      "options": [
+        "At seven o'clock",
+        "At six o'clock",
+        "At half past six"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It will start at half past six instead of seven.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "it will start at half past six instead of seven"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When will the pool be closed?",
+      "options": [
+        "Next Monday",
+        "Next Saturday",
+        "On Sunday at noon"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The pool will be closed next Saturday for cleaning and reopen on Sunday at noon.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "the swimming pool will be closed next Saturday for cleaning"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where will the money from the charity run go?",
+      "options": [
+        "To the children's hospital",
+        "To an animal home",
+        "To the gym"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "All the money will go to the children's hospital.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "All the money will go to the children's hospital."
+        }
+      ]
+    }
+  ]
+}

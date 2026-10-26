@@ -1,0 +1,598 @@
+{
+  "id": "l-b1-a-guided-city-walk",
+  "title": "A Guided City Walk",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings from a walking tour of an old town: a welcome talk, a market visit, a chat between tourists and a talk about a clock tower.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Welcome to the tour",
+      "intro": "You will hear a guide called Tom at the start of a walking tour.",
+      "speakers": {
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Tom",
+          "text": "Good morning, everybody, and welcome to the Old Town walking tour. My name's Tom, and I'll be your guide for the next two hours."
+        },
+        {
+          "id": "s2",
+          "speaker": "Tom",
+          "text": "Before we set off, a few practical things. We'll walk about three kilometres, but there are plenty of short stops, so it isn't tiring. If anyone needs a rest, just tell me."
+        },
+        {
+          "id": "s3",
+          "speaker": "Tom",
+          "text": "The tour usually finishes at the castle, but today the castle is closed for a private event. So instead, we'll end in the main square at around quarter past twelve, where there are lots of cafés."
+        },
+        {
+          "id": "s4",
+          "speaker": "Tom",
+          "text": "Please stay together, because the streets in the old quarter are narrow and often crowded. I'll carry this green umbrella so you can always see me. And watch out for cyclists, who sometimes appear very suddenly."
+        },
+        {
+          "id": "s5",
+          "speaker": "Tom",
+          "text": "Photographs are welcome everywhere except inside the cathedral, where they're not allowed during services. Finally, if you'd like to take a break for lunch, I can recommend a family restaurant near the square. It's a lovely sunny morning, so I think we're going to have a wonderful walk. Right, shall we begin?"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · At the Silk Market",
+      "intro": "You will hear a guide, Lan, talking to a tourist, Mike, in a market.",
+      "speakers": {
+        "Lan": "female",
+        "Mike": "male"
+      },
+      "script": [
+        {
+          "id": "s6",
+          "speaker": "Lan",
+          "text": "This is the Silk Market. It's been on this spot for more than three hundred years."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mike",
+          "text": "Excuse me, Lan. It doesn't look very old. The buildings seem quite modern."
+        },
+        {
+          "id": "s8",
+          "speaker": "Lan",
+          "text": "Good question, Mike. The original market was destroyed in a fire in nineteen twenty. What you see now was rebuilt, but the layout is exactly the same."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mike",
+          "text": "I see. And do people still sell silk here?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Lan",
+          "text": "Some do, but only about a quarter of the stalls. Most sell souvenirs now. If you want real silk, go to the stall at the very end, with the blue sign. The owner's family has made it for four generations."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mike",
+          "text": "Is it expensive?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Lan",
+          "text": "A scarf costs around twenty pounds, which is fair for something handmade. But be careful with the cheaper ones outside, because many are made from plastic."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mike",
+          "text": "Good to know. Can we try some of the street food too? I'm starving."
+        },
+        {
+          "id": "s14",
+          "speaker": "Lan",
+          "text": "Of course. There's a baker over there selling coconut cakes. They're warm, and honestly, the best thing in the whole market. We'll stop for ten minutes, so you can also take some photographs of the old stalls."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Plans for the afternoon",
+      "intro": "You will hear two tourists, Hannah and Nam, after the tour.",
+      "speakers": {
+        "Hannah": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Hannah",
+          "text": "Well, that was better than I expected. I thought the guide would just read from a book."
+        },
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "Me too. Though I could have done without the long story about the bridge. I was getting a bit bored then."
+        },
+        {
+          "id": "s17",
+          "speaker": "Hannah",
+          "text": "Really? I loved that part. Anyway, what shall we do this afternoon? The museum closes at five."
+        },
+        {
+          "id": "s18",
+          "speaker": "Nam",
+          "text": "Hmm. I'd like to see the museum, but my feet hurt. We walked much further than I thought."
+        },
+        {
+          "id": "s19",
+          "speaker": "Hannah",
+          "text": "We could take the boat trip on the river instead. You can sit down, and you still see the city."
+        },
+        {
+          "id": "s20",
+          "speaker": "Nam",
+          "text": "That sounds good. How much is it?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Hannah",
+          "text": "I looked it up this morning. Twelve pounds each, or twenty for two people if you buy online."
+        },
+        {
+          "id": "s22",
+          "speaker": "Nam",
+          "text": "Let's buy online, then. Does it say how long it takes?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Hannah",
+          "text": "About an hour. The last boat leaves at half past four, so we have plenty of time for lunch first."
+        },
+        {
+          "id": "s24",
+          "speaker": "Nam",
+          "text": "Perfect. And we can visit the museum tomorrow morning when it's quieter."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · The clock tower",
+      "intro": "You will hear Lan, the guide, talking about a famous clock tower.",
+      "speakers": {
+        "Lan": "female"
+      },
+      "script": [
+        {
+          "id": "s25",
+          "speaker": "Lan",
+          "text": "Now, if you look up, you'll see the famous clock tower. Many people think it's older than the cathedral, but it was actually finished in eighteen ninety."
+        },
+        {
+          "id": "s26",
+          "speaker": "Lan",
+          "text": "The tower was a gift from a rich merchant named Mr Dang. He wanted the people of the town to know the time, because at that time very few families could afford a watch."
+        },
+        {
+          "id": "s27",
+          "speaker": "Lan",
+          "text": "For almost fifty years the clock worked perfectly. Then, during a storm in nineteen thirty-six, lightning struck the tower and stopped it. The clock stayed silent for nearly two decades, and local people said it was bad luck."
+        },
+        {
+          "id": "s28",
+          "speaker": "Lan",
+          "text": "It was only repaired in the nineteen fifties, when a group of school children collected money by selling flowers. That is why you'll see a small flower carved above the door."
+        },
+        {
+          "id": "s29",
+          "speaker": "Lan",
+          "text": "Today the clock plays a short tune every day at noon. Many visitors wait for it, so I suggest we stand over there, on the left, where the view is clearer. I think the tune is a lovely way to end our tour."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How long will the walking tour last?",
+      "options": [
+        "Three hours",
+        "One hour",
+        "Two hours"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says he will be the guide for the next two hours. The three kilometres is the distance.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "I'll be your guide for the next two hours"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where will the tour end today?",
+      "options": [
+        "At the old cathedral",
+        "In the main square",
+        "At the castle gate"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The castle is closed, so the tour will end in the main square.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "we'll end in the main square"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why will the tour not finish at the castle?",
+      "options": [
+        "It is closed for a private event.",
+        "It is being repaired this week.",
+        "It is too far for the group."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom says the castle is closed for a private event.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "today the castle is closed for a private event"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How can the group recognise Tom in a crowd?",
+      "options": [
+        "He holds up a big yellow flag.",
+        "He carries a green umbrella.",
+        "He wears a tall red hat."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom says he will carry a green umbrella so people can always see him.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I'll carry this green umbrella"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where are photographs not allowed?",
+      "options": [
+        "In the main square at lunchtime",
+        "Inside the cathedral during services",
+        "In the old quarter of the town"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Photographs are welcome everywhere except inside the cathedral during services.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "except inside the cathedral"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does the Silk Market look modern?",
+      "options": [
+        "Nobody has repaired it since.",
+        "It was built only last year.",
+        "It was rebuilt after a fire."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The original market was destroyed in a fire, and what we see now was rebuilt.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "The original market was destroyed in a fire in nineteen twenty."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How many stalls still sell silk?",
+      "options": [
+        "Three quarters of them",
+        "About a quarter",
+        "About half of the stalls"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Only about a quarter of the stalls sell silk now. Most sell souvenirs.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "only about a quarter of the stalls"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where is the best silk stall?",
+      "options": [
+        "In the middle, with a green sign",
+        "Next to the baker, with a red sign",
+        "At the very end, with a blue sign"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lan says to go to the stall at the very end with the blue sign.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "go to the stall at the very end, with the blue sign"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why should Mike be careful with the cheaper scarves?",
+      "options": [
+        "Many are made from plastic.",
+        "They are too small to wear.",
+        "They are usually very old."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lan says many of the cheaper ones are made from plastic.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "many are made from plastic"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Lan think of the coconut cakes?",
+      "options": [
+        "They are the best thing in the market.",
+        "They are too sweet for most people.",
+        "They are too expensive for a snack."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says they are warm and the best thing in the whole market.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "the best thing in the whole market"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How did Nam feel about the story of the bridge?",
+      "options": [
+        "He did not hear it clearly.",
+        "He found it boring.",
+        "He enjoyed it very much."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam says he was getting a bit bored. Hannah loved that part.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "I was getting a bit bored then."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why does Nam not want to go to the museum now?",
+      "options": [
+        "It is too expensive for him.",
+        "His feet hurt after the walk.",
+        "It closes too early for them."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He would like to see it, but his feet hurt after the long walk.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "my feet hurt"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How much does the boat trip cost for two people if they buy online?",
+      "options": [
+        "Twelve pounds",
+        "Forty pounds",
+        "Twenty pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It is twelve pounds each, or twenty for two people online.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "twenty for two people if you buy online"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When does the last boat leave?",
+      "options": [
+        "At four o'clock sharp",
+        "At five o'clock",
+        "At half past four"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Hannah says the last boat leaves at half past four. The museum closes at five.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "The last boat leaves at half past four"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "When will they visit the museum?",
+      "options": [
+        "After the boat trip today",
+        "Tomorrow morning",
+        "Later this afternoon"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam suggests visiting the museum tomorrow morning, when it is quieter.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "we can visit the museum tomorrow morning"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When was the clock tower finished?",
+      "options": [
+        "In the nineteen fifties",
+        "In eighteen ninety",
+        "In nineteen thirty-six"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It was finished in eighteen ninety. Nineteen thirty-six is when lightning stopped it.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "it was actually finished in eighteen ninety"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why did Mr Dang give the tower to the town?",
+      "options": [
+        "To advertise his own business",
+        "So that people could know the time",
+        "To celebrate his daughter's wedding"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Few families could afford a watch, so he wanted people to know the time.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "He wanted the people of the town to know the time"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What stopped the clock?",
+      "options": [
+        "A fire in the old town",
+        "Lightning during a storm",
+        "An earthquake at night"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lightning struck the tower during a storm in nineteen thirty-six.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "lightning struck the tower and stopped it"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Who paid for the repair of the clock?",
+      "options": [
+        "The council and local shopkeepers",
+        "A group of school children",
+        "The descendants of Mr Dang"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The children collected money by selling flowers, which is why there is a flower carved above the door.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "a group of school children collected money by selling flowers"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Lan suggest standing on the left?",
+      "options": [
+        "To avoid the busy traffic",
+        "To see the clock more clearly",
+        "To hear the music better"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the view is clearer from there.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "where the view is clearer"
+        }
+      ]
+    }
+  ]
+}

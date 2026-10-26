@@ -1,0 +1,459 @@
+{
+  "id": "l-yl-m-helping-grandma-in-the-garden",
+  "title": "Helping Grandma in the Garden",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about helping Grandma: jobs in the garden, a phone message and a chat at home.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Grandma and Tom",
+      "intro": "You will hear Tom talking to his grandma.",
+      "speakers": {
+        "Tom": "male",
+        "Grandma": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Grandma",
+          "text": "Thank you for coming, Tom. I need help in the garden today."
+        },
+        {
+          "id": "s2",
+          "speaker": "Tom",
+          "text": "Of course, Grandma. What shall I do first?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Grandma",
+          "text": "Please water the flowers. The red roses are very dry."
+        },
+        {
+          "id": "s4",
+          "speaker": "Tom",
+          "text": "OK. Shall I pick the apples too?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Grandma",
+          "text": "Not yet. They're not ready. But you can pick the strawberries."
+        },
+        {
+          "id": "s6",
+          "speaker": "Tom",
+          "text": "Yummy! Can I eat one?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Grandma",
+          "text": "Only one! They're for a cake."
+        },
+        {
+          "id": "s8",
+          "speaker": "Tom",
+          "text": "I'll fill the watering can at the tap now, and then I'll start with the roses."
+        },
+        {
+          "id": "s9",
+          "speaker": "Grandma",
+          "text": "Thank you, dear. You're a very kind boy, and I love having you here."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A message",
+      "intro": "You will hear Grandma leaving a message for Tom's mum.",
+      "speakers": {
+        "Grandma": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Grandma",
+          "text": "Hello, Anna, it's Mum. Tom was a great helper today. He watered the flowers, and he cut the grass with my little machine."
+        },
+        {
+          "id": "s11",
+          "speaker": "Grandma",
+          "text": "After lunch, he planted some sunflower seeds near the fence. They'll be very tall by the summer."
+        },
+        {
+          "id": "s12",
+          "speaker": "Grandma",
+          "text": "He also found a frog under a big stone! He put it by the pond."
+        },
+        {
+          "id": "s13",
+          "speaker": "Grandma",
+          "text": "Please tell him I made chocolate cookies for him. I'll bring them on Sunday."
+        },
+        {
+          "id": "s14",
+          "speaker": "Grandma",
+          "text": "Call me tonight if you have time. I want to hear about his new school. Bye for now, dear."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · At home",
+      "intro": "You will hear Tom talking to his mum, Anna, at home.",
+      "speakers": {
+        "Tom": "male",
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Anna",
+          "text": "Did you have fun at Grandma's?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Tom",
+          "text": "Yes! I was very tired, but it was great. My arms hurt."
+        },
+        {
+          "id": "s17",
+          "speaker": "Anna",
+          "text": "What was the best thing?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Tom",
+          "text": "The frog! But the worst thing was the big spider in the shed. I screamed!"
+        },
+        {
+          "id": "s19",
+          "speaker": "Anna",
+          "text": "Ha ha. Was Grandma happy?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Tom",
+          "text": "Very. She said I'm her best helper. Next Saturday, I'm going to help her paint the fence."
+        },
+        {
+          "id": "s21",
+          "speaker": "Anna",
+          "text": "What colour?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Tom",
+          "text": "White, like the house."
+        },
+        {
+          "id": "s23",
+          "speaker": "Anna",
+          "text": "That sounds like a lovely plan. I'll bring you some tea on Saturday morning."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why did Grandma ask Tom to come?",
+      "options": [
+        "To play a game",
+        "To eat a cake",
+        "To help in the garden"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Grandma says she needs help in the garden today.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "I need help in the garden today."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which flowers are very dry?",
+      "options": [
+        "The red roses",
+        "The white daisies",
+        "The yellow tulips"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Grandma says the red roses are very dry.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "The red roses are very dry."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why can't Tom pick the apples?",
+      "options": [
+        "They are too high",
+        "They are bad",
+        "They are not ready"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Grandma says the apples are not ready yet.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "They're not ready."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What can Tom pick?",
+      "options": [
+        "Apples",
+        "Strawberries",
+        "Carrots"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Grandma says he can pick the strawberries.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "you can pick the strawberries"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What are the strawberries for?",
+      "options": [
+        "A cake",
+        "Breakfast",
+        "Some jam"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Grandma says they are for a cake.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "They're for a cake."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Grandma call?",
+      "options": [
+        "To say that Tom helped well",
+        "To invite Anna to lunch",
+        "To ask for help"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says Tom was a great helper today.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Tom was a great helper today."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What did Tom use to cut the grass?",
+      "options": [
+        "A little machine",
+        "A pair of scissors",
+        "A big knife"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He cut the grass with her little machine.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "he cut the grass with my little machine"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What did Tom plant?",
+      "options": [
+        "Roses",
+        "Sunflower seeds",
+        "Carrots"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He planted sunflower seeds near the fence.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "he planted some sunflower seeds near the fence"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where did Tom find the frog?",
+      "options": [
+        "Under a big stone",
+        "In the pond",
+        "In the long grass"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He found it under a big stone and then put it by the pond.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "He also found a frog under a big stone!"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When will Grandma bring the cookies?",
+      "options": [
+        "On Sunday",
+        "On Saturday",
+        "Today"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she will bring them on Sunday.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "I'll bring them on Sunday."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What was the best thing for Tom?",
+      "options": [
+        "The frog",
+        "The cookies",
+        "The spider"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom says: \"The frog!\"",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "The frog!"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What was the worst thing?",
+      "options": [
+        "His hurting arms",
+        "The hot sun",
+        "A big spider in the shed"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says the worst thing was the big spider in the shed.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "the worst thing was the big spider in the shed"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "How did Tom feel when he saw the spider?",
+      "options": [
+        "Happy",
+        "Bored",
+        "Scared"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He screamed, so he was scared.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I screamed!"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will Tom do next Saturday?",
+      "options": [
+        "Paint the fence",
+        "Plant a tree",
+        "Cut the grass"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He will help Grandma paint the fence.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I'm going to help her paint the fence."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What colour will the fence be?",
+      "options": [
+        "Green",
+        "Blue",
+        "White"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says white, like the house.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "White, like the house."
+        }
+      ]
+    }
+  ]
+}

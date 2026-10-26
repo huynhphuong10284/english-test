@@ -1,0 +1,655 @@
+{
+  "id": "l-c2-genetic-engineering",
+  "title": "Genetic Engineering",
+  "level": "C2 · Proficiency",
+  "description": "A radio debate about gene editing in medicine, farming and the environment, with a farmer calling in and a closing discussion of the ethics of enhancement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The case for editing genes",
+      "intro": "You will hear the presenter of a radio debate, Claire, questioning Professor Dalton, who supports genetic engineering.",
+      "speakers": {
+        "Claire": "female",
+        "Professor Dalton": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Claire",
+          "text": "Welcome to Open Question. Tonight's motion is that humanity should embrace genetic engineering. Professor Dalton, you're for it, and you've asked to begin with a patient."
+        },
+        {
+          "id": "s2",
+          "speaker": "Professor Dalton",
+          "text": "I have. A few years ago I met a girl of eight with a severe inherited blood disorder. Her life had been a cycle of hospital visits and transfusions. Today, after treatment that edits her own cells, she is playing football. That is not a distant promise. It's something that has already happened."
+        },
+        {
+          "id": "s3",
+          "speaker": "Claire",
+          "text": "Powerful. But critics would say one success story is not a policy."
+        },
+        {
+          "id": "s4",
+          "speaker": "Professor Dalton",
+          "text": "Agreed, and I wouldn't pretend otherwise. The point of the story is the principle. We have long accepted that doctors may alter the body to heal it, with drugs, with surgery, with transplants. Editing a faulty gene in a sick person is the same moral act performed with a sharper tool."
+        },
+        {
+          "id": "s5",
+          "speaker": "Claire",
+          "text": "Though the tool is permanent, isn't it? A drug wears off."
+        },
+        {
+          "id": "s6",
+          "speaker": "Professor Dalton",
+          "text": "For the patient, yes, and that's exactly what makes it valuable for a disease that would otherwise last a lifetime. The permanence is a reason to be careful, but not a reason to refuse. We accept the permanence of a hip replacement."
+        },
+        {
+          "id": "s7",
+          "speaker": "Claire",
+          "text": "What about the cost? These treatments run into hundreds of thousands."
+        },
+        {
+          "id": "s8",
+          "speaker": "Professor Dalton",
+          "text": "A serious problem, and I'll be blunt: if only the rich benefit, then the technology will have failed, ethically if not scientifically. But expensive first-generation treatments have usually become affordable, and that argues for investment and fair pricing, not for a ban."
+        },
+        {
+          "id": "s9",
+          "speaker": "Claire",
+          "text": "We'll test that claim later in the programme, but first I'd like to bring in a second voice, because I suspect Dr Nguyen has been waiting patiently."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Ecosystems and gene drives",
+      "intro": "You will hear Dr Nguyen, who opposes the motion, debating with Professor Dalton about engineered insects.",
+      "speakers": {
+        "Dr Nguyen": "female",
+        "Professor Dalton": "male"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Dr Nguyen",
+          "text": "Professor, I have no quarrel with the girl. My concern is what happens when we move from patients, who consent, to ecosystems, which can't. Take the proposal to release mosquitoes engineered to spread a gene that makes their offspring sterile, so an entire species could disappear from a region."
+        },
+        {
+          "id": "s11",
+          "speaker": "Professor Dalton",
+          "text": "A proposal that could save hundreds of thousands of lives a year from malaria. Surely you wouldn't dismiss that?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Dr Nguyen",
+          "text": "I wouldn't dismiss it, but I'd ask who decides. A mosquito doesn't respect borders. If one country releases them, its neighbours inherit the consequences without a vote."
+        },
+        {
+          "id": "s13",
+          "speaker": "Professor Dalton",
+          "text": "Fair, though we already share rivers, air and fish stocks across borders. The answer is international governance, with staged trials, starting on islands where the animals can be contained."
+        },
+        {
+          "id": "s14",
+          "speaker": "Dr Nguyen",
+          "text": "On paper, yes. In practice, the track record of international agreements on shared environments is, shall we say, mixed. And there's the biology. Species are knotted into food webs in ways we only partly understand. Remove one insect, and something else may flourish in its place."
+        },
+        {
+          "id": "s15",
+          "speaker": "Professor Dalton",
+          "text": "Which is why trials come first. Ignorance cuts both ways, though. We don't fully understand the consequences of leaving the disease alone either, and those consequences are well documented. Children are dying."
+        },
+        {
+          "id": "s16",
+          "speaker": "Dr Nguyen",
+          "text": "I don't deny that. My point is about irreversibility. If a trial of a medicine fails, we stop giving the medicine. If a self-spreading genetic change goes wrong, there may be no way to recall it."
+        },
+        {
+          "id": "s17",
+          "speaker": "Professor Dalton",
+          "text": "I accept that irreversibility changes the calculation, which is why I'd want a way to reverse it built in at the start."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A farmer calls in",
+      "intro": "You will hear Claire taking a call from a rice farmer, Mr Hoang.",
+      "speakers": {
+        "Claire": "female",
+        "Mr Hoang": "male"
+      },
+      "script": [
+        {
+          "id": "s18",
+          "speaker": "Claire",
+          "text": "We have a caller, Mr Hoang, who grows rice in the Mekong delta. Go ahead, Mr Hoang."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mr Hoang",
+          "text": "Thank you. I've been farming for thirty years, and I want to say something that neither of your guests has said. For me, this is not abstract. Last year, salt water from the sea crept into my fields and destroyed half my harvest. We borrowed money to get through the winter, and we are still paying it back."
+        },
+        {
+          "id": "s20",
+          "speaker": "Claire",
+          "text": "I'm sorry to hear that. That must have been a very frightening season for you and your family."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mr Hoang",
+          "text": "A neighbour planted a salt-tolerant variety and lost almost nothing. It was developed by scientists using modern methods. My family had been sceptical, I'll admit. We thought it was unnatural. But when you are watching your income vanish, the word natural doesn't pay for school fees."
+        },
+        {
+          "id": "s22",
+          "speaker": "Claire",
+          "text": "Some argue that these varieties tie farmers to big companies who own the seeds."
+        },
+        {
+          "id": "s23",
+          "speaker": "Mr Hoang",
+          "text": "That is a legitimate worry, and I share it. The variety my neighbour used came from a public research institute, and the seeds were free to save and replant. That's the model I'd like to see. If the seeds are locked up by a few firms, then I'd be against it as well. The problem is not the science, it's who owns it."
+        },
+        {
+          "id": "s24",
+          "speaker": "Claire",
+          "text": "So your position is closer to conditional support."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mr Hoang",
+          "text": "Yes, but I'd say a fairly firm one. I've been left behind by the weather enough times. I don't want to be left behind by the laboratory too."
+        },
+        {
+          "id": "s26",
+          "speaker": "Claire",
+          "text": "Thank you, Mr Hoang. A reminder that the people most affected are often not in the studio."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Therapy, enhancement and rules",
+      "intro": "You will hear Dr Nguyen and Professor Dalton make their closing arguments.",
+      "speakers": {
+        "Dr Nguyen": "female",
+        "Professor Dalton": "male"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Dr Nguyen",
+          "text": "Let me turn to the question I think matters most. Healing disease is one thing. But the same tools could, in principle, be used to select the height, intelligence or appearance of children. Where does therapy end and enhancement begin?"
+        },
+        {
+          "id": "s28",
+          "speaker": "Professor Dalton",
+          "text": "A line that's hard to draw, I admit. Is it therapy to protect a child from a gene that raises the risk of heart disease? Most would say yes. And what about a gene that improves memory in old age?"
+        },
+        {
+          "id": "s29",
+          "speaker": "Dr Nguyen",
+          "text": "Exactly. Each step looks reasonable, and yet the sum is a world in which parents feel obliged to optimise their children, and in which those who can't afford it fall behind. I worry about a quiet inequality hardening into biology."
+        },
+        {
+          "id": "s30",
+          "speaker": "Professor Dalton",
+          "text": "That worry is serious, but note that we already have inequality in education, nutrition and healthcare, and we don't conclude that nutrition should be banned. We try to widen access. I would say the same here."
+        },
+        {
+          "id": "s31",
+          "speaker": "Dr Nguyen",
+          "text": "Widening access to a treatment for illness, yes. But enhancement is different, because there is no natural stopping point. The goalposts move."
+        },
+        {
+          "id": "s32",
+          "speaker": "Professor Dalton",
+          "text": "Then let's draw rules. Many countries already prohibit changes that would be inherited by future generations, except in strictly controlled research. I'd support keeping that line for now, while the technology is young, and reviewing it as evidence accumulates."
+        },
+        {
+          "id": "s33",
+          "speaker": "Dr Nguyen",
+          "text": "That's rather closer to my position than I expected, I must say."
+        },
+        {
+          "id": "s34",
+          "speaker": "Professor Dalton",
+          "text": "I'm in favour of the technology, not of recklessness. The sceptics have done us a service by forcing us to say what we'd refuse."
+        },
+        {
+          "id": "s35",
+          "speaker": "Dr Nguyen",
+          "text": "And the enthusiasts have reminded us that refusing to act is also a choice with victims."
+        },
+        {
+          "id": "s36",
+          "speaker": "Professor Dalton",
+          "text": "Perhaps that is as good a conclusion as a debate can produce."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Professor Dalton begin with the story of the girl?",
+      "options": [
+        "To argue that children should always be treated first",
+        "To show that hospitals are too expensive for most families to use",
+        "To prove that football helps patients to recover faster",
+        "To show that gene editing already works, not just in theory"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says her recovery is not a distant promise but something that has already happened.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "That is not a distant promise."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "How does Professor Dalton compare gene editing with other medicine?",
+      "options": [
+        "It is more dangerous than surgery because it is permanent",
+        "It is a completely new moral problem with no precedent",
+        "It is morally like other treatments, but with a sharper tool",
+        "It is less ethical than drugs because it alters the body"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says editing a faulty gene is the same moral act as drugs, surgery or transplants, performed with a sharper tool.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "the same moral act performed with a sharper tool"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What is Professor Dalton's view of the permanence of gene editing?",
+      "options": [
+        "It is the main reason why it should be banned outright",
+        "It is unimportant for patients with lifelong diseases",
+        "It is a serious problem that has no solution at all",
+        "It calls for care but is not a reason to refuse treatment"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says permanence is a reason to be careful but not to refuse, and compares it to a hip replacement.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "The permanence is a reason to be careful, but not a reason to refuse."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Professor Dalton respond to the question of cost?",
+      "options": [
+        "He suggests that only the rich should receive treatment at first",
+        "He claims that the cost of treatment is not important",
+        "He says prices will fall without any need for action",
+        "He accepts it is serious and would call unfair access a failure"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He calls it a serious problem and says that if only the rich benefit, the technology will have failed ethically.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "if only the rich benefit, then the technology will have failed"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is Claire's objection to the story of the girl?",
+      "options": [
+        "The treatment was unsafe for children of that age",
+        "The girl was too young to give her consent",
+        "One success does not justify a general policy",
+        "The story had not been proved to be true"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says critics would argue one success story is not a policy.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "one success story is not a policy"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What distinction does Dr Nguyen draw at the start?",
+      "options": [
+        "Insects are more dangerous than humans",
+        "Doctors are more careful than farmers",
+        "Patients can consent, but ecosystems cannot",
+        "Girls respond better than adults to gene editing"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says her concern is moving from patients, who consent, to ecosystems, which can't.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "patients, who consent, to ecosystems, which can't"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Dr Nguyen say a mosquito does not respect borders?",
+      "options": [
+        "Governments would not allow such releases to happen",
+        "Borders between countries are often poorly marked",
+        "Neighbours could suffer the consequences without a vote",
+        "Mosquitoes are impossible to count or to track accurately"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She explains that if one country releases the insects, its neighbours inherit the consequences without a vote.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "its neighbours inherit the consequences without a vote"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Dr Nguyen think of international agreements on shared environments?",
+      "options": [
+        "She thinks they are unnecessary for shared rivers",
+        "She wants them to be much stronger than they are",
+        "She doubts that they work well in practice",
+        "She believes they are completely reliable in practice"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says the track record is mixed, so she is sceptical that governance on paper would work in practice.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "the track record of international agreements on shared environments is, shall we say, mixed"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Professor Dalton say that ignorance cuts both ways?",
+      "options": [
+        "To argue that doing nothing also has serious, known results",
+        "To suggest that trials are unnecessary before any release occurs",
+        "To admit that scientists know very little about insects",
+        "To show that malaria is not very dangerous after all"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says we also do not fully understand what happens if we leave the disease alone, though its consequences are well documented.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Ignorance cuts both ways, though."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What does Professor Dalton concede at the end of the exchange?",
+      "options": [
+        "Irreversibility matters, so a way to reverse it should be built in",
+        "The trials should be cancelled until the law is clear",
+        "Neighbouring countries should have a vote before any release",
+        "Mosquitoes should never be released under any conditions"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He accepts that irreversibility changes the calculation and says he would want a built-in way to reverse it.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "a way to reverse it built in at the start"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What happened to Mr Hoang's rice harvest last year?",
+      "options": [
+        "A neighbour's crop spread disease to it",
+        "Drought reduced it slightly",
+        "Salt water destroyed half of it",
+        "The seeds failed to grow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says salt water from the sea crept into his fields and destroyed half his harvest.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "destroyed half my harvest"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Mr Hoang mean by the word natural does not pay for school fees?",
+      "options": [
+        "Natural crops are always more profitable for farmers",
+        "Practical needs matter more to him than being natural",
+        "He has given up farming because of the debts",
+        "Schools are too expensive for most rice farmers"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says his family thought modified rice was unnatural, but watching his income vanish changed his priorities.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "the word natural doesn't pay for school fees"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Under what condition would Mr Hoang oppose modified seeds?",
+      "options": [
+        "If the seeds could tolerate salt",
+        "If the variety came from a neighbour",
+        "If a few firms control the seeds",
+        "If the seeds were developed by scientists"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says that if the seeds are locked up by a few firms he would be against it, because the problem is who owns it.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "If the seeds are locked up by a few firms"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How would Mr Hoang describe his own position?",
+      "options": [
+        "Fairly firm support, with conditions about ownership",
+        "Total support with no conditions about who owns seeds",
+        "Complete opposition to modified crops of any kind",
+        "Uncertainty about whether the science really works"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Claire calls it conditional support, and he agrees that it is fairly firm.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "Yes, but I'd say a fairly firm one."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "What is the purpose of Claire's final comment?",
+      "options": [
+        "To criticise the caller's views on modern breeding methods and seeds",
+        "To end the call politely without further comment",
+        "To suggest that farmers should join the studio panel",
+        "To note that those most affected are often absent from debates"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She calls the caller a reminder that the people most affected are often not in the studio.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "the people most affected are often not in the studio"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Dr Nguyen ask where therapy ends and enhancement begins?",
+      "options": [
+        "To ask the professor for his personal opinion on it",
+        "To suggest the line between them is hard to draw",
+        "To change the subject to education and nutrition",
+        "To prove that therapy is wrong in all cases"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She introduces the problem that the same tools could be used to select traits, so it is unclear where healing stops.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "Where does therapy end and enhancement begin?"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Dr Nguyen's main worry about enhancement?",
+      "options": [
+        "The enormous cost of research for national governments",
+        "The loss of interest in education among young people",
+        "The risk of serious mistakes in the laboratory itself",
+        "Pressure on parents and inequality becoming fixed in biology"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She worries that parents would feel obliged to optimise their children and those who cannot afford it would fall behind.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "a quiet inequality hardening into biology"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "How does Professor Dalton answer the worry about inequality?",
+      "options": [
+        "He claims that nutrition is more important than genes",
+        "He suggests banning all forms of enhancement for now",
+        "He says inequality exists elsewhere and access should widen",
+        "He says that inequality is unavoidable and cannot change"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He compares it to education, nutrition and healthcare, where we try to widen access rather than ban them.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "We try to widen access."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Which rule does Professor Dalton support for now?",
+      "options": [
+        "Freedom for parents to choose any changes they like",
+        "A ban on inheritable changes outside controlled research",
+        "A law that bans every kind of enhancement forever",
+        "A ban on all gene editing, even for patients"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He supports keeping the existing prohibition on changes inherited by future generations, apart from controlled research.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "Many countries already prohibit changes that would be inherited by future generations"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What do the speakers agree on at the end?",
+      "options": [
+        "Gene editing should be banned until the cost falls",
+        "Debates like this one never reach any conclusions",
+        "Both caution and action are needed, since inaction has victims",
+        "Scientists should decide the rules entirely alone"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dr Nguyen says refusing to act is a choice with victims, and Professor Dalton says sceptics forced them to say what they would refuse.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "refusing to act is also a choice with victims"
+        }
+      ]
+    }
+  ]
+}

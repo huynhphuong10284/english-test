@@ -1,0 +1,618 @@
+{
+  "id": "l-b2-myths-about-learning-languages",
+  "title": "Myths About Learning Languages",
+  "level": "B2 · Upper-intermediate",
+  "description": "A podcast about language myths, a conversation between two learners, an interview with a linguist and a talk about effective study habits.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Podcast: Three big myths",
+      "intro": "You will hear the host of a podcast about language learning.",
+      "speakers": {
+        "Host": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Host",
+          "text": "Hi everyone, and welcome to Word by Word. Today I want to look at some popular beliefs about learning languages, and ask whether they're actually true."
+        },
+        {
+          "id": "s2",
+          "speaker": "Host",
+          "text": "Myth number one: children learn languages faster than adults. It's a very common belief, and there's some truth in it. Young children often develop a more natural accent. But in the classroom, adults and teenagers usually make faster progress at the start, because they can use logic and already know how learning works."
+        },
+        {
+          "id": "s3",
+          "speaker": "Host",
+          "text": "Myth number two: you have to live in the country to become fluent. Living abroad certainly helps, but it isn't magic. I've met people who spent ten years in another country and still spoke only a little, because they lived in a community where they never needed the local language."
+        },
+        {
+          "id": "s4",
+          "speaker": "Host",
+          "text": "Myth number three is my favourite: some people just don't have a talent for languages. I hear this all the time, and I think it's mostly an excuse. Success depends far more on how regularly you practise than on any special gift."
+        },
+        {
+          "id": "s5",
+          "speaker": "Host",
+          "text": "Of course, talent plays a small part. Some people notice sounds more easily than others. But motivation and habit matter much more, and unlike talent, you can improve both of them."
+        },
+        {
+          "id": "s6",
+          "speaker": "Host",
+          "text": "After the break, I'll be talking to two listeners who learned a new language as adults, so stay with us."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Two learners compare experiences",
+      "intro": "You will hear two friends, Nam and Sarah, talking about their language studies.",
+      "speakers": {
+        "Sarah": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Sarah",
+          "text": "Nam, how's your German coming along? Last time we spoke, you were thinking about giving up."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "Well, I nearly did. I'd been using an app for six months, and I felt that I was learning lots of words but still couldn't have a conversation."
+        },
+        {
+          "id": "s9",
+          "speaker": "Sarah",
+          "text": "That's exactly what happened to me with Spanish. I could name every fruit in the shop, but when the shopkeeper asked me a question, I froze."
+        },
+        {
+          "id": "s10",
+          "speaker": "Nam",
+          "text": "So what changed things for you?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Sarah",
+          "text": "I found a tutor online, a young woman in Madrid. We talk for half an hour twice a week, and at first I made so many mistakes that I was embarrassed. But she kept saying that mistakes are how you learn, and eventually I stopped worrying."
+        },
+        {
+          "id": "s12",
+          "speaker": "Nam",
+          "text": "I think the fear of mistakes is my biggest problem. At school, a wrong answer meant a bad mark, so I still feel nervous."
+        },
+        {
+          "id": "s13",
+          "speaker": "Sarah",
+          "text": "Try to think of it differently. A child who says something wrong gets a smile, not a red pen. Speaking badly is simply the way to start speaking well."
+        },
+        {
+          "id": "s14",
+          "speaker": "Nam",
+          "text": "You're right. Perhaps I'll book a tutor, too. Could you send me her details?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Sarah",
+          "text": "Of course. She's very patient. And she also helped me to set realistic goals, like ordering a meal or describing my weekend, instead of aiming to be perfect."
+        },
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "That sounds much more manageable. Thanks, Sarah. I feel more motivated already."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Interview with a linguist",
+      "intro": "You will hear a presenter, Hoa, interviewing a linguist, Professor Mark Hill.",
+      "speakers": {
+        "Hoa": "female",
+        "Mark": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Hoa",
+          "text": "Professor Hill, many people believe that learning a second language confuses children. Is there any truth in that?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Mark",
+          "text": "Very little, I'm happy to say. Children who grow up with two languages may mix them up for a short time, and may start speaking slightly later. But within a few years they usually catch up, and research suggests they actually have some advantages, such as switching attention between tasks."
+        },
+        {
+          "id": "s19",
+          "speaker": "Hoa",
+          "text": "Is it possible to become completely fluent as an adult?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Mark",
+          "text": "It depends what you mean by fluent. If you mean sounding exactly like a native speaker, that's rare, and probably unnecessary. If you mean communicating confidently and being respected, then definitely. Many adult learners reach that level, especially if they find opportunities to speak."
+        },
+        {
+          "id": "s21",
+          "speaker": "Hoa",
+          "text": "What about the idea that translation is a useful way to learn?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Mark",
+          "text": "Here, I'd be more cautious. Translating every word in your head slows you down, and languages don't match one to one. A word in English may need three different words in Vietnamese, depending on the context. It's better to learn phrases in situations rather than isolated vocabulary lists."
+        },
+        {
+          "id": "s23",
+          "speaker": "Hoa",
+          "text": "Can watching films in the language help?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Mark",
+          "text": "Yes, but not passively. If you only read the subtitles in your own language, you aren't learning much. I'd suggest using subtitles in the language you are studying, and pausing to repeat sentences aloud."
+        },
+        {
+          "id": "s25",
+          "speaker": "Hoa",
+          "text": "So what is the single most useful habit?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Mark",
+          "text": "Without question, regular contact. Twenty minutes every day is worth more than a three-hour session on Sunday. The brain consolidates language while we sleep, so a little and often really does work best."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Talk: Making a study plan",
+      "intro": "You will hear a language teacher, Mr Minh, talking to new students at a language school.",
+      "speakers": {
+        "Minh": "male"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Minh",
+          "text": "Welcome to the course, everyone. I'd like to begin by saying something that may sound strange from a teacher: no course can teach you a language on its own. What I can do is give you tools, and the real learning happens in your own time."
+        },
+        {
+          "id": "s28",
+          "speaker": "Minh",
+          "text": "So let me suggest a simple plan. First, decide on a regular time. Many students say they will study when they have time, but of course, they never have time. If you decide that every morning at seven you'll do fifteen minutes, it becomes automatic, like brushing your teeth."
+        },
+        {
+          "id": "s29",
+          "speaker": "Minh",
+          "text": "Second, mix different skills. Listen to a podcast on the bus, read a short article at lunchtime, and write three sentences in a diary before bed. Variety keeps you interested, and each skill supports the others."
+        },
+        {
+          "id": "s30",
+          "speaker": "Minh",
+          "text": "Third, speak from the beginning. I know some of you will feel shy, but you will notice your confidence growing faster than you expect. Our school runs a conversation club on Thursday evenings, and I strongly recommend it."
+        },
+        {
+          "id": "s31",
+          "speaker": "Minh",
+          "text": "Fourth, be patient. There will be days when you feel that you are making no progress. This is called a plateau, and almost every learner experiences it. It often comes just before a sudden jump forward, so don't give up."
+        },
+        {
+          "id": "s32",
+          "speaker": "Minh",
+          "text": "Finally, keep a record of your achievements. At the end of each month, write down what you can now do that you couldn't do before. It's surprisingly motivating."
+        },
+        {
+          "id": "s33",
+          "speaker": "Minh",
+          "text": "Now, please take the sheet on your desk and write down your study time. We'll share our plans in groups of three."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "According to the host, what is true about young children?",
+      "options": [
+        "They always learn faster than adults in class.",
+        "They never make mistakes when they speak.",
+        "They often develop a more natural accent."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Young children often develop a more natural accent, but adults often progress faster in class.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Young children often develop a more natural accent"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why do adults and teenagers often progress faster at first?",
+      "options": [
+        "They have better teachers and smaller classes.",
+        "They can use logic and already know how to learn.",
+        "They have more free time to practise every day."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The host says they can use logic and already know how learning works.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "they can use logic and already know how learning works"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why did some people not learn the language after ten years abroad?",
+      "options": [
+        "They disliked the culture and never made friends.",
+        "They never needed the language in their community.",
+        "They studied a different language from the local one."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They lived in a community where they never needed the local language.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "they never needed the local language"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does the host think about the idea of \"no talent for languages\"?",
+      "options": [
+        "It is a scientific fact.",
+        "It is completely true.",
+        "It is mostly an excuse."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She calls it mostly an excuse; regular practice matters more.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I think it's mostly an excuse"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the main idea of this part?",
+      "options": [
+        "Adults cannot learn languages as well as children",
+        "Common beliefs about languages are exaggerated",
+        "Everyone should live abroad for at least ten years"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The host examines three popular beliefs and shows they are only partly true.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "whether they're actually true"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What problem did Nam have with his app?",
+      "options": [
+        "It was too difficult for him to use every day",
+        "He could not afford to renew it after six months",
+        "He learned words but could not speak to people"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He felt he learned many words but could not have a conversation.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "still couldn't have a conversation"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What happened to Sarah in the Spanish shop?",
+      "options": [
+        "She argued with the shopkeeper about the price",
+        "She bought the wrong fruit and felt embarrassed",
+        "She froze when the shopkeeper spoke to her"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She knew every fruit but froze when asked a question.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I froze"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What did the online tutor say about mistakes?",
+      "options": [
+        "That they should be avoided at all costs",
+        "That they are how you learn",
+        "That they lose marks in a real exam"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The tutor kept saying that mistakes are how you learn.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "mistakes are how you learn"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Nam feel nervous about mistakes?",
+      "options": [
+        "His friends all speak German much better",
+        "His teacher once laughed at him in front of others",
+        "At school a wrong answer meant a bad mark."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "At school wrong answers were punished with bad marks, so he still feels nervous.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "a wrong answer meant a bad mark"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Sarah offer to send Nam the tutor's details?",
+      "options": [
+        "She thinks a tutor will help him too.",
+        "She wants to sell him some lessons of her own",
+        "She is too busy to practise with him herself"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After hearing Nam's problem, she recommends her patient tutor.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "She's very patient"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Professor Hill think about children learning two languages?",
+      "options": [
+        "It is a bad idea until they have learnt to read",
+        "It rarely causes problems and can help them",
+        "It confuses them for ever, even as adults"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says there is very little truth in the idea and children may even gain advantages.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Very little, I'm happy to say."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Professor Hill suggest about being fluent as an adult?",
+      "options": [
+        "Confident communication is a realistic goal.",
+        "It is impossible unless you learn as a child",
+        "Sounding like a native speaker is quite easy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sounding like a native speaker is rare and unnecessary; confident communication is common.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "communicating confidently and being respected"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why is translating every word not helpful?",
+      "options": [
+        "It slows you down and words do not match exactly",
+        "It teaches grammar badly and confuses spelling",
+        "It is too easy and does not challenge the brain"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says translation slows you down and one word can need several words in another language.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "Translating every word in your head slows you down"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does he suggest subtitles in the language you are studying?",
+      "options": [
+        "So that you learn from what you read and hear",
+        "Because they are shorter and easier to follow",
+        "Because they are free on most streaming sites"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Reading only subtitles in your own language teaches little.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "you aren't learning much"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Professor Hill say is the most useful habit?",
+      "options": [
+        "One long session every Sunday afternoon",
+        "Memorising long vocabulary lists",
+        "Regular daily contact"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says twenty minutes every day is worth more than a three-hour Sunday session.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "Twenty minutes every day is worth more than a three-hour session on Sunday"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What surprising thing does Mr Minh say at the start?",
+      "options": [
+        "No course can teach a language on its own.",
+        "Students do not need to attend every lesson",
+        "The course is easier than it looks"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says real learning happens in the students' own time.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "no course can teach you a language on its own"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does he suggest a fixed study time?",
+      "options": [
+        "The school requires it.",
+        "It is cheaper.",
+        "It becomes automatic like a habit."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Fixed time makes studying automatic, like brushing your teeth.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "it becomes automatic"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does he mention the Thursday conversation club?",
+      "options": [
+        "To collect the fees for the autumn course",
+        "To advertise a weekend trip with the teacher",
+        "To encourage students to speak from the start"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He recommends it because students should speak from the beginning.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "I strongly recommend it"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What is a plateau?",
+      "options": [
+        "A kind of dictionary for advanced students",
+        "A type of exam given at the end of the course",
+        "A period when you feel you are not improving"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He explains it as days with no progress, often before a sudden jump forward.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "you are making no progress"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What will students do at the end of the talk?",
+      "options": [
+        "Share their study plans in groups",
+        "Take a short test on today's lesson",
+        "Go to the conversation club together"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They fill in the sheet and share plans in groups of three.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "write down your study time"
+        }
+      ]
+    }
+  ]
+}

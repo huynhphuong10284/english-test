@@ -1,0 +1,353 @@
+{
+  "id": "l-yl-s-in-the-classroom",
+  "title": "In the Classroom",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about things and people in a classroom.",
+  "instructions": "Read the questions first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Finding a pencil",
+      "intro": "You will hear Linh and Sam in the classroom.",
+      "speakers": {
+        "Sam": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "Sam, where is my pencil?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Sam",
+          "text": "Is it on your desk?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "No, it is not. I have a pen and a ruler."
+        },
+        {
+          "id": "s4",
+          "speaker": "Sam",
+          "text": "Look! It is under your chair."
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "Thank you, Sam! It is yellow."
+        },
+        {
+          "id": "s6",
+          "speaker": "Sam",
+          "text": "Your desk is very messy, Linh."
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "I know! I will clean it after school."
+        },
+        {
+          "id": "s8",
+          "speaker": "Sam",
+          "text": "I am at school every day. I like my friends here."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The teacher",
+      "intro": "You will hear Miss Rose talking to her class.",
+      "speakers": {
+        "Miss Rose": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Miss Rose",
+          "text": "Good morning, class! Please open your books."
+        },
+        {
+          "id": "s10",
+          "speaker": "Miss Rose",
+          "text": "Today we have three new pictures on the wall."
+        },
+        {
+          "id": "s11",
+          "speaker": "Miss Rose",
+          "text": "Look at the board. I can see a big sun and a little cat."
+        },
+        {
+          "id": "s12",
+          "speaker": "Miss Rose",
+          "text": "Please sit down and be quiet. We start now."
+        },
+        {
+          "id": "s13",
+          "speaker": "Miss Rose",
+          "text": "I am happy with this class. You are all very good."
+        },
+        {
+          "id": "s14",
+          "speaker": "Miss Rose",
+          "text": "Remember to put your name on your work. That is important."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Before lunch",
+      "intro": "You will hear Sam and Linh before lunch.",
+      "speakers": {
+        "Sam": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Sam",
+          "text": "I am hungry. Is it lunch time?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Linh",
+          "text": "Not yet. We have art first."
+        },
+        {
+          "id": "s17",
+          "speaker": "Sam",
+          "text": "Great! I love art. Do you have crayons?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Linh",
+          "text": "Yes, I have ten. Do you want a red one?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Sam",
+          "text": "Yes, please!"
+        },
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "We can draw a big picture together."
+        },
+        {
+          "id": "s21",
+          "speaker": "Sam",
+          "text": "That is a good idea. Let us start after lunch."
+        },
+        {
+          "id": "s22",
+          "speaker": "Sam",
+          "text": "Thank you, Linh. You are a very kind friend."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is Linh looking for?",
+      "options": [
+        "A ruler",
+        "A pencil",
+        "A pen"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh asks, \"Where is my pencil?\"",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "where is my pencil"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is it?",
+      "options": [
+        "Under the chair",
+        "On the desk",
+        "In the bag"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sam says it is under her chair, not on the desk.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "It is under your chair."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What colour is it?",
+      "options": [
+        "Blue",
+        "Red",
+        "Yellow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says it is yellow.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "It is yellow."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "Is Linh happy at the end?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She finds her pencil and says thank you.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Thank you, Sam!"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What should the children open?",
+      "options": [
+        "Their boxes",
+        "Their books",
+        "Their bags"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Miss Rose says, \"Please open your books.\"",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "open your books"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How many new pictures are on the wall?",
+      "options": [
+        "Three",
+        "Ten",
+        "Two"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "There are three new pictures.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "three new pictures"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What can Miss Rose see on the board?",
+      "options": [
+        "A dog and a bird",
+        "A tree and a book",
+        "A cat and a sun"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She sees a big sun and a little cat.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "a big sun and a little cat"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What do the children have first?",
+      "options": [
+        "Lunch",
+        "Music",
+        "Art"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says they have art first, not lunch yet.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "We have art first."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Sam love?",
+      "options": [
+        "Pens",
+        "Art",
+        "Lunch"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Sam says, \"I love art.\"",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I love art."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Linh give Sam?",
+      "options": [
+        "A blue pen",
+        "A red crayon",
+        "A yellow pencil"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh offers a red crayon and Sam says yes.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Do you want a red one?"
+        }
+      ]
+    }
+  ]
+}

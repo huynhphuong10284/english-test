@@ -1,0 +1,622 @@
+{
+  "id": "l-c1-the-history-of-maps",
+  "title": "The History of Maps",
+  "level": "C1 · Advanced",
+  "description": "A radio series on how maps were made and what they show, from ancient drawings to medieval charts, the politics of a famous projection and digital navigation.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The first maps",
+      "intro": "You will hear a radio presenter, Clara, beginning a series about the history of maps.",
+      "speakers": {
+        "Clara": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Clara",
+          "text": "Welcome to Drawn to Scale, a series about the history of maps. Let me begin with a question that sounds easy. What is a map?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Clara",
+          "text": "Most of us would say it's a picture of a place, and so it is. But the oldest maps we know of weren't designed to help anyone find their way. A clay tablet from ancient Mesopotamia, for example, shows a plot of land with its boundaries marked, and its purpose was to settle a legal dispute about who owned what."
+        },
+        {
+          "id": "s3",
+          "speaker": "Clara",
+          "text": "Other early maps had stranger ambitions. Some, scratched on cave walls or carved in bone, may show the stars, or the places where hunters could expect to find game. We can't be certain. And that uncertainty is revealing. A map is not simply a record of reality; it's a decision about what matters."
+        },
+        {
+          "id": "s4",
+          "speaker": "Clara",
+          "text": "The ancient Greeks took a more scientific approach. They worked out that the earth is round, and even produced a fairly accurate estimate of its size using nothing more than the shadow of a stick in two different towns. One scholar drew a grid of lines on a map, an idea so useful that we still use it today."
+        },
+        {
+          "id": "s5",
+          "speaker": "Clara",
+          "text": "Yet for most of history, maps were rare and precious objects, drawn by hand, copied by hand, and often wrong. A map was an act of faith in the person who made it. When the copying introduced errors, they were copied too."
+        },
+        {
+          "id": "s6",
+          "speaker": "Clara",
+          "text": "In this series, I'll be asking what maps leave out as much as what they put in, because I've come to think that the silences on a map are often the most interesting parts."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Medieval maps and sea charts",
+      "intro": "You will hear Clara talking to a historian, Dr Bell, about maps made in the Middle Ages.",
+      "speakers": {
+        "Clara": "female",
+        "Dr Bell": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Clara",
+          "text": "Dr Bell, when we picture a medieval map, we tend to imagine something fanciful. Sea monsters, strange peoples at the edges. Is that fair?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Dr Bell",
+          "text": "It's half fair, and I'd like to correct the other half. The large decorated maps in cathedrals were not meant for navigation. They were more like illustrated sermons, with Jerusalem at the centre and the story of the world arranged around it. Asking if they were accurate is a bit like asking if a stained-glass window is accurate."
+        },
+        {
+          "id": "s9",
+          "speaker": "Clara",
+          "text": "So they weren't failures at geography."
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Bell",
+          "text": "Not at all. They succeeded at something else. Meanwhile, sailors had a quite different kind of map. From about the thirteenth century, ship captains in the Mediterranean used charts covered in criss-crossing lines that radiated from compass points. They're astonishingly accurate for coastlines, and they were made by people whose lives depended on them."
+        },
+        {
+          "id": "s11",
+          "speaker": "Clara",
+          "text": "What did those charts leave out?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Dr Bell",
+          "text": "Almost everything inland. A chart had one job: to get a ship from one harbour to another. Mountain ranges, rivers, even cities beyond sight of the sea, were of little interest. It's a good example of how the purpose of a map decides what it shows."
+        },
+        {
+          "id": "s13",
+          "speaker": "Clara",
+          "text": "And did the two traditions ever meet?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Dr Bell",
+          "text": "Eventually, yes. As explorers pushed beyond known waters, mapmakers combined the accurate coastlines of the sailors with the scholarly grids of the ancients. It was a slow and untidy marriage, but out of it came the maps of the age of exploration."
+        },
+        {
+          "id": "s15",
+          "speaker": "Clara",
+          "text": "One last question. Where did all that information come from?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Dr Bell",
+          "text": "Often from sailors' stories. A mapmaker in a warehouse in the capital might never have left the city. He depended on the word of men who had."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · The politics of projection",
+      "intro": "You will hear a geographer, Professor Cho, talking about a famous map projection.",
+      "speakers": {
+        "Professor Cho": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Professor Cho",
+          "text": "Every map of the world is a lie, and I mean that quite affectionately. A globe is round, and paper is flat. You cannot flatten a sphere without stretching or tearing something, and the method you choose is called a projection."
+        },
+        {
+          "id": "s18",
+          "speaker": "Professor Cho",
+          "text": "The most famous was devised in the sixteenth century for sailors. Its great virtue is that a straight line on it gives a constant compass bearing. For a navigator crossing an ocean in a wooden ship, that was a gift. The price was distortion. Places near the poles are stretched enormously, so Greenland looks as large as Africa, when Africa is in fact about fourteen times bigger."
+        },
+        {
+          "id": "s19",
+          "speaker": "Professor Cho",
+          "text": "For a sailor, that mattered little. The trouble began when the same projection moved from the ship's cabin to the classroom wall. Generations of children grew up believing that Europe was larger than South America, and that the countries of the north were somehow more important."
+        },
+        {
+          "id": "s20",
+          "speaker": "Professor Cho",
+          "text": "I don't want to exaggerate. Nobody sat down and decided to mislead children. But a picture repeated every day has a quiet influence, and it's reasonable to ask whether the habit of seeing the world that way affected how people thought about it."
+        },
+        {
+          "id": "s21",
+          "speaker": "Professor Cho",
+          "text": "Alternatives exist. Some preserve the sizes of countries at the cost of distorting their shapes. Others split the world into pieces, like an orange peel. Each has its own weakness, because no projection can do everything."
+        },
+        {
+          "id": "s22",
+          "speaker": "Professor Cho",
+          "text": "That, to me, is the lesson. There is no neutral map. Whenever you look at one, ask what it was made for, who it was made for, and what it has been forced to sacrifice."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Maps in our pockets",
+      "intro": "You will hear Clara and a technology writer, Sam, discussing digital maps.",
+      "speakers": {
+        "Clara": "female",
+        "Sam": "male"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Clara",
+          "text": "Sam, almost everyone now has a map in their pocket that knows exactly where they are. Has that changed what a map is?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Sam",
+          "text": "Profoundly. The old paper map was the same for everybody. A digital map is different for each person. It shows the route it thinks you want, the restaurants it thinks you'll like, and it updates itself constantly."
+        },
+        {
+          "id": "s25",
+          "speaker": "Clara",
+          "text": "That sounds wonderful. I'm sensing a but."
+        },
+        {
+          "id": "s26",
+          "speaker": "Sam",
+          "text": "There are several. The first is a loss of skill. Studies suggest that people who follow spoken directions remember much less about the route than those who use a paper map. They arrive, but they have no picture of where they've been."
+        },
+        {
+          "id": "s27",
+          "speaker": "Clara",
+          "text": "I confess that's true of me. I've lived in my town for ten years and I couldn't draw it."
+        },
+        {
+          "id": "s28",
+          "speaker": "Sam",
+          "text": "The second is more subtle. Behind every digital map is a company deciding what to show. If a business pays to appear, or if a street is judged unsafe by an algorithm, nobody tells you. The map presents itself as neutral, and that's precisely what makes it persuasive."
+        },
+        {
+          "id": "s29",
+          "speaker": "Clara",
+          "text": "So the old lesson still applies."
+        },
+        {
+          "id": "s30",
+          "speaker": "Sam",
+          "text": "Absolutely. Every map is an argument. We've simply stopped noticing."
+        },
+        {
+          "id": "s31",
+          "speaker": "Clara",
+          "text": "Is there a positive side?"
+        },
+        {
+          "id": "s32",
+          "speaker": "Sam",
+          "text": "A big one. Volunteers around the world now draw maps of places that official maps ignore, such as informal settlements, remote villages and roads after a flood. During emergencies, those maps have helped rescuers reach people who didn't officially exist on any chart."
+        },
+        {
+          "id": "s33",
+          "speaker": "Clara",
+          "text": "A fitting place to end. Maps began as claims about who owns the land, and now they can also be a way of saying, you matter, you're here."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What was the purpose of the ancient clay tablet from Mesopotamia?",
+      "options": [
+        "To settle a dispute about land",
+        "To show where the stars appear at night",
+        "To guide travellers across the country"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It showed a plot of land to settle a legal dispute about ownership.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "its purpose was to settle a legal dispute about who owned what"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does Clara suggest about early maps found on cave walls?",
+      "options": [
+        "They are very accurate.",
+        "They were clearly used for navigation.",
+        "They were made by the Greeks.",
+        "Their purpose is not certain."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says we can't be certain of what they show, and that this is revealing.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "We can't be certain."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Clara think of a map?",
+      "options": [
+        "As a decision about what matters",
+        "As a tool only for finding your way",
+        "As a neutral record of reality"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says a map is a decision about what matters, not simply a record.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "A map is not simply a record of reality; it's a decision about what matters."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did the ancient Greeks achieve?",
+      "options": [
+        "They drew accurate maps of the whole world.",
+        "They invented a way of printing maps by machine.",
+        "They worked out the earth's size from shadows."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They estimated the earth's size using the shadow of a stick in two towns.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "using nothing more than the shadow of a stick in two different towns"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Clara say she will study what maps leave out?",
+      "options": [
+        "She thinks the gaps are often the most interesting.",
+        "She wants to criticise the mapmakers who left things out.",
+        "She thinks that most maps are mostly empty space."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the silences on a map are often the most interesting parts.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "the silences on a map are often the most interesting parts"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Dr Bell say about the large cathedral maps?",
+      "options": [
+        "They were made by sailors for use at sea.",
+        "They should not be judged as navigation aids.",
+        "They were inaccurate because of copying mistakes.",
+        "They were copied from the sailors' sea charts."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They were more like illustrated sermons, so accuracy is the wrong question.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "They were more like illustrated sermons"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What do the sailors' charts show very accurately?",
+      "options": [
+        "Mountain ranges",
+        "Coastlines",
+        "Cities inland"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They are astonishingly accurate for coastlines.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "They're astonishingly accurate for coastlines"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why did sea charts leave out most inland features?",
+      "options": [
+        "The sailors had never visited the inland areas.",
+        "The charts were too small to hold such detail.",
+        "They were not needed to sail between harbours."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A chart's job was to get a ship from one harbour to another.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "A chart had one job: to get a ship from one harbour to another."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Dr Bell's point about the purpose of a map?",
+      "options": [
+        "It is hidden from users.",
+        "It is not important.",
+        "It decides what the map shows."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says the purpose of a map decides what it shows.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "how the purpose of a map decides what it shows"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Dr Bell mention a mapmaker in a warehouse in the capital?",
+      "options": [
+        "To criticise mapmakers who lived in capital cities",
+        "To show mapmakers relied on others' accounts",
+        "To describe the warehouses where maps were sold"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The mapmaker depended on the word of men who had travelled.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "He depended on the word of men who had."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What was the main advantage of the famous projection for sailors?",
+      "options": [
+        "It showed coastlines and cities very clearly.",
+        "A straight line gave a constant compass bearing.",
+        "It showed the true sizes of countries near the poles."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Its virtue is that a straight line gives a constant bearing.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "a straight line on it gives a constant compass bearing"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What is the problem with Greenland on this map?",
+      "options": [
+        "It is drawn in the wrong place.",
+        "It looks as large as Africa.",
+        "It looks too small.",
+        "It is missing."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Greenland looks as large as Africa although Africa is about fourteen times bigger.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Greenland looks as large as Africa"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is Professor Cho's attitude to the idea that people were deliberately misled?",
+      "options": [
+        "He is sure it was a deliberate conspiracy.",
+        "He says nobody set out to mislead children.",
+        "He thinks the whole idea is complete nonsense."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says no one decided to mislead, but repeated pictures have a quiet influence.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Nobody sat down and decided to mislead children."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does he mention the orange peel?",
+      "options": [
+        "To suggest that oranges are perfectly round",
+        "To describe a type of alternative projection",
+        "To explain what sailors ate on long voyages"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Some alternative projections split the world into pieces like an orange peel.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Others split the world into pieces, like an orange peel."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is his main lesson?",
+      "options": [
+        "The famous projection should be banned.",
+        "There is no such thing as a neutral map.",
+        "Globes are always better than flat maps."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says there is no neutral map.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "There is no neutral map."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How is a digital map different from a paper map, according to Sam?",
+      "options": [
+        "It is personalised for each user.",
+        "It is never updated after you buy it.",
+        "It is more expensive to produce."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A digital map is different for each person.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "A digital map is different for each person."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What do studies suggest about people who follow spoken directions?",
+      "options": [
+        "They never get lost on a journey.",
+        "They remember less about the route.",
+        "They arrive at their destination faster."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They remember much less about the route than paper map users.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "they have no picture of where they've been"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Sam's concern about digital maps presenting themselves as neutral?",
+      "options": [
+        "This makes them more persuasive.",
+        "This makes them harder to read.",
+        "This makes them cheaper to produce.",
+        "This makes them less interesting."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says that is precisely what makes them persuasive.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "that's precisely what makes it persuasive"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What have volunteers done with maps?",
+      "options": [
+        "Deleted old maps from public databases",
+        "Sold their maps to emergency services",
+        "Drawn places missing from official maps"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They map informal settlements, remote villages and roads after floods.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "Volunteers around the world now draw maps of places that official maps ignore"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Clara's final point?",
+      "options": [
+        "Digital maps are now completely accurate.",
+        "Maps can now say that people matter.",
+        "Maps should go back to being on paper."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says maps began as claims about ownership and can now say you matter, you're here.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "you matter, you're here"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "id": "l-yl-m-my-favourite-tv-show",
+  "title": "My Favourite TV Show",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about TV shows: two friends, a boy talking and a phone message.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Two friends",
+      "intro": "You will hear Mai and Ben talking about TV.",
+      "speakers": {
+        "Mai": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Ben, did you watch the cooking show last night?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Ben",
+          "text": "No, Mai. I watched a nature programme about whales. It was really good."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "My favourite show is Cook Club. Four children make a dinner and a chef gives them marks."
+        },
+        {
+          "id": "s4",
+          "speaker": "Ben",
+          "text": "It sounds fun. When is it on? I never know which shows are good, so I always ask you."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "Every Thursday at six o'clock, after the news. No, sorry, before the news. The news starts at half past six."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ben",
+          "text": "I'll watch it this Thursday. I like funny shows best."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "It is funny! Last week a boy put salt in the cake."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Minh's favourite show",
+      "intro": "You will hear Minh talking about his favourite TV show.",
+      "speakers": {
+        "Minh": "male"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Minh",
+          "text": "My favourite TV show is called Space Detectives. It's about a girl, Zoe, and her robot dog, Max."
+        },
+        {
+          "id": "s9",
+          "speaker": "Minh",
+          "text": "They fly to different planets and solve problems. My favourite character is Max because he's very funny and he can sing."
+        },
+        {
+          "id": "s10",
+          "speaker": "Minh",
+          "text": "My brother likes the show too, but he doesn't like the music. He says it's too loud."
+        },
+        {
+          "id": "s11",
+          "speaker": "Minh",
+          "text": "I watch it on Saturday morning with my grandfather. We eat toast and drink hot chocolate while we watch."
+        },
+        {
+          "id": "s12",
+          "speaker": "Minh",
+          "text": "There are three seasons, and I have seen them all twice. I think the next season will be even better, but we must wait until next summer."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone message",
+      "intro": "You will hear Linh leave a message for her friend Nam.",
+      "speakers": {
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Linh",
+          "text": "Hi, Nam. It's Linh. Guess what? My favourite singer is going to be on TV tonight!"
+        },
+        {
+          "id": "s14",
+          "speaker": "Linh",
+          "text": "The programme starts at seven o'clock on channel four."
+        },
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "It's on for one hour, so it finishes at eight. Do you want to come to my house and watch it?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Linh",
+          "text": "My mum is making pizza. Bring your sister if you want. Call me back after school. It will be a really nice evening, and we can talk about the show afterwards."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did Ben watch last night?",
+      "options": [
+        "The news",
+        "A nature programme",
+        "A cooking show"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben watched a nature programme about whales.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I watched a nature programme about whales."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many children cook in the show?",
+      "options": [
+        "Five",
+        "Four",
+        "Six"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Four children make a dinner.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "Four children make a dinner"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When is Cook Club on?",
+      "options": [
+        "Tuesday at six o'clock",
+        "Thursday at six o'clock",
+        "Thursday at half past six"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It is on every Thursday at six o'clock. Half past six is when the news starts.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Every Thursday at six o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What kind of shows does Ben like best?",
+      "options": [
+        "Nature shows",
+        "Sports shows",
+        "Funny shows"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ben says he likes funny shows best.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I like funny shows best."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did the boy put in the cake?",
+      "options": [
+        "Salt",
+        "Sugar",
+        "Milk"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A boy put salt in the cake.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "a boy put salt in the cake"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Minh talking about?",
+      "options": [
+        "A trip to space",
+        "His favourite TV show",
+        "His brother's birthday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Minh talks about his favourite show, Space Detectives.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "My favourite TV show is called Space Detectives."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who is Max?",
+      "options": [
+        "A boy detective",
+        "A robot dog",
+        "A space teacher"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Max is Zoe's robot dog.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "her robot dog, Max"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "Why does Minh like Max?",
+      "options": [
+        "He is very funny.",
+        "He is very fast.",
+        "He is very clever."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Minh likes Max because he is very funny and can sing.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "he's very funny and he can sing"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Minh's brother think about the music?",
+      "options": [
+        "It is great.",
+        "It is too loud.",
+        "It is too slow."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His brother says the music is too loud.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "He says it's too loud."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who watches the show with Minh?",
+      "options": [
+        "His friend",
+        "His brother",
+        "His grandfather"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Minh watches it with his grandfather on Saturday morning.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "with my grandfather"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why is Linh calling?",
+      "options": [
+        "To invite Nam to watch TV",
+        "To say she is ill",
+        "To ask about homework"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She asks Nam to come to her house and watch the programme.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Do you want to come to my house and watch it?"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time does the programme start?",
+      "options": [
+        "At six o'clock",
+        "At seven o'clock",
+        "At eight o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It starts at seven o'clock. Eight o'clock is when it finishes.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "The programme starts at seven o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How long is the programme?",
+      "options": [
+        "Two hours",
+        "Half an hour",
+        "One hour"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says it is on for one hour.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "It's on for one hour"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will Linh's mum make?",
+      "options": [
+        "Pasta",
+        "Pancakes",
+        "Pizza"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh's mum is making pizza.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "My mum is making pizza."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Who can Nam bring?",
+      "options": [
+        "His dog",
+        "His book",
+        "His sister"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says Nam can bring his sister.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Bring your sister if you want."
+        }
+      ]
+    }
+  ]
+}

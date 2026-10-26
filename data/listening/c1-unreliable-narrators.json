@@ -1,0 +1,624 @@
+{
+  "id": "l-c1-unreliable-narrators",
+  "title": "Unreliable Narrators",
+  "level": "C1 · Advanced",
+  "description": "A book club, a lecture, an interview with a novelist and a critics' debate about narrators who cannot be trusted.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B, C or D) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A book club",
+      "intro": "You will hear two members of a book club, Linh and Nam, discussing a novel narrated by a man called Alder.",
+      "speakers": {
+        "Linh": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "Right, shall we begin? I'll admit I finished the novel in two sittings, and then went back to the start, because I felt cheated. The narrator, Mr Alder, seems so reasonable and so kind, and yet by the end I didn't trust a word."
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "Cheated? I felt the opposite. I loved being fooled. It's the first time a book has made me read my own judgement with suspicion. I trusted Alder completely until the chapter about the boat."
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "That's precisely my problem, Nam. The author never lets him lie outright. He simply leaves things out. Every time the village people are mentioned, he changes the subject."
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "Which is surely the point. Unreliable doesn't mean dishonest. Alder believes his own story. He isn't hiding the truth from us so much as from himself."
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "Hmm. I'd say that makes him more tragic than unreliable. And I do think there's a difference between a narrator who deceives himself and a narrator who deliberately misleads the reader."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "Fair. But the clues are all there for a patient reader. The lamp that's described as faithfully lit every night, even in the week he supposedly was ill. I only noticed on the second reading."
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "Well, I noticed the lamp too, but I assumed it was the author's slip. That's the trouble with this technique. If you can't tell a deliberate clue from a mistake, the whole effect collapses."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "Or you read it twice, and enjoy it twice. Which, frankly, is a better return on a book than most."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A literature lecture",
+      "intro": "You will hear a literature lecturer, Professor Reyes, introducing the idea of the unreliable narrator.",
+      "speakers": {
+        "Prof Reyes": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Prof Reyes",
+          "text": "The term unreliable narrator was coined in the nineteen sixties by a critic who noticed that in some novels the teller of the story and the author do not share the same values. Think of the author as standing behind the narrator, quietly signalling to the reader that something is wrong."
+        },
+        {
+          "id": "s10",
+          "speaker": "Prof Reyes",
+          "text": "Critics usually distinguish several types. The first is the naive narrator, often a child, who reports events accurately but does not understand them. A reader sees an adult's cruelty where the child sees only a strange mood in the house. The gap between what is reported and what is understood generates the irony."
+        },
+        {
+          "id": "s11",
+          "speaker": "Prof Reyes",
+          "text": "The second is the self-deceiving narrator, who understands enough but cannot bear the truth, and so edits it. Their reliability is damaged by emotion, not by ignorance. The third is the deliberate liar, a narrator who misleads the reader on purpose, perhaps to hide a crime. This type is rarer than people think, and often the least interesting, because it can feel like a trick rather than a revelation."
+        },
+        {
+          "id": "s12",
+          "speaker": "Prof Reyes",
+          "text": "How do readers detect unreliability? Usually through internal contradictions, like a narrator who claims to be calm while describing shaking hands. Or through other characters whose accounts do not match. Sometimes it is simply an excess of justification. A narrator who protests too much that he is honest makes the reader grow suspicious."
+        },
+        {
+          "id": "s13",
+          "speaker": "Prof Reyes",
+          "text": "Why do authors choose this method? One answer is realism. In life, we only ever have one point of view, our own, and it is never entirely trustworthy. A narrator who is certain about everything is, in a sense, the less realistic one."
+        },
+        {
+          "id": "s14",
+          "speaker": "Prof Reyes",
+          "text": "For next week, please read the short story on the reading list and decide which type the narrator is. And be ready to defend your view, because I suspect you will not all agree."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · An interview with a novelist",
+      "intro": "You will hear a presenter, Hanna, interviewing a novelist, Gareth Cole, about his latest book.",
+      "speakers": {
+        "Hanna": "female",
+        "Gareth": "male"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Hanna",
+          "text": "Gareth, your latest novel is narrated by a retired headmaster who gradually reveals that he's rewritten his own past. Where did that voice come from?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Gareth",
+          "text": "From my grandfather, I suppose. He told wonderful stories about his youth, and as I got older I realised half of them couldn't be true. It didn't make me love him less. It made me curious about why he needed them to be true."
+        },
+        {
+          "id": "s17",
+          "speaker": "Hanna",
+          "text": "Was it difficult to write a voice you knew was lying?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Gareth",
+          "text": "Technically, the hardest part is the discipline. You have to know the truth exactly, so you can control what the narrator hides. I kept two documents, the narrator's version and the real chronology, side by side. Every inconsistency in the book was placed there on purpose."
+        },
+        {
+          "id": "s19",
+          "speaker": "Hanna",
+          "text": "How many clues did you plant?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Gareth",
+          "text": "Too many, according to my editor. She said readers would guess in the first fifty pages. We cut some, then I put a few back. The balance is delicate. If the reader suspects too early, the book becomes a puzzle; if too late, they feel tricked."
+        },
+        {
+          "id": "s21",
+          "speaker": "Hanna",
+          "text": "Some readers said they hated him."
+        },
+        {
+          "id": "s22",
+          "speaker": "Gareth",
+          "text": "Yes, and I take that as a compliment, though I hoped for something more complicated, which is pity mixed with irritation. The best letters I get say, I wanted to shake him, and then I felt sorry for him."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A critics' debate",
+      "intro": "You will hear two critics, Minh and Zoe, debating whether unreliable narrators are overused.",
+      "speakers": {
+        "Minh": "male",
+        "Zoe": "female"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Minh",
+          "text": "I'll say it plainly: the unreliable narrator has become a lazy habit. Every second thriller now ends with a revelation that the narrator has been lying, and readers have learned to expect it, which rather defeats the point."
+        },
+        {
+          "id": "s24",
+          "speaker": "Zoe",
+          "text": "I'd distinguish the technique from the bad use of it. Plenty of mediocre thrillers use twists, but that doesn't make the technique itself tired. The best examples still unsettle us, because they make us ask how much of any story we should believe."
+        },
+        {
+          "id": "s25",
+          "speaker": "Minh",
+          "text": "Perhaps, but the question has changed. Readers now approach every narrator with suspicion. If I trust nobody, then the twist can't surprise me. It has become a game of spotting the lie, like a crossword."
+        },
+        {
+          "id": "s26",
+          "speaker": "Zoe",
+          "text": "And what's wrong with crosswords? Seriously. Though I accept that the game tends to crowd out feeling. The most moving examples are those in which the lie matters emotionally, rather than just structurally."
+        },
+        {
+          "id": "s27",
+          "speaker": "Minh",
+          "text": "Agreed. What I'd like to see is the opposite experiment: a narrator who seems shifty, yet turns out to be telling the whole truth. That would catch a modern reader off guard."
+        },
+        {
+          "id": "s28",
+          "speaker": "Zoe",
+          "text": "Ha. That's rather clever, actually. Trust as the final twist. I'd read that."
+        },
+        {
+          "id": "s29",
+          "speaker": "Minh",
+          "text": "So would I. And it might remind publishers that surprise isn't a formula."
+        },
+        {
+          "id": "s30",
+          "speaker": "Zoe",
+          "text": "Well, on that I can't disagree."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Linh feel about the novel?",
+      "options": [
+        "She feels the author has tricked her.",
+        "She found the story too slow to finish.",
+        "She thinks Alder is a kind, honest man.",
+        "She is delighted by the surprise ending."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she felt cheated and by the end did not trust a word.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "I felt cheated"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What was Nam's reaction to being misled?",
+      "options": [
+        "He stopped reading at the boat chapter.",
+        "He guessed the truth immediately.",
+        "He enjoyed it.",
+        "He was annoyed with the author."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he loved being fooled and trusted Alder until the boat chapter.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I loved being fooled"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How does Alder mislead the reader, according to Linh?",
+      "options": [
+        "by inventing a second narrator",
+        "by lying openly about events",
+        "by avoiding certain subjects",
+        "by blaming the village people"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The author never lets him lie outright; he leaves things out and changes the subject.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "He simply leaves things out"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What is Nam's view of what makes Alder unreliable?",
+      "options": [
+        "He has simply forgotten what happened in the past.",
+        "He was told what to say by the author.",
+        "He is dishonest in everything he says.",
+        "He deceives himself rather than the reader."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Nam says unreliable does not mean dishonest; Alder is hiding the truth from himself.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "so much as from himself"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does Linh doubt the technique in the lamp example?",
+      "options": [
+        "The author forgot to describe the week of illness.",
+        "A reader may mistake a clue for an error.",
+        "The lamp was never mentioned again later.",
+        "Second readings are never very rewarding."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She thought the lamp was the author's slip, so she says unclear clues make the effect collapse.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "If you can't tell a deliberate clue from a mistake"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What creates irony with a naive narrator?",
+      "options": [
+        "The narrator lies about how adults behave at home.",
+        "The gap between what is told and understood.",
+        "The narrator is always a child of about ten.",
+        "The author comments directly on the narrator's events."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The gap between what is reported and what is understood generates the irony.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "The gap between what is reported and what is understood generates the irony"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does the lecturer find the deliberate liar the least interesting type?",
+      "options": [
+        "It is damaged by the narrator's emotions.",
+        "It appears in too many children's books.",
+        "It can seem like a trick, not a revelation.",
+        "It makes the author invisible to readers."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says it is often the least interesting because it can feel like a trick.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "it can feel like a trick rather than a revelation"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which of these is given as a way of noticing unreliability?",
+      "options": [
+        "a narrator who changes names between chapters",
+        "a narrator who appears in every single chapter",
+        "a narrator who contradicts what he describes",
+        "a narrator who uses very simple language"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She mentions a narrator who claims to be calm while describing shaking hands.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "internal contradictions"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What does the lecturer suggest about a narrator who insists he is honest?",
+      "options": [
+        "The reader is likely to become doubtful.",
+        "The narrator is probably a young child.",
+        "The author is hiding a crime from us.",
+        "The reader will believe him all the more."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says that a narrator who protests too much makes the reader suspicious.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "protests too much that he is honest"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is the lecturer's view of narrators who are certain about everything?",
+      "options": [
+        "They are less true to life.",
+        "They are more trustworthy.",
+        "They are more popular with critics.",
+        "They are easier to read."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says that such a narrator is the less realistic one, since real people have only one point of view.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "the less realistic one"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What did Gareth's grandfather's stories make him interested in?",
+      "options": [
+        "how to teach young readers to enjoy stories",
+        "how to write about their own family history",
+        "whether old people forget parts of the past",
+        "why people need their stories to be true"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He did not love his grandfather less; he became curious about why he needed the stories to be true.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "curious about why he needed them to be true"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How did Gareth keep control of what the narrator hides?",
+      "options": [
+        "He wrote the book in reverse, chapter by chapter.",
+        "He changed the story a little after each draft.",
+        "He kept the true timeline beside the narrator's.",
+        "He asked his editor to check every single page."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He kept two documents, the narrator's version and the real chronology.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I kept two documents"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did Gareth's editor think about the clues?",
+      "options": [
+        "They were all in the wrong place.",
+        "They were too difficult to follow.",
+        "There were too few of them.",
+        "There were too many of them."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She said there were too many, and readers would guess in the first fifty pages.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Too many, according to my editor"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Gareth feel about readers who hated the narrator?",
+      "options": [
+        "Angry that they had missed all the clues.",
+        "Indifferent to what readers thought of him.",
+        "Pleased, but he hoped for a mixed reaction.",
+        "Disappointed by their lack of pity for him."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He takes it as a compliment but hoped for pity mixed with irritation.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I take that as a compliment"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Gareth say the timing of the reader's suspicion is delicate?",
+      "options": [
+        "Suspicion makes readers dislike the narrator.",
+        "The editor insisted on a very late reveal.",
+        "Too early makes it a puzzle, too late a trick.",
+        "Readers prefer to guess early in the book."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If the reader suspects early the book becomes a puzzle; if late, they feel tricked.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "the book becomes a puzzle"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Minh's main criticism of unreliable narrators today?",
+      "options": [
+        "They have become predictable.",
+        "They are too difficult for readers.",
+        "They are used only in children's books.",
+        "They are always dishonest."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He calls it a lazy habit that readers have learned to expect, which defeats the point.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "a lazy habit"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Zoe respond to this criticism?",
+      "options": [
+        "She says bad examples do not ruin the technique.",
+        "She thinks readers should be more suspicious.",
+        "She agrees that the technique is finished.",
+        "She says thrillers should avoid all twists."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She distinguishes the technique from its bad use and says the best examples still unsettle.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I'd distinguish the technique from the bad use of it"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does Minh compare reading to a crossword?",
+      "options": [
+        "Readers hunt for the lie, not the story.",
+        "Thrillers are too short to be satisfying.",
+        "Crosswords have the same twist every time.",
+        "Readers enjoy puzzles more than stories."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says that because readers trust nobody, reading becomes a game of spotting the lie.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "a game of spotting the lie"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Zoe concede?",
+      "options": [
+        "Good examples of it are now rare.",
+        "The game can push out real feeling.",
+        "Crosswords are not worth discussing.",
+        "Structure matters more than feeling."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She accepts that the game tends to crowd out feeling.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "the game tends to crowd out feeling"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What is Minh's idea for a new kind of novel?",
+      "options": [
+        "a narrator who seems shifty but is honest",
+        "a thriller with a crossword at its centre",
+        "a narrator who admits lying from the start",
+        "a story told by two unreliable narrators"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He would like a shifty-seeming narrator who tells the whole truth.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "turns out to be telling the whole truth"
+        }
+      ]
+    }
+  ]
+}

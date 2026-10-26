@@ -1,0 +1,594 @@
+{
+  "id": "l-yl-f-an-island-holiday",
+  "title": "An Island Holiday",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about a holiday on an island: a family chat, a boat booking, a message and a hotel talk.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Packing for the island",
+      "intro": "You will hear a boy, Tuan, talking to his mum about the holiday.",
+      "speakers": {
+        "Tuan": "male",
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Tuan",
+          "text": "Mum, is it true that the boat to the island takes two hours?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Mum",
+          "text": "No, only one hour, Tuan. But the bus to the harbour takes two hours, so we must leave early."
+        },
+        {
+          "id": "s3",
+          "speaker": "Tuan",
+          "text": "What time? Eight o'clock?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Mum",
+          "text": "Earlier than that. The bus goes at seven, so we'll get up at half past five."
+        },
+        {
+          "id": "s5",
+          "speaker": "Tuan",
+          "text": "Oh no! Can I bring my snorkel to swim with the fish?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Mum",
+          "text": "Of course. Bring your swimming shorts and a hat too. The sun will be very strong."
+        },
+        {
+          "id": "s7",
+          "speaker": "Tuan",
+          "text": "What about my tablet?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Mum",
+          "text": "Please leave it at home. There's no signal on the island. You can read a book instead."
+        },
+        {
+          "id": "s9",
+          "speaker": "Tuan",
+          "text": "OK. I'll take my adventure story. I'm so excited!"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Booking a boat trip",
+      "intro": "You will hear Mr Hall asking about a boat trip on the island.",
+      "speakers": {
+        "Mr Hall": "male",
+        "Hoa": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Hoa",
+          "text": "Good morning, Blue Bay Tours. How can I help you?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Mr Hall",
+          "text": "Hello. I'd like to book a boat trip to see the dolphins, please."
+        },
+        {
+          "id": "s12",
+          "speaker": "Hoa",
+          "text": "Certainly. The trip is on Tuesday, Thursday and Saturday mornings. Which day would you like?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Mr Hall",
+          "text": "Thursday, please. There will be four of us, two adults and two children."
+        },
+        {
+          "id": "s14",
+          "speaker": "Hoa",
+          "text": "The boat leaves at nine o'clock and comes back at noon. It costs fifteen pounds for adults and ten for children."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mr Hall",
+          "text": "That's fine. Do we need to bring lunch?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Hoa",
+          "text": "No, we give you a sandwich and a drink on the boat. But bring sun cream and a coat, because it's windy on the sea."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mr Hall",
+          "text": "Thank you. Where do we meet?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Hoa",
+          "text": "At the little wooden pier next to the lighthouse."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A message from Grandpa",
+      "intro": "You will hear a message from Grandpa, who lives on the island.",
+      "speakers": {
+        "Grandpa": "male"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Grandpa",
+          "text": "Hello, Lan. It's Grandpa. I'm so happy you're coming to the island next week."
+        },
+        {
+          "id": "s20",
+          "speaker": "Grandpa",
+          "text": "I'll meet you at the harbour on Saturday at noon. If it's raining, I'll wait inside the small café."
+        },
+        {
+          "id": "s21",
+          "speaker": "Grandpa",
+          "text": "My house is near the beach, and your room has a view of the sea. You can hear the waves at night."
+        },
+        {
+          "id": "s22",
+          "speaker": "Grandpa",
+          "text": "On Sunday, we can go fishing in my old boat. Don't worry, I will give you a life jacket. I know your mother worries a lot."
+        },
+        {
+          "id": "s23",
+          "speaker": "Grandpa",
+          "text": "Oh, one more thing. Bring your warm jumper. The evenings are cold here. Safe journey, my dear!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A talk at the hotel",
+      "intro": "You will hear a hotel manager, Mrs Bell, welcoming guests.",
+      "speakers": {
+        "Mrs Bell": "female"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Mrs Bell",
+          "text": "Good evening, everybody, and welcome to the Palm Beach Hotel. I hope you had a good journey."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mrs Bell",
+          "text": "Breakfast is served from seven to ten in the garden. The best thing on the menu is the fresh mango, which comes from our own trees."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mrs Bell",
+          "text": "The swimming pool is open all day, but the sea can be dangerous in the afternoon when the tide is strong. Please swim only in the morning."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mrs Bell",
+          "text": "If you want to explore the island, you can borrow a bicycle for free. They are by the front door. Remember to take a bottle of water."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mrs Bell",
+          "text": "There will be music and dancing on the beach tomorrow night. It starts at eight o'clock. I hope you all enjoy your stay!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How long does the boat journey take?",
+      "options": [
+        "One hour",
+        "Two hours",
+        "Half an hour"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The bus takes two hours, but the boat takes only one hour.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "No, only one hour, Tuan."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time does the bus leave?",
+      "options": [
+        "At half past five",
+        "At seven o'clock",
+        "At eight o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Half past five is when they get up.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "The bus goes at seven"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Tuan want to do with his snorkel?",
+      "options": [
+        "Swim with the fish",
+        "Dive for shells",
+        "Catch fish"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He asks to bring it to swim with the fish.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Can I bring my snorkel to swim with the fish?"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why can't Tuan take his tablet?",
+      "options": [
+        "It is too heavy.",
+        "It is broken.",
+        "There is no signal on the island."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum says there is no signal on the island.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "There's no signal on the island."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Tuan read?",
+      "options": [
+        "An adventure story",
+        "A magazine",
+        "A school book"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he'll take his adventure story.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I'll take my adventure story."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "What does Mr Hall want to do?",
+      "options": [
+        "Find a hotel",
+        "Buy a boat",
+        "Book a trip to see dolphins"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He asks to book a boat trip to see the dolphins.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I'd like to book a boat trip to see the dolphins, please."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which day does he choose?",
+      "options": [
+        "Thursday",
+        "Tuesday",
+        "Saturday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Three days are possible; he chooses Thursday.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Thursday, please."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much will the trip cost for the whole family?",
+      "options": [
+        "Sixty pounds",
+        "Forty pounds",
+        "Fifty pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Two adults at fifteen and two children at ten make fifty pounds.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "It costs fifteen pounds for adults and ten for children."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What do they get on the boat?",
+      "options": [
+        "A hot meal",
+        "A sandwich and a drink",
+        "A coat"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Hoa says they give a sandwich and a drink, so there is no need for lunch.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "we give you a sandwich and a drink on the boat"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where do they meet?",
+      "options": [
+        "By the lighthouse",
+        "At the beach",
+        "At the hotel"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The meeting place is the wooden pier next to the lighthouse.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "At the little wooden pier next to the lighthouse."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "Why is Grandpa calling?",
+      "options": [
+        "To sell his boat",
+        "To invite Lan to a party",
+        "To talk about Lan's visit"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He is happy Lan is coming and tells her the plans.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I'm so happy you're coming to the island next week."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where will Grandpa wait if it rains?",
+      "options": [
+        "At the beach",
+        "In the café",
+        "In his boat"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He will wait inside the small café.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I'll wait inside the small café."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What can Lan hear from her room?",
+      "options": [
+        "The birds",
+        "The waves",
+        "The boats"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her room has a view of the sea and she can hear the waves.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "You can hear the waves at night."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why will Grandpa give Lan a life jacket?",
+      "options": [
+        "The boat is old.",
+        "Her mother worries.",
+        "The sea is rough."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He knows her mother worries a lot, so he will give her one.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I know your mother worries a lot."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Grandpa ask Lan to bring?",
+      "options": [
+        "A warm jumper",
+        "A raincoat",
+        "A hat"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The evenings are cold, so she needs a jumper.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "Bring your warm jumper."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "Who is Mrs Bell talking to?",
+      "options": [
+        "Hotel guests",
+        "Teachers",
+        "Fishermen"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She welcomes guests to her hotel.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "welcome to the Palm Beach Hotel"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does Mrs Bell say is the best thing at breakfast?",
+      "options": [
+        "The bread",
+        "The orange juice",
+        "The mango"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The fresh mango comes from the hotel's own trees.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "The best thing on the menu is the fresh mango"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "Why should guests swim in the morning?",
+      "options": [
+        "The water is cold at night.",
+        "The sea is dangerous in the afternoon.",
+        "The pool is closed later."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The tide is strong in the afternoon.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "the sea can be dangerous in the afternoon"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How can guests explore the island?",
+      "options": [
+        "By borrowing a bicycle",
+        "By hiring a boat",
+        "By taking a bus"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Bicycles are free by the front door.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "you can borrow a bicycle for free"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When does the beach party start?",
+      "options": [
+        "At eight o'clock tomorrow night",
+        "At ten o'clock tomorrow morning",
+        "At seven o'clock tonight"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The music and dancing start at eight tomorrow night.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "It starts at eight o'clock."
+        }
+      ]
+    }
+  ]
+}

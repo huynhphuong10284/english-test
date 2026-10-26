@@ -1,0 +1,613 @@
+{
+  "id": "l-c2-free-will",
+  "title": "Free Will",
+  "level": "C2 · Proficiency",
+  "description": "Four recordings on free will: a philosophy lecture, a seminar, a talk on experiments and a radio conversation.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A philosophy lecture",
+      "intro": "You will hear a professor beginning a lecture on free will.",
+      "speakers": {
+        "Professor": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Professor",
+          "text": "Good afternoon. Today I want to unsettle something most of you take for granted, namely the feeling that you could have done otherwise. When you chose your breakfast this morning, it seemed obvious that you might have picked something different. Philosophers call that conviction the sense of agency, and the question for the next hour is whether it is a window onto reality or merely a very convincing illusion."
+        },
+        {
+          "id": "s2",
+          "speaker": "Professor",
+          "text": "Let me begin with the position known as determinism. The determinist says that every event, including every thought, is the necessary outcome of earlier events combined with the laws of nature. If that is true, then given the state of the universe a million years ago, your breakfast was already settled. Now, I should stress that determinism is not a scientific finding. It is a philosophical thesis, and physics, with its talk of probability, has made it considerably harder to defend than it was two centuries ago."
+        },
+        {
+          "id": "s3",
+          "speaker": "Professor",
+          "text": "Here is where the argument gets interesting. You might assume that randomness would rescue us. If the universe is not fully determined, surely we are free? Well, not necessarily. A decision that simply pops out of chance is no more yours than one forced on you by the past. Freedom, if it exists, seems to require something stranger than either necessity or luck, and that is the puzzle which has occupied thinkers since antiquity."
+        },
+        {
+          "id": "s4",
+          "speaker": "Professor",
+          "text": "So there are, broadly, three camps. The libertarians insist that we are genuinely free and that determinism is false. The hard determinists accept the physics and conclude that freedom is an illusion. And the compatibilists, who are the largest group among professional philosophers, argue that the whole dilemma rests on a muddle. Freedom, they say, was never about escaping causation. It is about acting on your own reasons, without coercion."
+        },
+        {
+          "id": "s5",
+          "speaker": "Professor",
+          "text": "I will be candid with you. I used to dismiss compatibilism as a verbal trick, a way of changing the subject. Over the years I have come round to thinking it captures something important, though I do not believe it settles everything. Hold that thought, because next week we will test it against the problem of moral responsibility, which is where the stakes become uncomfortably real."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A seminar discussion",
+      "intro": "You will hear a lecturer, Dr Hale, and a student, Linh, discussing the ideas from the lecture.",
+      "speakers": {
+        "Dr Hale": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s6",
+          "speaker": "Linh",
+          "text": "Dr Hale, I'm still stuck on the compatibilist idea. It feels like cheating. If my reasons were themselves caused by things I never chose, how is acting on them any freer?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Dr Hale",
+          "text": "That's the classic objection, and it's a fair one. But consider what you're asking for. You want your reasons to come from nowhere, to be uncaused. Would a person like that be free, or merely unpredictable? Nobody wants to be a coin toss with opinions."
+        },
+        {
+          "id": "s8",
+          "speaker": "Linh",
+          "text": "Hmm, I suppose not. But surely there's a difference between a thermostat responding to temperature and me deciding to leave a job."
+        },
+        {
+          "id": "s9",
+          "speaker": "Dr Hale",
+          "text": "Absolutely, and the compatibilist would agree. The thermostat cannot reflect on its own settings, imagine alternatives or revise its goals. You can. The difference lies in the kind of causation involved, not in whether causation is present."
+        },
+        {
+          "id": "s10",
+          "speaker": "Linh",
+          "text": "So the freedom is in the machinery, not in some gap in the machinery."
+        },
+        {
+          "id": "s11",
+          "speaker": "Dr Hale",
+          "text": "Precisely put. Now, I won't pretend that settles the matter. A critic would say that you've merely redefined the word to make the problem vanish. And there's a practical worry as well. If people become convinced that they have no real choice, might they behave worse?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Linh",
+          "text": "I read about that. There were experiments where participants who read arguments against free will were more likely to cheat on a task."
+        },
+        {
+          "id": "s13",
+          "speaker": "Dr Hale",
+          "text": "Yes, though I'd be careful there. Several of those results have proved hard to repeat, and the effects were small. I would not build a theory of human nature on them. What I would say is that how we talk about responsibility matters, because our whole legal system is built on the assumption that people could have acted differently."
+        },
+        {
+          "id": "s14",
+          "speaker": "Linh",
+          "text": "Then what happens to punishment, if we abandon the idea?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Dr Hale",
+          "text": "Some thinkers argue that we could keep prisons for protection and deterrence while dropping the notion of deserving to suffer. Whether that is humane or merely cold is something you might explore in your essay."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A talk on experiments",
+      "intro": "You will hear a neuroscientist talking about experiments on decision making.",
+      "speakers": {
+        "Dr Okafor": "male"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Dr Okafor",
+          "text": "Few experiments in psychology have been quoted as often, and understood as poorly, as the one carried out in the early nineteen eighties on the timing of simple movements. Participants were asked to flick their wrist whenever they felt like it and to note the moment they became aware of the urge. Meanwhile, electrodes recorded a slow build-up of brain activity, and that build-up began about half a second before the person reported any intention."
+        },
+        {
+          "id": "s17",
+          "speaker": "Dr Okafor",
+          "text": "The headlines declared that free will had been disproved. Frankly, that was a leap. The build-up, it turns out, may not be a decision at all. Later work suggests it could reflect a background fluctuation in the brain, a kind of drift that tips the balance when you have no particular reason to prefer one moment over another. If you choose arbitrarily, then of course your brain will be doing something beforehand."
+        },
+        {
+          "id": "s18",
+          "speaker": "Dr Okafor",
+          "text": "Notice, too, how artificial the task was. Nobody deliberates about when to flick a wrist. The decisions that matter to us, whether to forgive someone or take a job abroad, involve weighing reasons over days. When researchers repeated the study with choices that carried real consequences, the early signal largely disappeared."
+        },
+        {
+          "id": "s19",
+          "speaker": "Dr Okafor",
+          "text": "Another problem is the reliance on self-report. Asking people to read the position of a fast-moving clock hand at the instant they felt an urge is a recipe for error. Our sense of when we decided is itself a reconstruction, and it can be nudged by what happens afterwards."
+        },
+        {
+          "id": "s20",
+          "speaker": "Dr Okafor",
+          "text": "None of this means the experiments were worthless. On the contrary, they showed that our introspective reports are less reliable than we assume, and that is a genuine discovery. But to say that neuroscience has abolished free will is like saying that, because a symphony consists of vibrating air, there is no music. We should be wary of conclusions that sound dramatic and rest on a single, narrow laboratory task."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A radio conversation",
+      "intro": "You will hear a presenter, Mai, talking to a novelist, Daniel, about free will in everyday life.",
+      "speakers": {
+        "Mai": "female",
+        "Daniel": "male"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Mai",
+          "text": "Daniel, your latest novel features a judge who loses her belief in free will. What drew you to that idea?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Daniel",
+          "text": "Honestly, a bad afternoon in a courtroom. I was serving as a juror, and I found myself wondering how any of us could be certain that the defendant had truly been free to choose otherwise. Then I realised that the same doubt could be turned on the jurors, and on me."
+        },
+        {
+          "id": "s23",
+          "speaker": "Mai",
+          "text": "And does your judge become more merciful once she doubts it?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Daniel",
+          "text": "Initially, yes. She sentences more gently. But gradually she feels a kind of vertigo, because mercy and blame depend on each other. If nobody deserves blame, then gratitude and admiration start to look empty as well. Her relationships suffer, and that was the part I found most moving to write."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mai",
+          "text": "So you're suggesting the belief has costs."
+        },
+        {
+          "id": "s26",
+          "speaker": "Daniel",
+          "text": "I'm suggesting it can, although I wouldn't want readers to take the book as a verdict. I'm a storyteller, not a philosopher. What I find reassuring is that most people, however sceptical in a seminar room, go on behaving as though their choices matter. They apologise, they plan, they feel proud."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mai",
+          "text": "Some would say that's just habit."
+        },
+        {
+          "id": "s28",
+          "speaker": "Daniel",
+          "text": "Perhaps, but it's a habit that seems to be built into being a person. My own view, for what it's worth, is that the question remains open, and that living well does not require us to resolve it first."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the main aim of the lecture?",
+      "options": [
+        "To compare ancient and modern views of physics",
+        "To prove that determinism is a scientific fact",
+        "To argue that luck is the real basis of freedom",
+        "To ask whether our sense of choosing is trustworthy"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She asks whether the sense of agency is a window onto reality or an illusion.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "whether it is a window onto reality or merely a very convincing illusion"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does the professor say about determinism?",
+      "options": [
+        "It was abandoned by philosophers two centuries ago",
+        "Physics has proved it beyond reasonable doubt",
+        "It has become easier to defend since probability entered physics",
+        "It is a philosophical thesis rather than a scientific finding"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She stresses that it is a philosophical thesis, and that physics makes it harder to defend.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "It is a philosophical thesis"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does the professor say randomness does not rescue free will?",
+      "options": [
+        "A chance decision is no more the person's own than a forced one",
+        "Chance events are always predictable once the past is known",
+        "Libertarians have rejected randomness as a source of freedom",
+        "Randomness is too rare in nature to explain human choices"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says a decision from chance is no more yours than one forced on you by the past.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "A decision that simply pops out of chance is no more yours than one forced on you by the past."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "According to the professor, what do compatibilists believe?",
+      "options": [
+        "Freedom means acting on your own reasons without coercion",
+        "Free will is an illusion that science has now exposed",
+        "Freedom requires escaping causation altogether",
+        "Determinism must be false if people are to be responsible"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Compatibilists say freedom is about acting on your own reasons, not escaping causation.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "It is about acting on your own reasons, without coercion."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does the professor feel about compatibilism now?",
+      "options": [
+        "She believes it solves every problem about responsibility",
+        "She still dismisses it as a verbal trick, as she once did",
+        "She has no settled opinion and leaves it to the class",
+        "She sees it as important, though not a complete answer"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She used to dismiss it but now thinks it captures something important, though it does not settle everything.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "I have come round to thinking it captures something important"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is Linh's first reaction to compatibilism?",
+      "options": [
+        "She finds it completely convincing once it is explained",
+        "She has not understood what the term means",
+        "She thinks it ignores the law and the courts",
+        "She suspects it is a form of cheating"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Linh says it feels like cheating.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "It feels like cheating."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Dr Hale mention a coin toss?",
+      "options": [
+        "To suggest that uncaused reasons would make us unpredictable, not free",
+        "To show that our everyday decisions are really made by chance",
+        "To explain how experiments on human decisions are usually designed",
+        "To criticise Linh for treating people like a thermostat"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says nobody wants to be a coin toss with opinions, meaning uncaused reasons would not make us free.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "Nobody wants to be a coin toss with opinions."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "According to Dr Hale, what separates a person from a thermostat?",
+      "options": [
+        "The ability to reflect on and revise goals",
+        "The fact that people are never caused to act at all",
+        "The use of electricity to respond to the environment",
+        "The speed with which they respond to their surroundings"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The thermostat cannot reflect, imagine alternatives or revise goals; people can.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "The thermostat cannot reflect on its own settings, imagine alternatives or revise its goals."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is Dr Hale's attitude to the cheating experiments Linh mentions?",
+      "options": [
+        "He has never come across experiments of that kind",
+        "He accepts them as strong proof that belief matters",
+        "He is cautious because results were hard to repeat",
+        "He thinks they were unethical to carry out on students"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says several results have proved hard to repeat and the effects were small.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "I'd be careful there."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Dr Hale mention possible changes to punishment?",
+      "options": [
+        "To give Linh an idea to explore in her essay",
+        "To bring the discussion to a quick end",
+        "To criticise the legal system for being too harsh",
+        "To prove that prisons are cruel and should close"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He ends by saying she might explore the issue in her essay.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "is something you might explore in your essay"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did the early experiment record before people reported an intention?",
+      "options": [
+        "A sudden movement of the wrist muscles",
+        "A slow build-up of brain activity",
+        "A change in the person's heart rate",
+        "Written explanations of their decisions"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Electrodes recorded a build-up of activity about half a second earlier.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "electrodes recorded a slow build-up of brain activity"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does the speaker think of the headlines that followed?",
+      "options": [
+        "They were too technical for ordinary readers",
+        "They underestimated what the findings showed",
+        "They went further than the evidence allowed",
+        "They were an accurate summary of the results"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He calls the claim a leap.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "Frankly, that was a leap."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why might the signal have disappeared in later studies?",
+      "options": [
+        "Participants were paid more to concentrate on the task",
+        "The task was made much shorter and less tiring for them",
+        "The choices carried real consequences, not arbitrary ones",
+        "The electrodes were improved to give a clearer signal"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "With meaningful choices the early signal largely disappeared, suggesting it came from arbitrary choosing.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "When researchers repeated the study with choices that carried real consequences, the early signal largely disappeared."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What problem does the speaker identify with self-report?",
+      "options": [
+        "The clock used in the task ran too slowly",
+        "People refuse to report their urges honestly",
+        "Our sense of when we decided is a reconstruction",
+        "Participants were too young to judge timing"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says our sense of when we decided is itself a reconstruction.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Our sense of when we decided is itself a reconstruction"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does the speaker mention a symphony?",
+      "options": [
+        "To praise the researchers' creativity in designing the task",
+        "To describe a musical experiment carried out in the lab",
+        "To show that explaining the parts does not abolish the whole",
+        "To explain how brain waves sound when electrodes record them"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The analogy shows that a physical description of the parts does not remove what emerges, such as music or free will.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "there is no music"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What first gave Daniel the idea for the novel?",
+      "options": [
+        "A news report on a famous crime",
+        "An afternoon he spent as a juror",
+        "A conversation with a judge he knew",
+        "A philosophy degree he once studied"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says it was a bad afternoon in a courtroom serving as a juror.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I was serving as a juror"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does the judge in the novel begin to suffer?",
+      "options": [
+        "She loses her job after sentencing too gently",
+        "She becomes more cruel as she doubts free will",
+        "Doubting blame also empties gratitude and admiration",
+        "She is punished by colleagues for being merciful"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If nobody deserves blame, gratitude and admiration look empty too, so her relationships suffer.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "gratitude and admiration start to look empty as well"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Daniel's view of the book?",
+      "options": [
+        "He regrets writing it after the courtroom experience",
+        "He does not intend it as a final verdict on free will",
+        "He believes it proves that the belief is harmful",
+        "He sees it as a textbook for law students"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he wouldn't want readers to take it as a verdict.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I wouldn't want readers to take the book as a verdict."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What does Daniel suggest about ordinary behaviour?",
+      "options": [
+        "People always follow habit blindly and never reflect",
+        "People rarely apologise once they doubt free will",
+        "People act as if choices matter, whatever they say in theory",
+        "People in seminars behave differently from everyone else"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says most people go on behaving as though their choices matter.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "go on behaving as though their choices matter"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Daniel's own conclusion?",
+      "options": [
+        "The question is open and we can live well without settling it",
+        "Free will certainly does not exist, whatever people feel",
+        "Free will certainly exists, as most people behave",
+        "Philosophers should stop studying it and leave it to novelists"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the question remains open and living well does not require resolving it first.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "living well does not require us to resolve it first"
+        }
+      ]
+    }
+  ]
+}

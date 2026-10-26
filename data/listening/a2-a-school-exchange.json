@@ -1,0 +1,628 @@
+{
+  "id": "l-a2-a-school-exchange",
+  "title": "A School Exchange",
+  "level": "A2 · Elementary",
+  "description": "Four short recordings about a school exchange: an announcement, two students, a phone call and a talk.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A school announcement",
+      "intro": "You will hear a teacher, Ms Taylor, talking about a school exchange.",
+      "speakers": {
+        "Ms Taylor": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Ms Taylor",
+          "text": "Good morning, everyone. I have some exciting news about our school exchange."
+        },
+        {
+          "id": "s2",
+          "speaker": "Ms Taylor",
+          "text": "This year, twelve students from our school will visit a school in Italy for ten days in October. In return, Italian students will come to stay with us in March."
+        },
+        {
+          "id": "s3",
+          "speaker": "Ms Taylor",
+          "text": "To go, you must be between thirteen and fifteen years old, and you need a letter from your parents. Please give me the letter by the fifteenth of June."
+        },
+        {
+          "id": "s4",
+          "speaker": "Ms Taylor",
+          "text": "The students will stay with local families, not in a hotel. Each student will have his or her own bedroom, but you will share the bathroom with the family."
+        },
+        {
+          "id": "s5",
+          "speaker": "Ms Taylor",
+          "text": "The trip costs three hundred and fifty pounds. This includes the flight, the food and the school visits. It does not include pocket money, so bring some."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ms Taylor",
+          "text": "If you want more information, there will be a meeting in Room Twelve on Thursday at lunchtime. Parents are welcome too."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Two students",
+      "intro": "You will hear two students, Linh and Tom, talking about the exchange.",
+      "speakers": {
+        "Tom": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "Tom, did you see the notice about the exchange? Are you going to apply?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Tom",
+          "text": "I'm not sure. I really want to go, but I'm a bit nervous about staying with strangers."
+        },
+        {
+          "id": "s9",
+          "speaker": "Linh",
+          "text": "I understand, but it will be a great chance to practise Italian. We've been learning it for two years."
+        },
+        {
+          "id": "s10",
+          "speaker": "Tom",
+          "text": "That's true. My Italian is terrible, though. I only know how to order pizza!"
+        },
+        {
+          "id": "s11",
+          "speaker": "Linh",
+          "text": "Ha! Me too. But my cousin went last year, and she says the families are very kind."
+        },
+        {
+          "id": "s12",
+          "speaker": "Tom",
+          "text": "What did she like best?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Linh",
+          "text": "The food, of course, and the school. The lessons start at eight and finish at one, so you have the whole afternoon free."
+        },
+        {
+          "id": "s14",
+          "speaker": "Tom",
+          "text": "That's much better than here! What about the weather in October?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "Still warm, she said. But she took a warm jacket for the evenings."
+        },
+        {
+          "id": "s16",
+          "speaker": "Tom",
+          "text": "OK, you've convinced me. I'll ask my parents tonight. Will you apply too?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "Yes, I've already got the letter, and my mum has signed it."
+        },
+        {
+          "id": "s18",
+          "speaker": "Tom",
+          "text": "Then I'd better hurry!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone call",
+      "intro": "You will hear Minh, an exchange student, calling his host mother, Mrs Rossi.",
+      "speakers": {
+        "Minh": "male",
+        "Mrs Rossi": "female"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Minh",
+          "text": "Hello, is that Mrs Rossi? This is Minh, from the exchange programme."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mrs Rossi",
+          "text": "Oh hello, Minh! I'm so glad you called. How was your flight?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Minh",
+          "text": "Well, that's why I'm calling. My flight is late, so I'll arrive at ten o'clock in the evening, not at six."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mrs Rossi",
+          "text": "Oh, that's no problem. My husband will meet you at the airport. He'll hold a sign with your name."
+        },
+        {
+          "id": "s23",
+          "speaker": "Minh",
+          "text": "Thank you. Is it far from the airport to your house?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Mrs Rossi",
+          "text": "About forty minutes by car. I'll keep your dinner warm. Do you eat fish?"
+        },
+        {
+          "id": "s25",
+          "speaker": "Minh",
+          "text": "Yes, I love fish. But I don't eat meat very often."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mrs Rossi",
+          "text": "No problem, we have a lot of vegetarian food. Is there anything else I should know?"
+        },
+        {
+          "id": "s27",
+          "speaker": "Minh",
+          "text": "I have a small allergy to nuts, so please don't give me anything with nuts."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mrs Rossi",
+          "text": "Thanks for telling me. I'll write it down. Oh, and bring a coat, it's cold here in the evenings. Our daughter Giulia is excited to meet you. She's the same age as you."
+        },
+        {
+          "id": "s29",
+          "speaker": "Minh",
+          "text": "I'm excited too. See you on Friday."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A student talk",
+      "intro": "You will hear a student, Mai, talking about an exchange she did last year.",
+      "speakers": {
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s30",
+          "speaker": "Mai",
+          "text": "Last year, I went on the school exchange to Spain, and it was the best two weeks of my life."
+        },
+        {
+          "id": "s31",
+          "speaker": "Mai",
+          "text": "My host family lived in a small town near the sea. At first, I was shy, and I didn't understand much because everybody spoke so fast. But my host sister, Carmen, helped me a lot."
+        },
+        {
+          "id": "s32",
+          "speaker": "Mai",
+          "text": "Every morning, we walked to school together. The school is different from ours. The students call the teachers by their first names, and they have a long break at lunchtime, when everyone goes home to eat."
+        },
+        {
+          "id": "s33",
+          "speaker": "Mai",
+          "text": "My favourite day was Saturday. We went to the beach, and Carmen's grandfather taught me to cook paella. It was difficult, and I burned the rice!"
+        },
+        {
+          "id": "s34",
+          "speaker": "Mai",
+          "text": "The only bad thing was the homesickness. I missed my family in the second week. But I called them every night, and that helped."
+        },
+        {
+          "id": "s35",
+          "speaker": "Mai",
+          "text": "Now Carmen is coming to stay with us this summer, and I can't wait. My advice? Go! You will learn more than you expect."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many students will go to Italy?",
+      "options": [
+        "Twelve",
+        "Ten",
+        "Fifteen"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Twelve students will go. Ten is the number of days and fifteen is the oldest age.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "twelve students from our school will visit a school in Italy"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When will the Italian students visit?",
+      "options": [
+        "In March",
+        "In June",
+        "In October"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The Italian students will come in March. October is when the English students go.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Italian students will come to stay with us in March"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where will the students stay in Italy?",
+      "options": [
+        "In a school building",
+        "In a hotel",
+        "With local families"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They will stay with local families, not in a hotel.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "The students will stay with local families, not in a hotel."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does the price NOT include?",
+      "options": [
+        "Pocket money",
+        "The food",
+        "The flight"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The price does not include pocket money.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "It does not include pocket money"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the information meeting?",
+      "options": [
+        "In the hall",
+        "In Room Twelve",
+        "In the library"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The meeting is in Room Twelve on Thursday at lunchtime.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "a meeting in Room Twelve on Thursday at lunchtime"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Tom feel about the exchange?",
+      "options": [
+        "Nervous about staying with strangers",
+        "Bored with Italian",
+        "Angry about the trip"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom wants to go but is a bit nervous about staying with strangers.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "I'm a bit nervous about staying with strangers."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Tom say about his Italian?",
+      "options": [
+        "It is terrible",
+        "It is getting better",
+        "It is very good"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says his Italian is terrible and he only knows how to order pizza.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "My Italian is terrible, though."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When do lessons finish in Italy?",
+      "options": [
+        "At eight o'clock",
+        "At three o'clock",
+        "At one o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lessons start at eight and finish at one.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "finish at one"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What did Linh's cousin take with her?",
+      "options": [
+        "A warm jacket",
+        "An umbrella",
+        "A camera"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She took a warm jacket for the evenings.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "she took a warm jacket for the evenings"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What has Linh already done?",
+      "options": [
+        "She has a letter signed by her mum",
+        "She has booked a flight",
+        "She has paid the money"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh says she has got the letter and her mum has signed it.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "my mum has signed it"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Minh call Mrs Rossi?",
+      "options": [
+        "To say his plane will be late",
+        "To cancel the visit",
+        "To ask about food"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "His flight is late, so he will arrive at ten in the evening.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "My flight is late"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time will Minh arrive?",
+      "options": [
+        "At ten o'clock in the evening",
+        "At ten o'clock in the morning",
+        "At six o'clock in the evening"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He will arrive at ten in the evening, not at six.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "I'll arrive at ten o'clock in the evening"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Who will meet Minh at the airport?",
+      "options": [
+        "Mrs Rossi's husband",
+        "Giulia",
+        "Mrs Rossi herself"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mrs Rossi says her husband will meet him.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "My husband will meet you at the airport."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is Minh allergic to?",
+      "options": [
+        "Fish",
+        "Nuts",
+        "Meat"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Minh has a small allergy to nuts. He likes fish.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "I have a small allergy to nuts"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Mrs Rossi say about Giulia?",
+      "options": [
+        "She is older than Minh",
+        "She is the same age as Minh",
+        "She is away from home"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Giulia is the same age as Minh.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "She's the same age as you."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Mai's talk about?",
+      "options": [
+        "Learning to cook paella",
+        "Her holiday with her family",
+        "Her school exchange"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai talks about the school exchange she did in Spain.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "I went on the school exchange to Spain"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why did Mai not understand much at first?",
+      "options": [
+        "Everybody spoke fast",
+        "The school was very big",
+        "The food was strange"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Everybody spoke so fast.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "everybody spoke so fast"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What do students do at lunchtime in Spain?",
+      "options": [
+        "They have a short break",
+        "They go home to eat",
+        "They stay and play football"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There is a long break and everyone goes home to eat.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "everyone goes home to eat"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What went wrong when Mai cooked?",
+      "options": [
+        "She burned the rice",
+        "She cut her finger",
+        "She dropped a plate"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She burned the rice.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "I burned the rice!"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Mai's advice?",
+      "options": [
+        "Learn Spanish first",
+        "Call home every night",
+        "Go on an exchange"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says \"Go!\" because you will learn more than you expect.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "My advice? Go!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "id": "l-c1-sustainable-buildings",
+  "title": "Sustainable Buildings",
+  "level": "C1 · Advanced",
+  "description": "An interview with an architect, a school tour, a discussion about costs and a documentary about renovating an old tower block.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B, C or D) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · An interview with an architect",
+      "intro": "You will hear a presenter, Mai, interviewing an architect called Oliver Grant.",
+      "speakers": {
+        "Mai": "female",
+        "Oliver": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Oliver, when people hear sustainable building, they picture solar panels and green roofs. Is that the right picture?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Oliver",
+          "text": "It's a part of it, but it's a surprisingly small part. The biggest environmental cost of a building is often paid before anyone moves in. Making cement and steel releases enormous amounts of carbon. We call it embodied carbon, and a new building can take decades of efficient running just to repay that debt."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "Which suggests the greenest building is..."
+        },
+        {
+          "id": "s4",
+          "speaker": "Oliver",
+          "text": "The one that already exists. I'd say that to any client. Before demolishing, ask whether the structure can be kept. A sound frame can usually be reused, and that alone can halve the carbon of a project."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "Clients must find that disappointing. A shiny new tower is more exciting."
+        },
+        {
+          "id": "s6",
+          "speaker": "Oliver",
+          "text": "Some do. But I find the conversation changes once they see the numbers, and, to be fair, an old building with character is often a selling point. People pay extra for exposed brick."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "What about the materials in new buildings? I hear a lot about timber."
+        },
+        {
+          "id": "s8",
+          "speaker": "Oliver",
+          "text": "Timber is promising, because trees absorb carbon as they grow and the wood keeps it locked away. But it isn't magic. It needs to come from properly managed forests, and it only makes sense where it's used instead of concrete, not on top of it. Enthusiasm needs to be matched by honesty about sources."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A tour of a school",
+      "intro": "You will hear an architect, Ms Farah, showing visitors around a primary school she designed.",
+      "speakers": {
+        "Ms Farah": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Ms Farah",
+          "text": "Welcome to the new primary school, which opened last September. Before we go inside, I'd like you to notice what you can't see: there's no air conditioning and no conventional heating system."
+        },
+        {
+          "id": "s10",
+          "speaker": "Ms Farah",
+          "text": "That sounds alarming, so let me explain. The building is extremely well insulated, with walls nearly half a metre thick. It's also airtight, so the heat produced by the children, the lights and the kitchen is enough to keep the classrooms comfortable through most of the winter."
+        },
+        {
+          "id": "s11",
+          "speaker": "Ms Farah",
+          "text": "Fresh air comes through a ventilation system that recovers heat from the stale air leaving the building and passes it to the incoming air. In the summer, the long roof overhangs block the high sun, and at night, automatic windows open to flush out the day's warmth."
+        },
+        {
+          "id": "s12",
+          "speaker": "Ms Farah",
+          "text": "You'll notice the classrooms face north and south rather than east and west. That choice cost nothing, but it avoids glare and overheating. In fact, the cheapest sustainable decisions are usually the earliest ones, made on the first day of design, long before anyone selects a single gadget."
+        },
+        {
+          "id": "s13",
+          "speaker": "Ms Farah",
+          "text": "I should be honest about the difficulties. In the first winter the system was too sensitive, and some teachers found it stuffy in the mornings. The fix was simple, a small adjustment to how the controls responded, but it taught us that technology must be explained to the people using it."
+        },
+        {
+          "id": "s14",
+          "speaker": "Ms Farah",
+          "text": "Finally, a word about cost. The school cost about five per cent more to build than a standard one, but it will use roughly a fifth of the energy. The extra will be repaid within about a dozen years, and the building should last a great deal longer."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A discussion about costs",
+      "intro": "You will hear a property developer, Tuan, discussing the costs of green buildings with an architect, Rachel.",
+      "speakers": {
+        "Tuan": "male",
+        "Rachel": "female"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Tuan",
+          "text": "Rachel, I want sustainable buildings, I truly do, but my investors want to know the return. Every green feature seems to add cost. How do I defend that?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Rachel",
+          "text": "I'd start by changing the question. Rather than asking what a green feature costs, ask what the building costs over fifty years. Energy, repairs, empty offices. Tenants increasingly refuse to rent badly performing buildings, so an inefficient building can become hard to let."
+        },
+        {
+          "id": "s17",
+          "speaker": "Tuan",
+          "text": "That's an argument for the long term. My investors tend to sell within five years."
+        },
+        {
+          "id": "s18",
+          "speaker": "Rachel",
+          "text": "Then the argument is for the buyer, and buyers are beginning to look at energy ratings the way they look at a car's fuel consumption. A building with a strong rating sells faster and at a better price. I'd say that's already visible in some markets."
+        },
+        {
+          "id": "s19",
+          "speaker": "Tuan",
+          "text": "Some markets. In others, nobody cares."
+        },
+        {
+          "id": "s20",
+          "speaker": "Rachel",
+          "text": "True, and I won't pretend otherwise. But regulation is moving in one direction. A building you complete today will still stand when stricter rules arrive, and the cost of upgrading it later is far greater than getting it right now."
+        },
+        {
+          "id": "s21",
+          "speaker": "Tuan",
+          "text": "So you're saying it's insurance as much as investment."
+        },
+        {
+          "id": "s22",
+          "speaker": "Rachel",
+          "text": "Exactly that. And, honestly, a little cheaper than the policy you'd buy against flooding, which is also getting more expensive."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A documentary",
+      "intro": "You will hear part of a documentary about the renovation of an old tower block.",
+      "speakers": {
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Tom",
+          "text": "On the edge of an industrial city stands a tower block built in the nineteen sixties. Its concrete frame is sound, but its walls are thin, its windows leak, and its residents, many of them elderly, spend a large share of their income on heating."
+        },
+        {
+          "id": "s24",
+          "speaker": "Tom",
+          "text": "Twenty years ago, the council would probably have demolished it. Today it is being wrapped. Engineers fix thick insulation to the outside, replace every window, and add a new facade and a ventilation system, while the residents continue to live inside."
+        },
+        {
+          "id": "s25",
+          "speaker": "Tom",
+          "text": "Not everyone welcomed the idea. Some residents feared months of noise and dust, and worried that rents would rise to pay for the work. The council responded with something unusual: a commitment that bills would fall by more than any increase, and a resident committee with the right to inspect the progress every month."
+        },
+        {
+          "id": "s26",
+          "speaker": "Tom",
+          "text": "The first completed floors tell an encouraging story. Households report that their homes are warmer than before, and that their heating bills have fallen by around two thirds. One woman, who had lived in the building for forty years, said she had spent every winter in a coat indoors, and this year, for the first time, she had hosted her grandchildren for dinner."
+        },
+        {
+          "id": "s27",
+          "speaker": "Tom",
+          "text": "The project is not cheap. Yet the council calculates that wrapping the block costs about half as much as building a new one, and avoids the carbon released by demolition and new construction. For a city with hundreds of ageing blocks, that arithmetic is hard to ignore."
+        },
+        {
+          "id": "s28",
+          "speaker": "Tom",
+          "text": "The architects, meanwhile, are modest about their achievement. They say the real innovation was not technical but social: persuading people to trust a plan, and giving them a voice in it."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is Oliver's view of the popular picture of sustainable building?",
+      "options": [
+        "It describes only a small part of the story.",
+        "It is completely mistaken about the main issues.",
+        "It is useful for persuading wary clients.",
+        "It shows the most important features of a design."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says solar panels and green roofs are a part of it, but a surprisingly small part.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "it's a surprisingly small part"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does the term embodied carbon refer to?",
+      "options": [
+        "carbon saved by installing solar panels",
+        "emissions released while making building materials",
+        "carbon stored in trees used for timber",
+        "energy used by a finished building each year"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It is the carbon released by making cement and steel before anyone moves in.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Making cement and steel releases enormous amounts of carbon"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What can reusing an existing frame achieve?",
+      "options": [
+        "It can make a new building considerably taller.",
+        "It can halve a project's carbon.",
+        "It removes the need for good insulation.",
+        "It usually costs more than demolishing."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A sound frame can usually be reused, which can halve the carbon of a project.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "that alone can halve the carbon of a project"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does the discussion with clients usually improve?",
+      "options": [
+        "They are offered a reduced price for the whole project.",
+        "They are shown how impressive a new tower would look.",
+        "They see the figures and value an old building's character.",
+        "They are persuaded by campaigners who speak at the meetings."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says it changes once they see the numbers, and character is a selling point.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "the conversation changes once they see the numbers"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is his attitude to timber as a building material?",
+      "options": [
+        "hopeful, but conscious of conditions",
+        "convinced that it is a perfect solution",
+        "worried that it is too expensive to use",
+        "dismissive of its value for the climate"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He calls it promising but says it is not magic and must come from managed forests.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "Timber is promising"
+        },
+        {
+          "lineId": "s8",
+          "quote": "But it isn't magic"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why does the school not need a conventional heating system?",
+      "options": [
+        "The winters in the area are fairly mild.",
+        "Insulation keeps in the heat made inside.",
+        "Solar panels on the roof warm the rooms.",
+        "It draws heat from the ground under the site."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The walls are well insulated and airtight, so heat from people, lights and the kitchen is enough.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "the heat produced by the children, the lights and the kitchen is enough"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Ms Farah mention the roof overhangs and automatic windows?",
+      "options": [
+        "to describe why the roof was so expensive",
+        "to explain why some classrooms feel stuffy",
+        "to show how the school saves rainwater",
+        "to explain how the rooms stay cool"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The overhangs block the high sun and windows open at night to flush out heat.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "the long roof overhangs block the high sun"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What point does she make about the direction the classrooms face?",
+      "options": [
+        "Early design decisions can be cheap and effective.",
+        "Expensive gadgets are always unnecessary in schools.",
+        "North-facing rooms are warmer than others in summer.",
+        "East and west rooms are never comfortable to use."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the cheapest sustainable decisions are usually the earliest ones.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "the cheapest sustainable decisions are usually the earliest ones"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What lesson did Ms Farah learn from the first winter?",
+      "options": [
+        "Teachers should be given control of the system.",
+        "Users need to understand how the technology works.",
+        "Winters in the area are warmer than expected this year.",
+        "The system should be made less sensitive overall."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says technology must be explained to the people using it.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "technology must be explained to the people using it"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does she say about the cost of the school?",
+      "options": [
+        "The extra cost will be recovered in about twelve years.",
+        "The extra cost will be repaid almost immediately.",
+        "The school will use about half as much energy.",
+        "It cost slightly less to build than a standard school would."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It cost about five per cent more but the extra will be repaid within a dozen years.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "repaid within about a dozen years"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Rachel suggest Tuan should consider instead of the cost of one feature?",
+      "options": [
+        "the price that other developers charge for rent",
+        "the opinions of tenants about green features",
+        "the whole building's cost over its lifetime",
+        "the number of investors in the project"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says to ask what the building costs over fifty years.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "what the building costs over fifty years"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Tuan say his investors tend to sell within five years?",
+      "options": [
+        "to explain why he wants a cheaper design overall",
+        "to complain that buyers are not interested in energy",
+        "to suggest long-term savings do not interest them",
+        "to ask Rachel for a much shorter project"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He answers her long-term argument by saying investors will not hold the building that long.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "My investors tend to sell within five years"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How are buyers starting to behave, according to Rachel?",
+      "options": [
+        "They refuse to buy any new buildings at all.",
+        "They compare energy ratings as they do fuel use.",
+        "They ask sellers for lower prices every time.",
+        "They prefer older buildings with more character."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says buyers look at energy ratings the way they look at a car's fuel consumption.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "the way they look at a car's fuel consumption"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Rachel respond to the point that some markets ignore energy ratings?",
+      "options": [
+        "She admits it, but points to coming regulation.",
+        "She denies it, saying the markets are mistaken.",
+        "She advises him to build in a different market.",
+        "She says those markets will disappear in time."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says it is true, but regulation is moving in one direction.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "True, and I won't pretend otherwise"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Tuan mean by calling green features insurance?",
+      "options": [
+        "They guarantee the building will sell quickly.",
+        "They protect against the cost of later rules.",
+        "They are covered by the same flood policies.",
+        "They lower the purchase price for investors."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Rachel has said upgrading later costs far more than getting it right now, so it protects against that.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "the cost of upgrading it later is far greater than getting it right now"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What has changed about the council's approach?",
+      "options": [
+        "It now wants to build more new tower blocks.",
+        "It has stopped spending money on housing projects.",
+        "It now prefers to keep and upgrade old blocks.",
+        "It no longer consults the residents at all."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Twenty years ago it would probably have demolished the block; today it wraps it.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "the council would probably have demolished it"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How did the council respond to residents' worries?",
+      "options": [
+        "It paid every resident compensation for the noise and dust.",
+        "It offered to move everyone out for a while.",
+        "It promised no rent increases for one year.",
+        "It promised lower bills and a monitoring committee."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "It promised bills would fall by more than any increase and set up a resident committee.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "a resident committee with the right to inspect the progress every month"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does the story of the woman who hosted her grandchildren show?",
+      "options": [
+        "It improved residents' quality of life, not just bills.",
+        "Heating bills matter little to the elderly residents of towers.",
+        "Most families prefer living in tall tower blocks.",
+        "Elderly people dislike living in modern buildings."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She had spent winters in a coat indoors, and now she could host a family dinner.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "this year, for the first time, she had hosted her grandchildren for dinner"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How does the cost of renovating compare with building a new block?",
+      "options": [
+        "It costs slightly more than building a new one.",
+        "It costs twice as much as building a new one.",
+        "It costs about the same as building a new one.",
+        "It costs about half as much as a new block."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The council calculates that wrapping costs about half as much as building a new one.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "costs about half as much as building a new one"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What do the architects regard as their real innovation?",
+      "options": [
+        "designing a taller and slimmer building",
+        "reducing the carbon released by cement",
+        "building trust and involving people",
+        "inventing a new kind of insulation"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They say the real innovation was social: persuading people to trust a plan and giving them a voice.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "the real innovation was not technical but social"
+        }
+      ]
+    }
+  ]
+}

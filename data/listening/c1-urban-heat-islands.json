@@ -1,0 +1,617 @@
+{
+  "id": "l-c1-urban-heat-islands",
+  "title": "Urban Heat Islands",
+  "level": "C1 · Advanced",
+  "description": "A lecture, a question session, a radio interview and a documentary about why cities are hotter and what can be done.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B, C or D) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A lecture",
+      "intro": "You will hear a lecturer, Dr Hale, introducing the urban heat island effect.",
+      "speakers": {
+        "Dr Hale": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Dr Hale",
+          "text": "Good morning. Today's topic is the urban heat island, a term for the simple observation that cities are warmer than the countryside around them. On a calm summer night the difference can be as much as ten degrees, which is far larger than most people expect."
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Hale",
+          "text": "Why does it happen? The popular explanation is that cities produce heat, from engines, air conditioners and factories. That does contribute, but it's rarely the main cause. The bigger factor is what the city is made of. Asphalt, concrete and dark roofs absorb sunlight all day and release it slowly after sunset, so the city never gets a proper chance to cool down."
+        },
+        {
+          "id": "s3",
+          "speaker": "Dr Hale",
+          "text": "The second factor is the loss of vegetation. Plants cool the air through evaporation, rather as sweating cools your skin. Replace a meadow with a car park and you remove that natural air conditioning while adding a surface that stores heat."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Hale",
+          "text": "Third, the shape of the city matters. Tall buildings on narrow streets trap warm air and block the wind that would otherwise carry it away. Engineers call these streets urban canyons, and at night they behave like radiators with the door closed."
+        },
+        {
+          "id": "s5",
+          "speaker": "Dr Hale",
+          "text": "Now, you might think a slightly warmer city is harmless, even pleasant in winter. But the effect is most serious in summer heatwaves, when warm nights prevent the body from recovering. Hospital admissions rise, and the people most affected tend to be the elderly and those who cannot afford cooling."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Hale",
+          "text": "I'd like to stress that last point, because it changes how we should think about the problem. Heat islands are not only a matter of comfort. They are a matter of fairness."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A question session",
+      "intro": "You will hear a student, Nam, asking Dr Hale questions after the lecture.",
+      "speakers": {
+        "Nam": "male",
+        "Dr Hale": "female"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Nam",
+          "text": "Dr Hale, you said engines and air conditioners aren't the main cause. But doesn't air conditioning make things worse, because it pumps hot air outside?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Dr Hale",
+          "text": "Good question, and yes, partly. It creates a loop. Buildings use more cooling, which releases more heat into the street, which makes the street hotter, which means even more cooling. In some districts that loop adds a degree or so in the evening. But, and this is the important thing, it's a symptom rather than a root cause."
+        },
+        {
+          "id": "s9",
+          "speaker": "Nam",
+          "text": "So what actually works? I read that painting roofs white is the answer."
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Hale",
+          "text": "White roofs are certainly effective. A pale surface reflects far more sunlight, and a building under one can be several degrees cooler inside. The trouble is that the benefit is local, and it does nothing for the streets. It helps the people under the roof, not the people walking past it."
+        },
+        {
+          "id": "s11",
+          "speaker": "Nam",
+          "text": "What about trees, then? They seem the obvious solution."
+        },
+        {
+          "id": "s12",
+          "speaker": "Dr Hale",
+          "text": "They are, and they have another advantage, shade, which protects pavements as well as people. The catch is time. A newly planted tree takes twenty years to provide real cover, and it needs water in exactly the dry spells when it's most useful. Planting is quick; maintaining is the hard part."
+        },
+        {
+          "id": "s13",
+          "speaker": "Nam",
+          "text": "Is there a single best solution, then?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Dr Hale",
+          "text": "No, and I'd be suspicious of anyone who offers one. Cities that have reduced temperatures successfully combined cool roofs, trees, lighter pavements and some open water. The mix has to suit the local climate. That's really the theme of next week's seminar."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A radio interview",
+      "intro": "You will hear a presenter, Mai, interviewing a city planner called Tuan about a heat-reduction programme.",
+      "speakers": {
+        "Mai": "female",
+        "Tuan": "male"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "Joining me is Tuan Pham, a planner who has just finished a heat-reduction programme for a mid-sized city. Tuan, what did you find when you began?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Tuan",
+          "text": "Honestly, we were surprised. We fitted cheap sensors to buses and measured temperatures street by street. The hottest areas weren't the busy centre, as we'd assumed. They were the industrial estates and the older housing blocks on the east side, where there were hardly any trees and almost no money for improvements."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "So you targeted those areas first?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Tuan",
+          "text": "We did, though not without argument. Some councillors wanted to start with the main shopping street, because it's visible and it would make a good photograph. I argued that visibility was the wrong test. If you have limited funds, you should spend them where the heat hurts most."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mai",
+          "text": "What did you actually do?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Tuan",
+          "text": "Three things, mostly. We offered grants to repaint roofs, we planted trees along the main routes to school, and we replaced part of an unused car park with a small park and a pond. The pond was controversial; people feared mosquitoes. In the end the complaints stopped, because it became the most popular spot in the neighbourhood."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mai",
+          "text": "Has it made a measurable difference?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Tuan",
+          "text": "In the treated streets, afternoon temperatures dropped by about two degrees. That sounds modest, but residents told us they noticed it immediately, and fewer people went to the clinic during the last heatwave. I'd add a caution, though. Two years isn't long. The trees are still young, so I expect the benefits to grow."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A documentary",
+      "intro": "You will hear part of a documentary about a city that asked residents to help map heat.",
+      "speakers": {
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Ben",
+          "text": "Seen from a satellite at night, a city looks like a spill of light. Seen through a thermal camera by day, it looks like something else entirely: a patchwork of reds and oranges, with cool blue patches where parks and rivers interrupt the glow."
+        },
+        {
+          "id": "s24",
+          "speaker": "Ben",
+          "text": "In one southern city, planners studied such images for years before acting. The picture was clear enough. The warmest streets sat in neighbourhoods that were already poorer, with fewer trees, older buildings and fewer homes with air conditioning. Heat, in other words, was not distributed evenly, and neither were the means of escaping it."
+        },
+        {
+          "id": "s25",
+          "speaker": "Ben",
+          "text": "The city's response was unusual. Instead of imposing a plan from above, officials invited residents to map the shade themselves. Volunteers walked their own streets with simple thermometers and marked where they felt relief and where they dreaded the walk home."
+        },
+        {
+          "id": "s26",
+          "speaker": "Ben",
+          "text": "The results contained surprises. Residents identified a bus stop with no shelter, where elderly passengers waited in full sun for twenty minutes. Engineers had never flagged it, because the data had averaged the whole route. A simple roof, built in a weekend, solved the problem."
+        },
+        {
+          "id": "s27",
+          "speaker": "Ben",
+          "text": "Not everyone was convinced. A few experts feared that amateur measurements would be unreliable. But when the volunteers' figures were compared with the professional data, the two broadly agreed, and the community readings revealed something the satellites could not: how the heat felt at street level, where people actually live."
+        },
+        {
+          "id": "s28",
+          "speaker": "Ben",
+          "text": "The project has since become a model, though its organisers are careful about the word. Every city has different winds, buildings and habits, they say. What can be copied is not the list of measures, but the habit of asking those who know the streets best."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "According to Dr Hale, what is the main cause of urban heat islands?",
+      "options": [
+        "materials that hold heat and release it later",
+        "the height and density of the tall buildings",
+        "heat produced by engines and air conditioners",
+        "a lack of wind in the surrounding countryside"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the bigger factor is what the city is made of: surfaces absorb heat by day and release it after sunset.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "it's rarely the main cause"
+        },
+        {
+          "lineId": "s2",
+          "quote": "absorb sunlight all day and release it slowly after sunset"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Dr Hale compare plants to sweating?",
+      "options": [
+        "to show that cities need more people",
+        "to describe how the body copes with heat",
+        "to explain how vegetation cools the air",
+        "to argue that meadows are better than parks"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Plants cool the air by evaporation, just as sweating cools skin.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "rather as sweating cools your skin"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What do urban canyons do at night?",
+      "options": [
+        "funnel cold air downwards",
+        "make the wind stronger",
+        "reflect light from the buildings",
+        "hold warm air in the streets"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Tall buildings on narrow streets trap warm air and block the wind, like closed radiators.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "trap warm air and block the wind"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why are warm nights during heatwaves especially dangerous?",
+      "options": [
+        "Hospitals are short of staff during heatwaves.",
+        "Air conditioners often stop working at night.",
+        "Bodies cannot recover from the day's heat.",
+        "The elderly are forced to sleep outdoors."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says warm nights prevent the body from recovering, so admissions rise.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "warm nights prevent the body from recovering"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is Dr Hale's main reason for stressing her last point?",
+      "options": [
+        "It shows that heat is also a matter of fairness.",
+        "It shows how little the elderly understand heat.",
+        "It explains why hospitals need much more money.",
+        "It proves that winter is the safest season of all."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says heat islands are a matter of fairness, because the vulnerable suffer most.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "They are a matter of fairness"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What point does Dr Hale make about air conditioning?",
+      "options": [
+        "It should be banned in the hottest districts.",
+        "It worsens a problem it did not originally cause.",
+        "It has almost no real effect on street temperatures.",
+        "It is the biggest single cause of heat islands."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She describes a loop that adds heat, but calls it a symptom rather than a root cause.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "it's a symptom rather than a root cause"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What limitation of white roofs does Dr Hale mention?",
+      "options": [
+        "They are too expensive for most owners.",
+        "They make the rooms below them warmer.",
+        "They do not cool the streets outside.",
+        "They only work during the winter months."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The benefit is local: it helps people under the roof, not those walking past.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "it does nothing for the streets"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is the main difficulty with planting trees?",
+      "options": [
+        "They block the wind in dense city streets.",
+        "They take a long time to grow and need care.",
+        "They give shade only to cars, not people.",
+        "They can only be planted in the winter months."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A tree needs twenty years to give cover and needs water in dry spells.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "takes twenty years to provide real cover"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Dr Hale react to the idea of a single best solution?",
+      "options": [
+        "She thinks it already exists.",
+        "She has no opinion on it.",
+        "She is sceptical of it.",
+        "She is enthusiastic about it."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she would be suspicious of anyone who offers one.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "I'd be suspicious of anyone who offers one"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is the main conclusion of her final answer?",
+      "options": [
+        "Successful cities combine measures to suit their climate.",
+        "Every city should copy the most successful plan abroad.",
+        "Lighter pavements make cool roofs unnecessary in most cases.",
+        "Open water is the most effective single measure."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Successful cities combined roofs, trees, pavements and water, adapted to the climate.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "The mix has to suit the local climate"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What surprised the planners about the temperature measurements?",
+      "options": [
+        "The sensors on buses did not work.",
+        "The industrial estates were the coolest areas.",
+        "The east side had too many trees.",
+        "The busy centre was not the hottest area."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The hottest areas were industrial estates and older housing, not the busy centre.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "The hottest areas weren't the busy centre"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is Tuan's opinion of starting with the main shopping street?",
+      "options": [
+        "He thought it was the wrong priority.",
+        "He considered it the best photograph opportunity.",
+        "He wanted it as a second stage only.",
+        "He believed it would help tourism most."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says visibility was the wrong test and money should go where the heat hurts most.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "visibility was the wrong test"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What happened with the pond?",
+      "options": [
+        "It was criticised because it was too small.",
+        "It was built in the main shopping street.",
+        "It was cancelled after complaints about mosquitoes.",
+        "Early opposition faded as it became popular."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "People feared mosquitoes, but the complaints stopped when it became the most popular spot.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "it became the most popular spot in the neighbourhood"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Tuan imply about the programme's results so far?",
+      "options": [
+        "They probably underestimate the long-term effect.",
+        "They are mainly due to the grants for roof painting.",
+        "They are the same in every part of the city.",
+        "They have been disappointing to the residents."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says two years is short and the trees are young, so he expects benefits to grow.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I expect the benefits to grow"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Tuan mention the clinic?",
+      "options": [
+        "to argue that the clinic needs more funding",
+        "to show a health benefit beyond comfort",
+        "to suggest residents were complaining",
+        "to explain where sensors were fitted"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Fewer people went to the clinic during the heatwave, so the change had a real health effect.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "fewer people went to the clinic during the last heatwave"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What did the thermal images reveal about the warmest streets?",
+      "options": [
+        "They had the newest buildings.",
+        "They were mostly in the city centre.",
+        "They were in poorer neighbourhoods.",
+        "They were near rivers and parks."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The warmest streets were in neighbourhoods that were already poorer, with fewer trees.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "neighbourhoods that were already poorer"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why did officials ask residents to map the shade?",
+      "options": [
+        "to give volunteers a weekend project to do",
+        "to check that the satellite images were wrong",
+        "to save money on expensive thermal cameras",
+        "to learn how the heat is felt on the street"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Volunteers marked where they felt relief and dreaded the walk home, giving street-level knowledge.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "marked where they felt relief and where they dreaded the walk home"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why had engineers never noticed the problem at the bus stop?",
+      "options": [
+        "They did not believe what elderly passengers said.",
+        "Their data was averaged over the whole route.",
+        "The bus stop was built after the first survey.",
+        "They only studied streets in the city centre."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The data averaged the whole route, so a single bad stop was hidden.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "the data had averaged the whole route"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What was the outcome of the experts' concern about amateur data?",
+      "options": [
+        "The concern proved largely unfounded.",
+        "The experts withdrew from the project.",
+        "The professional data turned out to be wrong.",
+        "The volunteers' figures were rejected."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The volunteers' figures broadly agreed with the professional data.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "the two broadly agreed"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What do the organisers say other cities can copy?",
+      "options": [
+        "the practice of consulting local people",
+        "the use of satellite images at night",
+        "the exact list of cooling measures they used",
+        "the weekend schedule for building shelters"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They say what can be copied is the habit of asking those who know the streets best.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "the habit of asking those who know the streets best"
+        }
+      ]
+    }
+  ]
+}

@@ -1,14 +1,15 @@
-// Validates every reading and writing exam and runs a sample grading pass.
+// Validates every reading, writing and listening exam and runs a sample grading pass.
 // Usage: npm run validate
 
 const path = require('path');
 const { loadExams } = require('../src/main/exam-store');
 const { gradeExam } = require('../src/main/grader');
 const { gradeWriting } = require('../src/main/writing-grader');
+const { gradeListening } = require('../src/main/listening-grader');
 const { Dictionary } = require('../src/main/dictionary');
 
 const dir = path.join(__dirname, '..', 'data');
-// Questions per reading exam, exercises per writing exam. Young children get shorter exams.
+// Questions per reading or listening exam, exercises per writing exam. Young children get shorter exams.
 const ITEMS_PER_EXAM = 20;
 const YOUNG_LEARNER_ITEMS = { Starters: 10, Movers: 15, Flyers: 20 };
 
@@ -26,12 +27,17 @@ function perfectRun(exam) {
     const full = { content: 2, organisation: 2, grammar: 2, vocabulary: 2 };
     return gradeWriting(exam, { exercises, essay: exam.task.modelAnswer }, full);
   }
-  return gradeExam(exam, Object.fromEntries(exam.questions.map((q) => [q.id, q.answer])));
+  const answers = Object.fromEntries(exam.questions.map((q) => [q.id, q.answer]));
+  return exam.skill === 'listening' ? gradeListening(exam, answers) : gradeExam(exam, answers);
 }
 
 function describe(exam, result) {
   if (exam.skill === 'writing') {
     return `${exam.exercises.length} exercises, ${exam.task.genre}, ${exam.task.minWords}-${exam.task.maxWords} words`;
+  }
+  if (exam.skill === 'listening') {
+    const words = exam.parts.flatMap((p) => p.script).reduce((n, l) => n + l.text.split(' ').length, 0);
+    return `${exam.parts.length} parts, ${exam.questions.length} questions, ${words} words of script`;
   }
   return `${exam.paragraphs.length} paragraphs, ${exam.questions.length} questions, ${result.summary.maxScore} marks`;
 }
@@ -52,7 +58,10 @@ function reportMissingWords(exams) {
   const noVietnamese = new Map(); // base word -> exam ids, for words found but without a Vietnamese meaning
   const note = (map, key, id) => map.set(key, [...(map.get(key) ?? []), id]);
   for (const exam of exams.values()) {
-    const texts = exam.skill === 'writing' ? [exam.task.modelAnswer] : exam.paragraphs.map((p) => p.text);
+    const texts =
+      exam.skill === 'writing' ? [exam.task.modelAnswer]
+        : exam.skill === 'listening' ? exam.parts.flatMap((p) => p.script.map((l) => l.text))
+          : exam.paragraphs.map((p) => p.text);
     for (const text of texts) {
       for (const m of text.matchAll(/\p{L}+(?:['’-]\p{L}+)*/gu)) {
         const word = m[0];

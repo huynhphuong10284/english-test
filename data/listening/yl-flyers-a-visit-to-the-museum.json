@@ -1,0 +1,594 @@
+{
+  "id": "l-yl-f-a-visit-to-the-museum",
+  "title": "A Visit to the Museum",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about a museum visit: a family plan, a ticket desk, a message and a guide's talk.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Deciding what to see",
+      "intro": "You will hear a girl, Hoa, and her dad deciding about a museum visit.",
+      "speakers": {
+        "Hoa": "female",
+        "Dad": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Hoa",
+          "text": "Dad, can we go to the history museum on Sunday?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Dad",
+          "text": "Good idea, Hoa. But I thought you wanted to go swimming."
+        },
+        {
+          "id": "s3",
+          "speaker": "Hoa",
+          "text": "I did, but the pool is closed for repairs until next month."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dad",
+          "text": "I see. What would you like to see at the museum?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Hoa",
+          "text": "The dinosaur bones, of course! My friend Mai says there's a skeleton that's as long as a bus."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dad",
+          "text": "Wonderful. And I'd like to see the old coins. Shall we invite Grandma too?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Hoa",
+          "text": "She can't walk very far, so let's ask her to meet us in the café at lunchtime."
+        },
+        {
+          "id": "s8",
+          "speaker": "Dad",
+          "text": "OK. I'll drive. We'll leave at ten o'clock and be there by eleven."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · At the ticket desk",
+      "intro": "You will hear a man buying tickets at the museum.",
+      "speakers": {
+        "Visitor": "male",
+        "Clerk": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Clerk",
+          "text": "Good morning. Can I help you?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Visitor",
+          "text": "Yes, please. I'd like tickets for two adults and three children."
+        },
+        {
+          "id": "s11",
+          "speaker": "Clerk",
+          "text": "Adult tickets are six pounds, and children's tickets are free on Sundays."
+        },
+        {
+          "id": "s12",
+          "speaker": "Visitor",
+          "text": "Excellent! Is the dinosaur room open today?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Clerk",
+          "text": "It's open, but the Egyptian room is closed. We're cleaning the mummies."
+        },
+        {
+          "id": "s14",
+          "speaker": "Visitor",
+          "text": "Oh, what a pity. My son loves ancient Egypt."
+        },
+        {
+          "id": "s15",
+          "speaker": "Clerk",
+          "text": "There's a children's workshop at two o'clock. They can make a paper pyramid."
+        },
+        {
+          "id": "s16",
+          "speaker": "Visitor",
+          "text": "That sounds great. Where is it?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Clerk",
+          "text": "On the second floor, next to the lift. And you can leave your bags in the cloakroom for free."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A voicemail",
+      "intro": "You will hear a message from a teacher, Mr Long, about a class visit.",
+      "speakers": {
+        "Mr Long": "male"
+      },
+      "script": [
+        {
+          "id": "s18",
+          "speaker": "Mr Long",
+          "text": "Hello, parents of Class Five. This is Mr Long with news about our museum visit next Wednesday."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mr Long",
+          "text": "The coach will leave from the school at nine o'clock, not eight o'clock as I said before. We will return at half past three."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mr Long",
+          "text": "The children need a notebook and a pencil, because they must write about three things they see. Please do not send pens, as they are not allowed near the paintings."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mr Long",
+          "text": "Lunch will be at the museum. The children can bring a packed lunch, or order a hot meal for four pounds. Please tell me by Monday."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mr Long",
+          "text": "Finally, please sign the form and send it back tomorrow. Thank you very much."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A guide's talk",
+      "intro": "You will hear a museum guide, Nam, talking to visitors.",
+      "speakers": {
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Nam",
+          "text": "Hello, everybody. I'm Nam, and I'll show you the oldest part of our museum."
+        },
+        {
+          "id": "s24",
+          "speaker": "Nam",
+          "text": "This was once a castle, and the walls are nine hundred years old. Please don't touch them, because they are fragile."
+        },
+        {
+          "id": "s25",
+          "speaker": "Nam",
+          "text": "In this room, you can see a king's crown and some swords. The crown is made of gold, but the swords are made of iron."
+        },
+        {
+          "id": "s26",
+          "speaker": "Nam",
+          "text": "The most surprising thing here is the tiny boat. It's only one metre long, but it carried six people across the river."
+        },
+        {
+          "id": "s27",
+          "speaker": "Nam",
+          "text": "Next, we'll go downstairs to see the old kitchen. It smells wonderful because a cook is baking bread, and you can try some."
+        },
+        {
+          "id": "s28",
+          "speaker": "Nam",
+          "text": "You can take photos, but please turn off the flash. Now follow me, and mind the steps."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why can't Hoa go swimming?",
+      "options": [
+        "The pool is closed.",
+        "She is ill.",
+        "It is too cold."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the pool is closed for repairs.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "the pool is closed for repairs until next month"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Hoa most want to see?",
+      "options": [
+        "The paintings",
+        "The dinosaur bones",
+        "The old coins"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dad wants to see coins, but Hoa wants the dinosaur bones.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "The dinosaur bones, of course!"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why will Grandma meet them in the café?",
+      "options": [
+        "She doesn't like museums.",
+        "She can't walk very far.",
+        "She is busy in the morning."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Hoa says Grandma can't walk very far.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "She can't walk very far"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Dad want to see?",
+      "options": [
+        "The skeleton",
+        "The gift shop",
+        "The old coins"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dad says he would like to see the old coins.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I'd like to see the old coins."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time will they leave home?",
+      "options": [
+        "At nine o'clock",
+        "At ten o'clock",
+        "At eleven o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They will arrive by eleven but leave at ten.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "We'll leave at ten o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much will the man pay?",
+      "options": [
+        "Twelve pounds",
+        "Eighteen pounds",
+        "Thirty pounds"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Two adult tickets cost twelve pounds and children are free.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "children's tickets are free on Sundays"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which room is closed?",
+      "options": [
+        "The Egyptian room",
+        "The dinosaur room",
+        "The gift shop"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The Egyptian room is closed for cleaning.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "the Egyptian room is closed"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does the man feel about the closed room?",
+      "options": [
+        "Disappointed",
+        "Surprised and happy",
+        "Angry"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says what a pity because his son loves Egypt.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "what a pity"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What can children make in the workshop?",
+      "options": [
+        "A painting",
+        "A clay pot",
+        "A paper pyramid"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The workshop is about making a paper pyramid.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "They can make a paper pyramid."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where is the workshop?",
+      "options": [
+        "On the second floor",
+        "On the ground floor",
+        "In the cloakroom"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is on the second floor next to the lift.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "On the second floor, next to the lift."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "Why is Mr Long calling?",
+      "options": [
+        "To give details of a class trip",
+        "To cancel a trip",
+        "To ask for money"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He gives news about the museum visit.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "with news about our museum visit next Wednesday"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time will the coach leave?",
+      "options": [
+        "At eight o'clock",
+        "At nine o'clock",
+        "At half past three"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Eight o'clock was the earlier time; half past three is the return.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "The coach will leave from the school at nine o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What must the children not bring?",
+      "options": [
+        "Notebooks",
+        "Pencils",
+        "Pens"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Pens are not allowed near the paintings.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Please do not send pens"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How much is a hot lunch?",
+      "options": [
+        "Five pounds",
+        "Four pounds",
+        "Three pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The hot meal costs four pounds.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "order a hot meal for four pounds"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When must parents tell Mr Long about lunch?",
+      "options": [
+        "By Monday",
+        "By Wednesday",
+        "By tomorrow"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He asks them to tell him by Monday; the form is needed tomorrow.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Please tell me by Monday."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What was the oldest part of the museum before?",
+      "options": [
+        "A church",
+        "A school",
+        "A castle"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam says it was once a castle.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "This was once a castle"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is the crown made of?",
+      "options": [
+        "Silver",
+        "Gold",
+        "Iron"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The swords are iron; the crown is gold.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "The crown is made of gold"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Nam find surprising?",
+      "options": [
+        "The king's crown",
+        "The old walls",
+        "The tiny boat"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He calls the tiny boat the most surprising thing.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "The most surprising thing here is the tiny boat."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What can visitors try in the old kitchen?",
+      "options": [
+        "Some soup",
+        "Some bread",
+        "Some cake"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A cook is baking bread and visitors can try some.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "you can try some"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What must visitors do when taking photos?",
+      "options": [
+        "Turn off the flash",
+        "Ask the guide",
+        "Pay a fee"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam says photos are fine without the flash.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "please turn off the flash"
+        }
+      ]
+    }
+  ]
+}

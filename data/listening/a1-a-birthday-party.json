@@ -1,0 +1,594 @@
+{
+  "id": "l-a1-a-birthday-party",
+  "title": "A Birthday Party",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about a birthday party: an invitation, ordering a cake, a message and the party itself.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The invitation",
+      "intro": "You will hear Linh and Tom talking about a party.",
+      "speakers": {
+        "Tom": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "Tom, my birthday party is on Saturday. Can you come?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Tom",
+          "text": "Of course! How old are you going to be?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "Thirteen. The party starts at three o'clock at my house."
+        },
+        {
+          "id": "s4",
+          "speaker": "Tom",
+          "text": "Great. Is it a big party?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "Not very big. About ten friends. We're going to play games and have a barbecue in the garden."
+        },
+        {
+          "id": "s6",
+          "speaker": "Tom",
+          "text": "What would you like for a present? A book or a game?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "I'd love a book, please. I don't need any more games."
+        },
+        {
+          "id": "s8",
+          "speaker": "Tom",
+          "text": "OK. I'll bring a book about animals. I hope you have a wonderful day, and I'm sure your friends will enjoy the games and the food. See you on Saturday!"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Ordering a cake",
+      "intro": "You will hear Mai talking to a baker.",
+      "speakers": {
+        "Baker": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Baker",
+          "text": "Good morning. Can I help you?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Mai",
+          "text": "Yes, I'd like to order a birthday cake for Saturday."
+        },
+        {
+          "id": "s11",
+          "speaker": "Baker",
+          "text": "Of course. What flavour? We have chocolate, vanilla and strawberry."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mai",
+          "text": "My friend loves strawberries, so strawberry, please."
+        },
+        {
+          "id": "s13",
+          "speaker": "Baker",
+          "text": "Do you want a name on the cake?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Mai",
+          "text": "Yes. Please write Happy birthday, Linh."
+        },
+        {
+          "id": "s15",
+          "speaker": "Baker",
+          "text": "OK. It's eighteen pounds. Can you collect it on Saturday morning? We will make it fresh, and we will put it in a nice box for you."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "Yes, at about ten o'clock. Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A voicemail",
+      "intro": "You will hear a message from Linh's aunt.",
+      "speakers": {
+        "Hoa": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Hoa",
+          "text": "Hi, Linh. It's Auntie Hoa. Happy birthday for Saturday!"
+        },
+        {
+          "id": "s18",
+          "speaker": "Hoa",
+          "text": "I'm sorry, but I can't come to your party. I'm going to be in Hue for my work."
+        },
+        {
+          "id": "s19",
+          "speaker": "Hoa",
+          "text": "But I have a present for you. It's a red scarf. I'll give it to you on Sunday."
+        },
+        {
+          "id": "s20",
+          "speaker": "Hoa",
+          "text": "Perhaps we can have lunch at the new noodle restaurant near your school. I'll pay!"
+        },
+        {
+          "id": "s21",
+          "speaker": "Hoa",
+          "text": "Call me tomorrow evening after eight. Bye bye, and have a lovely party!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · At the party",
+      "intro": "You will hear Minh and Mai at the party.",
+      "speakers": {
+        "Minh": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s22",
+          "speaker": "Minh",
+          "text": "Hi, Mai. This is a great party! The music is very good."
+        },
+        {
+          "id": "s23",
+          "speaker": "Mai",
+          "text": "Thanks. The food is nice too. Have you tried the pizza?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Minh",
+          "text": "Yes, but I don't like mushrooms. I prefer the chicken sandwiches."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mai",
+          "text": "Look, Linh is opening her presents. She loves the book from Tom."
+        },
+        {
+          "id": "s26",
+          "speaker": "Minh",
+          "text": "We must sing Happy Birthday soon. When's the cake coming?"
+        },
+        {
+          "id": "s27",
+          "speaker": "Mai",
+          "text": "At five o'clock. After that, we're going to dance in the garden."
+        },
+        {
+          "id": "s28",
+          "speaker": "Minh",
+          "text": "I can't dance very well! But I'll try. Oh, and I need to leave at six, because my father is picking me up."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What are Linh and Tom talking about?",
+      "options": [
+        "A football match",
+        "A school trip",
+        "A birthday party"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh invites Tom to her birthday party.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "my birthday party is on Saturday"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How old will Linh be?",
+      "options": [
+        "Ten",
+        "Thirteen",
+        "Fifteen"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she will be thirteen. Ten is the number of friends.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "Thirteen."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time does the party start?",
+      "options": [
+        "At one o'clock",
+        "At three o'clock",
+        "At six o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The party starts at three o'clock.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "The party starts at three o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What are they going to do at the party?",
+      "options": [
+        "Go swimming",
+        "Play games and have a barbecue",
+        "Watch a film"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says they will play games and have a barbecue in the garden.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "We're going to play games and have a barbecue in the garden."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What present does Linh want?",
+      "options": [
+        "A book",
+        "A scarf",
+        "A game"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she'd love a book and doesn't need more games.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "I'd love a book, please."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why is Mai at the shop?",
+      "options": [
+        "To buy a present",
+        "To buy bread",
+        "To order a cake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She wants to order a birthday cake.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "I'd like to order a birthday cake for Saturday."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which flavour does Mai choose?",
+      "options": [
+        "Strawberry",
+        "Vanilla",
+        "Chocolate"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Her friend loves strawberries, so she chooses strawberry.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "so strawberry, please"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What name goes on the cake?",
+      "options": [
+        "Tom",
+        "Mai",
+        "Linh"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She asks the baker to write Happy birthday, Linh.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "Please write Happy birthday, Linh."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much is the cake?",
+      "options": [
+        "Eight pounds",
+        "Eighteen pounds",
+        "Eighty pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The baker says it is eighteen pounds.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "It's eighteen pounds."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When will Mai collect the cake?",
+      "options": [
+        "On Saturday morning",
+        "On Friday evening",
+        "On Saturday afternoon"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She will collect it on Saturday morning, at about ten o'clock.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Can you collect it on Saturday morning?"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Auntie Hoa call?",
+      "options": [
+        "To change the date",
+        "To ask for a lift",
+        "To say she can't come to the party"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She is sorry because she cannot come to the party.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I can't come to your party."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where will she be on Saturday?",
+      "options": [
+        "In Hue",
+        "At home",
+        "At school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She will be in Hue for her work.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I'm going to be in Hue for my work."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What present has she got?",
+      "options": [
+        "A book",
+        "A red scarf",
+        "A noodle meal"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She has a red scarf for Linh.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "It's a red scarf."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When will she give Linh the present?",
+      "options": [
+        "On Sunday",
+        "On Saturday",
+        "Tomorrow evening"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She will give it to her on Sunday.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I'll give it to you on Sunday."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When should Linh call back?",
+      "options": [
+        "On Sunday morning",
+        "Tonight at six",
+        "Tomorrow evening after eight"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She asks Linh to call tomorrow evening after eight.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Call me tomorrow evening after eight."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Minh think of the music?",
+      "options": [
+        "It is very good.",
+        "It is too loud.",
+        "It is boring."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the music is very good.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "The music is very good."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "Which food does Minh like best?",
+      "options": [
+        "Cake",
+        "Pizza",
+        "Chicken sandwiches"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He doesn't like the mushrooms on the pizza, so he prefers the chicken sandwiches.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I prefer the chicken sandwiches."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Which present does Linh love?",
+      "options": [
+        "The scarf from Hoa",
+        "The book from Tom",
+        "A game from Mai"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai says she loves the book from Tom.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "She loves the book from Tom."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When is the cake coming?",
+      "options": [
+        "At six o'clock",
+        "At five o'clock",
+        "At three o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The cake comes at five o'clock. Six is when Minh leaves.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "At five o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why will Minh leave at six?",
+      "options": [
+        "He is tired.",
+        "He doesn't like dancing.",
+        "His father is picking him up."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says his father is picking him up.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "my father is picking me up"
+        }
+      ]
+    }
+  ]
+}

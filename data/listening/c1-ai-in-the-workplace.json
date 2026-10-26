@@ -1,0 +1,607 @@
+{
+  "id": "l-c1-ai-in-the-workplace",
+  "title": "AI in the Workplace",
+  "level": "C1 · Advanced",
+  "description": "A panel discussion about how artificial intelligence is changing jobs, with a case study, a disagreement about monitoring staff and a report on retraining.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Panel introduction",
+      "intro": "You will hear a chair, Mai, opening a panel discussion with a researcher, Dr Hughes.",
+      "speakers": {
+        "Mai": "female",
+        "Dr Hughes": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Welcome to tonight's panel on artificial intelligence at work. Dr Hughes, let's start with the question everyone is nervous about. Will these systems take our jobs?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Hughes",
+          "text": "Well, I'd gently challenge the way the question is framed, Mai. Jobs are not single things. They are bundles of tasks. When researchers look closely, they find that very few occupations consist of tasks that can all be automated. What usually happens is that some tasks disappear and others grow."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "Can you give an example?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Hughes",
+          "text": "Certainly. Take an accountant. Entering figures and checking them against invoices is exactly what software now does well. But advising a family business on whether to expand, and persuading the owner to listen, remains stubbornly human. The job survives, but its centre of gravity moves."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "That sounds rather comforting."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Hughes",
+          "text": "It should be, up to a point. But I don't want to be complacent. Historically, new technology has created more work than it destroyed, yet the transition was painful for the people in the middle. Weavers did not become software designers. The danger is not mass unemployment so much as a mismatch between the skills people have and the skills employers want."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "So who bears the cost of that mismatch?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Dr Hughes",
+          "text": "At the moment, mostly the workers. That's the part I find hardest to defend. If a company gains productivity from a new system, it seems only fair that it should help pay to retrain the people whose tasks have changed."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mai",
+          "text": "A fair point, and one I suspect our next speaker will have views on."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A case study",
+      "intro": "You will hear a consultant, Ms Clarke, describing how a law firm introduced an AI tool.",
+      "speakers": {
+        "Ms Clarke": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Ms Clarke",
+          "text": "I'd like to describe a firm I advised last year, a mid-sized law practice that introduced an AI tool to review contracts. The managing partners were convinced it would cut costs. What actually happened was more interesting."
+        },
+        {
+          "id": "s11",
+          "speaker": "Ms Clarke",
+          "text": "In the first month, nothing seemed to improve. The junior lawyers, who spent most of their time reading contracts line by line, were suspicious. Several of them privately assumed the tool had been bought to replace them, and a few quietly avoided using it."
+        },
+        {
+          "id": "s12",
+          "speaker": "Ms Clarke",
+          "text": "The turning point came when a senior partner stood up at a meeting and said, quite plainly, that nobody would lose their job because of the software. She also said that the time saved would be spent on client work, not on increasing the number of cases. Within weeks, people were using the tool and, crucially, sharing tips about its weaknesses."
+        },
+        {
+          "id": "s13",
+          "speaker": "Ms Clarke",
+          "text": "And it has weaknesses. It occasionally produces summaries that sound entirely convincing but contain errors. One trainee told me she nearly missed a mistake because the explanation read so smoothly. That led the firm to introduce a rule that every machine-generated summary must be checked by a human before it reaches a client."
+        },
+        {
+          "id": "s14",
+          "speaker": "Ms Clarke",
+          "text": "The unexpected result was on training. Because juniors no longer spent hours on routine reading, they were meeting clients sooner. The partners initially worried that the juniors weren't ready. In fact, most of them rose to it, though a minority admitted they missed the slower apprenticeship, with its chance to learn by watching."
+        },
+        {
+          "id": "s15",
+          "speaker": "Ms Clarke",
+          "text": "My conclusion from this is that the technology mattered less than the conversation around it. Where leaders were honest about the purpose of the tool, people used it intelligently. Where they were vague, rumours filled the gap."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A disagreement",
+      "intro": "You will hear two managers, Nam and Sarah, discussing whether companies should use AI to monitor employees.",
+      "speakers": {
+        "Nam": "male",
+        "Sarah": "female"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "I'll be honest, Sarah, I think the monitoring software is a good idea. It tracks how long people spend on tasks, flags delays and suggests where the team is overloaded. Surely that's useful?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Sarah",
+          "text": "It can be useful, but I'm uneasy about the way it's been introduced. Nobody asked the staff. And I've already heard two people say they feel watched every minute of the working day."
+        },
+        {
+          "id": "s18",
+          "speaker": "Nam",
+          "text": "Isn't that a little dramatic? We're not reading their emails. We only look at patterns."
+        },
+        {
+          "id": "s19",
+          "speaker": "Sarah",
+          "text": "Patterns can be misleading, though. Someone who's quiet on the system for an hour may be thinking through a difficult problem, which is, after all, the most valuable thing they do. If we reward only what a machine can count, we'll get more of what it can count and less of what matters."
+        },
+        {
+          "id": "s20",
+          "speaker": "Nam",
+          "text": "That's a fair criticism. I suppose I'd want the data used to support people, not to punish them."
+        },
+        {
+          "id": "s21",
+          "speaker": "Sarah",
+          "text": "Then say so, in writing, and let the team see what is being collected. I'd also want some control over how long the data is kept. Trust is the whole point here. Once people start performing for the software rather than doing their work, you've lost more than you've gained."
+        },
+        {
+          "id": "s22",
+          "speaker": "Nam",
+          "text": "I take that on board. Though I'd say you're slightly underestimating how much good the tool does for people who struggle to ask for help. It spots when someone is drowning before they say a word."
+        },
+        {
+          "id": "s23",
+          "speaker": "Sarah",
+          "text": "That I hadn't considered. Perhaps the answer is to let employees see their own data first and decide what to share."
+        },
+        {
+          "id": "s24",
+          "speaker": "Nam",
+          "text": "Now that's a compromise I could take to the board."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A radio report",
+      "intro": "You will hear a radio reporter talking about retraining workers in an age of AI.",
+      "speakers": {
+        "Reporter": "male"
+      },
+      "script": [
+        {
+          "id": "s25",
+          "speaker": "Reporter",
+          "text": "In a former factory town in the north of England, a training centre is trying to answer a question that governments around the world are asking: how do you prepare adults for jobs that don't exist yet?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Reporter",
+          "text": "The centre's director told me their first mistake was to focus on technical skills alone. They ran courses in data analysis and found that many graduates still struggled to get work. Employers, it turned out, were looking for something harder to teach: the ability to judge when a machine's answer can be trusted."
+        },
+        {
+          "id": "s27",
+          "speaker": "Reporter",
+          "text": "So the courses changed. Students now spend as much time questioning outputs as producing them. In one exercise, they are given a report written by software and asked to find the three deliberate errors hidden in it. Most find two. The third, the director says, is the lesson."
+        },
+        {
+          "id": "s28",
+          "speaker": "Reporter",
+          "text": "Not everyone is convinced. A local union representative argued that training is being used as a way of avoiding a more difficult conversation about job security. She said that asking workers to adapt, again and again, puts the burden on the individual and lets the employer off the hook."
+        },
+        {
+          "id": "s29",
+          "speaker": "Reporter",
+          "text": "There is no easy answer to that. But the people I spoke to at the centre seemed less worried than I expected. One former warehouse worker, now training as a technician, said that the fear had been worse than the change. He added, with a smile, that he now spends his days teaching a machine to do the lifting his back could no longer manage."
+        },
+        {
+          "id": "s30",
+          "speaker": "Reporter",
+          "text": "What links these stories is a simple idea. The workers who do best are not necessarily the most technical. They are the ones who keep learning, and who are curious about how the tools work, rather than afraid of them."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is Dr Hughes' main point about jobs and automation?",
+      "options": [
+        "Jobs contain many tasks, and only some are automated.",
+        "New technology rarely changes the way that people work.",
+        "Most jobs will disappear completely within a generation."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says jobs are bundles of tasks and usually only some tasks disappear.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Jobs are not single things. They are bundles of tasks."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Dr Hughes say will remain human in the accountant's job?",
+      "options": [
+        "Checking figures against every invoice carefully",
+        "Advising and persuading a business owner",
+        "Entering data into accounting software daily"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Advice and persuasion remain human; data entry and checking are done by software.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "advising a family business on whether to expand, and persuading the owner to listen, remains stubbornly human"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Dr Hughes feel about the optimistic view of AI?",
+      "options": [
+        "He thinks it is naive and rather unrealistic.",
+        "He accepts it but warns against complacency.",
+        "He is not interested in it and ignores it.",
+        "He fully agrees with it without reservation."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says it should be comforting up to a point, but he does not want to be complacent.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I don't want to be complacent."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does he mention weavers?",
+      "options": [
+        "To show that retraining is hard for those affected",
+        "To suggest that many weavers later became software designers",
+        "To prove that technology always destroys more jobs than it creates"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Weavers did not become software designers: the transition was painful for people in the middle.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "Weavers did not become software designers."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "What is Dr Hughes arguing when he talks about who should pay for retraining?",
+      "options": [
+        "Workers should pay for their own courses.",
+        "Governments should stop retraining.",
+        "Companies that gain from AI should contribute."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says it seems fair that firms gaining productivity should help pay for retraining.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "it seems only fair that it should help pay to retrain the people whose tasks have changed"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why did the junior lawyers avoid the tool at first?",
+      "options": [
+        "They suspected it was meant to replace them.",
+        "It was too difficult for them to learn quickly.",
+        "It was slower than reading contracts line by line."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Several privately assumed the tool had been bought to replace them.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "Several of them privately assumed the tool had been bought to replace them"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What changed attitudes at the firm?",
+      "options": [
+        "A compulsory training course on how the tool works",
+        "A reduction in the number of cases they handle",
+        "A bonus for lawyers who used the tool regularly",
+        "A partner's clear promise about jobs and time"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A senior partner said nobody would lose a job and the time saved would go to client work.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "nobody would lose their job because of the software"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What rule did the firm introduce after the trainee's near-miss?",
+      "options": [
+        "Summaries must be checked by a human.",
+        "Clients must be told about the tool.",
+        "The tool may only be used by partners."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Every machine-generated summary must be checked by a human before it reaches a client.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "every machine-generated summary must be checked by a human before it reaches a client"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What did a minority of juniors feel about the new way of working?",
+      "options": [
+        "They wanted more routine reading to do each day.",
+        "They missed the slower way of learning.",
+        "They felt completely ready to meet clients early."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A minority admitted they missed the slower apprenticeship.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "a minority admitted they missed the slower apprenticeship"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Ms Clarke's overall conclusion?",
+      "options": [
+        "The software was too poorly designed to be useful.",
+        "Communication mattered more than the technology.",
+        "Law firms should avoid using AI for contract review."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the technology mattered less than the conversation around it.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "the technology mattered less than the conversation around it"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is Nam's opinion of the monitoring software at the start?",
+      "options": [
+        "He thinks it is intrusive.",
+        "He thinks it is useful.",
+        "He is unsure about it."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says it is a good idea and asks if it is not useful.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "I think the monitoring software is a good idea."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What worry about staff does Sarah mention first?",
+      "options": [
+        "They feel watched all day.",
+        "They are slow with the software.",
+        "They are not trained.",
+        "They earn too little."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She has heard two people say they feel watched every minute of the working day.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "they feel watched every minute of the working day"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Sarah say patterns can be misleading?",
+      "options": [
+        "Valuable thinking may look like inactivity.",
+        "Staff can easily cheat the system by looking busy.",
+        "Software often breaks down and loses their data."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A quiet hour may be someone solving a hard problem, which is very valuable.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Someone who's quiet on the system for an hour may be thinking through a difficult problem"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Nam mention people who struggle to ask for help?",
+      "options": [
+        "To argue the tool has a benefit Sarah missed",
+        "To show that staff dislike their managers deeply",
+        "To end the discussion before Sarah can reply"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it spots when someone is struggling before they speak, and Sarah had not considered it.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "It spots when someone is drowning before they say a word."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What compromise do they reach?",
+      "options": [
+        "Monitoring only managers and not other staff",
+        "Letting employees see their own data first",
+        "Dropping the software completely until next year"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Sarah suggests employees see their own data first and choose what to share; Nam agrees.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "let employees see their own data first and decide what to share"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What was the training centre's first mistake?",
+      "options": [
+        "Charging too much for the courses",
+        "Ignoring what local employers wanted",
+        "Teaching only technical skills"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They focused on technical skills alone and graduates still struggled to find work.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "their first mistake was to focus on technical skills alone"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What is the purpose of the exercise with hidden errors?",
+      "options": [
+        "To teach students to judge when to trust a machine",
+        "To prove that machines almost never make mistakes",
+        "To test how quickly students read long reports"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Employers want people who can judge when an answer can be trusted; most students miss the third error, which is the lesson.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "the ability to judge when a machine's answer can be trusted"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is the union representative's concern?",
+      "options": [
+        "Technology is changing too slowly for workers.",
+        "Employers are refusing to hire older workers.",
+        "Training courses are much too short to help.",
+        "Training puts the burden on individuals."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says asking workers to adapt again and again lets the employer off the hook.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "puts the burden on the individual"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How did the former warehouse worker feel about the change?",
+      "options": [
+        "The fear was worse than the change itself.",
+        "He regretted leaving the warehouse.",
+        "The change was worse than he feared."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He said the fear had been worse than the change.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "the fear had been worse than the change"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What does the reporter say links the stories?",
+      "options": [
+        "Technical skill matters most in the new jobs.",
+        "Curiosity and a willingness to keep learning",
+        "Age determines who succeeds at retraining."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The workers who do best keep learning and are curious rather than afraid.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "They are the ones who keep learning"
+        }
+      ]
+    }
+  ]
+}

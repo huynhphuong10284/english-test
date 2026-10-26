@@ -1,0 +1,593 @@
+{
+  "id": "l-a1-booking-a-hotel-room",
+  "title": "Booking a Hotel Room",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings at hotels: a booking call, checking in, a voicemail and a welcome talk.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Booking a room",
+      "intro": "You will hear Mr Evans phone a hotel.",
+      "speakers": {
+        "Mr Evans": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "Good afternoon, Sunshine Hotel. How can I help you?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Mr Evans",
+          "text": "Hello. I'd like to book a room, please."
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "Certainly. For how many people?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Mr Evans",
+          "text": "Two adults and one child."
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "And for how many nights?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Mr Evans",
+          "text": "Three nights, from the twelfth of June."
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "One moment. Yes, we have a family room. It has two beds and a sofa. It's ninety pounds a night."
+        },
+        {
+          "id": "s8",
+          "speaker": "Mr Evans",
+          "text": "Is breakfast included?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Linh",
+          "text": "Yes, breakfast is from seven to ten o'clock."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Checking in",
+      "intro": "You will hear Mrs Taylor arrive at the hotel.",
+      "speakers": {
+        "Nam": "male",
+        "Mrs Taylor": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Nam",
+          "text": "Welcome to the Sunshine Hotel. Do you have a booking?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Taylor",
+          "text": "Yes, the name is Taylor. I booked a double room for two nights."
+        },
+        {
+          "id": "s12",
+          "speaker": "Nam",
+          "text": "Yes, I see it. You're in room two hundred and five, on the second floor."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mrs Taylor",
+          "text": "Is there a lift?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Nam",
+          "text": "Yes, it's next to the restaurant. Here's your key card."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mrs Taylor",
+          "text": "What time is check-out?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "At eleven o'clock. And the pool is open until nine in the evening."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mrs Taylor",
+          "text": "Lovely. Is there internet in the room?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Nam",
+          "text": "Yes, the internet is free. The password is on the card."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A voicemail",
+      "intro": "You will hear a message from a hotel manager.",
+      "speakers": {
+        "Mr Dang": "male"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Mr Dang",
+          "text": "Hello, this is Mr Dang from the Lakeview Hotel, calling for Mrs Lan."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mr Dang",
+          "text": "I'm sorry, but there is a problem with your booking for the twentieth of August. The sea-view room is not available because of a broken window."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mr Dang",
+          "text": "We can give you a garden-view room, and it's cheaper. It's sixty pounds, not eighty pounds. Is that OK?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Mr Dang",
+          "text": "Also, the hotel bus can pick you up at the airport. It leaves at half past two."
+        },
+        {
+          "id": "s23",
+          "speaker": "Mr Dang",
+          "text": "Please call me back before Friday on the number on our website. Thank you."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A welcome talk",
+      "intro": "You will hear a hotel worker, Anna, welcoming guests.",
+      "speakers": {
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Anna",
+          "text": "Welcome, everyone, to the Mountain View Hotel. I'm Anna from the front desk. Here is some useful information."
+        },
+        {
+          "id": "s25",
+          "speaker": "Anna",
+          "text": "Breakfast is in the restaurant on the ground floor, from half past six to ten o'clock. Lunch is not included."
+        },
+        {
+          "id": "s26",
+          "speaker": "Anna",
+          "text": "The swimming pool is on the roof. It's closed on Mondays because we clean it."
+        },
+        {
+          "id": "s27",
+          "speaker": "Anna",
+          "text": "If you want a taxi, ask at the desk. A taxi to the town centre costs about eight pounds."
+        },
+        {
+          "id": "s28",
+          "speaker": "Anna",
+          "text": "Finally, please put your towels on the floor if you want new ones. Thank you, and enjoy your stay!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Mr Evans call?",
+      "options": [
+        "To ask about the pool",
+        "To cancel a room",
+        "To book a room"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he wants to book a room.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I'd like to book a room, please."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many people will stay?",
+      "options": [
+        "Four",
+        "Two",
+        "Three"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Two adults and one child make three people.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Two adults and one child."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How long will they stay?",
+      "options": [
+        "Three nights",
+        "One night",
+        "Two nights"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He wants the room for three nights.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "Three nights, from the twelfth of June."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much is the room for one night?",
+      "options": [
+        "Ninety pounds",
+        "Nineteen pounds",
+        "Nine pounds"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The family room is ninety pounds a night.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "It's ninety pounds a night."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When is breakfast?",
+      "options": [
+        "From ten to twelve o'clock",
+        "From six to nine o'clock",
+        "From seven to ten o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Breakfast is from seven to ten o'clock.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "breakfast is from seven to ten o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What kind of room did Mrs Taylor book?",
+      "options": [
+        "A single room",
+        "A family room",
+        "A double room"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She booked a double room for two nights.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I booked a double room for two nights."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which floor is her room on?",
+      "options": [
+        "The second floor",
+        "The fifth floor",
+        "The first floor"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Her room is on the second floor. Two hundred and five is the room number.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "on the second floor"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where is the lift?",
+      "options": [
+        "Next to the pool",
+        "Next to the desk",
+        "Next to the restaurant"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It is next to the restaurant.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "it's next to the restaurant"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time is check-out?",
+      "options": [
+        "At noon",
+        "At nine o'clock",
+        "At eleven o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Check-out is at eleven o'clock. Nine is when the pool closes.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "At eleven o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is free at the hotel?",
+      "options": [
+        "The internet",
+        "The pool",
+        "The taxi"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam says the internet is free.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "the internet is free"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Mr Dang call?",
+      "options": [
+        "He wants to sell something.",
+        "He wants to say thank you.",
+        "There is a problem with the booking."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says there is a problem with Mrs Lan's booking.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "there is a problem with your booking"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why is the sea-view room not available?",
+      "options": [
+        "It is full of guests.",
+        "A window is broken.",
+        "It is too small."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The sea-view room has a broken window.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "because of a broken window"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How much is the garden-view room?",
+      "options": [
+        "Eighty pounds",
+        "Twenty pounds",
+        "Sixty pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It costs sixty pounds, not eighty.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "It's sixty pounds, not eighty pounds."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What can the hotel bus do?",
+      "options": [
+        "Take her shopping",
+        "Take her to the sea",
+        "Pick Mrs Lan up at the airport"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The bus can pick her up at the airport.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "the hotel bus can pick you up at the airport"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When must Mrs Lan call back?",
+      "options": [
+        "On the twentieth of August",
+        "Before Friday",
+        "Tomorrow at two"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He asks her to call before Friday.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "Please call me back before Friday"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where is breakfast?",
+      "options": [
+        "At the front desk",
+        "In the restaurant on the ground floor",
+        "On the roof"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Breakfast is in the restaurant on the ground floor.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "Breakfast is in the restaurant on the ground floor"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Which meal is NOT included?",
+      "options": [
+        "Breakfast",
+        "Dinner",
+        "Lunch"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Anna says lunch is not included.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "Lunch is not included."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When is the pool closed?",
+      "options": [
+        "On Mondays",
+        "On Sundays",
+        "On Fridays"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is closed on Mondays because the staff clean it.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "It's closed on Mondays"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How much is a taxi to the town centre?",
+      "options": [
+        "Nothing",
+        "About eighteen pounds",
+        "About eight pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A taxi costs about eight pounds.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "costs about eight pounds"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What should guests do to get new towels?",
+      "options": [
+        "Put the old ones on the floor",
+        "Ask at the desk",
+        "Call a taxi"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says to put the towels on the floor if you want new ones.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "please put your towels on the floor if you want new ones"
+        }
+      ]
+    }
+  ]
+}

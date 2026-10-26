@@ -1,0 +1,579 @@
+{
+  "id": "l-yl-f-animals-of-the-jungle",
+  "title": "Animals of the Jungle",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about jungle animals: a film, a talk about elephants, a zoo keeper and a trip message.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A wildlife film",
+      "intro": "You will hear Sam and Linh watching a film about the jungle.",
+      "speakers": {
+        "Sam": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "Sam, look at that tiger! It's walking along the river."
+        },
+        {
+          "id": "s2",
+          "speaker": "Sam",
+          "text": "It's beautiful, but I'm a little scared. Tigers are very big and strong."
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "Don't worry, we're only watching a film. My favourite animals are the monkeys, though. Look at the baby on its mother's back."
+        },
+        {
+          "id": "s4",
+          "speaker": "Sam",
+          "text": "Yes, and the parrots are great, too. They're red and blue, and they can say words."
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "Actually, in the jungle they just make loud noises. People teach them words at home."
+        },
+        {
+          "id": "s6",
+          "speaker": "Sam",
+          "text": "I didn't know that. Do you think there are snakes?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "Yes, a few. But the film says most snakes are shy and stay away from people."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A talk about elephants",
+      "intro": "You will hear Dr Mai giving a short talk about elephants.",
+      "speakers": {
+        "Dr Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Dr Mai",
+          "text": "Today I'm going to tell you about elephants. They are the biggest animals that live on land."
+        },
+        {
+          "id": "s9",
+          "speaker": "Dr Mai",
+          "text": "An elephant eats up to two hundred kilos of food every day. It eats grass, leaves and fruit, and it drinks a lot of water, too."
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Mai",
+          "text": "Surprisingly, elephants only sleep for about four hours each night. They sleep standing up."
+        },
+        {
+          "id": "s11",
+          "speaker": "Dr Mai",
+          "text": "Elephants live in family groups. The oldest female is the leader, and the babies stay close to their mothers for many years."
+        },
+        {
+          "id": "s12",
+          "speaker": "Dr Mai",
+          "text": "They talk to each other with loud sounds through their trunks. Some sounds are so low that people can't hear them. Elephants are clever and gentle, and we must protect them."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Talking to a zoo keeper",
+      "intro": "You will hear Nam asking a zoo keeper, Ms Jane, about some jungle animals.",
+      "speakers": {
+        "Nam": "male",
+        "Ms Jane": "female"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Nam",
+          "text": "Excuse me, Ms Jane. Why is that animal in the tree so still?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Ms Jane",
+          "text": "That's a sloth. It moves very slowly, so it uses very little energy. It even sleeps hanging upside down."
+        },
+        {
+          "id": "s15",
+          "speaker": "Nam",
+          "text": "Wow! And what are those small green animals on the leaves?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Ms Jane",
+          "text": "They're tree frogs. Their skin is bright, and some are poisonous, so please don't touch them. They come out at night."
+        },
+        {
+          "id": "s17",
+          "speaker": "Nam",
+          "text": "Do they eat flies?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Ms Jane",
+          "text": "Yes, flies and other small insects. Now come with me. It's time to feed the monkeys. Would you like to help?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Nam",
+          "text": "Yes, please! What do they eat?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Ms Jane",
+          "text": "Bananas, nuts and fruit. But we never give them sweets, because sugar is bad for them."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A message about a jungle trip",
+      "intro": "You will hear a phone message from a guide, Mr Green.",
+      "speakers": {
+        "Mr Green": "male"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Mr Green",
+          "text": "Hello, this is Mr Green, your guide for the jungle trip. I'm calling to give you some information."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mr Green",
+          "text": "We leave very early, at six o'clock, because the birds sing best at dawn. The walk through the forest takes three hours."
+        },
+        {
+          "id": "s23",
+          "speaker": "Mr Green",
+          "text": "Please wear long trousers and a hat, and bring some water. You will also need insect spray, because there are lots of mosquitoes."
+        },
+        {
+          "id": "s24",
+          "speaker": "Mr Green",
+          "text": "We will see parrots and, if we are lucky, a family of monkeys. Please don't feed the monkeys, and keep quiet near the animals."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mr Green",
+          "text": "After the walk, we will have lunch by the river. Call me if you have any questions. Goodbye!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the tiger walking?",
+      "options": [
+        "Up a tree",
+        "Along a river",
+        "Through a village"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The tiger is walking along the river.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "It's walking along the river."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Sam feel about the tiger?",
+      "options": [
+        "Very sleepy",
+        "A little scared",
+        "Bored"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he is a little scared because tigers are big and strong.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I'm a little scared"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Which animals does Linh like best?",
+      "options": [
+        "Tigers",
+        "Parrots",
+        "Monkeys"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her favourite animals are the monkeys.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "My favourite animals are the monkeys"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What colour are the parrots?",
+      "options": [
+        "Green and yellow",
+        "Black and white",
+        "Red and blue"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Sam says the parrots are red and blue.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "They're red and blue"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does the film say about most snakes?",
+      "options": [
+        "They are fast.",
+        "They are friendly.",
+        "They are shy."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Most snakes are shy and stay away from people.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "most snakes are shy"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much food does an elephant eat every day?",
+      "options": [
+        "Twenty kilos",
+        "Two thousand kilos",
+        "Two hundred kilos"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "An elephant eats up to two hundred kilos every day.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "up to two hundred kilos of food every day"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long do elephants sleep at night?",
+      "options": [
+        "Ten hours",
+        "Twelve hours",
+        "Four hours"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They only sleep for about four hours each night.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "only sleep for about four hours each night"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who is the leader of the family group?",
+      "options": [
+        "The biggest male",
+        "The oldest female",
+        "The youngest baby"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The oldest female is the leader.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "The oldest female is the leader"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How do elephants talk to each other?",
+      "options": [
+        "With their ears only",
+        "With their tails",
+        "With sounds through their trunks"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They talk with loud sounds through their trunks.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "loud sounds through their trunks"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Dr Mai think about elephants?",
+      "options": [
+        "They are clever and gentle.",
+        "They are dangerous.",
+        "They are boring."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says elephants are clever and gentle and must be protected.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Elephants are clever and gentle"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is the animal that is very still?",
+      "options": [
+        "A monkey",
+        "A sloth",
+        "A parrot"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ms Jane says it is a sloth.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "That's a sloth."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why does the sloth move slowly?",
+      "options": [
+        "It saves energy.",
+        "It is old.",
+        "It is ill."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It moves slowly so it uses very little energy.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "it uses very little energy"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why shouldn't Nam touch the tree frogs?",
+      "options": [
+        "They are shy.",
+        "They are poisonous.",
+        "They are asleep."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Some tree frogs are poisonous.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "some are poisonous"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What do the tree frogs eat?",
+      "options": [
+        "Flies and small insects",
+        "Bananas",
+        "Leaves"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They eat flies and other small insects.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "flies and other small insects"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What do the monkeys never get?",
+      "options": [
+        "Bananas",
+        "Nuts",
+        "Sweets"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ms Jane says they never give the monkeys sweets.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "we never give them sweets"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why is Mr Green calling?",
+      "options": [
+        "To cancel the trip",
+        "To give information about a trip",
+        "To sell tickets"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He calls to give information about the jungle trip.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "I'm calling to give you some information."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why do they leave so early?",
+      "options": [
+        "It is very hot later.",
+        "The birds sing best at dawn.",
+        "The bus is slow."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The birds sing best at dawn.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "the birds sing best at dawn"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How long is the walk?",
+      "options": [
+        "Six hours",
+        "One hour",
+        "Three hours"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The walk takes three hours. Six o'clock is the leaving time.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "takes three hours"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why do they need insect spray?",
+      "options": [
+        "There are lots of mosquitoes.",
+        "The monkeys are noisy.",
+        "It will rain."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Green says there are lots of mosquitoes.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "there are lots of mosquitoes"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What must the visitors NOT do?",
+      "options": [
+        "Wear a hat",
+        "Feed the monkeys",
+        "Bring water"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says please don't feed the monkeys.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "Please don't feed the monkeys"
+        }
+      ]
+    }
+  ]
+}

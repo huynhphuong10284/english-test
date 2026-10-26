@@ -1,0 +1,424 @@
+{
+  "id": "l-yl-m-making-pancakes",
+  "title": "Making Pancakes",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about making pancakes on a Sunday morning.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Getting ready",
+      "intro": "You will hear Lucy and her dad in the kitchen.",
+      "speakers": {
+        "Lucy": "female",
+        "Dad": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Lucy",
+          "text": "Dad, can we make pancakes for breakfast? It's Sunday."
+        },
+        {
+          "id": "s2",
+          "speaker": "Dad",
+          "text": "Good idea, Lucy. First we need flour, eggs and milk. Let's look in the fridge."
+        },
+        {
+          "id": "s3",
+          "speaker": "Lucy",
+          "text": "There are only two eggs, but we need three."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dad",
+          "text": "Don't worry. Granddad has some eggs. I'll go and ask him."
+        },
+        {
+          "id": "s5",
+          "speaker": "Lucy",
+          "text": "I'll wash my hands and get the big bowl. Then I'll put on my apron, because the flour always goes everywhere."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dad",
+          "text": "And please find the frying pan. It's under the sink, I think. No, sorry, it's in the cupboard next to the cooker."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The recipe",
+      "intro": "You will hear Mum explain how to make the pancake mix.",
+      "speakers": {
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Mum",
+          "text": "Right, everyone, let's make the pancake mix. First, put two hundred grams of flour in the big bowl."
+        },
+        {
+          "id": "s8",
+          "speaker": "Mum",
+          "text": "Then break the eggs and add them. Now pour in the milk slowly, and stir until there are no lumps."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mum",
+          "text": "Leave the mix for ten minutes. Meanwhile, I'll heat a little oil in the pan. It must be hot, but not too hot."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mum",
+          "text": "Pour a small cup of mix into the pan. After one minute, turn the pancake over. Be careful, it's hot! Then we will put the pancakes on a big plate and keep them warm in the oven."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Breakfast time",
+      "intro": "You will hear Lucy and her dad at the table.",
+      "speakers": {
+        "Lucy": "female",
+        "Dad": "male"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Lucy",
+          "text": "Mmm, these smell lovely! Can I have chocolate sauce on mine?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Dad",
+          "text": "I prefer lemon and sugar. My mum always made them that way."
+        },
+        {
+          "id": "s13",
+          "speaker": "Dad",
+          "text": "Try one with banana later. They're sweet, and I don't like too much chocolate in the morning."
+        },
+        {
+          "id": "s14",
+          "speaker": "Lucy",
+          "text": "OK, but my first one is burnt! Look, it's black on one side."
+        },
+        {
+          "id": "s15",
+          "speaker": "Dad",
+          "text": "That's fine. The first pancake is always bad. Give it to the dog."
+        },
+        {
+          "id": "s16",
+          "speaker": "Lucy",
+          "text": "Ha ha! I want to make pancakes every Sunday from now on. Maybe next time we can invite Granddad to eat with us."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What day is it?",
+      "options": [
+        "Sunday",
+        "Saturday",
+        "Monday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lucy says it's Sunday.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "It's Sunday."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What do they need?",
+      "options": [
+        "Flour, sugar and butter",
+        "Flour, eggs and milk",
+        "Eggs, cheese and milk"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dad says they need flour, eggs and milk.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "First we need flour, eggs and milk."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many eggs do they need?",
+      "options": [
+        "Three",
+        "Two",
+        "Four"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They have two eggs but need three.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "we need three"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Who has some eggs?",
+      "options": [
+        "Granddad",
+        "The neighbour",
+        "Grandma"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Dad says Granddad has some eggs.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Granddad has some eggs."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the frying pan?",
+      "options": [
+        "On the table",
+        "Under the sink",
+        "In the cupboard"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dad corrects himself: it is in the cupboard, not under the sink.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "it's in the cupboard next to the cooker"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Mum doing?",
+      "options": [
+        "Showing how to make pancakes",
+        "Washing the dishes",
+        "Buying food"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum explains how to make the pancake mix.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "let's make the pancake mix"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What goes in the bowl first?",
+      "options": [
+        "The flour",
+        "The milk",
+        "The eggs"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The flour goes in first.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "put two hundred grams of flour in the big bowl"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long should they leave the mix?",
+      "options": [
+        "One minute",
+        "Two minutes",
+        "Ten minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They leave the mix for ten minutes.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "Leave the mix for ten minutes."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What should the pan be like?",
+      "options": [
+        "Cold",
+        "Hot, but not too hot",
+        "Very hot"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says it must be hot, but not too hot.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "It must be hot, but not too hot."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When do they turn the pancake over?",
+      "options": [
+        "After ten minutes",
+        "After two minutes",
+        "After one minute"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They turn it after one minute. Ten minutes is for the mix.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "After one minute, turn the pancake over."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Lucy want on her pancake first?",
+      "options": [
+        "Lemon and sugar",
+        "Chocolate sauce",
+        "Banana"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lucy asks for chocolate sauce.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "Can I have chocolate sauce on mine?"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Dad prefer?",
+      "options": [
+        "Lemon and sugar",
+        "Chocolate sauce",
+        "Banana"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Dad says he prefers lemon and sugar.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I prefer lemon and sugar."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is wrong with Lucy's first pancake?",
+      "options": [
+        "It is cold.",
+        "It is too small.",
+        "It is burnt."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lucy says her first pancake is burnt.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "my first one is burnt!"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will they do with it?",
+      "options": [
+        "Eat it",
+        "Give it to the dog",
+        "Throw it away"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dad says to give it to the dog.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Give it to the dog."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Lucy want to do every Sunday?",
+      "options": [
+        "Visit Granddad",
+        "Make pancakes",
+        "Walk the dog"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lucy wants to make pancakes every Sunday.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "I want to make pancakes every Sunday"
+        }
+      ]
+    }
+  ]
+}

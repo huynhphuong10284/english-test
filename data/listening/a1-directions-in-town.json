@@ -1,0 +1,583 @@
+{
+  "id": "l-a1-directions-in-town",
+  "title": "Directions in Town",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about finding places: a bank, a museum, a voicemail and a guided walk.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Looking for a bank",
+      "intro": "You will hear Tom asking Linh the way.",
+      "speakers": {
+        "Tom": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Tom",
+          "text": "Excuse me. Is there a bank near here?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Linh",
+          "text": "Yes. Go straight on and turn left at the traffic lights."
+        },
+        {
+          "id": "s3",
+          "speaker": "Tom",
+          "text": "Straight on, then left."
+        },
+        {
+          "id": "s4",
+          "speaker": "Linh",
+          "text": "That's right. The bank is on the right, between the post office and the bakery."
+        },
+        {
+          "id": "s5",
+          "speaker": "Tom",
+          "text": "Is it far? I don't know this town well, and I have no map."
+        },
+        {
+          "id": "s6",
+          "speaker": "Linh",
+          "text": "No, it's only five minutes on foot. But it's closed on Sundays, and today is Sunday!"
+        },
+        {
+          "id": "s7",
+          "speaker": "Tom",
+          "text": "Oh no! Is there a cash machine?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Linh",
+          "text": "Yes, there's one outside the supermarket. It's very near, next to the bus stop. You can also ask the lady in the shop. She is always very kind."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Finding the museum",
+      "intro": "You will hear Mai asking Mr Hung for directions.",
+      "speakers": {
+        "Mr Hung": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Mai",
+          "text": "Excuse me, how can I get to the museum?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Mr Hung",
+          "text": "The museum? Take the second street on the right, and walk past the park."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mai",
+          "text": "The second street on the right?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Hung",
+          "text": "Sorry, the third street. The second one is a small road."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mai",
+          "text": "OK, the third street."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mr Hung",
+          "text": "Then cross the bridge. The museum is opposite the church."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "Should I take a bus?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Mr Hung",
+          "text": "No, it's about ten minutes on foot. It's a nice walk."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Directions to a house",
+      "intro": "You will hear a message from Hoa to her friend Minh.",
+      "speakers": {
+        "Hoa": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Hoa",
+          "text": "Hi, Minh. It's Hoa. Here are the directions to my house for the party."
+        },
+        {
+          "id": "s18",
+          "speaker": "Hoa",
+          "text": "Get off the bus at the library. Then walk down Rose Street until you see a big yellow shop."
+        },
+        {
+          "id": "s19",
+          "speaker": "Hoa",
+          "text": "Turn right at the shop. My house is the last one on the left, next to a green gate."
+        },
+        {
+          "id": "s20",
+          "speaker": "Hoa",
+          "text": "Don't go to the old school. Lots of people go there by mistake."
+        },
+        {
+          "id": "s21",
+          "speaker": "Hoa",
+          "text": "If you get lost, call me. Don't take a taxi, it's too expensive. See you!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A guided walk",
+      "intro": "You will hear a tour guide, Peter, talking to a group.",
+      "speakers": {
+        "Peter": "male"
+      },
+      "script": [
+        {
+          "id": "s22",
+          "speaker": "Peter",
+          "text": "Good morning, everyone. I'm Peter, your guide, and today we're going to walk around the old town."
+        },
+        {
+          "id": "s23",
+          "speaker": "Peter",
+          "text": "We start here at the train station. First, we walk along the river to the old market. It opens at eight o'clock."
+        },
+        {
+          "id": "s24",
+          "speaker": "Peter",
+          "text": "Then we go up the hill to the castle. It's a long walk, but the view is fantastic."
+        },
+        {
+          "id": "s25",
+          "speaker": "Peter",
+          "text": "At twelve o'clock we have lunch in a small café behind the castle."
+        },
+        {
+          "id": "s26",
+          "speaker": "Peter",
+          "text": "After lunch, we take a boat back to the station. The boat trip is only fifteen minutes."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is Tom looking for?",
+      "options": [
+        "A bakery",
+        "A bank",
+        "A bus stop"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He asks if there is a bank near here.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "Is there a bank near here?"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where should Tom turn?",
+      "options": [
+        "Left at the bakery",
+        "Left at the traffic lights",
+        "Right at the post office"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says to go straight on and turn left at the traffic lights.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "turn left at the traffic lights"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the bank?",
+      "options": [
+        "Between the post office and the bakery",
+        "Outside the supermarket",
+        "Next to the bus stop"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The bank is between the post office and the bakery.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "between the post office and the bakery"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What is the problem?",
+      "options": [
+        "The bank is too far.",
+        "The bank is very small.",
+        "The bank is closed today."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The bank is closed on Sundays, and today is Sunday.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "it's closed on Sundays"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the cash machine?",
+      "options": [
+        "Outside the supermarket",
+        "Inside the bank",
+        "Next to the bakery"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "There is a cash machine outside the supermarket.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "there's one outside the supermarket"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What does Mai want to find?",
+      "options": [
+        "The church",
+        "The museum",
+        "The park"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She asks how to get to the museum.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "how can I get to the museum?"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which street should she take?",
+      "options": [
+        "The first street on the left",
+        "The second street on the right",
+        "The third street on the right"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mr Hung changes his answer to the third street.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Sorry, the third street."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does she walk past?",
+      "options": [
+        "The church",
+        "The bridge",
+        "The park"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She walks past the park, and then crosses the bridge.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "walk past the park"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where is the museum?",
+      "options": [
+        "Next to the park",
+        "Behind the bridge",
+        "Opposite the church"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The museum is opposite the church.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "The museum is opposite the church."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long is the walk?",
+      "options": [
+        "About an hour",
+        "About ten minutes",
+        "About five minutes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It is about ten minutes on foot.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "it's about ten minutes on foot"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where should Minh get off the bus?",
+      "options": [
+        "At the yellow shop",
+        "At the library",
+        "At the old school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says to get off at the library.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Get off the bus at the library."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Which shop should he look for?",
+      "options": [
+        "A green shop",
+        "A small shop",
+        "A big yellow shop"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says to walk down Rose Street until he sees a big yellow shop.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "a big yellow shop"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where should Minh turn right?",
+      "options": [
+        "At the shop",
+        "At the library",
+        "At the gate"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He turns right at the yellow shop.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Turn right at the shop."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Which is Hoa's house?",
+      "options": [
+        "The one next to the old school",
+        "The last one on the left, next to a green gate",
+        "The first one on the right"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her house is the last one on the left, next to a green gate.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "the last one on the left, next to a green gate"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What should Minh do if he is lost?",
+      "options": [
+        "Call Hoa",
+        "Take a taxi",
+        "Go to the school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says to call her. A taxi is too expensive.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "If you get lost, call me."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What will the group do today?",
+      "options": [
+        "Take a train trip",
+        "Walk around the old town",
+        "Visit a museum"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Peter says they will walk around the old town.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "we're going to walk around the old town"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where does the walk start?",
+      "options": [
+        "At the train station",
+        "At the castle",
+        "At the market"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They start at the train station.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "We start here at the train station."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Peter say about the castle?",
+      "options": [
+        "The view is fantastic.",
+        "It is very small.",
+        "It is closed."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the walk is long, but the view is fantastic.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "the view is fantastic"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where will they have lunch?",
+      "options": [
+        "On the boat",
+        "In the old market",
+        "In a café behind the castle"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lunch is in a small café behind the castle.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "in a small café behind the castle"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How will they go back to the station?",
+      "options": [
+        "On foot",
+        "By bus",
+        "By boat"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They take a boat back to the station.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "we take a boat back to the station"
+        }
+      ]
+    }
+  ]
+}

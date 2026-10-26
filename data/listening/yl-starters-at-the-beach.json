@@ -1,0 +1,352 @@
+{
+  "id": "l-yl-s-at-the-beach",
+  "title": "At the Beach",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about a day at the beach: sand, ice cream and a swim.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Sand and sun",
+      "intro": "You will hear Lily and her dad.",
+      "speakers": {
+        "Dad": "male",
+        "Lily": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Lily",
+          "text": "Look, Dad! The sea is big."
+        },
+        {
+          "id": "s2",
+          "speaker": "Dad",
+          "text": "Yes, Lily. Put on your hat. The sun is hot."
+        },
+        {
+          "id": "s3",
+          "speaker": "Lily",
+          "text": "Where is my bucket? Is it in the red bag?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Dad",
+          "text": "No, it's in the blue bag."
+        },
+        {
+          "id": "s5",
+          "speaker": "Lily",
+          "text": "Can I make a sandcastle?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Dad",
+          "text": "Yes. I will help you. We can fly the kite later."
+        },
+        {
+          "id": "s7",
+          "speaker": "Lily",
+          "text": "Dad, the sand is very hot. I like it, but my feet are warm."
+        },
+        {
+          "id": "s8",
+          "speaker": "Dad",
+          "text": "Wear your sandals, then. Let's walk to the water. It's a lovely day."
+        },
+        {
+          "id": "s9",
+          "speaker": "Lily",
+          "text": "I'm so happy, Dad. I love the beach."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Ice cream",
+      "intro": "You will hear Nam and his mum.",
+      "speakers": {
+        "Mum": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Nam",
+          "text": "Mum, I want an ice cream."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mum",
+          "text": "What flavour? Strawberry or banana?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Nam",
+          "text": "Banana, please."
+        },
+        {
+          "id": "s13",
+          "speaker": "Nam",
+          "text": "Look! I see a crab. It is small and red."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mum",
+          "text": "Don't touch it, Nam."
+        },
+        {
+          "id": "s15",
+          "speaker": "Nam",
+          "text": "Mum, the ice cream is cold and sweet. It is very good."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mum",
+          "text": "Eat it slowly, Nam. Then we can walk on the sand."
+        },
+        {
+          "id": "s17",
+          "speaker": "Nam",
+          "text": "OK, Mum. This is a nice day."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A swim",
+      "intro": "You will hear a boy called Tom.",
+      "speakers": {
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s18",
+          "speaker": "Tom",
+          "text": "I love the beach. I swim in the sea with my sister."
+        },
+        {
+          "id": "s19",
+          "speaker": "Tom",
+          "text": "We see three fish. My sister finds a pink shell."
+        },
+        {
+          "id": "s20",
+          "speaker": "Tom",
+          "text": "Then we eat sandwiches under the umbrella. After lunch we go home."
+        },
+        {
+          "id": "s21",
+          "speaker": "Tom",
+          "text": "My sister and I like the beach very much. The water is cool."
+        },
+        {
+          "id": "s22",
+          "speaker": "Tom",
+          "text": "It is a fun day, and we are very happy."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Dad say Lily must put on?",
+      "options": [
+        "A hat",
+        "A coat",
+        "Shoes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Dad says: \"Put on your hat.\"",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Put on your hat"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the bucket?",
+      "options": [
+        "In the blue bag",
+        "In the car",
+        "In the red bag"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Dad says the bucket is in the blue bag.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "it's in the blue bag"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Lily make?",
+      "options": [
+        "A sandcastle",
+        "A boat",
+        "A kite"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lily asks to make a sandcastle. The kite is for later.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Can I make a sandcastle?"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Does Dad help Lily?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes. He says \"I will help you.\"",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I will help you"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which ice cream does Nam want?",
+      "options": [
+        "Chocolate",
+        "Strawberry",
+        "Banana"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam asks for banana.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Banana, please."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Nam see?",
+      "options": [
+        "A fish",
+        "A bird",
+        "A crab"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam says he sees a small red crab.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "I see a crab"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Can Nam touch the crab?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "No. Mum says: \"Don't touch it.\"",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "Don't touch it"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How many fish do they see?",
+      "options": [
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says they see three fish.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "We see three fish"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What colour is the shell?",
+      "options": [
+        "Pink",
+        "Yellow",
+        "White"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The sister finds a pink shell.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "a pink shell"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where do they eat sandwiches?",
+      "options": [
+        "In the sea",
+        "In the car",
+        "Under the umbrella"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They eat sandwiches under the umbrella.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "under the umbrella"
+        }
+      ]
+    }
+  ]
+}

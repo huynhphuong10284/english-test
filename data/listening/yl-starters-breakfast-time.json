@@ -1,0 +1,348 @@
+{
+  "id": "l-yl-s-breakfast-time",
+  "title": "Breakfast Time",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about breakfast food and drinks.",
+  "instructions": "Read the questions first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · In the kitchen",
+      "intro": "You will hear Mum and Ben at breakfast.",
+      "speakers": {
+        "Ben": "male",
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mum",
+          "text": "Good morning, Ben! Are you hungry?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Ben",
+          "text": "Yes, Mum! I want eggs and toast."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mum",
+          "text": "Do you want milk or juice?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Ben",
+          "text": "Juice, please. I do not like milk."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mum",
+          "text": "Here you are. Eat it all!"
+        },
+        {
+          "id": "s6",
+          "speaker": "Ben",
+          "text": "Thank you, Mum. It is yummy!"
+        },
+        {
+          "id": "s7",
+          "speaker": "Ben",
+          "text": "Mum, is there any more toast?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Mum",
+          "text": "Yes, here are two more pieces. Be careful, they are hot."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Linh's breakfast",
+      "intro": "You will hear Linh talking about her breakfast.",
+      "speakers": {
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Linh",
+          "text": "I have rice and a banana for breakfast."
+        },
+        {
+          "id": "s10",
+          "speaker": "Linh",
+          "text": "I drink hot milk. My little sister has an apple."
+        },
+        {
+          "id": "s11",
+          "speaker": "Linh",
+          "text": "We eat at seven o'clock."
+        },
+        {
+          "id": "s12",
+          "speaker": "Linh",
+          "text": "After breakfast, I brush my teeth and go to school."
+        },
+        {
+          "id": "s13",
+          "speaker": "Linh",
+          "text": "I like breakfast. It is the best meal of the day."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A hungry boy",
+      "intro": "You will hear Nam and his grandmother.",
+      "speakers": {
+        "Nam": "male",
+        "Grandma": "female"
+      },
+      "script": [
+        {
+          "id": "s14",
+          "speaker": "Grandma",
+          "text": "Nam, do you want some bread?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Nam",
+          "text": "Yes, please, Grandma. With jam."
+        },
+        {
+          "id": "s16",
+          "speaker": "Grandma",
+          "text": "We have strawberry jam and orange jam."
+        },
+        {
+          "id": "s17",
+          "speaker": "Nam",
+          "text": "Strawberry, please. It is my favourite!"
+        },
+        {
+          "id": "s18",
+          "speaker": "Grandma",
+          "text": "Here is your bread. Do you want tea?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Nam",
+          "text": "No, thank you. I want water."
+        },
+        {
+          "id": "s20",
+          "speaker": "Grandma",
+          "text": "Eat slowly, Nam. We have a lot of time."
+        },
+        {
+          "id": "s21",
+          "speaker": "Nam",
+          "text": "OK, Grandma. The bread is very good today."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Ben want to eat?",
+      "options": [
+        "Eggs and toast",
+        "Rice and fish",
+        "Bread and jam"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben says, \"I want eggs and toast.\"",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I want eggs and toast."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Ben drink?",
+      "options": [
+        "Water",
+        "Juice",
+        "Milk"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben chooses juice because he does not like milk.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Juice, please."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does Ben think of his breakfast?",
+      "options": [
+        "It is bad",
+        "It is yummy",
+        "It is cold"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben says it is yummy.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "It is yummy!"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Linh have for breakfast?",
+      "options": [
+        "Rice and a banana",
+        "Eggs and toast",
+        "Cake and juice"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh has rice and a banana.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "rice and a banana"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Linh's sister have?",
+      "options": [
+        "An apple",
+        "An egg",
+        "A banana"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Her little sister has an apple.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "My little sister has an apple."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When do they eat?",
+      "options": [
+        "At eight o'clock",
+        "At six o'clock",
+        "At seven o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They eat at seven o'clock.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "We eat at seven o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "Does Linh drink hot milk?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh says she drinks hot milk.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "I drink hot milk."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Nam want on his bread?",
+      "options": [
+        "Jam",
+        "Rice",
+        "Eggs"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam wants bread with jam.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "With jam."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "Which jam is Nam's favourite?",
+      "options": [
+        "Orange",
+        "Strawberry",
+        "Banana"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam says strawberry is his favourite.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "Strawberry, please."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Nam want to drink?",
+      "options": [
+        "Water",
+        "Tea",
+        "Milk"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam says no to tea and wants water.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I want water."
+        }
+      ]
+    }
+  ]
+}

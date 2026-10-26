@@ -1,0 +1,617 @@
+{
+  "id": "l-c1-the-four-day-working-week",
+  "title": "The Four-Day Working Week",
+  "level": "C1 · Advanced",
+  "description": "A radio report, a debate, an interview with a manager and a reflective talk about working four days instead of five.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B, C or D) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A radio report",
+      "intro": "You will hear a radio reporter, Anna, presenting the results of a trial of the four-day working week.",
+      "speakers": {
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Anna",
+          "text": "Last year, thirty companies took part in a six-month trial of the four-day working week. Employees were paid the same salary for working four days instead of five, on one condition: output had to be maintained. The results, published this week, have reignited a debate that has been running for decades."
+        },
+        {
+          "id": "s2",
+          "speaker": "Anna",
+          "text": "Most firms reported that productivity held steady, and a few even recorded higher revenue. Staff reported lower stress, and fewer people resigned during the trial than in the same period the year before. Perhaps unsurprisingly, almost every employee said they wished to continue."
+        },
+        {
+          "id": "s3",
+          "speaker": "Anna",
+          "text": "But the details deserve attention. The companies that volunteered were mainly small, office-based businesses, such as design studios and software firms, where the work can be planned flexibly. Only two were in manufacturing, and none were hospitals or schools, where the hours are dictated by the people who need the service."
+        },
+        {
+          "id": "s4",
+          "speaker": "Anna",
+          "text": "The researchers themselves are cautious. They point out that companies that volunteer for a trial are, almost by definition, the ones that expect it to work. They also note that the biggest gains came from cutting meetings and unnecessary reporting rather than from people simply working faster."
+        },
+        {
+          "id": "s5",
+          "speaker": "Anna",
+          "text": "That last finding interests me most. If a firm can remove so much waste in a four-day week, one might ask why it was there in a five-day week. Is the shorter week the cause of the improvement, or merely the excuse to make changes that were always possible?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Anna",
+          "text": "In the next part of the programme, two guests give their view."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A debate",
+      "intro": "You will hear an economist, Dr Kerr, and a business owner, Mr Doyle, debating the four-day week.",
+      "speakers": {
+        "Dr Kerr": "female",
+        "Mr Doyle": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Dr Kerr",
+          "text": "The evidence is now hard to ignore. Output held, absence fell, resignations fell. If a medicine produced results like that, we'd be rolling it out. Employers who resist are defending a habit, not a principle."
+        },
+        {
+          "id": "s8",
+          "speaker": "Mr Doyle",
+          "text": "With respect, that's a very comfortable argument for an academic. I run a small catering company. If my kitchen is closed on a day, my customers go elsewhere, and they don't come back. I can't compress five days of work into four, because the work is the cooking."
+        },
+        {
+          "id": "s9",
+          "speaker": "Dr Kerr",
+          "text": "I accept that some sectors are different, and nobody is proposing the same rule for everyone. But even in your case, couldn't you stagger the staff, so that each person works four days while the kitchen stays open?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Mr Doyle",
+          "text": "Then I need to hire more people to cover the gaps, which means higher costs and probably higher prices. It's easy to say employees should have the same pay for less time when the bill isn't yours."
+        },
+        {
+          "id": "s11",
+          "speaker": "Dr Kerr",
+          "text": "Higher costs are a fair concern, but you should set them against what you currently lose. Staff turnover is expensive. Recruiting and training a replacement can cost a large fraction of a year's salary. If a shorter week keeps people, the saving may cover the extra cost, or at least a good part of it."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Doyle",
+          "text": "May. Not will. And I notice that you keep returning to well-paid office workers. What about the cleaner or the delivery driver, whose income depends on hours worked? For them, four days might simply mean a smaller pay packet."
+        },
+        {
+          "id": "s13",
+          "speaker": "Dr Kerr",
+          "text": "That's the strongest objection you've raised, and I won't pretend there's an easy answer. It does mean the policy needs designing with care, so that it doesn't widen the gap between secure jobs and insecure ones."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mr Doyle",
+          "text": "Well, on that we can agree. I'm not against change. I'm against being told that one solution suits everyone."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · An interview with a manager",
+      "intro": "You will hear a presenter, Minh, interviewing a manager called Sarah about her company.",
+      "speakers": {
+        "Minh": "male",
+        "Sarah": "female"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Minh",
+          "text": "Sarah Cole manages a software company of forty people that moved to a four-day week eighteen months ago. Sarah, was it a hard sell to your directors?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Sarah",
+          "text": "Very. One director said it would be the beginning of the end. What persuaded them in the end was that we agreed on a trial with clear targets, and that we could return to five days with a month's notice if the numbers slipped."
+        },
+        {
+          "id": "s17",
+          "speaker": "Minh",
+          "text": "And did they slip?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Sarah",
+          "text": "For the first six weeks, honestly, yes. Customer response times got longer, and a couple of people found they simply moved their work to the evenings, which defeats the whole point. We had to change how we worked rather than just shorten the week."
+        },
+        {
+          "id": "s19",
+          "speaker": "Minh",
+          "text": "Such as?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Sarah",
+          "text": "We banned meetings on Mondays... no, sorry, on Wednesdays, which is our long block of focus time. We limited meetings to thirty minutes, and we stopped copying everyone into every message. Honestly, some of those changes were overdue, and we should have made them years ago."
+        },
+        {
+          "id": "s21",
+          "speaker": "Minh",
+          "text": "Has anyone left?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Sarah",
+          "text": "Only one person, who retired. And when we advertised last spring, we had four times as many applications as before. Candidates told us they'd read about the shorter week. For a small firm competing with big employers, that's a real advantage."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A radio talk",
+      "intro": "You will hear a sociologist, Dr Fraser, giving a radio talk about the history of the idea of shorter working hours.",
+      "speakers": {
+        "Dr Fraser": "male"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Dr Fraser",
+          "text": "The idea that we should work fewer hours is not new. In the nineteen thirties, a famous economist predicted that by now we would work fifteen hours a week, because technology would have made us so productive. He was right about the productivity and entirely wrong about the leisure."
+        },
+        {
+          "id": "s24",
+          "speaker": "Dr Fraser",
+          "text": "What went wrong? Partly, our appetite for goods grew as quickly as our output. But partly, I'd argue, work acquired a moral meaning. We came to treat being busy as proof of being valuable, so that a person who finishes early is suspected of laziness rather than praised for efficiency."
+        },
+        {
+          "id": "s25",
+          "speaker": "Dr Fraser",
+          "text": "This helps explain why the four-day week provokes such strong feelings. The debate is rarely only about hours and wages. It is about what a person is worth, and what a society thinks time is for."
+        },
+        {
+          "id": "s26",
+          "speaker": "Dr Fraser",
+          "text": "Supporters say the shorter week gives people time for family, study and rest, which in turn makes them better workers. That is probably true, but I find the argument slightly uncomfortable, because it still justifies leisure by its usefulness to employers. Rest, surely, needs no such justification."
+        },
+        {
+          "id": "s27",
+          "speaker": "Dr Fraser",
+          "text": "Critics, for their part, worry about fairness between those who can shorten their hours and those who cannot. That worry is legitimate, and no trial of thirty offices can settle it. Only a much wider experiment, including shops, hospitals and factories, could."
+        },
+        {
+          "id": "s28",
+          "speaker": "Dr Fraser",
+          "text": "My own view is that the four-day week will spread unevenly, sector by sector, rather than arrive by decree. And the real test will not be whether productivity survives, but whether people feel, a few years on, that their lives have genuinely changed."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What condition did the companies have to meet during the trial?",
+      "options": [
+        "They had to work five days in busy months.",
+        "They had to hire more staff.",
+        "They had to reduce employees' pay.",
+        "They had to keep output at the same level."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Staff kept their salary on one condition: output had to be maintained.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "output had to be maintained"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why are the researchers cautious about the results?",
+      "options": [
+        "Only a few firms reported higher revenue overall.",
+        "Many employees said they did not want to continue.",
+        "The trial lasted far too long to be reliable.",
+        "The firms taking part expected it to succeed."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Volunteers are almost by definition firms that expect it to work, so the sample may be biased.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "the ones that expect it to work"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "According to the researchers, where did the biggest improvements come from?",
+      "options": [
+        "longer lunch breaks and shorter working days",
+        "cutting meetings and unnecessary reporting",
+        "employees simply working a lot faster than before",
+        "hiring specialist managers to plan the work"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The biggest gains came from cutting meetings and unnecessary reporting.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "cutting meetings and unnecessary reporting"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Anna mention hospitals and schools?",
+      "options": [
+        "to say that they refused to take part in the trial",
+        "to show some kinds of organisation were missing",
+        "to suggest they have too many meetings and reports",
+        "to explain why manufacturing firms did so well"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "None of the volunteers were in places where hours are set by the people who need the service.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "none were hospitals or schools"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What doubt does Anna raise at the end?",
+      "options": [
+        "whether staff were really less stressed afterwards",
+        "whether companies will change their working policy",
+        "whether the results were published too early",
+        "whether the shorter week caused the improvement"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She asks if the shorter week is the cause or merely an excuse to make changes that were always possible.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "merely the excuse to make changes that were always possible"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Dr Kerr view employers who resist the four-day week?",
+      "options": [
+        "They are right to wait for more evidence first.",
+        "They are protecting their customers from change.",
+        "They are afraid of losing their best staff.",
+        "They are clinging to habit rather than reason."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says they are defending a habit, not a principle.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "defending a habit, not a principle"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why does Mr Doyle say he cannot fit five days of work into four?",
+      "options": [
+        "His customers would prefer a shorter week.",
+        "His business depends on being open every day.",
+        "His staff refuse to work any faster than now.",
+        "He cannot afford to buy new kitchen equipment."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "If his kitchen is closed, customers go elsewhere and do not return; the work is the cooking.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "my customers go elsewhere, and they don't come back"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What is Dr Kerr suggesting when she mentions staff turnover?",
+      "options": [
+        "Replacing staff is cheaper than introducing a shorter week.",
+        "Doyle should hire more people to cover gaps right now.",
+        "Turnover is not really a problem for small firms.",
+        "The saving from keeping staff could offset the cost."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says that if the shorter week keeps people, the saving may cover the extra cost.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "the saving may cover the extra cost"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Dr Kerr respond to Mr Doyle's point about low-paid workers?",
+      "options": [
+        "She offers a simple solution.",
+        "She dismisses it as unrealistic.",
+        "She says it does not apply to cleaners.",
+        "She admits it is a serious difficulty."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She calls it the strongest objection and says there is no easy answer.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "That's the strongest objection you've raised"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What do the two speakers agree on at the end?",
+      "options": [
+        "The policy should be introduced at once.",
+        "Businesses should pay for the change.",
+        "A single approach will not suit every worker.",
+        "Office workers should work fewer days than others."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Kerr says the policy needs careful design, and Doyle agrees, objecting to one solution for everyone.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "the policy needs designing with care"
+        },
+        {
+          "lineId": "s14",
+          "quote": "one solution suits everyone"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What finally persuaded the directors to agree?",
+      "options": [
+        "strong pressure from the employees themselves",
+        "a trial with targets and an exit option",
+        "a promise of much higher profits in a year",
+        "a report from a university research team"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They agreed on a trial with clear targets and could return to five days with a month's notice.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "a trial with clear targets"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What went wrong in the first six weeks?",
+      "options": [
+        "The software the firm sold contained serious errors.",
+        "Customers waited longer and some staff worked evenings.",
+        "The directors refused to continue the trial after a month.",
+        "Several employees resigned within the first month."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Response times got longer and a couple of people moved their work to the evenings.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Customer response times got longer"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "On which day did Sarah's company ban meetings?",
+      "options": [
+        "Friday",
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She corrects herself: not Mondays, but Wednesdays, the long block of focus time.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "no, sorry, on Wednesdays"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Sarah feel about the changes the company made to meetings?",
+      "options": [
+        "They were difficult to keep up.",
+        "They were unfair to junior staff.",
+        "They were necessary only because of the trial.",
+        "They should have been introduced much earlier."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says some of the changes were overdue and should have been made years ago.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "some of those changes were overdue"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Sarah mention the number of job applications?",
+      "options": [
+        "to argue that big employers will soon copy her",
+        "to show the shorter week helps recruitment",
+        "to explain why one person left before the trial",
+        "to complain about the cost of advertising jobs"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Applications quadrupled because of the shorter week, which helps a small firm compete.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "that's a real advantage"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does Dr Fraser say about the economist's prediction from the nineteen thirties?",
+      "options": [
+        "It was right about productivity but not about leisure.",
+        "It was ignored by employers and governments alike.",
+        "It was correct about how many hours people work.",
+        "It was wrong about how much technology would change work."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the economist was right about productivity and entirely wrong about leisure.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "right about the productivity and entirely wrong about the leisure"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Dr Fraser suggest about the way society sees being busy?",
+      "options": [
+        "It is thought to be linked to technology.",
+        "It is treated as a sign of personal value.",
+        "It is considered a sign of poor planning.",
+        "It is seen as a modern problem."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says we treat being busy as proof of being valuable, so finishing early looks like laziness.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "proof of being valuable"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "Why is Dr Fraser uneasy about the argument that rest makes better workers?",
+      "options": [
+        "It ignores the needs of students and carers.",
+        "It values rest only for what it gives employers.",
+        "It is probably untrue, given the evidence.",
+        "It has mostly been used by critics of the idea."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says it justifies leisure by its usefulness to employers, though rest needs no such justification.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "it still justifies leisure by its usefulness to employers"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Dr Fraser imply about the trial of thirty offices?",
+      "options": [
+        "It proved that the critics were wrong about fairness.",
+        "It is too narrow to settle the issue of fairness.",
+        "It should be repeated in the same thirty offices.",
+        "It included too many hospitals and factories."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says no trial of thirty offices can settle fairness; a wider experiment is needed.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "no trial of thirty offices can settle it"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What does he consider the real test of the four-day week?",
+      "options": [
+        "whether it is introduced by law in every country",
+        "whether people feel their lives have improved",
+        "whether employers continue to support it",
+        "whether productivity survives the change"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says the real test is not productivity but whether lives have genuinely changed.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "whether people feel, a few years on, that their lives have genuinely changed"
+        }
+      ]
+    }
+  ]
+}

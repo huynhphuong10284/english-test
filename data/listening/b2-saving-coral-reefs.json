@@ -1,0 +1,618 @@
+{
+  "id": "l-b2-saving-coral-reefs",
+  "title": "Saving Coral Reefs",
+  "level": "B2 · Upper-intermediate",
+  "description": "A documentary extract, an interview with a marine biologist, a student discussion and a talk about reef restoration.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Documentary: Cities under the sea",
+      "intro": "You will hear the narrator of a documentary about coral reefs.",
+      "speakers": {
+        "Narrator": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Narrator",
+          "text": "Beneath the surface of warm, shallow seas lies one of the most remarkable places on our planet. Coral reefs cover less than one per cent of the ocean floor, yet they are home to roughly a quarter of all marine species."
+        },
+        {
+          "id": "s2",
+          "speaker": "Narrator",
+          "text": "For many years, people believed that corals were plants, because they stay in one place and seem to grow like bushes. In fact, each coral is a colony of tiny animals called polyps, which build a hard skeleton around themselves."
+        },
+        {
+          "id": "s3",
+          "speaker": "Narrator",
+          "text": "What makes reefs so colourful is a partnership. Microscopic algae live inside the polyps, and in return for shelter they feed the coral with energy from sunlight. The algae also give the coral its bright colours."
+        },
+        {
+          "id": "s4",
+          "speaker": "Narrator",
+          "text": "But this partnership is fragile. When the water becomes just a little too warm, the polyps push the algae out. The coral turns pale, and we call this bleaching. A bleached coral isn't dead, not yet, but it is starving."
+        },
+        {
+          "id": "s5",
+          "speaker": "Narrator",
+          "text": "If the water cools down quickly, the algae can return. If not, the coral dies, and the fish that depended on it disappear too. Some reefs that took thousands of years to grow have been badly damaged in only a few summers."
+        },
+        {
+          "id": "s6",
+          "speaker": "Narrator",
+          "text": "Scientists now agree that rising sea temperatures are the greatest threat. Pollution and careless fishing make things worse, but they are problems that local people can solve far more easily."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Interview with a marine biologist",
+      "intro": "You will hear a radio presenter, Hannah, interviewing a marine biologist, Dr Oliver Grant.",
+      "speakers": {
+        "Hannah": "female",
+        "Oliver": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Hannah",
+          "text": "Dr Grant, you've spent twenty years studying reefs. Are you optimistic about their future?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Oliver",
+          "text": "Well, I'd say I'm cautiously hopeful. Ten years ago I honestly thought we'd lose most reefs by the middle of the century. Now I'm not so sure, because some corals are adapting faster than we expected."
+        },
+        {
+          "id": "s9",
+          "speaker": "Hannah",
+          "text": "Adapting? That sounds like good news."
+        },
+        {
+          "id": "s10",
+          "speaker": "Oliver",
+          "text": "It is, but we mustn't get carried away. Some species can survive hotter water, and we've found them in places like shallow lagoons. The problem is that those tough species grow slowly, and they aren't as beautiful or as useful to fish."
+        },
+        {
+          "id": "s11",
+          "speaker": "Hannah",
+          "text": "So a reef could survive but look completely different?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Oliver",
+          "text": "Exactly. It might be a grey, simple reef rather than a rainbow of colours. People who dive there would still see fish, but not the variety that we see today."
+        },
+        {
+          "id": "s13",
+          "speaker": "Hannah",
+          "text": "What can ordinary people do? Most of us live far from the sea."
+        },
+        {
+          "id": "s14",
+          "speaker": "Oliver",
+          "text": "Honestly, the biggest thing is reducing carbon emissions, and that's something everyone can influence. Of course, I'm not going to pretend that recycling a bottle saves a reef. But if people vote and shop with the climate in mind, companies and governments eventually listen."
+        },
+        {
+          "id": "s15",
+          "speaker": "Hannah",
+          "text": "And what about sun cream? I've heard it harms corals."
+        },
+        {
+          "id": "s16",
+          "speaker": "Oliver",
+          "text": "Some ingredients do, yes, although the effect is smaller than the headlines suggest. Wearing a long-sleeved swimming shirt is a simple answer. It protects your skin and the reef, and you don't need to buy anything special."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Two students discuss reef tourism",
+      "intro": "You will hear two university students, Linh and Tom, preparing a presentation about tourism on reefs.",
+      "speakers": {
+        "Linh": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "Right, Tom, for our presentation I think we should argue that tourists are the main problem for reefs. They stand on the coral, they buy souvenirs made from shells, and the boats damage the seabed."
+        },
+        {
+          "id": "s18",
+          "speaker": "Tom",
+          "text": "Hmm, I'm not sure about that. I read an article last night saying the opposite, that tourism can actually pay for protection. Some islands earn most of their money from divers."
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "Yes, but surely that money doesn't always reach the reef. Half of it goes to the big hotel companies."
+        },
+        {
+          "id": "s20",
+          "speaker": "Tom",
+          "text": "Fair point. But think about the Marine Park we visited in the first year. Visitors paid an entrance fee, and rangers used it to patrol the area and stop illegal fishing. That worked really well."
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "I suppose so. And to be fair, the fishermen there said they earned more as guides than they ever did with their nets."
+        },
+        {
+          "id": "s22",
+          "speaker": "Tom",
+          "text": "So maybe our argument should be that badly managed tourism is the problem, not tourism itself."
+        },
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "That's more balanced, I agree. We could use the park as a good example and then compare it with a bay where there are no rules at all."
+        },
+        {
+          "id": "s24",
+          "speaker": "Tom",
+          "text": "Good idea. Shall I find some photographs of both places? They'd make the contrast really clear."
+        },
+        {
+          "id": "s25",
+          "speaker": "Linh",
+          "text": "Please. And I'll look for figures on how many visitors a reef can take before it's damaged. Our tutor always says that opinions are fine, but she wants evidence."
+        },
+        {
+          "id": "s26",
+          "speaker": "Tom",
+          "text": "She does. Let's meet again on Thursday afternoon, then, and put everything together."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Talk: Growing new reefs",
+      "intro": "You will hear a conservation volunteer, Nam, giving a talk about a coral restoration project.",
+      "speakers": {
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Nam",
+          "text": "Good evening, everyone. I'd like to tell you about the project I joined last summer, because it changed the way I think about conservation."
+        },
+        {
+          "id": "s28",
+          "speaker": "Nam",
+          "text": "Our team works in a bay where a storm destroyed most of the reef several years ago. Instead of waiting for nature to recover, we grow tiny pieces of healthy coral in underwater nurseries. They hang on ropes, a bit like washing on a line."
+        },
+        {
+          "id": "s29",
+          "speaker": "Nam",
+          "text": "After about six months, the fragments are large enough to be fixed to the damaged reef with a special cement. It sounds simple, but it takes patience, and I should be honest: on my first day I broke three fragments and the team leader just laughed."
+        },
+        {
+          "id": "s30",
+          "speaker": "Nam",
+          "text": "What surprised me most was how quickly the fish returned. Within weeks of planting, small fish were hiding between the new branches, and later, bigger fish came to eat them."
+        },
+        {
+          "id": "s31",
+          "speaker": "Nam",
+          "text": "Now, some scientists are sceptical about this method. They say it's too expensive to use on a large scale, and that without cooling the oceans we are just planting corals that will bleach again."
+        },
+        {
+          "id": "s32",
+          "speaker": "Nam",
+          "text": "I understand that criticism, and I partly agree. Restoration can't replace cutting emissions. But I'd argue it buys time, and it gives local communities a reason to care about their reef."
+        },
+        {
+          "id": "s33",
+          "speaker": "Nam",
+          "text": "Anyone can join, even beginners, as long as they can swim. So if you'd like to help, come and speak to me after the talk, and I'll give you the details of our next training weekend."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is true about coral reefs according to the narrator?",
+      "options": [
+        "They are home to about a quarter of marine species.",
+        "They cover about a quarter of the whole ocean floor.",
+        "They are found mostly in cold, deep northern seas."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Reefs cover less than one per cent of the sea floor but hold about a quarter of marine species.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "they are home to roughly a quarter of all marine species"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is a coral, in fact?",
+      "options": [
+        "A type of rock",
+        "A colony of tiny animals",
+        "A plant that grows like a bush"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Each coral is a colony of tiny animals called polyps. People wrongly thought corals were plants.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "each coral is a colony of tiny animals called polyps"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does bleached coral turn pale?",
+      "options": [
+        "It has stopped growing and has died already.",
+        "The polyps push out the algae that give colour.",
+        "It has been damaged by pollution and careless fishing."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "When the water is too warm, the polyps push the algae out, and the colour goes with them.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "the polyps push the algae out"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is the narrator's view of pollution and careless fishing?",
+      "options": [
+        "They are not a problem for most reefs at all.",
+        "They are less serious but easier to solve.",
+        "They are the greatest threat to reefs today."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Rising temperatures are the greatest threat; pollution and fishing are problems local people can solve more easily.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "they are problems that local people can solve far more easily"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the main message of this extract?",
+      "options": [
+        "Reefs are important but fragile and under threat.",
+        "Careless fishing causes most of the damage to reefs.",
+        "Corals are easy to regrow in warm, shallow water."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The narrator describes how valuable reefs are and how warming water is damaging them.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "this partnership is fragile"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Dr Grant feel about the future of reefs?",
+      "options": [
+        "Completely confident",
+        "Very pessimistic",
+        "Cautiously hopeful"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he is cautiously hopeful, although he once expected most reefs to be lost.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "I'd say I'm cautiously hopeful"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why does Dr Grant say we should not \"get carried away\"?",
+      "options": [
+        "Corals cannot survive in the warm lagoons at all.",
+        "Tough species grow slowly and are less useful.",
+        "Hot water is helping most corals to grow faster."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Heat-tolerant corals exist, but they grow slowly and are not as useful to fish.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "those tough species grow slowly"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What might a future reef look like, according to Dr Grant?",
+      "options": [
+        "Greyer, simpler and with fewer kinds of fish",
+        "Bigger, more colourful and full of new species",
+        "Completely empty, with no fish or corals left"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He imagines a grey, simple reef with less variety of fish.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "a grey, simple reef rather than a rainbow of colours"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Dr Grant mention voting and shopping?",
+      "options": [
+        "To show that people can influence companies",
+        "To criticise governments for doing too little",
+        "To say that recycling a bottle saves a reef"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says recycling a bottle will not save a reef, but voting and shopping with the climate in mind makes companies and governments listen.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "companies and governments eventually listen"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does he suggest instead of special sun cream?",
+      "options": [
+        "A long-sleeved swimming shirt",
+        "Staying out of the water completely",
+        "Buying special reef-safe products"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A long-sleeved swimming shirt protects both skin and reef, and costs nothing extra.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Wearing a long-sleeved swimming shirt is a simple answer"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Linh want to argue at first?",
+      "options": [
+        "Fishermen should be banned from the reef.",
+        "Tourists are the main problem for reefs.",
+        "Tourism pays for protection of the reefs."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh begins by saying that tourists are the main problem.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "we should argue that tourists are the main problem for reefs"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Linh doubt that tourism money helps reefs?",
+      "options": [
+        "The entrance fees are far too low to matter.",
+        "Much of the money goes to hotel companies.",
+        "Divers do not pay anything to visit the reef."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says half of the money goes to the big hotel companies.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Half of it goes to the big hotel companies"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did the rangers in the Marine Park use the entrance fee for?",
+      "options": [
+        "Patrolling and stopping illegal fishing",
+        "Training local fishermen to work as guides",
+        "Building new hotels for the visitors"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The fee paid for patrols to stop illegal fishing.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "rangers used it to patrol the area and stop illegal fishing"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What do the students finally agree on?",
+      "options": [
+        "Badly managed tourism is the real problem.",
+        "Tourism is always harmful, wherever it happens.",
+        "Reefs need no protection if tourists stay away."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom suggests, and Linh agrees, that badly managed tourism is the problem.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "badly managed tourism is the problem, not tourism itself"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why will Linh look for figures on visitor numbers?",
+      "options": [
+        "Because her tutor expects evidence.",
+        "Because the Marine Park asked her for them.",
+        "Because Tom asked her to do it for him."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says their tutor wants evidence.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "she wants evidence"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How are the coral fragments grown before they are planted?",
+      "options": [
+        "In large tanks on land near the bay",
+        "In nurseries hanging on ropes under the sea",
+        "On the damaged reef itself, in cement"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They are grown in underwater nurseries that hang on ropes.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "a bit like washing on a line"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How did the team leader react when Nam broke fragments?",
+      "options": [
+        "He found it funny.",
+        "He was angry.",
+        "He sent Nam home."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam says the team leader just laughed.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "the team leader just laughed"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Nam find most surprising about the project?",
+      "options": [
+        "How fast the fish came back",
+        "How easy the work was for beginners",
+        "How expensive the cement and ropes are"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Small fish arrived within weeks, followed by larger ones.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "how quickly the fish returned"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Nam's opinion of the sceptical scientists?",
+      "options": [
+        "He thinks they know nothing about corals.",
+        "He understands them and partly agrees.",
+        "He rejects their views completely and angrily."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he understands the criticism and partly agrees, but argues restoration buys time.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "I understand that criticism, and I partly agree"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Nam ask people to speak to him after the talk?",
+      "options": [
+        "To collect donations for the nurseries",
+        "To sell tickets for a diving holiday",
+        "To give details of a training weekend"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He will give the details of the next training weekend to anyone who wants to help.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "I'll give you the details of our next training weekend"
+        }
+      ]
+    }
+  ]
+}

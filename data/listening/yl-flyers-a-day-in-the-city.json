@@ -1,0 +1,584 @@
+{
+  "id": "l-yl-f-a-day-in-the-city",
+  "title": "A Day in the City",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about a day in a big city: a tourist office, a bus tour, a café chat and a voicemail.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · At the tourist office",
+      "intro": "You will hear a visitor, Emma, talking to a man at the tourist office.",
+      "speakers": {
+        "Emma": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Emma",
+          "text": "Good morning. I'd like to visit the City Museum today. Is it far from here?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Tom",
+          "text": "Not really. You can take bus number twelve from the stop outside. It takes about fifteen minutes."
+        },
+        {
+          "id": "s3",
+          "speaker": "Emma",
+          "text": "Great. What time does the museum open?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Tom",
+          "text": "It opens at nine o'clock... no, wait. On Mondays it opens at ten. Today is Monday, so you have to wait an hour."
+        },
+        {
+          "id": "s5",
+          "speaker": "Emma",
+          "text": "That's fine. I can have a coffee first. How much is a ticket?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Tom",
+          "text": "Adults pay eight pounds, but students only pay four. Do you have a student card?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Emma",
+          "text": "Yes, I do! Thank you. Is there a good place for lunch near the museum?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Tom",
+          "text": "Try the café opposite the park. The soup is lovely."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · On the tour bus",
+      "intro": "You will hear a guide talking to passengers on a city tour bus.",
+      "speakers": {
+        "Ms Clark": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Ms Clark",
+          "text": "Welcome aboard, everyone. I'm Ms Clark, and I'll show you the best of our city today. The tour takes two hours."
+        },
+        {
+          "id": "s10",
+          "speaker": "Ms Clark",
+          "text": "First, we will pass the old City Hall. It's more than two hundred years old, and its clock is famous."
+        },
+        {
+          "id": "s11",
+          "speaker": "Ms Clark",
+          "text": "Then we will cross the river on the blue bridge. If you look left, you can see the boats."
+        },
+        {
+          "id": "s12",
+          "speaker": "Ms Clark",
+          "text": "After that, we will stop at the market for twenty minutes. You can buy fruit, flowers and little presents there."
+        },
+        {
+          "id": "s13",
+          "speaker": "Ms Clark",
+          "text": "Please be back on the bus at eleven fifteen. We can't wait for anyone. Finally, we will drive through the big park. Enjoy the tour!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Planning the afternoon",
+      "intro": "You will hear Ben and Mai in a café in the city.",
+      "speakers": {
+        "Ben": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s14",
+          "speaker": "Ben",
+          "text": "What shall we do this afternoon, Mai? We could go shopping."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "I don't really want to, because I bought new shoes yesterday. How about the park?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Ben",
+          "text": "I looked at the weather on my phone. It's going to rain after lunch."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "Oh dear. Then let's go to the cinema. There's a funny film about a talking dog."
+        },
+        {
+          "id": "s18",
+          "speaker": "Ben",
+          "text": "Good idea. What time does it start?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Mai",
+          "text": "There's one at two o'clock and another at four o'clock. We'll have time to finish our lunch, so let's go to the later one."
+        },
+        {
+          "id": "s20",
+          "speaker": "Ben",
+          "text": "OK. I'll buy the tickets on my phone now."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mai",
+          "text": "Thanks. And afterwards, let's walk to the river, if the rain stops."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A voicemail from Uncle Hai",
+      "intro": "You will hear a voicemail message from Linh's uncle.",
+      "speakers": {
+        "Uncle Hai": "male"
+      },
+      "script": [
+        {
+          "id": "s22",
+          "speaker": "Uncle Hai",
+          "text": "Hello, Linh, it's Uncle Hai. I'm in the city already, and I can't wait to see you this evening!"
+        },
+        {
+          "id": "s23",
+          "speaker": "Uncle Hai",
+          "text": "Let's meet outside the railway station at six o'clock. I'll be near the big fountain."
+        },
+        {
+          "id": "s24",
+          "speaker": "Uncle Hai",
+          "text": "I know a great noodle restaurant on Green Street. It's not expensive, and the owner is a friend of mine."
+        },
+        {
+          "id": "s25",
+          "speaker": "Uncle Hai",
+          "text": "After dinner, we could walk by the river and look at the lights. The bridges are beautiful at night."
+        },
+        {
+          "id": "s26",
+          "speaker": "Uncle Hai",
+          "text": "Your train home leaves at nine o'clock, so please bring your ticket. Call me if you are late. Bye for now!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which bus goes to the museum?",
+      "options": [
+        "Bus number twenty",
+        "Bus number two",
+        "Bus number twelve"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says to take bus number twelve.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "bus number twelve"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time does the museum open today?",
+      "options": [
+        "At nine o'clock",
+        "At eleven o'clock",
+        "At ten o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "On Mondays it opens at ten, and today is Monday.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "On Mondays it opens at ten."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Emma do before the museum opens?",
+      "options": [
+        "Buy a ticket",
+        "Take a bus",
+        "Have a coffee"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Emma says she can have a coffee first.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "I can have a coffee first."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much will Emma pay for a ticket?",
+      "options": [
+        "Four pounds",
+        "Eight pounds",
+        "Twelve pounds"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Students pay four pounds and Emma has a student card.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "students only pay four"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Tom recommend for lunch?",
+      "options": [
+        "The museum shop",
+        "A pizza place",
+        "The soup at the café"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says the soup at the café opposite the park is lovely.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "The soup is lovely."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long is the tour?",
+      "options": [
+        "Three hours",
+        "One hour",
+        "Two hours"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ms Clark says the tour takes two hours.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "The tour takes two hours."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is famous about the City Hall?",
+      "options": [
+        "Its garden",
+        "Its clock",
+        "Its colour"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The City Hall's clock is famous.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "its clock is famous"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where can people see boats?",
+      "options": [
+        "From the market",
+        "From the park",
+        "From the blue bridge"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "On the blue bridge, people can see the boats on the left.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "cross the river on the blue bridge"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long is the stop at the market?",
+      "options": [
+        "Forty minutes",
+        "Ten minutes",
+        "Twenty minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The stop at the market is twenty minutes.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "stop at the market for twenty minutes"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When must passengers be back on the bus?",
+      "options": [
+        "At eleven",
+        "At eleven fifteen",
+        "At twelve"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They must be back at eleven fifteen.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "back on the bus at eleven fifteen"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why doesn't Mai want to go shopping?",
+      "options": [
+        "She bought new shoes yesterday.",
+        "She has no money.",
+        "She is tired."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai says she bought new shoes yesterday.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "I bought new shoes yesterday"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why don't they go to the park?",
+      "options": [
+        "It will rain.",
+        "It is too far.",
+        "It is closed."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben says it is going to rain after lunch.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "It's going to rain after lunch."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What kind of film will they see?",
+      "options": [
+        "A film about a river",
+        "A scary film",
+        "A film about a talking dog"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai suggests a funny film about a talking dog.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "a funny film about a talking dog"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Which film will they watch?",
+      "options": [
+        "The one at four o'clock",
+        "The one at two o'clock",
+        "The one at six o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They decide on the later one, at four o'clock.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "let's go to the later one"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will Ben do now?",
+      "options": [
+        "Buy the tickets",
+        "Pay for lunch",
+        "Call a taxi"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben says he will buy the tickets on his phone.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I'll buy the tickets on my phone now."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why is Uncle Hai calling?",
+      "options": [
+        "To say he is sick",
+        "To ask Linh for money",
+        "To plan an evening with Linh"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He wants to arrange to meet Linh and have dinner.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "Let's meet outside the railway station at six o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where will they meet?",
+      "options": [
+        "At the restaurant",
+        "Outside the railway station",
+        "On the bridge"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They will meet outside the railway station, near the fountain.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "outside the railway station"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What kind of restaurant does he know?",
+      "options": [
+        "A fish restaurant",
+        "A noodle restaurant",
+        "A pizza restaurant"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He knows a noodle restaurant on Green Street.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "a great noodle restaurant on Green Street"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What can they do after dinner?",
+      "options": [
+        "Walk by the river",
+        "Go shopping",
+        "See a film"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They could walk by the river and look at the lights.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "walk by the river"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What time does Linh's train leave?",
+      "options": [
+        "At nine o'clock",
+        "At six o'clock",
+        "At eight o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Her train home leaves at nine o'clock. Six o'clock is when they meet.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "Your train home leaves at nine o'clock"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "id": "l-b1-a-complaint-about-a-delivery",
+  "title": "A Complaint about a Delivery",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings about a late parcel: a complaint call, a driver's message, a staff discussion and a recorded company message.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The complaint call",
+      "intro": "You will hear Mr Cooper phoning the customer service of a delivery company. The agent is called Emma.",
+      "speakers": {
+        "Emma": "female",
+        "Mr Cooper": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Emma",
+          "text": "Good afternoon, Swift Parcels customer service, Emma speaking. How can I help you?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Mr Cooper",
+          "text": "Hello. I'm calling about an order that was supposed to arrive last Tuesday. It's now Monday, and I still haven't received it."
+        },
+        {
+          "id": "s3",
+          "speaker": "Emma",
+          "text": "I'm sorry to hear that. Could you tell me what you ordered?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Mr Cooper",
+          "text": "A pair of walking boots for my son's school trip. The trip is on Friday, so now I'm worried."
+        },
+        {
+          "id": "s5",
+          "speaker": "Emma",
+          "text": "I understand. Let me check. Our system says the parcel was delivered on Wednesday to number twelve, Park Road."
+        },
+        {
+          "id": "s6",
+          "speaker": "Mr Cooper",
+          "text": "That's wrong. I live at number twenty-one, not twelve. Someone has mixed up the numbers."
+        },
+        {
+          "id": "s7",
+          "speaker": "Emma",
+          "text": "I see. That's our driver's mistake, and I apologise. Could you ask the neighbours at number twelve if they have it?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Mr Cooper",
+          "text": "I did that this morning. Nobody was in, but I left a note."
+        },
+        {
+          "id": "s9",
+          "speaker": "Emma",
+          "text": "Thank you. If the parcel doesn't turn up by tomorrow, I'll send you a new pair with express delivery, at no extra cost. You'd get them on Thursday."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mr Cooper",
+          "text": "That would be a relief. Thank you for your help."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The driver's message",
+      "intro": "You will hear a voicemail message from a delivery driver, Raj.",
+      "speakers": {
+        "Raj": "male"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Raj",
+          "text": "Hello, this is Raj, a driver with Swift Parcels. I'm calling about the boots you ordered. First, I want to say sorry. I've just spoken to my manager, and I know I made a mistake."
+        },
+        {
+          "id": "s12",
+          "speaker": "Raj",
+          "text": "On Wednesday morning, I was in a hurry, because my van had a flat tyre and I was running late. I read the address too quickly and left your box at number twelve."
+        },
+        {
+          "id": "s13",
+          "speaker": "Raj",
+          "text": "This afternoon, I went back to Park Road and knocked at number twelve. A young woman answered, and she'd found your note. She says she wasn't at home on Wednesday, and the parcel was left in the garden shed by her brother."
+        },
+        {
+          "id": "s14",
+          "speaker": "Raj",
+          "text": "Good news: I've collected it, and it's in my van now. I'll bring it to your house tomorrow morning before ten o'clock. You don't need to be at home, because I can leave it with your neighbour at number twenty-three, if you agree."
+        },
+        {
+          "id": "s15",
+          "speaker": "Raj",
+          "text": "Please call me back on this number if that's not suitable. I know you needed the boots for a school trip, so I'm very sorry for the trouble."
+        },
+        {
+          "id": "s16",
+          "speaker": "Raj",
+          "text": "Have a good evening, and once again, apologies."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Two members of staff",
+      "intro": "You will hear Emma talking to her team leader, Paul, about the complaint.",
+      "speakers": {
+        "Paul": "male",
+        "Emma": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Paul",
+          "text": "Emma, I saw your note about the Cooper complaint. How did the call go?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Emma",
+          "text": "Well, he was polite, although he was worried about the school trip. The driver delivered to the wrong house."
+        },
+        {
+          "id": "s19",
+          "speaker": "Paul",
+          "text": "That's the third mistake like that this month. We need to do something."
+        },
+        {
+          "id": "s20",
+          "speaker": "Emma",
+          "text": "I agree. Part of the problem is that drivers have to deliver about a hundred and twenty parcels a day. They don't have time to check."
+        },
+        {
+          "id": "s21",
+          "speaker": "Paul",
+          "text": "True, but that's no excuse. Could we ask them to take a photo of each door?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Emma",
+          "text": "That could help, although some drivers might complain it takes too long. Why don't we try it with a small group first?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Paul",
+          "text": "Good idea. I'll speak to the regional manager on Wednesday."
+        },
+        {
+          "id": "s24",
+          "speaker": "Emma",
+          "text": "Also, should we offer Mr Cooper a gift? A voucher, perhaps?"
+        },
+        {
+          "id": "s25",
+          "speaker": "Paul",
+          "text": "Yes. Ten pounds off his next order. He was very patient, after all."
+        },
+        {
+          "id": "s26",
+          "speaker": "Emma",
+          "text": "I'll write to him this afternoon."
+        },
+        {
+          "id": "s27",
+          "speaker": "Paul",
+          "text": "Thanks. And please remind the team: apologise first, solve the problem second."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A recorded message",
+      "intro": "You will hear the recorded message of the delivery company.",
+      "speakers": {
+        "Operator": "female"
+      },
+      "script": [
+        {
+          "id": "s28",
+          "speaker": "Operator",
+          "text": "Thank you for calling Swift Parcels. Please listen carefully, as our menu options have changed."
+        },
+        {
+          "id": "s29",
+          "speaker": "Operator",
+          "text": "If you want to track a parcel, press one. If you want to report a late or missing parcel, press two. For all other questions, press three."
+        },
+        {
+          "id": "s30",
+          "speaker": "Operator",
+          "text": "Please note that parcels are normally delivered within three working days. Express orders arrive in one working day. Weekends are not counted as working days."
+        },
+        {
+          "id": "s31",
+          "speaker": "Operator",
+          "text": "If your parcel hasn't arrived after five working days, you can claim a refund. You must complete the form on our website, and we'll reply within forty-eight hours."
+        },
+        {
+          "id": "s32",
+          "speaker": "Operator",
+          "text": "For damaged items, please take a photograph before opening the box fully, and keep all the packaging. We cannot accept claims without photographs."
+        },
+        {
+          "id": "s33",
+          "speaker": "Operator",
+          "text": "Our telephone lines are open from eight in the morning until eight in the evening on weekdays, and from nine until one on Saturdays. We are closed on Sundays."
+        },
+        {
+          "id": "s34",
+          "speaker": "Operator",
+          "text": "To speak to an adviser, please stay on the line. Your call may be recorded for training purposes."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why is Mr Cooper calling?",
+      "options": [
+        "He wants to change his order to a new size",
+        "He wants to return a parcel to the shop",
+        "His order has not arrived yet"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says his order should have arrived last Tuesday.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I still haven't received it"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did Mr Cooper order?",
+      "options": [
+        "A warm coat for the school trip",
+        "A pair of walking boots",
+        "A school bag for his son"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He ordered a pair of walking boots for his son's school trip.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "A pair of walking boots"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What went wrong with the delivery?",
+      "options": [
+        "The driver took it to the wrong house",
+        "The order was never sent from the warehouse",
+        "The parcel was left at the post office"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It was delivered to number twelve, but he lives at number twenty-one.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I live at number twenty-one, not twelve"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What has Mr Cooper already done?",
+      "options": [
+        "Bought a new pair of boots for the trip",
+        "Left a note at number twelve",
+        "Sent an email to Emma about it"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He visited the neighbours and left a note because nobody was in.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "I left a note"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Emma do if the parcel doesn't turn up by tomorrow?",
+      "options": [
+        "Send a new pair by express delivery",
+        "Give him his money back at once",
+        "Send the driver round to his house"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She will send new boots, arriving on Thursday, at no extra cost.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I'll send you a new pair with express delivery"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Raj leave this message?",
+      "options": [
+        "To apologise and say he has found the parcel",
+        "To ask for a new address for the delivery",
+        "To complain about his manager's decision"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says sorry for his mistake and explains that he has collected the parcel.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "First, I want to say sorry"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why was Raj in a hurry on Wednesday?",
+      "options": [
+        "He was late for a meeting",
+        "He could not find the street",
+        "His van had a flat tyre"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "His van had a flat tyre and he was running late.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "my van had a flat tyre"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where was the parcel found?",
+      "options": [
+        "At number twenty-three with the neighbour",
+        "In the garden shed at number twelve",
+        "In Raj's van at the depot all week"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The woman at number twelve said her brother left it in the garden shed.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "left in the garden shed by her brother"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When will Raj bring the boots?",
+      "options": [
+        "Tomorrow before ten o'clock",
+        "On Thursday before lunch",
+        "This evening before six"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He promises to bring them tomorrow morning before ten.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "tomorrow morning before ten o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where can Raj leave the parcel if nobody is at home?",
+      "options": [
+        "In the garden shed at number twelve",
+        "At the post office near the station",
+        "With the neighbour at number twenty-three"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He can leave it with the neighbour if Mr Cooper agrees.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "leave it with your neighbour at number twenty-three"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What are Paul and Emma talking about?",
+      "options": [
+        "A new type of parcel for the company",
+        "A problem with the phone system at work",
+        "A delivery mistake and how to prevent more"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They discuss the Cooper complaint and ways to stop similar mistakes.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "That's the third mistake like that this month"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How many mistakes like this have there been this month?",
+      "options": [
+        "Three",
+        "One",
+        "Twelve"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paul says it is the third mistake like that this month.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "That's the third mistake like that this month"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why do drivers make mistakes, according to Emma?",
+      "options": [
+        "They have not been trained properly",
+        "They have too many parcels to deliver",
+        "They do not enjoy their jobs much"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says they deliver about a hundred and twenty parcels a day and have no time to check.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "They don't have time to check"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Emma suggest about the photo idea?",
+      "options": [
+        "Start it for all drivers at once",
+        "Try it with a small group first",
+        "Forget it, because it takes too long"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She thinks it could help but proposes a trial with a small group.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "Why don't we try it with a small group first?"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will the company give Mr Cooper?",
+      "options": [
+        "A voucher for ten pounds",
+        "A new pair of boots as a gift",
+        "Free delivery for the next year"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paul agrees to ten pounds off his next order.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "Ten pounds off his next order"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Which number should callers press to report a missing parcel?",
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Press two to report a late or missing parcel.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "report a late or missing parcel, press two"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How long do express orders take?",
+      "options": [
+        "Three working days",
+        "Five working days",
+        "One working day"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Express orders arrive in one working day; normal orders take three.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "Express orders arrive in one working day"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When can a customer claim a refund?",
+      "options": [
+        "After five working days without a parcel",
+        "After forty-eight hours without a reply",
+        "After three working days of waiting"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A refund can be claimed if the parcel has not arrived after five working days.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "If your parcel hasn't arrived after five working days"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does the company need for a damaged item?",
+      "options": [
+        "A receipt for the item",
+        "A photograph of the item",
+        "A letter from the shop"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They cannot accept claims without photographs.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "We cannot accept claims without photographs"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What are the opening hours on Saturdays?",
+      "options": [
+        "From nine until one",
+        "From eight until one",
+        "From nine until eight"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "On Saturdays the lines are open from nine until one.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "from nine until one on Saturdays"
+        }
+      ]
+    }
+  ]
+}

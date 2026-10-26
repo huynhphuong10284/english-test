@@ -1,0 +1,603 @@
+{
+  "id": "l-a2-local-radio-news",
+  "title": "Local Radio News",
+  "level": "A2 · Elementary",
+  "description": "Four short recordings from a local radio station: the news, the weather, an interview and a competition.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The news",
+      "intro": "You will hear a news presenter on Riverside Radio.",
+      "speakers": {
+        "Nina": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Nina",
+          "text": "Good morning, and welcome to Riverside Radio news. I'm Nina Clarke."
+        },
+        {
+          "id": "s2",
+          "speaker": "Nina",
+          "text": "The town bridge will be closed for repairs from Monday until the end of the month. The council says the work was planned for the summer, but the bad weather in June made it start late."
+        },
+        {
+          "id": "s3",
+          "speaker": "Nina",
+          "text": "Drivers should use the old road through Millbrook instead. Buses will still run, but they will leave ten minutes earlier than usual."
+        },
+        {
+          "id": "s4",
+          "speaker": "Nina",
+          "text": "In happier news, the Saturday market is moving. From next week, it will be in the car park behind the library, not in the main square, because the square is being painted."
+        },
+        {
+          "id": "s5",
+          "speaker": "Nina",
+          "text": "And finally, a local boy, twelve-year-old Peter Hall, found a wallet in the park yesterday with two hundred pounds inside. He took it to the police, and the owner has now got it back."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Weather and travel",
+      "intro": "You will hear the presenter talking to Dan, a reporter, about the weather and the roads.",
+      "speakers": {
+        "Nina": "female",
+        "Dan": "male"
+      },
+      "script": [
+        {
+          "id": "s6",
+          "speaker": "Nina",
+          "text": "Now let's go to Dan for the weather and travel. Dan, what's it like out there?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Dan",
+          "text": "Well, Nina, it's cloudy and quite cold at the moment, only about eight degrees. But don't worry, the rain from yesterday has stopped."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nina",
+          "text": "So no umbrella today?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Dan",
+          "text": "Actually, I'd take one anyway. It will be dry this morning, but there will be heavy rain after lunch, from about two o'clock, and it will stay wet until Thursday."
+        },
+        {
+          "id": "s10",
+          "speaker": "Nina",
+          "text": "Oh dear. What about the weekend?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Dan",
+          "text": "Better news. Saturday will be sunny and warm, perfect for the market. Sunday could be windy, though."
+        },
+        {
+          "id": "s12",
+          "speaker": "Nina",
+          "text": "And the roads?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Dan",
+          "text": "There's a long queue on Station Road because of an accident. A lorry hit a wall, but nobody was hurt. The police think the road will open again by eleven o'clock."
+        },
+        {
+          "id": "s14",
+          "speaker": "Nina",
+          "text": "Thanks, Dan. So, if you're going to the station, leave early."
+        },
+        {
+          "id": "s15",
+          "speaker": "Dan",
+          "text": "Or just walk! It's only fifteen minutes from the town centre."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · An interview",
+      "intro": "You will hear Tom interviewing Lan Pham about a new community garden.",
+      "speakers": {
+        "Tom": "male",
+        "Lan": "female"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Tom",
+          "text": "With me in the studio today is Lan Pham, who started the new community garden near the school. Lan, why did you start it?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Lan",
+          "text": "Well, there was an empty piece of land behind the supermarket, and it was full of rubbish. I thought, why not make something beautiful there? Now forty people help."
+        },
+        {
+          "id": "s18",
+          "speaker": "Tom",
+          "text": "That's a lot! What do you grow?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Lan",
+          "text": "Mostly vegetables, like tomatoes, carrots and beans. The children from the school planted the sunflowers. They love them. We tried strawberries, but the birds ate them all, so never again!"
+        },
+        {
+          "id": "s20",
+          "speaker": "Tom",
+          "text": "Do you sell the food?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Lan",
+          "text": "No, no. Everyone takes some home for free. What's left, we give to the food bank. It's not about money, it's about being together."
+        },
+        {
+          "id": "s22",
+          "speaker": "Tom",
+          "text": "And what's the best part?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Lan",
+          "text": "Honestly, meeting my neighbours. I lived here for ten years and I didn't know anybody. Now I have lots of friends."
+        },
+        {
+          "id": "s24",
+          "speaker": "Tom",
+          "text": "If someone wants to join, what should they do?"
+        },
+        {
+          "id": "s25",
+          "speaker": "Lan",
+          "text": "Just come on Sunday morning at ten. Bring gloves, and we'll give you a cup of tea."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A competition",
+      "intro": "You will hear a radio announcement about a competition.",
+      "speakers": {
+        "Mark": "male"
+      },
+      "script": [
+        {
+          "id": "s26",
+          "speaker": "Mark",
+          "text": "Listeners, are you ready for a great prize? Riverside Radio is having a photo competition this month, and the theme is My Town. You can send us a photo of your favourite place. It could be a park, a shop or even an old tree."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mark",
+          "text": "To enter, send your photo by email, not by post. The address is on our website. Only one photo for each person, please."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mark",
+          "text": "The competition closes on the twentieth of May, and the winner will be announced on our Friday morning show."
+        },
+        {
+          "id": "s29",
+          "speaker": "Mark",
+          "text": "The first prize is a weekend for two at the seaside, with two nights in a hotel. The second prize is a camera, and the third prize is a book of photos about our town."
+        },
+        {
+          "id": "s30",
+          "speaker": "Mark",
+          "text": "Remember, you don't need to be a photographer. Our judge, a teacher from the art school, says a good photo just tells a story. Good luck!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why is the town bridge closing?",
+      "options": [
+        "For a street party",
+        "Because of a flood",
+        "For repairs"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The presenter says the bridge will be closed for repairs.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "closed for repairs"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Until when will the bridge be closed?",
+      "options": [
+        "Until the summer",
+        "Until Monday",
+        "Until the end of the month"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The bridge is closed from Monday until the end of the month. The summer is when the work was planned.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "until the end of the month"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much earlier will buses leave?",
+      "options": [
+        "Twenty minutes",
+        "Twelve minutes",
+        "Ten minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The buses will leave ten minutes earlier than usual.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "ten minutes earlier than usual"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where will the Saturday market be next week?",
+      "options": [
+        "In the park",
+        "In the main square",
+        "Behind the library"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The market moves to the car park behind the library because the square is being painted.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "behind the library"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did Peter Hall do with the wallet?",
+      "options": [
+        "He took it to school",
+        "He kept the money",
+        "He gave it to the police"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Peter found the wallet in the park and took it to the police.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "He took it to the police"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is the weather like now?",
+      "options": [
+        "Cloudy and cold",
+        "Rainy and warm",
+        "Sunny and windy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Dan says it is cloudy and quite cold. The rain from yesterday has stopped.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "cloudy and quite cold"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When will the heavy rain start?",
+      "options": [
+        "At eleven o'clock",
+        "At about two o'clock",
+        "On Thursday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Heavy rain will start after lunch, from about two o'clock. Thursday is when the wet weather ends.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "from about two o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will the weather be like on Saturday?",
+      "options": [
+        "Windy",
+        "Wet",
+        "Sunny and warm"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dan says Saturday will be sunny and warm. Sunday could be windy.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "Saturday will be sunny and warm"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What happened on Station Road?",
+      "options": [
+        "A lorry hit a wall",
+        "A car hit a tree",
+        "A bus hit a wall"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A lorry hit a wall, but nobody was hurt.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "A lorry hit a wall"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What does Dan suggest for people going to the station?",
+      "options": [
+        "Leave early by car",
+        "Take an umbrella",
+        "Walk there"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dan says \"Or just walk!\" because it is only fifteen minutes from the town centre.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Or just walk!"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where is the community garden?",
+      "options": [
+        "Next to the school",
+        "Behind the supermarket",
+        "Beside the library"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lan says the garden is on empty land behind the supermarket. It is only near the school.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "behind the supermarket"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did the children plant?",
+      "options": [
+        "Tomatoes",
+        "Sunflowers",
+        "Strawberries"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The children from the school planted the sunflowers. The birds ate the strawberries.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "The children from the school planted the sunflowers."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What happens to the extra food?",
+      "options": [
+        "The birds eat it",
+        "It goes to the food bank",
+        "It is sold at the market"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lan says they give what is left to the food bank.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "we give to the food bank"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Lan like best about the garden?",
+      "options": [
+        "Meeting her neighbours",
+        "Drinking tea",
+        "Growing vegetables"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lan says the best part is meeting her neighbours.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "Honestly, meeting my neighbours."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What should new helpers bring?",
+      "options": [
+        "Some vegetables",
+        "A cup of tea",
+        "Gloves"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lan says to bring gloves. They give you the tea.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "Bring gloves"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why is Mark speaking?",
+      "options": [
+        "To sell a camera",
+        "To tell listeners about a competition",
+        "To ask for old photos"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He explains a photo competition and how to enter.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "Riverside Radio is having a photo competition this month"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How do people send their photo?",
+      "options": [
+        "They bring it to the radio station",
+        "By email",
+        "By post"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mark says to send the photo by email, not by post.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "send your photo by email, not by post"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When does the competition close?",
+      "options": [
+        "At the end of the month",
+        "On Friday",
+        "On the twentieth of May"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It closes on the twentieth of May. Friday is when the winner is announced.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "closes on the twentieth of May"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is the first prize?",
+      "options": [
+        "A camera",
+        "A weekend at the seaside",
+        "A book of photos"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The first prize is a weekend for two at the seaside. The camera is the second prize.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "The first prize is a weekend for two at the seaside"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does the judge say about a good photo?",
+      "options": [
+        "You need an expensive camera",
+        "It tells a story",
+        "It must show people"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The judge says a good photo just tells a story.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "a good photo just tells a story"
+        }
+      ]
+    }
+  ]
+}

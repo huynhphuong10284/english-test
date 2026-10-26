@@ -1,0 +1,638 @@
+{
+  "id": "l-c1-rewilding",
+  "title": "Rewilding",
+  "level": "C1 · Advanced",
+  "description": "A radio discussion about rewilding: what it means, a farmer's doubts, a disagreement about bringing back large predators and a hopeful look at the future.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · What is rewilding?",
+      "intro": "You will hear a radio presenter, Hoa, talking to an ecologist, Dr Marsh, about rewilding.",
+      "speakers": {
+        "Hoa": "female",
+        "Dr Marsh": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Hoa",
+          "text": "Today we're talking about rewilding, a word that seems to mean something different to everyone who uses it. Dr Marsh, can you settle the matter?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Marsh",
+          "text": "I'll try, though I should admit that ecologists argue about it too. At its simplest, rewilding means giving natural processes more room to work, with less human management. Instead of planting a particular forest and cutting it on schedule, you step back and let the land decide what grows."
+        },
+        {
+          "id": "s3",
+          "speaker": "Hoa",
+          "text": "Some people imagine it means bringing back wolves."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Marsh",
+          "text": "That's the headline version, and I think it does the idea a disservice. Reintroducing animals is one tool among several. Often the most effective thing is simply to remove a drainage ditch, or take away a fence, and then be patient."
+        },
+        {
+          "id": "s5",
+          "speaker": "Hoa",
+          "text": "Patient being the key word, I suppose."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Marsh",
+          "text": "Very much so. Ecosystems work on a slower clock than election cycles. A landowner who stops mowing a meadow may see nothing remarkable for two years, and then, in the third, there are orchids nobody had noticed since childhood."
+        },
+        {
+          "id": "s7",
+          "speaker": "Hoa",
+          "text": "And why does it matter? Isn't a tidy, well-managed countryside perfectly pleasant?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Dr Marsh",
+          "text": "It's pleasant, but it's also fragile. A uniform landscape has few ways of absorbing shocks such as floods, droughts and disease. A varied one, with wetlands, scrub and old trees, is simply more resilient. And, frankly, it's a lot more interesting to walk through."
+        },
+        {
+          "id": "s9",
+          "speaker": "Hoa",
+          "text": "Perhaps the real issue is who decides what counts as tidy."
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Marsh",
+          "text": "I couldn't have put it better."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A farmer's view",
+      "intro": "You will hear Hoa interviewing a hill farmer, Tom, about a rewilding project near his land.",
+      "speakers": {
+        "Hoa": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Hoa",
+          "text": "Tom, your family has farmed this valley for four generations. When you heard about the neighbouring estate being rewilded, what was your first reaction?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Tom",
+          "text": "Honestly, anger. I thought, here come people who've never had mud on their boots telling us the land would be better without us. A lot of us felt that the countryside was being treated as scenery rather than as somewhere people work."
+        },
+        {
+          "id": "s13",
+          "speaker": "Hoa",
+          "text": "And has that changed?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Tom",
+          "text": "Partly. I'd say my view is more complicated now. The estate stopped draining one field, the river flooded it, and the water stayed there instead of rushing down to the village. We hadn't had a bad flood downstream since. That's hard to argue with."
+        },
+        {
+          "id": "s15",
+          "speaker": "Hoa",
+          "text": "So you've become a convert?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Tom",
+          "text": "Not quite. I still worry about my sheep. If predators come back, I'll lose lambs, and the compensation scheme is slow and full of forms. I'm not against nature. I just don't think the cost should land on the people nearest to it."
+        },
+        {
+          "id": "s17",
+          "speaker": "Hoa",
+          "text": "What would make a difference?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Tom",
+          "text": "Being asked, to begin with. The project began with a public meeting at which a man in a suit told us what would happen. If they'd come and walked the fields with us, listened to what we know about this land, I think we'd have been partners rather than opponents."
+        },
+        {
+          "id": "s19",
+          "speaker": "Hoa",
+          "text": "Has anyone from the project been in touch since?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Tom",
+          "text": "Funnily enough, yes. A young ecologist now visits every month. She doesn't pretend to know more than me, and she brings a flask of tea. It's amazing how far that goes."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A disagreement",
+      "intro": "You will hear two experts, Ellen and Viktor, debating the return of large predators.",
+      "speakers": {
+        "Ellen": "female",
+        "Viktor": "male"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Viktor",
+          "text": "I'll put my cards on the table. I think bringing back large predators is the single most exciting thing we can do for nature. They don't just eat deer. They change the behaviour of deer, and that changes the whole landscape, because the young trees are allowed to grow."
+        },
+        {
+          "id": "s22",
+          "speaker": "Ellen",
+          "text": "I do understand the appeal, Viktor, but the evidence is less tidy than the story. That famous account of wolves changing rivers has been repeated so often that people treat it as settled. In reality, scientists are still arguing about how much of the change was due to the wolves, and how much to other factors."
+        },
+        {
+          "id": "s23",
+          "speaker": "Viktor",
+          "text": "Fair enough, but surely the direction of the effect is clear?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Ellen",
+          "text": "In some places, yes. In others, not. And that matters, because when we oversimplify, we set ourselves up for disappointment. If people are promised miracles and don't see them, support collapses."
+        },
+        {
+          "id": "s25",
+          "speaker": "Viktor",
+          "text": "So you'd be cautious?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Ellen",
+          "text": "I'd be honest. My worry about the strategy of bringing back predators first is that it can look like a luxury. In a crowded country, with nowhere large enough for a pack to roam, you might do better to protect smaller things, such as hedgerows, ponds and insects, that you can improve tomorrow."
+        },
+        {
+          "id": "s27",
+          "speaker": "Viktor",
+          "text": "But those aren't inspiring. Nobody puts a pond on a poster."
+        },
+        {
+          "id": "s28",
+          "speaker": "Ellen",
+          "text": "That's the real difficulty, isn't it? What inspires people and what works are not always the same thing."
+        },
+        {
+          "id": "s29",
+          "speaker": "Viktor",
+          "text": "Then let's agree on this. We need both. The poster animal opens people's wallets, and the quiet work happens behind it."
+        },
+        {
+          "id": "s30",
+          "speaker": "Ellen",
+          "text": "That, I can live with. Provided we're open about which is which."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Looking ahead",
+      "intro": "You will hear an ecologist, Dr Alvarez, giving a short closing talk about the future of rewilding.",
+      "speakers": {
+        "Dr Alvarez": "female"
+      },
+      "script": [
+        {
+          "id": "s31",
+          "speaker": "Dr Alvarez",
+          "text": "To close tonight's programme, I'd like to offer a few thoughts on where rewilding goes from here. I'll begin with a small success, because I think we underrate those."
+        },
+        {
+          "id": "s32",
+          "speaker": "Dr Alvarez",
+          "text": "A beaver family was released in a quiet stream on a private estate some years ago, under licence and with a great deal of nervous paperwork. Within three seasons, their dams had created a series of pools. Frogs arrived, then dragonflies, then birds that hadn't nested there in living memory. Nobody planned any of it. The animals simply did what beavers do."
+        },
+        {
+          "id": "s33",
+          "speaker": "Dr Alvarez",
+          "text": "But I want to be careful. A story like this can make rewilding sound like magic, and it isn't. Some projects fail because they ignore people. Some fail because the land is too fragmented, and the animals have nowhere to go. And some fail because the climate is changing faster than the species can adapt."
+        },
+        {
+          "id": "s34",
+          "speaker": "Dr Alvarez",
+          "text": "That last point deserves attention. For decades, the aim has been to restore a past ecosystem. It's an attractive idea, but it may be the wrong target. The more honest aim is to restore the processes, such as grazing, flooding and decay, and then accept that the result may not look like any picture in a history book."
+        },
+        {
+          "id": "s35",
+          "speaker": "Dr Alvarez",
+          "text": "Equally important is who benefits. Where local people earn a living from nature, through guiding, food, or simply a pleasant place to live, projects last. Where the benefits go elsewhere, they don't."
+        },
+        {
+          "id": "s36",
+          "speaker": "Dr Alvarez",
+          "text": "So my hope is modest but real. That we learn to see wildness not as something that stands against human life, but as something we share. Rewilding, in the end, is as much about changing how we think as about changing the land."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "How does Dr Marsh describe rewilding?",
+      "options": [
+        "Replanting forests on a fixed cutting schedule",
+        "Bringing back lost animals above everything else",
+        "Giving natural processes more room to work"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says it means giving natural processes more room, with less human management.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "giving natural processes more room to work, with less human management"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is Dr Marsh's opinion of the wolf as the symbol of rewilding?",
+      "options": [
+        "It oversimplifies the idea.",
+        "It is harmful to the movement.",
+        "It is the most important tool.",
+        "It is accurate and helpful."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the headline version does the idea a disservice; reintroduction is one tool among several.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "it does the idea a disservice"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Dr Marsh say can be an effective step in rewilding?",
+      "options": [
+        "Building new paths for walkers",
+        "Planting thousands of new trees",
+        "Removing a ditch from the fields"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He mentions removing a drainage ditch or a fence.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "remove a drainage ditch, or take away a fence"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does he mention orchids appearing in the third year?",
+      "options": [
+        "To suggest that rewilding gives quick results",
+        "To show that results can take time to appear",
+        "To recommend a certain rare flower to plant"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nothing seems to happen for two years, so rewilding requires patience.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "Ecosystems work on a slower clock than election cycles."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Dr Marsh say a varied landscape is better than a uniform one?",
+      "options": [
+        "It is more able to cope with shocks.",
+        "It costs much less to look after.",
+        "It looks tidier to most visitors."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A varied landscape is more resilient to floods, droughts and disease.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "A varied one, with wetlands, scrub and old trees, is simply more resilient."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What was Tom's first reaction to the neighbouring project?",
+      "options": [
+        "Excitement",
+        "Anger",
+        "Indifference",
+        "Curiosity"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says honestly, anger.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Honestly, anger."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What effect did stopping the draining of a field have?",
+      "options": [
+        "The river dried up in the summer.",
+        "The village stopped flooding.",
+        "The sheep escaped through the gate."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The water stayed in the field and there has been no bad flood downstream since.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "We hadn't had a bad flood downstream since."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What is Tom's main remaining concern?",
+      "options": [
+        "Losing some of the farm's land to the river",
+        "Losing lambs and slow compensation payments",
+        "Poor tourism income on neighbouring farms"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He worries about sheep and the slow compensation scheme.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "If predators come back, I'll lose lambs"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Tom criticise the first public meeting?",
+      "options": [
+        "The meeting was far too long and technical.",
+        "Local people were told, not consulted.",
+        "Hardly anybody from the valley attended."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A man in a suit told them what would happen instead of listening.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "a man in a suit told us what would happen"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Tom think about the young ecologist?",
+      "options": [
+        "He thinks she lacks knowledge of farming.",
+        "He is annoyed that she visits so often.",
+        "He appreciates her respectful approach."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She does not pretend to know more than him, and he says it goes a long way.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "She doesn't pretend to know more than me"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is Viktor's opinion of bringing back large predators?",
+      "options": [
+        "It is not important for most places.",
+        "It is too risky for rural communities.",
+        "It is a waste of money and effort.",
+        "It is very exciting and valuable."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He calls it the single most exciting thing we can do for nature.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "the single most exciting thing we can do for nature"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Ellen say about the story of wolves changing rivers?",
+      "options": [
+        "Scientists still argue about the wolves' share.",
+        "It has been fully confirmed by many studies.",
+        "It has been proved false by recent studies."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says scientists still argue about the role of wolves compared with other factors.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "scientists are still arguing about how much of the change was due to the wolves"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Ellen warn against oversimplifying?",
+      "options": [
+        "Support may collapse if promises are not met.",
+        "Farmers will be angry about the extra costs.",
+        "Predators might become extinct in crowded places."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "If people are promised miracles and don't see them, support collapses.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "If people are promised miracles and don't see them, support collapses."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Ellen mention hedgerows, ponds and insects?",
+      "options": [
+        "To praise Viktor's approach to inspiring people",
+        "To propose practical goals in a crowded country",
+        "To mock the whole idea of rewilding in cities"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She suggests that protecting smaller things may work better where there is no room for packs.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "you might do better to protect smaller things"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What do the speakers agree on at the end?",
+      "options": [
+        "Both inspiring animals and quiet work are needed.",
+        "Predators should be released as soon as possible.",
+        "Posters are a waste of money for conservation."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Viktor proposes both, and Ellen accepts provided they are honest about which is which.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "We need both."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What happened after the beavers were released?",
+      "options": [
+        "The beavers left the stream within a season.",
+        "Pools formed and other wildlife arrived.",
+        "The stream dried up during a hot summer."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Their dams created pools, then frogs, dragonflies and birds arrived.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "their dams had created a series of pools"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Dr Alvarez feel about stories like the beaver story?",
+      "options": [
+        "Confident they prove that rewilding always works",
+        "Doubtful that such stories are really true",
+        "Wary that they can make rewilding sound like magic"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She warns that such a story can make rewilding sound like magic, and it isn't.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "make rewilding sound like magic, and it isn't"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why might restoring a past ecosystem be the wrong target?",
+      "options": [
+        "It is far too expensive for most estates.",
+        "The climate is changing too quickly for species.",
+        "Local people dislike the history of the land.",
+        "Nobody really knows what the past looked like."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The climate is changing faster than species can adapt, so restoring processes is a better aim.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "the climate is changing faster than the species can adapt"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Dr Alvarez mention local people earning a living from nature?",
+      "options": [
+        "To complain about tourism in the area",
+        "To explain why some projects last",
+        "To criticise landowners who ignore locals"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Where local people benefit, projects last.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "Where local people earn a living from nature"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Dr Alvarez's closing idea?",
+      "options": [
+        "Rewilding should gradually replace most farming.",
+        "Rewilding is as much about thinking as about land.",
+        "Wild places should be kept completely away from people."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says rewilding is as much about changing how we think as changing the land.",
+      "evidence": [
+        {
+          "lineId": "s36",
+          "quote": "Rewilding, in the end, is as much about changing how we think as about changing the land."
+        }
+      ]
+    }
+  ]
+}

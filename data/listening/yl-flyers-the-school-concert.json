@@ -1,0 +1,594 @@
+{
+  "id": "l-yl-f-the-school-concert",
+  "title": "The School Concert",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about a school concert: rehearsing, a phone call, a message and a headteacher's announcement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Rehearsal",
+      "intro": "You will hear Minh and Lucy talking after a rehearsal.",
+      "speakers": {
+        "Minh": "male",
+        "Lucy": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Lucy",
+          "text": "Minh, you played the guitar really well today!"
+        },
+        {
+          "id": "s2",
+          "speaker": "Minh",
+          "text": "Thanks, Lucy. I was nervous, though. I practised for an hour yesterday, but I still made two mistakes."
+        },
+        {
+          "id": "s3",
+          "speaker": "Lucy",
+          "text": "Nobody noticed. I'm more worried about my song. I forget the words in the second verse."
+        },
+        {
+          "id": "s4",
+          "speaker": "Minh",
+          "text": "Don't worry. Mr Park will stand at the side of the stage and help you."
+        },
+        {
+          "id": "s5",
+          "speaker": "Lucy",
+          "text": "Good idea. What are you going to wear on Saturday?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Minh",
+          "text": "My black trousers and a white shirt. Our teacher says everybody must wear dark clothes, not bright ones."
+        },
+        {
+          "id": "s7",
+          "speaker": "Lucy",
+          "text": "Oh! I wanted to wear my yellow dress. I'll find a blue one instead."
+        },
+        {
+          "id": "s8",
+          "speaker": "Minh",
+          "text": "The concert starts at seven o'clock, but we have to arrive at six to get ready."
+        },
+        {
+          "id": "s9",
+          "speaker": "Lucy",
+          "text": "OK. See you then!"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Buying tickets",
+      "intro": "You will hear a mother phoning the school office about tickets.",
+      "speakers": {
+        "Mrs Tran": "female",
+        "Mr Cole": "male"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Mr Cole",
+          "text": "Good afternoon, Greenfield School office."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Tran",
+          "text": "Hello. I'd like to buy tickets for the school concert, please. My son is in the choir."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Cole",
+          "text": "Of course. Tickets are four pounds for adults and two pounds for children."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mrs Tran",
+          "text": "I need three tickets, then. Two for adults and one for my daughter. She's eight."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mr Cole",
+          "text": "That will be ten pounds, then. You can pay now by card, or at the door on Saturday."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mrs Tran",
+          "text": "I'll pay now, please. Are there any seats at the front?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Mr Cole",
+          "text": "I'm sorry, the front rows are full. But there are some good seats near the middle."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mrs Tran",
+          "text": "That's fine. Oh, and is there somewhere to park?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Mr Cole",
+          "text": "Yes, behind the sports hall. Please don't use the road, because it gets very busy."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A message from the teacher",
+      "intro": "You will hear Miss Ward leaving a message for the choir.",
+      "speakers": {
+        "Miss Ward": "female"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Miss Ward",
+          "text": "Hello, choir members. This is Miss Ward with some news about the concert."
+        },
+        {
+          "id": "s20",
+          "speaker": "Miss Ward",
+          "text": "Because of the rain, we can't have the concert in the garden. We're going to use the main hall instead."
+        },
+        {
+          "id": "s21",
+          "speaker": "Miss Ward",
+          "text": "We will practise on Friday after school, from four o'clock until half past five. Please don't be late, because we have a lot to do."
+        },
+        {
+          "id": "s22",
+          "speaker": "Miss Ward",
+          "text": "Bring your music books, and remember to drink lots of water. A sore throat is terrible for a singer."
+        },
+        {
+          "id": "s23",
+          "speaker": "Miss Ward",
+          "text": "Our special guest is a famous violin teacher. She will play two pieces before the choir sings. I'm sure you'll enjoy her music. See you on Friday!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · The headteacher's announcement",
+      "intro": "You will hear the headteacher, Mr Nguyen, speaking after the concert.",
+      "speakers": {
+        "Mr Nguyen": "male"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Mr Nguyen",
+          "text": "Good evening, everyone, and thank you for coming to our school concert."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mr Nguyen",
+          "text": "The children worked very hard for three months. The best moment for me was the song from the youngest class. They were so cute, and they didn't make one mistake!"
+        },
+        {
+          "id": "s26",
+          "speaker": "Mr Nguyen",
+          "text": "We sold almost two hundred tickets tonight, and we collected three hundred and fifty pounds. We will use the money to buy new instruments for the music room."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mr Nguyen",
+          "text": "Now, there are drinks and cakes in the dining room. Parents, please remember that the children's coats are still in the classrooms."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mr Nguyen",
+          "text": "Finally, a photographer took pictures tonight. You can see them on the school website next week. Goodnight, and drive home carefully."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What instrument does Minh play?",
+      "options": [
+        "The drums",
+        "The piano",
+        "The guitar"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lucy says he played the guitar well today.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "you played the guitar really well today"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How did Minh feel during the rehearsal?",
+      "options": [
+        "Nervous",
+        "Angry",
+        "Bored"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he was nervous, even though he practised.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I was nervous, though."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Lucy forget?",
+      "options": [
+        "Her yellow dress",
+        "The words of her song",
+        "The time of the concert"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She forgets the words in the second verse.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "I forget the words in the second verse."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What colour clothes must the children wear?",
+      "options": [
+        "Bright clothes",
+        "White clothes",
+        "Dark clothes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Minh wears a white shirt but the teacher says everybody must wear dark clothes.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "everybody must wear dark clothes, not bright ones"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time must the children arrive on Saturday?",
+      "options": [
+        "At seven o'clock",
+        "At six o'clock",
+        "At half past six"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The concert starts at seven, but they must arrive an hour earlier.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "we have to arrive at six to get ready"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Mrs Tran phone the school?",
+      "options": [
+        "To ask about her son's homework",
+        "To join the choir",
+        "To buy concert tickets"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she would like to buy tickets for the concert.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I'd like to buy tickets for the school concert, please."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How many tickets does she need?",
+      "options": [
+        "Three",
+        "Four",
+        "Two"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She needs two adult tickets and one child ticket.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "I need three tickets, then."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much will the tickets cost?",
+      "options": [
+        "Eight pounds",
+        "Six pounds",
+        "Ten pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Two adults at four pounds and one child at two pounds make ten pounds.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "That will be ten pounds, then."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where will Mrs Tran sit?",
+      "options": [
+        "At the front",
+        "Near the middle",
+        "At the back"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The front rows are full, so she gets seats near the middle.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "there are some good seats near the middle"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where can she park?",
+      "options": [
+        "Next to the office",
+        "Behind the sports hall",
+        "In the road"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Cole says not to use the road, which gets busy.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Yes, behind the sports hall."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is the message mostly about?",
+      "options": [
+        "Changes to the concert plans",
+        "A new song",
+        "A school trip"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Miss Ward talks about moving the concert and a practice time.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "some news about the concert"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why will the concert be in the hall?",
+      "options": [
+        "The garden is too small.",
+        "The garden is closed.",
+        "It is raining."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The concert cannot be in the garden because of the rain.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Because of the rain, we can't have the concert in the garden."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How long is Friday's practice?",
+      "options": [
+        "Two hours",
+        "One and a half hours",
+        "One hour"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "From four o'clock until half past five is ninety minutes.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "from four o'clock until half past five"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What should the children drink?",
+      "options": [
+        "Water",
+        "Hot tea",
+        "Orange juice"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Miss Ward tells them to drink lots of water.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "remember to drink lots of water"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will the special guest do?",
+      "options": [
+        "Play the violin",
+        "Teach the children",
+        "Sing with the choir"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The guest will play two pieces on the violin.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "She will play two pieces before the choir sings."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Mr Nguyen speak?",
+      "options": [
+        "To sell tickets",
+        "To start the concert",
+        "To thank people for coming"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He begins by thanking everybody for coming.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "thank you for coming to our school concert"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What was the best moment for Mr Nguyen?",
+      "options": [
+        "The guitar solo",
+        "The choir's last song",
+        "The youngest class's song"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says the youngest class were cute and made no mistakes.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "The best moment for me was the song from the youngest class."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What will the school buy with the money?",
+      "options": [
+        "New chairs",
+        "New instruments",
+        "New books"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The money will pay for instruments for the music room.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "buy new instruments for the music room"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where are the children's coats?",
+      "options": [
+        "In the hall",
+        "In the dining room",
+        "In the classrooms"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says the coats are still in the classrooms.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "the children's coats are still in the classrooms"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When can people see the photos?",
+      "options": [
+        "In three months",
+        "Next week",
+        "Tonight"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The pictures will be on the school website next week.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "You can see them on the school website next week."
+        }
+      ]
+    }
+  ]
+}

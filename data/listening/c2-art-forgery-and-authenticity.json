@@ -1,0 +1,603 @@
+{
+  "id": "l-c2-art-forgery-and-authenticity",
+  "title": "Art, Forgery and Authenticity",
+  "level": "C2 · Proficiency",
+  "description": "Four extracts about art forgery: a discussion, a conservator at work, a debate about value and a philosopher on authenticity.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A radio discussion",
+      "intro": "You will hear a presenter, Helen, discussing forgery with an art historian, Dr Marsh.",
+      "speakers": {
+        "Helen": "female",
+        "Dr Marsh": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Helen",
+          "text": "Dr Marsh, you've written a book about some of the most successful art forgers in history. Let's begin with the obvious question. Why does forgery fascinate us so much?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Marsh",
+          "text": "I think it's because a good forgery undermines our confidence in our own eyes. We like to believe that we respond to beauty directly, but if a painting can move us for years and then be exposed as a fake, what exactly were we responding to? The forger embarrasses the expert, and there is a certain pleasure in that."
+        },
+        {
+          "id": "s3",
+          "speaker": "Helen",
+          "text": "You've said that forgers rarely copy existing paintings."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Marsh",
+          "text": "That's right. The cleverest ones invent something new in the style of a famous artist, usually a work that fills a gap in the record, a missing early period or a lost subject. Experts want it to exist, you see. A forgery that confirms what scholars already hope is almost irresistible."
+        },
+        {
+          "id": "s5",
+          "speaker": "Helen",
+          "text": "So the gullibility is partly ours."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Marsh",
+          "text": "Very much so. One of the most notorious cases involved a painter who fooled leading authorities with works that, to modern eyes, look quite crude. The faces are strangely long, and the style is unmistakably of the nineteen thirties. But in their day the experts were so keen to discover a lost masterpiece that they saw only what they wanted to see."
+        },
+        {
+          "id": "s7",
+          "speaker": "Helen",
+          "text": "And did he profit enormously?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Dr Marsh",
+          "text": "He did, but I would add that he claimed his motive was resentment rather than greed. He felt that the critics had dismissed his own paintings, and he wanted to prove them fools. He succeeded, though the consequences for him were ultimately severe."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A conservator describes her work",
+      "intro": "You will hear a conservator, Ms Okoro, describing how suspected forgeries are examined.",
+      "speakers": {
+        "Ms Okoro": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Ms Okoro",
+          "text": "When a painting arrives in my laboratory with a question mark over it, the first thing I do is look at it for a long time before touching anything. Experienced eyes pick up oddities in the handling of the brush, a hesitancy, a stiffness, that suggest someone copying instead of creating. But I never rely on instinct alone. A confident connoisseur can be spectacularly wrong."
+        },
+        {
+          "id": "s10",
+          "speaker": "Ms Okoro",
+          "text": "So we turn to science. Pigments are the most valuable evidence, because every colour has a history. Certain blues, whites and greens were not manufactured until particular years. If we find a pigment in a painting dated to the seventeenth century that was only invented in the nineteenth, the case is more or less closed."
+        },
+        {
+          "id": "s11",
+          "speaker": "Ms Okoro",
+          "text": "Clever forgers know this, of course, and some grind their own pigments from old materials or paint over genuine antique canvases, scraping away the original picture. That is why we examine the layers beneath the surface using X-rays and infrared light. Sometimes we discover a completely different painting hidden underneath, which can be quite moving."
+        },
+        {
+          "id": "s12",
+          "speaker": "Ms Okoro",
+          "text": "Then there is the matter of time. Genuine old oil paint cracks in a particular pattern as it dries and ages. Forgers have been known to bake their canvases in ovens, or roll them around a cylinder, to imitate this. But artificial cracks tend to be too regular, and under magnification they give themselves away."
+        },
+        {
+          "id": "s13",
+          "speaker": "Ms Okoro",
+          "text": "What I find humbling is that the very techniques we use today will eventually seem primitive. A forgery that passes our tests now may be unmasked in fifty years by methods not yet invented. Authenticity, in that sense, is never permanently certain. It is a provisional verdict, which we hold until something better comes along."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A debate about value",
+      "intro": "You will hear a dealer, Mr Alvarez, and an art critic, Linh, arguing about whether a fake loses its value.",
+      "speakers": {
+        "Mr Alvarez": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s14",
+          "speaker": "Linh",
+          "text": "Let me put the puzzle simply. Imagine a painting that has hung in a gallery for fifty years and delighted thousands of visitors. Then it is revealed as a fake. Nothing about the object has changed, but suddenly it is worth almost nothing. Is that not absurd?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Mr Alvarez",
+          "text": "It's not absurd, it's perfectly rational. What people pay for is not paint on canvas. They are paying for a connection to a particular person at a particular moment. A forgery cannot supply that, however skilful it may be."
+        },
+        {
+          "id": "s16",
+          "speaker": "Linh",
+          "text": "But if the pleasure is real, surely the experience has value, whoever made the picture. We don't refuse to enjoy a symphony because it's performed by an orchestra we've never heard of."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mr Alvarez",
+          "text": "That's a false comparison. A performance is meant to be repeated. A painting is a trace of one individual's hand, and there is only one of it. If I told you that a stranger had faked your grandmother's letters, would you say it makes no difference because the words are the same?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Linh",
+          "text": "That's rather unfair. Letters are personal, whereas pictures are public. And a good copy can educate people who will never see the original."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mr Alvarez",
+          "text": "A copy that's honestly labelled can do that, I agree. What offends me is the deceit. Selling a fake as genuine is a lie, and it harms scholarship, because it pollutes the record that future historians depend on."
+        },
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "I'll grant you that. If the fraud is the wrong, then the thing to condemn is the lie, not the beauty. But I still think we should ask why we are so ready to stop liking something the moment its label changes."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mr Alvarez",
+          "text": "Perhaps because we never truly liked it in isolation. We liked what we thought it was. And I'd say that tells us something rather interesting about ourselves."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A closing reflection",
+      "intro": "You will hear a philosopher, Dr Tran, reflecting on authenticity at the end of the programme.",
+      "speakers": {
+        "Dr Tran": "male"
+      },
+      "script": [
+        {
+          "id": "s22",
+          "speaker": "Dr Tran",
+          "text": "Let me end with a thought experiment. Suppose someone produces a perfect replica of a famous painting, atom for atom identical to the original. Is there anything left that the original has and the copy lacks? Many people feel that there is, though they struggle to say what. I think it comes down to history. The original is the thing that came from the artist's hand, in a particular time and with particular intentions."
+        },
+        {
+          "id": "s23",
+          "speaker": "Dr Tran",
+          "text": "That suggests that authenticity is not a property you can see. It is a relation between an object and its origins. And that is why the discovery of a forgery changes our experience, even though nothing visible has changed. We now know how the object came to be, and our response alters accordingly."
+        },
+        {
+          "id": "s24",
+          "speaker": "Dr Tran",
+          "text": "Some people find this troubling. They say that a response to beauty ought to depend only on what is in front of us. I am not convinced. When we admire a work of art, we are admiring an achievement, something that a person did against difficulty. A forgery, however skilful, achieves something different, a successful imitation. The two achievements deserve different kinds of respect."
+        },
+        {
+          "id": "s25",
+          "speaker": "Dr Tran",
+          "text": "Having said that, I would resist the idea that forgeries are therefore worthless. The best of them are fascinating documents of their own time, telling us what experts wanted to believe. Several have been displayed in museums, labelled honestly, and they draw crowds."
+        },
+        {
+          "id": "s26",
+          "speaker": "Dr Tran",
+          "text": "So perhaps the lesson is modest. The label matters, but it need not be the end of the story. A forged painting may cease to be a masterpiece and become something else, a mirror that shows us our own desires. That is not nothing, and I would argue that it is exactly what a thoughtful visitor ought to look at."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "inference",
+      "text": "According to Dr Marsh, why does forgery fascinate us?",
+      "options": [
+        "It makes valuable art cheaper for ordinary buyers",
+        "It shows that real beauty is extremely rare",
+        "It shakes our trust in our own judgement",
+        "It is surprisingly easy to do well with practice"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says a good forgery undermines our confidence in our own eyes.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "a good forgery undermines our confidence in our own eyes"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What kind of work do the cleverest forgers produce?",
+      "options": [
+        "Paintings in their own personal style",
+        "New works that fill a gap in the record",
+        "Drawings of landscapes by lesser-known artists",
+        "Exact copies of famous paintings in museums"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They invent something new in the style of a famous artist that fills a gap.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "usually a work that fills a gap in the record"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does Dr Marsh suggest about the experts in the notorious case?",
+      "options": [
+        "They were dishonest about the paintings they praised",
+        "They saw what they wanted to see",
+        "They were never fooled by his crude style",
+        "They were too young to know his period"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says they were so keen to discover a masterpiece that they saw only what they wanted to see.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "they saw only what they wanted to see"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is Dr Marsh's overall view of forgery?",
+      "options": [
+        "Forgers are always clumsy and easy to spot",
+        "Experts' hopes make them easy to deceive",
+        "Forgery is purely a modern problem for museums",
+        "Museums are careless about checking their works"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He argues that experts were so keen to find a masterpiece that they were easily fooled, so the gullibility is partly ours.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "the experts were so keen to discover a lost masterpiece"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Dr Marsh say motivated that forger?",
+      "options": [
+        "Political belief that the art world was corrupt",
+        "Resentment towards critics who dismissed his work",
+        "Love of art and a wish to preserve styles",
+        "A desperate need for money to survive"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He claimed his motive was resentment rather than greed.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "his motive was resentment rather than greed"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is Ms Okoro's attitude to relying on instinct?",
+      "options": [
+        "She believes it is useless",
+        "She is proud of her instinct",
+        "She trusts it completely",
+        "She distrusts it on its own"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says a confident connoisseur can be spectacularly wrong.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "A confident connoisseur can be spectacularly wrong."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why are pigments valuable evidence?",
+      "options": [
+        "They are always old and easy to identify",
+        "They are cheap to test with simple tools",
+        "They never fade, even over many centuries",
+        "Some colours did not exist until certain years"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Certain blues, whites and greens were not manufactured until particular years.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "were not manufactured until particular years"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why do conservators use X-rays and infrared light?",
+      "options": [
+        "To date the wooden frames of paintings",
+        "To see layers beneath the surface",
+        "To clean the surface of the paintings",
+        "To copy the colours for restoration"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Forgers may paint over old canvases, so they examine the layers beneath.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "examine the layers beneath the surface"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How can artificial cracks be recognised?",
+      "options": [
+        "They appear only on the frames, not the canvas",
+        "They tend to be too regular under magnification",
+        "They are too small to be seen with the eye",
+        "They are too deep compared with natural cracks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Artificial cracks tend to be too regular under magnification.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "artificial cracks tend to be too regular"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does she find humbling?",
+      "options": [
+        "Today's techniques will one day seem primitive",
+        "Experts often disagree about the same painting",
+        "Forgers are becoming much rarer these days",
+        "Her laboratory is small and poorly funded"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A forgery passing tests now may be unmasked in fifty years by new methods.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "will eventually seem primitive"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What puzzle does Linh describe?",
+      "options": [
+        "A fake that was loved becomes worthless overnight",
+        "A fake that is cheaper than a good copy",
+        "A gallery that sold its collection after fifty years",
+        "A real painting wrongly condemned as a fake"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She describes a painting that suddenly becomes worth almost nothing once revealed as fake.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "suddenly it is worth almost nothing"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Mr Alvarez say people pay for?",
+      "options": [
+        "The fame of the gallery that displays it",
+        "The quality of the canvas and the paint",
+        "The size and visual impact of the picture",
+        "A link to a particular person at a particular moment"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says they pay for a connection to a particular person at a particular moment.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "a connection to a particular person at a particular moment"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Mr Alvarez reject Linh's symphony comparison?",
+      "options": [
+        "Orchestras never repeat the same music twice",
+        "A painting is the trace of one person's hand",
+        "Symphonies are cheaper than paintings to produce",
+        "Painting is far more popular than music"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says a performance is meant to be repeated while a painting is one individual's trace.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "A painting is a trace of one individual's hand"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Mr Alvarez mention scholarship?",
+      "options": [
+        "To praise honest copies as scholarly work",
+        "To promote his gallery's research programme",
+        "To complain about scholars who miss fakes",
+        "To show that fakes harm the historical record"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says fakes pollute the record that future historians rely on.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "it pollutes the record that future historians depend on"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What do the speakers finally concede?",
+      "options": [
+        "Fakes should be sold freely if they give pleasure",
+        "Paintings should be copied more often for education",
+        "Beauty is irrelevant once the label has changed",
+        "The lie is the wrong, and we like what we think it is"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Linh grants that the lie is the wrong and Mr Alvarez says we liked what we thought it was.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "We liked what we thought it was."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does Dr Tran suggest the original has that the replica lacks?",
+      "options": [
+        "A rarer range of colours in its pigments",
+        "A slightly different weight when measured",
+        "A better frame made in the artist's time",
+        "A history of coming from the artist's hand"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says it comes down to history, the object coming from the artist's hand.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I think it comes down to history."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does the discovery of a forgery change our experience?",
+      "options": [
+        "We learn how the object came to be",
+        "It becomes much more expensive overnight",
+        "It becomes damaged by new testing",
+        "Its appearance visibly changes in some way"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says authenticity is a relation to origins, so learning the origin alters our response.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "We now know how the object came to be"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Dr Tran think about the idea that response should depend only on what we see?",
+      "options": [
+        "He fully agrees with it and says so",
+        "He has never heard anyone put it that way",
+        "He thinks it is obvious and needs no defence",
+        "He is not convinced, since we admire an achievement"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says he is not convinced and speaks of admiring an achievement.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I am not convinced."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does he say some forgeries are worth displaying?",
+      "options": [
+        "They are better than the originals they imitate",
+        "They are very old and rare in museums",
+        "They cost less than genuine works to insure",
+        "They document what experts wanted to believe"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says the best are fascinating documents telling us what experts wanted to believe.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "fascinating documents of their own time"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "What is the purpose of his closing image of a mirror?",
+      "options": [
+        "To advertise a museum exhibition of forgeries",
+        "To end the thought experiment about the replica",
+        "To praise the makers of fine glass mirrors",
+        "To suggest a forgery can reveal our own desires"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "A forged painting can become a mirror that shows us our own desires.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "a mirror that shows us our own desires"
+        }
+      ]
+    }
+  ]
+}

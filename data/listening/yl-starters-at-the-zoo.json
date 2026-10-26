@@ -1,0 +1,353 @@
+{
+  "id": "l-yl-s-at-the-zoo",
+  "title": "At the Zoo",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about animals at the zoo.",
+  "instructions": "Read the questions first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Arriving at the zoo",
+      "intro": "You will hear Sam and his mum at the zoo.",
+      "speakers": {
+        "Sam": "male",
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Sam",
+          "text": "Mum, look! The zoo is so big!"
+        },
+        {
+          "id": "s2",
+          "speaker": "Mum",
+          "text": "Yes! What animal do you want to see first?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Sam",
+          "text": "The elephant, please!"
+        },
+        {
+          "id": "s4",
+          "speaker": "Mum",
+          "text": "OK. It is near the lake."
+        },
+        {
+          "id": "s5",
+          "speaker": "Sam",
+          "text": "Great! I love elephants."
+        },
+        {
+          "id": "s6",
+          "speaker": "Mum",
+          "text": "Hold my hand, Sam. There are many people here."
+        },
+        {
+          "id": "s7",
+          "speaker": "Sam",
+          "text": "OK, Mum. I am not afraid."
+        },
+        {
+          "id": "s8",
+          "speaker": "Sam",
+          "text": "I like animals. They are my favourite thing in the world."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The animals",
+      "intro": "You will hear Sam talking about the animals.",
+      "speakers": {
+        "Sam": "male"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Sam",
+          "text": "The elephant is very big and grey."
+        },
+        {
+          "id": "s10",
+          "speaker": "Sam",
+          "text": "The monkeys are funny. They eat bananas."
+        },
+        {
+          "id": "s11",
+          "speaker": "Sam",
+          "text": "I am afraid of the snake. It is long."
+        },
+        {
+          "id": "s12",
+          "speaker": "Sam",
+          "text": "The zoo is very noisy and very fun."
+        },
+        {
+          "id": "s13",
+          "speaker": "Sam",
+          "text": "I want to come back again next year."
+        },
+        {
+          "id": "s14",
+          "speaker": "Sam",
+          "text": "Tigers and lions are very strong, but they are kind to their babies."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · The zoo shop",
+      "intro": "You will hear Sam and a girl in the zoo shop.",
+      "speakers": {
+        "Sam": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "Hello, Sam! Do you like the zoo?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Sam",
+          "text": "Yes! I see a lion and a tiger."
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "I want a toy penguin."
+        },
+        {
+          "id": "s18",
+          "speaker": "Sam",
+          "text": "I want a toy monkey. It is three pounds."
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "Let us buy them!"
+        },
+        {
+          "id": "s20",
+          "speaker": "Sam",
+          "text": "The shop is open until the afternoon."
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "Good. We have enough time to look at everything."
+        },
+        {
+          "id": "s22",
+          "speaker": "Linh",
+          "text": "My mum is waiting outside. She will be happy to see them."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "Where are Sam and his mum?",
+      "options": [
+        "At the park",
+        "At school",
+        "At the zoo"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Sam says, \"The zoo is so big!\"",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "The zoo is so big!"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What animal does Sam want to see first?",
+      "options": [
+        "The elephant",
+        "The monkey",
+        "The snake"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sam asks for the elephant first.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "The elephant, please!"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the elephant?",
+      "options": [
+        "Near the lake",
+        "Near the gate",
+        "Near the shop"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum says it is near the lake.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "It is near the lake."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What colour is the elephant?",
+      "options": [
+        "Grey",
+        "Black",
+        "Brown"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The elephant is big and grey.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "big and grey"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What do the monkeys eat?",
+      "options": [
+        "Rice",
+        "Bananas",
+        "Apples"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The monkeys eat bananas.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "They eat bananas."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "Which animal is Sam afraid of?",
+      "options": [
+        "The monkey",
+        "The elephant",
+        "The snake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Sam says he is afraid of the snake.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I am afraid of the snake."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Which animals does Sam see?",
+      "options": [
+        "A fish and a frog",
+        "A lion and a tiger",
+        "A bear and a bird"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Sam sees a lion and a tiger.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "a lion and a tiger"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What toy does Linh want?",
+      "options": [
+        "A penguin",
+        "A monkey",
+        "A lion"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh wants a toy penguin.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I want a toy penguin."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How much is the toy monkey?",
+      "options": [
+        "Three pounds",
+        "Five pounds",
+        "Two pounds"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The toy monkey is three pounds.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "It is three pounds."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "Does Sam like the zoo?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sam says, \"Yes!\"",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Yes! I see a lion and a tiger."
+        }
+      ]
+    }
+  ]
+}

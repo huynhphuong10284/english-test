@@ -1,0 +1,449 @@
+{
+  "id": "l-yl-m-a-rainy-weekend",
+  "title": "A Rainy Weekend",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about a rainy weekend: a boy and his mum, a weather report and a phone call.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Sam and Mum",
+      "intro": "You will hear Sam talking to his mum on a rainy day.",
+      "speakers": {
+        "Sam": "male",
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mum",
+          "text": "It's raining again, Sam. We can't go to the beach."
+        },
+        {
+          "id": "s2",
+          "speaker": "Sam",
+          "text": "That's boring. What can we do inside?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Mum",
+          "text": "We could bake something, or you could paint a picture."
+        },
+        {
+          "id": "s4",
+          "speaker": "Sam",
+          "text": "I'd like to bake. Can we make chocolate biscuits?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Mum",
+          "text": "We don't have any chocolate, but we have lots of bananas. We could make banana cake."
+        },
+        {
+          "id": "s6",
+          "speaker": "Sam",
+          "text": "OK! And then can I watch a film?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Mum",
+          "text": "Yes, after we clean the kitchen."
+        },
+        {
+          "id": "s8",
+          "speaker": "Sam",
+          "text": "I'll find the flour and the eggs, Mum. Where's the big bowl?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Mum",
+          "text": "It's in the cupboard under the sink. Please be careful with the eggs."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The weather",
+      "intro": "You will hear the weather report on the radio.",
+      "speakers": {
+        "Mr Wood": "male"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Mr Wood",
+          "text": "Here is the weather for the weekend. On Saturday, it will rain all day, with a strong wind in the north. Please take an umbrella if you go out."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mr Wood",
+          "text": "On Sunday morning, it will still be cloudy, but the rain will stop at about noon."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Wood",
+          "text": "In the afternoon, we'll have some sunshine, and it will be warm, about eighteen degrees."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mr Wood",
+          "text": "That's good news for the football match in the park at three o'clock. Next week will be dry."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mr Wood",
+          "text": "So, remember your umbrella on Saturday and your sunglasses on Sunday. That's all for now."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone call",
+      "intro": "You will hear Minh calling his friend Mai.",
+      "speakers": {
+        "Minh": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Minh",
+          "text": "Hello, Mai. It's Minh. What are you doing today?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "Nothing much. I'm reading my new book about dragons. And you?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Minh",
+          "text": "I'm building a model ship with my brother. It's very hard!"
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "Cool! Would you like to come to my house tomorrow? We can play board games."
+        },
+        {
+          "id": "s19",
+          "speaker": "Minh",
+          "text": "Yes, please! Is two o'clock OK?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "Make it three o'clock. I have a piano lesson at two."
+        },
+        {
+          "id": "s21",
+          "speaker": "Minh",
+          "text": "Fine. I'll bring my favourite game, the one with the dice."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where can't they go today?",
+      "options": [
+        "To the park",
+        "To the zoo",
+        "To the beach"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum says they can't go to the beach because of the rain.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "We can't go to the beach."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Sam want to do?",
+      "options": [
+        "Read a book",
+        "Paint a picture",
+        "Bake something"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Sam says: \"I'd like to bake.\"",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I'd like to bake."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why can't they make chocolate biscuits?",
+      "options": [
+        "They have no chocolate",
+        "They have no flour",
+        "They have no eggs"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum says they don't have any chocolate.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "We don't have any chocolate"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will they make?",
+      "options": [
+        "Banana cake",
+        "Chocolate biscuits",
+        "Apple pie"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They have lots of bananas, so they will make banana cake.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "We could make banana cake."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When can Sam watch a film?",
+      "options": [
+        "Tomorrow",
+        "After they clean the kitchen",
+        "Right now"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says he can watch a film after they clean the kitchen.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "Yes, after we clean the kitchen."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is the man talking about?",
+      "options": [
+        "The weather for the weekend",
+        "A football match",
+        "A holiday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He gives the weather for Saturday and Sunday.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Here is the weather for the weekend."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will the weather be like on Saturday?",
+      "options": [
+        "Cloudy but dry",
+        "Sunny and warm",
+        "Rainy all day"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "On Saturday it will rain all day.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "it will rain all day"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When will the rain stop on Sunday?",
+      "options": [
+        "At nine o'clock",
+        "At three o'clock",
+        "At about noon"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The rain will stop at about noon on Sunday.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "the rain will stop at about noon"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How warm will it be on Sunday afternoon?",
+      "options": [
+        "Eighteen degrees",
+        "Fifteen degrees",
+        "Twenty degrees"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it will be about eighteen degrees.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "about eighteen degrees"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What will happen in the park on Sunday at three o'clock?",
+      "options": [
+        "A picnic",
+        "A football match",
+        "A concert"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The good weather is good news for the football match at three.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "the football match in the park at three o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is Mai reading?",
+      "options": [
+        "A book about dragons",
+        "A book about ships",
+        "A book about dogs"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai says she is reading a book about dragons.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "my new book about dragons"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is Minh building?",
+      "options": [
+        "A toy house",
+        "A kite",
+        "A model ship"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Minh is building a model ship with his brother.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I'm building a model ship"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What can they play tomorrow?",
+      "options": [
+        "Football",
+        "Computer games",
+        "Board games"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says they can play board games.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "We can play board games."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time will Minh come?",
+      "options": [
+        "At two o'clock",
+        "At three o'clock",
+        "At four o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai says to make it three o'clock.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Make it three o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why can't Minh come at two o'clock?",
+      "options": [
+        "Mai has a piano lesson",
+        "Mai is going shopping",
+        "Minh has a swimming lesson"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai has a piano lesson at two.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I have a piano lesson at two."
+        }
+      ]
+    }
+  ]
+}

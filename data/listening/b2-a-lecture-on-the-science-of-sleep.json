@@ -1,0 +1,643 @@
+{
+  "id": "l-b2-a-lecture-on-the-science-of-sleep",
+  "title": "A Lecture on the Science of Sleep",
+  "level": "B2 · Upper-intermediate",
+  "description": "Four recordings about sleep: a lecture, a tutorial about a research project, a radio interview about teenagers and a podcast with sleep tips.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A lecture",
+      "intro": "You will hear part of a university lecture by Dr Lewis about sleep.",
+      "speakers": {
+        "Dr Lewis": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Dr Lewis",
+          "text": "Good morning. Today we're going to look at something we all do but few of us understand: sleep. On average, we spend about a third of our lives asleep."
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Lewis",
+          "text": "For a long time, scientists assumed that the brain simply switched off at night. We now know that's completely wrong. During sleep, the brain is extremely busy."
+        },
+        {
+          "id": "s3",
+          "speaker": "Dr Lewis",
+          "text": "Sleep moves in cycles of roughly ninety minutes. Each cycle includes light sleep, deep sleep and a stage in which we dream, known as rapid eye movement sleep."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Lewis",
+          "text": "Deep sleep is when the body repairs itself. Muscles grow, and the immune system gets stronger. Dreaming sleep, on the other hand, seems to be important for memory and emotions."
+        },
+        {
+          "id": "s5",
+          "speaker": "Dr Lewis",
+          "text": "A famous experiment illustrates this. Students who learned a list of words and then slept remembered far more the next day than students who stayed awake for the same period. It wasn't the time that mattered, it was the sleep."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Lewis",
+          "text": "Now, many people believe they can train themselves to need less sleep. The evidence suggests otherwise. Most adults need between seven and nine hours, and people who claim to manage on five usually perform worse, even if they don't notice it themselves."
+        },
+        {
+          "id": "s7",
+          "speaker": "Dr Lewis",
+          "text": "That last point is worth remembering. Tired people are poor judges of how tired they are."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A tutorial",
+      "intro": "You will hear a student, Linh, talking to her tutor, Dr Evans, about a research project.",
+      "speakers": {
+        "Dr Evans": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Dr Evans",
+          "text": "Come in, Linh. I've read your draft proposal on student sleep. Tell me about your idea."
+        },
+        {
+          "id": "s9",
+          "speaker": "Linh",
+          "text": "Well, I want to survey students at our university about how late they stay up, and then compare that with their exam results."
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Evans",
+          "text": "Interesting. How many students do you plan to ask?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Linh",
+          "text": "At first I thought two hundred, but my friend says that's too ambitious for one term. Maybe I should aim for one hundred."
+        },
+        {
+          "id": "s12",
+          "speaker": "Dr Evans",
+          "text": "I'd say one hundred and fifty, if you use an online form. That's realistic and still gives you reliable results."
+        },
+        {
+          "id": "s13",
+          "speaker": "Linh",
+          "text": "OK. My other worry is honesty. Students might say they sleep eight hours when really it's five."
+        },
+        {
+          "id": "s14",
+          "speaker": "Dr Evans",
+          "text": "Exactly, that's the weak point of any survey. So I suggest you don't rely only on questionnaires. Ask volunteers to wear a simple sleep tracker for a week."
+        },
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "I hadn't thought of that. But wouldn't it be expensive?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Dr Evans",
+          "text": "The department has ten trackers you can borrow, free of charge. You'd just have to book them before the end of this month."
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "Perfect. And what about the deadline for the proposal?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Dr Evans",
+          "text": "Friday the twelfth. Not the fifth, I know I said that earlier, but the date has been moved."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A radio interview",
+      "intro": "You will hear a radio presenter, Minh, interviewing a sleep researcher, Dr Nguyen, about teenagers.",
+      "speakers": {
+        "Minh": "male",
+        "Dr Nguyen": "female"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Minh",
+          "text": "Joining me is Dr Nguyen, a sleep researcher. Dr Nguyen, why do teenagers seem to hate mornings?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Dr Nguyen",
+          "text": "It isn't laziness, Minh, though that's what many parents assume. During adolescence the body clock shifts. Teenagers naturally feel sleepy later in the evening and wake later in the morning, sometimes by two hours."
+        },
+        {
+          "id": "s21",
+          "speaker": "Minh",
+          "text": "So a seven o'clock alarm is hard for them."
+        },
+        {
+          "id": "s22",
+          "speaker": "Dr Nguyen",
+          "text": "Very. Some schools in other countries have moved their start time to half past eight or later, and the results were striking: better attendance, better marks, and fewer car accidents among older students."
+        },
+        {
+          "id": "s23",
+          "speaker": "Minh",
+          "text": "That sounds like an easy win. Why doesn't every school do it?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Dr Nguyen",
+          "text": "Practical reasons mostly. Bus timetables, parents' working hours, after-school sports. I sympathise, but I'd argue the health benefits outweigh the inconvenience."
+        },
+        {
+          "id": "s25",
+          "speaker": "Minh",
+          "text": "And what about phones? Surely they're part of the problem."
+        },
+        {
+          "id": "s26",
+          "speaker": "Dr Nguyen",
+          "text": "Partly. The light from screens can delay sleepiness, but honestly I think the content matters more than the light. A thrilling video or an argument with a friend keeps the mind active."
+        },
+        {
+          "id": "s27",
+          "speaker": "Minh",
+          "text": "So what's your advice for teenagers listening now?"
+        },
+        {
+          "id": "s28",
+          "speaker": "Dr Nguyen",
+          "text": "Switch off the screen an hour before bed, keep the room cool and dark, and try to get up at roughly the same time at weekends. A big lie-in on Sunday confuses the body clock even more."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A podcast",
+      "intro": "You will hear Nam, a student, talking on his podcast about how he improved his sleep.",
+      "speakers": {
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s29",
+          "speaker": "Nam",
+          "text": "Hello and welcome to The Tired Student. I'm Nam, and today I'm sharing three things I've learned after a very bad year of sleeping."
+        },
+        {
+          "id": "s30",
+          "speaker": "Nam",
+          "text": "Number one: caffeine. I used to drink coffee at four in the afternoon and wonder why I was awake at midnight. Caffeine stays in your body for up to eight hours, so my afternoon coffee was still working when I went to bed. Now I stop at lunchtime."
+        },
+        {
+          "id": "s31",
+          "speaker": "Nam",
+          "text": "Number two: routine. I used to think being spontaneous was exciting, so I went to bed whenever I felt like it. The result was that I felt tired all the time. When I started going to bed at eleven every night, even on Fridays, my energy changed within a fortnight."
+        },
+        {
+          "id": "s32",
+          "speaker": "Nam",
+          "text": "Number three, and this one surprised me: the bedroom. I used to do my homework on my bed. Experts say that if you work where you sleep, your brain starts to link the bed with stress. I moved my desk to the corner and bought a cheap lamp, and it made a difference."
+        },
+        {
+          "id": "s33",
+          "speaker": "Nam",
+          "text": "What didn't work? Well, I tried counting sheep. Honestly, it's boring, and boredom isn't relaxing when you're worried about an exam. A short walk before bed worked much better."
+        },
+        {
+          "id": "s34",
+          "speaker": "Nam",
+          "text": "So that's it. Nothing revolutionary, just small changes. If you try only one, I'd say start with the coffee. And now, if you'll excuse me, I need a nap."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the lecture mainly about?",
+      "options": [
+        "What happens during sleep and why it matters",
+        "How to fall asleep faster and stay asleep longer",
+        "The history of sleep research and early experiments",
+        "The reasons why people dream and what dreams mean"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She introduces sleep as something we all do but few understand, then explains what the brain and body do.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "something we all do but few of us understand: sleep"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What did scientists wrongly believe for a long time?",
+      "options": [
+        "That the brain is very active at night",
+        "That the brain simply switches off at night",
+        "That sleep is only necessary for young children",
+        "That adults need more sleep than children do"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says scientists assumed the brain switched off, but that is completely wrong.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "assumed that the brain simply switched off at night"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which stage of sleep repairs the body?",
+      "options": [
+        "Deep sleep",
+        "Waking up",
+        "Dreaming sleep",
+        "Light sleep"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Deep sleep is when the body repairs itself. Dreaming sleep is linked with memory and emotions.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Deep sleep is when the body repairs itself."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What did the experiment with word lists show?",
+      "options": [
+        "Students learn best at night",
+        "Tests should be shorter",
+        "Sleep itself helps memory",
+        "Staying awake makes people creative"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Sleepers remembered more than people who stayed awake for the same time, so the sleep mattered.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "It wasn't the time that mattered, it was the sleep."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does the lecturer suggest about people who say they manage on five hours?",
+      "options": [
+        "They should sleep for an extra hour during the day",
+        "They usually perform worse without noticing",
+        "They have a special gene that reduces the need",
+        "They are probably healthier than other adults"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says they usually perform worse even if they do not notice.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "usually perform worse, even if they don't notice it themselves"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why has Linh come to see Dr Evans?",
+      "options": [
+        "To complain about her marks in the last exam",
+        "To ask about a part-time job in the department",
+        "To discuss her proposal for a research project",
+        "To borrow a book about sleep for her project"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dr Evans has read her draft proposal on student sleep and asks about her idea.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "I've read your draft proposal on student sleep."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How many students does Dr Evans suggest she should ask?",
+      "options": [
+        "Two hundred, which was her original plan",
+        "Fifty, so that the survey is easy to finish",
+        "One hundred and fifty, using an online form",
+        "One hundred, which is what her friend said"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh mentions two hundred and one hundred, but he suggests one hundred and fifty.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I'd say one hundred and fifty"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Dr Evans say Linh should not rely only on questionnaires?",
+      "options": [
+        "They cost too much",
+        "Students dislike online forms",
+        "They are too long",
+        "Students may not answer honestly"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He agrees with her worry about honesty and calls it the weak point of any survey.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "that's the weak point of any survey"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What can Linh do about sleep trackers?",
+      "options": [
+        "Buy them cheaply online before the month ends",
+        "Ask the students to bring their own trackers",
+        "Hire them from the library for a small fee",
+        "Borrow them from the department for free"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The department has ten trackers she can borrow free of charge.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "you can borrow, free of charge"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is the deadline for the proposal?",
+      "options": [
+        "Friday the twelfth",
+        "Friday the fifth",
+        "The end of this month",
+        "Next term"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The deadline was the fifth but has been moved to Friday the twelfth.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Friday the twelfth."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "According to Dr Nguyen, why do teenagers find mornings hard?",
+      "options": [
+        "They go to school too far away",
+        "Their body clock shifts later",
+        "They drink too much coffee",
+        "They are simply lazy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "During adolescence the body clock shifts, so teenagers feel sleepy later and wake later.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "During adolescence the body clock shifts."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What happened in schools that started later?",
+      "options": [
+        "Fewer students came to school",
+        "Students slept less",
+        "Attendance and marks improved",
+        "The buses stopped running"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She mentions better attendance, better marks and fewer car accidents.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "better attendance, better marks"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why don't all schools start later?",
+      "options": [
+        "It causes practical problems with timetables and routines",
+        "Teachers do not believe the research is reliable",
+        "The results in other countries were disappointing",
+        "Most students prefer to start school early"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She lists practical reasons: bus timetables, working hours and sports.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "Practical reasons mostly."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Dr Nguyen think about phones?",
+      "options": [
+        "Phones are not a problem for teenagers at all",
+        "The light from screens is the only real problem",
+        "What teenagers watch may matter more than the light",
+        "Phones should be banned in schools and at home"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says the light is partly a problem, but she thinks the content matters more.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I think the content matters more than the light"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does she advise about weekends?",
+      "options": [
+        "Go to bed much later than on school nights",
+        "Have a big lie-in on Sunday morning to catch up",
+        "Stay up all night on Saturday to switch off",
+        "Get up at roughly the same time"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says to try to get up at roughly the same time at weekends.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "get up at roughly the same time at weekends"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why was his afternoon coffee a problem for Nam?",
+      "options": [
+        "It made him sleepy in the afternoon",
+        "It was very expensive for a student budget",
+        "The caffeine was still active at bedtime",
+        "He drank it too quickly before his lectures"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Caffeine stays in the body for hours, so it was still working when he went to bed.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "my afternoon coffee was still working when I went to bed"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What happened when Nam kept a fixed bedtime?",
+      "options": [
+        "He stopped going out with his friends on Fridays",
+        "He slept better but felt no more energetic",
+        "He felt more energetic within a fortnight",
+        "He felt tired at first and then gave up"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says his energy changed within a fortnight.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "my energy changed within a fortnight"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why did Nam move his desk?",
+      "options": [
+        "His room was too small for a bed and a desk",
+        "He wanted more daylight while he was working",
+        "He did not want to link his bed with stress",
+        "He had just bought a new and larger desk"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Experts say working where you sleep makes the brain link the bed with stress.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "your brain starts to link the bed with stress"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Nam think of counting sheep?",
+      "options": [
+        "It is too boring to help",
+        "It worked well for him",
+        "It is only for children",
+        "It made him anxious"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it is boring, and boredom does not relax you when you are worried.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "Honestly, it's boring"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "What advice does Nam give to someone who tries only one change?",
+      "options": [
+        "Buy a cheap lamp for the bedroom",
+        "Take a short nap in the afternoon",
+        "Move the desk to the corner",
+        "Start by cutting down on coffee"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says that if you try only one, start with the coffee.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "start with the coffee"
+        }
+      ]
+    }
+  ]
+}

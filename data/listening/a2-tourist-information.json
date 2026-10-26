@@ -1,0 +1,623 @@
+{
+  "id": "l-a2-tourist-information",
+  "title": "Tourist Information",
+  "level": "A2 · Elementary",
+  "description": "Four short recordings for visitors to a town: a tourist office, a bus tour, asking for directions and a museum message.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · At the tourist office",
+      "intro": "You will hear a tourist, Linh, talking to a clerk, Henry, at a tourist information centre.",
+      "speakers": {
+        "Henry": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Henry",
+          "text": "Good morning. Welcome to the Lakeside Tourist Information Centre. How can I help you?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Linh",
+          "text": "Hi. We're here for three days, and we'd like some ideas for things to do."
+        },
+        {
+          "id": "s3",
+          "speaker": "Henry",
+          "text": "Of course. Are you interested in history, or do you prefer outdoor activities?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Linh",
+          "text": "My husband loves history, but I'd rather be outside. And we have a nine-year-old daughter."
+        },
+        {
+          "id": "s5",
+          "speaker": "Henry",
+          "text": "Then I'd suggest the castle for the morning. Children love it because there's a small dragon museum inside. Then in the afternoon you could hire a boat on the lake."
+        },
+        {
+          "id": "s6",
+          "speaker": "Linh",
+          "text": "A boat sounds lovely. How much is it?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Henry",
+          "text": "Twelve pounds an hour for a small boat. It's cheaper after four o'clock, only eight pounds."
+        },
+        {
+          "id": "s8",
+          "speaker": "Linh",
+          "text": "Great. And is the castle open on Mondays?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Henry",
+          "text": "No, I'm afraid it's closed on Mondays, but it's open every other day from ten until five."
+        },
+        {
+          "id": "s10",
+          "speaker": "Linh",
+          "text": "Today is Monday, so we'll go to the lake today, and the castle tomorrow."
+        },
+        {
+          "id": "s11",
+          "speaker": "Henry",
+          "text": "Good plan. Here's a free map. The castle is just a twenty-minute walk from here."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A bus tour",
+      "intro": "You will hear a guide, Frank, at the start of a sightseeing bus tour.",
+      "speakers": {
+        "Frank": "male"
+      },
+      "script": [
+        {
+          "id": "s12",
+          "speaker": "Frank",
+          "text": "Good morning, ladies and gentlemen, and welcome aboard the City Sightseer bus. My name is Frank and I'll be your guide today."
+        },
+        {
+          "id": "s13",
+          "speaker": "Frank",
+          "text": "The tour lasts one hour and fifteen minutes, and you can get off at any of the eight stops and catch the next bus. Your ticket is valid for twenty-four hours."
+        },
+        {
+          "id": "s14",
+          "speaker": "Frank",
+          "text": "On your left, you can see the Town Hall. It was built about two hundred years ago, and it's still used today. The clock tower is a favourite place for photos."
+        },
+        {
+          "id": "s15",
+          "speaker": "Frank",
+          "text": "In a few minutes, we'll pass the old market. It's open every day except Sunday, and it's a great place to buy local cheese and bread. Please try the apple cake. It's famous!"
+        },
+        {
+          "id": "s16",
+          "speaker": "Frank",
+          "text": "After that, we cross the river on the Green Bridge. Many people think it's the most beautiful bridge in the country, but actually, it's quite new. It was finished only ten years ago."
+        },
+        {
+          "id": "s17",
+          "speaker": "Frank",
+          "text": "Please remember to keep your arms inside the bus when we go under low trees, and take care of your bags. Next stop: the castle."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Asking for directions",
+      "intro": "You will hear a tourist, Minh, asking a local woman, Mrs Hill, for directions.",
+      "speakers": {
+        "Minh": "male",
+        "Mrs Hill": "female"
+      },
+      "script": [
+        {
+          "id": "s18",
+          "speaker": "Minh",
+          "text": "Excuse me, could you help me? I'm looking for the Museum of Science."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mrs Hill",
+          "text": "Of course. It's not far. Go straight on along this road until you reach the traffic lights."
+        },
+        {
+          "id": "s20",
+          "speaker": "Minh",
+          "text": "Straight on to the traffic lights. OK."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mrs Hill",
+          "text": "Then turn left, and walk past the post office and the big supermarket. The museum is opposite the park."
+        },
+        {
+          "id": "s22",
+          "speaker": "Minh",
+          "text": "Is it a long way? I've got a heavy bag."
+        },
+        {
+          "id": "s23",
+          "speaker": "Mrs Hill",
+          "text": "About ten minutes on foot. But there's also a bus, number twelve. It stops outside the supermarket, and it's only one pound."
+        },
+        {
+          "id": "s24",
+          "speaker": "Minh",
+          "text": "I think I'll walk. It's a lovely day."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mrs Hill",
+          "text": "Be careful, though. The museum closes at four today, not five, because of a school event."
+        },
+        {
+          "id": "s26",
+          "speaker": "Minh",
+          "text": "Oh, thanks. It's half past three now, so I only have half an hour."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mrs Hill",
+          "text": "Then take the bus! Or you could come back tomorrow. It's free on Wednesdays."
+        },
+        {
+          "id": "s28",
+          "speaker": "Minh",
+          "text": "Free? That's great. But I leave tomorrow. I'll go by bus now, then."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A recorded message",
+      "intro": "You will hear a recorded telephone message from a museum.",
+      "speakers": {
+        "Museum": "female"
+      },
+      "script": [
+        {
+          "id": "s29",
+          "speaker": "Museum",
+          "text": "Thank you for calling Greenfield Museum. This is a recorded message."
+        },
+        {
+          "id": "s30",
+          "speaker": "Museum",
+          "text": "The museum is open from Tuesday to Sunday, from half past nine in the morning until five in the evening. We are closed on Mondays. On the last Friday of every month, we stay open until nine o'clock, and there is live music in the garden."
+        },
+        {
+          "id": "s31",
+          "speaker": "Museum",
+          "text": "Tickets for adults are seven pounds fifty. Children under five can come in for free, and students pay half price. If you are over sixty-five, you can enter for five pounds."
+        },
+        {
+          "id": "s32",
+          "speaker": "Museum",
+          "text": "This month, we have a special show about dinosaurs on the first floor. It will be here until the end of June. Tickets for the show cost three pounds extra."
+        },
+        {
+          "id": "s33",
+          "speaker": "Museum",
+          "text": "Our café on the ground floor sells hot meals, sandwiches and ice cream. You can also bring your own lunch and eat it in the garden if it's sunny."
+        },
+        {
+          "id": "s34",
+          "speaker": "Museum",
+          "text": "For directions, please press one. To book a school visit, press two. To speak to someone, press three. Thank you."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How long is the family staying in the town?",
+      "options": [
+        "Three days",
+        "Nine days",
+        "Two days"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh says they are here for three days. Nine is the age of their daughter.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "We're here for three days"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does Linh prefer to do?",
+      "options": [
+        "Visit museums",
+        "Go shopping",
+        "Be outside"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says she would rather be outside, while her husband loves history.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I'd rather be outside."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why do children like the castle?",
+      "options": [
+        "It has a playground",
+        "It has a dragon museum",
+        "It has a cinema"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Henry says there is a small dragon museum inside.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "there's a small dragon museum inside"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much is a small boat after four o'clock?",
+      "options": [
+        "Ten pounds an hour",
+        "Twelve pounds an hour",
+        "Eight pounds an hour"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It costs twelve pounds an hour, but only eight pounds after four.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "only eight pounds"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What will the family do today?",
+      "options": [
+        "Go to a museum in town",
+        "Visit the castle",
+        "Go on the lake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The castle is closed on Mondays, so they will go to the lake today.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "so we'll go to the lake today"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long does the tour last?",
+      "options": [
+        "One hour and fifteen minutes",
+        "Twenty-four hours",
+        "Two hours"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The tour lasts one hour and fifteen minutes. The ticket is valid for twenty-four hours.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "The tour lasts one hour and fifteen minutes"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long is the ticket valid?",
+      "options": [
+        "Twenty-four hours",
+        "Eight hours",
+        "One hour"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Frank says the ticket is valid for twenty-four hours. There are eight stops.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Your ticket is valid for twenty-four hours."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How old is the Town Hall?",
+      "options": [
+        "About two hundred years old",
+        "About ten years old",
+        "About eight years old"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It was built about two hundred years ago.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "It was built about two hundred years ago"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "On which day is the old market closed?",
+      "options": [
+        "On Monday",
+        "On Saturday",
+        "On Sunday"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The market is open every day except Sunday.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "open every day except Sunday"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What is surprising about the Green Bridge?",
+      "options": [
+        "It is closed",
+        "It is quite new",
+        "It is very old"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Many people think it is beautiful and old, but it was finished only ten years ago.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "it's quite new"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "What is Minh looking for?",
+      "options": [
+        "The Museum of Science",
+        "A bus stop",
+        "The post office"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Minh asks for the Museum of Science.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I'm looking for the Museum of Science."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where should Minh turn left?",
+      "options": [
+        "At the park",
+        "At the traffic lights",
+        "At the post office"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He goes straight on to the traffic lights and then turns left.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Then turn left"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where is the museum?",
+      "options": [
+        "Next to the supermarket",
+        "Opposite the park",
+        "Behind the post office"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The museum is opposite the park.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "The museum is opposite the park."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time does the museum close today?",
+      "options": [
+        "At four o'clock",
+        "At half past three",
+        "At five o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It closes at four today, not five, because of a school event.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "The museum closes at four today, not five"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "How will Minh go to the museum?",
+      "options": [
+        "By taxi",
+        "On foot",
+        "By bus"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He has only half an hour, so he decides to go by bus.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "I'll go by bus now, then."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When is the museum closed?",
+      "options": [
+        "On Fridays",
+        "On Sundays",
+        "On Mondays"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The museum is closed on Mondays.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "We are closed on Mondays."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How much does a student ticket cost?",
+      "options": [
+        "Half price",
+        "Seven pounds fifty",
+        "Five pounds"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Students pay half price. Seven pounds fifty is the adult price.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "students pay half price"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How much extra is the dinosaur show?",
+      "options": [
+        "Three pounds",
+        "Seven pounds fifty",
+        "Five pounds"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tickets for the show cost three pounds extra.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "Tickets for the show cost three pounds extra."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where can visitors eat their own lunch?",
+      "options": [
+        "In the garden",
+        "In the café",
+        "In the dinosaur room"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They can eat their own lunch in the garden if it is sunny.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "eat it in the garden if it's sunny"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "What should you do to book a school visit?",
+      "options": [
+        "Press three",
+        "Press two",
+        "Press one"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The message says to press two to book a school visit.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "To book a school visit, press two."
+        }
+      ]
+    }
+  ]
+}

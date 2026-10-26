@@ -1,0 +1,609 @@
+{
+  "id": "l-a1-at-the-train-station",
+  "title": "At the Train Station",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings at a train station: buying a ticket, an announcement, a phone call and asking for help.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Buying a ticket",
+      "intro": "You will hear a man, Tom, buying a ticket at the station.",
+      "speakers": {
+        "Tom": "male",
+        "Clerk": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Clerk",
+          "text": "Good morning. Can I help you?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Tom",
+          "text": "Yes, please. I'd like a ticket to Oxford."
+        },
+        {
+          "id": "s3",
+          "speaker": "Clerk",
+          "text": "Single or return?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Tom",
+          "text": "Return, please. I'm coming back tonight. How much is it?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Clerk",
+          "text": "A single ticket is twelve pounds, so a return is eighteen pounds."
+        },
+        {
+          "id": "s6",
+          "speaker": "Tom",
+          "text": "OK. And what time is the next train?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Clerk",
+          "text": "There's one at ten fifteen. It leaves from platform four."
+        },
+        {
+          "id": "s8",
+          "speaker": "Tom",
+          "text": "Thank you. Is it a fast train?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Clerk",
+          "text": "Yes, it takes one hour. You will be in Oxford at a quarter past eleven."
+        },
+        {
+          "id": "s10",
+          "speaker": "Tom",
+          "text": "Perfect. Here is the money. Have a nice day!"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A station announcement",
+      "intro": "You will hear an announcement at a train station.",
+      "speakers": {
+        "Announcer": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Announcer",
+          "text": "Attention, please. The train to Manchester is late today. It will leave at five thirty, not five o'clock."
+        },
+        {
+          "id": "s12",
+          "speaker": "Announcer",
+          "text": "Please wait on platform two. Do not wait on platform one."
+        },
+        {
+          "id": "s13",
+          "speaker": "Announcer",
+          "text": "The train to Bristol is now ready. It leaves in five minutes from platform six."
+        },
+        {
+          "id": "s14",
+          "speaker": "Announcer",
+          "text": "A small black bag is on the bench near the cafe. Please take your bags with you."
+        },
+        {
+          "id": "s15",
+          "speaker": "Announcer",
+          "text": "Finally, the shop near the main door is open until nine o'clock tonight. Thank you."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone call",
+      "intro": "You will hear Anna talking to her father on the phone from the station.",
+      "speakers": {
+        "Dad": "male",
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Anna",
+          "text": "Hello, Dad. I'm at the station now. The train was twenty minutes late."
+        },
+        {
+          "id": "s17",
+          "speaker": "Dad",
+          "text": "Oh dear. Are you hungry? Do you want me to cook dinner?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Anna",
+          "text": "Yes, please. I'd like chicken and rice. But first, can you pick me up?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Dad",
+          "text": "Of course. I'm at home. I'll be there in ten minutes in the car."
+        },
+        {
+          "id": "s20",
+          "speaker": "Anna",
+          "text": "Thanks. I'm in front of the station, next to the flower shop."
+        },
+        {
+          "id": "s21",
+          "speaker": "Dad",
+          "text": "Is your bag heavy?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Anna",
+          "text": "Yes, very heavy! I have lots of books in it."
+        },
+        {
+          "id": "s23",
+          "speaker": "Dad",
+          "text": "OK. I'll wait for you at the door. See you soon, Anna."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Asking for help",
+      "intro": "You will hear a girl, Mai, asking a man for help at the station.",
+      "speakers": {
+        "Guard": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Mai",
+          "text": "Excuse me. I'm lost. I want to go to the airport."
+        },
+        {
+          "id": "s25",
+          "speaker": "Guard",
+          "text": "No problem. You need the blue train. Go down these stairs."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mai",
+          "text": "Is the toilet near here? I need to go before the train."
+        },
+        {
+          "id": "s27",
+          "speaker": "Guard",
+          "text": "Yes, it's behind the ticket office, on the left."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mai",
+          "text": "Thank you. And do I need a ticket for the blue train?"
+        },
+        {
+          "id": "s29",
+          "speaker": "Guard",
+          "text": "Yes. You can buy one from the machine. It costs four pounds."
+        },
+        {
+          "id": "s30",
+          "speaker": "Mai",
+          "text": "Oh, I only have a ten pound note. Is that OK?"
+        },
+        {
+          "id": "s31",
+          "speaker": "Guard",
+          "text": "Yes, the machine gives change. The train comes every fifteen minutes. Have a good trip!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What does Tom want?",
+      "options": [
+        "A single ticket to London",
+        "A taxi to the station",
+        "A return ticket to Oxford"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom asks for a return ticket to Oxford.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Return, please"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much is the return ticket?",
+      "options": [
+        "Eight pounds",
+        "Twelve pounds",
+        "Eighteen pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A return ticket is eighteen pounds. A single ticket is twelve.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "a return is eighteen pounds"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When does the next train leave?",
+      "options": [
+        "At eleven fifteen",
+        "At ten o'clock",
+        "At ten fifteen"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The train leaves at ten fifteen. Eleven fifteen is when it arrives.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "There's one at ten fifteen"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which platform is the train from?",
+      "options": [
+        "Platform three",
+        "Platform four",
+        "Platform two"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The train leaves from platform four.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "platform four"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How long is the journey?",
+      "options": [
+        "Thirty minutes",
+        "Two hours",
+        "One hour"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The clerk says it takes one hour.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "it takes one hour"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time will the Manchester train leave?",
+      "options": [
+        "At five thirty",
+        "At five o'clock",
+        "At six o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The train is late. It will leave at five thirty.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "It will leave at five thirty"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where should people wait for the Manchester train?",
+      "options": [
+        "Platform six",
+        "Platform one",
+        "Platform two"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The announcer says to wait on platform two.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Please wait on platform two"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When does the Bristol train leave?",
+      "options": [
+        "In one hour",
+        "In five minutes",
+        "In fifteen minutes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It leaves in five minutes from platform six.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "It leaves in five minutes"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where is the black bag?",
+      "options": [
+        "On the train",
+        "On a bench",
+        "Near the main door"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The bag is on the bench near the cafe.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "on the bench near the cafe"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long is the shop open?",
+      "options": [
+        "Until eight o'clock",
+        "Until six o'clock",
+        "Until nine o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The shop is open until nine o'clock tonight.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "open until nine o'clock tonight"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How late was the train?",
+      "options": [
+        "Ten minutes",
+        "Thirty minutes",
+        "Twenty minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Anna says the train was twenty minutes late. Dad will be there in ten minutes.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "twenty minutes late"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Anna want for dinner?",
+      "options": [
+        "Fish and potatoes",
+        "Chicken and rice",
+        "Soup and bread"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Anna would like chicken and rice.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I'd like chicken and rice"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How will Dad come to the station?",
+      "options": [
+        "By car",
+        "On foot",
+        "By bus"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Dad says he will come in the car.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "in the car"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where is Anna waiting?",
+      "options": [
+        "Next to the bank",
+        "Inside the cafe",
+        "Next to the flower shop"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She is in front of the station, next to the flower shop.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "next to the flower shop"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why is Anna's bag heavy?",
+      "options": [
+        "It has lots of books.",
+        "It has her lunch.",
+        "It has her shoes."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Anna says she has lots of books in it.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I have lots of books in it"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Mai talk to the man?",
+      "options": [
+        "She is lost and needs help.",
+        "She wants a job.",
+        "She lost her bag."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai says she is lost and wants to go to the airport.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I'm lost"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Which train does Mai need?",
+      "options": [
+        "The blue train",
+        "The green train",
+        "The red train"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The man says she needs the blue train.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "You need the blue train"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where is the toilet?",
+      "options": [
+        "Near the stairs",
+        "Next to the cafe",
+        "Behind the ticket office"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It is behind the ticket office, on the left.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "behind the ticket office"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How much is the ticket?",
+      "options": [
+        "Fourteen pounds",
+        "Four pounds",
+        "Ten pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The ticket costs four pounds. Ten pounds is the note Mai has.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "It costs four pounds"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How often does the train come?",
+      "options": [
+        "Every fifteen minutes",
+        "Every fifty minutes",
+        "Every five minutes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The train comes every fifteen minutes.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "every fifteen minutes"
+        }
+      ]
+    }
+  ]
+}

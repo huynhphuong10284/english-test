@@ -1,0 +1,648 @@
+{
+  "id": "l-c1-the-ethics-of-tourism",
+  "title": "The Ethics of Tourism",
+  "level": "C1 · Advanced",
+  "description": "A podcast episode asking whether travellers can be responsible: overcrowded destinations, volunteer trips, a local guide's view and the question of flying.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Podcast introduction",
+      "intro": "You will hear the hosts of a travel podcast, Mai and Jack, introducing today's topic.",
+      "speakers": {
+        "Mai": "female",
+        "Jack": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Hello and welcome to Slow Roads, the podcast for people who have a nagging feeling about their last holiday. I'm Mai."
+        },
+        {
+          "id": "s2",
+          "speaker": "Jack",
+          "text": "And I'm Jack. Today's episode is about the ethics of tourism, which is a slightly awkward subject for two people who've spent most of their savings on travelling."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "It is. I'll start with a confession. Last summer, I went to a famous old harbour town that I'd dreamt of visiting for years. I arrived to find it had so many visitors that I couldn't actually see the harbour. I was standing in a queue to look at a wall."
+        },
+        {
+          "id": "s4",
+          "speaker": "Jack",
+          "text": "And you were, of course, part of the problem."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "Exactly. That's the uncomfortable thing. Everyone complaining about overcrowding is also, by definition, a crowd. Residents in a number of cities have started to say that they can't afford to live in their own neighbourhoods because short-term holiday rentals have pushed rents up."
+        },
+        {
+          "id": "s6",
+          "speaker": "Jack",
+          "text": "To be fair, though, tourism pays wages. In some places it's the main source of income. If we all stopped going, whole communities would suffer."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "Which is the dilemma in a nutshell. The question is not whether to travel, it's how, and how much."
+        },
+        {
+          "id": "s8",
+          "speaker": "Jack",
+          "text": "I'd add one more complication. Not all tourists are the same. A person who stays in a family guesthouse and eats at a local café spreads money differently from one who stays at a big resort that imports everything."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mai",
+          "text": "Right. So let's try to work out what actually helps."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Volunteer tourism",
+      "intro": "You will hear Jack interviewing a researcher, Dr Okoye, about volunteer tourism.",
+      "speakers": {
+        "Jack": "male",
+        "Dr Okoye": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Jack",
+          "text": "Dr Okoye, you've studied what's called volunteer tourism, where travellers spend a week or two helping out in a developing country. It sounds wonderful. Is it?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Dr Okoye",
+          "text": "In many cases, it's well intentioned and badly designed. The central problem is that these placements are usually built around what the visitor wants to experience, not around what the community needs."
+        },
+        {
+          "id": "s12",
+          "speaker": "Jack",
+          "text": "Can you give an example?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Dr Okoye",
+          "text": "Painting a school wall is a classic. A group of enthusiastic visitors pays a fee to paint a wall. Meanwhile, a local painter who could have done it in a day, and been paid, is left out. The visitors go home feeling good, and the community ends up slightly worse off."
+        },
+        {
+          "id": "s14",
+          "speaker": "Jack",
+          "text": "I've heard worse stories about orphanages."
+        },
+        {
+          "id": "s15",
+          "speaker": "Dr Okoye",
+          "text": "Those are the most troubling. In some countries, the demand from visitors to hold and play with children has encouraged people to set up orphanages as businesses, and to recruit children who in fact have families. Children are separated from their parents so that tourists can feel useful. Sadly, there's good evidence for this."
+        },
+        {
+          "id": "s16",
+          "speaker": "Jack",
+          "text": "That's shocking. So should people simply stay at home?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Dr Okoye",
+          "text": "No, I'm not saying that. I'd ask people to start with a different question. Instead of, how can I help, ask, what skills do I have that this community has asked for? A qualified nurse working under a local clinic's direction is a different thing altogether from an untrained teenager teaching English for a fortnight."
+        },
+        {
+          "id": "s18",
+          "speaker": "Jack",
+          "text": "So the key is that the community leads."
+        },
+        {
+          "id": "s19",
+          "speaker": "Dr Okoye",
+          "text": "Yes. And a longer stay helps. Short visits create a lot of administrative work for the hosts, and they rarely leave anything lasting."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A local voice",
+      "intro": "You will hear Mai speaking to Kwame, a guide who lives on a small island popular with visitors.",
+      "speakers": {
+        "Mai": "female",
+        "Kwame": "male"
+      },
+      "script": [
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "Kwame, you've been a guide on your island for twenty years. How has tourism changed it?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Kwame",
+          "text": "Enormously. When I started, perhaps a few hundred people came each summer, and they stayed with families. Now we have cruise ships, and thousands arrive for six hours, and then they leave."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mai",
+          "text": "That doesn't sound so bad. Surely they spend money?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Kwame",
+          "text": "Less than you'd think. Many of them have eaten on the ship, and they've already bought their excursion from the cruise company. They walk through the town, take photographs, buy a magnet perhaps. Meanwhile, we have to repair the paths, collect the rubbish and supply water. The costs are ours, but the profits mostly aren't."
+        },
+        {
+          "id": "s24",
+          "speaker": "Mai",
+          "text": "What do residents think?"
+        },
+        {
+          "id": "s25",
+          "speaker": "Kwame",
+          "text": "It's divided. Some people have opened shops and they're grateful. Others, particularly the older ones, feel that the island has become a stage set. They say, we don't recognise our own streets. One friend refuses to go into the square between ten and four."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mai",
+          "text": "Is anything being done?"
+        },
+        {
+          "id": "s27",
+          "speaker": "Kwame",
+          "text": "The council has started limiting the number of ships per day, which has helped. And a group of us have begun offering small walks led by residents. Visitors hear real stories, we're paid properly and the groups are small enough not to disturb anyone."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mai",
+          "text": "So what would you say to a traveller?"
+        },
+        {
+          "id": "s29",
+          "speaker": "Kwame",
+          "text": "Stay overnight, if you can. That's the single biggest thing. Someone who sleeps here eats here, drinks here and talks to us. And please, ask before photographing people. We're not part of the scenery."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · The flying question",
+      "intro": "You will hear Mai and Jack discussing flying and personal responsibility at the end of the episode.",
+      "speakers": {
+        "Mai": "female",
+        "Jack": "male"
+      },
+      "script": [
+        {
+          "id": "s30",
+          "speaker": "Jack",
+          "text": "We can't end this without mentioning flying. Aviation is a large contributor to climate change, and for most of us, one long-haul flight produces more emissions than months of driving."
+        },
+        {
+          "id": "s31",
+          "speaker": "Mai",
+          "text": "Which makes me squirm, because I love going to far-off places. I've heard the argument that individual choices don't matter, that it's up to governments and airlines."
+        },
+        {
+          "id": "s32",
+          "speaker": "Jack",
+          "text": "I find that argument too convenient. Governments respond to what citizens do and say. But I also think guilt is a poor motivator. People who feel judged tend to get defensive and do nothing."
+        },
+        {
+          "id": "s33",
+          "speaker": "Mai",
+          "text": "So what's your rule?"
+        },
+        {
+          "id": "s34",
+          "speaker": "Jack",
+          "text": "Fewer trips, longer stays. Rather than three short breaks a year, take one proper trip, and go overland where it's practical. It's slower, but I've found the journey becomes part of the holiday."
+        },
+        {
+          "id": "s35",
+          "speaker": "Mai",
+          "text": "I'd add a modest suggestion. Be honest about your reasons. If you're flying to a city for a weekend simply because it's cheap, that's different from flying to see family you haven't met for years."
+        },
+        {
+          "id": "s36",
+          "speaker": "Jack",
+          "text": "That's a distinction I like. Not all journeys are equal."
+        },
+        {
+          "id": "s37",
+          "speaker": "Mai",
+          "text": "And if there's one idea I'd like listeners to take away, it's curiosity about consequences. Ask where your money goes, who benefits and who bears the cost. You won't always get a clean answer, but the asking changes how you travel."
+        },
+        {
+          "id": "s38",
+          "speaker": "Jack",
+          "text": "Well said. Next week, we're heading to the mountains. Until then, travel thoughtfully."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What was Mai's problem when she visited the harbour town?",
+      "options": [
+        "She could not find a hotel near the harbour.",
+        "It was so crowded that she could not see it.",
+        "The weather was too poor to see the harbour."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she could not see the harbour because of the number of visitors.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "it had so many visitors that I couldn't actually see the harbour"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Mai feel about her own part in overcrowding?",
+      "options": [
+        "Proud of the choices she has made",
+        "Sure that she is not responsible",
+        "Uncomfortably aware that she contributes",
+        "Annoyed by the other visitors she met"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says everyone complaining about crowds is also part of the crowd.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Everyone complaining about overcrowding is also, by definition, a crowd."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What is Jack's point about tourism and wages?",
+      "options": [
+        "Residents never benefit from visitors' spending.",
+        "Tourism always raises wages for local people.",
+        "Stopping all travel could harm communities."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says that if everyone stopped going, whole communities would suffer.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "If we all stopped going, whole communities would suffer."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "According to Mai, what is the real question about travel?",
+      "options": [
+        "How and how much to travel",
+        "Whether to travel at all or not",
+        "Where to travel and when to go"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the question is not whether to travel, but how, and how much.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "The question is not whether to travel, it's how, and how much."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Jack mention a family guesthouse and a resort?",
+      "options": [
+        "To show that tourists affect places differently",
+        "To compare the prices of the two kinds of stay",
+        "To recommend a good place to stay and eat"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says money is spread differently depending on where visitors stay.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "spreads money differently"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is the central problem with volunteer placements, according to Dr Okoye?",
+      "options": [
+        "Too few travellers want to join these projects.",
+        "They focus on what the visitor wants to experience.",
+        "They cost the visitors far too much to join.",
+        "They are too short for visitors to enjoy them properly."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says they are built around what the visitor wants, not what the community needs.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "built around what the visitor wants to experience, not around what the community needs"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What is the problem with the wall painting example?",
+      "options": [
+        "The visitors dislike the work they do.",
+        "The wall ends up being painted badly.",
+        "A local worker loses a paid job."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A local painter who could do it and be paid is left out.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "a local painter who could have done it in a day, and been paid, is left out"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What has demand from tourists done in some countries, according to Dr Okoye?",
+      "options": [
+        "Led to orphanages being run as businesses",
+        "Reduced child poverty in poor regions",
+        "Encouraged more families to adopt children"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Orphanages have been set up as businesses and children recruited from families.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "encouraged people to set up orphanages as businesses"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Dr Okoye feel about people staying at home instead of volunteering?",
+      "options": [
+        "She does not mind either way.",
+        "She does not recommend it.",
+        "She insists that people must do so."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she is not saying that, and asks for a different question.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "No, I'm not saying that."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What does Dr Okoye suggest volunteers should ask?",
+      "options": [
+        "Which country is safest for a young volunteer?",
+        "What skills do I have that locals asked for?",
+        "How can I help while keeping the trip cheap?"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She suggests asking what skills the community has asked for.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "what skills do I have that this community has asked for?"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What happens to most cruise visitors on the island?",
+      "options": [
+        "They stay for only a few hours.",
+        "They stay for several days at a time.",
+        "They stay overnight with local families."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Thousands arrive for six hours and then leave.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "thousands arrive for six hours, and then they leave"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Kwame say the costs are theirs and the profits are not?",
+      "options": [
+        "The island pays for upkeep, but visitors spend little",
+        "Cruise passengers spend a lot, but only on the ship",
+        "Local taxes have risen too high for residents"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Residents repair paths, collect rubbish and supply water but visitors spend little.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "The costs are ours, but the profits mostly aren't."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How do some older residents feel about the island?",
+      "options": [
+        "It has made them richer.",
+        "It is quieter than before.",
+        "It has improved greatly.",
+        "It feels like a stage set."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They say the island has become a stage set and they do not recognise their streets.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "the island has become a stage set"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What have the council and local guides done?",
+      "options": [
+        "Limited ships and started resident-led walks",
+        "Raised the ticket prices for every visitor",
+        "Banned cruise ships and closed the old town"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The council limits ships; residents lead small walks.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "limiting the number of ships per day"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Kwame ask visitors to stay overnight?",
+      "options": [
+        "Hotels on the island need more guests to survive.",
+        "The ships leave early, so they miss the sights.",
+        "Overnight visitors spend and interact locally."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says someone who sleeps here eats here and talks to locals.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "Someone who sleeps here eats here, drinks here and talks to us."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Jack think about the argument that individual choices do not matter?",
+      "options": [
+        "It is too convenient an excuse.",
+        "It does not apply to air travel.",
+        "It is entirely correct, he says."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the argument is too convenient and that governments respond to citizens.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "I find that argument too convenient."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Jack feel about guilt as a motivator?",
+      "options": [
+        "It is the best motivator.",
+        "It works well on other people.",
+        "It is a poor motivator."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says people who feel judged tend to become defensive and do nothing.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "guilt is a poor motivator"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is Jack's rule?",
+      "options": [
+        "Never go abroad on holiday",
+        "Fewer trips and longer stays",
+        "Only travel overland by train"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He recommends one proper trip rather than several short breaks.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "Fewer trips, longer stays."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Mai distinguish between a cheap weekend flight and seeing family?",
+      "options": [
+        "To praise the low cost of cheap flights",
+        "To discourage people from visiting family",
+        "To show that reasons for travel matter"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says not all journeys are equal, depending on the reason.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "Be honest about your reasons."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is the main idea Mai wants listeners to take away?",
+      "options": [
+        "Stop travelling abroad immediately and for good.",
+        "Always choose the cheapest option available.",
+        "Be curious about the consequences of travel."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She wants listeners to ask where money goes and who benefits.",
+      "evidence": [
+        {
+          "lineId": "s37",
+          "quote": "it's curiosity about consequences"
+        }
+      ]
+    }
+  ]
+}

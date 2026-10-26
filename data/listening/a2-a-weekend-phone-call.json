@@ -1,0 +1,679 @@
+{
+  "id": "l-a2-a-weekend-phone-call",
+  "title": "A Weekend Phone Call",
+  "level": "A2 · Elementary",
+  "description": "Four phone conversations about weekend plans: shopping, a message from Grandma, a family party and a restaurant booking.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Plans with a friend",
+      "intro": "You will hear Hoa phoning her friend Jack about the weekend.",
+      "speakers": {
+        "Jack": "male",
+        "Hoa": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Hoa",
+          "text": "Hi, Jack. It's Hoa. Are you busy this weekend?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Jack",
+          "text": "Hi, Hoa! Well, on Saturday morning I have football practice, but I'm free in the afternoon."
+        },
+        {
+          "id": "s3",
+          "speaker": "Hoa",
+          "text": "Great. Do you want to come shopping with me? I need a present for my mum. It's her birthday on Sunday."
+        },
+        {
+          "id": "s4",
+          "speaker": "Jack",
+          "text": "Sure. What does she like?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Hoa",
+          "text": "She loves flowers and she likes reading, so maybe a book. I can't decide."
+        },
+        {
+          "id": "s6",
+          "speaker": "Jack",
+          "text": "A book is a better idea. Flowers die after a few days."
+        },
+        {
+          "id": "s7",
+          "speaker": "Hoa",
+          "text": "True! OK, so can we meet at two o'clock at the bookshop on Park Street?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Jack",
+          "text": "Two is a bit early. My practice finishes at twelve, but then I need to have lunch and a shower. Can we say three?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Hoa",
+          "text": "Fine, three o'clock. And after that, shall we see a film?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Jack",
+          "text": "Good idea. But I don't have much money this month, so nothing expensive."
+        },
+        {
+          "id": "s11",
+          "speaker": "Hoa",
+          "text": "No problem. I'll pay for the tickets, and you can buy the ice cream."
+        },
+        {
+          "id": "s12",
+          "speaker": "Jack",
+          "text": "Deal! See you on Saturday."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A message from Grandma",
+      "intro": "You will hear a voicemail message from Tom's grandmother.",
+      "speakers": {
+        "Grandma": "female"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Grandma",
+          "text": "Hello, Tom, it's Grandma. I hope you're well. I'm calling because I'd like you to come for lunch on Sunday, if you're free. Your cousins are coming too."
+        },
+        {
+          "id": "s14",
+          "speaker": "Grandma",
+          "text": "I'm making your favourite, chicken soup, and there is a big chocolate cake. Well, I didn't buy it, I made it myself, of course!"
+        },
+        {
+          "id": "s15",
+          "speaker": "Grandma",
+          "text": "Could you bring your guitar? Your little cousin Ella wants to hear you play. And please ask your mum if she can bring some fruit."
+        },
+        {
+          "id": "s16",
+          "speaker": "Grandma",
+          "text": "Lunch is at one o'clock, but come at half past twelve if you can, because I need help in the garden. The apples are ready, and I can't reach the high branches. Please don't forget your boots, because it was raining all week and the garden is very muddy."
+        },
+        {
+          "id": "s17",
+          "speaker": "Grandma",
+          "text": "Oh, and my phone isn't working well. If you want to call back, use the house phone, not my mobile."
+        },
+        {
+          "id": "s18",
+          "speaker": "Grandma",
+          "text": "I'm looking forward to seeing you. Lots of love. Bye bye!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Brother and sister",
+      "intro": "You will hear Linh phoning her brother Minh, who is at university.",
+      "speakers": {
+        "Linh": "female",
+        "Minh": "male"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "Hi, Minh! How's university?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Minh",
+          "text": "Hi, Linh. It's tiring, honestly. I have two exams next week, so I'm studying all weekend."
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "Oh no. I was hoping you could come home on Saturday. It's Dad's fiftieth birthday party."
+        },
+        {
+          "id": "s22",
+          "speaker": "Minh",
+          "text": "I know, I know. I feel terrible, but I really can't come. Maybe I can take the train on Sunday morning."
+        },
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "That's too late. The party is on Saturday evening. Mum says if you take the early train on Saturday, you'll be here by noon."
+        },
+        {
+          "id": "s24",
+          "speaker": "Minh",
+          "text": "Hmm. The exam is on Monday, and I haven't finished my project."
+        },
+        {
+          "id": "s25",
+          "speaker": "Linh",
+          "text": "Why don't you bring your books home? You can study in your old room. It's quiet, and Mum will cook for you."
+        },
+        {
+          "id": "s26",
+          "speaker": "Minh",
+          "text": "That's actually a good idea. Then I don't need to waste time cooking. Okay, I'll catch the nine o'clock train."
+        },
+        {
+          "id": "s27",
+          "speaker": "Linh",
+          "text": "Wonderful! Dad will be so happy. But keep it a secret. He doesn't know you're coming."
+        },
+        {
+          "id": "s28",
+          "speaker": "Minh",
+          "text": "My lips are sealed. What shall I get him?"
+        },
+        {
+          "id": "s29",
+          "speaker": "Linh",
+          "text": "Don't worry. I've already bought a present from both of us. You can pay me back later."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Booking a restaurant",
+      "intro": "You will hear Peter phoning a restaurant to book a table.",
+      "speakers": {
+        "Anna": "female",
+        "Peter": "male"
+      },
+      "script": [
+        {
+          "id": "s30",
+          "speaker": "Anna",
+          "text": "Good evening, Blue Garden Restaurant. Anna speaking."
+        },
+        {
+          "id": "s31",
+          "speaker": "Peter",
+          "text": "Hello. I'd like to book a table for Saturday evening, please."
+        },
+        {
+          "id": "s32",
+          "speaker": "Anna",
+          "text": "Certainly. How many people?"
+        },
+        {
+          "id": "s33",
+          "speaker": "Peter",
+          "text": "Six. No, sorry, seven. My sister's boyfriend is coming too."
+        },
+        {
+          "id": "s34",
+          "speaker": "Anna",
+          "text": "And what time?"
+        },
+        {
+          "id": "s35",
+          "speaker": "Peter",
+          "text": "Half past seven, please."
+        },
+        {
+          "id": "s36",
+          "speaker": "Anna",
+          "text": "I'm afraid we're full at that time. I can offer you a table at seven, or at nine."
+        },
+        {
+          "id": "s37",
+          "speaker": "Peter",
+          "text": "Seven is fine, but could we sit outside? It's my mum's birthday and she loves the garden."
+        },
+        {
+          "id": "s38",
+          "speaker": "Anna",
+          "text": "Of course, if it doesn't rain. If it does, we'll move you inside. Can I take a name?"
+        },
+        {
+          "id": "s39",
+          "speaker": "Peter",
+          "text": "It's Collins, Peter Collins."
+        },
+        {
+          "id": "s40",
+          "speaker": "Anna",
+          "text": "Thank you. Do you have any allergies or special food needs?"
+        },
+        {
+          "id": "s41",
+          "speaker": "Peter",
+          "text": "My dad can't eat fish, and my sister is vegetarian."
+        },
+        {
+          "id": "s42",
+          "speaker": "Anna",
+          "text": "No problem. I'll tell the chef. Shall I add a birthday cake?"
+        },
+        {
+          "id": "s43",
+          "speaker": "Peter",
+          "text": "Yes, please! That's a lovely idea. How much is it?"
+        },
+        {
+          "id": "s44",
+          "speaker": "Anna",
+          "text": "It's ten pounds for a small cake, and we put a candle on top."
+        },
+        {
+          "id": "s45",
+          "speaker": "Peter",
+          "text": "Perfect. Thank you!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Hoa call Jack?",
+      "options": [
+        "To ask about football",
+        "To ask him to go shopping",
+        "To say sorry"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Hoa wants Jack to come shopping with her for a present.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "Do you want to come shopping with me?"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Jack do on Saturday morning?",
+      "options": [
+        "He works",
+        "He plays football",
+        "He studies"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Jack has football practice on Saturday morning.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "on Saturday morning I have football practice"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What do they decide to buy for Hoa's mum?",
+      "options": [
+        "A scarf",
+        "A book",
+        "Flowers"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Jack says a book is a better idea because flowers die after a few days.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "A book is a better idea."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time will they meet?",
+      "options": [
+        "At two o'clock",
+        "At three o'clock",
+        "At twelve o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Two is too early for Jack, so they agree on three o'clock.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "Fine, three o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Who will pay for the cinema tickets?",
+      "options": [
+        "Jack",
+        "Their friends",
+        "Hoa"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Hoa says she will pay for the tickets. Jack buys the ice cream.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I'll pay for the tickets"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Grandma call?",
+      "options": [
+        "To ask for help with her phone",
+        "To say she is ill",
+        "To invite Tom for lunch"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She asks Tom to come for lunch on Sunday.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "I'd like you to come for lunch on Sunday"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is Grandma cooking?",
+      "options": [
+        "Fish pie",
+        "Pasta",
+        "Chicken soup"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She is making chicken soup, Tom's favourite.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "I'm making your favourite, chicken soup"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who made the chocolate cake?",
+      "options": [
+        "A shop",
+        "Grandma",
+        "Tom's mum"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Grandma says she made it herself.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "I made it myself, of course!"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What should Tom bring for his little cousin?",
+      "options": [
+        "His guitar",
+        "His football",
+        "His camera"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ella wants to hear Tom play the guitar.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Could you bring your guitar?"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When should Tom arrive to help in the garden?",
+      "options": [
+        "At half past twelve",
+        "At twelve o'clock",
+        "At one o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lunch is at one, but she asks him to come at half past twelve.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "come at half past twelve if you can"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why is Minh busy this weekend?",
+      "options": [
+        "He has exams next week",
+        "He is ill",
+        "He is working"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Minh has two exams next week, so he is studying.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I have two exams next week"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is the party for?",
+      "options": [
+        "A wedding",
+        "Dad's birthday",
+        "Mum's birthday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says it is Dad's fiftieth birthday party.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "It's Dad's fiftieth birthday party."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why is studying at home a good idea for Minh?",
+      "options": [
+        "It is cheaper",
+        "It is quiet and his mum will cook",
+        "His friends are there"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His old room is quiet and Mum will cook, so he saves time.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "It's quiet, and Mum will cook for you."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Which train will Minh take?",
+      "options": [
+        "The nine o'clock train on Saturday",
+        "The train at noon",
+        "The early train on Sunday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Minh says he will catch the nine o'clock train. Sunday would be too late.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I'll catch the nine o'clock train."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why must Minh keep his visit a secret?",
+      "options": [
+        "His dad does not know he is coming",
+        "He has not got a ticket",
+        "It is a surprise party"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh says Dad does not know that Minh is coming.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "He doesn't know you're coming."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Peter call the restaurant?",
+      "options": [
+        "To complain about food",
+        "To book a table",
+        "To order a takeaway"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He wants to book a table for Saturday evening.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "I'd like to book a table for Saturday evening"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How many people will come?",
+      "options": [
+        "Eight",
+        "Six",
+        "Seven"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Peter changes the number from six to seven.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "No, sorry, seven."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What time will the table be?",
+      "options": [
+        "At nine o'clock",
+        "At seven o'clock",
+        "Half past seven"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The restaurant is full at half past seven, so Peter takes the table at seven.",
+      "evidence": [
+        {
+          "lineId": "s37",
+          "quote": "Seven is fine"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Who cannot eat fish?",
+      "options": [
+        "Peter's sister",
+        "Peter's mum",
+        "Peter's dad"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Peter says his dad cannot eat fish. His sister is vegetarian.",
+      "evidence": [
+        {
+          "lineId": "s41",
+          "quote": "My dad can't eat fish"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Whose birthday is it?",
+      "options": [
+        "His sister's",
+        "His dad's",
+        "His mum's"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Peter says it is his mum's birthday.",
+      "evidence": [
+        {
+          "lineId": "s37",
+          "quote": "It's my mum's birthday"
+        }
+      ]
+    }
+  ]
+}

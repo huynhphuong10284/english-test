@@ -1,0 +1,358 @@
+{
+  "id": "l-yl-s-my-family-photo",
+  "title": "My Family Photo",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about a family photo and the people in it.",
+  "instructions": "Read the questions first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Looking at a photo",
+      "intro": "You will hear Ben and Anna looking at a photo.",
+      "speakers": {
+        "Ben": "male",
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Anna",
+          "text": "Who is this, Ben?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Ben",
+          "text": "This is my family. This is my mum and this is my dad."
+        },
+        {
+          "id": "s3",
+          "speaker": "Anna",
+          "text": "Who is the little girl?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Ben",
+          "text": "She is my sister. Her name is Kate."
+        },
+        {
+          "id": "s5",
+          "speaker": "Anna",
+          "text": "She is very small! How old is she?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Ben",
+          "text": "She is four."
+        },
+        {
+          "id": "s7",
+          "speaker": "Ben",
+          "text": "We are all smiling in the photo."
+        },
+        {
+          "id": "s8",
+          "speaker": "Anna",
+          "text": "You have a lovely family."
+        },
+        {
+          "id": "s9",
+          "speaker": "Ben",
+          "text": "I like this photo. My grandma took it last summer."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · My grandma",
+      "intro": "You will hear Anna talking about her grandma.",
+      "speakers": {
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Anna",
+          "text": "This is my grandma. She has white hair and big glasses."
+        },
+        {
+          "id": "s11",
+          "speaker": "Anna",
+          "text": "She likes cooking. She makes very good soup."
+        },
+        {
+          "id": "s12",
+          "speaker": "Anna",
+          "text": "She has a cat. The cat is black."
+        },
+        {
+          "id": "s13",
+          "speaker": "Anna",
+          "text": "I visit her every Sunday. We have lunch together."
+        },
+        {
+          "id": "s14",
+          "speaker": "Anna",
+          "text": "I love her very much."
+        },
+        {
+          "id": "s15",
+          "speaker": "Anna",
+          "text": "Her house is next to the river. It is a lovely place."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Brothers",
+      "intro": "You will hear Mai and Nam talking about brothers.",
+      "speakers": {
+        "Nam": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "Nam, do you have a brother?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Nam",
+          "text": "Yes, I have two brothers."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "Are they big?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Nam",
+          "text": "One is big and one is small."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "I have a brother too. He is tall."
+        },
+        {
+          "id": "s21",
+          "speaker": "Nam",
+          "text": "My brothers are funny. We play games every day."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mai",
+          "text": "You are lucky, Nam."
+        },
+        {
+          "id": "s23",
+          "speaker": "Nam",
+          "text": "They are good brothers. They help me with my homework."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What are Ben and Anna looking at?",
+      "options": [
+        "A book",
+        "A photo",
+        "A film"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben says, \"This is my family\" about the photo.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "This is my family."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Who is Kate?",
+      "options": [
+        "His mum",
+        "His friend",
+        "His sister"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ben says she is his sister.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "She is my sister."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How old is Kate?",
+      "options": [
+        "Five",
+        "Six",
+        "Four"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ben says she is four.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "She is four."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Anna's grandma have on her face?",
+      "options": [
+        "A hat",
+        "Big glasses",
+        "A scarf"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She has big glasses.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "white hair and big glasses"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Anna's grandma like?",
+      "options": [
+        "Running",
+        "Cooking",
+        "Singing"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She likes cooking.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "She likes cooking."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What colour is the cat?",
+      "options": [
+        "White",
+        "Black",
+        "Brown"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Anna says the cat is black. White is her grandma's hair.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "The cat is black."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does grandma make?",
+      "options": [
+        "Cake",
+        "Bread",
+        "Soup"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She makes very good soup.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "She makes very good soup."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How many brothers does Nam have?",
+      "options": [
+        "One",
+        "Three",
+        "Two"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam says he has two brothers.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I have two brothers."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is Mai's brother like?",
+      "options": [
+        "Young",
+        "Tall",
+        "Small"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai says her brother is tall.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "He is tall."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "Does Mai have a brother?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai says, \"I have a brother too.\"",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I have a brother too."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "id": "l-yl-m-a-camping-trip",
+  "title": "A Camping Trip",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about a camping trip: a conversation at home, a talk at the campsite and a night-time chat.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Getting ready",
+      "intro": "You will hear Tom and his mum talking about a camping trip.",
+      "speakers": {
+        "Mum": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mum",
+          "text": "Tom, are you ready for the camping trip? We leave at nine o'clock tomorrow."
+        },
+        {
+          "id": "s2",
+          "speaker": "Tom",
+          "text": "Nearly, Mum. I've packed my sleeping bag and my torch. Do I need a raincoat?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Mum",
+          "text": "Yes, the weather forecast says rain on Saturday. Take warm socks too, it's cold at night. Please put your things by the front door tonight, so we don't forget anything in the morning."
+        },
+        {
+          "id": "s4",
+          "speaker": "Tom",
+          "text": "Where are we going to camp?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Mum",
+          "text": "By the lake in the forest, near Grandpa's farm. Dad and Uncle Sam will meet us there."
+        },
+        {
+          "id": "s6",
+          "speaker": "Tom",
+          "text": "Brilliant! Can I bring my guitar?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Mum",
+          "text": "No, sorry, there isn't enough space in the car."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · At the campsite",
+      "intro": "You will hear Mr Park, the campsite guide, talking to the campers.",
+      "speakers": {
+        "Mr Park": "male"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Mr Park",
+          "text": "Welcome to Green Lake campsite, everyone. Please listen carefully before you put up your tents."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mr Park",
+          "text": "Put your tents in the field, not under the trees. Dinner is at six o'clock in the big tent."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mr Park",
+          "text": "You can swim in the lake, but only with an adult. Never go in alone."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mr Park",
+          "text": "Tonight we'll make a fire at eight o'clock and sing songs. Tomorrow, we'll go for a walk to the waterfall."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Park",
+          "text": "The toilets are behind the shop. If you have a problem, come and find me. I'm in the red tent. Thank you for listening, and I hope you all have a lovely stay at the campsite."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A night-time noise",
+      "intro": "You will hear Tom and his cousin Lily at night.",
+      "speakers": {
+        "Lily": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Lily",
+          "text": "Tom, I can't sleep. I heard a strange noise outside."
+        },
+        {
+          "id": "s14",
+          "speaker": "Tom",
+          "text": "It's probably an owl, Lily. Look, I'll shine my torch."
+        },
+        {
+          "id": "s15",
+          "speaker": "Lily",
+          "text": "Oh! Two big eyes in the tree. You're right, it's an owl!"
+        },
+        {
+          "id": "s16",
+          "speaker": "Tom",
+          "text": "Don't be scared. Owls are nice. Shall we have a hot chocolate? Dad is making some on the fire."
+        },
+        {
+          "id": "s17",
+          "speaker": "Lily",
+          "text": "Yes, please. And I want to look at the stars. The sky is so clear tonight. Tomorrow we can find the owl's tree again if you want, and take some photos."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time do they leave?",
+      "options": [
+        "At ten o'clock",
+        "At nine o'clock",
+        "At eight o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says they leave at nine o'clock tomorrow.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "We leave at nine o'clock tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What has Tom packed?",
+      "options": [
+        "A tent and a map",
+        "A sleeping bag and a torch",
+        "A guitar and a hat"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom has packed his sleeping bag and his torch.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I've packed my sleeping bag and my torch."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why should Tom take a raincoat?",
+      "options": [
+        "It will rain on Saturday.",
+        "It will be windy.",
+        "It will be sunny."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The weather forecast says rain on Saturday.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "the weather forecast says rain on Saturday"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where will they camp?",
+      "options": [
+        "On a mountain",
+        "Next to a farm",
+        "By a lake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They will camp by the lake in the forest. The farm is only near it.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "By the lake in the forest"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why can't Tom bring his guitar?",
+      "options": [
+        "It is too heavy.",
+        "There is not enough space.",
+        "It is broken."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says there isn't enough space in the car.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "there isn't enough space in the car"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Mr Park doing?",
+      "options": [
+        "Selling tents",
+        "Teaching swimming",
+        "Giving information to campers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He welcomes the campers and explains the rules.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "Welcome to Green Lake campsite, everyone."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where should the campers put their tents?",
+      "options": [
+        "Behind the shop",
+        "In the field",
+        "Under the trees"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says to put the tents in the field, not under the trees.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "Put your tents in the field, not under the trees."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When can children swim in the lake?",
+      "options": [
+        "With an adult",
+        "Alone",
+        "After dinner"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They can only swim with an adult.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "only with an adult"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will they do at eight o'clock?",
+      "options": [
+        "Walk to the waterfall",
+        "Make a fire",
+        "Eat dinner"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They will make a fire at eight o'clock. Dinner is at six.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "we'll make a fire at eight o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which tent is Mr Park's?",
+      "options": [
+        "The big one",
+        "The red one",
+        "The green one"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Park says he is in the red tent.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I'm in the red tent."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why can't Lily sleep?",
+      "options": [
+        "She is cold.",
+        "She heard a noise.",
+        "She is hungry."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lily heard a strange noise outside.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "I heard a strange noise outside."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Tom think the noise is?",
+      "options": [
+        "A fox",
+        "A cat",
+        "An owl"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says it is probably an owl.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "It's probably an owl"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Lily feel at first?",
+      "options": [
+        "Bored",
+        "Scared",
+        "Angry"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom says \"Don't be scared\", so Lily is afraid.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Don't be scared."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Tom suggest?",
+      "options": [
+        "A hot chocolate",
+        "A walk",
+        "A song"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom asks if they want a hot chocolate.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Shall we have a hot chocolate?"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Lily want to look at?",
+      "options": [
+        "The stars",
+        "The fire",
+        "The lake"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lily says she wants to look at the stars.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I want to look at the stars."
+        }
+      ]
+    }
+  ]
+}

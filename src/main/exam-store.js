@@ -1,11 +1,13 @@
 // Loads exam JSON files from disk and validates their structure.
-// data/reading/*.json are reading exams, data/writing/*.json are writing exams.
+// data/reading/*.json are reading exams, data/writing/*.json writing exams, data/listening/*.json listening exams.
 
 const fs = require('fs');
 const path = require('path');
 const { normalizeAnswer, containsKeyword, tokens, countWords } = require('./text-utils');
+const { LISTENING_TYPES } = require('./listening-grader');
 
-const SKILLS = ['reading', 'writing'];
+const SKILLS = ['reading', 'writing', 'listening'];
+const VOICES = ['male', 'female'];
 const QUESTION_TYPES = ['main-idea', 'detail', 'inference', 'vocabulary', 'purpose'];
 const EXERCISE_TYPES = ['choice', 'gap-fill', 'word-order', 'error-correction', 'transformation'];
 
@@ -107,6 +109,65 @@ function validateWritingExam(exam, file) {
   if (words < t.minWords || words > t.maxWords) fail(`task: model answer has ${words} words, outside ${t.minWords}-${t.maxWords}`);
 }
 
+// Listening: parts with a script (read aloud by the Windows voices), and questions like reading,
+// each belonging to a part, whose evidence quotes point at script lines.
+function validateListeningExam(exam, file) {
+  const fail = failer(file);
+  validateCommon(exam, fail);
+  if (!exam.id.startsWith('l-')) fail('listening exam ids must start with "l-"');
+  if (!Array.isArray(exam.parts) || exam.parts.length === 0) fail('"parts" must be a non-empty array');
+  if (!Array.isArray(exam.questions) || exam.questions.length === 0) fail('"questions" must be a non-empty array');
+
+  const parts = new Map();
+  const lines = new Map(); // line id -> { line, partId }
+  for (const part of exam.parts) {
+    const where = `part "${part.id}"`;
+    if (!part.id || parts.has(part.id)) fail(`${where}: missing or duplicate id`);
+    if (!part.title) fail(`${where}: missing "title"`);
+    parts.set(part.id, part);
+    const speakers = part.speakers ?? {};
+    if (Object.keys(speakers).length === 0) fail(`${where}: "speakers" must name at least one speaker`);
+    for (const [name, voice] of Object.entries(speakers)) {
+      if (!VOICES.includes(voice)) fail(`${where}: speaker "${name}" must have voice "male" or "female"`);
+    }
+    // There is one male and one female voice, so two speakers of the same voice would sound the same.
+    for (const voice of VOICES) {
+      const same = Object.keys(speakers).filter((n) => speakers[n] === voice);
+      if (same.length > 1) fail(`${where}: ${same.join(' and ')} both use the ${voice} voice; use at most one ${voice} speaker per part`);
+    }
+    if (!Array.isArray(part.script) || part.script.length === 0) fail(`${where}: "script" must be a non-empty array`);
+    for (const line of part.script) {
+      if (!line.id || lines.has(line.id)) fail(`${where}: script line "${line.id}" has a missing or duplicate id`);
+      if (!(line.speaker in speakers)) fail(`${where}: line "${line.id}" has unknown speaker "${line.speaker}"`);
+      if (!line.text?.trim()) fail(`${where}: line "${line.id}" has no text`);
+      lines.set(line.id, { line, partId: part.id });
+    }
+  }
+
+  if (new Set(exam.questions.map((q) => q.id)).size !== exam.questions.length) fail('question ids must be unique');
+  const partOrder = [...parts.keys()];
+  let lastPart = 0;
+  for (const q of exam.questions) {
+    const where = `question "${q.id}"`;
+    if (!parts.has(q.partId)) fail(`${where}: unknown partId "${q.partId}"`);
+    const partIndex = partOrder.indexOf(q.partId);
+    if (partIndex < lastPart) fail(`${where}: questions must be listed part by part`);
+    lastPart = partIndex;
+    if (!LISTENING_TYPES.includes(q.type)) fail(`${where}: "type" must be one of ${LISTENING_TYPES.join(', ')}`);
+    if (!Array.isArray(q.options) || q.options.length < 2) fail(`${where}: needs at least 2 options`);
+    if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer >= q.options.length) fail(`${where}: invalid "answer" index`);
+    if (!Array.isArray(q.evidence) || q.evidence.length === 0) fail(`${where}: needs "evidence" (where the answer is heard)`);
+    for (const ev of q.evidence) {
+      const found = lines.get(ev.lineId);
+      if (!found) fail(`${where}: unknown lineId "${ev.lineId}"`);
+      if (found.partId !== q.partId) fail(`${where}: evidence line "${ev.lineId}" is not in part "${q.partId}"`);
+      if (!found.line.text.includes(ev.quote)) fail(`${where}: evidence quote not found in line "${ev.lineId}": "${ev.quote}"`);
+    }
+  }
+}
+
+const VALIDATORS = { reading: validateExam, writing: validateWritingExam, listening: validateListeningExam };
+
 // Loads data/<skill>/*.json for every skill into one Map keyed by exam id.
 // dataDirs: one data folder, or several (bundled exams, then downloaded updates):
 // a file in a later folder replaces the file with the same name in an earlier one.
@@ -129,7 +190,7 @@ function loadExams(dataDirs, { strict = true, onError = () => {} } = {}) {
         } catch (err) {
           throw new Error(`${skill}/${file}: invalid JSON (${err.message})`);
         }
-        (skill === 'writing' ? validateWritingExam : validateExam)(exam, `${skill}/${file}`);
+        VALIDATORS[skill](exam, `${skill}/${file}`);
         if (exams.has(exam.id)) throw new Error(`${skill}/${file}: duplicate exam id "${exam.id}"`);
         exams.set(exam.id, { ...exam, skill });
       } catch (err) {
@@ -162,6 +223,15 @@ function toPublicExam(exam) {
     };
   }
 
+  if (exam.skill === 'listening') {
+    // The script stays in the main process: the learner only hears it until they submit.
+    return {
+      ...base,
+      parts: exam.parts.map((p) => ({ id: p.id, title: p.title, intro: p.intro ?? '', speakers: Object.keys(p.speakers) })),
+      questions: exam.questions.map((q) => ({ id: q.id, partId: q.partId, type: q.type, text: q.text, options: q.options, points: q.points ?? 1 }))
+    };
+  }
+
   return {
     ...base,
     paragraphs: exam.paragraphs,
@@ -175,4 +245,4 @@ function toPublicExam(exam) {
   };
 }
 
-module.exports = { loadExams, validateExam, validateWritingExam, toPublicExam, SKILLS };
+module.exports = { loadExams, validateExam, validateWritingExam, validateListeningExam, VALIDATORS, toPublicExam, SKILLS };

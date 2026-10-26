@@ -1,0 +1,653 @@
+{
+  "id": "l-b2-the-psychology-of-habits",
+  "title": "The Psychology of Habits",
+  "level": "B2 · Upper-intermediate",
+  "description": "Four recordings about habits: a lecture, a radio interview with a psychologist, two students talking about phones and a podcast about small steps.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A lecture on habits",
+      "intro": "You will hear part of a lecture by Dr Moore about how habits work.",
+      "speakers": {
+        "Dr Moore": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Dr Moore",
+          "text": "Good morning. Let me begin with a surprising statistic. Researchers estimate that around forty per cent of what we do each day isn't a conscious decision at all. It's habit."
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Moore",
+          "text": "A habit forms through a simple loop with three parts. First, a cue, which is a trigger such as a time of day, a place, or an emotion. Second, a routine, which is the behaviour itself. Third, a reward, which tells the brain that the loop is worth remembering."
+        },
+        {
+          "id": "s3",
+          "speaker": "Dr Moore",
+          "text": "Take a very ordinary example: checking your phone. The cue might be a moment of boredom, the routine is picking up the phone, and the reward is a small burst of novelty. Repeat it enough times and the whole thing happens without thought."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Moore",
+          "text": "Why does the brain work this way? The answer is efficiency. Thinking is expensive in energy terms, so the brain turns repeated actions into automatic ones, freeing attention for new problems. That's why you can drive home and barely remember the journey."
+        },
+        {
+          "id": "s5",
+          "speaker": "Dr Moore",
+          "text": "A common belief is that it takes twenty-one days to form a habit. That figure has no scientific basis. One well-known study found that the average was about sixty-six days, but with huge variation, from eighteen days to more than eight months, depending on the person and the behaviour."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Moore",
+          "text": "The practical lesson is to be patient, and not to give up after missing a day. Missing once made almost no difference in the long run. What matters is returning to the routine."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A radio interview",
+      "intro": "You will hear a presenter, Daniel, interviewing a psychologist, Sofia, about breaking bad habits.",
+      "speakers": {
+        "Daniel": "male",
+        "Sofia": "female"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Daniel",
+          "text": "My guest today is Sofia, a psychologist who has spent ten years studying how people change their habits. Sofia, why is it so hard to break a bad habit?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Sofia",
+          "text": "Because we usually try to rely on willpower, and willpower is a limited resource. By the evening, after a day of decisions, it's nearly empty. That's exactly when people reach for snacks or the television."
+        },
+        {
+          "id": "s9",
+          "speaker": "Daniel",
+          "text": "So what works better?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Sofia",
+          "text": "Changing the environment. If you want to eat fewer biscuits, don't keep them in the house. It sounds almost too simple, but it removes the cue. In one study, office workers who moved sweets from the desk to a drawer two metres away ate about a third less."
+        },
+        {
+          "id": "s11",
+          "speaker": "Daniel",
+          "text": "Just two metres?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Sofia",
+          "text": "Just two metres. A small amount of effort is often enough to break the loop."
+        },
+        {
+          "id": "s13",
+          "speaker": "Daniel",
+          "text": "What about replacing a habit rather than removing it?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Sofia",
+          "text": "That's the second strategy, and it's even better. You keep the same cue and the same reward, but change the routine. If stress makes you smoke, perhaps a five-minute walk gives you a similar sense of relief."
+        },
+        {
+          "id": "s15",
+          "speaker": "Daniel",
+          "text": "Some people say that habits are tied to personality, that you either have discipline or you don't."
+        },
+        {
+          "id": "s16",
+          "speaker": "Sofia",
+          "text": "I'd disagree strongly. People who seem disciplined have usually just arranged their lives so that good choices are easy. It's design, not character."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Two students",
+      "intro": "You will hear two students, Hana and Nam, talking about their phones.",
+      "speakers": {
+        "Hana": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Hana",
+          "text": "Nam, you've been looking at your phone for the whole of lunch. We've said about ten words to each other."
+        },
+        {
+          "id": "s18",
+          "speaker": "Nam",
+          "text": "Sorry. It's a terrible habit. I picked it up between lectures, and now I check it every few minutes without thinking."
+        },
+        {
+          "id": "s19",
+          "speaker": "Hana",
+          "text": "My screen time report says I average five hours a day. I nearly fell off my chair when I saw it."
+        },
+        {
+          "id": "s20",
+          "speaker": "Nam",
+          "text": "Five? Mine is closer to six and a half. I want to cut it, but every time I try, I last about a day."
+        },
+        {
+          "id": "s21",
+          "speaker": "Hana",
+          "text": "Have you tried deleting the apps?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Nam",
+          "text": "I can't delete the messaging one, because my group project depends on it."
+        },
+        {
+          "id": "s23",
+          "speaker": "Hana",
+          "text": "Then move it. Put it in a folder on the last screen, so you have to search for it. It's a small obstacle, but it makes you think before you open it."
+        },
+        {
+          "id": "s24",
+          "speaker": "Nam",
+          "text": "That's clever. What do you do when you're bored?"
+        },
+        {
+          "id": "s25",
+          "speaker": "Hana",
+          "text": "I keep a paperback in my bag. Whenever I'd normally reach for the phone, I open the book instead. It's the same moment, but a different routine. After a month, I read three novels without really trying."
+        },
+        {
+          "id": "s26",
+          "speaker": "Nam",
+          "text": "Three novels? That's more than I read all last year."
+        },
+        {
+          "id": "s27",
+          "speaker": "Hana",
+          "text": "And I charge my phone in the kitchen overnight, so I don't scroll in bed."
+        },
+        {
+          "id": "s28",
+          "speaker": "Nam",
+          "text": "Fine, I'll try the folder trick and the kitchen charging. But the paperback, I'll have to think about. I don't actually own one."
+        },
+        {
+          "id": "s29",
+          "speaker": "Hana",
+          "text": "You can borrow one of mine. Start with something short."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A podcast about small steps",
+      "intro": "You will hear Kevin, the presenter of a podcast, talking about starting new habits.",
+      "speakers": {
+        "Kevin": "male"
+      },
+      "script": [
+        {
+          "id": "s30",
+          "speaker": "Kevin",
+          "text": "Hello and welcome back to Small Steps. Today I'm talking about the biggest mistake people make with new habits: starting far too big."
+        },
+        {
+          "id": "s31",
+          "speaker": "Kevin",
+          "text": "In January, a friend of mine decided to run five kilometres every morning, having not run for years. By the second week he was exhausted, by the third he had a sore knee, and by February he'd stopped completely. Sound familiar?"
+        },
+        {
+          "id": "s32",
+          "speaker": "Kevin",
+          "text": "The alternative is to make the habit so small that it feels almost silly. Instead of running five kilometres, put on your running shoes and step outside. That's it. Most days you'll end up running, but even if you don't, you've kept the habit alive."
+        },
+        {
+          "id": "s33",
+          "speaker": "Kevin",
+          "text": "The second idea is habit stacking. You attach the new behaviour to something you already do automatically. For example, after I pour my morning coffee, I write one sentence in my journal. The coffee is the cue, so I don't have to remember anything."
+        },
+        {
+          "id": "s34",
+          "speaker": "Kevin",
+          "text": "Third, track your progress. I use a paper calendar on my fridge and cross off each day. After a week, I don't want to break the chain. It's surprising how motivating a row of crosses can be."
+        },
+        {
+          "id": "s35",
+          "speaker": "Kevin",
+          "text": "Finally, be kind to yourself. Everyone misses days. The people who succeed aren't those who never slip, but those who restart the next morning without a long speech of self-criticism."
+        },
+        {
+          "id": "s36",
+          "speaker": "Kevin",
+          "text": "So, this week, pick one tiny habit, attach it to something you already do, and tell me how it goes. I'll see you next time."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the lecture mainly about?",
+      "options": [
+        "How to stop smoking and other bad habits",
+        "The history of psychology and the brain",
+        "How habits form and why we rely on them",
+        "Why people forget names and faces"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She opens with how much of our behaviour is habit, then explains the habit loop and why the brain uses it.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "isn't a conscious decision at all"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is a cue?",
+      "options": [
+        "A trigger such as a time or place",
+        "The pleasant feeling after the behaviour",
+        "The behaviour itself, like checking a phone",
+        "A type of memory stored in the brain"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The cue is the trigger that starts the habit loop.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "a trigger such as a time of day, a place, or an emotion"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does the brain create habits?",
+      "options": [
+        "To save energy and free up attention",
+        "Because it cannot remember things for long",
+        "Because it dislikes rewards and new problems",
+        "To stop us feeling bored all day"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the answer is efficiency: thinking is expensive, so repeated actions become automatic.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "The answer is efficiency."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did the well-known study find about forming a habit?",
+      "options": [
+        "The average was about eight months for adults",
+        "It usually took only a week or two",
+        "It always took exactly twenty-one days for everyone",
+        "About sixty-six days on average, with big differences"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Twenty-one days is a myth. The study found an average of sixty-six days with huge variation.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "the average was about sixty-six days"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does the lecturer say about missing a day?",
+      "options": [
+        "It ruins everything you have built so far",
+        "It is a clear sign of failure",
+        "It makes little difference in the end",
+        "It means starting again at day one"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says missing once made almost no difference in the long run.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "almost no difference in the long run"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "According to Sofia, why is it hard to break a bad habit?",
+      "options": [
+        "People rely on willpower, which is limited",
+        "Bad habits are inherited from our parents",
+        "People never notice the cue at all",
+        "People are naturally lazy in the evening"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says we rely on willpower, which is a limited resource and nearly empty by the evening.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "willpower is a limited resource"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What happened in the office study?",
+      "options": [
+        "Workers ate about a third fewer sweets",
+        "Workers ate the same amount",
+        "Workers ate more sweets",
+        "Workers ate about half as many sweets"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "When sweets were moved two metres away, workers ate about a third less.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "ate about a third less"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What is the second strategy Sofia describes?",
+      "options": [
+        "Telling friends so they can help her",
+        "Removing the reward altogether from the loop",
+        "Keeping cue and reward, changing the routine",
+        "Using much stronger willpower in the evening"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says you keep the same cue and reward but change the routine.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "You keep the same cue and the same reward, but change the routine."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Sofia think about the idea that discipline is a personality trait?",
+      "options": [
+        "She disagrees: it is design, not character",
+        "She agrees that some people lack discipline",
+        "She says it depends on age and family",
+        "She says nobody really knows yet"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She disagrees strongly: it is design, not character.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "It's design, not character."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Sofia mention the two-metre sweets study?",
+      "options": [
+        "To show a small obstacle can break a loop",
+        "To criticise how office workers eat at their desks",
+        "To prove that sweets are cheap in offices",
+        "To advertise healthy snacks for the workplace"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She uses it to show that a small amount of effort is often enough to break the loop.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "A small amount of effort is often enough to break the loop."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Hana start the conversation?",
+      "options": [
+        "She needs help with her group project",
+        "Nam has been on his phone all lunch",
+        "She wants to borrow his phone to call",
+        "She is angry at being kept waiting here"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She notices that he has been looking at his phone for the whole of lunch.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "you've been looking at your phone for the whole of lunch"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "About how many hours a day does Nam spend on his phone?",
+      "options": [
+        "About six and a half",
+        "About three",
+        "About ten",
+        "About five"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Hana averages five hours; Nam says his is closer to six and a half.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Mine is closer to six and a half."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Hana suggest moving the messaging app?",
+      "options": [
+        "It would use less battery than before",
+        "It would delete his messages from the group",
+        "His friends would not notice it there",
+        "It would make him think before opening it"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The extra step is a small obstacle that makes him think before opening it.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "it makes you think before you open it"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Hana do when she is bored?",
+      "options": [
+        "Goes for a walk",
+        "Opens a paperback book",
+        "Calls a friend",
+        "Deletes apps"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She keeps a paperback in her bag and opens the book instead of the phone.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "I open the book instead"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Nam feel about the paperback idea?",
+      "options": [
+        "He is delighted and wants to start tonight",
+        "He refuses angrily and changes the subject",
+        "He already reads a novel every day",
+        "He is unsure because he has no book"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says he will have to think about it, as he does not own one.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "the paperback, I'll have to think about"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "What does Kevin say is the biggest mistake people make?",
+      "options": [
+        "Starting with a habit that is too big",
+        "Starting too late in the year",
+        "Buying expensive equipment",
+        "Telling too many friends"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the mistake is starting far too big.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "starting far too big"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why did Kevin's friend stop running?",
+      "options": [
+        "He moved away to another city",
+        "He found a better hobby in March",
+        "He did far too much too soon",
+        "He lost his running shoes in February"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He was exhausted by the second week and had a sore knee by the third.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "By the second week he was exhausted"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is Kevin's example of habit stacking?",
+      "options": [
+        "Reading ten pages after dinner each night",
+        "Running five kilometres after breakfast daily",
+        "Stretching for five minutes before bed",
+        "Writing a sentence after pouring coffee"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The coffee is the cue for writing one sentence in his journal.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "after I pour my morning coffee, I write one sentence in my journal"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Kevin feel about tracking progress on a calendar?",
+      "options": [
+        "He finds it a waste of time",
+        "He finds a row of crosses motivating",
+        "He finds it stressful after a week",
+        "He thinks it is only for children"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says it is surprising how motivating a row of crosses can be.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "how motivating a row of crosses can be"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "What does Kevin suggest people do when they miss days?",
+      "options": [
+        "Give up and start another new habit",
+        "Do twice as much the next day",
+        "Give themselves a long speech of criticism",
+        "Restart the next morning without harsh self-criticism"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says successful people restart the next morning without a long speech of self-criticism.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "restart the next morning"
+        }
+      ]
+    }
+  ]
+}

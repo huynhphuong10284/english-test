@@ -1,0 +1,618 @@
+{
+  "id": "l-b2-remote-learning",
+  "title": "Remote Learning",
+  "level": "B2 · Upper-intermediate",
+  "description": "A news report, a teacher and a parent discussing online classes, a student interview and a lecture on how to learn well at home.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Radio news report",
+      "intro": "You will hear a radio reporter talking about online schooling.",
+      "speakers": {
+        "Reporter": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Reporter",
+          "text": "Good morning. A new report published this week has looked at how remote learning has changed education over the last few years, and the results are more mixed than many people expected."
+        },
+        {
+          "id": "s2",
+          "speaker": "Reporter",
+          "text": "When schools first closed, millions of children suddenly had to study from home. Some families had a quiet room and a fast connection, but others shared one old laptop between three children, and this gap in equipment mattered a great deal."
+        },
+        {
+          "id": "s3",
+          "speaker": "Reporter",
+          "text": "The researchers found that younger children generally lost the most. Without a teacher in the room, they found it difficult to concentrate, and many fell several months behind in reading."
+        },
+        {
+          "id": "s4",
+          "speaker": "Reporter",
+          "text": "Older students, however, often did better than expected. Many said they liked being able to work at their own speed, and some even felt less anxious without the pressure of a crowded classroom."
+        },
+        {
+          "id": "s5",
+          "speaker": "Reporter",
+          "text": "Interestingly, the report doesn't say that online learning is bad. It says that it works best when it is combined with face-to-face contact, with regular live lessons rather than recorded videos alone."
+        },
+        {
+          "id": "s6",
+          "speaker": "Reporter",
+          "text": "The authors also stress that teachers need training. Using a video platform is easy, but designing an interesting online lesson is a skill that takes time, and many teachers had to learn it overnight."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A teacher and a parent",
+      "intro": "You will hear a teacher, Ms Parker, talking to a parent, Mr Nguyen, at a school meeting.",
+      "speakers": {
+        "Parker": "female",
+        "Nguyen": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Nguyen",
+          "text": "Thank you for seeing me, Ms Parker. I wanted to talk about my son, Minh. He's been doing his lessons online two days a week, and I'm not sure it's working."
+        },
+        {
+          "id": "s8",
+          "speaker": "Parker",
+          "text": "I'm glad you came. What worries you most?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Nguyen",
+          "text": "Well, he says he's fine, but whenever I walk past his room, he seems to be watching videos or chatting with friends, not studying."
+        },
+        {
+          "id": "s10",
+          "speaker": "Parker",
+          "text": "That's very common, I'm afraid. It's hard for any teenager to resist distractions when the phone is next to the keyboard. But I should say that Minh's results are actually good. His last essay was one of the best in the class."
+        },
+        {
+          "id": "s11",
+          "speaker": "Nguyen",
+          "text": "Really? That's a relief. Then why do I feel uneasy?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Parker",
+          "text": "Perhaps because you can't see him working. In the classroom you would see him with a pen in his hand, and you'd know he was busy. At home it looks like nothing, even when the thinking is happening."
+        },
+        {
+          "id": "s13",
+          "speaker": "Nguyen",
+          "text": "I hadn't thought of it like that. Is there anything I can do to help?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Parker",
+          "text": "A few small things. Agree on a timetable, so he knows when the study time starts and ends. Keep the phone in another room during lessons. And ask him to show you what he has done at the end of the day, not as a test, just out of interest."
+        },
+        {
+          "id": "s15",
+          "speaker": "Nguyen",
+          "text": "That sounds reasonable. I'll talk to him tonight."
+        },
+        {
+          "id": "s16",
+          "speaker": "Parker",
+          "text": "Good. And if you like, I'll send you a short weekly email so you can see how he's getting on without having to ask him."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Interview with a student",
+      "intro": "You will hear a presenter, Hoa, interviewing a university student, Daniel, about studying online.",
+      "speakers": {
+        "Hoa": "female",
+        "Daniel": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Hoa",
+          "text": "Daniel, you're in your second year of a degree that's taught almost entirely online. Why did you choose that?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Daniel",
+          "text": "Mainly because of where I live. The nearest university is about three hours away by train, and I couldn't afford the rent in the city. Studying online lets me live with my parents and work part-time."
+        },
+        {
+          "id": "s19",
+          "speaker": "Hoa",
+          "text": "So it's a practical decision rather than a preference?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Daniel",
+          "text": "To start with, yes. But I've come to like some things about it. I can watch lectures twice if I don't follow something, and I can pause and take notes without feeling that everyone's waiting for me."
+        },
+        {
+          "id": "s21",
+          "speaker": "Hoa",
+          "text": "Is there a downside?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Daniel",
+          "text": "Definitely. Loneliness. In the first term I went a whole week without talking to anyone except my family. You miss the small conversations that happen before and after a lecture, where you find out what the others are thinking."
+        },
+        {
+          "id": "s23",
+          "speaker": "Hoa",
+          "text": "How did you deal with that?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Daniel",
+          "text": "I set up a study group with three classmates. We meet on a video call every Thursday evening and just talk through the week's reading. It sounds simple, but it has made an enormous difference, both to my marks and my mood."
+        },
+        {
+          "id": "s25",
+          "speaker": "Hoa",
+          "text": "Would you recommend online study to a school leaver?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Daniel",
+          "text": "Only to someone who's well organised. If you need a teacher to push you, I think it would be difficult. Personally, I'd like to spend the final year on campus, just for the atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Lecture: Learning well at home",
+      "intro": "You will hear a lecturer, Dr Anna Lee, giving advice about studying online.",
+      "speakers": {
+        "Lee": "female"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Lee",
+          "text": "Today I'd like to share four strategies that research suggests can improve your learning when you study remotely."
+        },
+        {
+          "id": "s28",
+          "speaker": "Lee",
+          "text": "The first is to create a boundary between study and the rest of your life. If you can, use one particular place only for work. Even if it's just a corner of the kitchen table, your brain learns that this place means concentration."
+        },
+        {
+          "id": "s29",
+          "speaker": "Lee",
+          "text": "The second is to work in short, focused sessions. Most people can concentrate hard for about twenty-five or thirty minutes, so rather than spending four hours looking at a screen, study for half an hour and then stand up and move for five minutes."
+        },
+        {
+          "id": "s30",
+          "speaker": "Lee",
+          "text": "The third strategy may surprise you: don't take notes on everything. Students who copy down every word of a lecture often remember less than those who write only the key ideas in their own words, because summarising forces you to think."
+        },
+        {
+          "id": "s31",
+          "speaker": "Lee",
+          "text": "The fourth is to test yourself. Instead of rereading a chapter, close the book and try to write down what you remember. It's more uncomfortable, but it is far more effective than simply reading something again."
+        },
+        {
+          "id": "s32",
+          "speaker": "Lee",
+          "text": "Of course, technology can help or hinder. Some students find that turning off notifications gives them an extra hour a day. Others use an app that blocks social media. The tool matters less than the decision to use one."
+        },
+        {
+          "id": "s33",
+          "speaker": "Lee",
+          "text": "In the next session, we'll look at how to manage group projects across different time zones. Please read the short article on the course page before then."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did the report say about equipment?",
+      "options": [
+        "Differences in equipment mattered a lot.",
+        "Every family had a fast connection and a laptop.",
+        "Schools provided all of the equipment needed."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Some families had a fast connection, others shared one old laptop, and this gap mattered a great deal.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "this gap in equipment mattered a great deal"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why did younger children lose the most?",
+      "options": [
+        "They found it hard to concentrate without a teacher.",
+        "They had no computers or fast connection at home.",
+        "They were too anxious in a crowded classroom."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Without a teacher in the room, they found it difficult to concentrate and fell behind in reading.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "they found it difficult to concentrate"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did many older students like about remote learning?",
+      "options": [
+        "Working at their own speed",
+        "Meeting their friends more often online",
+        "Having more homework to do each night"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Many said they liked working at their own speed.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "work at their own speed"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the report's overall conclusion?",
+      "options": [
+        "Online learning is bad and should be stopped",
+        "It works best with some face-to-face contact",
+        "Recorded videos work better than live lessons"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It says online learning works best when combined with face-to-face contact.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "it works best when it is combined with face-to-face contact"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What do the authors think about teacher training?",
+      "options": [
+        "It is unnecessary because platforms are easy to use",
+        "It is too expensive for most schools to offer",
+        "It matters, because online teaching is a skill."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They stress that designing an interesting online lesson takes time to learn.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "teachers need training"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why has Mr Nguyen come to the school?",
+      "options": [
+        "To complain about the amount of homework set",
+        "To ask if online lessons work for his son",
+        "To ask the school for a laptop for his son"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He is not sure that Minh's online lessons are working.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "I'm not sure it's working"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What does Ms Parker say about Minh's work?",
+      "options": [
+        "He never finishes his essays on time",
+        "His results are good.",
+        "He is the weakest student in the class"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says his results are good and his last essay was among the best.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Minh's results are actually good"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Mr Nguyen feel uneasy, according to Ms Parker?",
+      "options": [
+        "Minh does not speak to him.",
+        "He cannot see Minh working.",
+        "The lessons are too short."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "At home the thinking looks like nothing, and he cannot see his son working.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "you can't see him working"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which suggestion does Ms Parker make?",
+      "options": [
+        "Agree on a study timetable",
+        "Buy Minh a new phone with fewer apps",
+        "Move Minh to another school nearby"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She suggests agreeing on a timetable so Minh knows when study starts and ends.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "Agree on a timetable"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Mr Nguyen feel at the end of the conversation?",
+      "options": [
+        "Completely uninterested in her suggestions",
+        "Still very worried about his son's phone",
+        "Reassured and willing to act"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He finds the advice reasonable and will talk to his son that night.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "That sounds reasonable"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why did Daniel choose to study online?",
+      "options": [
+        "He dislikes lectures and prefers working alone",
+        "He wants to travel while he studies abroad",
+        "He lives far from the nearest university."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The university is three hours away and he could not afford the city rent.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I couldn't afford the rent in the city"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Daniel like about online study?",
+      "options": [
+        "Being able to watch a lecture twice",
+        "Having a free laptop from the university",
+        "Never having to write notes or essays"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He can rewatch lectures and take notes without feeling rushed.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I can watch lectures twice if I don't follow something"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What was Daniel's main problem in the first term?",
+      "options": [
+        "Money",
+        "Difficult exams",
+        "Loneliness"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He went a week without talking to anyone but his family.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "Loneliness."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How did Daniel solve his problem?",
+      "options": [
+        "He set up a weekly study group.",
+        "He moved to the city to be near classmates",
+        "He changed courses to a campus programme"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He set up a video call study group with three classmates every Thursday.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I set up a study group with three classmates"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What would Daniel advise a school leaver?",
+      "options": [
+        "Everyone should study online if they are able to",
+        "Online study suits only well-organised people.",
+        "Nobody should study online because it is lonely"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He recommends it only to someone who is well organised.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "Only to someone who's well organised."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why should students use one place only for study?",
+      "options": [
+        "Your brain links that place with concentration.",
+        "It is quieter than other parts of the house",
+        "It is cheaper than studying in a library"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Using one place teaches the brain that it means concentration.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "your brain learns that this place means concentration"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Dr Lee suggest about study sessions?",
+      "options": [
+        "They should last about four hours without a pause",
+        "They should be short with movement breaks.",
+        "They should have no breaks, to keep focus"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She suggests half an hour of study, then five minutes of movement.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "study for half an hour and then stand up and move for five minutes"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Dr Lee think about copying down a whole lecture?",
+      "options": [
+        "It is less effective than writing key ideas.",
+        "It is impossible to do at the speed of a lecture",
+        "It is the best method for remembering details"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says students who write only key ideas in their own words remember more.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "remember less"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does she recommend closing the book and writing what you remember?",
+      "options": [
+        "Self-testing is far more effective than rereading.",
+        "It is more comfortable than looking at a screen",
+        "It is faster and saves time before exams"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says it is uncomfortable but far more effective than rereading.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "it is far more effective than simply reading something again"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does she mention notifications and apps?",
+      "options": [
+        "To show that using a tool matters more than which one",
+        "To criticise technology as a source of distraction",
+        "To advertise an app that blocks social media"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the tool matters less than the decision to use one.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "The tool matters less than the decision to use one."
+        }
+      ]
+    }
+  ]
+}

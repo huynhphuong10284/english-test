@@ -1,0 +1,464 @@
+{
+  "id": "l-yl-m-going-to-the-dentist",
+  "title": "Going to the Dentist",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about the dentist: a worried boy, a phone call and some advice for children.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Ben and Mum",
+      "intro": "You will hear Ben talking to his mum.",
+      "speakers": {
+        "Ben": "male",
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mum",
+          "text": "Come on, Ben. We're going to be late for the dentist."
+        },
+        {
+          "id": "s2",
+          "speaker": "Ben",
+          "text": "Do I have to go, Mum? I don't like it."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mum",
+          "text": "Don't worry. Dr Rose is very kind. She just looks at your teeth."
+        },
+        {
+          "id": "s4",
+          "speaker": "Ben",
+          "text": "What if she finds a hole?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Mum",
+          "text": "You always clean your teeth in the morning and at night, so I'm sure they're fine."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ben",
+          "text": "Well, I do forget at night sometimes. But I never eat sweets on weekdays."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mum",
+          "text": "That's good. After the dentist, we can go to the park."
+        },
+        {
+          "id": "s8",
+          "speaker": "Ben",
+          "text": "Can you stay with me in the room, Mum?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Mum",
+          "text": "Of course I can. I'll sit next to you and hold your hand all the time."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A phone call",
+      "intro": "You will hear Mr Smith calling the dentist.",
+      "speakers": {
+        "Mr Smith": "male",
+        "Mrs Hill": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Mrs Hill",
+          "text": "Good morning, Happy Smiles Dentist."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mr Smith",
+          "text": "Hello. I'd like an appointment for my daughter, please. Her name's Amy."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mrs Hill",
+          "text": "How about Tuesday at four o'clock?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Mr Smith",
+          "text": "Sorry, she has swimming on Tuesday. Is Wednesday possible?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Mrs Hill",
+          "text": "Yes. Wednesday at half past three is free."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mr Smith",
+          "text": "Perfect. She's nine years old. Do I need to bring anything?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Mrs Hill",
+          "text": "Please bring her yellow health card. And you can park behind the building."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mr Smith",
+          "text": "Thank you very much. We'll see you on Wednesday."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mrs Hill",
+          "text": "You're welcome. Goodbye, Mr Smith, and have a nice day."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Healthy teeth",
+      "intro": "You will hear a dentist talking to a class of children.",
+      "speakers": {
+        "Dr Rose": "female"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Dr Rose",
+          "text": "Hello, children. I'm Dr Rose, and today I'll tell you how to keep your teeth healthy."
+        },
+        {
+          "id": "s20",
+          "speaker": "Dr Rose",
+          "text": "First, clean your teeth for two minutes, twice a day. Use a soft brush and a little toothpaste."
+        },
+        {
+          "id": "s21",
+          "speaker": "Dr Rose",
+          "text": "Second, drink water instead of fizzy drinks."
+        },
+        {
+          "id": "s22",
+          "speaker": "Dr Rose",
+          "text": "Third, eat apples and carrots, because they are good for your teeth."
+        },
+        {
+          "id": "s23",
+          "speaker": "Dr Rose",
+          "text": "Sweets are fine on Saturdays, but not every day."
+        },
+        {
+          "id": "s24",
+          "speaker": "Dr Rose",
+          "text": "And remember, visit me every six months. Smile!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is Ben's problem?",
+      "options": [
+        "He is ill",
+        "He doesn't like going to the dentist",
+        "He is late for school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben says: \"I don't like it.\" Mum is worried about being late, not Ben.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I don't like it."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Dr Rose do?",
+      "options": [
+        "She takes out a tooth",
+        "She gives him medicine",
+        "She looks at his teeth"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum says Dr Rose just looks at his teeth.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "She just looks at your teeth."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When does Ben sometimes forget to clean his teeth?",
+      "options": [
+        "In the morning",
+        "After lunch",
+        "At night"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ben says he forgets at night sometimes.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I do forget at night sometimes."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When does Ben never eat sweets?",
+      "options": [
+        "On weekdays",
+        "At weekends",
+        "At school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben says he never eats sweets on weekdays.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I never eat sweets on weekdays."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where will they go after the dentist?",
+      "options": [
+        "To Grandma's house",
+        "To the cinema",
+        "To the park"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum says they can go to the park.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "we can go to the park"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who is the appointment for?",
+      "options": [
+        "Mr Smith's daughter",
+        "Mr Smith's son",
+        "Mr Smith"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He asks for an appointment for his daughter, Amy.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "an appointment for my daughter"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why can't Amy come on Tuesday?",
+      "options": [
+        "She has swimming",
+        "She is ill",
+        "She has a school trip"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Smith says she has swimming on Tuesday.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "she has swimming on Tuesday"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time is the appointment?",
+      "options": [
+        "Half past four",
+        "Half past three",
+        "Four o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Wednesday at half past three is free. Four o'clock was for Tuesday.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "Wednesday at half past three is free."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How old is Amy?",
+      "options": [
+        "Nine",
+        "Seven",
+        "Eight"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Smith says she is nine years old.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "She's nine years old."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What must Mr Smith bring?",
+      "options": [
+        "A drawing",
+        "Her swimming bag",
+        "Her yellow health card"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mrs Hill asks him to bring her yellow health card.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Please bring her yellow health card."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is Dr Rose talking about?",
+      "options": [
+        "How to eat fast",
+        "How to keep teeth healthy",
+        "How to be a dentist"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she will tell the children how to keep their teeth healthy.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "how to keep your teeth healthy"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How long should children clean their teeth?",
+      "options": [
+        "Six minutes",
+        "One minute",
+        "Two minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says to clean for two minutes, twice a day.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "clean your teeth for two minutes"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What should children drink?",
+      "options": [
+        "Milk",
+        "Water",
+        "Fizzy drinks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says to drink water instead of fizzy drinks.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "drink water instead of fizzy drinks"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When are sweets fine?",
+      "options": [
+        "On Saturdays",
+        "On Sundays",
+        "Every day"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sweets are fine on Saturdays, but not every day.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "Sweets are fine on Saturdays"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How often should children visit the dentist?",
+      "options": [
+        "Every year",
+        "Every six months",
+        "Every month"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dr Rose says to visit every six months.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "visit me every six months"
+        }
+      ]
+    }
+  ]
+}

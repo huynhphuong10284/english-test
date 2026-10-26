@@ -1,0 +1,618 @@
+{
+  "id": "l-c2-nostalgia",
+  "title": "Nostalgia",
+  "level": "C2 · Proficiency",
+  "description": "Four radio extracts about nostalgia: an essay, an interview with a psychologist, a talk on its uses and a listener call-in.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A radio essay",
+      "intro": "You will hear the opening of a radio essay about nostalgia.",
+      "speakers": {
+        "Elena": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Elena",
+          "text": "The word nostalgia was coined by a young Swiss doctor in the late seventeenth century, and he did not mean it kindly. He used it to describe a condition afflicting soldiers who were far from home, a longing so intense that it brought on fever, fainting and, in some cases, death. For two centuries afterwards, nostalgia was treated as a disease, something to be cured with leeches, opium or, rather more sensibly, a trip back to the mountains."
+        },
+        {
+          "id": "s2",
+          "speaker": "Elena",
+          "text": "How strange, then, that we now use the word so lightly. We speak of nostalgia for a favourite cartoon, a flavour of sweet or a certain kind of summer afternoon. Somewhere along the way, the ache lost its sting, and what remained was a gentle, faintly sugared sadness. The pain turned into pleasure, or at least into something we are content to pay for."
+        },
+        {
+          "id": "s3",
+          "speaker": "Elena",
+          "text": "And yet it is worth asking what we are actually longing for. I used to believe that I missed my childhood home. But when I visited it again last spring, I found a small, rather shabby house, and I felt nothing at all. It dawned on me that what I missed was not the place but the person I was when I lived there: unhurried, protected and certain that the best was still to come."
+        },
+        {
+          "id": "s4",
+          "speaker": "Elena",
+          "text": "That is the paradox at the heart of the feeling. Nostalgia seems to point backwards, but it is really a comment on the present. We are rarely wistful when we are content. The past that we long for has been quietly edited, with the boredom and the humiliations removed, until it resembles a place that never quite existed."
+        },
+        {
+          "id": "s5",
+          "speaker": "Elena",
+          "text": "I do not think that makes the feeling worthless. A fiction can still console. But I have come to suspect that the pull of the past tells us less about history than about what we feel is missing now."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · An interview with a psychologist",
+      "intro": "You will hear a presenter, Daniel, interviewing a psychologist, Dr Fraser.",
+      "speakers": {
+        "Daniel": "male",
+        "Dr Fraser": "female"
+      },
+      "script": [
+        {
+          "id": "s6",
+          "speaker": "Daniel",
+          "text": "Dr Fraser, the old doctors thought nostalgia was a sickness. What does the research say?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Dr Fraser",
+          "text": "Quite the opposite, in fact. Studies over the last twenty years suggest that nostalgia is, on balance, good for you. When people are asked to recall a cherished memory, their mood tends to lift, they feel more connected to others and they report a stronger sense that life has meaning."
+        },
+        {
+          "id": "s8",
+          "speaker": "Daniel",
+          "text": "That seems counterintuitive. Surely dwelling on the past makes the present feel worse?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Dr Fraser",
+          "text": "That's what many people assume, and sometimes it does. But the typical nostalgic memory is not a lonely one. It usually features other people, a family meal, a friend, a team. So the feeling acts a bit like a reminder that you are loved, and that reminder is especially useful when you're feeling isolated or low."
+        },
+        {
+          "id": "s10",
+          "speaker": "Daniel",
+          "text": "So it's a coping mechanism."
+        },
+        {
+          "id": "s11",
+          "speaker": "Dr Fraser",
+          "text": "In part. In one experiment, people who were made to feel lonely were more inclined to feel nostalgic afterwards, as though the mind reaches for a remedy. And they became more optimistic about forming new friendships, which is the opposite of retreating into the past."
+        },
+        {
+          "id": "s12",
+          "speaker": "Daniel",
+          "text": "Is there a downside?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Dr Fraser",
+          "text": "Certainly. If nostalgia becomes a refuge from every difficulty, then it can keep someone from engaging with life as it is. People who grieve, for example, can become stuck. The sensible view is that it's a tool. Used in moderation, it nourishes. Used as a hiding place, it can starve you."
+        },
+        {
+          "id": "s14",
+          "speaker": "Daniel",
+          "text": "And does it change with age?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Dr Fraser",
+          "text": "Interestingly, it doesn't disappear when you're young. Teenagers feel it too, often about early childhood, and the feeling seems to peak during periods of transition, such as leaving school or moving to a new city."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A talk on nostalgia and society",
+      "intro": "You will hear a cultural historian discussing how nostalgia is used in business and politics.",
+      "speakers": {
+        "Professor Hale": "male"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Professor Hale",
+          "text": "Nostalgia is a private feeling, but it has never remained private for long. Those who sell things have always understood its power. A familiar tune, a retro package or a revived television series can persuade us to open our wallets precisely because it makes us feel safe. When the future looks uncertain, the past becomes a very profitable product."
+        },
+        {
+          "id": "s17",
+          "speaker": "Professor Hale",
+          "text": "Politics has learned the same lesson. A slogan that promises to restore former greatness is almost always more effective than one that promises uncertain change, because it asks people to recover something they already believe they had. The trouble, of course, is that the golden age being invoked is usually an invention. It leaves out the people who suffered in it."
+        },
+        {
+          "id": "s18",
+          "speaker": "Professor Hale",
+          "text": "Historians distinguish between two kinds of longing. Restorative nostalgia insists that the past was real and can be rebuilt, which is the type that leads to rigid and sometimes dangerous movements. Reflective nostalgia, by contrast, accepts that the past is gone, and lingers over the ache with irony and affection. The first wants to go home. The second knows that it cannot."
+        },
+        {
+          "id": "s19",
+          "speaker": "Professor Hale",
+          "text": "I'd argue that this second kind is the more humane. It allows us to cherish what we lost without demanding that anyone else pay for the restoration. And it often generates art, because the gap between what was and what is happens to be where poems and songs live."
+        },
+        {
+          "id": "s20",
+          "speaker": "Professor Hale",
+          "text": "So I am not an enemy of nostalgia. I am simply suspicious of anyone who offers to sell it to me, whether in a shop or at a rally."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Listeners call in",
+      "intro": "You will hear a presenter, Mai, speaking on air with a listener, Tom.",
+      "speakers": {
+        "Mai": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Mai",
+          "text": "We have Tom on the line, who says he has a story about nostalgia. Tom, you're on air."
+        },
+        {
+          "id": "s22",
+          "speaker": "Tom",
+          "text": "Hello, Mai. Yes, I'll try to be brief. I recently cleared out my late father's workshop. It was a cluttered shed full of jars of screws and half-finished projects, and honestly, it smelled of oil and sawdust. I assumed I'd be miserable, but I found I couldn't stop smiling."
+        },
+        {
+          "id": "s23",
+          "speaker": "Mai",
+          "text": "What was it that made you smile?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Tom",
+          "text": "It was the smell, mostly. It took me straight back to being seven years old, sitting on an upturned bucket while he fixed my bicycle. I could hear the radio he always had on, tuned to a station that played old songs. I suddenly realised that I hadn't thought of those afternoons for decades."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mai",
+          "text": "So you were surprised by how happy it made you."
+        },
+        {
+          "id": "s26",
+          "speaker": "Tom",
+          "text": "Very. I'd expected grief. What I got was gratitude, and it was a warm sort of gratitude. I ended up keeping only a few things, a battered spirit level and a tin of nails. I didn't want to turn the shed into a museum."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mai",
+          "text": "That sounds a very healthy approach. Do you feel you've lost him all over again by clearing it?"
+        },
+        {
+          "id": "s28",
+          "speaker": "Tom",
+          "text": "Not at all, which surprised me too. I think I realised that he isn't in the objects. I carry him around with me, especially when I'm fixing something badly in my own kitchen. I'd just like to say that if anyone is putting off a job like this, it may turn out kinder than you expect."
+        },
+        {
+          "id": "s29",
+          "speaker": "Mai",
+          "text": "Thank you, Tom. That's a lovely note to end on, and a reminder that the past can be visited without being rebuilt."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What was nostalgia originally understood to be?",
+      "options": [
+        "A gentle pleasure enjoyed by soldiers on leave",
+        "A talent for remembering home in great detail",
+        "A fear of travel affecting young doctors",
+        "A disease afflicting soldiers far from home"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The word was coined for a condition in soldiers far from home, causing fever and fainting.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "a condition afflicting soldiers who were far from home"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does Elena mean by saying the ache lost its sting?",
+      "options": [
+        "The disease was finally cured by doctors",
+        "The feeling became gentler and more pleasant",
+        "The feeling disappeared once people stopped suffering",
+        "People stopped using the word altogether"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the pain turned into a gentle, sugared sadness, even a pleasure.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "the ache lost its sting"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did Elena realise on visiting her childhood home?",
+      "options": [
+        "She missed who she was then, not the place",
+        "She felt sad about the neighbours who had left",
+        "The house was much improved since she last saw it",
+        "She wanted to buy it back and move in"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she missed the person she was when she lived there.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "what I missed was not the place but the person I was when I lived there"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is Elena's view about the past we long for?",
+      "options": [
+        "It was always unhappy and full of humiliations",
+        "It has been edited and tidied in memory",
+        "It was exactly as we remember it now",
+        "It cannot be discussed without sadness"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the past has been quietly edited, with boredom and humiliation removed.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "The past that we long for has been quietly edited"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What does she conclude about nostalgia?",
+      "options": [
+        "It reveals what we feel is missing in the present",
+        "It should be avoided because it makes people unhappy and passive",
+        "It is a form of illness, as the doctors thought",
+        "It teaches us accurate history about the past"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She suspects the pull of the past tells us less about history than about what we feel is missing now.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "what we feel is missing now"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does recent research say about nostalgia?",
+      "options": [
+        "It has no real effect on mood",
+        "It is generally harmful to wellbeing",
+        "It affects only the elderly",
+        "It is generally beneficial to people"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Studies suggest it is, on balance, good for you.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "nostalgia is, on balance, good for you"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Dr Fraser say nostalgic memories tend to be helpful?",
+      "options": [
+        "They usually involve other people",
+        "They concern the distant past of childhood",
+        "They concern successes achieved at work",
+        "They are always rather brief"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The typical nostalgic memory features other people and reminds you that you are loved.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "It usually features other people"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What happened to people made to feel lonely in the experiment?",
+      "options": [
+        "They avoided other people for several days afterwards",
+        "They became angry with their closest friends",
+        "They became more optimistic about new friendships",
+        "They lost all interest in the past altogether"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They felt nostalgic and grew more optimistic about forming friendships.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "more optimistic about forming new friendships"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is Dr Fraser's view of nostalgia as a refuge?",
+      "options": [
+        "It is harmful if it replaces engaging with life",
+        "It is always the best response to difficulty",
+        "It is harmless in every case, however used",
+        "It only affects people who are grieving"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says used as a hiding place it can starve you.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Used as a hiding place, it can starve you."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What does Dr Fraser say about age?",
+      "options": [
+        "Only older people feel it, usually in retirement",
+        "Teenagers feel it too, often during transitions",
+        "It peaks in middle age, once children leave",
+        "It disappears with time as memories fade"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says teenagers feel it too and it peaks in periods of transition.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "the feeling seems to peak during periods of transition"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does the speaker say the past is a profitable product?",
+      "options": [
+        "Uncertainty makes people seek safety in familiar things",
+        "Shops sell old objects at higher prices",
+        "People forget what things used to cost",
+        "Old products are cheaper to produce than new ones"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "When the future looks uncertain, the past makes us feel safe and we spend money.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "it makes us feel safe"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is his criticism of political nostalgia?",
+      "options": [
+        "It is always sincere, so voters trust it",
+        "The golden age it invokes is usually an invention",
+        "It appeals only to people who suffered then",
+        "It is too expensive to maintain for long"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says the golden age is usually an invention that leaves out those who suffered.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "the golden age being invoked is usually an invention"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How does reflective nostalgia differ from restorative nostalgia?",
+      "options": [
+        "It insists that the past can be rebuilt",
+        "It rejects art and poetry as sentimental",
+        "It accepts that the past is gone",
+        "It leads to rigid and dangerous movements"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Reflective nostalgia accepts the past is gone and lingers over the ache with irony.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "accepts that the past is gone"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does he say the gap between past and present is important?",
+      "options": [
+        "It is where shops compete for customers",
+        "It is where much art is created",
+        "It is where history comes to an end",
+        "It is where political slogans begin"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says it is where poems and songs live.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "where poems and songs live"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is his final position?",
+      "options": [
+        "He loves every kind of nostalgia equally",
+        "He hates nostalgia in all its forms",
+        "He is suspicious of those who sell nostalgia",
+        "He ignores nostalgia as a harmless fashion"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he is not an enemy of nostalgia but suspicious of anyone who sells it.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I am simply suspicious of anyone who offers to sell it to me"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What did Tom do recently?",
+      "options": [
+        "Retired from work after more than forty years",
+        "Cleared out his late father's workshop",
+        "Bought a new bicycle for his own children",
+        "Sold his father's old shed to a neighbour"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he cleared out his late father's workshop.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I recently cleared out my late father's workshop"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What triggered Tom's memory?",
+      "options": [
+        "The smell of oil and sawdust",
+        "An old bicycle left in the shed",
+        "A song on his father's radio",
+        "A photograph of his father"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it was the smell, mostly, that took him back to being seven.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "It was the smell, mostly."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How did Tom feel contrary to his expectation?",
+      "options": [
+        "Angry and resentful rather than sentimental",
+        "Embarrassed rather than proud of him",
+        "Bored and restless rather than curious",
+        "Grateful rather than grief-stricken"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He expected grief but got a warm gratitude.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "What I got was gratitude"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why did Tom keep only a few things?",
+      "options": [
+        "He did not want to make the shed a museum",
+        "His family wanted to keep most of the things",
+        "They were the only valuable items in the shed",
+        "He had no space for them in his own home"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he didn't want to turn the shed into a museum.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I didn't want to turn the shed into a museum."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What message does Tom give to other listeners?",
+      "options": [
+        "Never throw away your family's belongings",
+        "Sell old tools as quickly as you can",
+        "Avoid your family's belongings until you feel ready",
+        "Such a task may be kinder than expected"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says if anyone is putting off a job like this, it may be kinder than expected.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "it may turn out kinder than you expect"
+        }
+      ]
+    }
+  ]
+}

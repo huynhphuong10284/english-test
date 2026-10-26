@@ -1,0 +1,627 @@
+{
+  "id": "l-c1-memory-and-witness-testimony",
+  "title": "Memory and Witness Testimony",
+  "level": "C1 · Advanced",
+  "description": "A university seminar on how memory works, why eyewitnesses make mistakes, a student discussion about an essay and a talk on better interviewing methods.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Seminar opening",
+      "intro": "You will hear Professor Reid opening a seminar on memory.",
+      "speakers": {
+        "Professor Reid": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Professor Reid",
+          "text": "Let's begin with a small confession. Most people, when asked how memory works, describe something like a video recording. You store an event, and later you press play. It's an appealing picture, and it's almost entirely wrong."
+        },
+        {
+          "id": "s2",
+          "speaker": "Professor Reid",
+          "text": "A far better metaphor is a storyteller. Each time you recall an event, you don't retrieve a finished file. You rebuild the scene from fragments, and you fill the gaps with what seems likely, what you've been told since, and even what you would have liked to happen."
+        },
+        {
+          "id": "s3",
+          "speaker": "Professor Reid",
+          "text": "This has a curious consequence. The more often you recall something, the more opportunities there are for it to change. A memory you've rehearsed a hundred times feels vivid and certain, but it may have drifted further from the original than a memory you've hardly touched."
+        },
+        {
+          "id": "s4",
+          "speaker": "Professor Reid",
+          "text": "And here is the part that matters for today's topic. Confidence and accuracy are only weakly connected. A witness can be completely sincere, and completely mistaken. Sincerity is not a sign that the memory is correct; it is simply a sign that the person believes it."
+        },
+        {
+          "id": "s5",
+          "speaker": "Professor Reid",
+          "text": "I'm not suggesting that memory is useless. For the broad outline of our lives, it serves us remarkably well. It's the details, the colour of a car, the exact words of a threat, whether a man had a beard, that are fragile. Unfortunately, those are exactly the details that courts want."
+        },
+        {
+          "id": "s6",
+          "speaker": "Professor Reid",
+          "text": "So over the next hour, I'd like us to ask two questions. First, how do memories get distorted? And second, what can the legal system do about it?"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Student discussion",
+      "intro": "You will hear a student, Tuan, asking Professor Reid questions during the seminar.",
+      "speakers": {
+        "Professor Reid": "female",
+        "Tuan": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Tuan",
+          "text": "Professor, you said details are fragile. But surely something dramatic, like a robbery, would be burned into someone's memory?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Professor Reid",
+          "text": "That's a very common assumption, Tuan, and the research doesn't support it. Strong emotion can make the central event feel vivid, but it often narrows attention. Witnesses to armed robberies frequently remember the weapon in great detail and can say very little about the face behind it."
+        },
+        {
+          "id": "s9",
+          "speaker": "Tuan",
+          "text": "Because they were looking at the weapon."
+        },
+        {
+          "id": "s10",
+          "speaker": "Professor Reid",
+          "text": "Exactly. Researchers call it weapon focus. And then there's the matter of what happens after the event. In a classic study, people watched a film of a car accident. Some were asked how fast the cars were going when they hit each other. Others were asked the same thing, but with the word smashed instead of hit."
+        },
+        {
+          "id": "s11",
+          "speaker": "Tuan",
+          "text": "And the second group guessed higher speeds?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Professor Reid",
+          "text": "They did. And a week later, those who'd heard the stronger word were more likely to say they had seen broken glass. There was no glass in the film. A single word in a question had planted a false detail."
+        },
+        {
+          "id": "s13",
+          "speaker": "Tuan",
+          "text": "That's rather alarming. Does that mean police questions could contaminate evidence without anyone intending it?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Professor Reid",
+          "text": "Very much so. Not through bad faith, but through ordinary wording. Which is why modern guidelines tell interviewers to begin with open questions, such as tell me everything you remember, rather than leading ones."
+        },
+        {
+          "id": "s15",
+          "speaker": "Tuan",
+          "text": "I hadn't thought that the way a question is asked could be evidence in itself."
+        },
+        {
+          "id": "s16",
+          "speaker": "Professor Reid",
+          "text": "In a courtroom, it increasingly is. Judges now sometimes ask to see recordings of how a witness was first questioned."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Planning an essay",
+      "intro": "You will hear two students, Linh and Ben, discussing an essay about eyewitness evidence.",
+      "speakers": {
+        "Linh": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Ben",
+          "text": "Linh, did you manage to read the paper on identification parades? I can't decide how to structure my essay."
+        },
+        {
+          "id": "s18",
+          "speaker": "Linh",
+          "text": "I did. It was longer than I expected. I thought the most interesting section was the one about line-ups. Apparently, when the real culprit isn't in the line-up, witnesses often pick the person who looks most like him, instead of saying that nobody matches."
+        },
+        {
+          "id": "s19",
+          "speaker": "Ben",
+          "text": "That's exactly the problem with relative judgement. They compare faces with each other, not with their memory."
+        },
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "Right. And the fix seems so simple. Tell witnesses beforehand that the person may not be there. Error rates fall quite sharply."
+        },
+        {
+          "id": "s21",
+          "speaker": "Ben",
+          "text": "Then why isn't it used everywhere?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Linh",
+          "text": "Partly inertia, I think, and partly because some officers believe it makes witnesses too cautious. They worry that genuine culprits will walk free."
+        },
+        {
+          "id": "s23",
+          "speaker": "Ben",
+          "text": "Hmm. That's a fair worry, but the cost of the other mistake is higher, isn't it? An innocent person convicted."
+        },
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "I'd say so. In fact, the paper points out that in a large number of wrongful convictions overturned later by new tests, mistaken identification played a part."
+        },
+        {
+          "id": "s25",
+          "speaker": "Ben",
+          "text": "Then my argument might be that the system treats confident witnesses as reliable when it should treat them as just one source of evidence."
+        },
+        {
+          "id": "s26",
+          "speaker": "Linh",
+          "text": "That's a good thesis. I'd mention one counterpoint, though. Some researchers argue that an identification made quickly, at the first attempt, with high confidence, can be quite accurate. So confidence isn't always worthless."
+        },
+        {
+          "id": "s27",
+          "speaker": "Ben",
+          "text": "Ah, that's helpful. So the point is when the confidence is recorded, not just that it exists."
+        },
+        {
+          "id": "s28",
+          "speaker": "Linh",
+          "text": "Exactly. Write that down before you forget it. Memory, remember, is fragile."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A talk on interviewing",
+      "intro": "You will hear a retired police trainer, Mr Walsh, describing a method for interviewing witnesses.",
+      "speakers": {
+        "Mr Walsh": "male"
+      },
+      "script": [
+        {
+          "id": "s29",
+          "speaker": "Mr Walsh",
+          "text": "When I started training officers, we were taught to take control of an interview. Ask short questions, get short answers, move on. We thought we were being efficient. In truth, we were interrupting people at the exact moment memories were returning."
+        },
+        {
+          "id": "s30",
+          "speaker": "Mr Walsh",
+          "text": "The method that replaced it is called the cognitive interview, and it rests on a few simple ideas. First, build rapport. A frightened witness who feels judged will say less. Second, ask the witness to put themselves back in the scene: where they stood, what they could hear, how they felt."
+        },
+        {
+          "id": "s31",
+          "speaker": "Mr Walsh",
+          "text": "Third, and this surprises people, ask them to recount events in a different order, perhaps even backwards. It sounds strange, but it breaks the habit of telling the story the way they've already told it to themselves, and often new details emerge."
+        },
+        {
+          "id": "s32",
+          "speaker": "Mr Walsh",
+          "text": "Fourth, tell them that you'd rather have I don't know than a guess. Witnesses want to be helpful, and the temptation is to fill the gap. Giving explicit permission to leave the gap empty improves the accuracy of what they do say."
+        },
+        {
+          "id": "s33",
+          "speaker": "Mr Walsh",
+          "text": "There are drawbacks. The method takes longer, and it demands more training. Some colleagues argued it was a luxury. My answer was always to ask how much a wrong arrest costs: the suspect's life, the victim's chance of justice, and the resources spent chasing the wrong person."
+        },
+        {
+          "id": "s34",
+          "speaker": "Mr Walsh",
+          "text": "I don't claim any technique makes memory perfect. Nothing does. But I've seen interviews where a witness, given time and respect, recalled a number plate they had not known they'd seen. It reminded me that the problem isn't that memory is poor. It's that we have often been poor at asking for it."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is Professor Reid's main point about how memory works?",
+      "options": [
+        "It is only reliable for recent events.",
+        "It rebuilds events from fragments each time.",
+        "It works like a video recording."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says memory is like a storyteller that rebuilds a scene from fragments.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "You rebuild the scene from fragments"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does she imply about a memory that has been recalled many times?",
+      "options": [
+        "It may have changed though it feels certain.",
+        "It is probably extremely accurate and detailed.",
+        "It is much easier to forget than other memories.",
+        "It is always more detailed than a new memory."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Rehearsed memories feel vivid but may have drifted further from the original.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "it may have drifted further from the original than a memory you've hardly touched"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does she say about the link between confidence and accuracy?",
+      "options": [
+        "They are exact opposites of each other.",
+        "They are only weakly connected.",
+        "They are very strongly connected."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says confidence and accuracy are only weakly connected.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Confidence and accuracy are only weakly connected."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Professor Reid feel about the usefulness of memory?",
+      "options": [
+        "It is useless in all circumstances.",
+        "It is better than most people think in every detail.",
+        "It is generally good for the broad outline of life."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says memory serves us remarkably well for broad outlines; details are fragile.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "For the broad outline of our lives, it serves us remarkably well."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does she mention the colour of a car and a man's beard?",
+      "options": [
+        "To give examples of fragile details courts need",
+        "To criticise officers for noting the wrong details",
+        "To show what details witnesses usually remember best"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They are examples of fragile details that courts want.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "those are exactly the details that courts want"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "According to Professor Reid, what happens in witnesses to armed robberies?",
+      "options": [
+        "They remember the whole event very clearly.",
+        "They always forget the whole event soon after.",
+        "They focus on the weapon, not the face."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She describes weapon focus: attention narrows to the weapon.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "remember the weapon in great detail and can say very little about the face"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What was different about the two groups in the car accident study?",
+      "options": [
+        "The number of cars in the film",
+        "The time of day it was shown",
+        "The film that each group watched",
+        "The verb used in the question"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "One group heard hit and the other heard smashed.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "with the word smashed instead of hit"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What did the broken glass result show?",
+      "options": [
+        "Films are an unreliable form of evidence.",
+        "People often lie about car accidents they saw.",
+        "A single word can create a false memory."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "There was no glass in the film, yet the stronger word led people to report it.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "A single word in a question had planted a false detail."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Tuan react to learning about question wording?",
+      "options": [
+        "He does not believe it could matter.",
+        "He is surprised and a little alarmed.",
+        "He is bored and wants to change topic."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says it is rather alarming and he had not thought of it before.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "That's rather alarming."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Professor Reid mention recordings of first questioning?",
+      "options": [
+        "To show courts now treat questioning as evidence",
+        "To suggest that police are being dishonest",
+        "To argue that recordings are unreliable evidence"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says that the way a question is asked can itself be evidence, so judges ask to see recordings.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Judges now sometimes ask to see recordings of how a witness was first questioned."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What do witnesses often do when the culprit is not in the line-up?",
+      "options": [
+        "They refuse to take part in any line-up.",
+        "They pick a person at random from the row.",
+        "They pick whoever looks most like him.",
+        "They say that nobody there looks familiar."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They often select the closest match rather than saying nobody matches.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "witnesses often pick the person who looks most like him"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why do some officers resist the fix Linh describes?",
+      "options": [
+        "It confuses witnesses who are nervous.",
+        "They fear genuine culprits will escape.",
+        "It costs too much money to introduce."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They worry that witnesses become too cautious and culprits walk free.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "worry that genuine culprits will walk free"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is Ben's view of the cost of mistaken identification?",
+      "options": [
+        "It outweighs the cost of letting a culprit go.",
+        "It does not seriously affect anyone involved.",
+        "It is less important than saving time and money."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says convicting an innocent person is a higher cost.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "the cost of the other mistake is higher"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What counterpoint does Linh suggest including?",
+      "options": [
+        "Line-ups should be abolished in all police stations.",
+        "Quick, confident identifications can be quite accurate.",
+        "Confident witnesses are nearly always wrong, however quick."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says a fast, confident first identification can be fairly accurate.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "an identification made quickly, at the first attempt, with high confidence, can be quite accurate"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What conclusion does Ben reach about confidence?",
+      "options": [
+        "The timing of recording confidence matters.",
+        "Confidence should always be ignored by courts.",
+        "Confidence is the best evidence available."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the point is when confidence is recorded, not just that it exists.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "the point is when the confidence is recorded"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Mr Walsh now view his early training?",
+      "options": [
+        "He thinks it was inefficient as it interrupted memory.",
+        "He is still proud of how efficient it was in practice.",
+        "He thinks it was too gentle on frightened witnesses."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says they were interrupting people just as memories returned.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "we were interrupting people at the exact moment memories were returning"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why does the method ask witnesses to recount events in a different order?",
+      "options": [
+        "It helps officers test whether witnesses are lying.",
+        "It breaks the habit of the rehearsed story.",
+        "It makes the interviews much shorter overall."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It disrupts the way they have told the story to themselves, so new details appear.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "it breaks the habit of telling the story the way they've already told it to themselves"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does Mr Walsh tell witnesses he would rather hear I don't know?",
+      "options": [
+        "Guessing can make their accounts less accurate.",
+        "He wants shorter statements to save paperwork.",
+        "He is always short of time in interviews.",
+        "He does not really trust what witnesses say."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Witnesses fill gaps with guesses; permission to leave gaps improves accuracy.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "Giving explicit permission to leave the gap empty improves the accuracy of what they do say."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Mr Walsh talk about the cost of a wrong arrest?",
+      "options": [
+        "To complain that police budgets are too small",
+        "To suggest that wrong arrests are very rare",
+        "To answer colleagues who called it a luxury"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He uses the cost of wrong arrests to answer the claim that the method was a luxury.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "My answer was always to ask how much a wrong arrest costs"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Mr Walsh's overall message at the end?",
+      "options": [
+        "Witnesses should not be used in courts at all.",
+        "Memory is not the problem; how we ask for it is.",
+        "Memory can be made perfect with enough training."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says the problem is that we have been poor at asking for memory.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "we have often been poor at asking for it"
+        }
+      ]
+    }
+  ]
+}

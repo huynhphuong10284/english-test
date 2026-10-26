@@ -1,0 +1,674 @@
+{
+  "id": "l-b2-should-homework-be-banned",
+  "title": "Should Homework Be Banned?",
+  "level": "B2 · Upper-intermediate",
+  "description": "Four recordings about homework: a radio discussion, two students talking, a parent-teacher meeting and a talk about research.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A radio discussion",
+      "intro": "You will hear a radio presenter, Karen, talking to a head teacher, Mr Davies, about homework.",
+      "speakers": {
+        "Karen": "female",
+        "Mr Davies": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Karen",
+          "text": "Today's debate: should homework be banned in primary and secondary schools? With me is Mr Davies, a head teacher whose school stopped setting homework two years ago. Mr Davies, that's a bold move."
+        },
+        {
+          "id": "s2",
+          "speaker": "Mr Davies",
+          "text": "It was, Karen, and we had plenty of worried parents at first. But we looked at the research, and it showed that for younger children, homework makes almost no difference to progress."
+        },
+        {
+          "id": "s3",
+          "speaker": "Karen",
+          "text": "Almost none? That surprises me."
+        },
+        {
+          "id": "s4",
+          "speaker": "Mr Davies",
+          "text": "It surprised us, too. What matters far more is the quality of lessons. Meanwhile, homework was causing arguments at home, and some children from busy or crowded households simply couldn't do it. That created an unfair gap."
+        },
+        {
+          "id": "s5",
+          "speaker": "Karen",
+          "text": "And have results suffered since you made the change?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Mr Davies",
+          "text": "Not at all. They've stayed level, and attendance has even improved slightly, which suggests the children are happier."
+        },
+        {
+          "id": "s7",
+          "speaker": "Karen",
+          "text": "But isn't homework a way of teaching responsibility?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Mr Davies",
+          "text": "In theory, yes. In practice, many parents ended up doing the work for their children, so what was being taught was something rather different."
+        },
+        {
+          "id": "s9",
+          "speaker": "Karen",
+          "text": "So what do the children do in the evenings now?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Mr Davies",
+          "text": "We encourage them to read for pleasure, play, help at home, and sleep. And I should be honest: we do keep a little homework for the oldest pupils, because exams are coming and they need to practise independently."
+        },
+        {
+          "id": "s11",
+          "speaker": "Karen",
+          "text": "So it isn't a complete ban."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Davies",
+          "text": "No, and I'd never claim it was. It's more a question of balance."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Two students",
+      "intro": "You will hear two students, Nam and Mai, talking about their homework.",
+      "speakers": {
+        "Nam": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Nam",
+          "text": "I can't believe how much homework we got today. Maths, a history essay, and a chemistry report, all due by Friday."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mai",
+          "text": "Welcome to my life. I did five hours last night. Five! I hardly ate dinner."
+        },
+        {
+          "id": "s15",
+          "speaker": "Nam",
+          "text": "Five hours? Surely it doesn't take you that long."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "It does when you're trying to do it properly. Honestly, I think some of it is pointless. Like when our English teacher asks us to copy out a whole page."
+        },
+        {
+          "id": "s17",
+          "speaker": "Nam",
+          "text": "I don't mind that one so much, but the maths is useful. If I didn't do the exercises at home, I'd never remember the formulas."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "That's a fair point. Practice is different from busywork. But my concern is that I've stopped playing the violin because I'm too tired."
+        },
+        {
+          "id": "s19",
+          "speaker": "Nam",
+          "text": "That's a shame. Could you talk to Mr Tran? He's quite reasonable."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "I might. Last term, he cut the homework for the whole class after we all complained, remember?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Nam",
+          "text": "True. Perhaps if we write a polite letter, rather than moaning, he'll listen."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mai",
+          "text": "Good idea. Shall we draft it this evening, or is that too much homework?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Nam",
+          "text": "Ha! Let's do it at lunch tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A parent and a teacher",
+      "intro": "You will hear a parent, Mrs Clarke, talking to her son's teacher, Mr Tran.",
+      "speakers": {
+        "Mr Tran": "male",
+        "Mrs Clarke": "female"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Mr Tran",
+          "text": "Thank you for coming in, Mrs Clarke. I wanted to talk about Oliver's homework."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mrs Clarke",
+          "text": "Yes, I wanted to raise that too. He's in tears at least twice a week, and I don't think it's because he's lazy."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mr Tran",
+          "text": "I don't think so either. He's one of the most capable students in the class. The problem is that he's very perfectionist. He'll spend an hour on a ten-minute task."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mrs Clarke",
+          "text": "That's exactly what I see. He rewrites whole paragraphs because one word looks wrong."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mr Tran",
+          "text": "In that case, I'd suggest a time limit. Tell him that after thirty minutes on any task, he stops, whatever the state of the work. I'll write a note in his diary so that I know it's deliberate and he doesn't lose marks."
+        },
+        {
+          "id": "s29",
+          "speaker": "Mrs Clarke",
+          "text": "That would be a relief. And what about the weekend project? It's due on the same day as his piano exam."
+        },
+        {
+          "id": "s30",
+          "speaker": "Mr Tran",
+          "text": "I hadn't realised. Let's move the project to the following Monday. I'd rather he did two things well than three badly."
+        },
+        {
+          "id": "s31",
+          "speaker": "Mrs Clarke",
+          "text": "Thank you, that's very kind. I was worried you'd say I was making excuses for him."
+        },
+        {
+          "id": "s32",
+          "speaker": "Mr Tran",
+          "text": "Not at all. Parents who tell me early make my job much easier. Please email me if anything else comes up."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A talk about research",
+      "intro": "You will hear Dr Reyes giving a talk about what research says on homework.",
+      "speakers": {
+        "Dr Reyes": "female"
+      },
+      "script": [
+        {
+          "id": "s33",
+          "speaker": "Dr Reyes",
+          "text": "Good evening. I'd like to summarise what research says about homework, because the public debate often runs ahead of the evidence."
+        },
+        {
+          "id": "s34",
+          "speaker": "Dr Reyes",
+          "text": "First, the age of the student matters enormously. In primary schools, studies find only a weak link between homework and achievement. In secondary schools, the link is stronger, particularly for moderate amounts, about one to two hours a night."
+        },
+        {
+          "id": "s35",
+          "speaker": "Dr Reyes",
+          "text": "Notice the word moderate. Beyond about two hours, extra homework no longer helps and may even harm results, because tired students learn less and become stressed."
+        },
+        {
+          "id": "s36",
+          "speaker": "Dr Reyes",
+          "text": "Second, type matters. Tasks that ask students to review something taught that day, or to practise a skill, tend to be effective. Tasks that are simply long, or that require expensive equipment, tend not to be."
+        },
+        {
+          "id": "s37",
+          "speaker": "Dr Reyes",
+          "text": "I should add that most of these studies are observational, which means they show a link, not a cause. Good teachers may both set better homework and produce better results, so we must be careful about drawing strong conclusions."
+        },
+        {
+          "id": "s38",
+          "speaker": "Dr Reyes",
+          "text": "Third, and this is often overlooked, we should ask who benefits. Students with a quiet room and supportive parents gain the most. Students without those advantages gain the least, so homework may widen inequality rather than reduce it."
+        },
+        {
+          "id": "s39",
+          "speaker": "Dr Reyes",
+          "text": "So should it be banned? My honest view is no, but it should be rethought. Shorter, purposeful tasks, offered with support at school, such as homework clubs, would probably give better results than either extreme."
+        },
+        {
+          "id": "s40",
+          "speaker": "Dr Reyes",
+          "text": "Thank you. I'm happy to take questions."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the discussion mainly about?",
+      "options": [
+        "Whether schools should stop setting homework",
+        "Why many teachers are leaving the profession",
+        "How homework should be marked fairly",
+        "How a new school should be designed"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The presenter opens by asking whether homework should be banned, and the head teacher explains his school's experience.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "should homework be banned"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did the research show about younger children?",
+      "options": [
+        "Homework made almost no difference to progress",
+        "They read less at home than older pupils",
+        "Homework helped them to progress enormously",
+        "They preferred a longer school day to homework"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Davies says homework makes almost no difference to progress for younger children.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "homework makes almost no difference to progress"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why did homework create an unfair gap?",
+      "options": [
+        "Parents complained to the school about the amount",
+        "Teachers marked some children more strictly than others",
+        "Some children simply refused to do it at all",
+        "Children in crowded homes could not do it"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Some children from busy or crowded households simply could not do it.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "some children from busy or crowded households simply couldn't do it"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does Mr Davies say about homework teaching responsibility?",
+      "options": [
+        "It works very well, especially for older pupils",
+        "Children ask for more of it at home",
+        "In practice, parents often did the work instead",
+        "There is no theory to support the idea"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says that in practice many parents did the work for their children.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "many parents ended up doing the work for their children"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does the school still set some homework for the oldest pupils?",
+      "options": [
+        "It is cheaper for the school than extra lessons",
+        "They must practise independently before exams",
+        "Teachers have no time in lessons to cover it",
+        "Parents demand it for their older children"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says the oldest pupils have exams coming and need to practise independently.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "they need to practise independently"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long did Mai spend on homework last night?",
+      "options": [
+        "Three hours",
+        "Two hours",
+        "Five hours",
+        "Until Friday"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she did five hours last night. Friday is the deadline.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "I did five hours last night."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Nam think about the maths homework?",
+      "options": [
+        "It is pointless, like copying out a page",
+        "It takes five hours to do properly",
+        "It should be shorter than the history essay",
+        "It helps him remember the formulas"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says the maths is useful because he would never remember the formulas otherwise.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "the maths is useful"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why has Mai stopped playing the violin?",
+      "options": [
+        "She is too tired from homework",
+        "She has lost interest in music lessons",
+        "Her violin is broken and needs repair",
+        "Her parents told her to study instead"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she has stopped because she is too tired.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I've stopped playing the violin because I'm too tired"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What did Mr Tran do last term?",
+      "options": [
+        "Wrote a letter to the parents about it",
+        "Gave the class extra homework after the test",
+        "Reduced the homework after the class complained",
+        "Cancelled the exams for the whole class"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says he cut the homework for the whole class after they complained.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "he cut the homework for the whole class"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "What do Nam and Mai decide to do?",
+      "options": [
+        "Complain loudly to him in class",
+        "Write a polite letter to the teacher",
+        "Skip the homework due on Friday",
+        "Ask their parents to call the school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam suggests a polite letter instead of moaning, and they agree to draft it at lunch.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "if we write a polite letter"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Mrs Clarke want to talk to Mr Tran?",
+      "options": [
+        "Her son is upset about his homework",
+        "Her son has failed an important exam",
+        "Her son is lazy and avoids work",
+        "Her son wants to change schools soon"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says Oliver is in tears at least twice a week over homework.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "He's in tears at least twice a week"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What is the cause of Oliver's difficulty?",
+      "options": [
+        "He has too many activities after school",
+        "He wants everything to be perfect",
+        "He finds the work far too hard",
+        "He is lazy and distracted in class"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Tran says he is very perfectionist and spends an hour on a ten-minute task.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "he's very perfectionist"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Mr Tran suggest?",
+      "options": [
+        "A time limit of thirty minutes",
+        "Staying after school to finish tasks",
+        "A private tutor to help at home",
+        "An hour for each task he finds hard"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He suggests Oliver stops after thirty minutes on any task.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "after thirty minutes on any task, he stops"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will happen to the weekend project?",
+      "options": [
+        "It will be cancelled this term",
+        "It will be marked early, before the exam",
+        "It will be done in class instead",
+        "It will move to the following Monday"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The project is moved because it clashes with the piano exam.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "move the project to the following Monday"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Mr Tran feel about Mrs Clarke raising the problem?",
+      "options": [
+        "He thinks she is making excuses",
+        "He is surprised she did not call",
+        "He is irritated at the extra work",
+        "He is glad she told him early"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says parents who tell him early make his job much easier.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "Parents who tell me early make my job much easier."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What do studies find about homework in primary schools?",
+      "options": [
+        "A very strong link with achievement",
+        "It improves behaviour in lessons",
+        "Only a weak link with achievement",
+        "It harms results in the long term"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says studies find only a weak link between homework and achievement.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "only a weak link between homework and achievement"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "After how much time does extra homework stop helping?",
+      "options": [
+        "About four hours",
+        "About thirty minutes",
+        "About one hour",
+        "About two hours"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says beyond about two hours it no longer helps.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "Beyond about two hours"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Which kind of homework tends to be effective?",
+      "options": [
+        "Tasks that need expensive equipment at home",
+        "Long projects that take several evenings",
+        "Tasks reviewing the day's lesson or a skill",
+        "Group presentations given to the whole class"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tasks that review something taught that day or practise a skill tend to be effective.",
+      "evidence": [
+        {
+          "lineId": "s36",
+          "quote": "review something taught that day"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why may homework widen inequality?",
+      "options": [
+        "Exams are harder for students from poorer homes",
+        "Teachers favour students who do more homework",
+        "Students without quiet rooms or support gain least",
+        "Richer students can pay for private tutors"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Students without those advantages gain the least, so the gap may grow.",
+      "evidence": [
+        {
+          "lineId": "s38",
+          "quote": "Students without those advantages gain the least"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is the speaker's view on banning homework?",
+      "options": [
+        "It should be increased for every age group",
+        "It should be rethought rather than banned",
+        "It should stay exactly as it is now",
+        "It should be banned in every school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says her honest view is no, but it should be rethought.",
+      "evidence": [
+        {
+          "lineId": "s39",
+          "quote": "My honest view is no, but it should be rethought."
+        }
+      ]
+    }
+  ]
+}

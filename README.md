@@ -2,16 +2,17 @@
 
 This repo is for a small app which I develop for my kids' English practice.
 
-A desktop app built with [Electron](https://www.electronjs.org) for practising English **reading** and **writing**, with 15 exams per skill for each CEFR level from A1 to C2. Every exam has **20 questions** (reading) or **20 exercises** (writing).
+A desktop app built with [Electron](https://www.electronjs.org) for practising English **reading**, **writing** and **listening**, with 15 exams per skill for each CEFR level from A1 to C2. Every exam has **20 questions** (reading, listening) or **20 exercises** (writing).
 
-There is also a **Young Learners** group for children aged about 7–12, in the style of the Starters, Movers and Flyers exams: 15 reading and 15 writing exams per level, with short texts, pictures (emoji), larger text and shorter exams (Starters 10, Movers 15, Flyers 20 items). These are original practice exams, not official Cambridge material.
+There is also a **Young Learners** group for children aged about 7–12, in the style of the Starters, Movers and Flyers exams: 15 reading, 15 writing and 15 listening exams per level, with short texts, pictures (emoji), larger text and shorter exams (Starters 10, Movers 15, Flyers 20 items). These are original practice exams, not official Cambridge material.
 
 ## Features
 
-1. **Exam list** (left sidebar): choose **Reading** or **Writing**, pick a level from the **Level** dropdown (General English A1 – C2, or Young Learners Starters, Movers, Flyers), then choose an exam. Your choices are remembered.
+1. **Exam list** (left sidebar): choose **Reading**, **Writing** or **Listening**, pick a level from the **Level** dropdown (General English A1 – C2, or Young Learners Starters, Movers, Flyers), then choose an exam. Your choices are remembered.
 2. **English Test tab**:
    - *Reading*: the passage, with numbered paragraphs, and 20 multiple-choice questions. On wide windows the passage stays visible next to the questions.
    - *Writing*: **Part 1** has 20 auto-marked exercises (multiple choice, gap fill, word order, error correction, sentence transformation). **Part 2** is a writing task (email, story, essay, report...) with the points to include, useful language and a live word counter.
+   - *Listening*: 3–4 parts (dialogues, messages, talks, interviews), each with an audio player and its questions. The audio is spoken by the Windows English voices (a male and a female voice, so dialogues have two speakers), slower at lower levels. Each part can be played **twice** in General English tests (pause is allowed) and as often as you like in Young Learners tests. After submitting, **Show full answers** shows the transcript of each part with the answers highlighted, and you can listen again freely.
    - The numbered buttons in the bottom bar show which questions you have answered; click one to jump to it.
 3. **Test Result tab**: a dashboard that opens after you submit. It shows:
    - the number of paragraphs, questions, answers given, valid (correct) answers, invalid (wrong) answers and unanswered questions
@@ -65,6 +66,7 @@ english-reading-test/
 ├── data/
 │   ├── reading/             # one JSON file per reading exam (a1-*.json … c2-*.json)
 │   ├── writing/             # one JSON file per writing exam
+│   ├── listening/           # one JSON file per listening exam (scripts are spoken by Windows voices)
 │   └── dictionary/          # wordnet.json (generated), supplement.json (learner notes), vi.json (Vietnamese meanings)
 
 ├── scripts/validate-exams.js
@@ -75,6 +77,8 @@ english-reading-test/
     │   ├── results-store.js # saves every attempt to results.json
     │   ├── grader.js        # reading: scoring, dashboard stats, advice
     │   ├── writing-grader.js# writing: exercise marking, text checks, self-check score
+    │   ├── listening-grader.js # listening: scoring via the reading grader, listening advice
+    │   ├── speech.js        # listening audio: Windows voices (PowerShell, System.Speech) → cached WAV
     │   ├── text-utils.js    # answer comparison, word count, linking words
     │   ├── dictionary.js    # dictionary lookup (word forms, contractions, fallbacks)
     │   └── exam-updater.js  # Update button: downloads new exams from GitHub
@@ -86,6 +90,7 @@ english-reading-test/
         ├── assets/donate-qr.png # QR code shown by the Donate button
         ├── dictionary.js    # dictionary popup (double-click / right-click a word)
         ├── writing.js       # writing view (exercises, task, self-check)
+        ├── listening.js     # listening view (audio players with play limit, transcript review)
         └── renderer.js      # shared UI + reading view
 ```
 
@@ -100,6 +105,7 @@ dictionary.js ──window.examApi.lookupWord(word)──▶ 'dict:lookup'
 renderer.js ──window.examApi.updateExams()──▶ 'exams:update'  (download from GitHub, reload exams)
 renderer.js ──window.examApi.markExamSeen(id)──▶ 'exams:seen'  (remove the NEW label)
 writing.js  ──window.examApi.assessWriting(id, attemptId, rating)──▶ 'results:assess' (save self-check, re-score)
+listening.js ──window.examApi.getListeningAudio(id, partId)──▶ 'listening:audio' (WAV bytes made from the script)
 ```
 
 The answer key (and, for writing, the model answer) stays in the main process and is only sent after you submit, so it can't be seen in DevTools during the test.
@@ -183,15 +189,30 @@ Create `data/writing/<level>-<name>.json`. The `id` must start with `w-`. [data/
 `.
 - Run `npm run validate` to check all of these.
 
+## Adding a listening exam
+
+Create `data/listening/<level>-<name>.json`. The `id` must start with `l-` (use `l-<level>-<name>`). [data/listening/a1-a-busy-saturday.json](data/listening/a1-a-busy-saturday.json) is a complete example:
+
+- `parts`: each has an `id`, a `title`, an `intro` (shown before playing), `speakers` and a `script`.
+  - `speakers` maps each name to a voice, `"male"` or `"female"`. There is one voice of each, so a part can have **at most one male and one female speaker**.
+  - `script`: lines `{ "id": "s1", "speaker": "Tom", "text": "..." }`. Line ids are unique in the whole exam.
+  - The text is read aloud, so write numbers, prices and times in words ("half past eight", "five pounds"), and use no emoji or symbols.
+- `questions`: like reading questions, plus `partId`. List them part by part. `type` is one of `main-idea`, `detail`, `inference`, `attitude` (the speaker's opinion), `purpose`. Every question needs `evidence`: `{ "lineId": "s2", "quote": "..." }`, where the quote appears exactly in that line of the same part.
+- The speaking speed comes from the level: slow for Starters and A1, natural speed for B2–C2.
+- The audio is made the first time a part is played and cached in `%APPDATA%\English Reading Test\audio-cache\`.
+- Run `npm run validate` to check the exam.
+
+**Windows voices:** the app needs an English voice. English Windows has them already (Microsoft David and Zira). On Windows in another display language, add one in **Settings › Time & language › Speech › Add voices › English (United States)**. If no English voice is found, the player shows these instructions.
+
 ## Publishing new exams
 
-Installed apps (version 1.7.0 or later) get new exams with the **Update exams** button, without a new installer:
+Installed apps (version 1.7.0 or later; 1.8.0 or later for listening exams) get new exams with the **Update exams** button, without a new installer:
 
-1. Add or edit exam files in `data/reading/` or `data/writing/` (and Vietnamese meanings in `data/dictionary/vi.json`).
+1. Add or edit exam files in `data/reading/`, `data/writing/` or `data/listening/` (and Vietnamese meanings in `data/dictionary/vi.json`).
 2. Run `npm run validate` and fix any errors.
 3. Commit and push to the `main` branch of the repository named in `package.json` → `examUpdates`.
 
-When a user clicks **Update exams**, the app asks GitHub for the list of files in `data/reading`, `data/writing` and the dictionary's `vi.json` and `supplement.json`, and downloads only the files that differ from its own copy. Every exam is checked with the same rules as `npm run validate`; a file that fails is skipped. Downloads are saved in `%APPDATA%\English Reading Test\updates\`, because the installed app's own files are read-only, and are removed when a new version of the app is installed (its exams already include them).
+When a user clicks **Update exams**, the app asks GitHub for the list of files in `data/reading`, `data/writing`, `data/listening` and the dictionary's `vi.json` and `supplement.json`, and downloads only the files that differ from its own copy. Every exam is checked with the same rules as `npm run validate`; a file that fails is skipped. Downloads are saved in `%APPDATA%\English Reading Test\updates\`, because the installed app's own files are read-only, and are removed when a new version of the app is installed (its exams already include them).
 
 Notes:
 - The repository must be public, and the user needs an internet connection. GitHub allows about 30 update checks per hour from one network.

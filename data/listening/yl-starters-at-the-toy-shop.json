@@ -1,0 +1,343 @@
+{
+  "id": "l-yl-s-at-the-toy-shop",
+  "title": "At the Toy Shop",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about toys and a toy shop.",
+  "instructions": "Read the questions first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Buying a toy",
+      "intro": "You will hear Nam and a shop lady.",
+      "speakers": {
+        "Nam": "male",
+        "Lady": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Lady",
+          "text": "Hello! Can I help you?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "Yes, please. I want a toy car."
+        },
+        {
+          "id": "s3",
+          "speaker": "Lady",
+          "text": "Do you want a red car or a green car?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "A green car, please."
+        },
+        {
+          "id": "s5",
+          "speaker": "Lady",
+          "text": "Here you are. It is five pounds."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "Thank you. It is a present for my brother."
+        },
+        {
+          "id": "s7",
+          "speaker": "Nam",
+          "text": "The shop is very nice. There are so many toys."
+        },
+        {
+          "id": "s8",
+          "speaker": "Lady",
+          "text": "Thank you. Come again soon!"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Looking at toys",
+      "intro": "You will hear a girl called Anna in the toy shop.",
+      "speakers": {
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Anna",
+          "text": "Look at the toys! I can see a big bear on the shelf."
+        },
+        {
+          "id": "s10",
+          "speaker": "Anna",
+          "text": "There are two dolls and one robot. I like the robot."
+        },
+        {
+          "id": "s11",
+          "speaker": "Anna",
+          "text": "The kite is blue and yellow. I do not like the drum."
+        },
+        {
+          "id": "s12",
+          "speaker": "Anna",
+          "text": "I want to buy something for my mum, but I have no money today."
+        },
+        {
+          "id": "s13",
+          "speaker": "Anna",
+          "text": "Maybe I can come again on Saturday."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A birthday",
+      "intro": "You will hear Nam and Anna on the way home.",
+      "speakers": {
+        "Nam": "male",
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s14",
+          "speaker": "Anna",
+          "text": "Is it your brother's birthday today?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Nam",
+          "text": "No, it is on Sunday."
+        },
+        {
+          "id": "s16",
+          "speaker": "Anna",
+          "text": "How old is he?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Nam",
+          "text": "He is six."
+        },
+        {
+          "id": "s18",
+          "speaker": "Anna",
+          "text": "He will love the car!"
+        },
+        {
+          "id": "s19",
+          "speaker": "Nam",
+          "text": "We can walk home together."
+        },
+        {
+          "id": "s20",
+          "speaker": "Anna",
+          "text": "Yes, let us go. The bus is very slow."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Nam want?",
+      "options": [
+        "A robot",
+        "A doll",
+        "A toy car"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam says, \"I want a toy car.\"",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I want a toy car."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What colour is the car?",
+      "options": [
+        "Red",
+        "Green",
+        "Blue"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam chooses a green car.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "A green car, please."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much is the car?",
+      "options": [
+        "Six pounds",
+        "Five pounds",
+        "Ten pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The lady says it is five pounds.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "It is five pounds."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "Who is the toy for?",
+      "options": [
+        "His mother",
+        "His brother",
+        "His friend"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam says it is a present for his brother.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "a present for my brother"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where is the big bear?",
+      "options": [
+        "On the floor",
+        "On the shelf",
+        "In the box"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Anna sees a big bear on the shelf.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "a big bear on the shelf"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "Which toy does Anna like?",
+      "options": [
+        "The robot",
+        "The doll",
+        "The drum"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Anna likes the robot, but not the drum.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "I like the robot."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What colours is the kite?",
+      "options": [
+        "Red and green",
+        "Black and white",
+        "Blue and yellow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The kite is blue and yellow.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "blue and yellow"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When is the birthday?",
+      "options": [
+        "On Sunday",
+        "Today",
+        "Tomorrow"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam says it is on Sunday, not today.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "it is on Sunday"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How old is Nam's brother?",
+      "options": [
+        "Five",
+        "Seven",
+        "Six"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam says he is six.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "He is six."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "Will the brother like the car?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Anna says he will love the car.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "He will love the car!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "id": "l-a2-buying-a-new-phone",
+  "title": "Buying a New Phone",
+  "level": "A2 · Elementary",
+  "description": "Four short recordings about phones: in a shop, a call to customer service, two friends talking and a shop announcement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · In the shop",
+      "intro": "You will hear Mai talking to a shop assistant, Jack, about a new phone.",
+      "speakers": {
+        "Jack": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Jack",
+          "text": "Good afternoon. Can I help you?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Mai",
+          "text": "Yes, please. I need a new phone. My old one is three years old and the battery only lasts half a day."
+        },
+        {
+          "id": "s3",
+          "speaker": "Jack",
+          "text": "I see. What do you use your phone for?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Mai",
+          "text": "Mostly photos and music. I don't play many games."
+        },
+        {
+          "id": "s5",
+          "speaker": "Jack",
+          "text": "Then this one is good. It has a very good camera and it's light. It's two hundred and fifty pounds."
+        },
+        {
+          "id": "s6",
+          "speaker": "Mai",
+          "text": "Hmm, that's a bit expensive. I have about two hundred pounds. Do you have anything cheaper?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Jack",
+          "text": "This blue one is one hundred and ninety-nine pounds. The camera is not as good, but the battery lasts two days."
+        },
+        {
+          "id": "s8",
+          "speaker": "Mai",
+          "text": "Two days is great! Can I see it in black, though? I don't really like blue."
+        },
+        {
+          "id": "s9",
+          "speaker": "Jack",
+          "text": "Sorry, we only have blue and white in the shop. We can order black, but it takes a week."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mai",
+          "text": "Oh, then I'll take the white one. Do I get a case?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Jack",
+          "text": "Yes, a free case comes with it. And you can pay today and take it home right now."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A phone call",
+      "intro": "You will hear Linh calling customer service about her new phone.",
+      "speakers": {
+        "Paul": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s12",
+          "speaker": "Paul",
+          "text": "Hello, Techworld customer service, Paul speaking."
+        },
+        {
+          "id": "s13",
+          "speaker": "Linh",
+          "text": "Hi, Paul. I bought a phone from your shop last Saturday, and there's a problem with it."
+        },
+        {
+          "id": "s14",
+          "speaker": "Paul",
+          "text": "I'm sorry to hear that. What's wrong?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "The screen goes black when I make a call. I can't hear the other person."
+        },
+        {
+          "id": "s16",
+          "speaker": "Paul",
+          "text": "Hmm. Have you tried turning it off and on again?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "Yes, twice. And I updated it too, but nothing changed."
+        },
+        {
+          "id": "s18",
+          "speaker": "Paul",
+          "text": "OK. Then you should bring it back to the shop. We can look at it, and you can have a new one if we can't fix it."
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "Can I come tomorrow? I work until five o'clock."
+        },
+        {
+          "id": "s20",
+          "speaker": "Paul",
+          "text": "The shop closes at six, so that's fine. Please bring your receipt and the box."
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "I don't have the box. I threw it away. Is that a problem?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Paul",
+          "text": "No, no, the receipt is the important thing. Ask for Mr Brown at the desk."
+        },
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "Great. Thank you very much for your help."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Two friends",
+      "intro": "You will hear Nam asking his friend Emma for advice about buying a phone.",
+      "speakers": {
+        "Nam": "male",
+        "Emma": "female"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Nam",
+          "text": "Emma, can I ask your opinion? I want to buy a new phone, but I can't decide."
+        },
+        {
+          "id": "s25",
+          "speaker": "Emma",
+          "text": "Sure. What are you thinking about?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Nam",
+          "text": "Well, my cousin has a big phone with a huge screen. It's great for films, but it doesn't fit in my pocket."
+        },
+        {
+          "id": "s27",
+          "speaker": "Emma",
+          "text": "Yes, mine is quite big too. I sometimes drop it. I prefer a smaller one now."
+        },
+        {
+          "id": "s28",
+          "speaker": "Nam",
+          "text": "That's true. Also, I read that a cheaper model is nearly the same as the expensive one."
+        },
+        {
+          "id": "s29",
+          "speaker": "Emma",
+          "text": "Really? Which one?"
+        },
+        {
+          "id": "s30",
+          "speaker": "Nam",
+          "text": "The green one at the shop near the station. It costs half the price of the famous one."
+        },
+        {
+          "id": "s31",
+          "speaker": "Emma",
+          "text": "Well, I'd check the reviews first. And ask about the guarantee. Mine has a two-year guarantee, and that's useful."
+        },
+        {
+          "id": "s32",
+          "speaker": "Nam",
+          "text": "Good idea. Honestly, I don't care about colour. I only want a phone that doesn't break."
+        },
+        {
+          "id": "s33",
+          "speaker": "Emma",
+          "text": "Then maybe buy a strong case too. I always do."
+        },
+        {
+          "id": "s34",
+          "speaker": "Nam",
+          "text": "OK. I'll go on Saturday. Do you want to come with me?"
+        },
+        {
+          "id": "s35",
+          "speaker": "Emma",
+          "text": "I'd love to, but I'm visiting my grandma. Why don't you send me photos?"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A shop announcement",
+      "intro": "You will hear an announcement in a phone shop.",
+      "speakers": {
+        "Sarah": "female"
+      },
+      "script": [
+        {
+          "id": "s36",
+          "speaker": "Sarah",
+          "text": "Welcome to Techworld. Here is an important announcement for all our customers."
+        },
+        {
+          "id": "s37",
+          "speaker": "Sarah",
+          "text": "This weekend, we have a special sale on phones, headphones and speakers. All phones will be twenty per cent cheaper, and headphones are only ten pounds."
+        },
+        {
+          "id": "s38",
+          "speaker": "Sarah",
+          "text": "The sale starts on Friday at nine o'clock and finishes on Sunday evening. On Sunday, the shop will close early, at five o'clock, not at eight."
+        },
+        {
+          "id": "s39",
+          "speaker": "Sarah",
+          "text": "If you buy a phone this weekend, you can get a free screen protector. Please ask at the front desk."
+        },
+        {
+          "id": "s40",
+          "speaker": "Sarah",
+          "text": "Our repair centre has moved to the second floor, next to the café. It is now open every day, even on Sundays."
+        },
+        {
+          "id": "s41",
+          "speaker": "Sarah",
+          "text": "Finally, a small boy is waiting at the information desk. He is about six years old, and he is wearing a red jumper. His name is Tim. Please come and find him, mum or dad."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why does Mai need a new phone?",
+      "options": [
+        "It is too heavy",
+        "The battery is bad",
+        "The screen is broken"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her old phone battery only lasts half a day.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "the battery only lasts half a day"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Mai mostly use her phone for?",
+      "options": [
+        "Calls and emails",
+        "Photos and music",
+        "Games and videos"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she uses it mostly for photos and music, and does not play many games.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Mostly photos and music."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why does Mai not buy the first phone?",
+      "options": [
+        "It costs too much",
+        "The battery is bad",
+        "It is too heavy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is two hundred and fifty pounds and she only has about two hundred.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "that's a bit expensive"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which colour does Mai buy?",
+      "options": [
+        "Blue",
+        "Black",
+        "White"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Black takes a week to order and she does not like blue, so she takes the white one.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "I'll take the white one."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What comes free with the phone?",
+      "options": [
+        "A charger",
+        "Headphones",
+        "A case"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Jack says a free case comes with it.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "a free case comes with it"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Linh call customer service?",
+      "options": [
+        "To report a problem with her phone",
+        "To change her phone number",
+        "To buy a new phone"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She bought a phone and there is a problem with it.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "there's a problem with it"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is wrong with the phone?",
+      "options": [
+        "The screen goes black during calls",
+        "The phone does not turn on",
+        "The camera does not work"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The screen goes black when she makes a call.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "The screen goes black when I make a call."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What has Linh already tried?",
+      "options": [
+        "Taking it to the shop",
+        "Asking a friend",
+        "Turning it off and on again"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says she tried turning it off and on twice.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "Yes, twice."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time does the shop close?",
+      "options": [
+        "At half past six",
+        "At six o'clock",
+        "At five o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The shop closes at six. Five o'clock is when Linh finishes work.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "The shop closes at six"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is the most important thing to bring?",
+      "options": [
+        "The receipt",
+        "The box",
+        "A new case"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Paul says the receipt is the important thing, not the box.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "the receipt is the important thing"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why does Nam not want his cousin's phone?",
+      "options": [
+        "The camera is bad",
+        "It is too expensive",
+        "It does not fit in his pocket"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The phone is great for films, but it does not fit in his pocket.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "it doesn't fit in my pocket"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What kind of phone does Emma prefer now?",
+      "options": [
+        "A green one",
+        "A smaller one",
+        "A bigger one"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Emma says she prefers a smaller phone now.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "I prefer a smaller one now."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Emma say Nam should do first?",
+      "options": [
+        "Read the reviews",
+        "Check the shop opening times",
+        "Choose a colour"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she would check the reviews first.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "I'd check the reviews first."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What matters most to Nam?",
+      "options": [
+        "A phone that does not break",
+        "A big screen",
+        "The colour"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam says he does not care about colour. He only wants a phone that does not break.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "I only want a phone that doesn't break."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why can Emma not go to the shop on Saturday?",
+      "options": [
+        "She is working",
+        "She is visiting her grandma",
+        "She does not like shopping"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Emma says she is visiting her grandma.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "I'm visiting my grandma."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is the announcement mostly about?",
+      "options": [
+        "A weekend sale",
+        "A repair course",
+        "A new café"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The speaker mainly talks about a special sale this weekend.",
+      "evidence": [
+        {
+          "lineId": "s37",
+          "quote": "we have a special sale on phones, headphones and speakers"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How much cheaper will phones be?",
+      "options": [
+        "Ten per cent",
+        "Half price",
+        "Twenty per cent"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "All phones will be twenty per cent cheaper. Headphones cost ten pounds.",
+      "evidence": [
+        {
+          "lineId": "s37",
+          "quote": "All phones will be twenty per cent cheaper"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When does the shop close on Sunday?",
+      "options": [
+        "At eight o'clock",
+        "At five o'clock",
+        "At nine o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "On Sunday the shop will close early, at five o'clock, not at eight.",
+      "evidence": [
+        {
+          "lineId": "s38",
+          "quote": "the shop will close early, at five o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where is the repair centre now?",
+      "options": [
+        "On the second floor",
+        "In the café",
+        "At the front desk"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The repair centre has moved to the second floor, next to the café.",
+      "evidence": [
+        {
+          "lineId": "s40",
+          "quote": "has moved to the second floor"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "What should the boy's parents do?",
+      "options": [
+        "Go to the information desk",
+        "Wait in the café",
+        "Phone the shop"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The boy is waiting at the information desk and his parents should come and find him.",
+      "evidence": [
+        {
+          "lineId": "s41",
+          "quote": "is waiting at the information desk"
+        }
+      ]
+    }
+  ]
+}

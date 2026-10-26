@@ -1,0 +1,644 @@
+{
+  "id": "l-c2-the-attention-economy",
+  "title": "The Attention Economy",
+  "level": "C2 · Proficiency",
+  "description": "A podcast episode about how apps compete for our time, what the research says and who should be responsible for fixing it.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Welcome to the attention economy",
+      "intro": "You will hear the hosts of a podcast, Linh and Nam, introducing the topic of the attention economy.",
+      "speakers": {
+        "Linh": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "Welcome back to Deep Focus, the show about how we spend the one thing we can't make more of. I'm Linh."
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "And I'm Nam. Today, the attention economy. And I'll confess something: I checked my phone four times while preparing this episode's notes."
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "Only four? I'm impressed. The phrase attention economy, for listeners new to it, goes back to an economist who observed in the nineteen-seventies that a wealth of information creates a poverty of attention. When information is abundant, what becomes scarce is the capacity to process it."
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "Which flips the old model. For centuries the scarce thing was content. A book was expensive, a newspaper was a daily event. Now the content is effectively free and endless, so the contest is over who gets our minutes."
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "And that is where the business model comes in. If you're not paying for a service, you're not exactly the customer. Advertisers pay, and what they buy is your time in front of the screen. So platforms are rewarded for any design that increases it."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "I want to be careful here, because I find that line a bit glib. It implies we're passive victims. Plenty of people use these apps deliberately and benefit enormously."
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "Fair. I'd say it's less a conspiracy than an incentive. Nobody sits in a dark room plotting to ruin your evening. They simply measure what keeps you scrolling, and then they do more of it."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "That's a distinction worth making. The harm, if there is any, comes from optimisation without anyone asking whether it's good for you."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · How apps hold our attention",
+      "intro": "You will hear Nam interviewing Dr Cole, who studies the design of apps.",
+      "speakers": {
+        "Nam": "male",
+        "Dr Cole": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Nam",
+          "text": "Dr Cole, you've studied the design of apps for years. What's the technique people talk about most?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Cole",
+          "text": "The infinite scroll, probably, though I'd argue it's less sinister than it sounds. It removes a stopping cue. In a book, a chapter ends, and the end gives you a natural moment to ask whether you want to continue. A feed never ends, so the question never arises."
+        },
+        {
+          "id": "s11",
+          "speaker": "Nam",
+          "text": "So it's not that it's addictive, it's that it takes away the pause."
+        },
+        {
+          "id": "s12",
+          "speaker": "Dr Cole",
+          "text": "Precisely. I'm wary of the word addiction. Clinically it means something specific, and most people's habits don't meet that definition. But a habit can be a problem without being an addiction."
+        },
+        {
+          "id": "s13",
+          "speaker": "Nam",
+          "text": "What about the little red dot, the notification?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Dr Cole",
+          "text": "That works through unpredictability. Psychologists found long ago that rewards arriving at irregular intervals produce the most persistent behaviour. Sometimes your phone offers something delightful, sometimes nothing. Never knowing which keeps you checking. Slot machines run on the same principle."
+        },
+        {
+          "id": "s15",
+          "speaker": "Nam",
+          "text": "That's slightly alarming."
+        },
+        {
+          "id": "s16",
+          "speaker": "Dr Cole",
+          "text": "It should be a little alarming, but I'd stress that the same principle powers perfectly harmless things, like fishing, or opening the post. The question is not whether a mechanism exists but whether it's used in your interest."
+        },
+        {
+          "id": "s17",
+          "speaker": "Nam",
+          "text": "And is there evidence that all this harms us?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Dr Cole",
+          "text": "The honest answer is mixed. Large studies find small average effects on wellbeing. But averages hide a lot: for some adolescents, particularly those already struggling, the effects look considerably bigger. I'd say the evidence justifies caution, rather than panic."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A week with a plain phone",
+      "intro": "You will hear Linh describing an experiment she tried for the podcast.",
+      "speakers": {
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "Now for the segment where one of us tries something foolish so you don't have to. This week I spent seven days with a plain phone: no feeds, no news apps, only calls, messages and maps."
+        },
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "The first two days were, frankly, uncomfortable. I kept reaching for my pocket the way you keep touching the gap where a tooth used to be. On the second afternoon, queueing at a bakery, I realised I had no idea what to do with my hands, my eyes or, worse, my thoughts."
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "Then something odd happened. By day four, the queue had become interesting. I noticed the baker's habit of humming, and an old man who was teaching his grandson to count coins. I'd walked past that bakery for years without seeing it."
+        },
+        {
+          "id": "s22",
+          "speaker": "Linh",
+          "text": "I should be honest about the downsides. I missed a friend's invitation because it came through an app I'd removed, and I arrived at a meeting having not read an article everyone else had read. I felt, for about an hour, slightly left out. Which tells you something about how much of my sense of being informed was really a fear of missing out."
+        },
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "My conclusion isn't that technology is the enemy. I returned to my usual phone on day eight, and, to be candid, within a week I was back to old patterns. What changed is that I now notice the pull. I ask myself, do I want this or has it just been placed in front of me?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "My producer, who is far more disciplined than I am, says that's the whole secret. She keeps her phone in a drawer in another room and says the trick is making the good thing easy and the bad thing slightly annoying."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Who should fix it?",
+      "intro": "You will hear Linh and Nam answering a listener question about regulation.",
+      "speakers": {
+        "Nam": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s25",
+          "speaker": "Nam",
+          "text": "Let's turn to the listener question that arrived most this week. Should governments regulate this, or is it a matter of personal responsibility?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Linh",
+          "text": "I'd say personal responsibility is the answer people give when they don't want to think about the structure. It's rather like telling people to choose healthier food in a street full of vending machines."
+        },
+        {
+          "id": "s27",
+          "speaker": "Nam",
+          "text": "I'm sympathetic, but I'm wary of rules. Regulators are slow, and technology changes every few months. A law written for today's feeds could be obsolete by the time it takes effect."
+        },
+        {
+          "id": "s28",
+          "speaker": "Linh",
+          "text": "That's an argument for writing principles rather than technical rules. Some places are already requiring that children's accounts have limits by default, and that people can easily turn off personalised recommendations."
+        },
+        {
+          "id": "s29",
+          "speaker": "Nam",
+          "text": "Defaults, yes. That I like. Most of us never change a setting, so whoever chooses the default chooses the behaviour of millions."
+        },
+        {
+          "id": "s30",
+          "speaker": "Linh",
+          "text": "Which is exactly why default settings are the most powerful design decision in the industry, and the least discussed. If a platform started every account with notifications off, I suspect the whole conversation would change within a year."
+        },
+        {
+          "id": "s31",
+          "speaker": "Nam",
+          "text": "Then perhaps the thing to ask is not how to make people stronger but how to make the environment kinder."
+        },
+        {
+          "id": "s32",
+          "speaker": "Linh",
+          "text": "Though I'd hate us to sound as if individuals have no part. We can still choose to be bored occasionally."
+        },
+        {
+          "id": "s33",
+          "speaker": "Nam",
+          "text": "Boredom, the last luxury. On that note, thank you for listening. Try leaving your phone in another room tonight, and tell us what you notice."
+        },
+        {
+          "id": "s34",
+          "speaker": "Linh",
+          "text": "And if you can't bear it, tell us that too. We won't judge. After all, Nam checked his four times."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did the economist observe about information?",
+      "options": [
+        "Plenty of information leads to a shortage of attention",
+        "Information is only valuable when it is expensive",
+        "Information becomes cheaper as attention becomes cheaper",
+        "Attention grows as more information is produced"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh explains that a wealth of information creates a poverty of attention, because processing capacity becomes scarce.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "a wealth of information creates a poverty of attention"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "How has the scarce resource changed over time, according to Nam?",
+      "options": [
+        "From advertising revenue to free content",
+        "From daily news to weekly podcasts and magazines",
+        "From newspapers to books and libraries",
+        "From content to people's time and attention"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says content used to be scarce but is now free and endless, so the contest is over who gets our minutes.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "so the contest is over who gets our minutes"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is Nam's attitude to the idea that users are not the customer?",
+      "options": [
+        "He believes it is the most important point about the industry",
+        "He thinks it is too simple because it makes users passive",
+        "He thinks it applies only to children using free apps",
+        "He is convinced that advertisers are secretly plotting against users"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He calls the line a bit glib and says it implies people are passive victims, when many use apps deliberately.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I find that line a bit glib"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Nam say he checked his phone four times?",
+      "options": [
+        "To prove that apps are addictive for most people",
+        "To criticise the producers of the programme for overworking him",
+        "To admit humorously that the topic applies to him",
+        "To explain why he is late for the show"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It is a light confession at the start, showing that even the host is affected by the subject.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I checked my phone four times while preparing this episode's notes"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does Linh suggest about the cause of any harm?",
+      "options": [
+        "It comes from incentives, not from a deliberate plan",
+        "It comes from laws that are too strict for platforms",
+        "It comes from users who lack enough self-control",
+        "It comes from a deliberate plot by advertisers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says it is less a conspiracy than an incentive, because companies simply measure what keeps people scrolling.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "it's less a conspiracy than an incentive"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "According to Dr Cole, why is the infinite scroll effective?",
+      "options": [
+        "It removes a natural point to stop",
+        "It shows more advertisements than other designs",
+        "It rewards users with points",
+        "It makes content load faster"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says it removes a stopping cue, so the question of whether to continue never arises.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "It removes a stopping cue."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is Dr Cole's attitude to the word addiction?",
+      "options": [
+        "She thinks it is a harmless exaggeration in most cases",
+        "She is cautious because it has a specific clinical meaning",
+        "She uses it freely to describe all heavy phone use",
+        "She believes that it only applies to teenagers and young adults"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she is wary of it because clinically it means something specific that most people's habits do not meet.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I'm wary of the word addiction"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why do notifications keep people checking their phones?",
+      "options": [
+        "They always contain good news",
+        "They are impossible to switch off",
+        "They are louder than other sounds",
+        "The rewards are unpredictable"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She explains that rewards arriving at irregular intervals produce the most persistent behaviour, as with slot machines.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "Never knowing which keeps you checking."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Dr Cole mention fishing and opening the post?",
+      "options": [
+        "To suggest that people prefer old habits to new ones",
+        "To prove that slot machines are perfectly safe to use",
+        "To show that the mechanism itself is not harmful",
+        "To compare apps with other traditional hobbies and pastimes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says the same principle powers harmless activities, so what matters is whether it is used in your interest.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "The question is not whether a mechanism exists but whether it's used in your interest."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Dr Cole view the evidence on harm?",
+      "options": [
+        "She thinks it proves that apps do serious damage to everyone",
+        "She thinks it calls for caution rather than panic",
+        "She thinks it shows that there is no real problem at all",
+        "She thinks it is too weak to be worth discussing"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the evidence is mixed with small average effects, but larger for some adolescents, so it justifies caution.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "the evidence justifies caution, rather than panic"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How did Linh feel during the first two days of the experiment?",
+      "options": [
+        "Angry and anxious about missing the news",
+        "Curious about the people queueing at the bakery",
+        "Uncomfortable and unsure what to do with herself",
+        "Relieved and calm to be free of her phone"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She calls the first two days uncomfortable and says she did not know what to do with her hands, eyes or thoughts.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "The first two days were, frankly, uncomfortable."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does the bakery story suggest about Linh's normal habits?",
+      "options": [
+        "She rarely went out in the afternoons at all",
+        "She preferred to queue in silence with her thoughts",
+        "She disliked the baker's humming and the long queues",
+        "She had stopped noticing her surroundings when waiting"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "By day four she noticed details she had missed for years, implying her phone had been absorbing her attention.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "I'd walked past that bakery for years without seeing it."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Linh conclude from feeling left out at the meeting?",
+      "options": [
+        "Her friends should have contacted her in a different way",
+        "Feeling informed partly came from a fear of missing out",
+        "She needed to read more articles before every meeting",
+        "News apps are essential for anyone working in an office"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the feeling tells her how much of her sense of being informed was really a fear of missing out.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "a fear of missing out"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is Linh's main conclusion about the experiment?",
+      "options": [
+        "The experiment changed none of her thinking or habits",
+        "The main gain was noticing the pull, not giving up technology",
+        "She would keep the plain phone permanently after all",
+        "Technology is the real enemy of human attention"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says technology is not the enemy and that she went back to old patterns, but now notices the pull.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "What changed is that I now notice the pull."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Linh mention her producer?",
+      "options": [
+        "To explain why she missed the invitation to the party",
+        "To suggest that producers are better at discipline than hosts",
+        "To offer a practical tip: change the environment, not yourself",
+        "To complain about the difficulty of working with a producer"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The producer keeps her phone in a drawer in another room, making the good thing easy and the bad thing slightly annoying.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "making the good thing easy and the bad thing slightly annoying"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Linh's view of the personal responsibility argument?",
+      "options": [
+        "It is correct for adults but not children",
+        "It ignores the way the environment is structured",
+        "It is the only realistic solution",
+        "It is too expensive to put into practice"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She compares it to telling people to eat healthily in a street full of vending machines.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "personal responsibility is the answer people give when they don't want to think about the structure"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Nam's main worry about regulation?",
+      "options": [
+        "Laws may be out of date before they take effect",
+        "Rules would make apps more expensive for ordinary users",
+        "Governments do not understand how children use apps",
+        "Regulators are too strict with technology companies"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says regulators are slow, and technology changes quickly, so a law could be obsolete when it begins.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "A law written for today's feeds could be obsolete by the time it takes effect."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Linh talk about principles and default settings?",
+      "options": [
+        "To answer Nam's objection that rules become outdated",
+        "To praise the work of regulators",
+        "To argue that children should not use apps",
+        "To show that technical rules are better"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She replies that writing principles rather than technical rules avoids the problem, and gives examples of default limits.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "That's an argument for writing principles rather than technical rules."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why are default settings so powerful, according to Nam?",
+      "options": [
+        "Most people never change them",
+        "They are cheaper to design",
+        "They are chosen by users themselves",
+        "They are hidden from regulators"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says most of us never change a setting, so whoever chooses the default shapes the behaviour of millions.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "Most of us never change a setting"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What do the speakers agree on by the end?",
+      "options": [
+        "Governments alone can solve the problem of attention online",
+        "The environment matters, but individuals still play a part",
+        "Technology companies should be closed down within the year",
+        "Individuals should take all of the responsibility themselves"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam suggests making the environment kinder, and Linh adds that individuals have a part, for example by choosing to be bored.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "We can still choose to be bored occasionally."
+        }
+      ]
+    }
+  ]
+}

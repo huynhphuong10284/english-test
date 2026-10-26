@@ -1,0 +1,603 @@
+{
+  "id": "l-c2-the-future-of-journalism",
+  "title": "The Future of Journalism",
+  "level": "C2 · Proficiency",
+  "description": "Four extracts from a panel event on how news will be made, paid for and trusted in the years ahead.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Opening the panel",
+      "intro": "You will hear the chair, Helen, introducing the panel with an editor, Marcus.",
+      "speakers": {
+        "Helen": "female",
+        "Marcus": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Helen",
+          "text": "Welcome, everyone, to tonight's discussion on the future of journalism. I'll begin with a provocation. Over the last fifteen years, roughly a third of local newspapers in this country have closed. Marcus, you edit a regional daily. Is the profession dying?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Marcus",
+          "text": "Well, I'd resist the word dying. Newspapers as physical objects are certainly in decline, but the appetite for reliable information hasn't gone anywhere. If anything, people crave it more, because they're drowning in noise. The real crisis is not demand, it's money. The advertising that once paid for reporters now flows to a handful of technology platforms."
+        },
+        {
+          "id": "s3",
+          "speaker": "Helen",
+          "text": "So the audience is still there, but the business model has collapsed."
+        },
+        {
+          "id": "s4",
+          "speaker": "Marcus",
+          "text": "Precisely. And that matters because journalism is expensive in a way that content isn't. Sending a reporter to sit through a council meeting for three hours produces perhaps four paragraphs. No algorithm can replace that, yet it's exactly the sort of work that vanishes first when budgets are cut."
+        },
+        {
+          "id": "s5",
+          "speaker": "Helen",
+          "text": "Some people argue that bloggers and social media users fill the gap."
+        },
+        {
+          "id": "s6",
+          "speaker": "Marcus",
+          "text": "Some do, and I don't want to sneer at citizen reporting. It has broken genuine stories, particularly during emergencies. But a witness with a phone is not the same as someone trained to verify, to seek the other side and to be answerable when they get it wrong. Accountability is the part that's hardest to crowdsource."
+        },
+        {
+          "id": "s7",
+          "speaker": "Helen",
+          "text": "You sound rather gloomy for someone who still has a job."
+        },
+        {
+          "id": "s8",
+          "speaker": "Marcus",
+          "text": "Cautiously hopeful, actually. We've recently started charging for our investigations, and to my surprise readers have paid. That tells me people will fund journalism they believe in, provided we show them precisely what they're getting."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A talk on local news",
+      "intro": "You will hear a reporter, Linh, talking about her experience of working in local news.",
+      "speakers": {
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Linh",
+          "text": "I started my career on a local paper, and I want to say something in defence of the small story. When people picture great journalism, they imagine a war correspondent or a leaked document. But in my experience the most valuable work is humble. It's the report on a planning decision that would otherwise pass unnoticed, or the court case where somebody's life is quietly rearranged."
+        },
+        {
+          "id": "s10",
+          "speaker": "Linh",
+          "text": "Several years ago our newsroom shrank from twelve reporters to four. Within months, we noticed something strange. The council began to publish its decisions later, and with fewer details. Nobody had threatened anyone. The officials simply understood that fewer people were watching. Researchers have a name for this, the watchdog effect, and it's one of the least appreciated costs of closure."
+        },
+        {
+          "id": "s11",
+          "speaker": "Linh",
+          "text": "We responded by changing how we worked. Instead of chasing every story, we asked readers what they wanted us to look into. One woman wondered why the bus to the hospital had been cut, and that question turned into a three-month investigation. We discovered that the decision had been taken without any consultation at all. The route was restored, and I can honestly say it was the proudest moment of my career."
+        },
+        {
+          "id": "s12",
+          "speaker": "Linh",
+          "text": "I'm not naive about this. Asking the public for ideas can produce a lot of trivial requests, and you can't let readers dictate your coverage entirely. But I'd argue that a newsroom which listens is more resilient than one which broadcasts. Trust isn't something you demand. It's something you earn, one small story at a time."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A debate about paying for news",
+      "intro": "You will hear a media researcher, Dr Reyes, and a publisher, Sophie, disagreeing about paywalls.",
+      "speakers": {
+        "Dr Reyes": "male",
+        "Sophie": "female"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Sophie",
+          "text": "My view is simple. Quality costs money, and if readers won't pay, then quality disappears. Paywalls aren't greedy, they're survival."
+        },
+        {
+          "id": "s14",
+          "speaker": "Dr Reyes",
+          "text": "I understand the logic, Sophie, but I worry about what it produces. If the best reporting sits behind a subscription, then the people who can afford it are well informed, while everyone else is left with free, shallow and often misleading material. We risk creating an information elite."
+        },
+        {
+          "id": "s15",
+          "speaker": "Sophie",
+          "text": "That's a fair concern, but you're overlooking a point. Free news is not actually free. It's paid for by advertising, which rewards outrage and clicks. I would rather my readers were my customers than my product."
+        },
+        {
+          "id": "s16",
+          "speaker": "Dr Reyes",
+          "text": "A neat phrase, though I'd say it's too tidy. Evidence from several countries suggests that only a small minority of people will ever subscribe to any news outlet, and most of them subscribe to just one. That doesn't sustain a diverse press."
+        },
+        {
+          "id": "s17",
+          "speaker": "Sophie",
+          "text": "Then what do you propose? Because hoping for generosity is not a business plan."
+        },
+        {
+          "id": "s18",
+          "speaker": "Dr Reyes",
+          "text": "Public funding, at arm's length from government, perhaps through a levy on the platforms that have taken the advertising. Several experiments are under way, and the early results are promising, although I'd be the first to admit that it's difficult to design without political interference."
+        },
+        {
+          "id": "s19",
+          "speaker": "Sophie",
+          "text": "Forgive me, but I'd trust my readers' wallets before I'd trust a politician's promise not to interfere."
+        },
+        {
+          "id": "s20",
+          "speaker": "Dr Reyes",
+          "text": "You may be right. Yet I'd say the two approaches aren't rivals. A healthy system probably needs both, and the real danger is that we spend years arguing over which is purer."
+        },
+        {
+          "id": "s21",
+          "speaker": "Sophie",
+          "text": "On that, at least, we agree."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A closing reflection",
+      "intro": "You will hear a veteran journalist, Daniel, giving the closing remarks.",
+      "speakers": {
+        "Daniel": "male"
+      },
+      "script": [
+        {
+          "id": "s22",
+          "speaker": "Daniel",
+          "text": "Let me finish with a thought about artificial intelligence, because I suspect it will be the question people ask about us in ten years' time. Machines can already summarise a report or draft a match story in seconds. Some of my colleagues are alarmed, and I understand why. But I'd urge a degree of calm."
+        },
+        {
+          "id": "s23",
+          "speaker": "Daniel",
+          "text": "What a machine cannot do is stand in a flooded street and ask a frightened resident what happened. It cannot judge that a source is lying, because it has no instinct for the pause before an answer. It cannot take responsibility, and in the end journalism is a form of responsibility. When we publish something, a named person stands behind it."
+        },
+        {
+          "id": "s24",
+          "speaker": "Daniel",
+          "text": "That said, I'd be foolish to pretend nothing will change. Routine work, such as share prices, sports results and weather summaries, will increasingly be automated, and perhaps that is no great loss. It could free reporters to do the slower, costlier work that no one else will do, such as long investigations and patient conversations with people who have never spoken to a journalist before."
+        },
+        {
+          "id": "s25",
+          "speaker": "Daniel",
+          "text": "The danger I worry about is not that machines will replace us, but that managers will use them as an excuse to cut people who were doing the irreplaceable parts of the job. If that happens, the loss will not be technological. It will be a choice."
+        },
+        {
+          "id": "s26",
+          "speaker": "Daniel",
+          "text": "So here is my hope. In a world where anything can be fabricated convincingly, a trusted name becomes more valuable, not less. The future of journalism may depend less on how quickly we publish than on whether anyone believes us. Thank you all very much."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "According to Marcus, what is the real problem facing newspapers?",
+      "options": [
+        "Printing costs have risen beyond what readers will pay",
+        "Reporters have become too expensive for most papers",
+        "Advertising money has moved to technology platforms",
+        "Readers no longer want reliable information from newspapers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says the crisis is not demand but money, because advertising flows to technology platforms.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "The real crisis is not demand, it's money."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does Marcus mention a reporter at a council meeting?",
+      "options": [
+        "To argue that bloggers work harder than reporters do",
+        "To complain that council meetings are boring and too long",
+        "To show that good reporting is slow and cannot be automated",
+        "To suggest that councils should pay for local reporters"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Three hours of work yields four paragraphs, and no algorithm can replace it, but such work is cut first.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "No algorithm can replace that"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is Marcus's attitude to citizen reporting?",
+      "options": [
+        "He regards it as a waste of readers' time",
+        "He believes it is always inaccurate and unreliable",
+        "He thinks it will soon replace local newspapers",
+        "He respects it but sees limits to its accountability"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He does not sneer at it but says accountability is hardest to crowdsource.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "Accountability is the part that's hardest to crowdsource."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Helen say Marcus sounds gloomy?",
+      "options": [
+        "To change the topic to the state of the job market",
+        "To invite him to explain why he is still hopeful",
+        "To end the discussion before it becomes too negative",
+        "To criticise his newspaper's coverage of local news"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She teases him and he answers that he is cautiously hopeful.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "You sound rather gloomy for someone who still has a job."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What has surprised Marcus recently?",
+      "options": [
+        "Staff numbers have increased across the newsroom",
+        "Local councils have complained about its investigations",
+        "Readers have been willing to pay for investigations",
+        "Advertising has returned to the regional newspapers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "His paper started charging for investigations and, to his surprise, readers paid.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "to my surprise readers have paid"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Linh's main point in her talk?",
+      "options": [
+        "Small, local stories can be the most valuable journalism",
+        "War reporting is overrated compared with local news",
+        "Newsrooms with few reporters should avoid long investigations",
+        "Councils should publish more of their decisions online"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She defends the small story and says the most valuable work is humble.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "the most valuable work is humble"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What happened to the council after the newsroom shrank?",
+      "options": [
+        "It published decisions later and with fewer details",
+        "It stopped holding its meetings in public",
+        "It threatened the journalists who were left",
+        "It banned reporters from attending its meetings"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The council began to publish decisions later and with fewer details.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "The council began to publish its decisions later, and with fewer details."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What does the example of the hospital bus suggest?",
+      "options": [
+        "Investigations are too slow to be worth the effort",
+        "Reader questions can lead to important investigations",
+        "Councils always listen to readers who complain",
+        "Hospitals should run their own bus services"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A reader's question became a three-month investigation that restored the route.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "that question turned into a three-month investigation"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What reservation does Linh express about asking the public for ideas?",
+      "options": [
+        "It is too expensive for small newsrooms",
+        "It slows down the printing schedule",
+        "It can produce trivial requests",
+        "It makes readers angry with reporters"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says it can produce a lot of trivial requests and readers cannot dictate coverage.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "can produce a lot of trivial requests"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Linh's conclusion about trust?",
+      "options": [
+        "It can be demanded from readers",
+        "It depends on advertising",
+        "It cannot be rebuilt once lost",
+        "It has to be earned gradually"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says trust is earned one small story at a time.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "It's something you earn, one small story at a time."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is Sophie's view of paywalls?",
+      "options": [
+        "They are greedy but ultimately harmless",
+        "They should be abolished in favour of adverts",
+        "They only suit large national outlets",
+        "They are necessary for survival"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says they are not greedy but survival.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Paywalls aren't greedy, they're survival."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Dr Reyes fear paywalls will create?",
+      "options": [
+        "More government control over what the press publishes",
+        "Cheaper subscriptions that attract too few readers",
+        "A well-informed elite and a poorly informed majority",
+        "A sharp rise in advertising and clickbait"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says the people who can afford it are well informed while others get shallow material.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "We risk creating an information elite."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Sophie mean by saying she would rather readers were her customers than her product?",
+      "options": [
+        "She dislikes online shopping and the way it treats customers",
+        "She thinks readers are difficult and expect too much",
+        "She wants income from readers, not from selling their attention",
+        "She wants to sell her readers' data to advertisers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Advertising treats readers as the product; subscriptions make them customers.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "I would rather my readers were my customers than my product."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Dr Reyes suggest a levy on the platforms?",
+      "options": [
+        "To punish technology companies for taking advertising",
+        "To remove subscriptions from the market entirely",
+        "To fund news independently of government",
+        "To reduce online advertising across all platforms"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He proposes public funding at arm's length through a levy on platforms that took advertising.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "through a levy on the platforms that have taken the advertising"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How do the speakers finish their exchange?",
+      "options": [
+        "They reject each other's proposals and part angrily",
+        "They agree that arguing about purity is unhelpful",
+        "They agree that paywalls should be removed soon",
+        "They decide to hold another debate next month"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dr Reyes says a healthy system needs both approaches, and Sophie agrees.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "A healthy system probably needs both"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Daniel's general view of artificial intelligence in newsrooms?",
+      "options": [
+        "It is already trusted by most readers",
+        "It will replace all journalists within a decade",
+        "Concern is understandable but calm is advisable",
+        "It should be banned from all newsrooms"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says colleagues are alarmed but he urges a degree of calm.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "But I'd urge a degree of calm."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "According to Daniel, what can a machine not do?",
+      "options": [
+        "Take responsibility for what is published",
+        "Read share prices and report on them",
+        "Draft a match story in seconds",
+        "Summarise a long report quickly"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it cannot take responsibility, and journalism is a form of responsibility.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "It cannot take responsibility"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Daniel suggest about routine reporting such as weather summaries?",
+      "options": [
+        "It is already being done better by readers",
+        "It should never change under any circumstances",
+        "Automating it could free reporters for deeper work",
+        "It is the most important work reporters do"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says automation of routine work may free reporters to do slower, costlier work.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "It could free reporters to do the slower, costlier work"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Daniel most worried about?",
+      "options": [
+        "Readers refusing to pay for human reporting",
+        "Journalists becoming too slow to compete",
+        "Managers using machines as an excuse to cut jobs",
+        "Machines becoming more intelligent than the people using them"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He fears managers will use machines as an excuse to cut people doing irreplaceable work.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "managers will use them as an excuse to cut people"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Daniel end by mentioning trusted names?",
+      "options": [
+        "To criticise anonymous writers for spreading fabrications",
+        "To advertise his own newspaper to the audience",
+        "To explain how to publish stories much faster",
+        "To suggest that credibility will become a key asset"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says in a world of convincing fabrication a trusted name becomes more valuable.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "a trusted name becomes more valuable, not less"
+        }
+      ]
+    }
+  ]
+}

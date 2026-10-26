@@ -1,0 +1,607 @@
+{
+  "id": "l-b1-a-university-open-day",
+  "title": "A University Open Day",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings from a university open day: a welcome talk, a chat about accommodation, a campus tour and an announcement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The welcome talk",
+      "intro": "You will hear a university professor welcoming visitors to the open day.",
+      "speakers": {
+        "Dr Evans": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Dr Evans",
+          "text": "Good morning, everyone, and welcome to our open day. My name is Dr Evans, and I'm the head of student services. It's wonderful to see so many families here today."
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Evans",
+          "text": "Let me explain the plan for the day. The talks about courses begin at ten o'clock in the main hall. They were going to start at half past nine, but we've changed the time because of the traffic."
+        },
+        {
+          "id": "s3",
+          "speaker": "Dr Evans",
+          "text": "After the talks, you can take a tour of the campus. Tours leave from the front entrance every thirty minutes, and each one lasts about forty-five minutes."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Evans",
+          "text": "Lunch is free for all visitors in the student café. I recommend the vegetable pie, but if you prefer something lighter, there are also salads and fruit."
+        },
+        {
+          "id": "s5",
+          "speaker": "Dr Evans",
+          "text": "This afternoon, our students will answer your questions in the library. Please remember that they are not teachers, so they can only talk about their own experience."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Evans",
+          "text": "A final piece of advice. Many visitors try to see everything, and then they feel tired and confused. Choose two or three things you really want to see, and enjoy them properly."
+        },
+        {
+          "id": "s7",
+          "speaker": "Dr Evans",
+          "text": "Now, if you're interested in science courses, please follow the green signs. For arts and languages, follow the blue signs. Have a lovely day."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Asking about accommodation",
+      "intro": "You will hear a visitor, Minh, asking a student guide, Lucy, about living at the university.",
+      "speakers": {
+        "Lucy": "female",
+        "Minh": "male"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Minh",
+          "text": "Excuse me, are you one of the student guides? I'd like to ask about accommodation."
+        },
+        {
+          "id": "s9",
+          "speaker": "Lucy",
+          "text": "Yes, of course. I'm in my second year, so I know it well. Are you thinking of living on campus?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Minh",
+          "text": "I'm not sure. My family lives about fifty kilometres away, so travelling every day would be difficult."
+        },
+        {
+          "id": "s11",
+          "speaker": "Lucy",
+          "text": "Then I'd advise living on campus in the first year. It's a good way to make friends. The rooms are small, but they're warm and clean."
+        },
+        {
+          "id": "s12",
+          "speaker": "Minh",
+          "text": "How much does a room cost?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Lucy",
+          "text": "A single room is about one hundred and twenty pounds a week. A shared room is cheaper, around ninety pounds, but some people don't like sharing."
+        },
+        {
+          "id": "s14",
+          "speaker": "Minh",
+          "text": "I think I'd prefer my own room. Is there a kitchen?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Lucy",
+          "text": "Yes, one kitchen for every six rooms. It can get messy, to be honest, but you soon learn who the tidy people are."
+        },
+        {
+          "id": "s16",
+          "speaker": "Minh",
+          "text": "And what about the internet? I'll need it for my studies."
+        },
+        {
+          "id": "s17",
+          "speaker": "Lucy",
+          "text": "It's free and fast in all rooms. The only problem is on Sunday evenings, when everybody is online at the same time."
+        },
+        {
+          "id": "s18",
+          "speaker": "Minh",
+          "text": "Thanks, Lucy. That's really helpful. How do I apply?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Lucy",
+          "text": "You fill in a form online after you receive your offer. But apply early, because the popular rooms go quickly."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · The campus tour",
+      "intro": "You will hear a student guide, Tom, giving a tour of the campus.",
+      "speakers": {
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s20",
+          "speaker": "Tom",
+          "text": "Hello, everyone. I'm Tom, and I study engineering. I'll show you the most important places on the campus. Please stay together, and ask questions at any time."
+        },
+        {
+          "id": "s21",
+          "speaker": "Tom",
+          "text": "On your left is the library. It's open until midnight during exam time, and there are quiet rooms on the second floor. If you want to talk with friends, use the ground floor."
+        },
+        {
+          "id": "s22",
+          "speaker": "Tom",
+          "text": "Straight ahead is the sports centre. It has a swimming pool, a gym and tennis courts. Students get a membership for only ten pounds a month, which is much cheaper than a town gym."
+        },
+        {
+          "id": "s23",
+          "speaker": "Tom",
+          "text": "Now we're walking past the science building. The laboratories are new, but the building itself is very old. In winter it's freezing, so my advice is to wear a warm jumper."
+        },
+        {
+          "id": "s24",
+          "speaker": "Tom",
+          "text": "The red building next to the lake is the students' union. There you can join clubs, from chess to mountain climbing. I joined the climbing club in my first week, and it changed my university life."
+        },
+        {
+          "id": "s25",
+          "speaker": "Tom",
+          "text": "Finally, the bus stop. Buses to the city centre leave every ten minutes, and a student ticket is half the normal price. That's the end of the tour. Thank you for listening."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · An announcement",
+      "intro": "You will hear an announcement over the loudspeaker at the open day.",
+      "speakers": {
+        "Hannah": "female"
+      },
+      "script": [
+        {
+          "id": "s26",
+          "speaker": "Hannah",
+          "text": "Good afternoon, ladies and gentlemen. This is an announcement for all visitors at the open day."
+        },
+        {
+          "id": "s27",
+          "speaker": "Hannah",
+          "text": "Because of the rain, the music concert on the lawn will now be held in the main hall at three o'clock instead of two."
+        },
+        {
+          "id": "s28",
+          "speaker": "Hannah",
+          "text": "The last campus tour will leave the front entrance at half past three, not at four as it says in your programme."
+        },
+        {
+          "id": "s29",
+          "speaker": "Hannah",
+          "text": "If you'd like to apply for a scholarship, please visit the information desk in the library before four o'clock. Staff will give you a leaflet and explain the rules."
+        },
+        {
+          "id": "s30",
+          "speaker": "Hannah",
+          "text": "A blue car, parked near the sports centre, has its lights on. Would the owner please return to the car park?"
+        },
+        {
+          "id": "s31",
+          "speaker": "Hannah",
+          "text": "Finally, we would like to thank all of you for coming. Free bags with a university notebook are available as you leave. Thank you."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why is Dr Evans speaking?",
+      "options": [
+        "To advertise a course for science",
+        "To welcome visitors and explain the day",
+        "To introduce a student guide"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He welcomes everyone and explains the plan for the day.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Let me explain the plan for the day"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time do the talks about courses begin?",
+      "options": [
+        "At eleven o'clock",
+        "At ten o'clock",
+        "At half past nine"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The talks begin at ten. Half past nine was the first plan.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "begin at ten o'clock in the main hall"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How often do campus tours leave?",
+      "options": [
+        "Every forty-five minutes",
+        "Every thirty minutes",
+        "Every hour"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tours leave every thirty minutes. Forty-five minutes is how long a tour lasts.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "every thirty minutes"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does Dr Evans say the students are not teachers?",
+      "options": [
+        "The teachers are busy in the library today",
+        "The students are not allowed to talk much",
+        "They can only share their own experience"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He explains that students can only talk about their own experience.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "they can only talk about their own experience"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does Dr Evans advise visitors to do?",
+      "options": [
+        "Stay in the café and rest all day",
+        "See everything as quickly as possible",
+        "Choose a few things to see"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He thinks trying to see everything makes people tired and confused.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "Choose two or three things you really want to see"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What does Minh want to find out about?",
+      "options": [
+        "Where he could live while studying",
+        "How to join a club at the union",
+        "How to get a place on a course"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he would like to ask about accommodation.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "I'd like to ask about accommodation"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why is living at home difficult for Minh?",
+      "options": [
+        "His room at home is too small",
+        "His family lives far away",
+        "His family does not want him to study"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His family lives about fifty kilometres away, so daily travel would be hard.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "travelling every day would be difficult"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much does a single room cost per week?",
+      "options": [
+        "About a hundred and fifty pounds",
+        "About ninety pounds a week",
+        "About one hundred and twenty pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A single room is one hundred and twenty pounds; ninety is for a shared room.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "A single room is about one hundred and twenty pounds a week"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Lucy say about the shared kitchens?",
+      "options": [
+        "They can be quite untidy",
+        "They are too small for six people",
+        "They are always clean and spotless"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says it can get messy, but you learn who the tidy people are.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "It can get messy, to be honest"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When is the internet sometimes slow?",
+      "options": [
+        "During the exam weeks",
+        "On Sunday evenings",
+        "On Monday mornings"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Everybody is online at the same time on Sunday evenings.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "on Sunday evenings"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why is Tom talking?",
+      "options": [
+        "To show visitors around",
+        "To explain how to apply for a room",
+        "To recruit new members for a club"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he will show them the most important places on the campus.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I'll show you the most important places on the campus"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When can students use the library until midnight?",
+      "options": [
+        "In the summer holidays",
+        "During exam time",
+        "At weekends only"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The library is open until midnight during exam time.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "It's open until midnight during exam time"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What do students pay for the sports centre?",
+      "options": [
+        "Twenty pounds a month",
+        "Nothing, it is free for students",
+        "Ten pounds a month"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Membership is ten pounds a month, cheaper than a town gym.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "only ten pounds a month"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Tom recommend a warm jumper?",
+      "options": [
+        "The laboratories are kept cool",
+        "The tour goes outside by the lake",
+        "The old building is freezing in winter"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says the building is very old and freezing in winter.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "In winter it's freezing"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Tom feel about the climbing club?",
+      "options": [
+        "It had a big effect on his life",
+        "It was boring after the first week",
+        "It was too difficult to continue"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says joining it changed his university life.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "it changed my university life"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where will the concert be held?",
+      "options": [
+        "On the lawn",
+        "In the main hall",
+        "In the library"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Because of the rain, it moves from the lawn to the main hall.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "will now be held in the main hall"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What time will the concert start?",
+      "options": [
+        "At four o'clock",
+        "At three o'clock",
+        "At two o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It will start at three instead of two.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "at three o'clock instead of two"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When does the last campus tour leave?",
+      "options": [
+        "At four o'clock",
+        "At half past three",
+        "At three o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It leaves at half past three, not at four as in the programme.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "at half past three, not at four"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why should visitors go to the information desk?",
+      "options": [
+        "To report a car with its lights on",
+        "To get information on scholarships",
+        "To collect a free university bag"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The desk gives a leaflet and explains the scholarship rules.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "apply for a scholarship"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does the announcement ask the owner of the blue car to do?",
+      "options": [
+        "Pick up a free notebook",
+        "Move the car to another place",
+        "Switch off the car lights"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The lights are on, so the owner should return to the car.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "has its lights on"
+        }
+      ]
+    }
+  ]
+}

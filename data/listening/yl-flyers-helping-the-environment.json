@@ -1,0 +1,579 @@
+{
+  "id": "l-yl-f-helping-the-environment",
+  "title": "Helping the Environment",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about a school club, a beach clean-up, recycling and a water week.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The Green Club",
+      "intro": "You will hear Nam and Linh talking about a club meeting.",
+      "speakers": {
+        "Nam": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "Hi, Nam! Are you coming to the Green Club meeting after school?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "Yes, I am. Is it in the library again?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "No, it's in Room twelve today, because the library is closed. We start at four o'clock... no, sorry, a quarter past four."
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "Good. What are we going to do?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "We're going to make posters about plastic bags. Our teacher says we should bring old newspapers and some glue."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "I haven't got any glue, but I can bring paper and my paints."
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "Great. I'll bring the glue. Oh, and don't forget your own water bottle. We don't use plastic cups at the club."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A phone message",
+      "intro": "You will hear a teacher, Mr Brown, leaving a message about a beach clean-up.",
+      "speakers": {
+        "Mr Brown": "male"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Mr Brown",
+          "text": "Hello, everyone. This is Mr Brown with news about our beach clean-up. It's on Saturday, the eleventh of May, not Sunday as I said before."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mr Brown",
+          "text": "We meet at the bus stop outside school at eight o'clock. The bus takes forty minutes."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mr Brown",
+          "text": "Please wear old clothes and strong shoes, and bring gloves if you have them. I will give you bags for the rubbish."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mr Brown",
+          "text": "We will also have lunch there, but it isn't free, so bring some money for a sandwich."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Brown",
+          "text": "If it rains, we will do the clean-up next week instead. Please call me if you cannot come. Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Recycling at home",
+      "intro": "You will hear Mai and Tom talking about helping the environment.",
+      "speakers": {
+        "Mai": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Mai",
+          "text": "Tom, why are you putting that bottle in the blue box?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Tom",
+          "text": "It's for recycling. At home, we have three boxes: blue for plastic, yellow for paper and green for glass."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "My family only has one bin. I think it's time to change that."
+        },
+        {
+          "id": "s16",
+          "speaker": "Tom",
+          "text": "You can start with food, too. We put old vegetables in a garden box, and it makes good soil for our flowers."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "That's clever! Do you walk to school?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Tom",
+          "text": "Yes, I do. My brother rides his bike, and Dad takes the bus to work. We only use the car at the weekend."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mai",
+          "text": "I always come by car. Maybe I should walk with you tomorrow."
+        },
+        {
+          "id": "s20",
+          "speaker": "Tom",
+          "text": "Sure! I leave home at half past seven."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Save Water Week",
+      "intro": "You will hear a teacher, Ms Green, talking about Save Water Week at school.",
+      "speakers": {
+        "Ms Green": "female"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Ms Green",
+          "text": "Welcome to Save Water Week at our school. Let me tell you what we will do."
+        },
+        {
+          "id": "s22",
+          "speaker": "Ms Green",
+          "text": "On Monday, each class will check the taps. If a tap drips, it can waste a whole bucket of water in a day."
+        },
+        {
+          "id": "s23",
+          "speaker": "Ms Green",
+          "text": "On Tuesday, we will learn to take shorter showers. Five minutes is enough."
+        },
+        {
+          "id": "s24",
+          "speaker": "Ms Green",
+          "text": "On Wednesday, we will collect rain in big buckets and use it for the school garden."
+        },
+        {
+          "id": "s25",
+          "speaker": "Ms Green",
+          "text": "The best class will win a prize on Friday. The prize is a tree, which the winners can plant in the playground. Remember: every drop counts!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the meeting today?",
+      "options": [
+        "In the library",
+        "In the playground",
+        "In Room twelve"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says the meeting is in Room twelve because the library is closed.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "it's in Room twelve today"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time does the meeting start?",
+      "options": [
+        "At half past four",
+        "At four o'clock",
+        "At a quarter past four"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh corrects herself: a quarter past four.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "a quarter past four"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What are the children going to make?",
+      "options": [
+        "Paper boats",
+        "Plastic cups",
+        "Posters about plastic bags"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They are going to make posters about plastic bags.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "posters about plastic bags"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Nam bring?",
+      "options": [
+        "Paper and paints",
+        "Glue",
+        "Old newspapers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam has no glue, so he says he can bring paper and his paints.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I can bring paper and my paints"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Linh say \"don't forget your own water bottle\"?",
+      "options": [
+        "There are no plastic cups at the club.",
+        "The library has no water.",
+        "The room is very hot."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The club does not use plastic cups.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "don't forget your own water bottle"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "On which day is the beach clean-up?",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Brown says Saturday, not Sunday as he said before.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "It's on Saturday"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long does the bus journey take?",
+      "options": [
+        "Fifty minutes",
+        "Twenty minutes",
+        "Forty minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The bus takes forty minutes.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "The bus takes forty minutes."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will Mr Brown give the students?",
+      "options": [
+        "Gloves",
+        "Sandwiches",
+        "Bags for rubbish"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he will give them bags for the rubbish. They bring gloves themselves.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "I will give you bags for the rubbish."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What must the students bring for lunch?",
+      "options": [
+        "A packed lunch",
+        "Money",
+        "Nothing"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lunch is not free, so they bring money for a sandwich.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "bring some money for a sandwich"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What will happen if it rains?",
+      "options": [
+        "The clean-up is next week.",
+        "The clean-up is cancelled for ever.",
+        "The students go home early."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "If it rains, they will do the clean-up next week instead.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "we will do the clean-up next week instead"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What goes in the blue box?",
+      "options": [
+        "Glass",
+        "Paper",
+        "Plastic"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says blue is for plastic.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "blue for plastic"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How many bins does Mai's family have?",
+      "options": [
+        "Three",
+        "Two",
+        "One"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says her family only has one bin. Tom has three boxes.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "My family only has one bin."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What do Tom's family do with old vegetables?",
+      "options": [
+        "They give them to animals.",
+        "They put them in a garden box.",
+        "They put them in the blue box."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The vegetables go in a garden box and make soil.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "We put old vegetables in a garden box"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How does Tom's dad go to work?",
+      "options": [
+        "By bike",
+        "By bus",
+        "By car"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dad takes the bus to work. His brother rides a bike.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Dad takes the bus to work"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Mai decide to do?",
+      "options": [
+        "Ask her dad for a new bin",
+        "Buy a bike",
+        "Walk to school with Tom"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says maybe she should walk with Tom tomorrow.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Maybe I should walk with you tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What will the classes do on Monday?",
+      "options": [
+        "Take showers",
+        "Check the taps",
+        "Collect rain"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "On Monday each class will check the taps.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "each class will check the taps"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How much water can a dripping tap waste in a day?",
+      "options": [
+        "A swimming pool",
+        "A bucket",
+        "A glass"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It can waste a whole bucket of water in a day.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "waste a whole bucket of water in a day"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How long should a shower be?",
+      "options": [
+        "Fifteen minutes",
+        "Ten minutes",
+        "Five minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ms Green says five minutes is enough.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "Five minutes is enough."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What will they use the rain water for?",
+      "options": [
+        "Watering the school garden",
+        "Filling the swimming pool",
+        "Washing the school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They will use the rain for the school garden.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "use it for the school garden"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is the prize for the best class?",
+      "options": [
+        "A book",
+        "A trip",
+        "A tree"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The prize is a tree to plant in the playground.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "The prize is a tree"
+        }
+      ]
+    }
+  ]
+}

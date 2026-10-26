@@ -1,0 +1,223 @@
+{
+  "id": "l-a1-a-busy-saturday",
+  "title": "A Busy Saturday",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about a Saturday: a café, a school trip, a phone message and a shop.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · At the café",
+      "intro": "You will hear Tom and Anna in a café.",
+      "speakers": {
+        "Tom": "male",
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Anna",
+          "text": "Hi, Tom! Sorry I'm late. The bus was very slow this morning."
+        },
+        {
+          "id": "s2",
+          "speaker": "Tom",
+          "text": "That's OK, Anna. I came at ten o'clock, so I only waited fifteen minutes."
+        },
+        {
+          "id": "s3",
+          "speaker": "Anna",
+          "text": "What are you drinking?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Tom",
+          "text": "A hot chocolate. It's really good here. Do you want one?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Anna",
+          "text": "No, thanks. I don't like hot drinks. I'd like an orange juice, please."
+        },
+        {
+          "id": "s6",
+          "speaker": "Tom",
+          "text": "Are you hungry? They have cheese sandwiches and chocolate cake."
+        },
+        {
+          "id": "s7",
+          "speaker": "Anna",
+          "text": "Yes, I am. I'll have a cheese sandwich. Cake is for my birthday!"
+        },
+        {
+          "id": "s8",
+          "speaker": "Tom",
+          "text": "OK. The juice is two pounds and the sandwich is three pounds. That's five pounds."
+        },
+        {
+          "id": "s9",
+          "speaker": "Anna",
+          "text": "Here you are. And after this, can we go to the park? It's sunny today."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A school trip",
+      "intro": "You will hear a teacher, Mrs Green, talking to her class about a trip.",
+      "speakers": {
+        "Mrs Green": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Mrs Green",
+          "text": "Good morning, everyone. Next Monday, we're going on a trip to the zoo."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Green",
+          "text": "The bus leaves from the school gate at half past eight. Please don't be late!"
+        },
+        {
+          "id": "s12",
+          "speaker": "Mrs Green",
+          "text": "At the zoo, we can see lions, monkeys and elephants. My favourite animals are the penguins."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mrs Green",
+          "text": "Please bring a packed lunch and a bottle of water. You don't need money."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mrs Green",
+          "text": "Wear comfortable shoes, because we're going to walk a lot. And bring a coat. It can be cold in the afternoon."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mrs Green",
+          "text": "We come back to school at three o'clock. Your parents can meet you here."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone message",
+      "intro": "You will hear a message from Sam's dad.",
+      "speakers": {
+        "Dad": "male"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Dad",
+          "text": "Hi, Sam. It's Dad. I'm still at work, and I'm going to be home late tonight, at about seven o'clock."
+        },
+        {
+          "id": "s17",
+          "speaker": "Dad",
+          "text": "Mum is at Grandma's house, so can you help me? There's some pasta in the fridge. Please put it in the oven at six."
+        },
+        {
+          "id": "s18",
+          "speaker": "Dad",
+          "text": "Your football boots are in the car. I can bring them home tonight."
+        },
+        {
+          "id": "s19",
+          "speaker": "Dad",
+          "text": "Oh, and please take the dog for a walk. Not a long walk, just to the end of the street."
+        },
+        {
+          "id": "s20",
+          "speaker": "Dad",
+          "text": "Don't play computer games all evening! Do your homework first. See you later. Bye!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · In a clothes shop",
+      "intro": "You will hear Ben talking to a shop assistant.",
+      "speakers": {
+        "Assistant": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Assistant",
+          "text": "Hello. Can I help you?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Ben",
+          "text": "Yes, please. I'm looking for a T-shirt for my brother. It's his birthday tomorrow."
+        },
+        {
+          "id": "s23",
+          "speaker": "Assistant",
+          "text": "How old is he?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Ben",
+          "text": "He's twelve. He likes football, and his favourite colour is green."
+        },
+        {
+          "id": "s25",
+          "speaker": "Assistant",
+          "text": "We have this green T-shirt with a football on it. It's fifteen pounds."
+        },
+        {
+          "id": "s26",
+          "speaker": "Ben",
+          "text": "Oh, that's nice, but it's very big. Do you have a small one?"
+        },
+        {
+          "id": "s27",
+          "speaker": "Assistant",
+          "text": "Yes, here's a small one. And today, all T-shirts are ten pounds."
+        },
+        {
+          "id": "s28",
+          "speaker": "Ben",
+          "text": "Great! I'll take it. Can I pay by card?"
+        },
+        {
+          "id": "s29",
+          "speaker": "Assistant",
+          "text": "Of course. Would you like a bag?"
+        },
+        {
+          "id": "s30",
+          "speaker": "Ben",
+          "text": "No, thank you. I've got my school bag."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {"id": "q1", "partId": "p1", "type": "detail", "text": "Why was Anna late?", "options": ["She got up late.", "She walked to the café.", "The bus was slow."], "answer": 2, "points": 1, "explanation": "Anna says the bus was very slow this morning.", "evidence": [{"lineId": "s1", "quote": "The bus was very slow this morning."}]},
+    {"id": "q2", "partId": "p1", "type": "detail", "text": "How long did Tom wait?", "options": ["Fifteen minutes", "Ten minutes", "Fifty minutes"], "answer": 0, "points": 1, "explanation": "Tom says: \"I only waited fifteen minutes.\" Ten o'clock is the time he came.", "evidence": [{"lineId": "s2", "quote": "I only waited fifteen minutes."}]},
+    {"id": "q3", "partId": "p1", "type": "detail", "text": "What does Anna want to drink?", "options": ["A cup of tea", "An orange juice", "A hot chocolate"], "answer": 1, "points": 1, "explanation": "Anna doesn't like hot drinks, so she asks for an orange juice.", "evidence": [{"lineId": "s5", "quote": "I'd like an orange juice, please."}]},
+    {"id": "q4", "partId": "p1", "type": "detail", "text": "How much do Anna's drink and food cost?", "options": ["Two pounds", "Three pounds", "Five pounds"], "answer": 2, "points": 1, "explanation": "The juice is two pounds and the sandwich is three pounds: five pounds in total.", "evidence": [{"lineId": "s8", "quote": "That's five pounds."}]},
+    {"id": "q5", "partId": "p1", "type": "inference", "text": "Where does Anna want to go next?", "options": ["To the park", "To a birthday party", "Home"], "answer": 0, "points": 1, "explanation": "Anna asks: \"Can we go to the park?\" because it's sunny.", "evidence": [{"lineId": "s9", "quote": "can we go to the park?"}]},
+    {"id": "q6", "partId": "p2", "type": "main-idea", "text": "What is Mrs Green talking about?", "options": ["A new classroom", "A trip to the zoo", "A sports day"], "answer": 1, "points": 1, "explanation": "She tells the class about next Monday's trip to the zoo.", "evidence": [{"lineId": "s10", "quote": "we're going on a trip to the zoo"}]},
+    {"id": "q7", "partId": "p2", "type": "detail", "text": "What time does the bus leave?", "options": ["At three o'clock", "At half past eight", "At eight o'clock"], "answer": 1, "points": 1, "explanation": "The bus leaves at half past eight. Three o'clock is when they come back.", "evidence": [{"lineId": "s11", "quote": "at half past eight"}]},
+    {"id": "q8", "partId": "p2", "type": "attitude", "text": "Which animals does Mrs Green like best?", "options": ["Elephants", "Penguins", "Lions"], "answer": 1, "points": 1, "explanation": "She says: \"My favourite animals are the penguins.\"", "evidence": [{"lineId": "s12", "quote": "My favourite animals are the penguins."}]},
+    {"id": "q9", "partId": "p2", "type": "detail", "text": "What do the children NOT need to bring?", "options": ["A packed lunch", "A coat", "Money"], "answer": 2, "points": 1, "explanation": "Mrs Green says: \"You don't need money.\"", "evidence": [{"lineId": "s13", "quote": "You don't need money."}]},
+    {"id": "q10", "partId": "p2", "type": "inference", "text": "Why should the children wear comfortable shoes?", "options": ["Because they will walk a lot", "Because it can rain", "Because they will play football"], "answer": 0, "points": 1, "explanation": "They are going to walk a lot at the zoo.", "evidence": [{"lineId": "s14", "quote": "because we're going to walk a lot"}]},
+    {"id": "q11", "partId": "p3", "type": "detail", "text": "When will Dad be home?", "options": ["At about eight o'clock", "At about six o'clock", "At about seven o'clock"], "answer": 2, "points": 1, "explanation": "Dad will be home late, at about seven o'clock. Six o'clock is the time for the pasta.", "evidence": [{"lineId": "s16", "quote": "at about seven o'clock"}]},
+    {"id": "q12", "partId": "p3", "type": "detail", "text": "Where is Mum?", "options": ["At the shops", "At work", "At Grandma's house"], "answer": 2, "points": 1, "explanation": "Dad says Mum is at Grandma's house.", "evidence": [{"lineId": "s17", "quote": "Mum is at Grandma's house"}]},
+    {"id": "q13", "partId": "p3", "type": "detail", "text": "What must Sam do at six o'clock?", "options": ["Play football", "Walk the dog", "Put the pasta in the oven"], "answer": 2, "points": 1, "explanation": "Dad asks Sam to put the pasta in the oven at six.", "evidence": [{"lineId": "s17", "quote": "Please put it in the oven at six."}]},
+    {"id": "q14", "partId": "p3", "type": "detail", "text": "Where are Sam's football boots?", "options": ["At school", "In his bedroom", "In the car"], "answer": 2, "points": 1, "explanation": "Dad says the football boots are in the car.", "evidence": [{"lineId": "s18", "quote": "Your football boots are in the car."}]},
+    {"id": "q15", "partId": "p3", "type": "purpose", "text": "Why does Dad leave this message?", "options": ["To invite Sam to a football match", "To ask Sam to help at home", "To say he is ill"], "answer": 1, "points": 1, "explanation": "Dad is late, so he asks Sam to do some jobs at home: the pasta, the dog and homework.", "evidence": [{"lineId": "s17", "quote": "so can you help me?"}]},
+    {"id": "q16", "partId": "p4", "type": "purpose", "text": "Why is Ben in the shop?", "options": ["To buy a present for his brother", "To buy football boots", "To buy a school bag"], "answer": 0, "points": 1, "explanation": "He wants a T-shirt for his brother's birthday.", "evidence": [{"lineId": "s22", "quote": "I'm looking for a T-shirt for my brother."}]},
+    {"id": "q17", "partId": "p4", "type": "detail", "text": "How old is Ben's brother?", "options": ["Ten", "Fifteen", "Twelve"], "answer": 2, "points": 1, "explanation": "Ben says: \"He's twelve.\"", "evidence": [{"lineId": "s24", "quote": "He's twelve."}]},
+    {"id": "q18", "partId": "p4", "type": "inference", "text": "What is the problem with the first T-shirt?", "options": ["It is the wrong colour.", "It is too expensive.", "It is too big."], "answer": 2, "points": 1, "explanation": "Ben likes it, but it's very big, so he asks for a small one.", "evidence": [{"lineId": "s26", "quote": "it's very big"}]},
+    {"id": "q19", "partId": "p4", "type": "detail", "text": "How much does Ben pay for the T-shirt?", "options": ["Ten pounds", "Twelve pounds", "Fifteen pounds"], "answer": 0, "points": 1, "explanation": "The T-shirt was fifteen pounds, but today all T-shirts are ten pounds.", "evidence": [{"lineId": "s27", "quote": "today, all T-shirts are ten pounds"}]},
+    {"id": "q20", "partId": "p4", "type": "detail", "text": "Why doesn't Ben want a bag?", "options": ["He has got his school bag.", "Bags are expensive.", "The T-shirt is small."], "answer": 0, "points": 1, "explanation": "He says: \"I've got my school bag.\"", "evidence": [{"lineId": "s30", "quote": "I've got my school bag."}]}
+  ]
+}

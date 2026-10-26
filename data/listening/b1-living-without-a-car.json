@@ -1,0 +1,603 @@
+{
+  "id": "l-b1-living-without-a-car",
+  "title": "Living Without a Car",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings about life without a car: a radio interview, a bus announcement, a family chat and a student talk.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A radio interview",
+      "intro": "You will hear Anna interviewing Mark, who sold his car two years ago.",
+      "speakers": {
+        "Anna": "female",
+        "Mark": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Anna",
+          "text": "Today on Green Living we're talking to Mark, who sold his car two years ago and hasn't missed it. Welcome, Mark."
+        },
+        {
+          "id": "s2",
+          "speaker": "Mark",
+          "text": "Thanks for having me, Anna. Though I should say I did miss it for the first month."
+        },
+        {
+          "id": "s3",
+          "speaker": "Anna",
+          "text": "What made you decide to sell it?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Mark",
+          "text": "Money, mainly. When I added up the cost of petrol, insurance and repairs, it came to nearly three thousand pounds a year. And I only used the car at weekends, because I took the train to work."
+        },
+        {
+          "id": "s5",
+          "speaker": "Anna",
+          "text": "So how do you get around now?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Mark",
+          "text": "I cycle for short journeys, and I use the tram for everything else. For the odd occasions when I need a car, say, to move furniture, I rent one for a day. It's much cheaper than owning one."
+        },
+        {
+          "id": "s7",
+          "speaker": "Anna",
+          "text": "Do you ever feel it's inconvenient?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Mark",
+          "text": "Sometimes, when it rains and I'm carrying shopping. But honestly, I'm healthier now, and I've lost five kilos without even trying. I also talk to my neighbours more, because I walk past their houses every morning."
+        },
+        {
+          "id": "s9",
+          "speaker": "Anna",
+          "text": "Would you recommend it to everyone?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Mark",
+          "text": "Not to everyone. If you live in the countryside with no buses, it's almost impossible. But in a city, I think more people should try."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A bus announcement",
+      "intro": "You will hear an announcement from a city bus service.",
+      "speakers": {
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Mai",
+          "text": "Good morning, passengers. This is an important announcement from City Bus Service about changes that start next Monday."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mai",
+          "text": "Route twelve, which goes from the station to the university, will now run every ten minutes instead of every twenty. It will also start earlier, at half past five in the morning."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mai",
+          "text": "Route thirty-five will be cancelled for three weeks, because of road work on Bridge Street. Passengers should take route nine and change at the market. Tickets will be valid on both buses."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mai",
+          "text": "We are also introducing a new weekly pass. It costs fifteen pounds and can be used on any bus or tram. Students can buy it for ten pounds if they show their student card."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "Finally, please remember that the front doors are for getting on, and the middle doors for getting off. Thank you for travelling with us, and have a pleasant day."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A family decision",
+      "intro": "You will hear Linh and her brother Nam talking about selling the family car.",
+      "speakers": {
+        "Linh": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Linh",
+          "text": "Dad says he wants to sell the family car. What do you think, Nam?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Nam",
+          "text": "Honestly, I'm a bit worried. How would we get to Grandma's house? There's no train, and the bus takes two hours."
+        },
+        {
+          "id": "s18",
+          "speaker": "Linh",
+          "text": "Well, we could rent a car for that trip. Dad worked it out, and it's still cheaper than keeping ours."
+        },
+        {
+          "id": "s19",
+          "speaker": "Nam",
+          "text": "Maybe. But what about the weekly shopping? Mum always does a big shop on Saturday."
+        },
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "There's a supermarket that delivers. Mum thought of it herself, actually. She said she'd be happy not to carry heavy bags."
+        },
+        {
+          "id": "s21",
+          "speaker": "Nam",
+          "text": "Hmm. I suppose I could cycle to school instead of getting a lift. It would only take twenty minutes."
+        },
+        {
+          "id": "s22",
+          "speaker": "Linh",
+          "text": "Exactly. And you'd get some exercise, which you badly need."
+        },
+        {
+          "id": "s23",
+          "speaker": "Nam",
+          "text": "Very funny. Still, I'll miss sitting in the back seat with my music on the way to the beach."
+        },
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "We'll still go to the beach. We'll just take the train, and you can listen to music there."
+        },
+        {
+          "id": "s25",
+          "speaker": "Nam",
+          "text": "Fine. I'm still not completely convinced, but I'll give it a try for a few months."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A student talk",
+      "intro": "You will hear Minh giving a talk about a city for his geography project.",
+      "speakers": {
+        "Minh": "male"
+      },
+      "script": [
+        {
+          "id": "s26",
+          "speaker": "Minh",
+          "text": "Hi, everyone. For my geography project I looked at cities that have fewer cars, and I'd like to tell you about one of them."
+        },
+        {
+          "id": "s27",
+          "speaker": "Minh",
+          "text": "In this city, more than half of the people cycle to work or school. Forty years ago, the roads were full of traffic and the air was dirty, so the council decided to build safe bicycle lanes, separate from the cars."
+        },
+        {
+          "id": "s28",
+          "speaker": "Minh",
+          "text": "At first, many shop owners were against the idea. They thought customers wouldn't come without parking spaces. But in fact, the opposite happened. People on bikes stop more often, so the shops sold more."
+        },
+        {
+          "id": "s29",
+          "speaker": "Minh",
+          "text": "The city also made public transport cheap, and it built bridges just for bikes and pedestrians. Some of them are very beautiful, and tourists take photographs of them. In the evening, families often have picnics on them and watch the boats go by."
+        },
+        {
+          "id": "s30",
+          "speaker": "Minh",
+          "text": "Of course, the plan wasn't perfect. Winters are cold, and some people still prefer cars. But the city shows that big changes are possible if people are patient. In my opinion, our town could learn a lot from it."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why did Mark sell his car?",
+      "options": [
+        "It cost too much.",
+        "He moved to the countryside.",
+        "It was too old."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Money was the main reason: petrol, insurance and repairs cost nearly three thousand pounds a year.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Money, mainly."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When did Mark use his car before he sold it?",
+      "options": [
+        "Only on holiday",
+        "At weekends",
+        "Every day for work"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He took the train to work and only used the car at weekends.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I only used the car at weekends"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How does Mark travel for short journeys now?",
+      "options": [
+        "By tram or bus",
+        "By bicycle",
+        "By train and tram"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He cycles for short journeys and uses the tram for everything else.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I cycle for short journeys"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Mark do when he needs a car?",
+      "options": [
+        "He takes a taxi.",
+        "He borrows his brother's.",
+        "He rents one for a day."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He rents a car for a day, which is much cheaper than owning one.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I rent one for a day"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does Mark say about living without a car in the countryside?",
+      "options": [
+        "It can be very difficult.",
+        "Everybody should try it anyway.",
+        "It saves much more money there."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it is almost impossible if there are no buses. He recommends trying it in a city.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "If you live in the countryside with no buses, it's almost impossible."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How often will route twelve run from next Monday?",
+      "options": [
+        "Every twenty minutes",
+        "Every ten minutes",
+        "Every five minutes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It will run every ten minutes instead of every twenty.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "will now run every ten minutes instead of every twenty"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why will route thirty-five be cancelled?",
+      "options": [
+        "A new tram line is opening on Bridge Street",
+        "There is road work on Bridge Street",
+        "There are not enough passengers on it"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The road work on Bridge Street is the reason.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "because of road work on Bridge Street"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What should passengers on route thirty-five do?",
+      "options": [
+        "Take route twelve and change at the station",
+        "Take route nine and change at the market",
+        "Use the tram and buy a weekly pass"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The announcement says to take route nine and change at the market.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Passengers should take route nine and change at the market."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much does the weekly pass cost for students?",
+      "options": [
+        "Fifteen pounds",
+        "Ten pounds",
+        "Five pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The normal price is fifteen pounds, but students pay ten pounds with a student card.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "Students can buy it for ten pounds"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which doors should passengers use to get off the bus?",
+      "options": [
+        "The doors at the back",
+        "The front doors by the driver",
+        "The middle doors"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The front doors are for getting on and the middle doors for getting off.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "the middle doors for getting off"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What are Linh and Nam talking about?",
+      "options": [
+        "Where to go on a school trip",
+        "How to plan a holiday by train",
+        "Whether to sell the family car"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dad wants to sell the family car, and they discuss what it would mean for the family.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Dad says he wants to sell the family car."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Nam feel about the idea at the start?",
+      "options": [
+        "He is excited about it.",
+        "He is worried about it.",
+        "He does not care."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he is a bit worried.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I'm a bit worried."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why is Nam worried about visiting Grandma?",
+      "options": [
+        "Grandma lives too far from the beach",
+        "There is no train and the bus is slow",
+        "The bus to her house is very expensive"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There is no train, and the bus takes two hours.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "There's no train, and the bus takes two hours."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Whose idea was the supermarket delivery?",
+      "options": [
+        "Dad's",
+        "Nam's",
+        "Mum's"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says Mum thought of it herself.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Mum thought of it herself"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What will Nam miss most about the car?",
+      "options": [
+        "Doing the big weekly shop with Mum",
+        "Getting a lift to school every day",
+        "Listening to music in the back seat"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he will miss sitting in the back seat with his music on the way to the beach.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "I'll miss sitting in the back seat with my music on the way to the beach."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Minh's talk mainly about?",
+      "options": [
+        "A city that reduced car use",
+        "How to repair a bicycle at home",
+        "The history of public transport"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He talks about a city with fewer cars and many cyclists.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I looked at cities that have fewer cars"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why did the council build bicycle lanes?",
+      "options": [
+        "Because of heavy traffic and dirty air",
+        "Because of a big cycling race in town",
+        "Because shop owners asked for them"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The roads were full of traffic and the air was dirty.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "the roads were full of traffic and the air was dirty"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What did many shop owners think at first?",
+      "options": [
+        "It would bring more customers in time",
+        "Bicycles would be too dangerous for shoppers",
+        "Customers would not come without parking"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They thought customers would not come without parking spaces.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "They thought customers wouldn't come without parking spaces."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What happened to the shops in the end?",
+      "options": [
+        "Their sales stayed the same.",
+        "They sold more.",
+        "They closed."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "People on bikes stop more often, so the shops sold more.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "the shops sold more"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Minh think about his own town?",
+      "options": [
+        "It already has enough bicycle lanes.",
+        "It is too small for bicycle lanes.",
+        "It could learn from the city."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says that in his opinion his town could learn a lot from the city.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "our town could learn a lot from it"
+        }
+      ]
+    }
+  ]
+}

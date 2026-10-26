@@ -1,0 +1,579 @@
+{
+  "id": "l-yl-f-the-mid-autumn-festival",
+  "title": "The Mid-Autumn Festival",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about the Mid-Autumn Festival: making lanterns, a school announcement, a story and a family tradition.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Making a lantern",
+      "intro": "You will hear Linh and Nam making lanterns.",
+      "speakers": {
+        "Linh": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "Nam, look! I'm making a star lantern for the festival. Do you want to help me?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "Yes, please. What do we need?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "Red and yellow paper, glue, and a small candle. Well, not a real candle. My mum says it's not safe, so we'll use a little electric light."
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "That's a good idea. I made a fish lantern last year, but it was too heavy and it broke."
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "This one is easy. We need five points for the star. Can you cut the paper? I'll put on the glue."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "Sure. Is your grandmother coming to see it?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "Yes, she's coming on Thursday evening. She's bringing some moon cakes, too."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A school announcement",
+      "intro": "You will hear Mr Hung talking about the school lantern parade.",
+      "speakers": {
+        "Mr Hung": "male"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Mr Hung",
+          "text": "Good morning, students. Here is some news about our Mid-Autumn lantern parade. It's on Thursday evening, and we start at six o'clock."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mr Hung",
+          "text": "Please meet at the school gate. We will walk to the park, which takes about twenty minutes."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mr Hung",
+          "text": "There will be a lantern competition. The best lantern wins a big box of pencils. The teachers will decide."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mr Hung",
+          "text": "At seven o'clock, there will be a lion dance in the park, and everyone can eat moon cakes and fruit."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Hung",
+          "text": "Parents are welcome, but small children must stay with an adult. Please bring a warm jacket. It can be cool at night."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Grandpa's story",
+      "intro": "You will hear Mai asking her grandfather about the moon.",
+      "speakers": {
+        "Mai": "female",
+        "Grandpa": "male"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Mai",
+          "text": "Grandpa, can you tell me the story of the moon again?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Grandpa",
+          "text": "Of course, Mai. Long ago, there was a boy called Cuoi. He found a magic tree, and he looked after it very carefully."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "What happened to the tree?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Grandpa",
+          "text": "One day, it began to grow up into the sky, and Cuoi held on to it. He went all the way to the moon, and he lives there still."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "Can we see him tonight?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Grandpa",
+          "text": "Look carefully at the moon. Some people say you can see a boy under a tree. I think it looks like a rabbit, but that's only my idea."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mai",
+          "text": "I think I can see the boy! He looks very happy."
+        },
+        {
+          "id": "s20",
+          "speaker": "Grandpa",
+          "text": "Yes, and he's not alone. Children everywhere look at him at this time of year."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · My family's festival",
+      "intro": "You will hear Ms Hoa talking about how her family celebrates the festival.",
+      "speakers": {
+        "Ms Hoa": "female"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Ms Hoa",
+          "text": "In my family, the Mid-Autumn Festival is the best night of the year. We start in the afternoon, when my mother makes sweet soup."
+        },
+        {
+          "id": "s22",
+          "speaker": "Ms Hoa",
+          "text": "We put a big tray on the table with fruit, tea and moon cakes. There are many kinds of moon cakes. My favourite has lotus seeds inside, but my brother likes the ones with egg."
+        },
+        {
+          "id": "s23",
+          "speaker": "Ms Hoa",
+          "text": "When the moon comes up, we all go outside to see it. It is very round and bright on this night."
+        },
+        {
+          "id": "s24",
+          "speaker": "Ms Hoa",
+          "text": "The children walk around the garden with their lanterns and sing songs. The smallest child gets the first piece of cake."
+        },
+        {
+          "id": "s25",
+          "speaker": "Ms Hoa",
+          "text": "We usually go to bed late, but nobody minds. It is a night for families to be together."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What kind of lantern is Linh making?",
+      "options": [
+        "A round lantern",
+        "A fish lantern",
+        "A star lantern"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says she is making a star lantern.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "I'm making a star lantern"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will they use instead of a real candle?",
+      "options": [
+        "A torch",
+        "A little electric light",
+        "Nothing"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh's mum says a real candle is not safe, so they use an electric light.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "we'll use a little electric light"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What was wrong with Nam's lantern last year?",
+      "options": [
+        "It was too small.",
+        "It was too heavy and broke.",
+        "It was the wrong colour."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His fish lantern was too heavy and it broke.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "it was too heavy and it broke"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Nam do?",
+      "options": [
+        "Put on the glue",
+        "Cut the paper",
+        "Buy the paper"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh will put on the glue, so Nam cuts the paper.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Can you cut the paper?"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is Linh's grandmother bringing?",
+      "options": [
+        "Fruit",
+        "Lanterns",
+        "Moon cakes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She is bringing some moon cakes.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "She's bringing some moon cakes, too."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time does the parade start?",
+      "options": [
+        "At seven o'clock",
+        "At six o'clock",
+        "At five o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The parade starts at six o'clock. Seven o'clock is the lion dance.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "we start at six o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where do the students meet?",
+      "options": [
+        "At the park",
+        "At the library",
+        "At the school gate"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They meet at the school gate and walk to the park.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "Please meet at the school gate."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is the prize for the best lantern?",
+      "options": [
+        "A moon cake",
+        "A box of pencils",
+        "A new lantern"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The best lantern wins a big box of pencils.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "wins a big box of pencils"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What happens at seven o'clock?",
+      "options": [
+        "The walk home",
+        "The competition",
+        "A lion dance"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "There will be a lion dance in the park at seven o'clock.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "there will be a lion dance in the park"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What should children bring?",
+      "options": [
+        "A warm jacket",
+        "An umbrella",
+        "A drink"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Hung says to bring a warm jacket because it can be cool.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Please bring a warm jacket."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did Cuoi find?",
+      "options": [
+        "A white rabbit",
+        "A magic tree",
+        "A golden fish"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Cuoi found a magic tree.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "He found a magic tree"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What happened to the tree?",
+      "options": [
+        "It was cut down.",
+        "It grew up into the sky.",
+        "It died."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The tree began to grow up into the sky.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "it began to grow up into the sky"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where does Cuoi live now?",
+      "options": [
+        "In the sea",
+        "In a garden",
+        "On the moon"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Cuoi went to the moon and lives there still.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "He went all the way to the moon"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Grandpa think the moon looks like?",
+      "options": [
+        "A boy",
+        "A rabbit",
+        "A star"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Grandpa says it looks like a rabbit, but that is only his idea.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I think it looks like a rabbit"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "How does Mai feel at the end?",
+      "options": [
+        "Sad because she is alone",
+        "Happy because she sees the boy",
+        "Bored with the story"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai thinks she can see the boy and says he looks happy.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I think I can see the boy!"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does Ms Hoa's mother make in the afternoon?",
+      "options": [
+        "Moon cakes",
+        "Sweet soup",
+        "Lanterns"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her mother makes sweet soup in the afternoon.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "my mother makes sweet soup"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "Which moon cake does Ms Hoa like best?",
+      "options": [
+        "With egg",
+        "With beans",
+        "With lotus seeds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her favourite has lotus seeds. Her brother likes egg.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "My favourite has lotus seeds inside"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What do they do when the moon comes up?",
+      "options": [
+        "They go outside to look at it.",
+        "They watch television.",
+        "They go to bed."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They all go outside to see the moon.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "we all go outside to see it"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Who gets the first piece of cake?",
+      "options": [
+        "The smallest child",
+        "Her brother",
+        "The oldest person"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The smallest child gets the first piece of cake.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "The smallest child gets the first piece of cake."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is the talk about?",
+      "options": [
+        "A night for families to be together",
+        "A school competition",
+        "How to make a lantern"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ms Hoa describes how her family spends the festival night together.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "It is a night for families to be together."
+        }
+      ]
+    }
+  ]
+}

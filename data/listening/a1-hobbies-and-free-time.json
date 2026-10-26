@@ -1,0 +1,578 @@
+{
+  "id": "l-a1-hobbies-and-free-time",
+  "title": "Hobbies and Free Time",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about free time: music and painting, sports, a club announcement and weekend plans.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Music and painting",
+      "intro": "You will hear Nam and Mai talking about their hobbies.",
+      "speakers": {
+        "Nam": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Hi, Nam. What do you do in your free time?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "I play the guitar. I practise every evening for an hour."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "Wow! Are you in a band? That sounds like so much fun."
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "Not yet. But I want to play with my cousin. He plays the drums."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "That's cool. I'm not good at music. I prefer painting."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "Really? What do you paint?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "Mostly flowers and animals. My teacher says I'm quite good."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "Maybe you can paint a picture for our band! I will ask my cousin, and we can all meet on Saturday at my house."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Anna's hobbies",
+      "intro": "You will hear a girl, Anna, talking about her hobbies.",
+      "speakers": {
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Anna",
+          "text": "Hello! My name's Anna, and I love sport. I have three hobbies. I do them all with my family or friends."
+        },
+        {
+          "id": "s10",
+          "speaker": "Anna",
+          "text": "My favourite is swimming. I go to the pool every Tuesday and Thursday after school."
+        },
+        {
+          "id": "s11",
+          "speaker": "Anna",
+          "text": "I also play tennis on Saturdays with my sister. She's better than me, but I'm learning fast."
+        },
+        {
+          "id": "s12",
+          "speaker": "Anna",
+          "text": "My third hobby is cooking. On Sundays I make a cake or some soup for my family."
+        },
+        {
+          "id": "s13",
+          "speaker": "Anna",
+          "text": "I don't like watching television. I think it's boring. I'd rather be outside."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Club announcement",
+      "intro": "You will hear Mr Khoa talking about school clubs.",
+      "speakers": {
+        "Mr Khoa": "male"
+      },
+      "script": [
+        {
+          "id": "s14",
+          "speaker": "Mr Khoa",
+          "text": "Welcome to the Saturday Club! I'm Mr Khoa, and I'll tell you about this term."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mr Khoa",
+          "text": "On Monday afternoons we have chess in Room Five. On Wednesday afternoons we have art in the big hall."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mr Khoa",
+          "text": "Our new club is photography. It meets on Fridays at four o'clock, and it's free."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mr Khoa",
+          "text": "You need a camera or a phone to take photos."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mr Khoa",
+          "text": "To join, write your name on the list outside my office. The list closes next Friday."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Weekend plans",
+      "intro": "You will hear Hoa and Jack making plans.",
+      "speakers": {
+        "Jack": "male",
+        "Hoa": "female"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Hoa",
+          "text": "Jack, are you free on Saturday? There's a new cinema near the station."
+        },
+        {
+          "id": "s20",
+          "speaker": "Jack",
+          "text": "Maybe. What film is on?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Hoa",
+          "text": "A funny one about a talking dog. It starts at two o'clock."
+        },
+        {
+          "id": "s22",
+          "speaker": "Jack",
+          "text": "Hmm, I prefer action films. And I'm playing basketball at half past one, so I can't come."
+        },
+        {
+          "id": "s23",
+          "speaker": "Hoa",
+          "text": "What about Sunday? We could go cycling by the lake."
+        },
+        {
+          "id": "s24",
+          "speaker": "Jack",
+          "text": "Good idea! But my bike is broken. Can I borrow yours?"
+        },
+        {
+          "id": "s25",
+          "speaker": "Hoa",
+          "text": "My brother has an old bike you can use. Meet at nine o'clock at the lake."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Nam do every evening?",
+      "options": [
+        "He paints pictures.",
+        "He plays the drums.",
+        "He practises the guitar."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He practises the guitar every evening.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I play the guitar."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How long does Nam practise?",
+      "options": [
+        "An hour",
+        "Ten minutes",
+        "All evening"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He practises for an hour.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I practise every evening for an hour."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Who plays the drums?",
+      "options": [
+        "Mai",
+        "Nam's cousin",
+        "Nam"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam's cousin plays the drums.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "He plays the drums."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does Mai like better than music?",
+      "options": [
+        "Painting",
+        "Dancing",
+        "Sport"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she is not good at music and prefers painting.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "I prefer painting."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Mai paint?",
+      "options": [
+        "Houses and cars",
+        "People and bands",
+        "Flowers and animals"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She mostly paints flowers and animals.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "Mostly flowers and animals."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "How many hobbies does Anna have?",
+      "options": [
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she has three hobbies.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I have three hobbies."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When does Anna go swimming?",
+      "options": [
+        "On Tuesdays and Thursdays",
+        "On Sundays",
+        "On Saturdays"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She goes to the pool every Tuesday and Thursday.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "every Tuesday and Thursday after school"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who does Anna play tennis with?",
+      "options": [
+        "Her mother",
+        "Her sister",
+        "Her friend"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She plays tennis on Saturdays with her sister.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I also play tennis on Saturdays with my sister."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Anna make on Sundays?",
+      "options": [
+        "A cake or some soup",
+        "Noodles",
+        "Sandwiches"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "On Sundays she makes a cake or some soup.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I make a cake or some soup for my family."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Anna think about television?",
+      "options": [
+        "It is boring.",
+        "It is fun.",
+        "It is useful."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she thinks it is boring.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "I think it's boring."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where is the chess club?",
+      "options": [
+        "In Room Five",
+        "In the big hall",
+        "Outside the office"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Chess is in Room Five. Art is in the big hall.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "chess in Room Five"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When is the art club?",
+      "options": [
+        "On Monday afternoons",
+        "On Wednesday afternoons",
+        "On Friday afternoons"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Art is on Wednesday afternoons.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "On Wednesday afternoons we have art in the big hall."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is the new club?",
+      "options": [
+        "Photography",
+        "Art",
+        "Chess"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Khoa says the new club is photography.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Our new club is photography."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What do students need for the new club?",
+      "options": [
+        "A pencil",
+        "Some money",
+        "A camera or a phone"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They need a camera or a phone to take photos. The club itself is free.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "You need a camera or a phone to take photos."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How can students join?",
+      "options": [
+        "Write their name on a list",
+        "Pay at the desk",
+        "Phone Mr Khoa"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They write their name on the list outside his office.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "write your name on the list outside my office"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where is the new cinema?",
+      "options": [
+        "Near the school",
+        "Near the station",
+        "By the lake"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Hoa says it is near the station.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "There's a new cinema near the station."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why can't Jack go to the cinema on Saturday?",
+      "options": [
+        "He is going cycling.",
+        "He is ill.",
+        "He is playing basketball."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He has a basketball game at half past one.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I'm playing basketball at half past one"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What kind of films does Jack prefer?",
+      "options": [
+        "Cartoons",
+        "Action films",
+        "Funny films"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he prefers action films.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I prefer action films."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is the problem with Jack's bike?",
+      "options": [
+        "It is broken.",
+        "It is at school.",
+        "It is too old."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says his bike is broken.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "my bike is broken"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Whose bike will Jack use on Sunday?",
+      "options": [
+        "Hoa's brother's",
+        "Hoa's",
+        "His cousin's"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Hoa's brother has an old bike Jack can use.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "My brother has an old bike you can use."
+        }
+      ]
+    }
+  ]
+}

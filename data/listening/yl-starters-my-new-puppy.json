@@ -1,0 +1,347 @@
+{
+  "id": "l-yl-s-my-new-puppy",
+  "title": "My New Puppy",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about a boy and his new puppy.",
+  "instructions": "Read the questions first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · At school",
+      "intro": "You will hear Tom and Mai talking about a puppy.",
+      "speakers": {
+        "Tom": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Tom",
+          "text": "Hello, Mai! I have a new puppy."
+        },
+        {
+          "id": "s2",
+          "speaker": "Mai",
+          "text": "Wow! What colour is it?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Tom",
+          "text": "It is brown, not black. It has a white nose."
+        },
+        {
+          "id": "s4",
+          "speaker": "Mai",
+          "text": "What is its name?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Tom",
+          "text": "Its name is Biscuit."
+        },
+        {
+          "id": "s6",
+          "speaker": "Mai",
+          "text": "Can I see it?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Tom",
+          "text": "Yes! Come to my house."
+        },
+        {
+          "id": "s8",
+          "speaker": "Mai",
+          "text": "He is so small and soft. I like puppies very much."
+        },
+        {
+          "id": "s9",
+          "speaker": "Tom",
+          "text": "Me too. He is my best friend now."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The puppy",
+      "intro": "You will hear Tom talking about his puppy.",
+      "speakers": {
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Tom",
+          "text": "My puppy likes chicken, but he does not like carrots."
+        },
+        {
+          "id": "s11",
+          "speaker": "Tom",
+          "text": "He sleeps in a small blue bed. He does not sleep on my bed."
+        },
+        {
+          "id": "s12",
+          "speaker": "Tom",
+          "text": "I love to play with a red ball."
+        },
+        {
+          "id": "s13",
+          "speaker": "Tom",
+          "text": "Every day after school, I run with him in the garden."
+        },
+        {
+          "id": "s14",
+          "speaker": "Tom",
+          "text": "He is a good, happy dog."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · At home",
+      "intro": "You will hear Mai and Tom's dad at his house.",
+      "speakers": {
+        "Mai": "female",
+        "Dad": "male"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "Hello! Is that your puppy?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Dad",
+          "text": "Yes. He is very happy today."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "Can I give him some water?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Dad",
+          "text": "Yes, please. The bowl is in the kitchen."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mai",
+          "text": "He is so cute. I like him!"
+        },
+        {
+          "id": "s20",
+          "speaker": "Dad",
+          "text": "Come and sit with us. The puppy likes visitors."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mai",
+          "text": "Thank you. I am very happy to be here."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What colour is the puppy?",
+      "options": [
+        "Black",
+        "White",
+        "Brown"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says the puppy is brown, not black.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "It is brown, not black."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is white on the puppy?",
+      "options": [
+        "Its tail",
+        "Its ears",
+        "Its nose"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says it has a white nose.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "It has a white nose."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is the puppy's name?",
+      "options": [
+        "Biscuit",
+        "Ball",
+        "Carrot"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom says its name is Biscuit.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Its name is Biscuit."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "Does Mai want to see the puppy?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai asks, \"Can I see it?\" so she wants to see it.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "Can I see it?"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does the puppy like to eat?",
+      "options": [
+        "Chicken",
+        "Cake",
+        "Carrots"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The puppy likes chicken, not carrots.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "likes chicken"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where does the puppy sleep?",
+      "options": [
+        "In a blue bed",
+        "On Tom's bed",
+        "In the kitchen"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He sleeps in a small blue bed, not on Tom's bed.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "He sleeps in a small blue bed."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Tom love to play with?",
+      "options": [
+        "A white nose",
+        "A blue bed",
+        "A red ball"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom loves to play with a red ball.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I love to play with a red ball."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Mai give the puppy?",
+      "options": [
+        "A ball",
+        "Water",
+        "Chicken"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai asks to give him some water.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "give him some water"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where is the bowl?",
+      "options": [
+        "In the kitchen",
+        "In the garden",
+        "In the bed"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The dad says the bowl is in the kitchen.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "The bowl is in the kitchen."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "Does Mai like the puppy?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai says, \"I like him!\"",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I like him!"
+        }
+      ]
+    }
+  ]
+}

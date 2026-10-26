@@ -1,0 +1,608 @@
+{
+  "id": "l-a2-booking-a-holiday",
+  "title": "Booking a Holiday",
+  "level": "A2 · Elementary",
+  "description": "Four recordings about planning and booking a holiday: a travel agent, a radio programme, a hotel call and a talk.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · At the travel agent",
+      "intro": "You will hear Nam talking to a travel agent called Clara.",
+      "speakers": {
+        "Nam": "male",
+        "Clara": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Clara",
+          "text": "Good morning. Can I help you?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "Yes, please. I'd like to book a holiday for my family. There are four of us."
+        },
+        {
+          "id": "s3",
+          "speaker": "Clara",
+          "text": "Of course. Where would you like to go?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "Well, we wanted to go to Spain, but my wife prefers Greece. She loves swimming in the sea."
+        },
+        {
+          "id": "s5",
+          "speaker": "Clara",
+          "text": "Greece is lovely in July. The hotels are quite cheap then, and the weather is very hot."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "That sounds good. How much is a week for four people?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Clara",
+          "text": "It's nine hundred pounds with flights. Breakfast is included, but dinner is not."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "Hmm, that's a bit more than I wanted to pay. Is there anything cheaper?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Clara",
+          "text": "Well, you could fly on a Tuesday instead of a Saturday. That saves one hundred pounds."
+        },
+        {
+          "id": "s10",
+          "speaker": "Nam",
+          "text": "Great, let's do that. We'll leave on the fifth of July."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A radio programme",
+      "intro": "You will hear a radio presenter talking about holiday offers.",
+      "speakers": {
+        "Helen": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Helen",
+          "text": "Good afternoon, listeners. This week on Holiday Hour, we are talking about cheap summer deals."
+        },
+        {
+          "id": "s12",
+          "speaker": "Helen",
+          "text": "Our first offer is a trip to the island of Malta. It costs only four hundred pounds for five days, and children under ten travel free."
+        },
+        {
+          "id": "s13",
+          "speaker": "Helen",
+          "text": "Our second offer is a mountain holiday in Austria. It's not as cheap, at six hundred pounds, but the price includes ski lessons. Oh, sorry, I mean walking tours, because there is no snow in summer!"
+        },
+        {
+          "id": "s14",
+          "speaker": "Helen",
+          "text": "If you want to book, please call before the end of the month. The number is on our website."
+        },
+        {
+          "id": "s15",
+          "speaker": "Helen",
+          "text": "And remember, anyone who books online this week gets a free map and a bottle of water."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone call to a hotel",
+      "intro": "You will hear Minh phoning a hotel.",
+      "speakers": {
+        "Minh": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Linh",
+          "text": "Sunny Bay Hotel, Linh speaking. How can I help you?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Minh",
+          "text": "Hello. This is Minh Tran. I have a room booked for next weekend, but I need to change it."
+        },
+        {
+          "id": "s18",
+          "speaker": "Linh",
+          "text": "Of course. Can you tell me the date of your booking?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Minh",
+          "text": "Yes, I'm arriving on Friday the twelfth. But my train is cancelled, so I can only come on Saturday."
+        },
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "No problem. Saturday the thirteenth. Is that for two nights still?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Minh",
+          "text": "Actually, just one night, then. I must be back at work on Monday morning."
+        },
+        {
+          "id": "s22",
+          "speaker": "Linh",
+          "text": "I see. And you wanted a room with a sea view, is that right?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Minh",
+          "text": "Yes, please, if possible. And can I have a quiet room? Last time, there was a lot of noise from the restaurant."
+        },
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "Certainly. I'll put you on the second floor, at the back. Breakfast is from seven to ten."
+        },
+        {
+          "id": "s25",
+          "speaker": "Minh",
+          "text": "Perfect. Thanks very much for your help."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Holiday tips",
+      "intro": "You will hear a man giving a talk about holiday tips.",
+      "speakers": {
+        "Mr Brown": "male"
+      },
+      "script": [
+        {
+          "id": "s26",
+          "speaker": "Mr Brown",
+          "text": "Hello, everyone. Today I'm going to give you some tips for a happy holiday."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mr Brown",
+          "text": "First, make a list before you pack. Many people forget small things like a charger or sun cream."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mr Brown",
+          "text": "Second, put your passport and tickets in your hand bag, not in your suitcase. If the airline loses your suitcase, you'll still have your documents."
+        },
+        {
+          "id": "s29",
+          "speaker": "Mr Brown",
+          "text": "Third, check the weather. Don't take only summer clothes, because it can rain even in hot countries."
+        },
+        {
+          "id": "s30",
+          "speaker": "Mr Brown",
+          "text": "Finally, learn a few words of the local language. When I went to Italy last year, I learned how to say hello and thank you."
+        },
+        {
+          "id": "s31",
+          "speaker": "Mr Brown",
+          "text": "People were so friendly, and I got a free coffee in one café! So, have a wonderful trip."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many people are going on the holiday?",
+      "options": [
+        "Three",
+        "Four",
+        "Two"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam says there are four of them.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "There are four of us."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why does Nam's wife prefer Greece?",
+      "options": [
+        "The hotels are cheap.",
+        "Her family lives there.",
+        "She loves swimming in the sea."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She loves swimming in the sea. Cheap hotels are a reason Clara gives, not the wife.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "She loves swimming in the sea."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is included in the price?",
+      "options": [
+        "Only the hotel",
+        "Breakfast and flights",
+        "Dinner and flights"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Clara says the price has flights and breakfast, but not dinner.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "Breakfast is included, but dinner is not."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How can Nam save money?",
+      "options": [
+        "By going to Spain",
+        "By staying six days",
+        "By flying on a Tuesday"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Flying on a Tuesday saves one hundred pounds.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "you could fly on a Tuesday instead of a Saturday"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When will the family leave?",
+      "options": [
+        "On a Saturday",
+        "On the fifth of July",
+        "On the fifteenth of July"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam says they will leave on the fifth of July.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "We'll leave on the fifth of July."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is the programme about?",
+      "options": [
+        "Cheap summer holiday offers",
+        "How to learn to ski",
+        "The weather around the world"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The presenter talks about cheap summer deals.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "we are talking about cheap summer deals"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much is the trip to Malta?",
+      "options": [
+        "Six hundred pounds",
+        "Four hundred pounds",
+        "Five hundred pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Malta costs four hundred pounds. Six hundred is the price for Austria.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "It costs only four hundred pounds for five days"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who travels free to Malta?",
+      "options": [
+        "Grandparents",
+        "Students",
+        "Children under ten"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Children under ten travel free.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "children under ten travel free"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does the price for Austria include?",
+      "options": [
+        "Walking tours",
+        "Free dinners",
+        "Ski lessons"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She corrects herself: there is no snow in summer, so it is walking tours, not ski lessons.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "I mean walking tours"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What do people get if they book online this week?",
+      "options": [
+        "A free dinner",
+        "A free map and water",
+        "A hotel discount"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Anyone who books online this week gets a free map and a bottle of water.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "gets a free map and a bottle of water"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Minh call the hotel?",
+      "options": [
+        "To change his booking",
+        "To book a table",
+        "To complain about noise"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he needs to change his booking.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I need to change it."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why can't Minh arrive on Friday?",
+      "options": [
+        "His train is cancelled.",
+        "He has to work.",
+        "He is ill."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "His train is cancelled, so he can only come on Saturday.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "my train is cancelled"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How many nights will he stay now?",
+      "options": [
+        "Two",
+        "Three",
+        "One"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He changes from two nights to just one night.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "just one night"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What kind of room does Minh want?",
+      "options": [
+        "A room on the first floor",
+        "A quiet room with a sea view",
+        "A room near the restaurant"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He wants a sea view and a quiet room, because the restaurant was noisy last time.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "can I have a quiet room?"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time is breakfast?",
+      "options": [
+        "From eight to eleven",
+        "From seven to ten",
+        "From six to nine"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says breakfast is from seven to ten.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "Breakfast is from seven to ten."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is the talk about?",
+      "options": [
+        "Why airlines lose suitcases",
+        "Learning Italian",
+        "Tips for a better holiday"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The speaker gives tips for a happy holiday.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "some tips for a happy holiday"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where should people keep their passport?",
+      "options": [
+        "In the suitcase",
+        "In a pocket",
+        "In a hand bag"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says to put the passport and tickets in the hand bag.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "put your passport and tickets in your hand bag"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why should people check the weather?",
+      "options": [
+        "The airline needs to know.",
+        "It can rain even in hot countries.",
+        "Summer is too hot."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says it can rain even in hot countries, so people need more than summer clothes.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "it can rain even in hot countries"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What did the speaker learn to say in Italy?",
+      "options": [
+        "How to order dinner",
+        "Hello and thank you",
+        "How to ask for a map"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He learned how to say hello and thank you.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "I learned how to say hello and thank you"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How did the speaker feel about the people in Italy?",
+      "options": [
+        "They were unfriendly.",
+        "They were too busy.",
+        "They were very friendly."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says people were so friendly and he even got a free coffee.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "People were so friendly"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "id": "l-a1-at-the-doctors",
+  "title": "At the Doctor's",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about being ill: booking an appointment, seeing the doctor, getting medicine and a talk by a nurse.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Making an appointment",
+      "intro": "You will hear Sam phone a clinic and talk to the receptionist.",
+      "speakers": {
+        "Linh": "female",
+        "Sam": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "Good morning, Green Street Clinic. How can I help you?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Sam",
+          "text": "Hello. I'd like to see the doctor, please. My stomach is OK, but I have a very bad headache."
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "Can you come today at two o'clock?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Sam",
+          "text": "Sorry, I'm at school until three. Is four o'clock OK?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "Let me see. The doctor is busy at four. How about half past four?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Sam",
+          "text": "Yes, that's fine."
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "Thank you, Sam. Please bring your mother or father with you, because you are only fourteen."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · In the doctor's room",
+      "intro": "You will hear Nam talking to Dr Lee.",
+      "speakers": {
+        "Dr Lee": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Dr Lee",
+          "text": "Come in, Nam. Sit down. What's the problem?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Nam",
+          "text": "I have a sore throat and a cough. It started three days ago."
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Lee",
+          "text": "Do you have a temperature? Let me check. Yes, it's thirty-eight degrees. You have a fever."
+        },
+        {
+          "id": "s11",
+          "speaker": "Nam",
+          "text": "Is it serious?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Dr Lee",
+          "text": "No, it's just a cold. You need to stay at home and rest for two days."
+        },
+        {
+          "id": "s13",
+          "speaker": "Dr Lee",
+          "text": "Drink a lot of water and warm tea with honey. Don't drink cold drinks or eat ice cream."
+        },
+        {
+          "id": "s14",
+          "speaker": "Nam",
+          "text": "OK. Can I play football on Saturday?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Dr Lee",
+          "text": "No, not this week. Wait until next Monday."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · At the pharmacy",
+      "intro": "You will hear a pharmacist giving Nam his medicine.",
+      "speakers": {
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "Here is your medicine, Nam. Please listen carefully."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "Take one white pill in the morning and one white pill in the evening, after food. Do not take the pills at night."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "This red syrup is for your cough. Take one spoon, three times a day."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mai",
+          "text": "The medicine costs twelve pounds. You can pay at the desk."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "If you still feel ill after three days, come back and see the doctor again."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Staying healthy",
+      "intro": "You will hear the school nurse, Mr Hill, talking to students.",
+      "speakers": {
+        "Mr Hill": "male"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Mr Hill",
+          "text": "Hello, everyone. I'm Mr Hill, the school nurse. Today I want to talk about staying healthy."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mr Hill",
+          "text": "First, sleep. Children need nine or ten hours of sleep every night. Many students sleep only six hours, and that's not enough."
+        },
+        {
+          "id": "s23",
+          "speaker": "Mr Hill",
+          "text": "Second, eat well. Have fruit and vegetables every day. Try not to eat too many sweets."
+        },
+        {
+          "id": "s24",
+          "speaker": "Mr Hill",
+          "text": "Third, move your body. Play sport for one hour every day. Walking to school is a good idea."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mr Hill",
+          "text": "Finally, wash your hands before you eat. It stops germs. My office is next to the library, so come and see me if you feel ill."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Sam call the clinic?",
+      "options": [
+        "To cancel an appointment",
+        "To ask for medicine",
+        "To make an appointment"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He wants to see the doctor, so he makes an appointment.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I'd like to see the doctor, please."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is wrong with Sam?",
+      "options": [
+        "He has a cough.",
+        "He has a headache.",
+        "He has a bad stomach."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says his stomach is OK, but he has a very bad headache.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I have a very bad headache."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time is Sam's appointment?",
+      "options": [
+        "Two o'clock",
+        "Four o'clock",
+        "Half past four"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Four o'clock is not possible, so they choose half past four.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "How about half past four?"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why can't Sam come at two o'clock?",
+      "options": [
+        "He is asleep.",
+        "He is at school.",
+        "He is at the doctor's."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Sam is at school until three.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I'm at school until three."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Who must come with Sam?",
+      "options": [
+        "His mother or father",
+        "His sister",
+        "His teacher"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The receptionist says to bring his mother or father.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "Please bring your mother or father with you"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is Nam's problem?",
+      "options": [
+        "A sore back",
+        "A bad leg",
+        "A sore throat and a cough"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he has a sore throat and a cough.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I have a sore throat and a cough."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When did Nam's problem start?",
+      "options": [
+        "Three days ago",
+        "Yesterday",
+        "Two days ago"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It started three days ago. Two days is how long he must rest.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "It started three days ago."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What does Dr Lee say about Nam's illness?",
+      "options": [
+        "It is only a cold.",
+        "It is very serious.",
+        "It is a broken throat."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says it is not serious, just a cold.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "it's just a cold"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What should Nam drink?",
+      "options": [
+        "Milk and juice",
+        "Water and warm tea with honey",
+        "Cold drinks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dr Lee says to drink water and warm tea with honey, not cold drinks.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Drink a lot of water and warm tea with honey."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When can Nam play football again?",
+      "options": [
+        "This Saturday",
+        "Next Monday",
+        "In two days"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He must wait until next Monday. Saturday is too soon.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Wait until next Monday."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When should Nam take the white pills?",
+      "options": [
+        "In the morning and evening",
+        "At night",
+        "Three times a day"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says one pill in the morning and one in the evening, not at night.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "one white pill in the morning and one white pill in the evening"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When should he take the pills?",
+      "options": [
+        "With the syrup",
+        "Before food",
+        "After food"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The pharmacist says to take them after food.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "after food"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is the red syrup for?",
+      "options": [
+        "His cough",
+        "His fever",
+        "His headache"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the red syrup is for his cough.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "This red syrup is for your cough."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How often should he take the syrup?",
+      "options": [
+        "Once a day",
+        "Twice a day",
+        "Three times a day"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He takes one spoon, three times a day.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "three times a day"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When should Nam see the doctor again?",
+      "options": [
+        "If he is still ill after three days",
+        "After twelve days",
+        "Tomorrow morning"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He should come back if he still feels ill after three days.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "If you still feel ill after three days"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "Who is speaking?",
+      "options": [
+        "A doctor",
+        "A teacher",
+        "The school nurse"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he is the school nurse.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "I'm Mr Hill, the school nurse."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How much sleep do children need?",
+      "options": [
+        "Twelve hours",
+        "Six hours",
+        "Nine or ten hours"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Children need nine or ten hours. Six hours is not enough.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "Children need nine or ten hours of sleep every night."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What should students try NOT to eat too much?",
+      "options": [
+        "Fruit",
+        "Sweets",
+        "Vegetables"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says to try not to eat too many sweets.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "Try not to eat too many sweets."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What should students do for one hour every day?",
+      "options": [
+        "Play sport",
+        "Sleep",
+        "Do homework"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says to play sport for one hour every day.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "Play sport for one hour every day."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where is Mr Hill's office?",
+      "options": [
+        "Next to the gym",
+        "Next to the library",
+        "Next to the canteen"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His office is next to the library.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "My office is next to the library"
+        }
+      ]
+    }
+  ]
+}

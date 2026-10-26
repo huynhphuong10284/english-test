@@ -1,0 +1,608 @@
+{
+  "id": "l-a2-the-lost-property-office",
+  "title": "The Lost Property Office",
+  "level": "A2 · Elementary",
+  "description": "Four recordings about lost things: a desk conversation, a station announcement, a phone call and a talk about how the office works.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · At the desk",
+      "intro": "You will hear Mai talking to a man at the lost property office.",
+      "speakers": {
+        "Mai": "female",
+        "Mr Evans": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mr Evans",
+          "text": "Good afternoon. How can I help you?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Mai",
+          "text": "Hello. I think I left my bag on the train this morning. It was the half past eight train from Oxford."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mr Evans",
+          "text": "I'm sorry to hear that. What does it look like?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Mai",
+          "text": "It's a blue backpack, quite small. It has a yellow label with my name on it."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mr Evans",
+          "text": "And what was inside?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Mai",
+          "text": "My umbrella, a notebook and a purple water bottle. Oh, and my glasses! I can't read the board without them."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mr Evans",
+          "text": "Hmm, let me look. We have a black backpack and a green one, but no blue one. Wait, here's something. Is this yours?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Mai",
+          "text": "Yes, that's it! Thank goodness. I was so worried, because my keys are in the front pocket."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mr Evans",
+          "text": "Good. Can you fill in this form, please? And I need to see your identity card."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mai",
+          "text": "Of course. Here you are. Thank you so much for your help."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A station announcement",
+      "intro": "You will hear an announcement at a railway station.",
+      "speakers": {
+        "Announcer": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Announcer",
+          "text": "Good morning, passengers. This is an announcement from the Central Station information desk."
+        },
+        {
+          "id": "s12",
+          "speaker": "Announcer",
+          "text": "A small brown wallet has been found near platform three. If it is yours, please come to the information desk by the main entrance."
+        },
+        {
+          "id": "s13",
+          "speaker": "Announcer",
+          "text": "We have also found a child's red coat in the waiting room. The coat has a picture of a rabbit on the back."
+        },
+        {
+          "id": "s14",
+          "speaker": "Announcer",
+          "text": "Please remember that the lost property office is now on the first floor, not next to the café. It is open from nine until half past five."
+        },
+        {
+          "id": "s15",
+          "speaker": "Announcer",
+          "text": "Finally, the ten fifteen train to Bristol is twenty minutes late. We are very sorry for the delay. Thank you."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone call",
+      "intro": "You will hear Nam phoning the lost property office.",
+      "speakers": {
+        "Nam": "male",
+        "Ms Hart": "female"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Ms Hart",
+          "text": "Lost property office, Ms Hart speaking."
+        },
+        {
+          "id": "s17",
+          "speaker": "Nam",
+          "text": "Hello. I'm calling about a jacket. I lost it last Friday at the sports centre, and I wonder if someone brought it to you."
+        },
+        {
+          "id": "s18",
+          "speaker": "Ms Hart",
+          "text": "The sports centre? Hmm, I can check. What colour is it?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Nam",
+          "text": "It's grey, with a white stripe on each arm. It's quite old, and there's a small hole in the pocket."
+        },
+        {
+          "id": "s20",
+          "speaker": "Ms Hart",
+          "text": "Wait a moment, please. Yes, I think we have it. There's a grey jacket with a hole in the pocket. Is there something in the pocket?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Nam",
+          "text": "Yes, a ticket for the cinema! It's for tomorrow night, so I really need it."
+        },
+        {
+          "id": "s22",
+          "speaker": "Ms Hart",
+          "text": "Oh, you're lucky. You can collect the jacket today. We're open until five o'clock, but we close for lunch from twelve until one."
+        },
+        {
+          "id": "s23",
+          "speaker": "Nam",
+          "text": "Great. It's ten o'clock now, so I'll come at about two. Do I have to pay?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Ms Hart",
+          "text": "There's no charge, but please bring something with your name on it."
+        },
+        {
+          "id": "s25",
+          "speaker": "Nam",
+          "text": "OK, thank you very much. Goodbye!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · How the office works",
+      "intro": "You will hear a man talking to students about the lost property office at their school.",
+      "speakers": {
+        "Mr Green": "male"
+      },
+      "script": [
+        {
+          "id": "s26",
+          "speaker": "Mr Green",
+          "text": "Hello, everyone. I'm Mr Green, and I look after the lost property box at our school. Today I want to talk about it."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mr Green",
+          "text": "Every week, I find lots of things. Last week, I found six jumpers, three water bottles, and one shoe. Nobody knows who lost the shoe!"
+        },
+        {
+          "id": "s28",
+          "speaker": "Mr Green",
+          "text": "The best way to find your things is to write your name on them. It takes a few seconds, and it saves a lot of time."
+        },
+        {
+          "id": "s29",
+          "speaker": "Mr Green",
+          "text": "The box is outside my office, next to the library. You can look in it at lunchtime, but please do not take things that are not yours."
+        },
+        {
+          "id": "s30",
+          "speaker": "Mr Green",
+          "text": "After one month, I give the clothes to a charity shop. I think that's a nice idea, because someone else can use them."
+        },
+        {
+          "id": "s31",
+          "speaker": "Mr Green",
+          "text": "So, please be careful with your things. And now, who has lost a blue scarf?"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where did Mai lose her bag?",
+      "options": [
+        "In a café",
+        "At a bus stop",
+        "On a train"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she left her bag on the train this morning.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I think I left my bag on the train this morning."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What colour is her bag?",
+      "options": [
+        "Blue",
+        "Green",
+        "Black"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai describes a blue backpack. The black and green bags belong to other people.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "It's a blue backpack, quite small."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which thing is NOT in the bag?",
+      "options": [
+        "A purple water bottle",
+        "A phone",
+        "An umbrella"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The bag has an umbrella, a notebook, a water bottle and glasses, but no phone is mentioned.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "My umbrella, a notebook and a purple water bottle."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why is Mai so happy at the end?",
+      "options": [
+        "The train is on time.",
+        "Mr Evans gives her a new bag.",
+        "She finds her keys and her glasses."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her glasses and keys are in the bag, and she is glad it is found.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "my keys are in the front pocket"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What must Mai show Mr Evans?",
+      "options": [
+        "Her identity card",
+        "Her train ticket",
+        "Her phone number"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He asks to see her identity card.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I need to see your identity card."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is the main purpose of the announcement?",
+      "options": [
+        "To sell train tickets",
+        "To warn about a danger",
+        "To tell people about lost things"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The announcer talks about found items and the lost property office.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "A small brown wallet has been found near platform three."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where was the wallet found?",
+      "options": [
+        "In the waiting room",
+        "By the main entrance",
+        "Near platform three"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The wallet was found near platform three. The information desk is by the main entrance.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "found near platform three"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is on the child's coat?",
+      "options": [
+        "A picture of a rabbit",
+        "A picture of a bus",
+        "A name label"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The coat has a rabbit on the back.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "a picture of a rabbit on the back"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where is the lost property office now?",
+      "options": [
+        "By the main entrance",
+        "On the first floor",
+        "Next to the café"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It has moved to the first floor, not next to the café.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "now on the first floor, not next to the café"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How late is the train to Bristol?",
+      "options": [
+        "Ten minutes",
+        "Fifteen minutes",
+        "Twenty minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The ten fifteen train is twenty minutes late. Fifteen is part of the departure time.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "is twenty minutes late"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Nam phone the office?",
+      "options": [
+        "To ask about a lost jacket",
+        "To buy a cinema ticket",
+        "To join the sports centre"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He is calling about a jacket he lost.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I'm calling about a jacket."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Which thing helps Ms Hart find the jacket?",
+      "options": [
+        "The white stripes",
+        "The name label",
+        "The hole in the pocket"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She finds a grey jacket with a hole in the pocket.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "a grey jacket with a hole in the pocket"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why does Nam need the jacket quickly?",
+      "options": [
+        "A cinema ticket is in the pocket.",
+        "It is for a sports match.",
+        "It is very cold."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The ticket in the pocket is for tomorrow night.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "It's for tomorrow night, so I really need it."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When will Nam go to the office?",
+      "options": [
+        "At about one o'clock",
+        "At about two o'clock",
+        "At about ten o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It is ten o'clock now, and he says he will come at about two.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "I'll come at about two."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What must Nam bring?",
+      "options": [
+        "His old sports bag",
+        "Something with his name on it",
+        "Money"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There is no charge, but he must bring something with his name on it.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "please bring something with your name on it"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is the talk mainly about?",
+      "options": [
+        "A school trip",
+        "The school lost property box",
+        "A charity shop"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Green talks about the lost property box at school.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I look after the lost property box at our school."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What did Mr Green find last week?",
+      "options": [
+        "Three jumpers",
+        "Six shoes",
+        "Six jumpers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He found six jumpers, three water bottles and one shoe.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "I found six jumpers"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is the best way to find your things?",
+      "options": [
+        "Ask a teacher",
+        "Put them in a bag",
+        "Write your name on them"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Writing your name on things saves a lot of time.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "write your name on them"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When can students look in the box?",
+      "options": [
+        "In the morning",
+        "After school",
+        "At lunchtime"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Students can look in the box at lunchtime.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "You can look in it at lunchtime"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Mr Green think about giving clothes to a charity shop?",
+      "options": [
+        "It is a nice idea.",
+        "It is a waste.",
+        "It is difficult."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it is a nice idea because someone else can use them.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "I think that's a nice idea"
+        }
+      ]
+    }
+  ]
+}

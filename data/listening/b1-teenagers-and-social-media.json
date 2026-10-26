@@ -1,0 +1,613 @@
+{
+  "id": "l-b1-teenagers-and-social-media",
+  "title": "Teenagers and Social Media",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings about teenagers and social media: a radio interview, a school announcement, a conversation between a brother and sister and a podcast with tips.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A radio interview",
+      "intro": "You will hear Sara talking to Dr Evans, who studies how teenagers use social media.",
+      "speakers": {
+        "Sara": "female",
+        "Dr Evans": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Sara",
+          "text": "Welcome back to Family Matters. With me is Dr Evans, who has studied how teenagers use social media. Dr Evans, how much time do they actually spend online?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Evans",
+          "text": "Well, Sara, the average is about three hours a day, although some teenagers say it's closer to five. Most of that time is on their phones, usually in the evening."
+        },
+        {
+          "id": "s3",
+          "speaker": "Sara",
+          "text": "That sounds like a lot. Is it always a problem?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Evans",
+          "text": "Not at all. People often forget the benefits. Teenagers use social media to keep in touch with friends who moved away, to share hobbies, and even to get help with homework."
+        },
+        {
+          "id": "s5",
+          "speaker": "Sara",
+          "text": "So where's the danger?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Evans",
+          "text": "Mainly sleep. Many young people check their phones in bed, and the blue light and constant messages make it hard to relax. Several students I spoke to were getting only six hours a night."
+        },
+        {
+          "id": "s7",
+          "speaker": "Sara",
+          "text": "What should parents do?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Dr Evans",
+          "text": "Banning phones usually doesn't work. It's better to agree on simple rules together, for example, no phones at the dinner table and no screens after ten o'clock."
+        },
+        {
+          "id": "s9",
+          "speaker": "Sara",
+          "text": "And if a teenager refuses?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Evans",
+          "text": "Then I'd suggest patience. Talk calmly, and show them you also put your phone away. Children copy what adults do, not what they say."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A school announcement",
+      "intro": "You will hear the head teacher, Mr Brown, talking to the students.",
+      "speakers": {
+        "Mr Brown": "male"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Mr Brown",
+          "text": "Good morning, students. This is Mr Brown, your head teacher, with an announcement about our new phone policy, which starts on Monday."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Brown",
+          "text": "Many of you have told us that phones make it hard to concentrate, so from now on, phones must be switched off and kept in your lockers during lessons."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mr Brown",
+          "text": "You can use them at lunchtime, but only in the playground and the cafeteria. They are not allowed in the library, because it's a quiet area."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mr Brown",
+          "text": "If a teacher sees your phone in class, they will keep it until the end of the day. If it happens a second time, your parents will be asked to collect it."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mr Brown",
+          "text": "There's one exception. If you need a phone for a lesson, for example, to take a photograph in science, your teacher will tell you. Also, if you have an emergency, you can always use the phone in the school office."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mr Brown",
+          "text": "I know some of you won't like this, but I believe it will help everyone. We'll review it after three months."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A challenge at home",
+      "intro": "You will hear a sister, Mai, talking to her brother, Nam.",
+      "speakers": {
+        "Mai": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "Nam, have you seen how many hours you spent on your phone last week? It's in the settings."
+        },
+        {
+          "id": "s18",
+          "speaker": "Nam",
+          "text": "Don't look! Okay, how many was it?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Mai",
+          "text": "Twenty-eight hours. That's four hours a day. And that's only counting the apps."
+        },
+        {
+          "id": "s20",
+          "speaker": "Nam",
+          "text": "Really? It didn't feel like that much. I just watch short videos when I'm bored, and then suddenly an hour has gone."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mai",
+          "text": "Same here. That's why I deleted my video app last month."
+        },
+        {
+          "id": "s22",
+          "speaker": "Nam",
+          "text": "You did? Don't you miss it?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Mai",
+          "text": "A little at first, but now I read more, and I sleep better. I'm trying a challenge: no social media for one week. Do you want to join me?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Nam",
+          "text": "A whole week? I'm not sure. All my friends use the group chat to arrange football, and I'd miss the matches."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mai",
+          "text": "You could still send messages. You just wouldn't scroll through other people's photos."
+        },
+        {
+          "id": "s26",
+          "speaker": "Nam",
+          "text": "Hmm, that's different. Okay, I'll try three days first, and if it goes well, I'll do the full week."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mai",
+          "text": "Deal. But no cheating!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A podcast with tips",
+      "intro": "You will hear Hannah on a podcast for teenagers.",
+      "speakers": {
+        "Hannah": "female"
+      },
+      "script": [
+        {
+          "id": "s28",
+          "speaker": "Hannah",
+          "text": "Hi, and welcome to Teen Talk. I'm Hannah, and today's topic is how to use social media without letting it use you."
+        },
+        {
+          "id": "s29",
+          "speaker": "Hannah",
+          "text": "First, turn off notifications. Every time your phone buzzes, your brain stops what it's doing, and it takes several minutes to concentrate again. Check your messages at set times instead, like after homework."
+        },
+        {
+          "id": "s30",
+          "speaker": "Hannah",
+          "text": "Second, remember that most posts show only the best moments. When you see a friend's perfect holiday photo, you don't see the argument they had on the plane. Comparing your ordinary life with their highlights can make you feel unhappy for no reason."
+        },
+        {
+          "id": "s31",
+          "speaker": "Hannah",
+          "text": "Third, think before you post. Once something is online, it's very hard to remove it. A rude comment you write at midnight might still be there when you apply for university."
+        },
+        {
+          "id": "s32",
+          "speaker": "Hannah",
+          "text": "Finally, spend time with people face to face. I'm not saying social media is bad. I use it every day, and I've made good friends through it. But nothing replaces a real conversation over a cup of hot chocolate."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much time do teenagers spend online on average?",
+      "options": [
+        "About five hours a day",
+        "About eight hours a day",
+        "About three hours a day"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The average is about three hours a day. Five hours is what some teenagers say.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "the average is about three hours a day"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When do teenagers mostly go online?",
+      "options": [
+        "In the morning",
+        "In the evening",
+        "During lessons"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Most of the time is on their phones, usually in the evening.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "usually in the evening"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is Dr Evans' opinion of social media?",
+      "options": [
+        "It also has benefits.",
+        "It is always dangerous.",
+        "It is only good for homework."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says people forget the benefits, such as keeping in touch with friends.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "People often forget the benefits."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Dr Evans say is the main danger?",
+      "options": [
+        "Not getting enough sleep",
+        "Spending too much money online",
+        "Meeting strangers in chat rooms"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the danger is mainly sleep, because many young people use their phones in bed.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "Mainly sleep."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "What does Dr Evans recommend for parents?",
+      "options": [
+        "Make rules together with teenagers",
+        "Take their phones away every night",
+        "Ban phones for all under sixteens"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says banning phones does not work, and it is better to agree on simple rules together.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "It's better to agree on simple rules together"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why is the school introducing the new phone policy?",
+      "options": [
+        "Parents complained about the cost.",
+        "Phones were stolen from the lockers.",
+        "Phones make it hard to concentrate."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Students said phones make it hard to concentrate.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "phones make it hard to concentrate"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where must phones be kept during lessons?",
+      "options": [
+        "In school bags",
+        "On the teacher's desk",
+        "In lockers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Phones must be switched off and kept in lockers.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "kept in your lockers during lessons"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where are phones NOT allowed at lunchtime?",
+      "options": [
+        "In the library",
+        "In the playground",
+        "In the cafeteria"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They can be used in the playground and cafeteria, but not in the library.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "They are not allowed in the library"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What happens if a student's phone is seen a second time?",
+      "options": [
+        "The parents are asked to collect it.",
+        "The student must stay after school.",
+        "It is kept until the end of the day."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The first time the teacher keeps it until the end of the day. The second time, parents must collect it.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "your parents will be asked to collect it"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When will the school review the policy?",
+      "options": [
+        "After three months",
+        "After one school year",
+        "After the first three weeks"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Brown says they will review it after three months.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "We'll review it after three months."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How many hours a day does Nam spend on his phone?",
+      "options": [
+        "Four hours",
+        "Seven hours",
+        "Two hours"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai says twenty-eight hours a week is four hours a day.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "That's four hours a day."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When does Nam usually watch short videos?",
+      "options": [
+        "During lessons",
+        "When he is bored",
+        "Before he goes to sleep"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he watches them when he is bored.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I just watch short videos when I'm bored"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What has changed for Mai since she deleted the video app?",
+      "options": [
+        "She reads more and sleeps better.",
+        "She has made new friends online.",
+        "She watches more football matches."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says that now she reads more and sleeps better.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "now I read more, and I sleep better"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "Why is Nam unsure about the one-week challenge?",
+      "options": [
+        "He uses the group chat for football.",
+        "He is afraid of being bored all week.",
+        "He has too much homework this week."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "His friends arrange football in the group chat, and he does not want to miss the matches.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "All my friends use the group chat to arrange football"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Nam decide to do?",
+      "options": [
+        "Try three days first",
+        "Refuse the challenge",
+        "Do the full week at once"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He will try three days first and then do the full week if it goes well.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I'll try three days first"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Hannah's podcast about?",
+      "options": [
+        "Using social media in a healthy way",
+        "Choosing the best new phone for school",
+        "Making money from videos and photos online"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Her topic is how to use social media without letting it use you.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "how to use social media without letting it use you"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Hannah suggest turning off notifications?",
+      "options": [
+        "They use up a lot of the battery.",
+        "They interrupt your concentration.",
+        "They cost money every time you check."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "When the phone buzzes, the brain stops what it is doing and needs time to concentrate again.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "it takes several minutes to concentrate again"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why can looking at friends' photos make people unhappy?",
+      "options": [
+        "Friends post about their holidays too often.",
+        "People show only their best moments.",
+        "The photos are badly taken and boring."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Posts show only highlights, so comparing them with your ordinary life can make you feel unhappy.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "most posts show only the best moments"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why should you think before you post?",
+      "options": [
+        "It is very hard to remove posts later.",
+        "It costs money to delete old posts.",
+        "Your friends may be angry with you later."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Once something is online, it is very hard to remove.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "Once something is online, it's very hard to remove it."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Hannah's opinion of social media?",
+      "options": [
+        "It is bad for everyone who uses it daily.",
+        "It is boring, so she rarely uses it.",
+        "It is useful, but it cannot replace talking."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says it is not bad and she uses it every day, but nothing replaces a real conversation.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "nothing replaces a real conversation"
+        }
+      ]
+    }
+  ]
+}

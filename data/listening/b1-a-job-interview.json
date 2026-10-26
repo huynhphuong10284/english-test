@@ -1,0 +1,616 @@
+{
+  "id": "l-b1-a-job-interview",
+  "title": "A Job Interview",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings about job interviews: an interview, a voicemail, a chat between friends and a talk with advice.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The interview",
+      "intro": "You will hear Mrs Clark interviewing Ben for a weekend job in a bookshop.",
+      "speakers": {
+        "Mrs Clark": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mrs Clark",
+          "text": "Good morning, Ben. Please sit down. Thanks for coming to the interview for the weekend assistant job at our bookshop."
+        },
+        {
+          "id": "s2",
+          "speaker": "Ben",
+          "text": "Thank you for seeing me, Mrs Clark. I'm really pleased to be here."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mrs Clark",
+          "text": "I see you're still at school. Will you be able to work every Saturday and Sunday?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Ben",
+          "text": "Saturdays, yes, definitely. On Sundays I play football in the morning, but I could start after lunch, if that's all right."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mrs Clark",
+          "text": "That would be fine. Now, have you ever worked in a shop before?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Ben",
+          "text": "Not in a shop, no. But last summer I helped at my uncle's fruit stall for six weeks, so I'm used to talking to customers and handling money."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mrs Clark",
+          "text": "Good. And why do you want to work with us in particular?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Ben",
+          "text": "Well, I read a lot, mostly adventure stories, and I come here nearly every week. I think I could recommend books to people because I know the shelves quite well."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mrs Clark",
+          "text": "That's useful. The pay is seven pounds fifty an hour, and you'd start with a training day on the first Saturday of the month."
+        },
+        {
+          "id": "s10",
+          "speaker": "Ben",
+          "text": "That sounds great. Is there anything I should bring?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Clark",
+          "text": "Just a form of identification. We'll let you know by Friday."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A voicemail",
+      "intro": "You will hear a voicemail message from Jack, who works for a recruitment agency.",
+      "speakers": {
+        "Jack": "male"
+      },
+      "script": [
+        {
+          "id": "s12",
+          "speaker": "Jack",
+          "text": "Hello, Mai. This is Jack from Bright Futures Recruitment. I'm calling about the office assistant interview you have next week."
+        },
+        {
+          "id": "s13",
+          "speaker": "Jack",
+          "text": "Unfortunately, the company has had to change the day. It was on Tuesday, but now it will be on Wednesday, the ninth of July, at quarter past ten."
+        },
+        {
+          "id": "s14",
+          "speaker": "Jack",
+          "text": "The address hasn't changed. It's the Green Tower on Park Road, on the fourth floor. Please go to reception and ask for Mr Hughes. If you come by car, don't park in front of the building, because it costs a lot. There's a cheaper car park behind the station."
+        },
+        {
+          "id": "s15",
+          "speaker": "Jack",
+          "text": "The interview will take about forty minutes, and there'll be a short writing test, so please bring a pen. You don't need to bring your certificates because we already have copies."
+        },
+        {
+          "id": "s16",
+          "speaker": "Jack",
+          "text": "Could you phone me back before Monday afternoon to confirm that Wednesday suits you? If I don't hear from you, I'll try again. My number is on the email I sent last week. Good luck!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · After the interview",
+      "intro": "You will hear Peter talking to his friend Linh after her interview.",
+      "speakers": {
+        "Peter": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Peter",
+          "text": "So how did it go, Linh? You've been very quiet since you came out."
+        },
+        {
+          "id": "s18",
+          "speaker": "Linh",
+          "text": "I'm not sure, to be honest. The first part was fine, but then they asked me about a time when I solved a problem at work, and my mind went completely blank."
+        },
+        {
+          "id": "s19",
+          "speaker": "Peter",
+          "text": "Oh no. What did you say?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "I talked about the day the printer broke, which isn't very impressive. Afterwards I remembered a much better story about a customer who lost his bag."
+        },
+        {
+          "id": "s21",
+          "speaker": "Peter",
+          "text": "Well, don't worry. Everyone forgets things when they're nervous. Did they seem friendly?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Linh",
+          "text": "Very. The manager laughed at my joke, so that was a good sign. But another person kept writing notes and never smiled, which made me nervous."
+        },
+        {
+          "id": "s23",
+          "speaker": "Peter",
+          "text": "That doesn't mean anything. Some people just concentrate hard."
+        },
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "Maybe. I also forgot to ask about holidays and salary. I'd planned to, but the interview finished so quickly."
+        },
+        {
+          "id": "s25",
+          "speaker": "Peter",
+          "text": "You could send them an email tonight and thank them for their time. You can ask your questions then."
+        },
+        {
+          "id": "s26",
+          "speaker": "Linh",
+          "text": "That's a great idea. I'll do it as soon as I get home."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Interview advice",
+      "intro": "You will hear a careers adviser giving a talk to students.",
+      "speakers": {
+        "Ms Hall": "female"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Ms Hall",
+          "text": "Good afternoon, everyone. I've been a careers adviser for fifteen years, and today I'd like to share four simple ideas that can make a real difference in a job interview."
+        },
+        {
+          "id": "s28",
+          "speaker": "Ms Hall",
+          "text": "Firstly, research the company. It sounds obvious, but a surprising number of candidates arrive knowing almost nothing. If you can mention something the company has done recently, the interviewer will see that you're serious."
+        },
+        {
+          "id": "s29",
+          "speaker": "Ms Hall",
+          "text": "Secondly, practise your answers aloud. Reading them in your head isn't the same. Ask a friend to pretend to be the interviewer, and you'll feel much calmer on the day."
+        },
+        {
+          "id": "s30",
+          "speaker": "Ms Hall",
+          "text": "Thirdly, think carefully about what you wear. You don't have to buy expensive clothes, but you should look tidy. Choose something comfortable, because feeling uncomfortable will make you more nervous."
+        },
+        {
+          "id": "s31",
+          "speaker": "Ms Hall",
+          "text": "Finally, arrive early, but not too early. Ten minutes before the interview is perfect. If you arrive an hour before, the staff might feel under pressure. And remember, if you don't get the job, it isn't a failure. Every interview teaches you something."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "Which job is Ben applying for?",
+      "options": [
+        "A weekend assistant in a bookshop",
+        "A part-time seller at his uncle's fruit stall",
+        "A Sunday football coach for a school team"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mrs Clark interviews him for the weekend assistant job at the bookshop.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "the weekend assistant job at our bookshop"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When can Ben work on Sundays?",
+      "options": [
+        "He cannot work on Sundays",
+        "After lunch",
+        "In the morning"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He plays football in the morning, but he could start after lunch.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I could start after lunch"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What work experience does Ben have?",
+      "options": [
+        "He worked in a bookshop at weekends.",
+        "He helped at his uncle's stall.",
+        "He worked part-time in a café."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He helped at his uncle's fruit stall last summer. He says he has not worked in a shop.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I helped at my uncle's fruit stall for six weeks"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Why does Ben want to work in this bookshop?",
+      "options": [
+        "His friend already works there as a cashier.",
+        "The pay is better than in other shops.",
+        "He reads a lot and knows the shelves."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He visits nearly every week and knows the books well. The pay is not his reason.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "I come here nearly every week"
+        },
+        {
+          "lineId": "s8",
+          "quote": "I know the shelves quite well"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When will Mrs Clark tell Ben her decision?",
+      "options": [
+        "By Friday",
+        "On the first Saturday",
+        "Next month"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says they will let him know by Friday. The first Saturday is the training day.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "We'll let you know by Friday."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why is Jack calling Mai?",
+      "options": [
+        "To offer her the job after her interview",
+        "To change the date of her interview",
+        "To ask her to start work next week"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The company has had to change the day of the interview.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "the company has had to change the day"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is the new interview time?",
+      "options": [
+        "Wednesday at quarter past ten",
+        "Wednesday at quarter to eleven",
+        "Tuesday at quarter past eleven"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It was on Tuesday, but now it is on Wednesday at quarter past ten.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "now it will be on Wednesday, the ninth of July, at quarter past ten"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which floor is the interview on?",
+      "options": [
+        "The first floor",
+        "The ninth floor",
+        "The fourth floor"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The office is on the fourth floor of the Green Tower.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "on the fourth floor"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where should Mai park if she comes by car?",
+      "options": [
+        "In the street outside the reception",
+        "Right in front of the building",
+        "Behind the station"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Parking in front of the building costs a lot, so there is a cheaper car park behind the station.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "There's a cheaper car park behind the station."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What must Mai bring to the interview?",
+      "options": [
+        "A pen for the short writing test",
+        "Her certificates from school",
+        "A printed copy of his email"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "There is a writing test, so she needs a pen. They already have her certificates.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "please bring a pen"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Linh feel about her interview?",
+      "options": [
+        "Very confident about her answers",
+        "Unsure about how it went",
+        "Angry with the interviewers"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she is not sure how it went.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I'm not sure, to be honest."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What went wrong for Linh?",
+      "options": [
+        "She could not think of an answer.",
+        "She could not hear the question well.",
+        "She arrived late for the interview."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "When they asked about solving a problem, her mind went completely blank.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "my mind went completely blank"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What was Linh's better story about?",
+      "options": [
+        "A customer who lost his bag",
+        "The day the printer broke",
+        "A colleague who broke the printer"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She talked about the printer, but later remembered the better story about a customer who lost his bag.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "a much better story about a customer who lost his bag"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What did Linh think was a good sign?",
+      "options": [
+        "The manager laughed at her joke.",
+        "Another person kept writing notes.",
+        "The interview ended very quickly."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The manager laughed at her joke, so she thought it was a good sign.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "The manager laughed at my joke, so that was a good sign."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Peter suggest sending an email?",
+      "options": [
+        "To ask them for a different interview day",
+        "To say thank you and ask her questions",
+        "To explain why her mind went blank"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She can thank them and ask the questions she forgot.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "thank them for their time"
+        },
+        {
+          "lineId": "s25",
+          "quote": "You can ask your questions then."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is the talk mainly about?",
+      "options": [
+        "How to write a good CV and cover letter",
+        "Why people often change their jobs",
+        "Advice for doing well in interviews"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ms Hall shares four ideas that can help in a job interview.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "four simple ideas that can make a real difference in a job interview"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why should candidates research the company?",
+      "options": [
+        "It helps them ask for more pay.",
+        "It shows the company they are serious.",
+        "It makes the interview much shorter."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "If you mention something about the company, the interviewer sees you are serious.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "the interviewer will see that you're serious"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How does Ms Hall suggest practising answers?",
+      "options": [
+        "Reading them silently to yourself",
+        "Recording them on a phone",
+        "Saying them aloud to a friend"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says to practise aloud and ask a friend to pretend to be the interviewer.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "practise your answers aloud"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When is the best time to arrive?",
+      "options": [
+        "Ten minutes before the interview",
+        "An hour before the interview",
+        "Just after the interview starts"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says ten minutes before the interview is perfect. An hour early puts staff under pressure.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "Ten minutes before the interview is perfect."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Ms Hall think about not getting a job?",
+      "options": [
+        "It shows you are not right for the job.",
+        "It is embarrassing in front of friends.",
+        "It can still teach you something."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says it is not a failure, because every interview teaches you something.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "Every interview teaches you something."
+        }
+      ]
+    }
+  ]
+}

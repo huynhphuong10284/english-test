@@ -1,0 +1,357 @@
+{
+  "id": "l-yl-s-getting-dressed",
+  "title": "Getting Dressed",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about clothes: a cold morning, a rainy day and school clothes.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A cold morning",
+      "intro": "You will hear Nam and his mum.",
+      "speakers": {
+        "Mum": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mum",
+          "text": "Nam, it's time to get dressed. It's cold today."
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "I want my blue T-shirt, Mum."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mum",
+          "text": "No, wear your red jumper. It's very cold."
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "OK. Are my socks on the chair?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Mum",
+          "text": "No, they are under the bed. They are white."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "Found them! Now I need my shoes."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mum",
+          "text": "Hurry, Nam. Breakfast is ready. We have eggs and toast."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "Yummy! I'm hungry, Mum. I'm coming now."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mum",
+          "text": "Good boy. Brush your teeth after breakfast."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A rainy day",
+      "intro": "You will hear Linh and her brother Tom.",
+      "speakers": {
+        "Linh": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Linh",
+          "text": "Tom, look! It's raining."
+        },
+        {
+          "id": "s11",
+          "speaker": "Tom",
+          "text": "Oh no. I want to wear my shorts."
+        },
+        {
+          "id": "s12",
+          "speaker": "Linh",
+          "text": "No, Tom. Put on your long trousers and your yellow coat."
+        },
+        {
+          "id": "s13",
+          "speaker": "Tom",
+          "text": "Can I wear my hat?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Linh",
+          "text": "Yes, wear your green hat. It's a nice hat."
+        },
+        {
+          "id": "s15",
+          "speaker": "Tom",
+          "text": "Thank you, Linh. I have my coat and my hat now."
+        },
+        {
+          "id": "s16",
+          "speaker": "Linh",
+          "text": "Great! Take your umbrella too. Let's go to school."
+        },
+        {
+          "id": "s17",
+          "speaker": "Tom",
+          "text": "OK, I'm ready. I like the rain a little."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · My school clothes",
+      "intro": "You will hear a girl called Mai.",
+      "speakers": {
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "Hello! My name is Mai. I go to school every day."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mai",
+          "text": "I wear a white shirt and a blue skirt."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "I have new shoes. They are black. I love my new shoes."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mai",
+          "text": "I don't like my hat. It is too big."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mai",
+          "text": "I put on my clothes in the morning. Then I eat breakfast."
+        },
+        {
+          "id": "s23",
+          "speaker": "Mai",
+          "text": "My mum helps me. She is kind. I like my school very much."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What colour is the jumper?",
+      "options": [
+        "White",
+        "Red",
+        "Blue"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says: \"wear your red jumper.\" Blue is the T-shirt.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "wear your red jumper"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where are the socks?",
+      "options": [
+        "On the chair",
+        "Under the bed",
+        "In the bag"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says the socks are under the bed.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "they are under the bed"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What colour are the socks?",
+      "options": [
+        "Blue",
+        "Red",
+        "White"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum says: \"They are white.\"",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "They are white"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Is it hot today?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "No. Mum says it is cold.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "It's cold today"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Tom want to wear?",
+      "options": [
+        "Long trousers",
+        "A coat",
+        "Shorts"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says: \"I want to wear my shorts.\"",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I want to wear my shorts"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What colour is the coat?",
+      "options": [
+        "Black",
+        "Green",
+        "Yellow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says: \"your yellow coat.\" Green is the hat.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "your yellow coat"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What colour is the hat?",
+      "options": [
+        "Pink",
+        "Yellow",
+        "Green"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh says: \"wear your green hat.\"",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "wear your green hat"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Mai wear to school?",
+      "options": [
+        "A red dress",
+        "Blue trousers",
+        "A white shirt"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says: \"I wear a white shirt and a blue skirt.\"",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I wear a white shirt"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "Does Mai like her new shoes?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes. She says she loves them.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I love my new shoes"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why does Mai not like her hat?",
+      "options": [
+        "It is too big.",
+        "It is too small.",
+        "It is too old."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the hat is too big.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "It is too big"
+        }
+      ]
+    }
+  ]
+}

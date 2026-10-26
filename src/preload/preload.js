@@ -10,5 +10,6 @@ contextBridge.exposeInMainWorld('examApi', {
   submitExam: (examId, answers) => ipcRenderer.invoke('exams:submit', examId, answers),
   getResult: (examId, attemptId) => ipcRenderer.invoke('results:get', examId, attemptId),
   assessWriting: (examId, attemptId, selfAssessment) => ipcRenderer.invoke('results:assess', examId, attemptId, selfAssessment),
-  lookupWord: (word) => ipcRenderer.invoke('dict:lookup', word)
+  lookupWord: (word) => ipcRenderer.invoke('dict:lookup', word),
+  getListeningAudio: (examId, partId) => ipcRenderer.invoke('listening:audio', examId, partId)
 });

@@ -1,0 +1,353 @@
+{
+  "id": "l-yl-s-my-lunchbox",
+  "title": "My Lunchbox",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about lunchboxes: sharing food, a small green box and a note from mum.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · What is in your lunchbox?",
+      "intro": "You will hear Linh and Nam.",
+      "speakers": {
+        "Linh": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "What's in your lunchbox, Nam?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "I have a cheese sandwich and an apple."
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "I have rice and chicken."
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "Do you have a drink?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "Yes, I have water. Do you have juice?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "No, I have milk."
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "Your apple looks nice, Nam. Can I have a small piece?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "Yes, of course. Do you want some of my sandwich too?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Linh",
+          "text": "No, thank you. I have enough food. Let's play after lunch."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A small green box",
+      "intro": "You will hear Mr Tan and Mai.",
+      "speakers": {
+        "Mr Tan": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Mr Tan",
+          "text": "Mai, where is your lunchbox?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Mai",
+          "text": "It's in my bag, Mr Tan."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Tan",
+          "text": "Is it big?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Mai",
+          "text": "No, it's small and green."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mr Tan",
+          "text": "What is inside?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "A banana, some bread and a cake."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mr Tan",
+          "text": "That sounds like a good lunch. Please eat it slowly, Mai."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "Yes, Mr Tan. I'm hungry, and I love cake."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mr Tan",
+          "text": "Enjoy your lunch, Mai. Then wash your hands."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Mum's message",
+      "intro": "You will hear a mum talking to her son Ben.",
+      "speakers": {
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Mum",
+          "text": "Ben, I made your lunch. Look in the box."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mum",
+          "text": "There are two sandwiches, some grapes and a biscuit."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mum",
+          "text": "Please eat the grapes first. Don't forget your water bottle. Have a nice day!"
+        },
+        {
+          "id": "s22",
+          "speaker": "Mum",
+          "text": "I like to make your lunch, Ben. Be good at school today."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What fruit does Nam have?",
+      "options": [
+        "A banana",
+        "An orange",
+        "An apple"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam has a cheese sandwich and an apple.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "a cheese sandwich and an apple"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What food does Linh have?",
+      "options": [
+        "A sandwich",
+        "Rice and chicken",
+        "Noodles"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says: \"I have rice and chicken.\"",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "I have rice and chicken"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Linh drink?",
+      "options": [
+        "Juice",
+        "Milk",
+        "Water"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh has water. Nam has milk.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "I have water"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Does Nam have juice?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "No. Nam says he has milk.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "No, I have milk"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where is the lunchbox?",
+      "options": [
+        "In the car",
+        "On the table",
+        "In the bag"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says it is in her bag.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "It's in my bag"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What colour is the lunchbox?",
+      "options": [
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says it is small and green.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "it's small and green"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What sweet food is in the box?",
+      "options": [
+        "An ice cream",
+        "A cake",
+        "A biscuit"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai has a banana, some bread and a cake.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "a cake"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How many sandwiches are there?",
+      "options": [
+        "Three",
+        "Two",
+        "One"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says there are two sandwiches.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "There are two sandwiches"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What should Ben eat first?",
+      "options": [
+        "The grapes",
+        "The sandwiches",
+        "The biscuit"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum says: \"Please eat the grapes first.\"",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Please eat the grapes first"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What must Ben not forget?",
+      "options": [
+        "His water bottle",
+        "His hat",
+        "His book"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum says: \"Don't forget your water bottle.\"",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Don't forget your water bottle"
+        }
+      ]
+    }
+  ]
+}

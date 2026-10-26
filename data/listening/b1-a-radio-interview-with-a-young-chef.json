@@ -1,0 +1,638 @@
+{
+  "id": "l-b1-a-radio-interview-with-a-young-chef",
+  "title": "A Radio Interview with a Young Chef",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings about a young chef: a radio interview, a recipe, a chat between friends and a competition announcement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The interview",
+      "intro": "You will hear a radio presenter, Helen, interviewing a young chef called Nam.",
+      "speakers": {
+        "Helen": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Helen",
+          "text": "Welcome back to Morning Kitchen. Today my guest is Nam Tran, who is only twenty-three and already owns his own restaurant. Nam, welcome."
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "Thanks, Helen. It's lovely to be here."
+        },
+        {
+          "id": "s3",
+          "speaker": "Helen",
+          "text": "So, did you always want to be a chef?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "Not at all! When I was at school, I wanted to be a pilot. But my grandmother had a small noodle stall, and I helped her every weekend from the age of ten. Slowly I fell in love with cooking."
+        },
+        {
+          "id": "s5",
+          "speaker": "Helen",
+          "text": "And then you studied at a catering college?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "Well, I started there, but I left after one year. I felt I was learning faster in real kitchens. I worked for three different restaurants before I opened my own."
+        },
+        {
+          "id": "s7",
+          "speaker": "Helen",
+          "text": "That sounds very brave. What was the hardest part?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "Honestly, the money. The kitchen was small and the cooker was secondhand. We opened with just four tables, and for the first month only my family came to eat."
+        },
+        {
+          "id": "s9",
+          "speaker": "Helen",
+          "text": "But now you're fully booked every weekend."
+        },
+        {
+          "id": "s10",
+          "speaker": "Nam",
+          "text": "Yes, we're lucky. A local newspaper wrote about us last spring, and after that, everything changed."
+        },
+        {
+          "id": "s11",
+          "speaker": "Helen",
+          "text": "What advice would you give to young people who dream of a career in the kitchen?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Nam",
+          "text": "Be patient and be humble. You will wash a lot of dishes and peel a mountain of onions before anyone lets you near the stove. But if you love it, every tired evening is worth it."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A quick recipe",
+      "intro": "You will hear Nam explaining how to cook a simple dinner.",
+      "speakers": {
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Nam",
+          "text": "Now, you asked me for an easy recipe, so let me share my favourite quick dinner, a lemon chicken rice bowl. It takes only twenty minutes."
+        },
+        {
+          "id": "s14",
+          "speaker": "Nam",
+          "text": "First, cut the chicken into small pieces. Many people use big pieces, but small ones cook faster and taste better with the sauce."
+        },
+        {
+          "id": "s15",
+          "speaker": "Nam",
+          "text": "Next, make the sauce. Mix the juice of one lemon with two spoons of honey and a little soy sauce. Some people add chilli, but I prefer to keep it mild for my younger customers."
+        },
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "Heat a pan with a spoon of oil, and cook the chicken for about six minutes. Don't touch it too often. Let it turn golden on one side first."
+        },
+        {
+          "id": "s17",
+          "speaker": "Nam",
+          "text": "While the chicken is cooking, wash the rice and put it on the cooker. If you're in a hurry, you can use rice from yesterday, but fresh rice is much better."
+        },
+        {
+          "id": "s18",
+          "speaker": "Nam",
+          "text": "Pour the sauce over the chicken in the last minute. It should become thick and sticky. Then serve it on the rice with some green onions and a few slices of cucumber."
+        },
+        {
+          "id": "s19",
+          "speaker": "Nam",
+          "text": "My top tip: always taste as you cook. Recipes are only a guide. Your tongue is the best teacher."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · After the programme",
+      "intro": "You will hear two friends, Linh and Ben, talking about the interview.",
+      "speakers": {
+        "Linh": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "Did you hear the interview with that young chef this morning?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Ben",
+          "text": "Only the end. Was it good?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Linh",
+          "text": "Really good. He talked about his grandmother's noodle stall, and now I'm hungry. I'd love to try his restaurant."
+        },
+        {
+          "id": "s23",
+          "speaker": "Ben",
+          "text": "Where is it? Is it expensive?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "It's near the river, and the main dishes cost about twelve pounds. It's not cheap, but I think it's worth it for a special occasion."
+        },
+        {
+          "id": "s25",
+          "speaker": "Ben",
+          "text": "Well, it's your birthday next month. Why don't we go then?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Linh",
+          "text": "That's a lovely idea, but they're fully booked at weekends. My birthday is on a Saturday, so I might have to book weeks in advance."
+        },
+        {
+          "id": "s27",
+          "speaker": "Ben",
+          "text": "Then call them today. I'll pay for the dessert."
+        },
+        {
+          "id": "s28",
+          "speaker": "Linh",
+          "text": "You don't have to do that. Anyway, I'm not sure about the day. Perhaps Friday would be easier, because my brother works on Saturday."
+        },
+        {
+          "id": "s29",
+          "speaker": "Ben",
+          "text": "Friday is fine with me. I'll tell the others."
+        },
+        {
+          "id": "s30",
+          "speaker": "Linh",
+          "text": "Great. I'll phone the restaurant at lunchtime, when they're not so busy."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A competition",
+      "intro": "You will hear Helen, the presenter, at the end of the programme.",
+      "speakers": {
+        "Helen": "female"
+      },
+      "script": [
+        {
+          "id": "s31",
+          "speaker": "Helen",
+          "text": "Before we go, a few notes for Morning Kitchen listeners. This week we have a special competition."
+        },
+        {
+          "id": "s32",
+          "speaker": "Helen",
+          "text": "To enter, send us your favourite family recipe by email, together with a short story about why it's special. The closing date is next Friday."
+        },
+        {
+          "id": "s33",
+          "speaker": "Helen",
+          "text": "The winner will get a private cooking lesson with Nam in his restaurant kitchen for up to four people, plus a free lunch afterwards."
+        },
+        {
+          "id": "s34",
+          "speaker": "Helen",
+          "text": "Please note that we can only accept recipes written in English or Vietnamese. Photos are welcome, but not necessary."
+        },
+        {
+          "id": "s35",
+          "speaker": "Helen",
+          "text": "Last year we had over three hundred entries, and the winning recipe was a simple vegetable soup from a ten-year-old girl. So don't think you have to be an expert."
+        },
+        {
+          "id": "s36",
+          "speaker": "Helen",
+          "text": "If you miss the details, don't worry. You can find everything on our website, together with Nam's lemon chicken recipe, so you can try it at home this weekend."
+        },
+        {
+          "id": "s37",
+          "speaker": "Helen",
+          "text": "We'll announce the winner on this programme on Monday morning at eight. Now, here's the weather."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did Nam want to be when he was at school?",
+      "options": [
+        "A pilot",
+        "A noodle seller",
+        "A chef"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he wanted to be a pilot. The noodle stall belonged to his grandmother.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I wanted to be a pilot"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How did Nam first learn about cooking?",
+      "options": [
+        "By studying at a catering college",
+        "By working in a restaurant kitchen",
+        "By helping at his grandmother's stall"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He helped his grandmother at her noodle stall every weekend.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I helped her every weekend"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why did Nam leave the catering college?",
+      "options": [
+        "He could not pay for the course",
+        "He wanted to become a pilot instead",
+        "He learned faster in real kitchens"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he felt he was learning faster in real kitchens.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I felt I was learning faster in real kitchens"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does Nam mean when he says only his family came in the first month?",
+      "options": [
+        "His family did not like the food",
+        "The restaurant was too expensive for most",
+        "The restaurant was not well known at first"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Only relatives came, so other people did not know about the restaurant yet.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "for the first month only my family came to eat"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What changed things for the restaurant?",
+      "options": [
+        "A newspaper article about the place",
+        "A new cooker in the kitchen",
+        "A cooking competition on television"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says a local newspaper wrote about them and everything changed.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "A local newspaper wrote about us last spring"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "What is Nam doing in this part?",
+      "options": [
+        "Teaching a class at a college",
+        "Describing the menu of his restaurant",
+        "Explaining how to cook a simple meal"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He shares a quick recipe step by step.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "let me share my favourite quick dinner"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long does the whole dish take?",
+      "options": [
+        "Six minutes",
+        "Thirty minutes",
+        "Twenty minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The dish takes twenty minutes. Six minutes is only the time for cooking the chicken.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "It takes only twenty minutes"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why does Nam cut the chicken into small pieces?",
+      "options": [
+        "It is cheaper to buy that way",
+        "Children cannot eat big pieces",
+        "It cooks faster and tastes better"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says small pieces cook faster and taste better with the sauce.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "small ones cook faster and taste better with the sauce"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "Why does Nam not use chilli in the sauce?",
+      "options": [
+        "He cannot buy it in the shop",
+        "He likes it mild for young customers",
+        "It makes the chicken too dry"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says some people add chilli, but he prefers it mild for his younger customers.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "I prefer to keep it mild for my younger customers"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Nam think about recipes?",
+      "options": [
+        "They must be followed exactly",
+        "They are only a guide to cooking",
+        "They are not useful at all"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says recipes are only a guide and you should taste as you cook.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Recipes are only a guide"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What are Linh and Ben mainly talking about?",
+      "options": [
+        "Going to the chef's restaurant",
+        "Visiting Nam's grandmother's noodle stall",
+        "Cooking a birthday dinner at home"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh wants to try the restaurant and they plan a birthday visit.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "it's your birthday next month"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Linh think about the prices at the restaurant?",
+      "options": [
+        "They are too high for her to pay",
+        "They are high but fair for a special day",
+        "They are lower than other restaurants"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says it is not cheap, but worth it for a special occasion.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I think it's worth it for a special occasion"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why might Linh need to book weeks in advance?",
+      "options": [
+        "The restaurant is full at weekends",
+        "The chef is often away from town",
+        "The restaurant is far from her home"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the restaurant is fully booked at weekends and her birthday is on a Saturday.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "they're fully booked at weekends"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why would Friday be easier?",
+      "options": [
+        "The restaurant is cheaper on Fridays",
+        "Her brother works on Saturday",
+        "Ben has no time on Saturday evening"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says Friday is easier because her brother works on Saturday.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "because my brother works on Saturday"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When will Linh phone the restaurant?",
+      "options": [
+        "At lunchtime today",
+        "Later this evening",
+        "On the day of her birthday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She will phone at lunchtime when they are not so busy.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "I'll phone the restaurant at lunchtime"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why is Helen speaking?",
+      "options": [
+        "To read the weather forecast",
+        "To advertise Nam's restaurant",
+        "To tell listeners about a competition"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She explains how to enter a special competition.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "This week we have a special competition"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What must people send to enter?",
+      "options": [
+        "A recipe with a short story",
+        "A photo of their favourite meal",
+        "A video of themselves cooking it"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Entrants send a family recipe and a short story. Photos are not necessary.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "send us your favourite family recipe by email"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is the prize?",
+      "options": [
+        "A free meal at the restaurant for a year",
+        "A cooking lesson for up to four people",
+        "A new cooker for their own kitchen"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The winner gets a private lesson for up to four, plus a free lunch.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "a private cooking lesson with Nam"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does the winning recipe from last year show?",
+      "options": [
+        "You do not need to be an expert to win",
+        "Children win the competition every year",
+        "Simple soup is always the best recipe"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A ten-year-old won with a simple soup, so experts have no special advantage.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "So don't think you have to be an expert"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When will the winner be announced?",
+      "options": [
+        "On Monday morning",
+        "Tomorrow at lunchtime",
+        "On Friday at eight o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Friday is the closing date; the winner is announced on Monday morning.",
+      "evidence": [
+        {
+          "lineId": "s37",
+          "quote": "on Monday morning at eight"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "id": "l-c1-interview-with-a-literary-translator",
+  "title": "Interview with a Literary Translator",
+  "level": "C1 · Advanced",
+  "description": "Four recordings about the art, craft and future of translating novels, from an interview to a documentary.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B, C or D) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A radio interview",
+      "intro": "You will hear a radio presenter, Nam, interviewing a translator called Claire.",
+      "speakers": {
+        "Nam": "male",
+        "Claire": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Nam",
+          "text": "Welcome to Book Hour. My guest today is Claire Dunmore, who has translated more than twenty novels from Portuguese into English. Claire, most readers never think about the translator. Does that bother you?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Claire",
+          "text": "Well, it used to, I suppose. When I started, I felt rather invisible. But I've come to see it differently. If I do my job well, the reader forgets I'm there, and that's actually the highest compliment I could receive."
+        },
+        {
+          "id": "s3",
+          "speaker": "Nam",
+          "text": "How did you get into translation? Was it a childhood dream?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Claire",
+          "text": "Not at all. I wanted to be a pianist, believe it or not. I studied music for years, but my hands simply weren't good enough. Then I spent a year in Lisbon working in a bookshop, and I started reading in Portuguese for pleasure. One evening I tried to render a short story into English, just for fun, and I lost the entire night to it."
+        },
+        {
+          "id": "s5",
+          "speaker": "Nam",
+          "text": "And that was it?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Claire",
+          "text": "Not quite. I sent the story to a small magazine, expecting nothing, and they published it. Though to be honest, it took another six years before anyone paid me properly. I worked as a proofreader during the day and translated at night."
+        },
+        {
+          "id": "s7",
+          "speaker": "Nam",
+          "text": "Many people assume translation is mostly about vocabulary. Is that fair?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Claire",
+          "text": "It's the least of it, really. Any dictionary can give you words. What's hard is rhythm and tone. A sentence can be perfectly accurate and still sound dead on the page, and then I've failed the author, even though I haven't made a single mistake."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A university lecture",
+      "intro": "You will hear a lecturer, Dr Owen, talking to translation students about equivalence.",
+      "speakers": {
+        "Dr Owen": "male"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Dr Owen",
+          "text": "Good afternoon. Today I want to look at what translators call the problem of equivalence, and I'll begin by challenging a popular myth, namely that some words are simply untranslatable."
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Owen",
+          "text": "Take the Portuguese word saudade, which is often described as impossible to render in English. In fact, translators have managed it many times. They just don't do it with a single word. They use a phrase, or they let the surrounding scene carry the feeling. So the real issue is not possibility, but economy."
+        },
+        {
+          "id": "s11",
+          "speaker": "Dr Owen",
+          "text": "A much more stubborn problem is humour. Jokes depend on sound, on double meanings, on shared assumptions. If a pun works only because two words happen to sound alike in the original, you cannot carry it across. Translators therefore have to decide whether to explain the joke, which kills it, or to invent a different one that does a similar job."
+        },
+        {
+          "id": "s12",
+          "speaker": "Dr Owen",
+          "text": "Most professionals choose the second option, and it's a decision that divides the field. Purists argue that inventing a joke betrays the author. I take the opposite view. If the joke makes the reader laugh at the same moment in the story, then the author's intention has been honoured, even though the words have changed."
+        },
+        {
+          "id": "s13",
+          "speaker": "Dr Owen",
+          "text": "Dialect raises similar questions. Suppose a character speaks in the accent of a poor rural region. Should the translator choose an English regional accent? That risks making a farmer from the Portuguese countryside sound as though he lives in Yorkshire, which is absurd. Most translators now prefer a lighter touch, using rhythm and word order to suggest speech without pointing to a real place."
+        },
+        {
+          "id": "s14",
+          "speaker": "Dr Owen",
+          "text": "I'd like you to read the two extracts on the handout, then, for next week, write a short commentary explaining which approach you prefer and why. Please don't simply say which version you like. I want evidence from the text."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A discussion about machine translation",
+      "intro": "You will hear a publisher, Mai, and a linguist, Hugh, discussing whether software will replace literary translators.",
+      "speakers": {
+        "Hugh": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Hugh",
+          "text": "I'll be provocative, Mai. For ordinary business text, machines already do the job well enough that nobody pays a human. I see no reason why fiction should be immune forever."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "Forever is a big word. I'd concede that for instruction manuals you're right. But a novel isn't information. It's a voice. And so far, the machine versions I've seen are smooth but flat, as if every character had been sanded down to the same pleasant tone."
+        },
+        {
+          "id": "s17",
+          "speaker": "Hugh",
+          "text": "Smooth is an improvement, though. Five years ago they weren't even smooth. Isn't it likely that the flatness will be solved the way the grammar was?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "Possibly, but there's a difference. Grammar has right and wrong answers; style doesn't. Someone has to decide what the book should sound like, and that is a judgement, not a calculation. Publishers will still need a person to take responsibility for that judgement."
+        },
+        {
+          "id": "s19",
+          "speaker": "Hugh",
+          "text": "Fair point, yet I suspect the role will change rather than vanish. Translators may end up editing machine drafts, rather like pilots monitoring automatic systems."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "That worries me, actually. Editing a draft makes you cautious. You tend to fix errors rather than rethink the whole sentence, and the result drifts towards the safe and the predictable. Readers would notice eventually, I think, even if they couldn't say why."
+        },
+        {
+          "id": "s21",
+          "speaker": "Hugh",
+          "text": "Perhaps. I'd still say the economics will be decisive, not the art. If a publisher can save half the cost, many will take the risk, particularly with books they expect to sell modestly."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mai",
+          "text": "And that's where we agree, oddly enough. The books at risk are the quiet, unfashionable ones, which are often the most interesting. That's what I'd hate to lose."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A documentary",
+      "intro": "You will hear part of a radio documentary about a retreat for translators.",
+      "speakers": {
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "In a quiet village on the coast, a small house hosts something unusual: a residential centre for literary translators. Every summer, twelve translators from as many languages arrive for a month, and they do something rarely done in this profession. They work together."
+        },
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "Translation is traditionally lonely. A translator might spend a year with one book and speak to nobody about it except an editor, who may not read the original language. At the centre, each person reads a page aloud in the evening, and the others, who often know nothing of the source language, simply listen for what sounds wrong."
+        },
+        {
+          "id": "s25",
+          "speaker": "Linh",
+          "text": "Strangely, that is often enough. A phrase that seems fine on the page can sound clumsy to the ear, and the translator, who has been staring at the original for months, suddenly hears what a stranger would hear."
+        },
+        {
+          "id": "s26",
+          "speaker": "Linh",
+          "text": "The centre was founded by a retired teacher, who had noticed that many of the best translators she knew had given up. Not because of poor reviews, but because of poor pay and long isolation. Her aim was modest: to give them a month where the work felt like a pleasure again. Funding has never been generous; the kitchen is run by volunteers, and the rooms are plain."
+        },
+        {
+          "id": "s27",
+          "speaker": "Linh",
+          "text": "Yet the waiting list is now three years long. Past visitors say that what they take away is less a finished chapter than confidence. One of them described it as remembering that you are part of a tradition that is older than any single language."
+        },
+        {
+          "id": "s28",
+          "speaker": "Linh",
+          "text": "Critics sometimes ask whether such a place is a luxury. The organisers reply that literature depends on translation, since most readers will only ever meet the world's great books in a language other than the one they were written in. If the translators are exhausted, they argue, everyone eventually pays the price."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Claire feel now about translators being unnoticed?",
+      "options": [
+        "She sees it as a sign of success.",
+        "She still resents it.",
+        "She finds it embarrassing.",
+        "She has accepted it reluctantly."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says that if the reader forgets she is there, that is the highest compliment.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "the reader forgets I'm there"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did Claire originally hope to become?",
+      "options": [
+        "a pianist",
+        "a bookseller",
+        "a magazine editor",
+        "a proofreader"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she wanted to be a pianist, but her hands were not good enough.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I wanted to be a pianist"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How long was it before Claire was properly paid for translating?",
+      "options": [
+        "a single night",
+        "more than twenty years",
+        "one year",
+        "about six years"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "After the magazine published her story, it took another six years before anyone paid her properly.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "another six years before anyone paid me properly"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Claire find hardest about translating?",
+      "options": [
+        "finding the right vocabulary",
+        "understanding Portuguese grammar",
+        "capturing rhythm and tone",
+        "working to a deadline"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says vocabulary is the least of it; rhythm and tone are hard.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "What's hard is rhythm and tone"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does Claire mean when she says she could fail the author without making a mistake?",
+      "options": [
+        "Readers prefer a literal translation.",
+        "A translation can be correct but lifeless.",
+        "Authors often reject accurate translations.",
+        "Mistakes are less serious than most people think."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A sentence can be accurate and still sound dead, so accuracy alone is not enough.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "perfectly accurate and still sound dead on the page"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does the lecturer mention the word saudade?",
+      "options": [
+        "to introduce the topic of humour",
+        "to demonstrate how rich Portuguese is",
+        "to prove that some words cannot be translated",
+        "to show that a popular belief is mistaken"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He uses it to challenge the myth that some words are untranslatable.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "a popular myth"
+        },
+        {
+          "lineId": "s10",
+          "quote": "translators have managed it many times"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "According to the lecturer, what is the real issue with so-called untranslatable words?",
+      "options": [
+        "how well readers know the culture",
+        "how old the word is",
+        "whether a translation is possible at all",
+        "how few words the translator can use"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says the issue is not possibility, but economy: it takes a phrase rather than one word.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "the real issue is not possibility, but economy"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is the lecturer's view of inventing a new joke in translation?",
+      "options": [
+        "It is a betrayal of the author.",
+        "It can be a faithful way to respect the author.",
+        "It is only acceptable for children's books.",
+        "It should be avoided whenever possible."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He disagrees with the purists and says the intention is honoured if the reader laughs at the same moment.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I take the opposite view"
+        },
+        {
+          "lineId": "s12",
+          "quote": "the author's intention has been honoured"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does the lecturer call an English regional accent for a rural character absurd?",
+      "options": [
+        "Farmers never speak in dialect.",
+        "Readers would not understand the accent.",
+        "It would place the character in the wrong setting.",
+        "English accents are difficult to write down."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A Portuguese farmer would sound as though he lives in Yorkshire, which gives the wrong place.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "sound as though he lives in Yorkshire"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "What does the lecturer ask the students to do for next week?",
+      "options": [
+        "choose their favourite version of the text",
+        "translate the extracts into Portuguese",
+        "memorise the handout",
+        "give reasons for their preferred translation approach"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He wants a commentary that explains which approach they prefer, with evidence from the text.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "explaining which approach you prefer and why"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How does Mai describe the machine translations she has seen?",
+      "options": [
+        "full of grammar mistakes",
+        "fluent but lacking individual voices",
+        "better than human drafts",
+        "accurate only for instruction manuals"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says they are smooth but flat, with every character sounding the same.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "smooth but flat"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What is Mai's point about grammar and style?",
+      "options": [
+        "Style depends on human judgement, not correct answers.",
+        "Grammar matters more than style to publishers.",
+        "Style can be improved by better software.",
+        "Machines will never learn grammar."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says grammar has right and wrong answers but style does not, so someone must judge.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Grammar has right and wrong answers; style doesn't"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Mai feel about translators editing machine drafts?",
+      "options": [
+        "concerned about the effect on quality",
+        "indifferent as long as errors are fixed",
+        "pleased that the work would be quicker",
+        "sure it will improve their income"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says it worries her because editing makes translators cautious and the result becomes predictable.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "That worries me, actually"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Hugh believe will most affect what publishers decide?",
+      "options": [
+        "the opinions of translators",
+        "the preferences of readers",
+        "the money they can save",
+        "the quality of the machine output"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says the economics will be decisive, not the art.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "the economics will be decisive, not the art"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What do Mai and Hugh agree about at the end?",
+      "options": [
+        "Publishers will always employ translators.",
+        "Readers will soon notice the difference.",
+        "Less commercial books are most in danger.",
+        "Machines cannot translate fiction."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Hugh says publishers will risk it with modest sellers, and Mai agrees that quiet, unfashionable books are at risk.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "particularly with books they expect to sell modestly"
+        },
+        {
+          "lineId": "s22",
+          "quote": "that's where we agree"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is unusual about the centre?",
+      "options": [
+        "It teaches twelve languages at once.",
+        "Its translators work collaboratively.",
+        "It only accepts very experienced translators.",
+        "It is located inside a publishing house."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Translators arrive together and do something rarely done: they work together.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "They work together"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why can listeners help even if they do not know the source language?",
+      "options": [
+        "They compare it with a dictionary.",
+        "They are all professional editors.",
+        "They read the original aloud as well.",
+        "They can hear when the English sounds awkward."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They simply listen for what sounds wrong, and clumsy phrases can be heard.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "simply listen for what sounds wrong"
+        },
+        {
+          "lineId": "s25",
+          "quote": "can sound clumsy to the ear"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why did the retired teacher found the centre?",
+      "options": [
+        "She wanted to improve reviews of translations.",
+        "She hoped to raise translators' salaries.",
+        "She planned to open a school for beginners.",
+        "She wanted to stop translators giving up."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Many good translators had given up because of poor pay and isolation, so she offered a pleasant month.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "many of the best translators she knew had given up"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What do past visitors say they gain most?",
+      "options": [
+        "renewed confidence",
+        "a completed chapter",
+        "new friends in the village",
+        "higher fees"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They take away less a finished chapter than confidence.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "less a finished chapter than confidence"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why do the organisers reject the idea that the centre is a luxury?",
+      "options": [
+        "Translators work harder than other writers.",
+        "Most visitors are famous authors.",
+        "Readers rely on translators for the world's great books.",
+        "The centre is cheap to run."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They argue that most readers meet great books through translation, so tired translators harm everyone.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "literature depends on translation"
+        }
+      ]
+    }
+  ]
+}

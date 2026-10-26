@@ -1,0 +1,619 @@
+{
+  "id": "l-c1-behavioural-economics",
+  "title": "Behavioural Economics",
+  "level": "C1 · Advanced",
+  "description": "A lecture series on why people do not always make rational choices, with a student question session, a debate about nudging and a documentary extract.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Lecture extract",
+      "intro": "You will hear a lecturer, Dr Grant, introducing behavioural economics to first-year students.",
+      "speakers": {
+        "Dr Grant": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Dr Grant",
+          "text": "Good morning, everyone. Today I want to begin with a rather uncomfortable idea: that you are not nearly as rational as you think you are."
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Grant",
+          "text": "For most of the twentieth century, classical economics worked with a convenient fiction. It assumed that people weigh up costs and benefits calmly, know what they want, and act accordingly. Economists called this creature the rational agent."
+        },
+        {
+          "id": "s3",
+          "speaker": "Dr Grant",
+          "text": "Now, nobody ever claimed that every individual behaved perfectly. The argument was subtler. Mistakes, it was said, would be random, so they would cancel each other out across a whole market. What behavioural economists discovered was that our mistakes are not random at all. They are systematic, and they all point in the same direction."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Grant",
+          "text": "Take anchoring. In one famous experiment, people were asked to write down the last two digits of their telephone number, and then to guess the price of a bottle of wine. Those with high numbers guessed far higher prices. A completely irrelevant figure had quietly dragged their judgement towards it."
+        },
+        {
+          "id": "s5",
+          "speaker": "Dr Grant",
+          "text": "I'm not telling you this to make you feel foolish. Actually, the point is rather the opposite. Once you know a bias exists, you can design around it. A shop that displays an expensive jacket next to a cheaper one isn't being irrational; it knows exactly what it's doing."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Grant",
+          "text": "So here is the shift in thinking I'd like you to notice. Traditional theory asked, how should people behave? Behavioural economics asks, how do people actually behave, and what follows from that? It's a far messier question, and, to my mind, a far more interesting one."
+        },
+        {
+          "id": "s7",
+          "speaker": "Dr Grant",
+          "text": "Over the next few weeks we'll look at three areas: how we judge value, how we handle risk, and how the setting of a decision changes the decision itself. I should warn you that the third is the one students find most unsettling."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Student questions",
+      "intro": "You will hear a student, Minh, asking Dr Grant about nudges after the lecture.",
+      "speakers": {
+        "Dr Grant": "female",
+        "Minh": "male"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Minh",
+          "text": "Dr Grant, can I ask about something you said last week? You mentioned that governments now use nudges. What exactly counts as a nudge?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Dr Grant",
+          "text": "Good question, because the word gets used rather loosely. A nudge is a change in how choices are presented that steers people in a particular direction, without banning anything and without changing the financial incentives. Putting fruit at eye level in a canteen is a nudge. Taxing sugary drinks is not."
+        },
+        {
+          "id": "s10",
+          "speaker": "Minh",
+          "text": "So the difference is that I'm still free to choose the chocolate cake."
+        },
+        {
+          "id": "s11",
+          "speaker": "Dr Grant",
+          "text": "Precisely. The cake is still there. You just have to reach a little further for it."
+        },
+        {
+          "id": "s12",
+          "speaker": "Minh",
+          "text": "But does it actually work? It sounds almost too simple."
+        },
+        {
+          "id": "s13",
+          "speaker": "Dr Grant",
+          "text": "Sometimes spectacularly. The best example is organ donation. In countries where you must actively sign up, only a small minority of people are registered. In countries where you are registered automatically unless you opt out, the figure is above ninety per cent. Same people, same values, different default."
+        },
+        {
+          "id": "s14",
+          "speaker": "Minh",
+          "text": "Hang on. Doesn't that just show people can't be bothered to fill in forms?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Dr Grant",
+          "text": "Well, partly, yes. Inertia is a huge force. But there's more to it. People also tend to read the default as a recommendation, a kind of quiet advice from the authorities. And I'd add a caution. Nudges are often oversold. Some trials have found effects that are much smaller than the headlines suggested, and a few have disappeared altogether when repeated."
+        },
+        {
+          "id": "s16",
+          "speaker": "Minh",
+          "text": "That's reassuring, in a way. I was starting to feel like a puppet."
+        },
+        {
+          "id": "s17",
+          "speaker": "Dr Grant",
+          "text": "Ha! Hold on to that instinct, Minh. It leads directly to the debate we'll have next week about whether nudging is respectful or manipulative."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A debate",
+      "intro": "You will hear two economists, Peter and Linh, debating whether nudging is acceptable.",
+      "speakers": {
+        "Peter": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s18",
+          "speaker": "Peter",
+          "text": "My position is simple. Every choice has to be presented somehow. Someone designs the menu, the form, the website. Since there's no neutral way to do it, it's irresponsible not to design it in people's favour."
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "I find that argument slippery, Peter. Yes, a default has to exist. But there's a world of difference between a menu that happens to be arranged some way and one that has been engineered by experts to exploit a weakness in how I think."
+        },
+        {
+          "id": "s20",
+          "speaker": "Peter",
+          "text": "Exploit is a loaded word. If I automatically enrol employees in a pension scheme and they can leave whenever they like, who is harmed?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "In that case, perhaps nobody. I'll grant you the pension example. My worry is what comes next. Once governments accept that steering is legitimate, where does it stop? Today it's pensions, tomorrow it's what we eat, how we vote, even what we think of a policy."
+        },
+        {
+          "id": "s22",
+          "speaker": "Peter",
+          "text": "That's a hypothetical slope, not an evidence-based one. Do you have a single case where a nudge has been used for sinister ends?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "Not in the public sector, no. But companies already use what researchers call dark patterns: a cancel button hidden five screens deep, a countdown clock that is entirely fake. Those are nudges too, and they work against the customer."
+        },
+        {
+          "id": "s24",
+          "speaker": "Peter",
+          "text": "Which is exactly why we need transparency, not a ban. If a government publishes how and why it's nudging, citizens can object."
+        },
+        {
+          "id": "s25",
+          "speaker": "Linh",
+          "text": "Transparency helps, I'll admit. But I'd go further. A nudge that only works when people don't notice it is, to me, a warning sign. The ones I'd trust are those that would still work if I understood them perfectly."
+        },
+        {
+          "id": "s26",
+          "speaker": "Peter",
+          "text": "Now that, I can agree with. It's a good test, actually. I may borrow it."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Documentary extract",
+      "intro": "You will hear the narrator of a documentary about how businesses use behavioural research.",
+      "speakers": {
+        "Narrator": "male"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Narrator",
+          "text": "In the late nineteen-seventies, two psychologists proposed an idea that would eventually win a Nobel Prize in economics: that losing hurts more than winning pleases. Economists named it loss aversion, and it has reshaped how companies set their prices."
+        },
+        {
+          "id": "s28",
+          "speaker": "Narrator",
+          "text": "Consider a simple experiment. Researchers gave half of a group of students a coffee mug and left the rest empty-handed. When asked what they would sell the mug for, owners wanted roughly twice as much as the others were willing to pay. Nothing about the mug had changed. Only ownership had."
+        },
+        {
+          "id": "s29",
+          "speaker": "Narrator",
+          "text": "Retailers have drawn the obvious conclusion. Offering a free trial, with the right to return the goods, turns a customer into an owner. Giving up what we already have feels like a loss, so we keep it, even when we would never have bought it in the first place."
+        },
+        {
+          "id": "s30",
+          "speaker": "Narrator",
+          "text": "Not everyone in the industry is comfortable with this. One former product designer, now a critic of her own profession, told us that the early excitement about these techniques gave way to something closer to unease, as the tools became more precise and the customers less aware."
+        },
+        {
+          "id": "s31",
+          "speaker": "Narrator",
+          "text": "Yet the same insights can serve people well. A savings scheme in one country asked workers to commit in advance to saving a share of any future pay rise. Because the money had never appeared in their wages, giving it up never felt like a loss. Savings rates among participants more than tripled."
+        },
+        {
+          "id": "s32",
+          "speaker": "Narrator",
+          "text": "The lesson, perhaps, is that behavioural economics is neither a villain nor a miracle cure. It's a set of tools, and, like any tools, what matters is who is holding them and what they intend to build."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the main point Dr Grant makes in her introduction?",
+      "options": [
+        "Markets have become more random over time.",
+        "Human errors in judgement follow predictable patterns.",
+        "Classical economics has been proved entirely wrong.",
+        "Most people understand their own biases well."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says our mistakes are systematic and all point in the same direction, not random.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "They are systematic, and they all point in the same direction."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What was the argument of classical economists about mistakes?",
+      "options": [
+        "They would be corrected by the market's regulators.",
+        "They would cancel each other out across a market.",
+        "They would mostly affect only wealthy investors."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The classical argument was that mistakes were random and would cancel out across a whole market.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "Mistakes, it was said, would be random, so they would cancel each other out across a whole market."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does the telephone number experiment show?",
+      "options": [
+        "An irrelevant number can sway a later judgement.",
+        "Wine prices depend closely on the buyer's age.",
+        "People remember numbers better than they recall prices."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A completely irrelevant figure pulled people's price guesses towards it.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "A completely irrelevant figure had quietly dragged their judgement towards it."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Dr Grant feel about knowing that biases exist?",
+      "options": [
+        "She thinks it is a reason to feel embarrassed.",
+        "She sees it as a chance to plan around them.",
+        "She is worried that shops will misuse it.",
+        "She believes it makes no practical difference."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says that once you know a bias exists, you can design around it.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Once you know a bias exists, you can design around it."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Dr Grant mention the shop with the two jackets?",
+      "options": [
+        "To show that shops are often quite irrational",
+        "To explain why designer jackets are so expensive",
+        "To show that businesses use biases deliberately"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The shop knows exactly what it is doing, so it uses the bias on purpose.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "it knows exactly what it's doing"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "According to Dr Grant, which of these is a nudge?",
+      "options": [
+        "A tax on sugary drinks sold in shops",
+        "Fruit placed at eye level in a canteen",
+        "A ban on unhealthy food in school canteens"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A nudge changes presentation, not incentives or rules; the tax is not one.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "Putting fruit at eye level in a canteen is a nudge."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does the organ donation example show?",
+      "options": [
+        "Defaults can greatly change what people choose.",
+        "Most people disagree with donation.",
+        "Forms are easier to complete in some countries.",
+        "People in some countries are more generous."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Registration is above ninety per cent where people are enrolled automatically; same people, different default.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Same people, same values, different default."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What does Dr Grant suggest about some nudge studies?",
+      "options": [
+        "They only work in canteens and workplaces.",
+        "They were faked by researchers seeking attention.",
+        "Some results were weaker than first claimed."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says nudges are often oversold and some effects shrank or disappeared when repeated.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Nudges are often oversold."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Minh feel by the end of the conversation?",
+      "options": [
+        "Relieved that nudges are not all-powerful",
+        "Convinced that nudging is manipulative",
+        "Annoyed by the lecturer's answers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it is reassuring, in a way, after hearing that effects can be small.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "That's reassuring, in a way."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Dr Grant tell Minh to hold on to his instinct about being a puppet?",
+      "options": [
+        "Because it leads into a coming debate topic",
+        "To suggest that he is mistaken about nudges",
+        "To end the conversation as quickly as possible"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the instinct leads to next week's debate on respectful versus manipulative nudging.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "It leads directly to the debate we'll have next week"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is Peter's main argument?",
+      "options": [
+        "People generally enjoy being nudged by governments.",
+        "Governments should never try to influence people's choices.",
+        "Choices must be designed somehow, so design them well.",
+        "Pension schemes are the only fair use of nudges."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says there is no neutral way to present choices, so it is irresponsible not to favour people.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Since there's no neutral way to do it, it's irresponsible not to design it in people's favour."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is Linh's attitude to the pension example?",
+      "options": [
+        "She rejects it completely as an unfair example.",
+        "She accepts it but worries about later steps.",
+        "She thinks it proves Peter is right on everything."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She grants the pension example but is concerned about where steering will stop.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "I'll grant you the pension example."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Linh mention dark patterns?",
+      "options": [
+        "To show that nudges can be used against customers",
+        "To prove that governments also use them secretly",
+        "To argue that businesses should be banned from nudging"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Hidden cancel buttons and fake clocks are nudges that work against the customer.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "Those are nudges too, and they work against the customer."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Peter want to do about the risks of nudging?",
+      "options": [
+        "Make governments explain how and why they nudge",
+        "Stop governments from using defaults altogether",
+        "Let companies decide how to nudge their customers",
+        "Ban nudging in the private sector entirely"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Peter says transparency, not a ban, so citizens can object.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "If a government publishes how and why it's nudging, citizens can object."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What do the speakers agree on at the end?",
+      "options": [
+        "Nudges are always harmful in the private sector.",
+        "A good nudge works even when people understand it.",
+        "Pensions should not be automatic for employees."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh proposes a test that Peter likes: trust nudges that work when understood.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "The ones I'd trust are those that would still work if I understood them perfectly."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What did the mug experiment find?",
+      "options": [
+        "Students preferred coffee to receiving a mug.",
+        "Owners were happy to sell at any price offered.",
+        "Owners valued the mug far more than others."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Owners wanted about twice as much as others would pay, just because they owned it.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "owners wanted roughly twice as much as the others were willing to pay"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why do free trials work well for retailers?",
+      "options": [
+        "Customers feel that returning the item is a loss.",
+        "Customers dislike the goods when they first arrive.",
+        "Customers usually pay less than the normal price."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Giving up something you already have feels like a loss, so people keep it.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "Giving up what we already have feels like a loss"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How did the former product designer feel about the techniques?",
+      "options": [
+        "Increasingly uneasy as they grew more precise",
+        "Unconcerned about how much customers understood",
+        "Proud of the results the techniques achieved",
+        "Eager to teach the techniques to young designers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Her early excitement gave way to unease as tools became precise and customers less aware.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "something closer to unease"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why did the savings scheme succeed?",
+      "options": [
+        "Workers were given a large pay rise at once.",
+        "The saved money never felt like something lost.",
+        "Workers were required to save by new law."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The money had never appeared in wages, so giving it up never felt like a loss.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "giving it up never felt like a loss"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is the narrator's overall conclusion?",
+      "options": [
+        "It will eventually replace classical economic theory.",
+        "It is good or bad depending on how it is used.",
+        "It should be avoided by companies and governments."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He calls it a set of tools whose value depends on who holds them and why.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "what matters is who is holding them and what they intend to build"
+        }
+      ]
+    }
+  ]
+}

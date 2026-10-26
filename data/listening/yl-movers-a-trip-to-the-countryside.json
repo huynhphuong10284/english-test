@@ -1,0 +1,459 @@
+{
+  "id": "l-yl-m-a-trip-to-the-countryside",
+  "title": "A Trip to the Countryside",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about a trip to a farm: in the car, on the farm and a talk to the class.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · In the car",
+      "intro": "You will hear Lily talking to her dad in the car.",
+      "speakers": {
+        "Lily": "female",
+        "Dad": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Lily",
+          "text": "Dad, how long until we get to the farm?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Dad",
+          "text": "About twenty minutes. Look out of the window. Can you see the river?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Lily",
+          "text": "Yes! And there are some cows in the field."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dad",
+          "text": "Those are Grandpa's cows. He has twelve of them."
+        },
+        {
+          "id": "s5",
+          "speaker": "Lily",
+          "text": "Will we see the sheep too?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Dad",
+          "text": "Yes, but they're on the hill. We'll walk up there after lunch."
+        },
+        {
+          "id": "s7",
+          "speaker": "Lily",
+          "text": "I hope it doesn't rain."
+        },
+        {
+          "id": "s8",
+          "speaker": "Dad",
+          "text": "Look at the big blue sky. I think the weather will be lovely all day."
+        },
+        {
+          "id": "s9",
+          "speaker": "Lily",
+          "text": "Yes! I can't wait to see Grandpa again, and I want to run in the fields."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · On the farm",
+      "intro": "You will hear Lily and her grandpa on the farm.",
+      "speakers": {
+        "Grandpa": "male",
+        "Lily": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Grandpa",
+          "text": "Welcome, Lily! Would you like to feed the chickens?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Lily",
+          "text": "Yes, please! What do they eat?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Grandpa",
+          "text": "Corn. Throw it on the ground, like this. But be careful of the big white one. He's a bit noisy."
+        },
+        {
+          "id": "s13",
+          "speaker": "Lily",
+          "text": "He's funny. Can I look for eggs?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Grandpa",
+          "text": "Yes. Look in the barn, behind the hay. We usually find about six eggs each morning."
+        },
+        {
+          "id": "s15",
+          "speaker": "Lily",
+          "text": "I found four! Oh, wait, here's another. That's five!"
+        },
+        {
+          "id": "s16",
+          "speaker": "Grandpa",
+          "text": "Wonderful! We'll have them for lunch with bread."
+        },
+        {
+          "id": "s17",
+          "speaker": "Lily",
+          "text": "Grandpa, your farm is so nice. I wish I lived here and had a dog."
+        },
+        {
+          "id": "s18",
+          "speaker": "Grandpa",
+          "text": "Maybe one day, Lily. Now wash your hands, please, and we'll cook."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Lily's talk",
+      "intro": "You will hear Lily talking to her class about her weekend.",
+      "speakers": {
+        "Lily": "female"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Lily",
+          "text": "Last weekend, I went to my grandpa's farm. It was great. In the morning, I fed the chickens and found some eggs."
+        },
+        {
+          "id": "s20",
+          "speaker": "Lily",
+          "text": "After lunch, we walked up the hill to see the sheep. It was a long walk, but I could see the whole valley from the top."
+        },
+        {
+          "id": "s21",
+          "speaker": "Lily",
+          "text": "Then I rode on Grandpa's old tractor. It was very loud!"
+        },
+        {
+          "id": "s22",
+          "speaker": "Lily",
+          "text": "In the evening, we had a picnic by the river and watched the sunset."
+        },
+        {
+          "id": "s23",
+          "speaker": "Lily",
+          "text": "Next time, I want to stay for the whole weekend."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How long will it take to get to the farm?",
+      "options": [
+        "Twenty minutes",
+        "Thirty minutes",
+        "Ten minutes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Dad says it will take about twenty minutes.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "About twenty minutes."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What can Lily see in the field?",
+      "options": [
+        "Some cows",
+        "Some sheep",
+        "Some horses"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lily sees cows in the field. The sheep are on the hill.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "there are some cows in the field"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many cows does Grandpa have?",
+      "options": [
+        "Fifteen",
+        "Twelve",
+        "Ten"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dad says Grandpa has twelve cows.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "He has twelve of them."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where are the sheep?",
+      "options": [
+        "By the river",
+        "In the barn",
+        "On the hill"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dad says the sheep are on the hill.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "they're on the hill"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does Lily hope?",
+      "options": [
+        "That it will be hot",
+        "That it won't rain",
+        "That they will see a horse"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lily says: \"I hope it doesn't rain.\"",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "I hope it doesn't rain."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What do the chickens eat?",
+      "options": [
+        "Bread",
+        "Grass",
+        "Corn"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Grandpa says the chickens eat corn.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Corn. Throw it on the ground"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which chicken is noisy?",
+      "options": [
+        "The small brown one",
+        "The black one",
+        "The big white one"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Grandpa says the big white one is a bit noisy.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "be careful of the big white one"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where should Lily look for eggs?",
+      "options": [
+        "In the barn behind the hay",
+        "In the house",
+        "Under a tree"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Grandpa says to look in the barn, behind the hay.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "Look in the barn, behind the hay."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How many eggs did Lily find?",
+      "options": [
+        "Six",
+        "Four",
+        "Five"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She found four, and then another one, so five.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "That's five!"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will they eat with the eggs?",
+      "options": [
+        "Bread",
+        "Rice",
+        "Cake"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Grandpa says they will have the eggs with bread.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "We'll have them for lunch with bread."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is Lily talking about?",
+      "options": [
+        "A holiday at the beach",
+        "Her weekend at the farm",
+        "A school trip"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She talks about her weekend at her grandpa's farm.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Last weekend, I went to my grandpa's farm."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did Lily do after lunch?",
+      "options": [
+        "Had a picnic",
+        "Rode the tractor",
+        "Walked up the hill"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "After lunch, they walked up the hill to see the sheep.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "After lunch, we walked up the hill"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What could Lily see from the top of the hill?",
+      "options": [
+        "The whole valley",
+        "The sea",
+        "The city"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She could see the whole valley.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I could see the whole valley from the top."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What did Lily think about the tractor?",
+      "options": [
+        "It was very clean",
+        "It was very loud",
+        "It was very slow"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says it was very loud.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "It was very loud!"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Lily want to do next time?",
+      "options": [
+        "Ride a horse",
+        "Stay for the whole weekend",
+        "Bring a friend"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She wants to stay for the whole weekend.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "I want to stay for the whole weekend."
+        }
+      ]
+    }
+  ]
+}

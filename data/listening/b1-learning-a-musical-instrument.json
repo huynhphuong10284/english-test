@@ -1,0 +1,623 @@
+{
+  "id": "l-b1-learning-a-musical-instrument",
+  "title": "Learning a Musical Instrument",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings about learning an instrument: a guitar teacher interview, a family chat about drums, a practice talk and a concert announcement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A guitar teacher",
+      "intro": "You will hear a radio presenter, Rita, interviewing a guitar teacher, Joe.",
+      "speakers": {
+        "Rita": "female",
+        "Joe": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Rita",
+          "text": "Today on Music Matters, I'm talking to Joe Morgan, who has taught guitar for fifteen years. Joe, what's the biggest mistake beginners make?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Joe",
+          "text": "Trying to learn too fast. They practise for three hours on Saturday, and then nothing for the rest of the week. Twenty minutes every day is far better."
+        },
+        {
+          "id": "s3",
+          "speaker": "Rita",
+          "text": "Is it true that you need to start as a child?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Joe",
+          "text": "That's a myth. Children learn quickly, but adults have an advantage, too. They understand why they're practising, and they're more patient. My oldest student started at seventy-two."
+        },
+        {
+          "id": "s5",
+          "speaker": "Rita",
+          "text": "That's wonderful. Is the guitar a good first instrument?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Joe",
+          "text": "It's popular because you can play a simple song after a few weeks. But the first month is hard, because your fingers hurt. Many people give up at that point."
+        },
+        {
+          "id": "s7",
+          "speaker": "Rita",
+          "text": "What should they do?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Joe",
+          "text": "Keep going. After about two weeks, your fingertips become hard, and it stops hurting. I always tell students that pain is temporary."
+        },
+        {
+          "id": "s9",
+          "speaker": "Rita",
+          "text": "Should they buy an expensive guitar?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Joe",
+          "text": "Definitely not. A cheap guitar in good condition is fine. I advise renting for the first three months, until you're sure you enjoy it."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Mother and son",
+      "intro": "You will hear a teenager, Nam, talking to his mother, Mai, about learning an instrument.",
+      "speakers": {
+        "Nam": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Nam",
+          "text": "Mum, can I ask you something? I'd like to learn the drums."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mai",
+          "text": "The drums? In this flat? The neighbours would go mad. Why not the piano? We have the keyboard in the cupboard."
+        },
+        {
+          "id": "s13",
+          "speaker": "Nam",
+          "text": "The keyboard is boring. Everyone at school plays piano. I want something different."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mai",
+          "text": "I see. But drums are loud, and they're expensive. A good set costs about four hundred pounds."
+        },
+        {
+          "id": "s15",
+          "speaker": "Nam",
+          "text": "I've been saving. I have one hundred and fifty pounds from my birthday and my weekend job. And there are electronic drums with headphones, so nobody hears them."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "Hmm, that's clever. Where did you learn this?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Nam",
+          "text": "My friend Jack has a set. He says the lessons at the music centre are only fifteen pounds for half an hour."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "That's cheaper than I thought. Let's make a deal. If you take lessons for three months and practise every day, I'll pay half of the drum kit."
+        },
+        {
+          "id": "s19",
+          "speaker": "Nam",
+          "text": "Seriously? Thanks, Mum! You're the best."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "Don't thank me yet. If I hear you playing at midnight, the deal is off."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Advice about practice",
+      "intro": "You will hear the director of a music school, Mr Clarke, giving advice to parents and students.",
+      "speakers": {
+        "Mr Clarke": "male"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Mr Clarke",
+          "text": "Good evening, parents and students, and welcome to the Greenfield Music School. I'm Mr Clarke, the director. I'd like to give you some advice about practice, because it's the question I'm asked most often."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mr Clarke",
+          "text": "First, choose a regular time. Many families find that before dinner works well, because children are not too tired or too hungry. Whatever you choose, make it part of the daily routine, like brushing your teeth."
+        },
+        {
+          "id": "s23",
+          "speaker": "Mr Clarke",
+          "text": "Second, short sessions are better than long ones. For beginners under ten, fifteen minutes is enough. Older students may do thirty to forty-five minutes. If you practise for an hour but you're thinking about something else, it's wasted time."
+        },
+        {
+          "id": "s24",
+          "speaker": "Mr Clarke",
+          "text": "Third, always start with something easy. A piece you already know well makes you feel good, and a good mood helps you work on the difficult parts."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mr Clarke",
+          "text": "Fourth, record yourself on your phone. Listening to your own playing is uncomfortable at first, but it's the quickest way to improve. You'll hear mistakes that you can't notice while you're playing."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mr Clarke",
+          "text": "Parents, please don't sit beside your child and correct every note. That makes practice stressful. Instead, ask them to play you a piece, and say what you enjoyed about it."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mr Clarke",
+          "text": "Finally, be patient. Progress isn't a straight line. Some weeks you'll feel stuck, and then suddenly everything becomes easier."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · The end of term concert",
+      "intro": "You will hear a message from Ms Hill of the Greenfield Music School.",
+      "speakers": {
+        "Ms Hill": "female"
+      },
+      "script": [
+        {
+          "id": "s28",
+          "speaker": "Ms Hill",
+          "text": "Hello, this is Ms Hill from the Greenfield Music School with an important message about our end of term concert."
+        },
+        {
+          "id": "s29",
+          "speaker": "Ms Hill",
+          "text": "The concert will take place on Friday the sixth of December at seven o'clock in the school hall. The doors open at half past six."
+        },
+        {
+          "id": "s30",
+          "speaker": "Ms Hill",
+          "text": "Every student will play one piece, so the concert will last about two hours. Students should arrive at six o'clock to warm up. Please bring your own music stand and a bottle of water."
+        },
+        {
+          "id": "s31",
+          "speaker": "Ms Hill",
+          "text": "The order of performance will be on the notice board from Monday. Younger students will play first, and the guitar group will close the programme."
+        },
+        {
+          "id": "s32",
+          "speaker": "Ms Hill",
+          "text": "Tickets are free, but each family is limited to four, because the hall has only two hundred seats. You can collect them from the office until Wednesday."
+        },
+        {
+          "id": "s33",
+          "speaker": "Ms Hill",
+          "text": "Please remember that you cannot take photographs during the performances, because the flash upsets the players. After the concert, there will be juice and cakes in the foyer, and you can take as many photographs as you like."
+        },
+        {
+          "id": "s34",
+          "speaker": "Ms Hill",
+          "text": "If a student is ill and cannot play, please phone the office before Thursday, so that we can change the programme. Thank you, and good luck to everyone."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is the biggest mistake beginners make, according to Joe?",
+      "options": [
+        "They practise too little each day",
+        "They start too late",
+        "They try to learn too fast"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says beginners try to learn too fast, with a long session and then nothing.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Trying to learn too fast"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much practice does Joe recommend?",
+      "options": [
+        "One hour twice a week",
+        "Three hours at the weekend",
+        "Twenty minutes every day"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Twenty minutes every day is far better than a three-hour session once a week.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Twenty minutes every day is far better"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does Joe think about starting as an adult?",
+      "options": [
+        "It is almost impossible",
+        "It is only for people over seventy",
+        "It is not a disadvantage"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He calls the idea that you must start as a child a myth and says adults are patient.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "That's a myth"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why do many people give up in the first month?",
+      "options": [
+        "The guitar is too expensive",
+        "They cannot play a simple song",
+        "Their fingers hurt"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says the first month is hard because the fingers hurt.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "your fingers hurt"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Joe advise about buying a guitar?",
+      "options": [
+        "Rent one for the first three months",
+        "Wait until you can play a whole song",
+        "Buy the most expensive one you can"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says to rent for three months until you are sure you enjoy it.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "I advise renting for the first three months"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Nam asking his mother?",
+      "options": [
+        "To let him use the old keyboard",
+        "To let him learn the drums",
+        "To find him a piano teacher"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He starts by saying he would like to learn the drums.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I'd like to learn the drums"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why is Mai worried about the drums?",
+      "options": [
+        "They are too big for the flat",
+        "Nam has never played an instrument",
+        "They are noisy and expensive"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says the neighbours would go mad, and drums are loud and expensive.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "drums are loud, and they're expensive"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much money has Nam saved?",
+      "options": [
+        "Fifteen pounds for a lesson",
+        "One hundred and fifty pounds",
+        "Four hundred pounds for a set"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Four hundred is the price of a good set; fifteen is the price of a lesson.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "I have one hundred and fifty pounds"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Nam mention electronic drums?",
+      "options": [
+        "His friend Jack sells them",
+        "They are cheaper than the piano",
+        "Nobody else would hear them"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They have headphones so the neighbours cannot hear.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "so nobody hears them"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What must Nam do to get his mother's help?",
+      "options": [
+        "Practise on the piano for three months",
+        "Learn the piano before he buys drums",
+        "Take lessons for three months and practise daily"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She will pay half the kit if he takes lessons for three months and practises every day.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "If you take lessons for three months and practise every day"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why is Mr Clarke speaking?",
+      "options": [
+        "To explain the lesson prices and fees",
+        "To announce the end of term concert",
+        "To give advice about practising"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he wants to give advice about practice.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "I'd like to give you some advice about practice"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does he recommend practising before dinner?",
+      "options": [
+        "Children are not too tired or hungry then",
+        "It is the quietest time in the whole house",
+        "The family has finished its homework then"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says children are not too tired or too hungry before dinner.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "children are not too tired or too hungry"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How long should a beginner under ten practise?",
+      "options": [
+        "Forty-five minutes",
+        "Thirty minutes",
+        "Fifteen minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Fifteen minutes is enough for young beginners. Older students may do thirty to forty-five.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "fifteen minutes is enough"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Mr Clarke think about recording yourself?",
+      "options": [
+        "It is uncomfortable but helps you improve quickly",
+        "It is a waste of time for young beginners",
+        "It should only be done by older students"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it is uncomfortable at first but the quickest way to improve.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "it's the quickest way to improve"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does he want parents to do during practice?",
+      "options": [
+        "Sit beside them and correct every note",
+        "Leave the room while they practise",
+        "Listen and say what they enjoyed"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says not to correct every note, but to ask for a piece and say what they enjoyed.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "say what you enjoyed about it"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why is Ms Hill leaving this message?",
+      "options": [
+        "To ask parents to pay for the tickets",
+        "To cancel the concert because of illness",
+        "To give information about the concert"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She gives details of the end of term concert.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "an important message about our end of term concert"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What time must the students arrive?",
+      "options": [
+        "At seven o'clock",
+        "At six o'clock",
+        "At half past six"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Students arrive at six to warm up. Half past six is when the doors open for the audience.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "Students should arrive at six o'clock to warm up"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Which group will perform last?",
+      "options": [
+        "The youngest students",
+        "The teachers",
+        "The guitar group"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The younger students play first and the guitar group closes the programme.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "the guitar group will close the programme"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why is each family limited to four tickets?",
+      "options": [
+        "Tickets are free only for small families",
+        "The hall has a limited number of seats",
+        "The concert will last only one hour"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The hall has only two hundred seats.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "the hall has only two hundred seats"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When can people take photographs?",
+      "options": [
+        "During the performances if no flash is used",
+        "After the concert, in the foyer",
+        "Before the concert, in the school hall"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Photographs are not allowed during the performances but are fine afterwards.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "you can take as many photographs as you like"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "id": "l-yl-m-the-new-library",
+  "title": "The New Library",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about a new library: two friends, a librarian and a phone message.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Two friends",
+      "intro": "You will hear Linh and Tom talking about the new library.",
+      "speakers": {
+        "Linh": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "Tom, have you seen the new library? It opened last Monday."
+        },
+        {
+          "id": "s2",
+          "speaker": "Tom",
+          "text": "Not yet, Linh. Where is it? I think we should go there together soon, because all our friends talk about it."
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "It's next to the sports centre, opposite the bakery. It's a big yellow building."
+        },
+        {
+          "id": "s4",
+          "speaker": "Tom",
+          "text": "Is it open at the weekend?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "Yes, but only on Saturday. It closes at four o'clock. On school days it's open until six."
+        },
+        {
+          "id": "s6",
+          "speaker": "Tom",
+          "text": "Great. Let's go on Saturday morning. No, wait, I have football then. We can go in the afternoon."
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "OK. I want to borrow a book about dolphins."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The librarian",
+      "intro": "You will hear a librarian, Mrs Hill, talking to a class.",
+      "speakers": {
+        "Mrs Hill": "female"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Mrs Hill",
+          "text": "Welcome to our new library, everyone. I'm Mrs Hill, the librarian."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mrs Hill",
+          "text": "You can borrow four books at the same time, and you can keep them for two weeks."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mrs Hill",
+          "text": "Please speak quietly, and don't eat or drink in the library. If you are thirsty, there is a water machine outside. Thank you for helping to keep it a nice place for everybody to read."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Hill",
+          "text": "On the first floor there are books for young children. The computers are upstairs, on the second floor."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mrs Hill",
+          "text": "Every Wednesday at four o'clock there is a story club. This week a man will read a funny story about a dragon."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone message",
+      "intro": "You will hear Nam leave a message for his sister, Mai.",
+      "speakers": {
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Nam",
+          "text": "Hi, Mai. It's Nam. I'm at the new library now, and it's brilliant!"
+        },
+        {
+          "id": "s14",
+          "speaker": "Nam",
+          "text": "I'm looking for the book you want, but there are two other books about space. Shall I borrow them for you?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Nam",
+          "text": "Oh, and I can't find my library card. I think it's at home, on my desk. Can you ask Mum to look?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "I'll be home at five o'clock. Please don't forget to feed the fish. Bye! It's raining here, so I'm going to wait inside until Dad comes to get me."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the new library?",
+      "options": [
+        "Next to the sports centre",
+        "Opposite the school",
+        "Next to the bakery"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is next to the sports centre. The bakery is opposite it.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "It's next to the sports centre"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What colour is the library?",
+      "options": [
+        "Red",
+        "Yellow",
+        "White"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says it is a big yellow building.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "It's a big yellow building."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time does the library close on Saturday?",
+      "options": [
+        "At four o'clock",
+        "At five o'clock",
+        "At six o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It closes at four o'clock on Saturday. Six o'clock is for school days.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "It closes at four o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When will Linh and Tom go to the library?",
+      "options": [
+        "Saturday afternoon",
+        "Saturday morning",
+        "Sunday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom has football in the morning, so they will go in the afternoon.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "We can go in the afternoon."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What book does Linh want?",
+      "options": [
+        "A book about dolphins",
+        "A book about cooking",
+        "A book about football"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh wants to borrow a book about dolphins.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "I want to borrow a book about dolphins."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Mrs Hill doing?",
+      "options": [
+        "Reading a story",
+        "Selling books",
+        "Welcoming the class and giving information"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She welcomes the class and tells them about the library.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "Welcome to our new library, everyone."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How many books can the children borrow?",
+      "options": [
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They can borrow four books. Two weeks is how long they can keep them.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "You can borrow four books at the same time"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where are the computers?",
+      "options": [
+        "On the second floor",
+        "Outside the library",
+        "On the first floor"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The computers are upstairs, on the second floor.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "The computers are upstairs, on the second floor."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is outside the library?",
+      "options": [
+        "A café",
+        "A garden",
+        "A water machine"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mrs Hill says there is a water machine outside.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "there is a water machine outside"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What happens every Wednesday?",
+      "options": [
+        "A computer class",
+        "A story club",
+        "A film"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There is a story club every Wednesday at four o'clock.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Every Wednesday at four o'clock there is a story club."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Nam think of the library?",
+      "options": [
+        "It is too small.",
+        "It is boring.",
+        "It is brilliant."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam says the library is brilliant.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "it's brilliant!"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What are the two other books about?",
+      "options": [
+        "Animals",
+        "Space",
+        "Football"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam says there are two other books about space.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "two other books about space"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where does Nam think his library card is?",
+      "options": [
+        "In his bag",
+        "On his desk",
+        "At the library"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He thinks it is at home, on his desk.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "on my desk"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Who should look for the card?",
+      "options": [
+        "Mum",
+        "A teacher",
+        "Dad"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam asks Mai to ask Mum to look.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Can you ask Mum to look?"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What must Mai do?",
+      "options": [
+        "Do her homework",
+        "Feed the fish",
+        "Walk the dog"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam asks Mai not to forget to feed the fish.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Please don't forget to feed the fish."
+        }
+      ]
+    }
+  ]
+}

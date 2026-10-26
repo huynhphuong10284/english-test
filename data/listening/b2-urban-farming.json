@@ -1,0 +1,654 @@
+{
+  "id": "l-b2-urban-farming",
+  "title": "Urban Farming",
+  "level": "B2 · Upper-intermediate",
+  "description": "Four recordings about growing food in cities: a radio report from a rooftop farm, a council meeting, a lecture on vertical farming and a radio phone-in.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A rooftop farm",
+      "intro": "You will hear a radio reporter, Sofia, interviewing Carlos, who runs a farm on a city roof.",
+      "speakers": {
+        "Sofia": "female",
+        "Carlos": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Sofia",
+          "text": "I'm standing on the roof of a former car park in the middle of the city, and instead of cars, I'm surrounded by tomatoes, lettuce and, believe it or not, a few beehives. With me is Carlos, who started this farm four years ago. Carlos, how did it begin?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Carlos",
+          "text": "Honestly, it began as a hobby. I worked in an office on the ground floor of this building, and I used to stare at the empty roof during lunch breaks. One day I asked the owner if I could grow a few vegetables up here. He said yes, mostly because he thought I'd give up within a month."
+        },
+        {
+          "id": "s3",
+          "speaker": "Sofia",
+          "text": "But you didn't give up."
+        },
+        {
+          "id": "s4",
+          "speaker": "Carlos",
+          "text": "No, and now we employ twelve people and supply six local restaurants. We also sell boxes of vegetables to about two hundred households every week."
+        },
+        {
+          "id": "s5",
+          "speaker": "Sofia",
+          "text": "What are the advantages of growing food in the city?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Carlos",
+          "text": "Freshness, mainly. Our salad leaves are picked in the morning and eaten the same evening, just a few streets away. There's no long journey, so there's far less pollution from transport, and nothing spoils on a lorry."
+        },
+        {
+          "id": "s7",
+          "speaker": "Sofia",
+          "text": "And the difficulties?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Carlos",
+          "text": "Wind is the big one. It's much stronger up here than at ground level, so we've had to build special screens. And we rely entirely on rainwater, which we collect in tanks, because the building's water supply is expensive."
+        },
+        {
+          "id": "s9",
+          "speaker": "Sofia",
+          "text": "Do people ever complain about the bees?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Carlos",
+          "text": "Surprisingly rarely. Most visitors are simply fascinated. We run tours at weekends, and the honey is by far the most popular product."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A meeting with a councillor",
+      "intro": "You will hear a resident, Mai, talking to a councillor, Mr Rashid, about a plan for a community garden.",
+      "speakers": {
+        "Mr Rashid": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Mr Rashid",
+          "text": "Thank you for coming, Mai. I understand you'd like to turn the empty plot behind the library into a community garden."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mai",
+          "text": "That's right. It's been unused for nearly ten years, and it's become a place where people dump rubbish. About forty neighbours have signed a petition supporting the idea."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mr Rashid",
+          "text": "Forty is encouraging. Now, I should be honest about the obstacles. First, the land belongs to the council, so you'd need a lease, and that takes about three months to arrange."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mai",
+          "text": "Three months is fine. We wouldn't plant until spring anyway."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mr Rashid",
+          "text": "Second, the soil. Land like this is often contaminated, so we'd have to test it. The test costs about three hundred pounds."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "We hadn't budgeted for that. Could the council cover it?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Mr Rashid",
+          "text": "I can't promise, but I'll raise it at the next meeting. Realistically, I'd say it's likely, since you're offering to do the rest of the work."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "That's good news. And if the soil is poor, we could use raised beds, couldn't we?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Mr Rashid",
+          "text": "Yes, that's a sensible backup plan. Third, who will look after the garden? Community projects often start with great enthusiasm, then fade after six months."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "I've thought about that. We'll create a rota, and the primary school next door has already offered to send a class every Friday."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mr Rashid",
+          "text": "Excellent. That's the kind of detail that persuades the committee. Send me a short written plan by the end of the month."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A lecture on vertical farming",
+      "intro": "You will hear part of a lecture by Professor Hughes.",
+      "speakers": {
+        "Professor Hughes": "male"
+      },
+      "script": [
+        {
+          "id": "s22",
+          "speaker": "Professor Hughes",
+          "text": "Good afternoon. Today I'd like to introduce vertical farming, which is perhaps the most dramatic form of urban agriculture. Instead of spreading crops across fields, vertical farms stack them in layers inside a building, sometimes twenty or thirty shelves high."
+        },
+        {
+          "id": "s23",
+          "speaker": "Professor Hughes",
+          "text": "There are no windows and no soil. The plants grow in trays of water, enriched with nutrients, under coloured lights. Because everything is controlled, the farm doesn't depend on the weather. A crop that takes two months outdoors may be ready in four weeks."
+        },
+        {
+          "id": "s24",
+          "speaker": "Professor Hughes",
+          "text": "The environmental advantages are significant. These farms use up to ninety per cent less water than traditional agriculture, because the water is recycled. They need no pesticides, since insects can't get in, and they can be built next to the customers, which cuts transport."
+        },
+        {
+          "id": "s25",
+          "speaker": "Professor Hughes",
+          "text": "However, I want to be clear that the picture is not entirely rosy. Lighting uses a huge amount of electricity. If that electricity comes from coal, the carbon benefits largely disappear. Several well-known companies have already gone bankrupt, partly because their energy bills were higher than expected."
+        },
+        {
+          "id": "s26",
+          "speaker": "Professor Hughes",
+          "text": "There's also a limit to what can be grown. At the moment, vertical farms are excellent for leafy greens and herbs, but they can't compete on staples such as wheat or rice, which need space and sunshine."
+        },
+        {
+          "id": "s27",
+          "speaker": "Professor Hughes",
+          "text": "My own view, then, is that vertical farming is a useful addition, rather than a replacement for traditional farms. It's best seen as a way to produce fresh, perishable food close to where it is eaten."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A radio phone-in",
+      "intro": "You will hear a radio presenter, Jenny, talking to a caller, Ahmed, about urban farming.",
+      "speakers": {
+        "Jenny": "female",
+        "Ahmed": "male"
+      },
+      "script": [
+        {
+          "id": "s28",
+          "speaker": "Jenny",
+          "text": "Our topic today is whether urban farming could ever feed a whole city. We have Ahmed on the line. Ahmed, what do you think?"
+        },
+        {
+          "id": "s29",
+          "speaker": "Ahmed",
+          "text": "I'm sorry, Jenny, but I think it's a lovely idea that is being oversold. I live in a city of three million people. To feed all of them, you'd need farmland many times larger than the city itself. A few rooftops won't change that."
+        },
+        {
+          "id": "s30",
+          "speaker": "Jenny",
+          "text": "That's a fair point. Do you see no value at all, then?"
+        },
+        {
+          "id": "s31",
+          "speaker": "Ahmed",
+          "text": "No, I wouldn't say that. For the community, it's wonderful. Children learn where food comes from, neighbours meet, and fresh vegetables become available in places where the nearest supermarket is miles away. I just don't think it solves the food problem."
+        },
+        {
+          "id": "s32",
+          "speaker": "Jenny",
+          "text": "Some experts say cities could produce about a fifth of their vegetables locally."
+        },
+        {
+          "id": "s33",
+          "speaker": "Ahmed",
+          "text": "A fifth is useful, I'll grant you, but vegetables are only a small part of our diet. People get most of their calories from grains and meat, which can't be grown on a balcony."
+        },
+        {
+          "id": "s34",
+          "speaker": "Jenny",
+          "text": "So what would you prefer the council to spend money on?"
+        },
+        {
+          "id": "s35",
+          "speaker": "Ahmed",
+          "text": "Honestly, I'd rather see support for small farms outside the city, and better roads and trains to bring their produce in. Combine that with community gardens, and you get something realistic."
+        },
+        {
+          "id": "s36",
+          "speaker": "Jenny",
+          "text": "Thank you, Ahmed. Interesting to hear a cautious voice. We'll take another call after the news."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How did Carlos begin his rooftop farm?",
+      "options": [
+        "He won a competition to design a roof garden",
+        "He bought the empty car park from its owner",
+        "He asked the owner if he could grow vegetables",
+        "He inherited the building from a wealthy relative"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He asked the owner of the building if he could grow a few vegetables on the roof.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "asked the owner if I could grow a few vegetables"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why did the owner agree?",
+      "options": [
+        "He expected Carlos to give up quickly",
+        "He needed the rent from the roof",
+        "He wanted free honey from the beehives",
+        "He was a keen gardener in his youth"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Carlos says the owner thought he would give up within a month.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "he thought I'd give up within a month"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many households buy vegetable boxes each week?",
+      "options": [
+        "Twelve",
+        "Six",
+        "About six hundred",
+        "About two hundred"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Twelve is the number of employees and six is the number of restaurants.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "about two hundred households every week"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is the biggest difficulty on the roof?",
+      "options": [
+        "Too few customers",
+        "Theft of produce",
+        "The strong wind",
+        "Rainfall"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Carlos says wind is the big one, so they built special screens.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "Wind is the big one."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How do most visitors react to the bees?",
+      "options": [
+        "They are frightened",
+        "They are bored",
+        "They are fascinated",
+        "They complain"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says people rarely complain and most are simply fascinated.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Most visitors are simply fascinated."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "What does Mai want to do?",
+      "options": [
+        "Turn an empty plot into a garden",
+        "Start a farm shop behind the library",
+        "Build a new extension for the library",
+        "Buy the empty plot from the council"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The councillor says she would like to turn the empty plot into a community garden.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "turn the empty plot behind the library into a community garden"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long does it take to arrange a lease?",
+      "options": [
+        "About forty days",
+        "About six months",
+        "About ten years",
+        "About three months"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says a lease takes about three months. Ten years is how long the plot has been unused.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "that takes about three months to arrange"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much does the soil test cost?",
+      "options": [
+        "About one thousand pounds in total",
+        "About three hundred pounds",
+        "About six hundred pounds in total",
+        "About thirty pounds for each plot"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The councillor says the test costs about three hundred pounds.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "The test costs about three hundred pounds."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Mai mention raised beds?",
+      "options": [
+        "To keep rubbish out of the garden",
+        "As a backup for poor soil",
+        "To save money on water bills",
+        "Because the school wants them there"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She suggests them in case the soil is poor, and the councillor calls it a sensible backup plan.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "we could use raised beds"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What must Mai send to the councillor?",
+      "options": [
+        "A short written plan for the committee",
+        "A new petition with more names",
+        "A soil sample for testing",
+        "A signed lease for the plot"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He asks for a short written plan by the end of the month.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Send me a short written plan by the end of the month."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is the lecture mainly about?",
+      "options": [
+        "How to grow wheat and rice indoors",
+        "Why most farmers dislike selling to supermarkets",
+        "How vertical farming works and its limits",
+        "The history of farming in big cities"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The speaker introduces vertical farming and describes its advantages and problems.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I'd like to introduce vertical farming"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How do plants grow in a vertical farm?",
+      "options": [
+        "In pots on shelves beside windows",
+        "In trays of water under coloured lights",
+        "In soil under strong coloured lights",
+        "On roofs in the open air"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The plants grow in trays of water with nutrients under coloured lights.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "The plants grow in trays of water"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How much less water do vertical farms use?",
+      "options": [
+        "Up to ninety per cent less",
+        "Roughly a quarter less than farms",
+        "The same amount as farms",
+        "About half as much as farms"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The speaker says they use up to ninety per cent less water because it is recycled.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "up to ninety per cent less water"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why have some vertical farming companies failed?",
+      "options": [
+        "Insects got in and destroyed their crops",
+        "They could find no customers nearby",
+        "Their energy costs were too high",
+        "The plants grew too slowly indoors"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lighting uses a lot of electricity and the bills were higher than expected.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "their energy bills were higher than expected"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is the speaker's overall view of vertical farming?",
+      "options": [
+        "It will soon replace all traditional farms",
+        "It is a waste of money and energy",
+        "It is a useful addition, not a replacement",
+        "It is too dangerous for the environment"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says it is a useful addition rather than a replacement for traditional farms.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "a useful addition, rather than a replacement"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Ahmed's general opinion of urban farming?",
+      "options": [
+        "He likes it but thinks it is oversold",
+        "He has not yet formed a clear opinion",
+        "He thinks it is the perfect solution",
+        "He thinks it is a waste of time"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He calls it a lovely idea that is being oversold.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "it's a lovely idea that is being oversold"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why does Ahmed say urban farming cannot feed a whole city?",
+      "options": [
+        "The weather is wrong for most crops there",
+        "Farmers refuse to work in cities any more",
+        "Seeds are too expensive for community gardens",
+        "It needs far more land than the city has"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says you would need farmland many times larger than the city itself.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "farmland many times larger than the city itself"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Ahmed value most about urban farming?",
+      "options": [
+        "The speed of production in cities",
+        "Its low cost for new farmers",
+        "The money it makes for farmers",
+        "Its benefits for the local community"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says it is wonderful for the community: children learn and neighbours meet.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "For the community, it's wonderful."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Ahmed react to the idea that cities could grow a fifth of their vegetables?",
+      "options": [
+        "He says it is too small to matter at all",
+        "He accepts it is useful but not enough",
+        "He is very impressed by that high figure",
+        "He says the experts have the figure wrong"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says a fifth is useful, but vegetables are only a small part of the diet.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "vegetables are only a small part of our diet"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "What would Ahmed prefer the council to support?",
+      "options": [
+        "Small farms outside and better transport",
+        "More supermarkets near the city centre",
+        "More rooftop farms across the city",
+        "Balcony gardens in every new home"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He would rather support small farms outside the city and better roads and trains.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "support for small farms outside the city"
+        }
+      ]
+    }
+  ]
+}

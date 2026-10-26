@@ -1,0 +1,621 @@
+{
+  "id": "l-c1-the-placebo-effect",
+  "title": "The Placebo Effect",
+  "level": "C1 · Advanced",
+  "description": "A documentary series on how belief can change symptoms, with a scientist interview, an ethics discussion and a look at the nocebo effect.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B, C or D) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A documentary introduction",
+      "intro": "You will hear the start of a radio documentary about the placebo effect.",
+      "speakers": {
+        "Rosa": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Rosa",
+          "text": "In the middle of the last century, an anaesthetist working during a war ran out of morphine. A wounded soldier was in great pain, and the nurse, following the doctor's instruction, injected him with salt water, telling him it was a powerful painkiller. To everyone's astonishment, the soldier relaxed."
+        },
+        {
+          "id": "s2",
+          "speaker": "Rosa",
+          "text": "That story, whether or not every detail is accurate, helped launch the scientific study of the placebo effect: the improvement that follows a treatment with no active ingredient, simply because the patient believes it will help."
+        },
+        {
+          "id": "s3",
+          "speaker": "Rosa",
+          "text": "It is tempting to call this effect imaginary, but that would be a mistake. Brain scans show that when people expect pain relief, their brains release natural painkillers, the same chemicals that some medicines imitate. The relief is real. Only the cause is unexpected."
+        },
+        {
+          "id": "s4",
+          "speaker": "Rosa",
+          "text": "What is more, the effect depends on surprisingly small details. Large pills work better than small ones. Capsules work better than tablets. Two pills work better than one. And an injection tends to beat all of them. The more dramatic the ritual, the stronger the response."
+        },
+        {
+          "id": "s5",
+          "speaker": "Rosa",
+          "text": "Colour matters too, although the pattern is not universal. In some countries, red pills are felt to be stimulating, while blue ones are felt to be calming. But the lesson is the same: the meaning we attach to a treatment becomes part of the treatment itself."
+        },
+        {
+          "id": "s6",
+          "speaker": "Rosa",
+          "text": "Which raises an awkward question for doctors. If belief can heal, is it acceptable to cultivate belief, even when the treatment is inert?"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A scientist interview",
+      "intro": "You will hear a presenter, Hanna, interviewing a researcher, Dr Okafor, about an unusual trial.",
+      "speakers": {
+        "Hanna": "female",
+        "Dr Okafor": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Hanna",
+          "text": "Dr Okafor, you lead trials of what are called open-label placebos. That sounds like a contradiction. Surely a placebo only works if the patient is fooled?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Dr Okafor",
+          "text": "That's what everyone assumed, including me. In our trial with patients suffering from chronic back pain, we told them honestly: these tablets contain no medicine at all. We explained the research on the placebo effect and asked them to take one twice a day regardless of what they thought."
+        },
+        {
+          "id": "s9",
+          "speaker": "Hanna",
+          "text": "And?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Okafor",
+          "text": "Frankly, I expected nothing. But the group that took the honest placebos reported noticeably less pain and less disability than the group who received their usual treatment alone. Not a miracle, but a clear difference, of roughly the size you would see with some mild painkillers."
+        },
+        {
+          "id": "s11",
+          "speaker": "Hanna",
+          "text": "How can that be?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Dr Okafor",
+          "text": "We don't fully know. One idea is that the ritual itself matters, the act of taking something and caring for yourself. Another is that being told your body can heal itself shifts expectations. I'd be cautious, though. These were small studies, and patients knew they were in an experiment, which may have raised expectations."
+        },
+        {
+          "id": "s13",
+          "speaker": "Hanna",
+          "text": "Would you prescribe them in your practice?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Dr Okafor",
+          "text": "Not as a replacement for medicine, no. But for conditions like irritable bowel or fatigue, where standard treatments help only a little, I think honest placebos might be a gentle addition. I'd want larger trials first, and I'd want patients to remain under proper care in the meantime."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A discussion on ethics",
+      "intro": "You will hear a family doctor, Dr Lan, and a medical ethicist, Professor Ellis, discussing placebos.",
+      "speakers": {
+        "Prof Ellis": "male",
+        "Dr Lan": "female"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Prof Ellis",
+          "text": "My concern is trust. If a doctor routinely hands out sugar pills, even with good intentions, then sooner or later patients discover it, and trust in medicine takes a blow. Trust is a doctor's most valuable tool."
+        },
+        {
+          "id": "s16",
+          "speaker": "Dr Lan",
+          "text": "I agree about deception, and I'd never defend it. But that's exactly why I find the open-label results so interesting. There's nothing hidden. The patient knows what the pill is. Where's the betrayal?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Prof Ellis",
+          "text": "I accept that, to a point. Yet I wonder whether a patient who knows the pill is empty is really in a position to benefit, or whether we are quietly exploiting people's optimism. If it works, it works because they half-believe it anyway."
+        },
+        {
+          "id": "s18",
+          "speaker": "Dr Lan",
+          "text": "That's a fair challenge, but I'd put it differently. In my surgery, a large part of what I do is already persuasion. I explain, I reassure, I tell a patient their symptoms will probably improve. Nobody calls that exploitation. It's simply good practice, and it works partly through expectation."
+        },
+        {
+          "id": "s19",
+          "speaker": "Prof Ellis",
+          "text": "Reassurance is one thing; a pill is another. The pill has a cost, and if people begin to prefer it to proper investigation, there's a danger of missing serious illness."
+        },
+        {
+          "id": "s20",
+          "speaker": "Dr Lan",
+          "text": "Which is precisely why I'd restrict it to conditions that have been properly diagnosed. Nobody is suggesting we treat unexplained chest pain with a sugar pill."
+        },
+        {
+          "id": "s21",
+          "speaker": "Prof Ellis",
+          "text": "Then we're closer than I expected. My real objection is to a future in which these pills are sold in shops with exaggerated claims. Used carefully, inside a doctor's care, I could live with them."
+        },
+        {
+          "id": "s22",
+          "speaker": "Dr Lan",
+          "text": "And I could live with your conditions, so perhaps we should write the guidelines together."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A documentary conclusion",
+      "intro": "You will hear the final section of the documentary, about the opposite of the placebo effect.",
+      "speakers": {
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Tom",
+          "text": "If positive expectations can relieve symptoms, negative ones can cause them. This is the nocebo effect, and it may be the placebo's darker twin. In clinical trials, patients taking a harmless dummy tablet regularly report side effects such as headaches, nausea and tiredness, often at rates close to those of the real drug."
+        },
+        {
+          "id": "s24",
+          "speaker": "Tom",
+          "text": "The way information is delivered makes a measurable difference. In one study, patients told that a medication causes side effects in one in ten people reported more problems than those told that nine in ten people experience none. The facts were identical. Only the framing differed."
+        },
+        {
+          "id": "s25",
+          "speaker": "Tom",
+          "text": "This creates a dilemma for doctors, who are legally and ethically required to warn patients of risks. The answer, researchers suggest, is not to hide information but to present it with care, giving equal weight to the many who feel nothing as to the few who do."
+        },
+        {
+          "id": "s26",
+          "speaker": "Tom",
+          "text": "Meanwhile, the placebo effect is far from uniform. It is strongest for conditions that involve pain, mood and fatigue, in which the brain plays a central role in how we feel. It does little for illnesses such as infections or broken bones. No placebo has ever shrunk a tumour or mended a fracture."
+        },
+        {
+          "id": "s27",
+          "speaker": "Tom",
+          "text": "That is worth remembering, because advertising for alternative remedies often borrows the language of the placebo effect to suggest wider powers. A person who feels better is not necessarily a person who has been cured."
+        },
+        {
+          "id": "s28",
+          "speaker": "Tom",
+          "text": "Perhaps the most useful lesson is a modest one. Every treatment, however powerful its chemistry, is delivered within a relationship, with words, expectations and care. Doctors who understand that may not need to prescribe a single sugar pill to benefit from the placebo effect."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why did the nurse give the soldier salt water?",
+      "options": [
+        "The nurse made a mistake.",
+        "The soldier had asked for it.",
+        "The doctor wanted to test the soldier.",
+        "There was no morphine left."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The anaesthetist had run out of morphine, so salt water was injected instead.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "ran out of morphine"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is the narrator's attitude to the soldier story?",
+      "options": [
+        "She finds it amusing but not very important.",
+        "She thinks it should be forgotten because it is untrue.",
+        "She values it even though it may not be exact.",
+        "She is sure that every detail of it is correct."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says that, whether or not every detail is accurate, it helped launch the scientific study.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "whether or not every detail is accurate"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What do brain scans show when people expect pain relief?",
+      "options": [
+        "The brain switches off the area that feels pain.",
+        "The scans show no change in the brain at all.",
+        "The brain copies the effect of real medicine.",
+        "The brain makes its own painkilling chemicals."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Brains release natural painkillers, so the relief is real.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "their brains release natural painkillers"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does the narrator list the sizes and types of pills?",
+      "options": [
+        "to compare the cost of different kinds of medicine",
+        "to explain which pills doctors usually prefer to give",
+        "to prove that injections are always safer than pills",
+        "to show that how a treatment looks affects results"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Bigger, more dramatic treatments work better, so the ritual influences the response.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "The more dramatic the ritual, the stronger the response"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What question does the narrator raise at the end?",
+      "options": [
+        "whether doctors may encourage belief in an inert treatment",
+        "whether the colour of a pill should affect its price",
+        "whether placebos can one day replace real medicines",
+        "whether patients are always told the truth about injections"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She asks if it is acceptable to cultivate belief even when the treatment is inert.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "is it acceptable to cultivate belief, even when the treatment is inert"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What were the patients in the trial told?",
+      "options": [
+        "The tablets might be real or fake.",
+        "The tablets were a mild painkiller.",
+        "The tablets would cure their back pain.",
+        "The tablets contained no medicine."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They were told honestly that the tablets contained no medicine at all.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "these tablets contain no medicine at all"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What did Dr Okafor expect the trial to show?",
+      "options": [
+        "no effect at all",
+        "more disability",
+        "a dramatic cure",
+        "a small improvement"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says frankly that he expected nothing.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "I expected nothing"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How did the honest placebo group compare with the others?",
+      "options": [
+        "They reported the same pain as the control group.",
+        "They did worse than the group on usual treatment.",
+        "They improved as much as patients on a strong painkiller.",
+        "They reported less pain than the usual-care group."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They reported noticeably less pain and disability than those given usual treatment alone.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "noticeably less pain and less disability"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "Why is Dr Okafor cautious about the results?",
+      "options": [
+        "Some patients stopped taking their usual medicine.",
+        "The results were different in every earlier study.",
+        "The studies were small and the patients knew about them.",
+        "The tablets were far too expensive to produce widely."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says the studies were small and patients knew they were in an experiment, which may have raised expectations.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "These were small studies"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "inference",
+      "text": "How would Dr Okafor use honest placebos in practice?",
+      "options": [
+        "in place of real medicine for most serious conditions",
+        "only for patients who have asked their doctor for them",
+        "as the first treatment offered to all patients with pain",
+        "as an extra option once larger trials are done"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He would not replace medicine but would add them for some conditions once larger trials exist.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "Not as a replacement for medicine"
+        },
+        {
+          "lineId": "s14",
+          "quote": "I'd want larger trials first"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is Professor Ellis's main worry at the start?",
+      "options": [
+        "Patients will refuse all treatment.",
+        "Patients might lose trust in doctors.",
+        "Doctors do not understand placebos.",
+        "Sugar pills are too expensive."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says patients would discover the deception and trust in medicine would suffer.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "trust in medicine takes a blow"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "How does Dr Lan answer the worry about deception?",
+      "options": [
+        "She argues that deception can sometimes be useful.",
+        "She denies that deception could ever harm trust.",
+        "She says that most patients prefer being deceived.",
+        "She agrees, but says open placebos hide nothing."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She would never defend deception, but with open-label pills the patient knows what the pill is.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "There's nothing hidden"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Dr Lan mention reassurance in her surgery?",
+      "options": [
+        "to show persuasion is already normal in medicine",
+        "to criticise colleagues who reassure their patients",
+        "to say that patients expect far too much of doctors",
+        "to prove that pills are unnecessary in her surgery"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says explaining and reassuring are already persuasion, and nobody calls that exploitation.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "a large part of what I do is already persuasion"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Professor Ellis raise the danger of missing serious illness?",
+      "options": [
+        "Placebo pills can hide the signs of chest pain.",
+        "Serious illnesses often respond well to placebos.",
+        "Doctors will have less time for their patients.",
+        "People might choose pills instead of proper tests."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He fears people may prefer the pill to proper investigation.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "prefer it to proper investigation"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How do the two speakers feel about each other's position by the end?",
+      "options": [
+        "They remain opposed on almost every single point.",
+        "They think written guidelines would be unnecessary.",
+        "They mostly agree if the pills are used carefully.",
+        "They agree that shops should sell the pills freely."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ellis says they are closer than he expected, and Lan suggests writing guidelines together.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "we're closer than I expected"
+        },
+        {
+          "lineId": "s22",
+          "quote": "perhaps we should write the guidelines together"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What do side effects reported by people taking dummy tablets suggest?",
+      "options": [
+        "Dummy tablets contain a hidden drug.",
+        "Real drugs have no side effects.",
+        "Patients invent their symptoms to please doctors.",
+        "Expecting harm can produce real symptoms."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The nocebo effect shows negative expectations can cause symptoms close to those of the real drug.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "negative ones can cause them"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What did the study about side-effect information show?",
+      "options": [
+        "The way risks were framed changed what patients reported.",
+        "The facts differed between the two groups of patients.",
+        "Patients rarely read the information about side effects.",
+        "Nine in ten patients experienced some side effects."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The facts were identical; only the framing differed, yet reports of problems changed.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "Only the framing differed"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "How do researchers think doctors should present risks?",
+      "options": [
+        "in as much detail as they possibly can",
+        "by leaving out the rarest side effects",
+        "only when patients ask about them",
+        "carefully, giving a balanced picture"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "They suggest presenting information with care, giving equal weight to those who feel nothing.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "present it with care"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "For which conditions is the placebo effect strongest?",
+      "options": [
+        "those involving pain, mood and tiredness",
+        "any illness that is treated with injections",
+        "tumours and other serious physical injuries",
+        "infections, fractures and other physical damage"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "It is strongest where the brain plays a central role: pain, mood and fatigue.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "pain, mood and fatigue"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is the speaker's final point?",
+      "options": [
+        "Advertising is proof that the placebo effect works.",
+        "Doctors should stop prescribing real medicines.",
+        "Good communication is part of every treatment.",
+        "Sugar pills are the best treatment for pain."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Every treatment is delivered within a relationship of words and care, so doctors benefit from this without sugar pills.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "Every treatment, however powerful its chemistry, is delivered within a relationship"
+        }
+      ]
+    }
+  ]
+}

@@ -6,18 +6,37 @@ const path = require('path');
 const { loadExams, toPublicExam } = require('./exam-store');
 const { gradeExam } = require('./grader');
 const { gradeWriting, cleanSelfAssessment, WRITING_MAX } = require('./writing-grader');
+const { gradeListening } = require('./listening-grader');
+const { Speech } = require('./speech');
 const { ResultsStore } = require('./results-store');
 const { Dictionary } = require('./dictionary');
 const { ExamUpdater } = require('./exam-updater');
 const pkg = require('../../package.json');
 
-const DATA_DIR = path.join(__dirname, '..', '..', 'data'); // data/reading and data/writing
+const DATA_DIR = path.join(__dirname, '..', '..', 'data'); // data/reading, data/writing, data/listening
 const MAX_ESSAY_LENGTH = 20000; // characters; guards the results file against huge pastes
 
 let exams = new Map();
 let results; // ResultsStore, created once the app is ready (needs app.getPath)
 let updater; // ExamUpdater, also needs app.getPath
 let dictionary;
+let speech; // Speech: listening audio from the Windows voices
+
+// Speaking speed for listening exams (-10 slow .. 10 fast), by the first word of the level,
+// and the words per minute each speed gives (measured with the Windows voices).
+const SPEECH_RATE = { Starters: -3, A1: -2, Movers: -2, A2: -1, Flyers: -1, B1: 0, B2: 1, C1: 2, C2: 3 };
+const WORDS_PER_MINUTE = { '-3': 88, '-2': 99, '-1': 110, 0: 121, 1: 138, 2: 154, 3: 174 };
+
+function speechRate(exam) {
+  return SPEECH_RATE[exam.level.split(/[\s·]/)[0]] ?? 0;
+}
+
+// Rough length of a listening exam's audio, in minutes.
+function listeningMinutes(exam) {
+  const lines = exam.parts.flatMap((p) => p.script);
+  const words = lines.reduce((n, l) => n + l.text.split(/\s+/).length, 0);
+  return Math.max(1, Math.round(words / WORDS_PER_MINUTE[speechRate(exam)] + (lines.length * 0.6) / 60));
+}
 
 // Bundled exams, plus any newer ones downloaded with the Update button.
 function loadAllExams() {
@@ -57,7 +76,8 @@ function getExamOrThrow(examId) {
 }
 
 function grade(exam, answers, selfAssessment) {
-  return exam.skill === 'writing' ? gradeWriting(exam, answers, selfAssessment) : gradeExam(exam, answers);
+  if (exam.skill === 'writing') return gradeWriting(exam, answers, selfAssessment);
+  return exam.skill === 'listening' ? gradeListening(exam, answers) : gradeExam(exam, answers);
 }
 
 // The answers worth saving, as normalised by the grader (invalid input dropped).
@@ -126,12 +146,23 @@ function registerIpc() {
       isNew: updater.isNew(exam.id),
       ...(exam.skill === 'writing'
         ? { exerciseCount: exam.exercises.length, genre: exam.task.genre, minWords: exam.task.minWords, maxWords: exam.task.maxWords }
-        : { paragraphCount: exam.paragraphs.length, questionCount: exam.questions.length }),
+        : exam.skill === 'listening'
+          ? { partCount: exam.parts.length, questionCount: exam.questions.length, minutes: listeningMinutes(exam) }
+          : { paragraphCount: exam.paragraphs.length, questionCount: exam.questions.length }),
       progress: results.progress(exam.id)
     }))
   );
 
   ipcMain.handle('exams:get', (_event, examId) => toPublicExam(getExamOrThrow(examId)));
+
+  // Listening: the audio for one part, as WAV bytes, spoken by the Windows voices.
+  ipcMain.handle('listening:audio', async (_event, examId, partId) => {
+    const exam = getExamOrThrow(examId);
+    const part = exam.parts?.find((p) => p.id === partId);
+    if (!part) throw new Error(`Part not found: ${partId}`);
+    const lines = part.script.map((line) => ({ voice: part.speakers[line.speaker], text: line.text }));
+    return new Uint8Array(await speech.audioFor(lines, speechRate(exam)));
+  });
 
   // Opening a new exam removes its "New" label.
   ipcMain.handle('exams:seen', (_event, examId) => updater.markSeen(String(examId)));
@@ -198,6 +229,7 @@ app.whenReady().then(() => {
   });
   loadAllExams();
   dictionary = createDictionary();
+  speech = new Speech(path.join(app.getPath('userData'), 'audio-cache'));
   // e.g. %APPDATA%\English Reading Test\results.json on Windows
   results = new ResultsStore(path.join(app.getPath('userData'), 'results.json'));
   registerIpc();

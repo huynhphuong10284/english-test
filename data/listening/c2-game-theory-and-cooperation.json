@@ -1,0 +1,648 @@
+{
+  "id": "l-c2-game-theory-and-cooperation",
+  "title": "Game Theory and Cooperation",
+  "level": "C2 · Proficiency",
+  "description": "A university lecture, a seminar discussion, a radio essay and an academic debate about why people cooperate and what game theory can tell us.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The puzzle of cooperation",
+      "intro": "You will hear the opening of a university lecture on game theory.",
+      "speakers": {
+        "Dr Pryce": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Dr Pryce",
+          "text": "Good afternoon, everyone. Today I want to begin with a puzzle that has troubled economists, biologists and philosophers for the better part of a century: why do rational individuals ever cooperate?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Pryce",
+          "text": "The classic illustration is the prisoner's dilemma. Two suspects are held in separate rooms. If both stay silent, each serves one year. If one betrays the other, the betrayer walks free and the silent partner serves ten. If both betray, they each serve five."
+        },
+        {
+          "id": "s3",
+          "speaker": "Dr Pryce",
+          "text": "Now, the logic is rather unsettling. Whatever your partner does, you are better off betraying. So both of you betray, and both serve five years, when mutual silence would have cost only one."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Pryce",
+          "text": "I should stress that this is not a story about stupidity. Each prisoner reasons perfectly well. The trouble is that individually sensible choices add up to a collectively poor outcome."
+        },
+        {
+          "id": "s5",
+          "speaker": "Dr Pryce",
+          "text": "Early researchers, I'm told, found this result almost offensive. They assumed that cooperation, which we see everywhere in daily life, must be explained by kindness or moral instinct. But the mathematics suggested otherwise, and that is what makes the field so fascinating."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Pryce",
+          "text": "Actually, I'd go further. The real puzzle is not why cooperation fails in a single encounter, but why it so often succeeds when people meet again and again. We will come to that shortly, but first let me make clear what the model assumes, because the assumptions matter."
+        },
+        {
+          "id": "s7",
+          "speaker": "Dr Pryce",
+          "text": "It assumes the players cannot talk, cannot make binding promises, and care only about their own sentence. Relax any of those, and the dilemma begins to dissolve. Which, of course, is rather the point."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A seminar on repeated games",
+      "intro": "You will hear a student, Linh, asking Professor Hale about repeated games.",
+      "speakers": {
+        "Linh": "female",
+        "Professor Hale": "male"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Linh",
+          "text": "Professor Hale, may I ask something about the repeated version? If the game goes on indefinitely, surely cooperation just becomes obviously rational?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Professor Hale",
+          "text": "Not obviously, Linh, but often, yes. Back in the nineteen-eighties a political scientist ran a famous tournament, inviting experts to submit strategies for a repeated dilemma and then pitting them against one another by computer."
+        },
+        {
+          "id": "s10",
+          "speaker": "Professor Hale",
+          "text": "Many entries were fiendishly clever. Some tried to detect patterns in the opponent's behaviour and exploit them. The winner, however, was the simplest of all, a strategy called tit for tat, only four lines long."
+        },
+        {
+          "id": "s11",
+          "speaker": "Linh",
+          "text": "What did it actually do?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Professor Hale",
+          "text": "It cooperated on the first move, and from then on simply copied whatever the other player had done the previous time. Betray it once, and it betrays you once. Forgive, and it forgives."
+        },
+        {
+          "id": "s13",
+          "speaker": "Linh",
+          "text": "So it was nice, but not a pushover."
+        },
+        {
+          "id": "s14",
+          "speaker": "Professor Hale",
+          "text": "Precisely. The researcher drew four lessons: be nice, meaning never betray first; be retaliatory; be forgiving; and be clear, so your opponent can predict you. Interestingly, the strategies that tried to be too clever tended to confuse their opponents and provoke endless feuds."
+        },
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "But in real life we never know when a relationship will end. Doesn't that change things?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Professor Hale",
+          "text": "A sharp point. The theory depends on what's called the shadow of the future. If you believe you'll meet again, the future casts a shadow over today's temptation. If the final round is known, cooperation unravels from the end backwards: no one cooperates in the last round, so the second-to-last is effectively last, and so on."
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "That seems almost too pessimistic."
+        },
+        {
+          "id": "s18",
+          "speaker": "Professor Hale",
+          "text": "It does, and experiments bear you out. Real people cooperate for longer than the theory predicts, although they do tend to defect as the final round approaches. I'd say that is a useful reminder that models are maps, not territories."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · The tragedy of the commons",
+      "intro": "You will hear a radio essay about shared resources.",
+      "speakers": {
+        "Daniel": "male"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Daniel",
+          "text": "Every autumn, in the village I grew up in, there was an argument about the common pasture. Nobody owned it, everybody could graze their sheep on it, and everybody agreed it was looking tired."
+        },
+        {
+          "id": "s20",
+          "speaker": "Daniel",
+          "text": "Years later I discovered that this small quarrel has a grand name, the tragedy of the commons, coined by an ecologist who argued that shared resources are doomed. Each herder gains the full benefit of one more animal, but shares the cost of overgrazing with everybody else. So each adds another sheep, and the pasture collapses."
+        },
+        {
+          "id": "s21",
+          "speaker": "Daniel",
+          "text": "For decades, this was treated as an iron law. The proposed remedies were stark: either hand the pasture to private owners, or let the state take charge and police it."
+        },
+        {
+          "id": "s22",
+          "speaker": "Daniel",
+          "text": "Then a political economist, who would eventually win the Nobel prize, did something unfashionable. She went and looked. She studied fisheries, forests and irrigation systems across the world, and found countless communities that had managed shared resources sensibly for centuries, with neither privatisation nor a distant government."
+        },
+        {
+          "id": "s23",
+          "speaker": "Daniel",
+          "text": "What they had in common was not saintliness. They had clear boundaries about who could use the resource. They agreed their own rules, monitored one another, and applied modest penalties that grew with repeated offences. Disputes were settled cheaply and locally."
+        },
+        {
+          "id": "s24",
+          "speaker": "Daniel",
+          "text": "I find this strangely moving, though I realise sentimentality is a poor guide. The lesson is not that people are naturally good. It is that goodness is cheaper to sustain when the arrangements make cheating visible and unrewarding."
+        },
+        {
+          "id": "s25",
+          "speaker": "Daniel",
+          "text": "Which brings me back to my village. The pasture, as it happens, was rescued by a grazing rota drawn up by two stubborn neighbours who disliked each other intensely. Nobody was kind. They simply wrote everything down."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Does game theory describe real life?",
+      "intro": "You will hear two academics, Dr Mai and Dr Bennett, discussing the value of game theory.",
+      "speakers": {
+        "Dr Mai": "female",
+        "Dr Bennett": "male"
+      },
+      "script": [
+        {
+          "id": "s26",
+          "speaker": "Dr Mai",
+          "text": "Let me play devil's advocate. Game theory is elegant, but I worry that we sell it as a guide to real life when it's really a study of toy situations."
+        },
+        {
+          "id": "s27",
+          "speaker": "Dr Bennett",
+          "text": "I'd resist that, Mai. A toy model isn't useless because it's simple. A wind tunnel doesn't look like the sky either, but nobody builds aircraft without one."
+        },
+        {
+          "id": "s28",
+          "speaker": "Dr Mai",
+          "text": "Fair, but aircraft engineers test their models against reality. Take climate negotiations. Commentators love to call them a prisoner's dilemma, and conclude that failure is inevitable. Yet countries have cut some pollutants dramatically, for example the chemicals that damaged the ozone layer."
+        },
+        {
+          "id": "s29",
+          "speaker": "Dr Bennett",
+          "text": "Which is a good counter-example, but it's also instructive. That treaty worked because the substitutes were cheap, trade penalties applied to outsiders, and everyone could verify compliance. In other words, the game was changed, not ignored."
+        },
+        {
+          "id": "s30",
+          "speaker": "Dr Mai",
+          "text": "So you'd say the discipline's real value is in redesigning the game?"
+        },
+        {
+          "id": "s31",
+          "speaker": "Dr Bennett",
+          "text": "Largely, yes. Telling people to be nicer rarely works. Changing incentives, as with the grazing rota, often does. Mechanism design, as we call it, asks: if I want cooperation, what rules would make it each person's best move?"
+        },
+        {
+          "id": "s32",
+          "speaker": "Dr Mai",
+          "text": "My concern is that it treats people as calculators. Humans care about fairness. In experiments, people reject offers they consider insulting, even at a cost to themselves."
+        },
+        {
+          "id": "s33",
+          "speaker": "Dr Bennett",
+          "text": "Agreed, and the better modern work builds that in. Preferences for fairness are simply another term in the equation, not an embarrassment to the theory."
+        },
+        {
+          "id": "s34",
+          "speaker": "Dr Mai",
+          "text": "Then we're closer than I expected. Perhaps my quarrel is with popular summaries rather than the science."
+        },
+        {
+          "id": "s35",
+          "speaker": "Dr Bennett",
+          "text": "I suspect so. The danger is anyone who says the theory proves cooperation is impossible. It has never shown that. It shows when cooperation needs help."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the lecturer's main aim in this opening section?",
+      "options": [
+        "To raise the question of why self-interested people cooperate",
+        "To argue that prisoners behave irrationally when under pressure",
+        "To describe how criminal sentences are decided in court",
+        "To prove that kindness explains cooperation in daily life"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She opens with the puzzle of why rational individuals cooperate and then explains the prisoner's dilemma as an illustration.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "why do rational individuals ever cooperate?"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "In the prisoner's dilemma, what happens if both suspects betray each other?",
+      "options": [
+        "Each serves only one year",
+        "Each serves ten years in prison",
+        "Each serves five years",
+        "One goes free"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The lecturer says that if both betray, they each serve five years. One year is for mutual silence and ten is for the silent partner.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "If both betray, they each serve five."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does the lecturer imply about the prisoners' reasoning?",
+      "options": [
+        "It is sound and leads them to the best joint outcome",
+        "It is sound, yet it produces a poor result for both",
+        "It is flawed because they lack information about each other",
+        "It is driven mainly by moral instinct rather than logic"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says each prisoner reasons perfectly well, but sensible individual choices add up to a poor collective outcome.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "individually sensible choices add up to a collectively poor outcome"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "The lecturer suggests that the early researchers' reaction to the result was",
+      "options": [
+        "justified by errors in the mathematics",
+        "unimportant for the development of the field",
+        "a sign of how surprising the mathematics was",
+        "proof that kindness explains cooperation"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The researchers found the result almost offensive, and the lecturer says the mathematics is what makes the field fascinating.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "found this result almost offensive"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does the lecturer list the assumptions of the model at the end?",
+      "options": [
+        "To move on to a quite unrelated subject",
+        "To show that changing them can alter the outcome",
+        "To suggest that the model is of no real use",
+        "To apologise for oversimplifying the topic so much"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says that if any assumption is relaxed, the dilemma begins to dissolve, which is the point of mentioning them.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "Relax any of those, and the dilemma begins to dissolve."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What was surprising about the winner of the tournament?",
+      "options": [
+        "It always betrayed first",
+        "It was written by the most experienced entrant",
+        "It detected the opponent's patterns",
+        "It was extremely simple"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "The professor says many entries were clever, but the winner was the simplest of all, only four lines long.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "the simplest of all"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How did tit for tat behave after its first move?",
+      "options": [
+        "It cooperated whatever the opponent did",
+        "It repeated the other player's previous move",
+        "It alternated between cooperating and betraying",
+        "It punished any betrayal permanently"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After cooperating first, it copied what the other player had done the time before, so it could forgive as well as retaliate.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "simply copied whatever the other player had done the previous time"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why did the overly clever strategies perform badly?",
+      "options": [
+        "They were too forgiving of betrayal by opponents",
+        "Opponents could not read them, which provoked feuds",
+        "They cooperated too readily with everyone they met",
+        "They took too long to calculate each of their moves"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The professor says clever strategies confused opponents and provoked endless feuds, so they were not clear or predictable.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "tended to confuse their opponents and provoke endless feuds"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Professor Hale mention the shadow of the future?",
+      "options": [
+        "To criticise the way the tournament had been designed",
+        "To suggest that people ignore what happens later on",
+        "To explain why expecting to meet again encourages cooperation",
+        "To argue that known endings make people more generous"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In answer to Linh's question about uncertain endings, he explains that believing you will meet again discourages betrayal today.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "If you believe you'll meet again, the future casts a shadow over today's temptation."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is Professor Hale's attitude to the theory's pessimistic prediction?",
+      "options": [
+        "He is embarrassed that the theory sounds so negative about people",
+        "He accepts it simplifies reality and experiments partly contradict it",
+        "He believes it describes real behaviour accurately in experiments",
+        "He dismisses the experiments as unreliable and too small to matter"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He agrees with Linh, notes that real people cooperate longer than predicted, and calls models maps, not territories.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "models are maps, not territories"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "According to the essay, why does each herder add another animal?",
+      "options": [
+        "He believes the pasture is so large that it can never run out",
+        "He gets the whole benefit but shares the cost with others",
+        "He wants to damage the flocks of the other herders",
+        "He has been ordered to add more animals by the state"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The speaker explains that each herder gains the full benefit of one more animal but shares the cost of overgrazing.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Each herder gains the full benefit of one more animal"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does the speaker imply about the iron law view of shared resources?",
+      "options": [
+        "It was accepted before being checked against real cases",
+        "It was based on extensive fieldwork in many countries",
+        "It was never taken seriously by experts in the field",
+        "It was invented by a government to justify its control"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it was treated as an iron law for decades until the political economist went and looked at actual communities.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "She went and looked."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did the successful communities have in common?",
+      "options": [
+        "Unusually generous and saintly members who put others first",
+        "Clear boundaries and their own rules with graduated penalties",
+        "A strong central authority that policed the resource closely",
+        "Private ownership of the resource by each separate family"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They defined who could use the resource, agreed their own rules and applied modest penalties that grew with repeated offences.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "They had clear boundaries about who could use the resource."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does the speaker feel about the political economist's findings?",
+      "options": [
+        "Indifferent to their importance for ordinary people",
+        "Doubtful that they apply to the modern world at all",
+        "Moved by them, but wary of letting sentiment guide him",
+        "Convinced that people are naturally good, if given the chance"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He finds them strangely moving but admits sentimentality is a poor guide, and says the lesson is not that people are naturally good.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I find this strangely moving, though I realise sentimentality is a poor guide."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does the speaker end with the story of his village?",
+      "options": [
+        "To suggest that the state should have stepped in",
+        "To show that clear arrangements, not kindness, solved it",
+        "To complain about his stubborn former neighbours",
+        "To show that rivals cooperate less often than friends"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The pasture was saved by a rota written by two neighbours who disliked each other, so kindness played no part.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "Nobody was kind. They simply wrote everything down."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Dr Mai's initial concern about game theory?",
+      "options": [
+        "It is far too difficult for most students to learn well",
+        "It is presented as a guide to real life but studies simple cases",
+        "It cannot be tested by computers or by experiments",
+        "It ignores the earlier work of biologists and ecologists"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says it is sold as a guide to real life when it is really a study of toy situations.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "we sell it as a guide to real life when it's really a study of toy situations"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Dr Bennett mention a wind tunnel?",
+      "options": [
+        "To show that engineers distrust their own models",
+        "To explain how climate treaties are usually tested",
+        "To argue that a simple model can still be valuable",
+        "To criticise the growing use of computers in research work"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He compares a toy model to a wind tunnel, which does not look like the sky but is still essential for building aircraft.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "A wind tunnel doesn't look like the sky either, but nobody builds aircraft without one."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Dr Bennett's account of the ozone treaty suggest?",
+      "options": [
+        "The prisoner's dilemma does not exist in politics",
+        "Cooperation succeeded because the conditions were changed",
+        "Countries cooperate naturally without any incentives",
+        "The treaty worked despite cheap substitutes being unavailable"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says the treaty worked because of cheap substitutes, penalties for outsiders and verification, so the game was changed.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "the game was changed, not ignored"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "According to Dr Bennett, what does mechanism design ask?",
+      "options": [
+        "How people can be persuaded to become kinder to others",
+        "How to prove that cooperation is impossible in practice",
+        "What rules would make cooperation each person's best move",
+        "How to remove all incentives from a situation"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He defines it as asking which rules would make cooperation each person's best move.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "what rules would make it each person's best move?"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "How do the speakers' views compare by the end of the discussion?",
+      "options": [
+        "They still disagree completely about whether fairness matters",
+        "They broadly agree; Dr Mai's complaint is about popular summaries",
+        "Dr Bennett accepts that the theory is useless in practice",
+        "Dr Mai believes that cooperation is impossible without a state"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dr Mai says they are closer than expected and that her quarrel is with popular summaries, and Dr Bennett agrees.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "Perhaps my quarrel is with popular summaries rather than the science."
+        }
+      ]
+    }
+  ]
+}

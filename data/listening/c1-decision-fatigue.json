@@ -1,0 +1,613 @@
+{
+  "id": "l-c1-decision-fatigue",
+  "title": "Decision Fatigue",
+  "level": "C1 · Advanced",
+  "description": "A talk, a question session, a podcast and a lecture about whether making many decisions wears down our judgement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B, C or D) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A talk",
+      "intro": "You will hear a psychologist, Dr Mehta, giving a talk about decision fatigue.",
+      "speakers": {
+        "Dr Mehta": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Dr Mehta",
+          "text": "Imagine you are a judge, deciding on a series of requests from prisoners hoping for early release. A well-known study reported that the chance of a favourable decision started high at the beginning of each session, around two thirds, fell steadily to almost zero, and then jumped back up after a meal break. The authors suggested that tired judges fall back on the easiest option, which is to say no."
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Mehta",
+          "text": "This is the idea of decision fatigue: the claim that making choices drains some limited mental resource, so that later decisions are made worse, or avoided altogether. It is attractive because it matches our experience. Everyone has stood in a supermarket at the end of a long day and bought something unhealthy simply to end the process."
+        },
+        {
+          "id": "s3",
+          "speaker": "Dr Mehta",
+          "text": "Researchers have found similar patterns elsewhere. Shoppers who had made many choices gave up more quickly on a tedious task afterwards. Doctors, it has been reported, are more likely to prescribe unnecessary antibiotics late in a clinic session, when they have seen many patients."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Mehta",
+          "text": "What exactly is being depleted? The early explanation was glucose, the fuel of the brain. That idea has not survived well, because the brain uses very little extra energy for hard thinking. A more modern view is that fatigue is about motivation: after sustained effort, the mind simply becomes less willing to pay the cost of careful thought."
+        },
+        {
+          "id": "s5",
+          "speaker": "Dr Mehta",
+          "text": "On this view, we do not run out of fuel so much as lose interest. The mind begins to treat further effort as a poor bargain, and shortcuts start to look appealing: the default option, the familiar choice, the quick refusal."
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Mehta",
+          "text": "I will say more about the evidence later, because some of it is now disputed. But first, let me explain why, even if the effect is smaller than claimed, it is worth taking seriously."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A question session",
+      "intro": "You will hear a member of the audience, Nam, asking Dr Mehta questions after the talk.",
+      "speakers": {
+        "Nam": "male",
+        "Dr Mehta": "female"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Nam",
+          "text": "Dr Mehta, if the effect is about motivation, isn't that just another word for being bored or lazy?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Dr Mehta",
+          "text": "It's a fair challenge, and the difference is subtle. Boredom is a feeling; what we're describing is a shift in how the mind weighs costs and rewards. Importantly, you can be fatigued in this sense while being perfectly engaged. A surgeon at the end of a long operation isn't bored. She's just less inclined to deliberate over another small choice."
+        },
+        {
+          "id": "s9",
+          "speaker": "Nam",
+          "text": "So can people be trained to resist it?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Mehta",
+          "text": "The evidence is thin. Some studies suggest that people who believe willpower is unlimited show less decline, which is interesting but not yet convincing. I'd be wary of anyone selling a technique with confidence."
+        },
+        {
+          "id": "s11",
+          "speaker": "Nam",
+          "text": "What about the famous people who wear the same clothes every day, to save decisions?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Dr Mehta",
+          "text": "Ah, that's a charming story and it may suit them, but I'd be careful about turning it into a general rule. The few choices we make about clothes are rarely the ones that exhaust us. The heavy ones are the choices with consequences, like how to respond to an angry client."
+        },
+        {
+          "id": "s13",
+          "speaker": "Nam",
+          "text": "Is it better, then, to schedule the important decisions early in the day?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Dr Mehta",
+          "text": "As a rule of thumb, yes, but with a caveat. People differ. Some of my colleagues think more sharply at night. The sensible approach is to know your own pattern and protect your best hours for the decisions that matter most."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A podcast",
+      "intro": "You will hear two podcast presenters, Linh and Ben, discussing ways of reducing the number of decisions in daily life.",
+      "speakers": {
+        "Linh": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "Ben, I'll confess, since reading about decision fatigue I've been experimenting on myself. I now eat the same breakfast every day. It's a tiny thing, but my mornings feel calmer."
+        },
+        {
+          "id": "s16",
+          "speaker": "Ben",
+          "text": "And is it the lack of decisions, or the lack of fuss? I tried something different. I made a rule that I never check email before ten. That removed a hundred little decisions about which message to answer first."
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "But that's a fascinating distinction. Email isn't one decision; it's an endless stream of tiny ones, each with its own tiny worry. I suspect that's what drains us, not the big choices, which we tend to approach carefully."
+        },
+        {
+          "id": "s18",
+          "speaker": "Ben",
+          "text": "Agreed. The big choices get ceremony. We make lists, we sleep on it. The small ones sneak up and leave us tired for the big ones."
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "Though there's a danger in over-automating. A friend of mine decided everything in advance, her meals, her outfits, even her weekend plans. She told me she felt efficient but oddly flat, as if life had been run by a timetable."
+        },
+        {
+          "id": "s20",
+          "speaker": "Ben",
+          "text": "That's the risk. Choices are tiring, but they are also how we express ourselves. If you remove all of them, you remove some of the pleasure."
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "So the aim is not zero decisions, it's the right ones. Fewer trivial choices, more energy for the ones we care about."
+        },
+        {
+          "id": "s22",
+          "speaker": "Ben",
+          "text": "Which, rather neatly, is also a decision, and one you have to make deliberately."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A lecture on the evidence",
+      "intro": "You will hear a researcher, Dr Hollis, discussing doubts about the evidence for decision fatigue.",
+      "speakers": {
+        "Dr Hollis": "male"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Dr Hollis",
+          "text": "I promised to return to the evidence, and I'm afraid the news is mixed. Over the last few years, several large teams have tried to repeat the classic experiments on mental depletion, following identical procedures. In the biggest of these, involving many laboratories in different countries, the average effect was close to zero."
+        },
+        {
+          "id": "s24",
+          "speaker": "Dr Hollis",
+          "text": "That does not necessarily prove that decision fatigue does not exist. There are several explanations. The original experiments may have been too small, so that chance produced striking results. Or the effect may be real but depend on conditions that vary from laboratory to laboratory, such as how boring the tasks were or what participants believed."
+        },
+        {
+          "id": "s25",
+          "speaker": "Dr Hollis",
+          "text": "The famous study of the judges has also been questioned. Critics point out that cases were not presented in random order; lawyers who had no representation tended to be heard last, and those cases were less likely to succeed. The apparent fall in approvals over a session may partly reflect the scheduling, rather than tired minds."
+        },
+        {
+          "id": "s26",
+          "speaker": "Dr Hollis",
+          "text": "Notice, though, that nobody has shown the judges' decisions were unaffected by hunger or tiredness. What has been shown is that the original evidence was weaker than the headlines suggested. That is a more modest conclusion, and, frankly, the more scientific one."
+        },
+        {
+          "id": "s27",
+          "speaker": "Dr Hollis",
+          "text": "So what should a sensible person take from all this? Not that you can ignore tiredness, and not that willpower is a fixed tank that runs dry. Perhaps simply that the story was too neat. Human behaviour is rarely explained by a single mechanism."
+        },
+        {
+          "id": "s28",
+          "speaker": "Dr Hollis",
+          "text": "I would add one thing in the theory's defence. Even if the laboratory effect is small, the practice of simplifying choices and resting before big decisions costs almost nothing. It is rare to find advice that is cheap, harmless and plausible, and I see no reason to reject it only because the theory behind it is shaky."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What pattern did the study of judges report?",
+      "options": [
+        "Approvals fell over each session, then rose after a break.",
+        "Favourable decisions rose steadily until the lunch break.",
+        "Judges refused every request that was made after lunch.",
+        "Prisoners who spoke first were always refused by the judges."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Approvals started high, fell to almost zero and jumped back after a meal break.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "fell steadily to almost zero, and then jumped back up after a meal break"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What did the authors suggest tired judges do?",
+      "options": [
+        "choose the easiest option, which is refusal",
+        "pass difficult cases on to other judges",
+        "ask for a lot more information first",
+        "make more careful and considered decisions"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They said tired judges fall back on the easiest option, which is to say no.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "fall back on the easiest option"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Dr Mehta mention the supermarket?",
+      "options": [
+        "to criticise the unhealthy food shops sell",
+        "to prove the effect in everyday shoppers",
+        "to show why the idea feels believable",
+        "to explain the role of glucose in decisions"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says the idea is attractive because it matches everyday experience.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "It is attractive because it matches our experience"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why has the glucose explanation been doubted?",
+      "options": [
+        "Glucose levels were never measured in studies.",
+        "Hard thinking needs very little extra energy.",
+        "Fatigue seems to happen only in the evening.",
+        "Judges were allowed to eat during the sessions."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the brain uses very little extra energy for hard thinking.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "the brain uses very little extra energy for hard thinking"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does the more modern view say about fatigue?",
+      "options": [
+        "Shortcuts become harder to find over time.",
+        "The brain gradually runs out of its fuel supply.",
+        "The mind grows unwilling to pay the cost.",
+        "People forget the choices they made earlier."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "After sustained effort the mind becomes less willing to pay the cost of careful thought.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "the mind simply becomes less willing to pay the cost of careful thought"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Dr Mehta mention a surgeon?",
+      "options": [
+        "to show that fatigue is different from boredom",
+        "to explain why major operations take so long",
+        "to describe a typical case of laziness at work",
+        "to argue that surgeons make poorer decisions late on"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The surgeon is not bored but is less inclined to deliberate, so fatigue is not the same as boredom.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "A surgeon at the end of a long operation isn't bored"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is her attitude to techniques that claim to prevent decision fatigue?",
+      "options": [
+        "hopeful",
+        "doubtful",
+        "curious but uninformed",
+        "enthusiastic"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the evidence is thin and she would be wary of anyone selling a technique with confidence.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "I'd be wary of anyone selling a technique with confidence"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does she say about people who believe that willpower is unlimited?",
+      "options": [
+        "They show more decline than people who disagree.",
+        "They never make poor decisions even when tired.",
+        "They are less able to think clearly at night.",
+        "They decline less, but this is not convincing yet."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Some studies suggest they show less decline, which she calls interesting but not yet convincing.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "interesting but not yet convincing"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why is she cautious about the example of wearing the same clothes?",
+      "options": [
+        "Clothes are rarely the choices that exhaust people.",
+        "It only works for famous people who can afford it.",
+        "It leads to poorer decisions in important work.",
+        "People who do this tend to be rather less creative."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says clothes choices are rarely the ones that exhaust us; weighty choices do.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "rarely the ones that exhaust us"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What advice does she give about timing important decisions?",
+      "options": [
+        "Use your own best hours for them.",
+        "Make them late in the evening.",
+        "Always decide before lunch.",
+        "Ask colleagues to decide for you."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says to know your own pattern and protect your best hours for important decisions.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "protect your best hours for the decisions that matter most"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What effect has eating the same breakfast had on Linh?",
+      "options": [
+        "Her mornings feel less stressful.",
+        "She has lost some weight since starting.",
+        "She enjoys her breakfast much more.",
+        "She has more time to spend on email."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says it is a tiny thing, but her mornings feel calmer.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "my mornings feel calmer"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why did Ben introduce the rule about email?",
+      "options": [
+        "It stops his colleagues from contacting him.",
+        "It removes many small choices from the morning.",
+        "It gives him a reason to wake early.",
+        "It helps him read messages faster."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It removed a hundred little decisions about which message to answer first.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "removed a hundred little decisions"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Linh think is most tiring?",
+      "options": [
+        "a few very important choices",
+        "making lists and plans",
+        "a constant flow of small decisions",
+        "sleeping badly the night before decisions"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says email is an endless stream of tiny decisions and that is what drains us.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "an endless stream of tiny ones"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "How did Linh's friend feel about planning everything in advance?",
+      "options": [
+        "tired but very well organised",
+        "efficient but strangely empty",
+        "proud and rather more creative",
+        "worried about her weekend plans"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The friend felt efficient but oddly flat, as if run by a timetable.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "efficient but oddly flat"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What conclusion do the presenters reach?",
+      "options": [
+        "The aim is to choose which decisions to keep.",
+        "People should stop making any decisions at all.",
+        "Big choices matter much less than small ones.",
+        "Timetables are the best answer to fatigue."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh says the aim is the right decisions, and Ben adds that choosing is itself a decision.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "So the aim is not zero decisions, it's the right ones"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What did the largest repeat of the classic experiments find?",
+      "options": [
+        "The effect was larger than expected.",
+        "The effect was strong in some countries only.",
+        "The average effect was very small.",
+        "The experiments could not be repeated."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "In the biggest repeat, across many laboratories, the average effect was close to zero.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "the average effect was close to zero"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does Dr Hollis say the results do not prove decision fatigue is not real?",
+      "options": [
+        "There are other possible explanations for them.",
+        "Many participants refused to take part in them.",
+        "The experiments were far too large to trust.",
+        "Most laboratories found fairly strong effects."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the original studies may have been too small, or the effect may depend on conditions.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "That does not necessarily prove that decision fatigue does not exist"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What criticism is made of the study of judges?",
+      "options": [
+        "Prisoners were not given proper meals at lunch.",
+        "The judges were not really tired at all.",
+        "The cases were not heard in random order.",
+        "Lawyers were allowed to speak for too long."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Critics say cases were not in random order; cases without lawyers were heard last and succeeded less.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "cases were not presented in random order"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Dr Hollis think has been shown about the original evidence?",
+      "options": [
+        "It was correct but misunderstood.",
+        "It was less convincing than reported.",
+        "It was stronger than people realised.",
+        "It was completely false."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says the original evidence was weaker than the headlines suggested.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "the original evidence was weaker than the headlines suggested"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does he defend the practical advice about simplifying choices?",
+      "options": [
+        "It has been recommended by the judges themselves.",
+        "It costs little, does no harm and seems sensible.",
+        "It will eventually replace the discredited theory.",
+        "It has been proved by several large studies."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says such advice costs almost nothing and is plausible, so there is no reason to reject it.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "cheap, harmless and plausible"
+        }
+      ]
+    }
+  ]
+}

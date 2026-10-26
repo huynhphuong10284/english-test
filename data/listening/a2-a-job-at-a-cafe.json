@@ -1,0 +1,613 @@
+{
+  "id": "l-a2-a-job-at-a-cafe",
+  "title": "A Job at a Café",
+  "level": "A2 · Elementary",
+  "description": "Four recordings about getting and starting a job at a café: an interview, a phone message, two colleagues and a welcome talk.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · The interview",
+      "intro": "You will hear Mrs Taylor interviewing Duc for a job at her café.",
+      "speakers": {
+        "Mrs Taylor": "female",
+        "Duc": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mrs Taylor",
+          "text": "Come in, Duc, and take a seat. Thank you for coming. Have you worked in a café before?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Duc",
+          "text": "No, not in a café. But I worked in my uncle's shop last summer, so I'm used to talking to customers."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mrs Taylor",
+          "text": "That's useful. Now, we need someone for weekends. Can you work on Saturdays and Sundays?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Duc",
+          "text": "Saturdays are fine. On Sundays, I play football in the morning, but I can start at one o'clock."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mrs Taylor",
+          "text": "That's OK. Saturday is from nine to five, and Sunday is from one to six. We pay seven pounds an hour."
+        },
+        {
+          "id": "s6",
+          "speaker": "Duc",
+          "text": "That's good. Do I need to wear a uniform?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Mrs Taylor",
+          "text": "Yes, we give you a green apron and a hat, but you should bring black trousers and comfortable shoes."
+        },
+        {
+          "id": "s8",
+          "speaker": "Duc",
+          "text": "No problem. Can I ask one more thing? Is it a busy place?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Mrs Taylor",
+          "text": "Very busy at lunchtime, because the office workers come in. But it's quiet in the afternoon, so you can learn slowly."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mrs Taylor",
+          "text": "Well, you seem very friendly. Can you start next Saturday?"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A phone message",
+      "intro": "You will hear a voicemail message from the café owner to a new worker.",
+      "speakers": {
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Tom",
+          "text": "Hello, Linh. This is Tom from the café. I just wanted to tell you about your first day."
+        },
+        {
+          "id": "s12",
+          "speaker": "Tom",
+          "text": "Please come at half past eight, not nine. We open at nine, and I want to show you around first."
+        },
+        {
+          "id": "s13",
+          "speaker": "Tom",
+          "text": "Come to the back door, not the front. It's in the little street next to the bank. Ring the bell, and I'll let you in."
+        },
+        {
+          "id": "s14",
+          "speaker": "Tom",
+          "text": "You will work with Jack for the first two days. He is very kind, and he knows everything about the machines."
+        },
+        {
+          "id": "s15",
+          "speaker": "Tom",
+          "text": "Don't worry about lunch. We give all our workers a free sandwich and a drink."
+        },
+        {
+          "id": "s16",
+          "speaker": "Tom",
+          "text": "If you are ill or you can't come, please phone me before eight o'clock. See you on Monday. Bye!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Learning the job",
+      "intro": "You will hear Jack showing Linh how things work in the café.",
+      "speakers": {
+        "Jack": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Jack",
+          "text": "OK, Linh, this is the coffee machine. It looks difficult, but it is easy. Press the green button first."
+        },
+        {
+          "id": "s18",
+          "speaker": "Linh",
+          "text": "And what is the red button for?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Jack",
+          "text": "That's for hot milk. Be careful, because it gets very hot. I burned my hand on my first day."
+        },
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "Oh no! I'll be careful. How much is a large coffee?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Jack",
+          "text": "A large coffee is three pounds twenty. A small one is two pounds fifty. Tea is cheaper, only two pounds."
+        },
+        {
+          "id": "s22",
+          "speaker": "Linh",
+          "text": "And do we take cards?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Jack",
+          "text": "Yes, but not for small things. If someone buys only a tea, we ask for cash."
+        },
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "I see. What about the cakes? Do they bake them here?"
+        },
+        {
+          "id": "s25",
+          "speaker": "Jack",
+          "text": "No, Mrs Taylor's sister makes them at home. The lemon cake is the most popular, but she sometimes runs out by noon."
+        },
+        {
+          "id": "s26",
+          "speaker": "Linh",
+          "text": "Great. Now, I'll take the order from table four. Wish me luck!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A welcome talk",
+      "intro": "You will hear Mrs Taylor giving a talk to the café workers.",
+      "speakers": {
+        "Mrs Taylor": "female"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Mrs Taylor",
+          "text": "Good morning, everyone, and welcome to our team. I want to tell you three important things about working here."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mrs Taylor",
+          "text": "First, always smile at the customers. A friendly face makes people come back. Even when you are tired, try to look happy."
+        },
+        {
+          "id": "s29",
+          "speaker": "Mrs Taylor",
+          "text": "Second, keep the café clean. Wash your hands often, and clean the tables as soon as a customer leaves. A dirty table is a big problem."
+        },
+        {
+          "id": "s30",
+          "speaker": "Mrs Taylor",
+          "text": "Third, please don't use your phone while you are working. If you must make a call, go outside. I'm not angry about this, but customers don't like it."
+        },
+        {
+          "id": "s31",
+          "speaker": "Mrs Taylor",
+          "text": "Finally, I have some good news. Next month, we are going to open a small garden at the back. We will need more workers, so tell your friends."
+        },
+        {
+          "id": "s32",
+          "speaker": "Mrs Taylor",
+          "text": "Thank you for listening. Now, let's open the doors!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What work did Duc do before?",
+      "options": [
+        "He worked in a café.",
+        "He taught football.",
+        "He worked in his uncle's shop."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Duc says he worked in his uncle's shop last summer.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I worked in my uncle's shop last summer"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When can Duc start on Sundays?",
+      "options": [
+        "At six o'clock",
+        "At one o'clock",
+        "At nine o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He plays football in the morning, so he can start at one o'clock.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I can start at one o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much does the café pay?",
+      "options": [
+        "Five pounds an hour",
+        "Six pounds an hour",
+        "Seven pounds an hour"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mrs Taylor says they pay seven pounds an hour.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "We pay seven pounds an hour."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What must Duc bring himself?",
+      "options": [
+        "A hat",
+        "A green apron",
+        "Black trousers and comfortable shoes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The café gives an apron and a hat, but he must bring trousers and shoes.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "you should bring black trousers and comfortable shoes"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does Mrs Taylor like Duc?",
+      "options": [
+        "He knows about coffee.",
+        "He is very fast.",
+        "He is friendly."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says he seems very friendly.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "you seem very friendly"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Tom leave the message?",
+      "options": [
+        "To offer Linh a job",
+        "To say the café is closed",
+        "To explain Linh's first day"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He wants to tell Linh about her first day.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I just wanted to tell you about your first day."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time should Linh arrive?",
+      "options": [
+        "At nine o'clock",
+        "At half past eight",
+        "At half past nine"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom says to come at half past eight, not nine.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Please come at half past eight, not nine."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which door should Linh use?",
+      "options": [
+        "The front door",
+        "The side door",
+        "The back door"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He tells her to use the back door, next to the bank.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Come to the back door, not the front."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who will Linh work with at first?",
+      "options": [
+        "The manager",
+        "Jack",
+        "Tom"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She will work with Jack for the first two days.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "You will work with Jack for the first two days."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What do workers get for lunch?",
+      "options": [
+        "Nothing, they bring their own",
+        "A free sandwich and a drink",
+        "A hot meal"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "All workers get a free sandwich and a drink.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "a free sandwich and a drink"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What should Linh press first on the coffee machine?",
+      "options": [
+        "The red button",
+        "The black button",
+        "The green button"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Jack says to press the green button first. The red one is for hot milk.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "Press the green button first."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What happened to Jack on his first day?",
+      "options": [
+        "He broke the machine.",
+        "He dropped a cup.",
+        "He burned his hand."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Jack says he burned his hand on his first day.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I burned my hand on my first day."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How much is a small coffee?",
+      "options": [
+        "Two pounds",
+        "Two pounds fifty",
+        "Three pounds twenty"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A small coffee is two pounds fifty. Tea is two pounds and a large coffee is three pounds twenty.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "A small one is two pounds fifty."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When do customers have to pay with cash?",
+      "options": [
+        "When they buy only a tea",
+        "When the café is busy",
+        "When they buy a cake"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "If someone buys only a tea, they must use cash.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "If someone buys only a tea, we ask for cash."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Who makes the cakes?",
+      "options": [
+        "Linh",
+        "Mrs Taylor's sister",
+        "Jack"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mrs Taylor's sister makes the cakes at home.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "Mrs Taylor's sister makes them at home."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Mrs Taylor talking about?",
+      "options": [
+        "Important rules for the workers",
+        "How to make good coffee",
+        "The history of the café"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She gives three important things about working there.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "three important things about working here"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why should workers smile?",
+      "options": [
+        "So they get more money",
+        "So the manager is happy",
+        "So customers come back"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A friendly face makes people come back.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "A friendly face makes people come back."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What should workers do when a customer leaves?",
+      "options": [
+        "Take a break",
+        "Clean the table",
+        "Wash their hands"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They should clean the tables as soon as a customer leaves.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "clean the tables as soon as a customer leaves"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Mrs Taylor feel about phones?",
+      "options": [
+        "She does not mind at all.",
+        "Customers do not like them.",
+        "She is very angry."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she is not angry, but customers don't like it when workers use phones.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "customers don't like it"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What will the café open next month?",
+      "options": [
+        "A second café",
+        "A bakery",
+        "A small garden"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says they will open a small garden at the back.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "we are going to open a small garden at the back"
+        }
+      ]
+    }
+  ]
+}

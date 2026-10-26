@@ -364,7 +364,7 @@ mark.active { background: var(--mark-active); outline: 2px solid var(--warn); }
 }
 
 /* Skill switch (sidebar) */
-.skill-toggle { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; margin-top: 12px; padding: 4px; background: var(--surface-2); border-radius: 10px; }
+.skill-toggle { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 4px; margin-top: 12px; padding: 4px; background: var(--surface-2); border-radius: 10px; }
 .skill-btn {
   font: inherit;
   font-weight: 600;
@@ -626,3 +626,21 @@ mark.active { background: var(--mark-active); outline: 2px solid var(--warn); }
 .donate-dialog h2 { margin: 0 0 6px; }
 .donate-qr { width: 260px; max-width: 100%; display: block; margin: 12px auto; border-radius: 8px; }
 .donate-hint { font-size: 13px; }
+
+/* ---------------- Listening ---------------- */
+.listening-rule { margin: 0 0 14px; font-size: 14px; color: var(--muted); }
+.listening-part h3 { margin-bottom: 6px; }
+.part-intro { margin: 0 0 12px; }
+.player { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin: 0 0 16px; padding: 10px 12px; background: var(--surface-2); border-radius: 8px; }
+.player audio { width: 100%; max-width: 480px; }
+.play-btn { flex: 0 0 auto; min-width: 170px; }
+.player-bar { flex: 1 1 160px; height: 8px; background: var(--border); border-radius: 999px; overflow: hidden; }
+.player-bar > div { height: 100%; width: calc(var(--w, 0) * 1%); background: var(--primary); transition: width 0.25s linear; }
+.player-time { font-variant-numeric: tabular-nums; font-size: 13px; }
+.player-status { font-size: 13px; }
+.player-status.bad { color: var(--bad); }
+.transcript-part { margin-bottom: 18px; }
+.transcript-part h4 { margin: 0 0 8px; }
+.transcript-part audio { width: 100%; margin-bottom: 8px; }
+.transcript-line { margin: 0 0 8px; }
+.young-learners .part-intro { font-size: 17px; }

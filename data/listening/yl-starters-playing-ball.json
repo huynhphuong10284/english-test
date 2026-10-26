@@ -1,0 +1,358 @@
+{
+  "id": "l-yl-s-playing-ball",
+  "title": "Playing Ball",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about ball games: in the park, in a class and with a dog.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · In the park",
+      "intro": "You will hear Minh and Mai.",
+      "speakers": {
+        "Minh": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Minh",
+          "text": "Let's play ball in the park, Mai."
+        },
+        {
+          "id": "s2",
+          "speaker": "Mai",
+          "text": "OK! Is it a football or a basketball?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Minh",
+          "text": "It's a football. It's yellow."
+        },
+        {
+          "id": "s4",
+          "speaker": "Mai",
+          "text": "I like tennis best, but football is fun."
+        },
+        {
+          "id": "s5",
+          "speaker": "Minh",
+          "text": "Run, Mai! Kick it to me!"
+        },
+        {
+          "id": "s6",
+          "speaker": "Mai",
+          "text": "Oh no! I kicked it too far. It's in the tree."
+        },
+        {
+          "id": "s7",
+          "speaker": "Minh",
+          "text": "Don't worry, Mai. I can climb the tree and get it."
+        },
+        {
+          "id": "s8",
+          "speaker": "Mai",
+          "text": "Be careful, Minh! Please don't fall."
+        },
+        {
+          "id": "s9",
+          "speaker": "Minh",
+          "text": "I've got it! Now let's play again. It's a nice day."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Ball class",
+      "intro": "You will hear a teacher, Miss Hoa.",
+      "speakers": {
+        "Miss Hoa": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Miss Hoa",
+          "text": "Children, come here. We play ball today. Stand in a circle."
+        },
+        {
+          "id": "s11",
+          "speaker": "Miss Hoa",
+          "text": "Throw the ball to your friend. Catch it with two hands. Don't kick it."
+        },
+        {
+          "id": "s12",
+          "speaker": "Miss Hoa",
+          "text": "Now, Ben, you start."
+        },
+        {
+          "id": "s13",
+          "speaker": "Miss Hoa",
+          "text": "Well done, everyone. You are very good at this game."
+        },
+        {
+          "id": "s14",
+          "speaker": "Miss Hoa",
+          "text": "Now line up and walk back to the classroom. We have a story next."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · The dog and the ball",
+      "intro": "You will hear Tom and Lily.",
+      "speakers": {
+        "Tom": "male",
+        "Lily": "female"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Tom",
+          "text": "Look! My dog has a ball."
+        },
+        {
+          "id": "s16",
+          "speaker": "Lily",
+          "text": "What's his name?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Tom",
+          "text": "His name is Max. He is brown."
+        },
+        {
+          "id": "s18",
+          "speaker": "Lily",
+          "text": "Does he like water?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Tom",
+          "text": "Yes, he jumps in the lake and gets the ball."
+        },
+        {
+          "id": "s20",
+          "speaker": "Lily",
+          "text": "He's great!"
+        },
+        {
+          "id": "s21",
+          "speaker": "Tom",
+          "text": "I throw the ball far, and Max runs very fast. He is a good dog."
+        },
+        {
+          "id": "s22",
+          "speaker": "Lily",
+          "text": "I love him. Can I play with him next time, Tom?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Tom",
+          "text": "Of course you can. He is a friendly dog."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where do they play?",
+      "options": [
+        "In the park",
+        "At home",
+        "At school"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Minh says: \"Let's play ball in the park.\"",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "play ball in the park"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What colour is the ball?",
+      "options": [
+        "Green",
+        "Yellow",
+        "Blue"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Minh says the football is yellow.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "It's yellow"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the ball now?",
+      "options": [
+        "In the tree",
+        "In the water",
+        "In the house"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai kicked it too far and it is in the tree.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "It's in the tree"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Does Mai think football is fun?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes. She says: \"football is fun.\"",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "football is fun"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What do the children do first?",
+      "options": [
+        "Stand in a circle",
+        "Kick the ball",
+        "Run to the park"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Miss Hoa says: \"Stand in a circle.\"",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Stand in a circle"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How many hands do they use to catch?",
+      "options": [
+        "Three",
+        "One",
+        "Two"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The teacher says to catch it with two hands.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "Catch it with two hands"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who starts the game?",
+      "options": [
+        "Miss Hoa",
+        "Mai",
+        "Ben"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Miss Hoa says: \"Ben, you start.\"",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Ben, you start"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is the dog's name?",
+      "options": [
+        "Tom",
+        "Max",
+        "Ben"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom says his name is Max.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "His name is Max"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What colour is the dog?",
+      "options": [
+        "White",
+        "Black",
+        "Brown"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says: \"He is brown.\"",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "He is brown"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where does the dog get the ball?",
+      "options": [
+        "In the park",
+        "In the lake",
+        "In the garden"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The dog jumps in the lake and gets the ball.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "he jumps in the lake"
+        }
+      ]
+    }
+  ]
+}

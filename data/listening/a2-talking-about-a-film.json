@@ -1,0 +1,659 @@
+{
+  "id": "l-a2-talking-about-a-film",
+  "title": "Talking About a Film",
+  "level": "A2 · Elementary",
+  "description": "Four short recordings about films: planning a trip to the cinema, booking tickets, talking after a film and a radio review.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Choosing a film",
+      "intro": "You will hear two friends, Jack and Ann, deciding which film to see.",
+      "speakers": {
+        "Jack": "male",
+        "Ann": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Jack",
+          "text": "Ann, are you free on Friday night? I'd love to see a film."
+        },
+        {
+          "id": "s2",
+          "speaker": "Ann",
+          "text": "Maybe. What's on?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Jack",
+          "text": "There's a new space adventure, a comedy about a dog, and a cartoon about a mountain village."
+        },
+        {
+          "id": "s4",
+          "speaker": "Ann",
+          "text": "I'm not keen on space films. They're so loud. And I've heard the cartoon is sad. My sister cried at the end."
+        },
+        {
+          "id": "s5",
+          "speaker": "Jack",
+          "text": "OK, then the dog comedy. It starts at seven fifteen."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ann",
+          "text": "That's a bit early for me. I finish work at half past six. Is there a later one?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Jack",
+          "text": "Yes, there's another at nine. It finishes at eleven, though."
+        },
+        {
+          "id": "s8",
+          "speaker": "Ann",
+          "text": "That's too late. Let's go to the seven fifteen. I'll leave work early."
+        },
+        {
+          "id": "s9",
+          "speaker": "Jack",
+          "text": "Great. Shall we meet outside the cinema at seven?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Ann",
+          "text": "Yes. And I'll buy the tickets online, so we don't have to queue."
+        },
+        {
+          "id": "s11",
+          "speaker": "Jack",
+          "text": "Perfect. I'll buy the popcorn."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Booking tickets",
+      "intro": "You will hear Mai phoning a cinema to book tickets.",
+      "speakers": {
+        "Tom": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s12",
+          "speaker": "Tom",
+          "text": "Starlight Cinema, Tom speaking. How can I help?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Mai",
+          "text": "Hello. I'd like to book tickets for Saturday, please."
+        },
+        {
+          "id": "s14",
+          "speaker": "Tom",
+          "text": "Which film?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "The dog comedy, the afternoon show. What time is it?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Tom",
+          "text": "There's one at two o'clock and one at four thirty."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "I'll take four thirty. We are two adults and three children."
+        },
+        {
+          "id": "s18",
+          "speaker": "Tom",
+          "text": "Adult tickets are eight pounds and children's tickets are five pounds. So that's thirty-one pounds."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mai",
+          "text": "Hmm, is there a family ticket?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Tom",
+          "text": "Yes! A family ticket for two adults and three children is twenty-five pounds."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mai",
+          "text": "Oh, that's much cheaper. I'll take that."
+        },
+        {
+          "id": "s22",
+          "speaker": "Tom",
+          "text": "Where would you like to sit? We have seats at the front, in the middle or at the back."
+        },
+        {
+          "id": "s23",
+          "speaker": "Mai",
+          "text": "The middle, please. The children get bored at the front."
+        },
+        {
+          "id": "s24",
+          "speaker": "Tom",
+          "text": "No problem. You don't need to print anything. Just give your name at the desk, twenty minutes before the film."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · After the film",
+      "intro": "You will hear Linh and Peter talking about a film they have just seen.",
+      "speakers": {
+        "Peter": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s25",
+          "speaker": "Peter",
+          "text": "So, Linh, what did you think of the film?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Linh",
+          "text": "I loved it! The dog was so funny, especially the scene in the supermarket."
+        },
+        {
+          "id": "s27",
+          "speaker": "Peter",
+          "text": "Hmm, I thought it was OK. A few jokes were good, but the story was a bit silly."
+        },
+        {
+          "id": "s28",
+          "speaker": "Linh",
+          "text": "Silly? It was a comedy! You're not supposed to take it seriously."
+        },
+        {
+          "id": "s29",
+          "speaker": "Peter",
+          "text": "I know, but I prefer films with a good plot. This one was too easy to guess. I knew the ending after twenty minutes."
+        },
+        {
+          "id": "s30",
+          "speaker": "Linh",
+          "text": "Well, I didn't. I was surprised when the dog found the old man's keys."
+        },
+        {
+          "id": "s31",
+          "speaker": "Peter",
+          "text": "The actor who played the old man was great though. Very natural."
+        },
+        {
+          "id": "s32",
+          "speaker": "Linh",
+          "text": "Yes! He made me cry a little, actually, near the end."
+        },
+        {
+          "id": "s33",
+          "speaker": "Peter",
+          "text": "Really? I didn't feel sad at all. But the music was lovely, I'll say that."
+        },
+        {
+          "id": "s34",
+          "speaker": "Linh",
+          "text": "I want to buy the music, actually. Would you see it again?"
+        },
+        {
+          "id": "s35",
+          "speaker": "Peter",
+          "text": "Maybe on TV, not at the cinema. It's not worth the ticket price."
+        },
+        {
+          "id": "s36",
+          "speaker": "Linh",
+          "text": "You're so hard to please!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A radio review",
+      "intro": "You will hear a radio presenter, Helen, reviewing a film.",
+      "speakers": {
+        "Helen": "female"
+      },
+      "script": [
+        {
+          "id": "s37",
+          "speaker": "Helen",
+          "text": "Welcome back to Film Corner. This week I'm talking about a small film called The Lost Lighthouse, and I think it's the best family film this year."
+        },
+        {
+          "id": "s38",
+          "speaker": "Helen",
+          "text": "The story is about a girl called Rose who lives on a tiny island with her grandfather. One stormy night, a boat is in trouble, and Rose must light the old lighthouse by herself. I won't tell you what happens next, but there are some very exciting moments."
+        },
+        {
+          "id": "s39",
+          "speaker": "Helen",
+          "text": "The acting is wonderful, especially the young actress who plays Rose. She's only eleven years old. The photography of the sea is also beautiful, and the music makes you feel like you're on the island."
+        },
+        {
+          "id": "s40",
+          "speaker": "Helen",
+          "text": "Is there anything bad? Well, the beginning is rather slow, so you need to be patient for the first twenty minutes. And a few scenes might be frightening for very small children."
+        },
+        {
+          "id": "s41",
+          "speaker": "Helen",
+          "text": "Overall, I give it four stars out of five. It's on at the cinema in town until the end of the month, so don't miss it. Next week, we'll look at a new film about robots."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why does Ann not want to see the space film?",
+      "options": [
+        "It is too sad",
+        "It is too long",
+        "It is too loud"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ann says space films are so loud. The cartoon is the sad one.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "They're so loud."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why does Ann not choose the cartoon?",
+      "options": [
+        "She has heard it is sad",
+        "It is only for children",
+        "She has seen it already"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She has heard it is sad because her sister cried at the end.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I've heard the cartoon is sad."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which film do they decide to see?",
+      "options": [
+        "The cartoon",
+        "The space adventure",
+        "The dog comedy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Jack suggests the dog comedy and Ann agrees to go.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "OK, then the dog comedy."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why does Ann not want the later show?",
+      "options": [
+        "It finishes too late",
+        "It is too expensive",
+        "It is sold out"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The nine o'clock show finishes at eleven, which Ann says is too late.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "That's too late."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Ann do?",
+      "options": [
+        "Buy the tickets online",
+        "Buy the popcorn",
+        "Drive Jack to the cinema"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ann will buy the tickets online. Jack will buy the popcorn.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "I'll buy the tickets online"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which show does Mai choose?",
+      "options": [
+        "The two o'clock show",
+        "The six o'clock show",
+        "The four thirty show"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says she will take four thirty.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I'll take four thirty."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who is going to the cinema?",
+      "options": [
+        "Five adults",
+        "Two adults and three children",
+        "Three adults and two children"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai says there are two adults and three children.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "We are two adults and three children."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much is the family ticket?",
+      "options": [
+        "Eight pounds",
+        "Twenty-five pounds",
+        "Thirty-one pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The family ticket is twenty-five pounds. Thirty-one pounds is the price of single tickets.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "A family ticket for two adults and three children is twenty-five pounds."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where will they sit?",
+      "options": [
+        "In the middle",
+        "At the back",
+        "At the front"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai asks for the middle because the children get bored at the front.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "The middle, please."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What must Mai do on Saturday?",
+      "options": [
+        "Arrive twenty minutes early",
+        "Phone the cinema again",
+        "Print her tickets"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She must give her name at the desk twenty minutes before the film.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "twenty minutes before the film"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What did Linh think of the film?",
+      "options": [
+        "She loved it",
+        "She found it boring",
+        "She did not understand it"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh says she loved it.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I loved it!"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Which scene did Linh find especially funny?",
+      "options": [
+        "In the supermarket",
+        "In the park",
+        "At the beach"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She liked the scene in the supermarket.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "especially the scene in the supermarket"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What did Peter not like about the film?",
+      "options": [
+        "The actors were bad",
+        "The story was easy to guess",
+        "The film was too long"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Peter says the plot was too easy to guess.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "This one was too easy to guess."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did Peter say was great?",
+      "options": [
+        "The dog",
+        "The cinema seats",
+        "The actor who played the old man"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Peter says the actor who played the old man was great.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "The actor who played the old man was great though."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Would Peter see the film again at the cinema?",
+      "options": [
+        "Yes, if tickets are cheaper",
+        "Yes, with Linh",
+        "No, he would only watch it on TV"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says maybe on TV, but not at the cinema.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "Maybe on TV, not at the cinema."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Helen doing?",
+      "options": [
+        "Advertising a cinema",
+        "Telling the story of her life",
+        "Reviewing a film"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She talks about a film, its story and what is good and bad about it.",
+      "evidence": [
+        {
+          "lineId": "s37",
+          "quote": "This week I'm talking about a small film called The Lost Lighthouse"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Who does Rose live with?",
+      "options": [
+        "Her grandfather",
+        "Her father",
+        "Her brother"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Rose lives on a tiny island with her grandfather.",
+      "evidence": [
+        {
+          "lineId": "s38",
+          "quote": "lives on a tiny island with her grandfather"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How old is the actress who plays Rose?",
+      "options": [
+        "Eleven",
+        "Ten",
+        "Twelve"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The actress is only eleven years old.",
+      "evidence": [
+        {
+          "lineId": "s39",
+          "quote": "She's only eleven years old."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is the negative point about the film?",
+      "options": [
+        "The photos of the sea are poor",
+        "The music is too loud",
+        "The beginning is slow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Helen says the beginning is rather slow.",
+      "evidence": [
+        {
+          "lineId": "s40",
+          "quote": "the beginning is rather slow"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Until when is the film on at the cinema?",
+      "options": [
+        "Until Friday",
+        "Until the end of the month",
+        "Until next week"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It is on until the end of the month.",
+      "evidence": [
+        {
+          "lineId": "s41",
+          "quote": "until the end of the month"
+        }
+      ]
+    }
+  ]
+}

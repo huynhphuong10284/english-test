@@ -1,0 +1,628 @@
+{
+  "id": "l-b1-a-podcast-on-healthy-habits",
+  "title": "A Podcast on Healthy Habits",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings about healthy habits: a sleep interview, a talk about food and water, friends planning to run and a community centre announcement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Sleep",
+      "intro": "You will hear a podcast host, Ben, talking to a sleep expert, Dr Lopez.",
+      "speakers": {
+        "Ben": "male",
+        "Dr Lopez": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Ben",
+          "text": "Welcome to Better Days, the podcast about small changes that improve your life. I'm Ben, and today I'm talking with Dr Lopez, who studies sleep. Dr Lopez, why does sleep matter so much?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Lopez",
+          "text": "Well, Ben, while we sleep, our body repairs itself and our brain stores what we learned that day. Students who sleep badly often forget what they studied."
+        },
+        {
+          "id": "s3",
+          "speaker": "Ben",
+          "text": "How many hours do we need?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Lopez",
+          "text": "Teenagers need about nine hours, and adults need seven or eight. But the time you go to bed matters too. Going to bed at the same time every night is more important than a very long sleep at the weekend."
+        },
+        {
+          "id": "s5",
+          "speaker": "Ben",
+          "text": "I'm guilty of sleeping until noon on Sundays!"
+        },
+        {
+          "id": "s6",
+          "speaker": "Dr Lopez",
+          "text": "Many people do, but it confuses your body clock. On Monday you feel as if you've flown across the world."
+        },
+        {
+          "id": "s7",
+          "speaker": "Ben",
+          "text": "What about phones? I always scroll in bed."
+        },
+        {
+          "id": "s8",
+          "speaker": "Dr Lopez",
+          "text": "That's the biggest problem. The light wakes up your brain. I suggest switching off screens an hour before bed and reading a real book instead."
+        },
+        {
+          "id": "s9",
+          "speaker": "Ben",
+          "text": "And caffeine?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Dr Lopez",
+          "text": "No coffee or strong tea after three in the afternoon. For some people even a cup at noon is too late."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Food and drink",
+      "intro": "You will hear a presenter, Maya, talking about healthy eating habits.",
+      "speakers": {
+        "Maya": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Maya",
+          "text": "Hello again, this is Maya, and today's habit is about food and drink. Don't worry, I'm not going to tell you to give up chocolate."
+        },
+        {
+          "id": "s12",
+          "speaker": "Maya",
+          "text": "Let's start with water. Most of us don't drink enough. A simple trick is to put a full bottle on your desk each morning, and finish it by the afternoon. I did this for one month, and my headaches almost disappeared."
+        },
+        {
+          "id": "s13",
+          "speaker": "Maya",
+          "text": "Next, breakfast. Some people say it is the most important meal of the day, but the truth is more complicated. What matters is eating something with protein, such as eggs or yoghurt, rather than just sugary cereal. Sugar gives you energy for an hour, and then you feel tired again."
+        },
+        {
+          "id": "s14",
+          "speaker": "Maya",
+          "text": "Third, try to eat one extra portion of vegetables each day. Not five, just one. It sounds small, but small changes last longer than big promises."
+        },
+        {
+          "id": "s15",
+          "speaker": "Maya",
+          "text": "My biggest mistake was changing everything at once. I stopped sugar, started running and went to bed early, all on the same Monday. By Thursday, I was exhausted and miserable, and I gave up. Now I add only one new habit every two weeks."
+        },
+        {
+          "id": "s16",
+          "speaker": "Maya",
+          "text": "So, choose one thing from today's list and try it. I'd love to hear how you get on."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A new runner",
+      "intro": "You will hear two friends, Chris and Linh, talking about running.",
+      "speakers": {
+        "Chris": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Chris",
+          "text": "Linh, I did it. I signed up for the ten kilometre charity run in October."
+        },
+        {
+          "id": "s18",
+          "speaker": "Linh",
+          "text": "Wow, that's brave! Last time we spoke, you said you hated running."
+        },
+        {
+          "id": "s19",
+          "speaker": "Chris",
+          "text": "I still do, a bit. But my doctor said I should be more active, and a friend said having a goal helps."
+        },
+        {
+          "id": "s20",
+          "speaker": "Linh",
+          "text": "It does. When I trained for my first race, I made a plan and ran three times a week."
+        },
+        {
+          "id": "s21",
+          "speaker": "Chris",
+          "text": "Three times? I was thinking of every day."
+        },
+        {
+          "id": "s22",
+          "speaker": "Linh",
+          "text": "Please don't. That's how people get injured. Run three times, and on other days, walk or swim."
+        },
+        {
+          "id": "s23",
+          "speaker": "Chris",
+          "text": "OK. Should I buy special shoes?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "Definitely. They're the only thing worth spending money on. Go to a proper running shop, and ask them to watch you run."
+        },
+        {
+          "id": "s25",
+          "speaker": "Chris",
+          "text": "That sounds embarrassing."
+        },
+        {
+          "id": "s26",
+          "speaker": "Linh",
+          "text": "It isn't, honestly. They do it all day. And join a group if you can. I never skip a run when somebody is waiting for me at the park."
+        },
+        {
+          "id": "s27",
+          "speaker": "Chris",
+          "text": "That's a good idea. Can I join yours?"
+        },
+        {
+          "id": "s28",
+          "speaker": "Linh",
+          "text": "Of course. We meet at seven on Saturday mornings by the fountain. Don't be late, or we'll leave without you!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Healthy Week",
+      "intro": "You will hear an announcement at a community centre.",
+      "speakers": {
+        "Rachel": "female"
+      },
+      "script": [
+        {
+          "id": "s29",
+          "speaker": "Rachel",
+          "text": "Good morning, and welcome to the Riverside Community Centre. This is a message about our Healthy Week, which begins next Monday."
+        },
+        {
+          "id": "s30",
+          "speaker": "Rachel",
+          "text": "Every morning at seven there will be a free yoga class on the grass behind the centre. If it rains, we'll move indoors to the small hall. Please bring your own mat, or ask at the desk, where we have ten to borrow."
+        },
+        {
+          "id": "s31",
+          "speaker": "Rachel",
+          "text": "On Tuesday evening, a nurse will give a talk about blood pressure and offer free checks. There's no need to book, but come before six, because the talk starts at half past."
+        },
+        {
+          "id": "s32",
+          "speaker": "Rachel",
+          "text": "On Wednesday, our café will serve only healthy lunches at half the normal price. The soup of the day is carrot and ginger, which is very popular."
+        },
+        {
+          "id": "s33",
+          "speaker": "Rachel",
+          "text": "Thursday is Walking Day. We'll meet at the main gate at four o'clock for a walk around the lake. It's about five kilometres, so wear comfortable shoes."
+        },
+        {
+          "id": "s34",
+          "speaker": "Rachel",
+          "text": "And on Friday, there will be a prize draw for everyone who attended three events. First prize is a year's free membership to our swimming pool."
+        },
+        {
+          "id": "s35",
+          "speaker": "Rachel",
+          "text": "Finally, sign up for any activity at the front desk or on our website. Thank you, and see you next week."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the main topic of this conversation?",
+      "options": [
+        "Why sleep is important and how to sleep better",
+        "Which drinks and foods are good for students",
+        "How to remember more when you study for exams"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Dr Lopez explains what sleep does and gives advice about sleeping well.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "why does sleep matter so much?"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "According to Dr Lopez, what does the brain do while we sleep?",
+      "options": [
+        "It needs more food to work",
+        "It forgets our homework at night",
+        "It stores what we learned"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says our brain stores what we learned that day.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "our brain stores what we learned that day"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Dr Lopez say is more important than a long sleep at the weekend?",
+      "options": [
+        "Sleeping until noon on Sundays",
+        "Taking a short nap each afternoon",
+        "Going to bed at the same time"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A regular bedtime matters more than a very long weekend sleep.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Going to bed at the same time every night"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why are phones a problem at bedtime?",
+      "options": [
+        "They get too hot in bed",
+        "Their light keeps the brain awake",
+        "They make a lot of noise at night"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the light wakes up your brain.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "The light wakes up your brain"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When should people stop drinking coffee or strong tea?",
+      "options": [
+        "After three in the afternoon",
+        "An hour before going to bed",
+        "After noon on Sundays"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says no coffee or strong tea after three in the afternoon.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "No coffee or strong tea after three in the afternoon"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is today's habit about?",
+      "options": [
+        "Food and drink",
+        "Exercise and sport",
+        "Sleep and rest"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says today's habit is about food and drink.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "today's habit is about food and drink"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What happened when Maya drank more water?",
+      "options": [
+        "She felt more tired at work",
+        "She lost some weight quickly",
+        "Her headaches nearly stopped"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says her headaches almost disappeared.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "my headaches almost disappeared"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Maya think matters most at breakfast?",
+      "options": [
+        "Eating some protein instead of sugary food",
+        "Never skipping breakfast on any day",
+        "Eating as much as possible in the morning"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says what matters is eating protein, not just sugary cereal.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "What matters is eating something with protein"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Maya suggest only one extra portion of vegetables?",
+      "options": [
+        "Vegetables are expensive to buy",
+        "One portion is enough for a whole day",
+        "Small changes are easier to keep"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says small changes last longer than big promises.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "small changes last longer than big promises"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What was Maya's biggest mistake?",
+      "options": [
+        "Going to bed too late at night",
+        "Giving up chocolate completely",
+        "Changing everything at once"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She stopped sugar, started running and went to bed early all on one day, then gave up.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "My biggest mistake was changing everything at once"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What are Chris and Linh talking about?",
+      "options": [
+        "Chris's visit to the doctor",
+        "Chris's training for a charity run",
+        "Linh's plans for moving house"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Chris has signed up for a race and asks Linh for advice.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I signed up for the ten kilometre charity run"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why did Chris decide to run in the race?",
+      "options": [
+        "Linh asked him to join her this autumn",
+        "His doctor told him to be more active",
+        "He has always loved running long distances"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His doctor said he should be more active, and a friend said a goal helps.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "my doctor said I should be more active"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How often does Linh advise Chris to run each week?",
+      "options": [
+        "Three times",
+        "Every single day",
+        "Only once a week"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says people who run every day get injured, so run three times.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "Run three times"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Linh suggest going to a running shop?",
+      "options": [
+        "To find a running group nearby",
+        "To choose proper shoes with help",
+        "To buy a plan for three weeks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says shoes are worth spending money on and the shop can watch him run.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "Go to a proper running shop"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "Why does Linh like running with a group?",
+      "options": [
+        "It is much faster than running alone",
+        "She enjoys talking with strangers there",
+        "She does not skip when people wait"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she never skips a run when somebody is waiting for her.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I never skip a run when somebody is waiting for me"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where will the yoga class be if it rains?",
+      "options": [
+        "At the main gate by the lake",
+        "On the grass behind the centre",
+        "In the small hall"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If it rains, the class moves indoors to the small hall.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "we'll move indoors to the small hall"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What can people borrow at the desk?",
+      "options": [
+        "A pair of shoes",
+        "A water bottle",
+        "A yoga mat"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The centre has ten mats to borrow.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "ask at the desk, where we have ten to borrow"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "When should people arrive for the nurse's talk?",
+      "options": [
+        "At half past six exactly",
+        "At seven o'clock sharp",
+        "Before six o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The talk starts at half past, but people should come before six.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "come before six"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is special about Wednesday?",
+      "options": [
+        "Healthy lunches cost half the usual price",
+        "There is a free carrot soup for everyone",
+        "The café is closed for the whole day"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The café serves healthy lunches at half the normal price.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "healthy lunches at half the normal price"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How can someone enter the Friday prize draw?",
+      "options": [
+        "By buying a healthy lunch",
+        "By signing up online only",
+        "By attending three events"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The draw is for everyone who attended three events.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "everyone who attended three events"
+        }
+      ]
+    }
+  ]
+}

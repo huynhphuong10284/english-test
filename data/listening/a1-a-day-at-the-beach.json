@@ -1,0 +1,603 @@
+{
+  "id": "l-a1-a-day-at-the-beach",
+  "title": "A Day at the Beach",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about a day at the beach: a plan, a phone message, an ice cream stall and a safety talk.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Planning the trip",
+      "intro": "You will hear Minh and Lucy planning a day at the beach.",
+      "speakers": {
+        "Minh": "male",
+        "Lucy": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Lucy",
+          "text": "Minh, the weather is hot tomorrow. Let's go to the beach!"
+        },
+        {
+          "id": "s2",
+          "speaker": "Minh",
+          "text": "Great idea. How can we get there?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Lucy",
+          "text": "We can go by bus. It takes about forty minutes. The first bus is at eight o'clock."
+        },
+        {
+          "id": "s4",
+          "speaker": "Minh",
+          "text": "That's early! Let's take the next one, at nine."
+        },
+        {
+          "id": "s5",
+          "speaker": "Lucy",
+          "text": "OK. What should we bring? I'll bring a big towel and my sunglasses."
+        },
+        {
+          "id": "s6",
+          "speaker": "Minh",
+          "text": "I'll bring sun cream, because the sun is strong. And I have a new ball."
+        },
+        {
+          "id": "s7",
+          "speaker": "Lucy",
+          "text": "Don't forget your swimming shorts!"
+        },
+        {
+          "id": "s8",
+          "speaker": "Minh",
+          "text": "Ha, no, I won't. I'm very excited. I love swimming in the sea."
+        },
+        {
+          "id": "s9",
+          "speaker": "Lucy",
+          "text": "Me too. Let's also take some sandwiches and a bottle of water for lunch."
+        },
+        {
+          "id": "s10",
+          "speaker": "Minh",
+          "text": "Good idea. I'll ask my mum to make the sandwiches tonight."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A phone message",
+      "intro": "You will hear a message from Sam to his friend Ben.",
+      "speakers": {
+        "Sam": "male"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Sam",
+          "text": "Hi, Ben. It's Sam. I'm on the beach now. It's lovely here!"
+        },
+        {
+          "id": "s12",
+          "speaker": "Sam",
+          "text": "The water is warm and the sand is very hot. I'm sitting under a big blue umbrella."
+        },
+        {
+          "id": "s13",
+          "speaker": "Sam",
+          "text": "My sister is making a sandcastle, and my dad is reading a newspaper."
+        },
+        {
+          "id": "s14",
+          "speaker": "Sam",
+          "text": "I'm sorry, I can't play football with you this afternoon. We are staying here until five o'clock."
+        },
+        {
+          "id": "s15",
+          "speaker": "Sam",
+          "text": "Later, we are going to eat fish and chips at a small cafe near the beach. It smells so good!"
+        },
+        {
+          "id": "s16",
+          "speaker": "Sam",
+          "text": "Can we play tomorrow? Call me tonight. Bye!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · At the ice cream stall",
+      "intro": "You will hear a girl, Hoa, buying ice cream at the beach.",
+      "speakers": {
+        "Seller": "male",
+        "Hoa": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Seller",
+          "text": "Hello! Would you like an ice cream?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Hoa",
+          "text": "Yes, please. What flavours do you have?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Seller",
+          "text": "We have chocolate, strawberry and lemon."
+        },
+        {
+          "id": "s20",
+          "speaker": "Hoa",
+          "text": "I'd like strawberry, please. And my brother wants chocolate."
+        },
+        {
+          "id": "s21",
+          "speaker": "Seller",
+          "text": "Small or large?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Hoa",
+          "text": "One small and one large. The small one is for me. How much are they?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Seller",
+          "text": "The small one is two pounds and the large one is three pounds. That's five pounds."
+        },
+        {
+          "id": "s24",
+          "speaker": "Hoa",
+          "text": "Here is ten pounds."
+        },
+        {
+          "id": "s25",
+          "speaker": "Seller",
+          "text": "Thank you. Here is your change, five pounds. Enjoy the sunshine!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Beach rules",
+      "intro": "You will hear a lifeguard talking to children on the beach.",
+      "speakers": {
+        "Lifeguard": "female"
+      },
+      "script": [
+        {
+          "id": "s26",
+          "speaker": "Lifeguard",
+          "text": "Hello, children. My name is Kate. I'm the lifeguard, and I want you to be safe today."
+        },
+        {
+          "id": "s27",
+          "speaker": "Lifeguard",
+          "text": "First, only swim between the two red flags. The sea is safe there."
+        },
+        {
+          "id": "s28",
+          "speaker": "Lifeguard",
+          "text": "Second, never swim alone. Always swim with a friend or a parent."
+        },
+        {
+          "id": "s29",
+          "speaker": "Lifeguard",
+          "text": "Third, put on sun cream every two hours, and wear a hat."
+        },
+        {
+          "id": "s30",
+          "speaker": "Lifeguard",
+          "text": "Finally, please put your rubbish in the bins. We want the beach clean for everyone. Have fun!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What are Minh and Lucy doing?",
+      "options": [
+        "Playing a game",
+        "Planning a trip to the beach",
+        "Buying new clothes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They plan to go to the beach tomorrow.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "Let's go to the beach!"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How will they travel?",
+      "options": [
+        "By train",
+        "By bus",
+        "By car"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lucy says they can go by bus.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "We can go by bus"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which bus will they take?",
+      "options": [
+        "The bus at ten o'clock",
+        "The bus at eight o'clock",
+        "The bus at nine o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Minh says the first bus is too early, so they take the one at nine.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Let's take the next one, at nine"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Minh bring?",
+      "options": [
+        "A big towel",
+        "Sunglasses",
+        "Sun cream"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Minh will bring sun cream and a ball. Lucy brings the towel and sunglasses.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I'll bring sun cream"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Minh feel about swimming?",
+      "options": [
+        "He is bored.",
+        "He is afraid.",
+        "He loves it."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he loves swimming in the sea.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "I love swimming in the sea"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why is Sam calling?",
+      "options": [
+        "To say he can't play football today",
+        "To ask Ben to come to the beach",
+        "To ask for help with homework"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sam says sorry, he can't play football this afternoon.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "I can't play football with you this afternoon"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is the water like?",
+      "options": [
+        "Warm",
+        "Cold",
+        "Dirty"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sam says the water is warm.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "The water is warm"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What colour is the umbrella?",
+      "options": [
+        "Red",
+        "Yellow",
+        "Blue"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Sam sits under a big blue umbrella.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "a big blue umbrella"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is Sam's sister doing?",
+      "options": [
+        "Reading",
+        "Making a sandcastle",
+        "Swimming"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Sam's sister is making a sandcastle. His dad is reading.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "My sister is making a sandcastle"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long will Sam stay at the beach?",
+      "options": [
+        "Until seven o'clock",
+        "Until three o'clock",
+        "Until five o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They are staying until five o'clock.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "until five o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What flavour does Hoa want?",
+      "options": [
+        "Lemon",
+        "Chocolate",
+        "Strawberry"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Hoa wants strawberry. Her brother wants chocolate.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I'd like strawberry, please"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Who wants chocolate ice cream?",
+      "options": [
+        "Hoa",
+        "Her mother",
+        "Her brother"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Hoa says her brother wants chocolate.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "my brother wants chocolate"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Which size is for Hoa?",
+      "options": [
+        "The large one",
+        "The small one",
+        "The middle one"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the small one is for her.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "The small one is for me"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How much do the ice creams cost?",
+      "options": [
+        "Ten pounds",
+        "Five pounds",
+        "Two pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The two ice creams cost five pounds in total.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "That's five pounds"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "How much change does Hoa get?",
+      "options": [
+        "Two pounds",
+        "Three pounds",
+        "Five pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She pays ten pounds and gets five pounds back.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "Here is your change, five pounds"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Kate talking about?",
+      "options": [
+        "How to be safe at the beach",
+        "How to cook on the beach",
+        "How to make a sandcastle"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Kate gives rules to keep children safe.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I want you to be safe today"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where should the children swim?",
+      "options": [
+        "Far from the beach",
+        "Near the rocks",
+        "Between the red flags"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says to swim only between the two red flags.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "only swim between the two red flags"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Who should the children swim with?",
+      "options": [
+        "A friend or a parent",
+        "Nobody",
+        "A teacher"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says never swim alone; swim with a friend or a parent.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "Always swim with a friend or a parent"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How often should they put on sun cream?",
+      "options": [
+        "Every two hours",
+        "Every hour",
+        "Every three hours"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sun cream every two hours.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "every two hours"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where should the rubbish go?",
+      "options": [
+        "In the sea",
+        "In the bins",
+        "In the sand"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Rubbish goes in the bins.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "put your rubbish in the bins"
+        }
+      ]
+    }
+  ]
+}

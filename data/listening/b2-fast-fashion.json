@@ -1,0 +1,618 @@
+{
+  "id": "l-b2-fast-fashion",
+  "title": "Fast Fashion",
+  "level": "B2 · Upper-intermediate",
+  "description": "A podcast introduction, two friends shopping, a radio interview with a designer and a short lecture on the clothing industry.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Podcast: What is fast fashion?",
+      "intro": "You will hear the host of a podcast about sustainable living.",
+      "speakers": {
+        "Host": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Host",
+          "text": "Hello and welcome back to Green Choices. This week we're talking about fast fashion, a phrase you've probably heard but may not completely understand."
+        },
+        {
+          "id": "s2",
+          "speaker": "Host",
+          "text": "Fast fashion means clothes that are designed, made and sold very quickly and very cheaply. Instead of two collections a year, some shops now put new styles on their shelves every week, and a few add hundreds of new items every day."
+        },
+        {
+          "id": "s3",
+          "speaker": "Host",
+          "text": "The speed is possible because the clothes are made in huge factories, often in countries where wages are low. A T-shirt can cost less than a cup of coffee, which sounds like a bargain, but somebody always pays for it."
+        },
+        {
+          "id": "s4",
+          "speaker": "Host",
+          "text": "Often it is the workers, who may be paid very little and work long hours. And often it's the environment. It takes thousands of litres of water to produce one cotton shirt, and many cheap fabrics are made from plastic that sheds tiny fibres each time we wash them."
+        },
+        {
+          "id": "s5",
+          "speaker": "Host",
+          "text": "Then there's the waste. On average, people now buy far more clothes than they did twenty years ago, but they keep each item for a much shorter time. A surprising number of garments are worn only a handful of times before being thrown away."
+        },
+        {
+          "id": "s6",
+          "speaker": "Host",
+          "text": "I'm not here to blame anyone. Honestly, I've bought my share of cheap jumpers. But I think it helps to understand what's behind the price tag, so let's hear what some shoppers think."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Two friends go shopping",
+      "intro": "You will hear two friends, Mai and Ben, in a clothes shop.",
+      "speakers": {
+        "Mai": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "Look at this jacket, Ben! It's only fifteen pounds. And it's got the exact style that everyone's wearing this season."
+        },
+        {
+          "id": "s8",
+          "speaker": "Ben",
+          "text": "It is cheap, but check the label. It says it's made of polyester. I read that it won't last very long, and it'll probably be out of fashion by next month."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mai",
+          "text": "Maybe, but I can't afford a jacket for a hundred pounds. Not everyone has your budget."
+        },
+        {
+          "id": "s10",
+          "speaker": "Ben",
+          "text": "That's true, and I don't want to lecture you. I just think about cost per wear. If you buy a good jacket for sixty pounds and wear it for three winters, it's cheaper than buying a new one every season."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mai",
+          "text": "Hmm. I hadn't looked at it that way. Although you'd get bored of the same jacket."
+        },
+        {
+          "id": "s12",
+          "speaker": "Ben",
+          "text": "Would I? I've had mine for four years and I still like it. And anyway, you can change an outfit with scarves and other bits and pieces."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mai",
+          "text": "Okay, what about second-hand shops? I've never really tried them."
+        },
+        {
+          "id": "s14",
+          "speaker": "Ben",
+          "text": "I go quite often. You can find excellent things, and there's a lovely one near the library. It's open until half past five today."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "Let's go there first, then. If I don't find anything, I'll come back for this jacket."
+        },
+        {
+          "id": "s16",
+          "speaker": "Ben",
+          "text": "Deal. But I'll be honest, I think you'll be surprised."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Radio interview with a designer",
+      "intro": "You will hear a presenter, Hannah, interviewing a clothes designer, Tuan.",
+      "speakers": {
+        "Hannah": "female",
+        "Tuan": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Hannah",
+          "text": "Tuan, you used to design clothes for a large high-street chain. Why did you leave?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Tuan",
+          "text": "It was a slow realisation, to be honest. I was producing about two hundred designs a year, and most of them were thrown away after a season. One day I walked into a warehouse full of unsold clothes and I thought: I made all of this, and nobody wanted it."
+        },
+        {
+          "id": "s19",
+          "speaker": "Hannah",
+          "text": "That must have been a shock."
+        },
+        {
+          "id": "s20",
+          "speaker": "Tuan",
+          "text": "It was. I stayed for another year, because I had a mortgage, but then I started my own small label. Now I make perhaps thirty items a year, mostly in linen and recycled cotton."
+        },
+        {
+          "id": "s21",
+          "speaker": "Hannah",
+          "text": "Isn't that rather expensive for customers?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Tuan",
+          "text": "Yes, I can't deny it. My clothes cost more, and some people simply can't pay that. What I try to do is offer repairs. If a button falls off or a seam splits, customers can bring a garment back, and we mend it for free."
+        },
+        {
+          "id": "s23",
+          "speaker": "Hannah",
+          "text": "Do you think the big companies will change?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Tuan",
+          "text": "Some are trying, and I'd like to be fair to them. They use more recycled fabrics and print the origin of the clothes. But I'm a little sceptical, because their business depends on selling more every year, and that's difficult to reconcile with real sustainability."
+        },
+        {
+          "id": "s25",
+          "speaker": "Hannah",
+          "text": "What would you like to see happen?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Tuan",
+          "text": "Honestly, a change in attitude. If we were proud to wear the same favourite coat for ten years, rather than embarrassed to be seen in the same outfit twice, the whole industry would have to adapt."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Lecture: The life of a T-shirt",
+      "intro": "You will hear a university lecturer, Dr Evans, talking about the clothing industry.",
+      "speakers": {
+        "Evans": "female"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Evans",
+          "text": "I'd like to follow the life of one ordinary cotton T-shirt, because it shows how global the clothing industry has become."
+        },
+        {
+          "id": "s28",
+          "speaker": "Evans",
+          "text": "The cotton may be grown in one country, spun into thread in a second, woven into cloth in a third, and sewn together in a fourth. Then it's shipped across the world to a shop, or more and more often, sent directly to a customer who ordered it online."
+        },
+        {
+          "id": "s29",
+          "speaker": "Evans",
+          "text": "That online part is important. Free returns encourage people to order several sizes and send most of them back, and many returned items are never resold. Some are simply destroyed, which seems extraordinary to me."
+        },
+        {
+          "id": "s30",
+          "speaker": "Evans",
+          "text": "When the T-shirt is finally thrown away, its journey is often not over. A large share of unwanted clothes from richer countries is sent to other parts of the world. Some of it is sold and worn again, which is positive, but a lot ends up in enormous rubbish heaps."
+        },
+        {
+          "id": "s31",
+          "speaker": "Evans",
+          "text": "So what are the solutions? Recycling is one, but it's harder than people think. Most clothes are made from mixed fabrics, such as cotton with a little plastic, and separating them is difficult and expensive."
+        },
+        {
+          "id": "s32",
+          "speaker": "Evans",
+          "text": "Much more promising, in my view, are the less glamorous options: buying fewer things, mending what we own, and renting clothes for special occasions. They don't need new technology, only a change in habit."
+        },
+        {
+          "id": "s33",
+          "speaker": "Evans",
+          "text": "For next week, please choose one garment from your own wardrobe and trace where it was made. I'd like you to present your findings in five minutes."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How is fast fashion described in the podcast?",
+      "options": [
+        "Clothes that are made by hand in small workshops and sold slowly",
+        "Clothes that are expensive, rare and sold only twice a year",
+        "Clothes that are designed, made and sold quickly and cheaply"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The host defines it as clothes that are designed, made and sold very quickly and very cheaply.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "designed, made and sold very quickly and very cheaply"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does the host mean by \"somebody always pays for it\"?",
+      "options": [
+        "Customers can always return cheap clothes for a full refund.",
+        "Cheap clothes have hidden costs for people or the environment.",
+        "Shops make a loss on every cheap item that they sell."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He means that a low price hides costs for workers and the environment.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "somebody always pays for it"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is mentioned as an environmental problem?",
+      "options": [
+        "Too many new factories being built in busy city centres",
+        "Plastic fibres shed when clothes are washed",
+        "Cotton plants that take far too long to grow each year"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Cheap fabrics made from plastic shed tiny fibres every time they are washed.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "sheds tiny fibres each time we wash them"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does the host feel about his own buying habits?",
+      "options": [
+        "He is proud of how much money he saves by shopping.",
+        "He admits he has bought cheap clothes too.",
+        "He has never bought any cheap clothes himself."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he has bought his share of cheap jumpers and is not there to blame anyone.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I've bought my share of cheap jumpers"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does the host say \"I'm not here to blame anyone\"?",
+      "options": [
+        "To advertise the cheap clothes sold by his sponsors",
+        "To make clear that he wants to inform, not criticise",
+        "To tell listeners that the programme is about to end"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He wants people to understand what lies behind the price, not feel guilty.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "it helps to understand what's behind the price tag"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "Why does Mai like the jacket?",
+      "options": [
+        "It is made of linen and will last for years.",
+        "It is cheap and in fashion.",
+        "It was a gift and it is her favourite colour."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It costs fifteen pounds and has the style everyone is wearing.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "It's only fifteen pounds"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Ben doubt the quality of the jacket?",
+      "options": [
+        "It is far too expensive for such a plain jacket.",
+        "It is made of polyester and will not last long.",
+        "It is too large and the style is out of date."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He read that polyester will not last and the style will be out of date soon.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "it won't last very long"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Ben mean by \"cost per wear\"?",
+      "options": [
+        "The cost of washing and ironing it every week",
+        "The total price divided by how often you wear it",
+        "The price of buying a replacement coat every season"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "A sixty-pound jacket worn for three winters can be cheaper than a new jacket every season.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "If you buy a good jacket for sixty pounds and wear it for three winters"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where do they decide to go first?",
+      "options": [
+        "A second-hand shop near the library",
+        "Another jacket shop on the high street",
+        "Back home to check their budget first"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben recommends a second-hand shop near the library, and Mai agrees to go there first.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "there's a lovely one near the library"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What is Mai's attitude at the end?",
+      "options": [
+        "Angry with Ben",
+        "Completely against Ben's idea",
+        "Open to trying second-hand shopping"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She agrees to try the second-hand shop first, but may come back for the jacket.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Let's go there first, then"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why did Tuan leave his job?",
+      "options": [
+        "He was dismissed after one of his designs failed.",
+        "He saw a warehouse full of unsold clothes and felt it was wasteful.",
+        "He wanted a bigger salary to pay his mortgage."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The warehouse of unwanted clothes made him realise how much waste he created.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I made all of this, and nobody wanted it"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Tuan offer his customers?",
+      "options": [
+        "Cheaper prices every season",
+        "Free repairs",
+        "Free delivery"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Customers can bring back garments, and he mends them for free.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "we mend it for free"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Tuan feel about the big companies?",
+      "options": [
+        "He is fair but doubtful that they can change.",
+        "He thinks they do nothing to improve their clothes.",
+        "He admires them completely for their recycled fabrics."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says some are trying, but he is sceptical because their business depends on selling more.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I'm a little sceptical"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why is real sustainability difficult for large companies, according to Tuan?",
+      "options": [
+        "Their designers lack the skills to use linen.",
+        "They refuse to say where clothes come from.",
+        "They must sell more clothes every year."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Their business depends on selling more every year.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "their business depends on selling more every year"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What change would Tuan most like to see?",
+      "options": [
+        "More small shops selling recycled cotton clothes",
+        "A change in attitude towards wearing the same clothes",
+        "Lower prices so that more customers can afford clothes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He wants people to be proud of wearing a favourite coat for years.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "a change in attitude"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is true about online shopping and returns, according to Dr Evans?",
+      "options": [
+        "Many returned items are never resold.",
+        "Online shops refuse to accept any returned clothes.",
+        "Returned items are always sold again at a discount."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Many returned items are not resold, and some are destroyed.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "many returned items are never resold"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Dr Evans feel about destroying returned clothes?",
+      "options": [
+        "She thinks it is sensible.",
+        "She does not mention it.",
+        "She finds it extraordinary."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says it seems extraordinary to her.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "which seems extraordinary to me"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why is recycling clothes difficult?",
+      "options": [
+        "Nobody wants to buy clothes made from recycled fabrics, so they stay unsold.",
+        "Most clothes are made of mixed fabrics, which are hard to separate.",
+        "Cotton cannot be recycled at all, which is why it is thrown away."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mixed fabrics, such as cotton with plastic, are difficult and expensive to separate.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "separating them is difficult and expensive"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "Which solutions does she find most promising?",
+      "options": [
+        "New technology for recycling mixed fabrics",
+        "Buying less, mending and renting",
+        "Free returns on every online order"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She prefers the less glamorous options that only need a change in habit.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "buying fewer things, mending what we own, and renting clothes"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does she ask students to trace a garment from their wardrobe?",
+      "options": [
+        "To test how well they can sew and mend clothes",
+        "To collect old clothes for a local charity shop",
+        "To see how global the industry is"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The task connects the lecture to their own clothes; they will present findings in five minutes.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "trace where it was made"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 // Renderer: UI logic. Talks to the main process only through window.examApi (see preload.js).
 // Shared parts (sidebar, tabs, attempts, result dashboard) live here, together with the
-// reading view. The writing view is in writing.js. Each view is an object with the same
+// reading view. The writing view is in writing.js, the listening view in listening.js. Each view is an object with the same
 // methods, so the shared code can call view().renderBody() etc. without caring about the skill.
 
 const LETTERS = 'ABCDEFGH';
@@ -34,7 +34,8 @@ function el(tag, props = {}, ...children) {
 }
 
 function view(skill = state.exam?.skill) {
-  return skill === 'writing' ? WritingView : ReadingView;
+  if (skill === 'writing') return WritingView;
+  return skill === 'listening' ? ListeningView : ReadingView;
 }
 
 function remember(key, value) {
@@ -226,7 +227,7 @@ async function updateExams() {
     const { added, changed, skipped } = await window.examApi.updateExams();
     state.exams = await window.examApi.listExams();
     if (added) {
-      const bySkill = ['reading', 'writing']
+      const bySkill = ['reading', 'writing', 'listening']
         .map((skill) => [skill, state.exams.filter((e) => e.isNew && e.skill === skill).length])
         .filter(([, n]) => n)
         .map(([skill, n]) => `${n} ${skill}`);
@@ -258,8 +259,10 @@ function renderTest() {
   const v = view();
   $('test-empty').hidden = true;
   $('test-view').hidden = false;
+  stopPlayers(); // listening.js: no audio keeps playing from the previous screen
   $('reading-body').hidden = exam.skill !== 'reading';
   $('writing-body').hidden = exam.skill !== 'writing';
+  $('listening-body').hidden = exam.skill !== 'listening';
 
   $('exam-title').textContent = exam.title;
   $('exam-meta').textContent = v.meta(exam);
@@ -416,7 +419,7 @@ function renderResult() {
   renderHistory();
 
   // Skill-specific sections
-  $('btn-toggle-answers').hidden = state.exam.skill !== 'reading';
+  $('btn-toggle-answers').hidden = state.exam.skill === 'writing';
   $('answers-view').hidden = true;
   $('writing-review').hidden = state.exam.skill !== 'writing';
   $('exercise-review-card').hidden = state.exam.skill !== 'writing';
@@ -594,9 +597,11 @@ function renderReviewPassage() {
   );
 }
 
-function renderAnswerList() {
+// evidenceLabel(ev): where an evidence quote is (reading: its paragraph; listening: its part).
+function renderAnswerList(evidenceLabel) {
   const { paragraphs, questions } = state.result.review;
   const paraIndex = new Map(paragraphs.map((p, i) => [p.id, i + 1]));
+  evidenceLabel ??= (ev) => `Main idea · paragraph ${paraIndex.get(ev.paragraphId)}`;
   const statusText = { correct: 'Valid', incorrect: 'Invalid', unanswered: 'Unanswered' };
   const optionText = (q, i) => (i == null ? '—' : `${LETTERS[i]}. ${q.options[i]}`);
 
@@ -612,7 +617,7 @@ function renderAnswerList() {
         q.status !== 'correct' ? el('div', { className: 'answer-line' }, el('strong', {}, 'Your answer:'), optionText(q, q.userAnswer)) : null,
         ...q.evidence.map((ev) =>
           el('div', { className: 'evidence' },
-            el('div', { className: 'label' }, `Main idea · paragraph ${paraIndex.get(ev.paragraphId)}`),
+            el('div', { className: 'label' }, evidenceLabel(ev)),
             el('q', {}, ev.quote)
           )
         ),
@@ -660,7 +665,7 @@ async function init() {
 
   try {
     state.exams = await window.examApi.listExams();
-    selectSkill(skill === 'writing' ? 'writing' : 'reading');
+    selectSkill(['writing', 'listening'].includes(skill) ? skill : 'reading');
   } catch (err) {
     $('exam-list').replaceChildren(el('li', { className: 'muted' }, `Could not load exams: ${err.message}`));
   }

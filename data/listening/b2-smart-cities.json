@@ -1,0 +1,618 @@
+{
+  "id": "l-b2-smart-cities",
+  "title": "Smart Cities",
+  "level": "B2 · Upper-intermediate",
+  "description": "A radio introduction to smart cities, a discussion between a council officer and a resident, an interview with an engineer and a lecture on the risks of smart technology.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Radio feature: What is a smart city?",
+      "intro": "You will hear a radio presenter introducing a programme about smart cities.",
+      "speakers": {
+        "Presenter": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Presenter",
+          "text": "Good evening. Imagine a city where the traffic lights change according to how many cars are waiting, where bins send a message when they are full, and where your phone tells you the exact minute the next bus will arrive. This is the idea of a smart city."
+        },
+        {
+          "id": "s2",
+          "speaker": "Presenter",
+          "text": "The basic principle is simple. Thousands of small sensors collect information about the city, such as traffic, air quality and energy use. Computers then analyse the data to help the city run more efficiently."
+        },
+        {
+          "id": "s3",
+          "speaker": "Presenter",
+          "text": "The results can be impressive. In one coastal city, sensors in the road told drivers where to find empty parking spaces, and the time spent searching fell by almost a third. Fewer cars driving in circles meant cleaner air as well."
+        },
+        {
+          "id": "s4",
+          "speaker": "Presenter",
+          "text": "But a smart city isn't only about technology. Experts say that the most successful projects begin with a problem that people actually have, not with a clever gadget looking for a use."
+        },
+        {
+          "id": "s5",
+          "speaker": "Presenter",
+          "text": "Not everyone is enthusiastic, though. Some residents worry about being watched, and others ask who owns all the information that is gathered. We'll come back to those concerns later in the programme."
+        },
+        {
+          "id": "s6",
+          "speaker": "Presenter",
+          "text": "First, we go to a town hall, where a council officer is meeting a resident to discuss a new project."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A council officer and a resident",
+      "intro": "You will hear a council officer, Mr Evans, talking to a resident, Mrs Lan, about a smart lighting project.",
+      "speakers": {
+        "Lan": "female",
+        "Evans": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Evans",
+          "text": "Thank you for coming, Mrs Lan. As you know, we plan to replace the street lights in your area with smart ones. They'll be dimmer when no one is around and brighter when someone walks past."
+        },
+        {
+          "id": "s8",
+          "speaker": "Lan",
+          "text": "I see. But I'm a bit worried about that. My street is quiet at night, and if the lights are dim I'll feel less safe walking home."
+        },
+        {
+          "id": "s9",
+          "speaker": "Evans",
+          "text": "I understand that completely. In fact, the lights will stay at about half brightness all night, so they never go dark. And they brighten when they detect movement, which should make people feel safer, not less safe."
+        },
+        {
+          "id": "s10",
+          "speaker": "Lan",
+          "text": "That sounds better. And what are the benefits for the council? Is it just about saving money?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Evans",
+          "text": "Money is part of it. The new lights use about sixty per cent less electricity, and they report faults by themselves, so we don't need to wait for a resident to phone and complain."
+        },
+        {
+          "id": "s12",
+          "speaker": "Lan",
+          "text": "Do the lights have cameras? Somebody told me they record people."
+        },
+        {
+          "id": "s13",
+          "speaker": "Evans",
+          "text": "No, there are no cameras. The sensors only detect movement and count how many people pass. They can't identify anyone, and the information is deleted after a week."
+        },
+        {
+          "id": "s14",
+          "speaker": "Lan",
+          "text": "Good. I would object if there were cameras. Where will you start?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Evans",
+          "text": "We'll begin in your street and the two streets next to it, partly because the old lights there are the oldest. Work starts in March and should be finished within six weeks."
+        },
+        {
+          "id": "s16",
+          "speaker": "Lan",
+          "text": "Right. May I come to the next information evening? I'd like to hear from my neighbours too."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Interview with a transport engineer",
+      "intro": "You will hear a presenter, Linh, interviewing a transport engineer, Dr Tom Reed.",
+      "speakers": {
+        "Linh": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "Dr Reed, your team has been working on reducing traffic in a large city. What was the main idea?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Tom",
+          "text": "We started by asking why people drive to the centre. We discovered that many of them weren't going anywhere important. They simply thought the bus would be unreliable, so they didn't try it."
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "So the problem was trust, not the buses themselves?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Tom",
+          "text": "Largely, yes. Our solution was to give every bus a tracker, and show the real arrival time on a screen at the stop and in an app. Once passengers could see exactly when the bus would arrive, the waiting felt shorter and more people used it."
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "That sounds almost too simple."
+        },
+        {
+          "id": "s22",
+          "speaker": "Tom",
+          "text": "Sometimes the best technology is simple. We also changed the traffic lights so that buses got a green light slightly earlier. That saved each bus about two minutes on a typical route."
+        },
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "Were there any unexpected effects?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Tom",
+          "text": "One, yes. Car drivers complained, because they felt the buses had an unfair advantage. We needed several public meetings to explain that if even a few drivers changed to the bus, the road would be clearer for everyone."
+        },
+        {
+          "id": "s25",
+          "speaker": "Linh",
+          "text": "Has it worked?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Tom",
+          "text": "After two years, bus use is up by about a fifth, and journey times for cars have not become longer. It isn't a miracle, but it's progress, and the people who live there say the centre feels quieter."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Lecture: The risks of smart technology",
+      "intro": "You will hear a university lecturer, Dr Mai Tran, talking about the problems of smart cities.",
+      "speakers": {
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Mai",
+          "text": "So far in this course we've looked at the advantages of smart cities. Today I want to be a little critical and discuss three risks."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mai",
+          "text": "The first is privacy. Even when individual information is anonymous, combining different sets of data can reveal who someone is. For example, if you know where one phone travels each morning and evening, it's not difficult to guess where its owner lives and works."
+        },
+        {
+          "id": "s29",
+          "speaker": "Mai",
+          "text": "The second risk is security. A city that relies on networked systems can be attacked. Imagine a hacker who gets control of traffic lights or the water supply. Cities need to protect these systems as carefully as they protect their bridges and roads."
+        },
+        {
+          "id": "s30",
+          "speaker": "Mai",
+          "text": "The third risk is inequality. Smart projects often begin in wealthy areas, where there is already good internet access. If poorer districts are left behind, the gap between them can grow wider, and the people who most need better services get the least."
+        },
+        {
+          "id": "s31",
+          "speaker": "Mai",
+          "text": "Does this mean smart cities are a bad idea? Not at all. Technology is a tool, and its value depends on how we use it. A well-run project asks residents what they want, publishes clear rules about how data is used, and checks that every neighbourhood benefits."
+        },
+        {
+          "id": "s32",
+          "speaker": "Mai",
+          "text": "My own view is that the real test of a smart city isn't how many sensors it has, but whether life becomes easier and fairer for ordinary people."
+        },
+        {
+          "id": "s33",
+          "speaker": "Mai",
+          "text": "For the seminar next week, please read the case study on the course page and prepare two questions you would ask a city mayor."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What do the sensors in a smart city collect?",
+      "options": [
+        "Information about traffic, air quality and energy use",
+        "Information about shop prices, noise levels and weather forecasts",
+        "Information about drivers' spending, parking fines and bus fares"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The presenter says sensors collect information about traffic, air quality and energy use.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "traffic, air quality and energy use"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What happened in the coastal city with parking sensors?",
+      "options": [
+        "Cars were banned from the centre, so the air became cleaner",
+        "Time spent searching for parking fell by almost a third",
+        "Parking became free after sensors were fitted in the road"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Searching time fell by almost a third.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "the time spent searching fell by almost a third"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What do experts say about successful smart projects?",
+      "options": [
+        "They start from a real problem that people have",
+        "They need as many sensors as the budget allows",
+        "They begin with a clever gadget and then find a use"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Successful projects begin with a problem people actually have.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "begin with a problem that people actually have"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why are some residents not enthusiastic?",
+      "options": [
+        "They think the technology is too slow to be useful",
+        "They worry about being watched and who owns the data",
+        "They believe the new buses will be unreliable and late"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Some worry about being watched and who owns the information.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Some residents worry about being watched"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does the presenter go to a town hall?",
+      "options": [
+        "To hear a council officer and a resident discuss a project",
+        "To interview the mayor about the new town hall budget",
+        "To announce the results of a survey about parking spaces"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He introduces a meeting between a council officer and a resident.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "a council officer is meeting a resident"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "Why is Mrs Lan worried at first?",
+      "options": [
+        "She dislikes any kind of change to her street",
+        "She fears she will feel less safe in dim streets",
+        "She thinks smart lights will cost residents too much"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says dim lights would make her feel less safe walking home.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "I'll feel less safe walking home"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How do the new lights behave at night?",
+      "options": [
+        "They are switched off completely when nobody is around",
+        "They stay fully bright all night, whether or not anyone passes",
+        "They stay at half brightness and brighten when someone passes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The lights stay at about half brightness and brighten with movement.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "they brighten when they detect movement"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What are the benefits for the council?",
+      "options": [
+        "Lower electricity use and automatic fault reports",
+        "Higher taxes and more income from parking charges",
+        "More cameras and faster complaints from residents"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The lights use sixty per cent less electricity and report faults themselves.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "they report faults by themselves"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Mr Evans say about the sensors?",
+      "options": [
+        "They record people's faces and keep the pictures for a week",
+        "They only detect movement and the data is deleted after a week",
+        "They count passers-by and store the data for a whole year"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There are no cameras, and the information is deleted after a week.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "the information is deleted after a week"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Mrs Lan want to come to the next information evening?",
+      "options": [
+        "To complain to the council about the cost of the project",
+        "To hear the opinions of her neighbours",
+        "To vote on whether the new lights should be installed"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she would like to hear from her neighbours too.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "I'd like to hear from my neighbours too"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why did many people drive to the centre?",
+      "options": [
+        "They believed the bus would be unreliable",
+        "They were all going somewhere important in the centre",
+        "They found parking in the centre cheap and easy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They thought the bus would be unreliable and so did not try it.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "They simply thought the bus would be unreliable"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What was the main solution?",
+      "options": [
+        "Showing real arrival times on screens and in an app",
+        "Building new roads so that buses could avoid traffic",
+        "Making bus tickets free for everyone living nearby"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Buses got trackers and the real arrival time was shown at stops and in an app.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "show the real arrival time on a screen at the stop and in an app"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Dr Reed say about simple technology?",
+      "options": [
+        "It is too cheap to be taken seriously",
+        "Sometimes the best technology is simple",
+        "It is never enough without expensive equipment"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says sometimes the best technology is simple.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "Sometimes the best technology is simple."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why did car drivers complain?",
+      "options": [
+        "The new buses were noisy and polluted the centre",
+        "They felt buses had an unfair advantage",
+        "Their journey times became longer than before"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They felt the buses had an unfair advantage.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "they felt the buses had an unfair advantage"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is Dr Reed's conclusion about the project?",
+      "options": [
+        "It is not a miracle but it is progress",
+        "It solved every problem the city had",
+        "It failed because few people used the buses"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Bus use is up by about a fifth and car journeys are no longer; he calls it progress, not a miracle.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "It isn't a miracle, but it's progress"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why can anonymous data still be a privacy risk?",
+      "options": [
+        "Phones can never be made fully anonymous",
+        "Combining data sets can reveal who someone is",
+        "Anonymous data is usually published for everyone"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Combining data, such as a phone's daily route, can reveal where someone lives and works.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "combining different sets of data can reveal who someone is"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is the second risk?",
+      "options": [
+        "The cost of installing so many cameras",
+        "Noise from the sensors in busy streets",
+        "Security: networked systems can be attacked"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A city relying on networked systems could be attacked by hackers.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "A city that relies on networked systems can be attacked"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Dr Tran fear about inequality?",
+      "options": [
+        "Internet access will become too expensive for everyone",
+        "Wealthy people will move out of the city centre",
+        "Poorer districts may be left behind"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "If poorer districts are left behind, the gap can grow wider.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "the gap between them can grow wider"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is her overall view of smart cities?",
+      "options": [
+        "They are useful tools if used fairly and openly",
+        "They are perfect solutions to every urban problem",
+        "They are a bad idea because of the risks"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says smart cities are not a bad idea; value depends on how they are used.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "Technology is a tool"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "What does she mean by the \"real test\" of a smart city?",
+      "options": [
+        "Whether life becomes easier and fairer for ordinary people",
+        "How much money it saves the city each year",
+        "How many sensors it has installed in the streets"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says the test is not the number of sensors but whether life improves for people.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "whether life becomes easier and fairer for ordinary people"
+        }
+      ]
+    }
+  ]
+}

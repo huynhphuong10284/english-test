@@ -1,0 +1,628 @@
+{
+  "id": "l-b1-a-travel-bloggers-story",
+  "title": "A Travel Blogger's Story",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings about a travel blogger: an interview, a story about a bad day, two friends planning a trip and a travel fair announcement.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · An interview",
+      "intro": "You will hear a radio presenter, Tom, interviewing a travel blogger called Sophie.",
+      "speakers": {
+        "Tom": "male",
+        "Sophie": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Tom",
+          "text": "Joining me today is Sophie Lane, a travel blogger whose stories are read by thousands of people. Sophie, how did it all start?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Sophie",
+          "text": "By accident, really. Four years ago I took a gap year and wrote emails to my family about my trip. My aunt said I should put them online, so I started a blog."
+        },
+        {
+          "id": "s3",
+          "speaker": "Tom",
+          "text": "And was it popular straight away?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Sophie",
+          "text": "No, nobody read it for months. My only reader was my aunt! Then one of my photos, a tiny market in the mountains, went viral, and suddenly I had ten thousand followers."
+        },
+        {
+          "id": "s5",
+          "speaker": "Tom",
+          "text": "Do you now travel full time?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Sophie",
+          "text": "Almost. I'm away about eight months of the year. I don't earn a fortune, but companies pay me to write about hotels and tours, and that covers my costs."
+        },
+        {
+          "id": "s7",
+          "speaker": "Tom",
+          "text": "What's the hardest part of the job?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Sophie",
+          "text": "People think I'm always on the beach. In reality, I spend a lot of time on buses and in airports, and writing late at night. It's tiring."
+        },
+        {
+          "id": "s9",
+          "speaker": "Tom",
+          "text": "Where are you going next?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Sophie",
+          "text": "Vietnam. I'm very excited. I've heard the food is amazing."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A bad day in Portugal",
+      "intro": "You will hear Sophie telling a story from her blog.",
+      "speakers": {
+        "Sophie": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Sophie",
+          "text": "I'd like to tell you about the day everything went wrong, on a trip to Portugal last year. It started well. I'd planned to take a small train to a village on the coast, and I was very proud because I'd booked everything weeks in advance."
+        },
+        {
+          "id": "s12",
+          "speaker": "Sophie",
+          "text": "When I arrived at the station, I realised I'd left my ticket in my hotel room. The man at the desk wasn't very helpful. I had to buy a new one, which cost me twelve euros."
+        },
+        {
+          "id": "s13",
+          "speaker": "Sophie",
+          "text": "The train was twenty minutes late, and then it stopped in the middle of nowhere for an hour. Everyone was cross, but an old lady shared her oranges with me, and we chatted in a mixture of English and Portuguese."
+        },
+        {
+          "id": "s14",
+          "speaker": "Sophie",
+          "text": "At last I reached the village, but the hotel I'd booked was closed for repairs. Nobody had told me. I stood in the street with my heavy bag, feeling quite miserable."
+        },
+        {
+          "id": "s15",
+          "speaker": "Sophie",
+          "text": "Then the old lady appeared again. She was visiting her sister, and she took me home for dinner. They gave me a bed for the night, and the next morning her sister showed me the best beach in the area, which isn't in any guidebook."
+        },
+        {
+          "id": "s16",
+          "speaker": "Sophie",
+          "text": "That unlucky day became the best story on my blog. People often ask me where to go. My answer is: go anywhere, but expect problems, because problems make the best memories."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Planning a trip",
+      "intro": "You will hear two friends, Lily and Jake, talking about a blog post.",
+      "speakers": {
+        "Lily": "female",
+        "Jake": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Lily",
+          "text": "Jake, have you seen Sophie's latest blog post about Vietnam? She says we should avoid the big tourist places."
+        },
+        {
+          "id": "s18",
+          "speaker": "Jake",
+          "text": "Really? But I wanted to see Ha Long Bay. Everybody says it's beautiful."
+        },
+        {
+          "id": "s19",
+          "speaker": "Lily",
+          "text": "She says it is, but it's crowded in summer. Her advice is to go in spring or autumn."
+        },
+        {
+          "id": "s20",
+          "speaker": "Jake",
+          "text": "That's not possible for me. I can only travel in July because of my work."
+        },
+        {
+          "id": "s21",
+          "speaker": "Lily",
+          "text": "Then she suggests taking an early boat, before eight o'clock, when there are fewer people."
+        },
+        {
+          "id": "s22",
+          "speaker": "Jake",
+          "text": "OK, that's something. What else does she recommend?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Lily",
+          "text": "Staying with local families instead of hotels. It's cheaper and you learn more about daily life."
+        },
+        {
+          "id": "s24",
+          "speaker": "Jake",
+          "text": "Hmm. I'm not sure. I like having my own bathroom, to be honest."
+        },
+        {
+          "id": "s25",
+          "speaker": "Lily",
+          "text": "Don't be so fussy! But she also says we should take the night train from the capital to the north. It's slow, but you save a night in a hotel."
+        },
+        {
+          "id": "s26",
+          "speaker": "Jake",
+          "text": "Now that I like. How long does it take?"
+        },
+        {
+          "id": "s27",
+          "speaker": "Lily",
+          "text": "About eight hours. We could sleep most of the way."
+        },
+        {
+          "id": "s28",
+          "speaker": "Jake",
+          "text": "All right, you've convinced me. Send me the link, and I'll start planning tonight."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A travel fair",
+      "intro": "You will hear a radio announcement about a travel fair.",
+      "speakers": {
+        "Dan": "male"
+      },
+      "script": [
+        {
+          "id": "s29",
+          "speaker": "Dan",
+          "text": "This is a reminder from Radio Wanderer about this weekend's Travel Fair at the city exhibition centre."
+        },
+        {
+          "id": "s30",
+          "speaker": "Dan",
+          "text": "The fair opens on Saturday at ten and closes at six. On Sunday it opens an hour later, at eleven, and closes at five."
+        },
+        {
+          "id": "s31",
+          "speaker": "Dan",
+          "text": "Tickets cost eight pounds at the door, but if you buy online you pay only six. Children under twelve go in free, and students get a discount of two pounds with a student card."
+        },
+        {
+          "id": "s32",
+          "speaker": "Dan",
+          "text": "During the fair, there will be more than fifty talks. The most popular is by blogger Sophie Lane, on Saturday at two o'clock, about her trip around Vietnam. Seats are limited, so we advise you to arrive early."
+        },
+        {
+          "id": "s33",
+          "speaker": "Dan",
+          "text": "There will also be a photography competition. Bring your best travel photo, printed, and leave it at the main desk before noon on Saturday. The winner receives a flight for two to a European city."
+        },
+        {
+          "id": "s34",
+          "speaker": "Dan",
+          "text": "Please don't drive if you can avoid it. Parking is limited and expensive, but there's a bus every ten minutes from the central station."
+        },
+        {
+          "id": "s35",
+          "speaker": "Dan",
+          "text": "We look forward to seeing you there, and happy travels."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How did Sophie start her blog?",
+      "options": [
+        "She wanted to earn money from ads",
+        "A travel company asked her to write",
+        "Her aunt said to put emails online"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She wrote emails to her family and her aunt said she should put them online.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "My aunt said I should put them online"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What made her blog popular?",
+      "options": [
+        "A photo of a tiny market",
+        "An article about mountain hotels",
+        "A story about her gap year"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "One photo of a tiny market went viral.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "went viral"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How does Sophie pay for her travels?",
+      "options": [
+        "Companies pay her to write about hotels",
+        "She sells her photographs to magazines",
+        "Her aunt gives her money for trips"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says companies pay her and that covers her costs.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "companies pay me to write about hotels and tours"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does Sophie say people wrongly believe about her job?",
+      "options": [
+        "That she is rich",
+        "That she never travels by bus",
+        "That she spends her time on the beach"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says people think she is always on the beach, but the work is tiring.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "People think I'm always on the beach"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where will Sophie go next?",
+      "options": [
+        "The mountains",
+        "A beach resort",
+        "Vietnam"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she is going to Vietnam.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Vietnam. I'm very excited"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What is Sophie talking about?",
+      "options": [
+        "A trip that went wrong but ended well",
+        "A perfect holiday by the sea in Portugal",
+        "A guidebook about the best beaches"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The day began badly but a kind stranger made it a happy memory.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "the day everything went wrong"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What did Sophie forget?",
+      "options": [
+        "Her passport",
+        "Her train ticket",
+        "Her hotel booking"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She left her ticket in her hotel room.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I'd left my ticket in my hotel room"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What happened to the train?",
+      "options": [
+        "It was cancelled that morning",
+        "It arrived ten minutes early",
+        "It stopped for an hour"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It was twenty minutes late and then stopped for an hour.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "it stopped in the middle of nowhere for an hour"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What was wrong with her hotel?",
+      "options": [
+        "It was full that weekend",
+        "It was too expensive for her",
+        "It was closed for repairs"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The hotel was closed for repairs and nobody had told her.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "closed for repairs"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Sophie think about problems when travelling?",
+      "options": [
+        "They happen only to beginners",
+        "They should be avoided at all costs",
+        "They create the best memories"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says that problems make the best memories.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "problems make the best memories"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What are Lily and Jake doing?",
+      "options": [
+        "Booking a hotel for the weekend",
+        "Writing a travel blog together",
+        "Planning a trip with a blogger's advice"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They discuss Sophie's recommendations for their own trip to Vietnam.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "Sophie's latest blog post about Vietnam"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why does Sophie advise against visiting Ha Long Bay in summer?",
+      "options": [
+        "It is too hot in summer",
+        "It is too expensive for tourists",
+        "It is crowded with visitors"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lily says it is beautiful but crowded in summer.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "it's crowded in summer"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What could Jake do, since he can only travel in July?",
+      "options": [
+        "Take a boat very early in the day",
+        "Go in spring instead of summer",
+        "Avoid the bay completely this year"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sophie suggests an early boat before eight when there are fewer people.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "taking an early boat"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Jake feel about staying with a local family?",
+      "options": [
+        "Keen, because it is cheaper",
+        "Unsure, as he likes his bathroom",
+        "Angry that Lily asked him"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he is not sure and likes having his own bathroom.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I'm not sure"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why does Jake like the idea of the night train?",
+      "options": [
+        "It saves paying for a hotel night",
+        "It is much faster than a bus",
+        "It has comfortable beds for sleeping"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Lily says it is slow, but you save a night in a hotel.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "you save a night in a hotel"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why is Dan speaking?",
+      "options": [
+        "To remind listeners about a travel fair",
+        "To introduce a blogger on the radio",
+        "To sell flights to Europe"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He opens by reminding listeners about this weekend's Travel Fair.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "This is a reminder from Radio Wanderer"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What time does the fair open on Sunday?",
+      "options": [
+        "At eleven",
+        "At ten",
+        "At five"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "On Sunday it opens an hour later than ten, at eleven.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "at eleven"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How much does an online ticket cost?",
+      "options": [
+        "Four pounds",
+        "Eight pounds",
+        "Six pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It is eight at the door, but only six online.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "if you buy online you pay only six"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What must people do to enter the photography competition?",
+      "options": [
+        "Leave a printed photo at the main desk",
+        "Send a digital photo by email by Saturday",
+        "Bring a photo with them on Sunday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Photos must be printed and left at the main desk before noon on Saturday.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "leave it at the main desk before noon on Saturday"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does Dan advise listeners to take the bus?",
+      "options": [
+        "The bus is free for everyone",
+        "The fair is closed to all cars",
+        "Parking is limited and expensive"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says parking is limited and expensive, and buses are frequent.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "Parking is limited and expensive"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "id": "l-c2-a-diplomat-on-negotiation",
+  "title": "A Diplomat on Negotiation",
+  "level": "C2 · Proficiency",
+  "description": "An interview with a retired diplomat about interests, silence, cultural differences and why agreements succeed or fail.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Interests and positions",
+      "intro": "You will hear a radio presenter, Helen, interviewing a retired diplomat, Ambassador Reid.",
+      "speakers": {
+        "Helen": "female",
+        "Ambassador Reid": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Helen",
+          "text": "Ambassador Reid, you spent thirty years negotiating on behalf of your country, often in rooms where nobody wanted to be. What did you learn first?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Ambassador Reid",
+          "text": "That listening is not politeness, it's reconnaissance. As a young diplomat I assumed negotiation was about brilliant arguments. My first posting taught me otherwise. I spent six weeks preparing a splendid case, and the other side simply didn't care about it. What they cared about was something I'd dismissed as a technicality."
+        },
+        {
+          "id": "s3",
+          "speaker": "Helen",
+          "text": "Which was?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Ambassador Reid",
+          "text": "Their fishing rights, or rather, what the fishing rights meant to a small coastal town that felt ignored by its own capital. Once I understood that the dispute was about dignity as much as about fish, the figures became easy."
+        },
+        {
+          "id": "s5",
+          "speaker": "Helen",
+          "text": "So positions and interests are different things."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ambassador Reid",
+          "text": "Very different. A position is what someone says they want. An interest is why they want it. Two people can fight bitterly over positions while their interests are perfectly compatible. The classic example is two sisters quarrelling over a single orange. One needs the juice, the other wants the peel for a cake. Nobody asked, so they cut it in half and both went home unhappy."
+        },
+        {
+          "id": "s7",
+          "speaker": "Helen",
+          "text": "That sounds almost too tidy."
+        },
+        {
+          "id": "s8",
+          "speaker": "Ambassador Reid",
+          "text": "It is tidy, and real life is messier, I grant you. Interests are often hidden, even from the people who hold them. But I've found that asking a question like, what would you need to be able to defend this at home, opens more doors than any clever argument."
+        },
+        {
+          "id": "s9",
+          "speaker": "Helen",
+          "text": "Defend it at home?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Ambassador Reid",
+          "text": "Every negotiator has an audience behind them. A deal that humiliates the other delegate in front of that audience will not survive the flight back."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Bluffing, silence and deadlines",
+      "intro": "You will hear the interview with Ambassador Reid continue.",
+      "speakers": {
+        "Helen": "female",
+        "Ambassador Reid": "male"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Helen",
+          "text": "Let's talk about tactics. Many people imagine negotiators as poker players, bluffing and hiding their cards."
+        },
+        {
+          "id": "s12",
+          "speaker": "Ambassador Reid",
+          "text": "A little poker has its place, but I distrust the image. Bluffing works once. Diplomacy is a repeated game, if you'll forgive an academic phrase, and reputations travel faster than aircraft. If you're caught lying in the first week, you'll spend the next ten years not being believed."
+        },
+        {
+          "id": "s13",
+          "speaker": "Helen",
+          "text": "What about silence? I've heard you praise it."
+        },
+        {
+          "id": "s14",
+          "speaker": "Ambassador Reid",
+          "text": "Silence is the most underused instrument we have. Most people can't bear a pause longer than three seconds, and they rush to fill it, usually with a concession. I once sat through what felt like an hour, although my notes say it was under two minutes, while a counterpart studied a document. When he finally spoke, he offered more than I'd dared to ask for."
+        },
+        {
+          "id": "s15",
+          "speaker": "Helen",
+          "text": "Was that luck?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Ambassador Reid",
+          "text": "Partly. But I'd put it differently. I'd created space for him to think, and people tend to be generous when they feel they've reached a conclusion themselves."
+        },
+        {
+          "id": "s17",
+          "speaker": "Helen",
+          "text": "And deadlines? Don't they force agreement?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Ambassador Reid",
+          "text": "They force something, not necessarily agreement. A deadline concentrates minds, certainly, but it also encourages theatre. The famous all-night session is often a ritual, with the real compromise drafted by tired junior officials at four in the morning. I'd rather the compromise were reached by rested ones at four in the afternoon."
+        },
+        {
+          "id": "s19",
+          "speaker": "Helen",
+          "text": "Is that a plea?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Ambassador Reid",
+          "text": "It's a confession. I've been the exhausted official, and some of the agreements we produced then were, frankly, ambiguous in ways that caused trouble for years."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Negotiating across cultures",
+      "intro": "You will hear Ambassador Reid giving a talk to university students.",
+      "speakers": {
+        "Ambassador Reid": "male"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Ambassador Reid",
+          "text": "Good evening. I've been asked to say something about negotiating across cultures, and I'll begin with a warning: most of what you'll read on the subject is stereotype dressed up as science."
+        },
+        {
+          "id": "s22",
+          "speaker": "Ambassador Reid",
+          "text": "You'll be told that one nation prizes directness and another prizes harmony. There's a grain of truth in that, but I've seen blunt diplomats from supposedly indirect cultures, and gentle ones from supposedly blunt ones. The individual matters more than the passport."
+        },
+        {
+          "id": "s23",
+          "speaker": "Ambassador Reid",
+          "text": "What genuinely differs is how people understand time and trust. In some places, trust is built before business, over several dinners in which nobody mentions the agenda. In others, trust is the result of a contract being honoured. Neither is wrong. The mistake is to assume your counterpart shares your sequence."
+        },
+        {
+          "id": "s24",
+          "speaker": "Ambassador Reid",
+          "text": "I once offered a signed document on the second day to a delegation that wanted to talk about families and weather. They were not offended, merely puzzled, as though I had proposed marriage at the first handshake. We lost two days, but, on reflection, those days were not wasted. By the end, they trusted me, and a draft that would have taken months took a week."
+        },
+        {
+          "id": "s25",
+          "speaker": "Ambassador Reid",
+          "text": "Language is the other trap. Even among fluent speakers, phrases such as we'll consider it, or that would be difficult, can mean anything from yes to never. Good interpreters are worth their weight in gold, and not only for the words. They tell you what the silence meant."
+        },
+        {
+          "id": "s26",
+          "speaker": "Ambassador Reid",
+          "text": "So my advice, or rather my three habits, are these. Ask before assuming. Slow down when the other side slows down. And never, ever, treat an interpreter as a machine."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Why agreements fail",
+      "intro": "You will hear the end of the interview with Ambassador Reid.",
+      "speakers": {
+        "Helen": "female",
+        "Ambassador Reid": "male"
+      },
+      "script": [
+        {
+          "id": "s27",
+          "speaker": "Helen",
+          "text": "We're nearly out of time, so let me ask about failure. Which negotiation do you think about most?"
+        },
+        {
+          "id": "s28",
+          "speaker": "Ambassador Reid",
+          "text": "A water-sharing agreement between two neighbouring states that collapsed after three years. On paper, it was beautiful. Technically flawless. But we'd negotiated it with ministers and engineers, and the farmers who actually used the water had never been in the room. When the dry season came, they simply ignored it."
+        },
+        {
+          "id": "s29",
+          "speaker": "Helen",
+          "text": "So the agreement was sound, but nobody owned it."
+        },
+        {
+          "id": "s30",
+          "speaker": "Ambassador Reid",
+          "text": "Exactly. An agreement is not finished when it's signed, only when the people who must live with it believe it's theirs. I now insist, quite stubbornly, on asking one question at the start: who isn't here, and what happens if they say no?"
+        },
+        {
+          "id": "s31",
+          "speaker": "Helen",
+          "text": "There's a fashionable phrase, win-win. Do you use it?"
+        },
+        {
+          "id": "s32",
+          "speaker": "Ambassador Reid",
+          "text": "I avoid it, perhaps unreasonably. It suggests every negotiation can be made painless, and that sets false expectations. Most good agreements are ones in which both sides lose something they wanted and gain something they needed. I'd call that win-enough."
+        },
+        {
+          "id": "s33",
+          "speaker": "Helen",
+          "text": "That's rather less inspiring on a poster."
+        },
+        {
+          "id": "s34",
+          "speaker": "Ambassador Reid",
+          "text": "It is, but posters don't have to be implemented. I'd rather deliver an honest compromise than a slogan that falls apart in the first dry season."
+        },
+        {
+          "id": "s35",
+          "speaker": "Helen",
+          "text": "Finally, what would you say to someone starting out?"
+        },
+        {
+          "id": "s36",
+          "speaker": "Ambassador Reid",
+          "text": "Be curious about people you disagree with. It's not a technique, it's a temperament, though happily temperaments can be trained. Start by trying to state the other side's case so well that they say, yes, that's exactly it. Then, and only then, disagree."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why did Ambassador Reid's first piece of preparation fail?",
+      "options": [
+        "He had misunderstood the other side's language and customs",
+        "The other side cared about something he had dismissed",
+        "He had not allowed enough time for preparation",
+        "The other delegation refused to meet him for six weeks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He prepared a splendid case, but the other side cared about what he had called a technicality.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "What they cared about was something I'd dismissed as a technicality."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does the story about fishing rights suggest about the dispute?",
+      "options": [
+        "It was caused by a long-standing border disagreement",
+        "It was prolonged by the ambassador's own pride",
+        "It was mainly about the price of fish and quotas",
+        "It was partly about a town's wish to be respected"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says the dispute was about dignity as much as about fish, because the town felt ignored by its capital.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "the dispute was about dignity as much as about fish"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Reid mention the two sisters and the orange?",
+      "options": [
+        "To show that interests can be compatible when positions clash",
+        "To prove that compromise always leaves both sides unhappy",
+        "To explain why disputes within families are so difficult",
+        "To suggest that fruit is a common cause of conflict abroad"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "One sister wanted juice and the other peel, so their interests fitted together even though both demanded the whole orange.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "Two people can fight bitterly over positions while their interests are perfectly compatible."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Reid respond when Helen says the example sounds too tidy?",
+      "options": [
+        "He admits the example is misleading and drops the principle",
+        "He refuses to accept her criticism of the example",
+        "He changes the subject back to the fishing dispute",
+        "He concedes that reality is messier but defends the principle"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says it is tidy and real life is messier, then explains that useful questions still reveal hidden interests.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "It is tidy, and real life is messier, I grant you."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does Reid's question about defending a deal at home reveal?",
+      "options": [
+        "Most deals are decided before the talks even begin",
+        "Clever arguments are never persuasive to other delegates",
+        "Delegates prefer to negotiate on their own territory",
+        "Negotiators answer to people who are not at the table"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He explains that every negotiator has an audience behind them, so a deal must not humiliate the other delegate in front of it.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Every negotiator has an audience behind them."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What is Reid's view of bluffing in diplomacy?",
+      "options": [
+        "It is a skill that cannot be learned",
+        "It is the most effective tactic available",
+        "It has limited value because reputations last",
+        "It is acceptable only in the first week of talks"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says bluffing works once, and someone caught lying will not be believed for years.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Bluffing works once."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What did Reid's counterpart do after the long silence?",
+      "options": [
+        "He offered more than Reid had expected",
+        "He rejected the document",
+        "He asked for the meeting to be postponed",
+        "He walked out of the room"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "When the counterpart finally spoke, he offered more than Reid had dared to ask for.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "he offered more than I'd dared to ask for"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Reid think silence can be effective?",
+      "options": [
+        "It makes opponents nervous about their own position",
+        "It gives the speaker time to prepare a better concession",
+        "It shows other delegates that the speaker is patient and calm",
+        "People are more generous when they feel they decided themselves"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says he created space for the man to think, and people tend to be generous when they feel they reached a conclusion themselves.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "people tend to be generous when they feel they've reached a conclusion themselves"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What does Reid imply about all-night negotiating sessions?",
+      "options": [
+        "They are the most reliable way of reaching real agreement",
+        "They are partly ritual, with the drafting left to tired juniors",
+        "They are used mainly when senior officials are away from talks",
+        "They produce clear and lasting agreements for everyone"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He calls them often a ritual, with the compromise drafted by tired junior officials, and he prefers rested officials in the afternoon.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "The famous all-night session is often a ritual"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Reid describe himself as an exhausted official?",
+      "options": [
+        "To complain about the junior staff he used to manage",
+        "To explain why he decided to retire from diplomacy early",
+        "To admit that rushed drafting led to ambiguous agreements",
+        "To show that deadlines usually produce good results"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He calls it a confession and says agreements written when exhausted were ambiguous in ways that caused trouble.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "ambiguous in ways that caused trouble for years"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is Reid's attitude to generalisations about national negotiating styles?",
+      "options": [
+        "He fully agrees that nations have fixed negotiating styles",
+        "He believes they are accurate, but only for blunt cultures",
+        "He is sceptical, since individuals matter more than passports",
+        "He thinks they are useful as a guide for beginners"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says most writing on the subject is stereotype dressed up as science, and the individual matters more than the passport.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "The individual matters more than the passport."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "According to Reid, what genuinely differs between cultures?",
+      "options": [
+        "How people understand time and trust",
+        "How directly they speak to their counterparts",
+        "How much they enjoy long dinners together",
+        "How quickly they are willing to sign contracts"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says what genuinely differs is how people understand time and trust, not directness or harmony.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "What genuinely differs is how people understand time and trust."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does the story of the signed document suggest?",
+      "options": [
+        "Early delay was worth it because trust later saved time",
+        "The delegation was offended by his behaviour on day two",
+        "The talks were abandoned after the first two days",
+        "Documents should never be offered on the first day"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He lost two days, but the delegation came to trust him and a draft that would have taken months took a week.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "a draft that would have taken months took a week"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What point does Reid make about phrases such as that would be difficult?",
+      "options": [
+        "They are used only by weak speakers of a foreign language",
+        "They are polite ways of saying yes without committing",
+        "Their meaning can vary widely and needs careful interpretation",
+        "They always mean that the speaker intends to refuse"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says such phrases can mean anything from yes to never, even among fluent speakers.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "can mean anything from yes to never"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Reid say an interpreter should never be treated as a machine?",
+      "options": [
+        "Interpreters are paid much less than translation machines",
+        "Machines make more mistakes with grammar and idiom",
+        "Interpreters should be trusted more than the delegates are",
+        "Interpreters explain the meaning of things like silence"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says good interpreters are valuable not only for the words, because they tell you what the silence meant.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "They tell you what the silence meant."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why did the water-sharing agreement collapse?",
+      "options": [
+        "The engineers made technical errors in the design",
+        "The ministers refused to sign the final text",
+        "Both states wanted more water than they had expected",
+        "The farmers who used the water had not been involved"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Reid says ministers and engineers negotiated it, but the farmers had never been in the room, so they ignored it in the dry season.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "the farmers who actually used the water had never been in the room"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "inference",
+      "text": "According to Reid, when is an agreement truly finished?",
+      "options": [
+        "When the ministers and engineers have approved it",
+        "When the final draft has been signed by both sides",
+        "When it has survived for its first three years",
+        "When the people affected feel it belongs to them"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says it is finished only when the people who must live with it believe it is theirs.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "only when the people who must live with it believe it's theirs"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "Why does Reid avoid the phrase win-win?",
+      "options": [
+        "It suggests deals can be painless, which is misleading",
+        "It describes deals where only one side really gains",
+        "It makes the other side suspicious of the speaker",
+        "It is too old-fashioned for modern diplomatic work"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it sets false expectations, because most good agreements involve each side losing something it wanted.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "It suggests every negotiation can be made painless"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Reid say that posters do not have to be implemented?",
+      "options": [
+        "To criticise the way diplomacy is advertised to the public",
+        "To argue that agreements need less planning than people think",
+        "To suggest that slogans are easy for people to remember",
+        "To defend honest compromise against attractive slogans"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He replies to Helen's joke by saying he prefers an honest compromise to a slogan that falls apart.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "I'd rather deliver an honest compromise than a slogan"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What advice does Reid give to someone starting out?",
+      "options": [
+        "Learn several languages before taking the first posting",
+        "State the other side's case fairly before disagreeing",
+        "Avoid people who hold strongly opposing views to yours",
+        "Practise bluffing with friends to gain confidence"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He advises stating the other side's case so well that they say it is exactly right, and only then disagreeing.",
+      "evidence": [
+        {
+          "lineId": "s36",
+          "quote": "Then, and only then, disagree."
+        }
+      ]
+    }
+  ]
+}

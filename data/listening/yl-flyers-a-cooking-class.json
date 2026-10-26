@@ -1,0 +1,589 @@
+{
+  "id": "l-yl-f-a-cooking-class",
+  "title": "A Cooking Class",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about a children's cooking class: booking, a chef's talk, tasting and a message.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Booking a class",
+      "intro": "You will hear Lan phoning a cooking school.",
+      "speakers": {
+        "Lan": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Tom",
+          "text": "Good morning. Sunshine Cooking School. Tom speaking."
+        },
+        {
+          "id": "s2",
+          "speaker": "Lan",
+          "text": "Hello. I'd like to book a cooking class for my brother, please. He's ten."
+        },
+        {
+          "id": "s3",
+          "speaker": "Tom",
+          "text": "Of course. We have a class on Saturday morning at ten o'clock. Oh, sorry, I mean Sunday. The Saturday class is full."
+        },
+        {
+          "id": "s4",
+          "speaker": "Lan",
+          "text": "Sunday is fine. How much is it?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Tom",
+          "text": "It's fifteen pounds, and that includes all the food. The children make a pizza and take it home."
+        },
+        {
+          "id": "s6",
+          "speaker": "Lan",
+          "text": "Wonderful. Does he need to bring anything?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Tom",
+          "text": "Just an apron. If he hasn't got one, we can lend him one for two pounds."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The chef's rules",
+      "intro": "You will hear Chef Paul talking to the children at the start of the class.",
+      "speakers": {
+        "Chef Paul": "male"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Chef Paul",
+          "text": "Welcome, everyone! Before we start, here are three rules. First, wash your hands with soap. Second, tie back your long hair."
+        },
+        {
+          "id": "s9",
+          "speaker": "Chef Paul",
+          "text": "Third, never use a knife on your own. Ask a helper, and we will cut the vegetables together."
+        },
+        {
+          "id": "s10",
+          "speaker": "Chef Paul",
+          "text": "For the dough, you need flour, warm water, a little salt and some yeast. Mix it for ten minutes."
+        },
+        {
+          "id": "s11",
+          "speaker": "Chef Paul",
+          "text": "Then we leave the dough for one hour. It becomes soft and big. While we wait, we will make the tomato sauce."
+        },
+        {
+          "id": "s12",
+          "speaker": "Chef Paul",
+          "text": "At the end, we put the pizza in the oven for twenty minutes. Be careful. The oven is very hot!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Tasting",
+      "intro": "You will hear Mai and Nam tasting their pizza.",
+      "speakers": {
+        "Mai": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s13",
+          "speaker": "Mai",
+          "text": "Mmm, Nam, your pizza smells great! What did you put on it?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Nam",
+          "text": "Cheese, tomatoes and sweet corn. I don't like mushrooms, so I didn't use any."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mai",
+          "text": "I put mushrooms and ham on mine. Can I try a little of yours?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "Of course. Oh no, I think I used too much salt in the dough."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mai",
+          "text": "It's not bad. It's just a bit salty. Try mine."
+        },
+        {
+          "id": "s18",
+          "speaker": "Nam",
+          "text": "Wow, it's delicious! Which is your favourite part of the lesson?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Mai",
+          "text": "Making the dough, because it's like playing with clay. And you?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Nam",
+          "text": "Eating it, of course!"
+        },
+        {
+          "id": "s21",
+          "speaker": "Mai",
+          "text": "I'm going to make this pizza again at home. My mum loves cheese, so I'll put lots on hers."
+        },
+        {
+          "id": "s22",
+          "speaker": "Nam",
+          "text": "Good idea. I'll make one for my dad, but with less salt this time!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A message from the school",
+      "intro": "You will hear a voicemail from the teacher, Chef Rosa.",
+      "speakers": {
+        "Chef Rosa": "female"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Chef Rosa",
+          "text": "Hello, everybody. This is Chef Rosa. Thank you for coming to our class. You all made wonderful pizzas!"
+        },
+        {
+          "id": "s24",
+          "speaker": "Chef Rosa",
+          "text": "Next week, we will make chocolate cakes. The class is on Sunday at two o'clock, not in the morning."
+        },
+        {
+          "id": "s25",
+          "speaker": "Chef Rosa",
+          "text": "Please bring a plastic box so that you can carry your cake home. And please tell me if you can't eat eggs or nuts."
+        },
+        {
+          "id": "s26",
+          "speaker": "Chef Rosa",
+          "text": "After the class, there is a small cooking competition for the best cake. The winner will get a free cook book. Everyone else will get a small certificate, so nobody goes home with nothing."
+        },
+        {
+          "id": "s27",
+          "speaker": "Chef Rosa",
+          "text": "If you have any questions, please phone the school office. See you soon!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Who is the class for?",
+      "options": [
+        "Lan's sister",
+        "Lan's brother",
+        "Lan's friend"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Lan wants to book a class for her brother.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "for my brother"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which day is the class?",
+      "options": [
+        "Sunday",
+        "Friday",
+        "Saturday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom corrects himself: Sunday, because Saturday is full.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "I mean Sunday"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How much is the class?",
+      "options": [
+        "Fifteen pounds",
+        "Ten pounds",
+        "Two pounds"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The class is fifteen pounds. Two pounds is for borrowing an apron.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "It's fifteen pounds"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What do the children make?",
+      "options": [
+        "A cake",
+        "Soup",
+        "A pizza"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They make a pizza and take it home.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "The children make a pizza"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What must the boy bring?",
+      "options": [
+        "Some money",
+        "Some food",
+        "An apron"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He just needs an apron.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "Just an apron."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What must the children do first?",
+      "options": [
+        "Cut the vegetables",
+        "Tie back their hair",
+        "Wash their hands"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The first rule is to wash your hands with soap.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "wash your hands with soap"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who should use the knives?",
+      "options": [
+        "Nobody",
+        "The children alone",
+        "A helper with the children"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The children must ask a helper and cut vegetables together.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "Ask a helper"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long do the children mix the dough?",
+      "options": [
+        "Twenty minutes",
+        "One hour",
+        "Ten minutes"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They mix it for ten minutes. One hour is the waiting time.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Mix it for ten minutes."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What do they do while the dough rests?",
+      "options": [
+        "Make tomato sauce",
+        "Eat lunch",
+        "Wash up"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "While they wait, they make the tomato sauce.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "we will make the tomato sauce"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How long does the pizza stay in the oven?",
+      "options": [
+        "Twenty minutes",
+        "One hour",
+        "Ten minutes"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The pizza goes in the oven for twenty minutes.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "in the oven for twenty minutes"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is on Nam's pizza?",
+      "options": [
+        "Cheese, tomatoes and sweet corn",
+        "Mushrooms and ham",
+        "Only cheese"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam put cheese, tomatoes and sweet corn on his pizza.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "Cheese, tomatoes and sweet corn."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Nam think about mushrooms?",
+      "options": [
+        "He loves them.",
+        "He has never seen them.",
+        "He doesn't like them."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he does not like mushrooms.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "I don't like mushrooms"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is the problem with Nam's pizza?",
+      "options": [
+        "It is too salty.",
+        "It is too cold.",
+        "It is burnt."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam used too much salt, so it is a bit salty.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "I used too much salt in the dough."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Mai like best in the lesson?",
+      "options": [
+        "Eating",
+        "Making the dough",
+        "Cutting vegetables"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai likes making the dough because it is like clay.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Making the dough"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Nam like best?",
+      "options": [
+        "Eating the pizza",
+        "Making sauce",
+        "Cleaning the kitchen"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam jokes: \"Eating it, of course!\"",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Eating it, of course!"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why is Chef Rosa calling?",
+      "options": [
+        "To say thank you and tell about next week",
+        "To ask for money",
+        "To cancel the class"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She thanks the children and gives news about the next class.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "Thank you for coming to our class."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What will they make next week?",
+      "options": [
+        "Soup",
+        "Chocolate cakes",
+        "Pizzas"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Next week they will make chocolate cakes.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "we will make chocolate cakes"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What time is the next class?",
+      "options": [
+        "At four o'clock",
+        "At two o'clock",
+        "In the morning"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The class is at two o'clock, not in the morning.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "two o'clock, not in the morning"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What should the children bring?",
+      "options": [
+        "Eggs",
+        "A plastic box",
+        "An apron"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They should bring a plastic box for their cake.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "bring a plastic box"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is the prize for the best cake?",
+      "options": [
+        "A new apron",
+        "A day out",
+        "A free cook book"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The winner will get a free cook book.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "a free cook book"
+        }
+      ]
+    }
+  ]
+}

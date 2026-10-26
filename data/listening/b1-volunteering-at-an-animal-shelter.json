@@ -1,0 +1,643 @@
+{
+  "id": "l-b1-volunteering-at-an-animal-shelter",
+  "title": "Volunteering at an Animal Shelter",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings about helping at an animal shelter: a first meeting, a volunteers' talk, a chat about a dog and a phone message.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Joining as a volunteer",
+      "intro": "You will hear a teenager, Jack, talking to a shelter coordinator, Linh.",
+      "speakers": {
+        "Linh": "female",
+        "Jack": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "Hello, Jack. Thanks for coming in. So, you'd like to volunteer at our animal shelter?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Jack",
+          "text": "Yes, please. I saw your poster at the library. I'm free on Saturdays and on Sunday mornings."
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "Great. We need the most help on Saturdays. We start at eight, but you can come at nine if that's easier."
+        },
+        {
+          "id": "s4",
+          "speaker": "Jack",
+          "text": "Nine would be better, thanks. I have a swimming lesson at seven, so eight is a bit early for me."
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "Now, what experience do you have with animals?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Jack",
+          "text": "We have a dog at home, and I used to look after my neighbour's rabbits. I'm not so sure about cats, though. I'm a bit afraid of them."
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "Don't worry. Most new volunteers begin with the dogs. You'll walk them, fill their water bowls and clean the kennels. Later, if you like, you can help in the cat room."
+        },
+        {
+          "id": "s8",
+          "speaker": "Jack",
+          "text": "That sounds good. Do I need to buy anything special?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Linh",
+          "text": "Just old clothes and strong boots. We give you a green shirt with our name on it, and we provide the gloves."
+        },
+        {
+          "id": "s10",
+          "speaker": "Jack",
+          "text": "Perfect. When can I start?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Linh",
+          "text": "This Saturday. Please bring a form signed by your parents, because you're only sixteen."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The volunteers' meeting",
+      "intro": "You will hear the manager, Mr Harris, speaking at a volunteers' meeting.",
+      "speakers": {
+        "Mr Harris": "male"
+      },
+      "script": [
+        {
+          "id": "s12",
+          "speaker": "Mr Harris",
+          "text": "Good morning, everyone, and welcome to our monthly volunteers' meeting. I'll be quick, because I know you all want to see the new puppies."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mr Harris",
+          "text": "First, some good news. Last month we found homes for thirty-two animals, which is our best result this year. Well done, everybody."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mr Harris",
+          "text": "Second, our adoption day is on the fourteenth of June, not the twelfth as it says on the website. We're going to correct that today."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mr Harris",
+          "text": "On adoption day, we need six people to welcome visitors and four more to show the dogs in the garden. Please put your name on the sheet by the door."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mr Harris",
+          "text": "Now, a reminder about the rules. Visitors may not feed the animals, even if they say it's only a small biscuit. Some of our dogs have special diets, and the wrong food can make them ill."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mr Harris",
+          "text": "Also, please don't promise a visitor that a certain dog is a good pet for children. Ask one of the staff. We want every animal to find the right family, not just the first family."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mr Harris",
+          "text": "Finally, the roof of the cat room has a leak. The builders are coming on Thursday, so for two days the cats will stay in the main hall. It will be noisy, so I'm sorry about that."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mr Harris",
+          "text": "That's all from me. There are cakes in the kitchen, made by Mrs Parker, so please help yourselves."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A difficult dog",
+      "intro": "You will hear two volunteers, Mai and Tom, talking about a dog called Rocky.",
+      "speakers": {
+        "Mai": "female",
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "Hi, Tom. You look tired. Did you have a hard day with Rocky?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Tom",
+          "text": "Honestly, yes. He pulled on the lead the whole walk, and then he wouldn't come back inside. I think he's bored."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mai",
+          "text": "He's only two years old and he's full of energy. I usually take him to the field behind the shelter so he can run."
+        },
+        {
+          "id": "s23",
+          "speaker": "Tom",
+          "text": "I didn't know we were allowed. I thought the field was only for staff."
+        },
+        {
+          "id": "s24",
+          "speaker": "Mai",
+          "text": "Actually, volunteers can use it as long as they ask first. Also, try giving him a toy. He loves the red rubber ball."
+        },
+        {
+          "id": "s25",
+          "speaker": "Tom",
+          "text": "Good idea. By the way, I heard a family is coming to see him on Saturday."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mai",
+          "text": "Yes, but I'm not sure he's right for them. They have two small children, and Rocky likes to jump up at people."
+        },
+        {
+          "id": "s27",
+          "speaker": "Tom",
+          "text": "That's true. Maybe the manager will suggest an older dog instead."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mai",
+          "text": "I hope so. I'd hate for him to be returned. It happened to a dog last winter, and it was very sad for everyone."
+        },
+        {
+          "id": "s29",
+          "speaker": "Tom",
+          "text": "Well, I'll spend extra time training him this week. If he learns to sit calmly, he'll have a better chance."
+        },
+        {
+          "id": "s30",
+          "speaker": "Mai",
+          "text": "That's a lovely plan. I'll help you after lunch on Thursday, if you like."
+        },
+        {
+          "id": "s31",
+          "speaker": "Tom",
+          "text": "Thanks, Mai. That would be brilliant."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A recorded message",
+      "intro": "You will hear a recorded message from Hillside Animal Shelter.",
+      "speakers": {
+        "Sara": "female"
+      },
+      "script": [
+        {
+          "id": "s32",
+          "speaker": "Sara",
+          "text": "Thank you for calling Hillside Animal Shelter. Our office is closed at the moment, so please listen carefully to this message."
+        },
+        {
+          "id": "s33",
+          "speaker": "Sara",
+          "text": "We are open to visitors from ten in the morning until four in the afternoon, Tuesday to Sunday. We are closed on Mondays. On the last Sunday of every month, we close early, at two o'clock, for cleaning."
+        },
+        {
+          "id": "s34",
+          "speaker": "Sara",
+          "text": "If you'd like to adopt a pet, you must first fill in a form, which you can find on our website. After that, we'll invite you for a short interview and ask you to meet the animal at least twice."
+        },
+        {
+          "id": "s35",
+          "speaker": "Sara",
+          "text": "The adoption fee is fifty pounds for a cat and seventy pounds for a dog. This covers the vet check, the first injections and a microchip. It does not include food, so you'll need to buy that separately."
+        },
+        {
+          "id": "s36",
+          "speaker": "Sara",
+          "text": "If you've found a lost or injured animal, please don't wait for us to open. Call the emergency number, which is on our front door and on our website, and a member of staff will help you."
+        },
+        {
+          "id": "s37",
+          "speaker": "Sara",
+          "text": "If you'd like to give something instead of adopting, we always need blankets, towels and dog toys. We cannot accept old food because of safety rules. Please leave your gifts at the front desk."
+        },
+        {
+          "id": "s38",
+          "speaker": "Sara",
+          "text": "Thank you for caring about animals, and we hope to see you soon."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why has Jack come to the shelter?",
+      "options": [
+        "To ask about becoming a volunteer",
+        "To ask about adopting a young dog",
+        "To bring back a neighbour's rabbit"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he would like to volunteer and saw the poster at the library.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "you'd like to volunteer"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time will Jack start on Saturdays?",
+      "options": [
+        "At seven",
+        "At eight",
+        "At nine"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nine would be better for him. Seven is the time of his swimming lesson.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Nine would be better"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Which animal is Jack a little afraid of?",
+      "options": [
+        "Cats",
+        "Rabbits",
+        "Dogs"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he is a bit afraid of cats.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I'm a bit afraid of them"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Jack do first at the shelter?",
+      "options": [
+        "Work in the cat room",
+        "Look after the dogs",
+        "Answer the phone"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "New volunteers usually begin with the dogs; the cat room comes later.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "Most new volunteers begin with the dogs"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What must Jack bring on his first day?",
+      "options": [
+        "A form signed by his parents",
+        "A green shirt with the shelter's name",
+        "A pair of gloves for the kennels"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The shelter provides the gloves and the shirt, but he must bring a signed form.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "Please bring a form signed by your parents"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why is Mr Harris speaking?",
+      "options": [
+        "To train new volunteers for adoption day",
+        "To give volunteers news and reminders",
+        "To ask for money for the new puppies"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He welcomes people to the monthly meeting and gives news, dates and rules.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "welcome to our monthly volunteers' meeting"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How many animals found homes last month?",
+      "options": [
+        "Thirty-two",
+        "Twenty-two",
+        "Forty-two"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says they found homes for thirty-two animals.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "thirty-two animals"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When is the adoption day?",
+      "options": [
+        "On the fourteenth of June",
+        "On Thursday, when the builders come",
+        "On the twelfth, as on the website"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The website says the twelfth, but that is wrong. The correct date is the fourteenth.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "not the twelfth as it says on the website"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why must visitors not feed the animals?",
+      "options": [
+        "The shelter sells its own food",
+        "Some animals could become ill",
+        "The animals are never hungry"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Some dogs have special diets and the wrong food can make them ill.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "the wrong food can make them ill"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why will the cats be in the main hall?",
+      "options": [
+        "Visitors want to see them on adoption day",
+        "They are going to the vet for injections",
+        "The roof of their room needs repairs"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The cat room roof has a leak and the builders are coming.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "the roof of the cat room has a leak"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What are Mai and Tom mainly talking about?",
+      "options": [
+        "A dog that is ill",
+        "A family that wants to volunteer",
+        "A dog that is hard to manage"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom had a hard day because Rocky pulls and will not come in.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "He pulled on the lead the whole walk"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why is Rocky difficult, according to Mai?",
+      "options": [
+        "He is very old",
+        "He is afraid of people",
+        "He has a lot of energy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says he is only two years old and full of energy.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "he's full of energy"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where can volunteers take Rocky to run?",
+      "options": [
+        "To the field behind the shelter",
+        "To the garden where dogs are shown",
+        "To the public park near the library"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Volunteers may use the field if they ask first.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "to the field behind the shelter"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Mai feel about the family's visit?",
+      "options": [
+        "Worried that Rocky may not suit them",
+        "Excited that a family wants Rocky",
+        "Angry that Rocky was returned last winter"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she is not sure he is right for a family with two small children.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I'm not sure he's right for them"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When will Mai help Tom train Rocky?",
+      "options": [
+        "On Thursday afternoon",
+        "Tonight, when the shelter closes",
+        "On Saturday, when the family visits"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She offers to help after lunch on Thursday.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "after lunch on Thursday"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "On which day is the shelter closed all day?",
+      "options": [
+        "Monday",
+        "Sunday",
+        "Tuesday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The caller hears: \"We are closed on Mondays.\"",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "We are closed on Mondays"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What time does the shelter close on the last Sunday of the month?",
+      "options": [
+        "Four o'clock",
+        "Ten o'clock",
+        "Two o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It usually closes at four, but on the last Sunday it closes early, at two.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "we close early, at two o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How much does it cost to adopt a dog?",
+      "options": [
+        "Seventy pounds",
+        "One hundred pounds",
+        "Fifty pounds"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Fifty pounds is the price for a cat; a dog costs seventy.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "seventy pounds for a dog"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is NOT included in the adoption fee?",
+      "options": [
+        "Food",
+        "A microchip",
+        "A vet check"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The fee covers the vet check, injections and a microchip, but not food.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "It does not include food"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "What should a caller do after finding an injured animal?",
+      "options": [
+        "Wait until the shelter opens in the morning",
+        "Leave it at the front desk of the shelter",
+        "Phone the emergency number straight away"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The message says not to wait for the shelter to open but to call the emergency number.",
+      "evidence": [
+        {
+          "lineId": "s36",
+          "quote": "please don't wait for us to open"
+        }
+      ]
+    }
+  ]
+}

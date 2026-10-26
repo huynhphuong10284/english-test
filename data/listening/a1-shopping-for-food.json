@@ -1,0 +1,603 @@
+{
+  "id": "l-a1-shopping-for-food",
+  "title": "Shopping for Food",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about buying food: a shopping list, a market, a supermarket announcement and a phone message.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Making a shopping list",
+      "intro": "You will hear Mum and her son Ben at home before going shopping.",
+      "speakers": {
+        "Ben": "male",
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mum",
+          "text": "Ben, let's make a shopping list. What do we need?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Ben",
+          "text": "We need milk. There's no milk in the fridge."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mum",
+          "text": "Yes. Two bottles, please. And we need eggs. Six eggs."
+        },
+        {
+          "id": "s4",
+          "speaker": "Ben",
+          "text": "Can we buy some bananas? I eat one every morning."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mum",
+          "text": "OK. Also some tomatoes and a cucumber for the salad."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ben",
+          "text": "What about meat? Dad likes chicken."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mum",
+          "text": "We have chicken in the freezer. But we need rice. A big bag."
+        },
+        {
+          "id": "s8",
+          "speaker": "Ben",
+          "text": "And some biscuits, please!"
+        },
+        {
+          "id": "s9",
+          "speaker": "Mum",
+          "text": "No biscuits today, Ben. We have a lot of fruit at home."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · At the market",
+      "intro": "You will hear a woman, Mrs Kim, buying fruit from a seller.",
+      "speakers": {
+        "Seller": "male",
+        "Mrs Kim": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Seller",
+          "text": "Good morning! Fresh fruit today. Can I help you?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Kim",
+          "text": "Yes, please. How much are the apples?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Seller",
+          "text": "Two pounds a kilo. The oranges are three pounds a kilo."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mrs Kim",
+          "text": "I'll take two kilos of apples, please."
+        },
+        {
+          "id": "s14",
+          "speaker": "Seller",
+          "text": "Anything else? The strawberries are lovely today."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mrs Kim",
+          "text": "They look good, but they're expensive. I'll take one kilo of oranges instead."
+        },
+        {
+          "id": "s16",
+          "speaker": "Seller",
+          "text": "That's seven pounds altogether. Would you like a bag?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Mrs Kim",
+          "text": "No, thanks. I have my own bag. Here is ten pounds."
+        },
+        {
+          "id": "s18",
+          "speaker": "Seller",
+          "text": "Thank you. Here's your change, three pounds. Goodbye!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A supermarket announcement",
+      "intro": "You will hear an announcement in a supermarket.",
+      "speakers": {
+        "Announcer": "female"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Announcer",
+          "text": "Good afternoon, shoppers. Welcome to Fresh Mart. Here are today's special offers."
+        },
+        {
+          "id": "s20",
+          "speaker": "Announcer",
+          "text": "Bread is half price this afternoon. Buy a loaf for only one pound."
+        },
+        {
+          "id": "s21",
+          "speaker": "Announcer",
+          "text": "Cheese and yoghurt are on sale in aisle five. Chicken is in aisle seven."
+        },
+        {
+          "id": "s22",
+          "speaker": "Announcer",
+          "text": "Children can get a free apple at the fruit counter. Please ask for one."
+        },
+        {
+          "id": "s23",
+          "speaker": "Announcer",
+          "text": "Please remember, the shop closes at eight o'clock tonight, one hour earlier than usual. Thank you for shopping with us."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A phone message",
+      "intro": "You will hear Linh leaving a message for her brother Minh.",
+      "speakers": {
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Linh",
+          "text": "Hi, Minh. It's Linh. I'm at the shop, but I forgot my shopping list!"
+        },
+        {
+          "id": "s25",
+          "speaker": "Linh",
+          "text": "Can you help me remember? I have bread and cheese, but I'm not sure about the rest."
+        },
+        {
+          "id": "s26",
+          "speaker": "Linh",
+          "text": "Do we need butter? And how many eggs do we need for the cake?"
+        },
+        {
+          "id": "s27",
+          "speaker": "Linh",
+          "text": "Please look in the fridge and the cupboard. Then call me back."
+        },
+        {
+          "id": "s28",
+          "speaker": "Linh",
+          "text": "Also, a lot of people are here, so the queue is long. I think I'll be at least twenty minutes."
+        },
+        {
+          "id": "s29",
+          "speaker": "Linh",
+          "text": "I want to buy some fresh strawberries for the top of the cake, too. They look so nice today."
+        },
+        {
+          "id": "s30",
+          "speaker": "Linh",
+          "text": "Thanks, Minh. You're the best!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What are Mum and Ben doing?",
+      "options": [
+        "Eating breakfast",
+        "Making a shopping list",
+        "Cooking dinner"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says: let's make a shopping list.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "let's make a shopping list"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many bottles of milk do they need?",
+      "options": [
+        "Two",
+        "Six",
+        "One"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum asks for two bottles. Six is the number of eggs.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "Two bottles, please"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Why does Ben want bananas?",
+      "options": [
+        "His dad likes them.",
+        "He eats one every morning.",
+        "They are cheap."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ben says he eats one every morning.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I eat one every morning"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why don't they need chicken?",
+      "options": [
+        "They have some in the freezer.",
+        "Dad doesn't like it.",
+        "It is too expensive."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They already have chicken in the freezer.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "We have chicken in the freezer"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What won't Mum buy?",
+      "options": [
+        "Tomatoes",
+        "Rice",
+        "Biscuits"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mum says no biscuits today.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "No biscuits today"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much are the apples?",
+      "options": [
+        "Three pounds a kilo",
+        "Two pounds a kilo",
+        "Seven pounds a kilo"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Apples are two pounds a kilo. The oranges are three.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Two pounds a kilo"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How many kilos of apples does Mrs Kim buy?",
+      "options": [
+        "One",
+        "Three",
+        "Two"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She buys two kilos of apples.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "two kilos of apples"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "Why doesn't Mrs Kim buy strawberries?",
+      "options": [
+        "They are too expensive.",
+        "They are bad.",
+        "She doesn't like them."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says they look good but they're expensive.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "they're expensive"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much does she pay altogether?",
+      "options": [
+        "Seven pounds",
+        "Three pounds",
+        "Ten pounds"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The total is seven pounds. Ten pounds is the money she gives.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "seven pounds altogether"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why doesn't she want a bag?",
+      "options": [
+        "Bags are expensive.",
+        "She has her own bag.",
+        "She is in a hurry."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she has her own bag.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I have my own bag"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is the announcement about?",
+      "options": [
+        "Special offers in a shop",
+        "A lost child",
+        "A new restaurant"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The announcer gives today's special offers.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Here are today's special offers"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How much is a loaf of bread today?",
+      "options": [
+        "One pound",
+        "Two pounds",
+        "Half a pound"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Bread is half price, only one pound.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "for only one pound"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where is the cheese?",
+      "options": [
+        "In aisle seven",
+        "At the fruit counter",
+        "In aisle five"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Cheese and yoghurt are in aisle five. Chicken is in aisle seven.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "in aisle five"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What can children get for free?",
+      "options": [
+        "An apple",
+        "A bag",
+        "A biscuit"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Children can get a free apple.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "a free apple at the fruit counter"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "When does the shop usually close?",
+      "options": [
+        "At nine o'clock",
+        "At seven o'clock",
+        "At eight o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Today it closes at eight, one hour earlier than usual, so usually at nine.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "one hour earlier than usual"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Linh call Minh?",
+      "options": [
+        "She lost her money.",
+        "She forgot her shopping list.",
+        "She wants a lift home."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh forgot her list and asks Minh to help her remember.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I forgot my shopping list"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What has Linh already got?",
+      "options": [
+        "Butter and eggs",
+        "Milk and rice",
+        "Bread and cheese"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She has bread and cheese.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "I have bread and cheese"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is the food for?",
+      "options": [
+        "A salad",
+        "A soup",
+        "A cake"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She asks how many eggs they need for the cake.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "for the cake"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where should Minh look?",
+      "options": [
+        "In his room",
+        "In the fridge and the cupboard",
+        "In the garden"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She asks him to look in the fridge and the cupboard.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "look in the fridge and the cupboard"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why will Linh be late?",
+      "options": [
+        "The shop is far away.",
+        "She is waiting for a bus.",
+        "The queue is long."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "A lot of people are in the shop, so the queue is long.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "the queue is long"
+        }
+      ]
+    }
+  ]
+}

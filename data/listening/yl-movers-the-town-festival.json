@@ -1,0 +1,418 @@
+{
+  "id": "l-yl-m-the-town-festival",
+  "title": "The Town Festival",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about a festival in the town square.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Making plans",
+      "intro": "You will hear Mai and Jack talking about the town festival.",
+      "speakers": {
+        "Mai": "female",
+        "Jack": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Jack, are you going to the town festival on Saturday?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Jack",
+          "text": "Of course, Mai! It's in the main square, from ten o'clock until nine at night."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "There's a parade at eleven. My sister is playing the guitar."
+        },
+        {
+          "id": "s4",
+          "speaker": "Jack",
+          "text": "Cool! I want to see the dancers. And I want to try the food. Last year the noodles were delicious."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "I'll meet you by the fountain at half past ten. No, wait, my dad will bring me early. Let's meet at ten."
+        },
+        {
+          "id": "s6",
+          "speaker": "Jack",
+          "text": "OK. I'll bring some money for ice cream. It will be a very busy day, so I think we should go early and stay late."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A festival announcement",
+      "intro": "You will hear the festival organiser, Mr Cole, speaking to the crowd.",
+      "speakers": {
+        "Mr Cole": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Mr Cole",
+          "text": "Good morning, everyone, and welcome to the town festival. I'm Mr Cole, the organiser."
+        },
+        {
+          "id": "s8",
+          "speaker": "Mr Cole",
+          "text": "At twelve o'clock there is a dance show on the big stage. At one o'clock there's a cooking competition. The winner gets a golden spoon."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mr Cole",
+          "text": "For children, there's a face-painting tent next to the bank, and games for everyone near the fountain."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mr Cole",
+          "text": "Please keep the square clean and use the bins. If you lose something, go to the information desk by the church."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mr Cole",
+          "text": "The fireworks begin at nine o'clock. Enjoy the day! Thank you for coming, and please remember to look after your friends and family."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A phone message",
+      "intro": "You will hear Jack leave a message for Mai.",
+      "speakers": {
+        "Jack": "male"
+      },
+      "script": [
+        {
+          "id": "s12",
+          "speaker": "Jack",
+          "text": "Hi, Mai. It's Jack. I'm at the festival, but I can't find you!"
+        },
+        {
+          "id": "s13",
+          "speaker": "Jack",
+          "text": "I'm standing by the ice cream stall, the one with the blue umbrella. I've just seen your sister's parade. She was fantastic!"
+        },
+        {
+          "id": "s14",
+          "speaker": "Jack",
+          "text": "I took lots of photos on my phone. Also, I won a small teddy bear at the ring game. It's for you."
+        },
+        {
+          "id": "s15",
+          "speaker": "Jack",
+          "text": "Please call me when you arrive. I'll wait here until twelve. Then we can walk around together and find some food. I'm really hungry!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the festival?",
+      "options": [
+        "At school",
+        "In the main square",
+        "In the park"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Jack says it is in the main square.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "It's in the main square"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time does the parade start?",
+      "options": [
+        "At ten o'clock",
+        "At nine o'clock",
+        "At eleven o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The parade is at eleven. Ten o'clock is when the festival starts.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "There's a parade at eleven."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Mai's sister play?",
+      "options": [
+        "The drum",
+        "The guitar",
+        "The piano"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai's sister is playing the guitar.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "My sister is playing the guitar."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What was delicious last year?",
+      "options": [
+        "Cake",
+        "Noodles",
+        "Ice cream"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Jack says the noodles were delicious.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Last year the noodles were delicious."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When will they meet?",
+      "options": [
+        "At half past ten",
+        "At eleven o'clock",
+        "At ten o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai changes the time: they will meet at ten.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "Let's meet at ten."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why is Mr Cole speaking?",
+      "options": [
+        "To welcome people and give information",
+        "To sell tickets",
+        "To say the festival is cancelled"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He welcomes everyone and tells them what is happening.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "welcome to the town festival"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What happens at twelve o'clock?",
+      "options": [
+        "A cooking competition",
+        "A dance show",
+        "Fireworks"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There is a dance show at twelve. The cooking competition is at one.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "At twelve o'clock there is a dance show on the big stage."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does the winner of the cooking competition get?",
+      "options": [
+        "A golden spoon",
+        "A big cake",
+        "A golden cup"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The winner gets a golden spoon.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "The winner gets a golden spoon."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where is the face-painting tent?",
+      "options": [
+        "Near the fountain",
+        "Next to the bank",
+        "By the church"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It is next to the bank.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "a face-painting tent next to the bank"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What happens at nine o'clock?",
+      "options": [
+        "Games",
+        "Dancing",
+        "Fireworks"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The fireworks begin at nine o'clock.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "The fireworks begin at nine o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Jack call Mai?",
+      "options": [
+        "He cannot find her.",
+        "He is going home.",
+        "He wants to buy ice cream."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Jack says he is at the festival but can't find Mai.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I can't find you!"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where is Jack standing?",
+      "options": [
+        "By the ice cream stall",
+        "By the fountain",
+        "By the stage"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He is standing by the ice cream stall.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "I'm standing by the ice cream stall"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Jack think about Mai's sister?",
+      "options": [
+        "She was fantastic.",
+        "She was late.",
+        "She was loud."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Jack says she was fantastic.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "She was fantastic!"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did Jack win?",
+      "options": [
+        "A hat",
+        "A ball",
+        "A teddy bear"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He won a small teddy bear.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "I won a small teddy bear"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How long will Jack wait?",
+      "options": [
+        "Until two",
+        "Until twelve",
+        "Until one"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he will wait until twelve.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "I'll wait here until twelve."
+        }
+      ]
+    }
+  ]
+}

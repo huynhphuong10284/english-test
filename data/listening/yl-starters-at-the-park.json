@@ -1,0 +1,353 @@
+{
+  "id": "l-yl-s-at-the-park",
+  "title": "At the Park",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about children playing at the park.",
+  "instructions": "Read the questions first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Going to the park",
+      "intro": "You will hear Mai and her dad.",
+      "speakers": {
+        "Dad": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "Dad, can we go to the park?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Dad",
+          "text": "Yes! It is sunny today."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "Can I take my bike?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Dad",
+          "text": "No, Mai. Take your ball."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "OK, Dad. Let us go!"
+        },
+        {
+          "id": "s6",
+          "speaker": "Dad",
+          "text": "Wear your hat, Mai. The sun is hot."
+        },
+        {
+          "id": "s7",
+          "speaker": "Mai",
+          "text": "OK, Dad. I have my hat and my water."
+        },
+        {
+          "id": "s8",
+          "speaker": "Dad",
+          "text": "Have fun, and play in the sunshine. I will sit and read."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · In the park",
+      "intro": "You will hear Mai talking about the park.",
+      "speakers": {
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Mai",
+          "text": "I can see a big tree and two ducks."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mai",
+          "text": "The ducks are on the lake. They are white."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mai",
+          "text": "There is a boy on the swing. He is happy."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mai",
+          "text": "There are many flowers near the tree. They are pink and red."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mai",
+          "text": "I love this park. It is so nice."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mai",
+          "text": "The grass is green and very soft. I like to run on it."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A new friend",
+      "intro": "You will hear Mai and a boy called Minh.",
+      "speakers": {
+        "Minh": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Minh",
+          "text": "Hello! Do you want to play?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "Yes, please! What is your name?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Minh",
+          "text": "I am Minh. I am seven."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "I am seven too! Let us play with my ball."
+        },
+        {
+          "id": "s19",
+          "speaker": "Minh",
+          "text": "Great! I love football."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "Do you come here every day, Minh?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Minh",
+          "text": "Yes, with my big sister. She is over there."
+        },
+        {
+          "id": "s22",
+          "speaker": "Minh",
+          "text": "Tomorrow I want to bring my kite. It is red."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "Where do Mai and her dad go?",
+      "options": [
+        "To a shop",
+        "To the park",
+        "To school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai asks to go to the park and Dad says yes.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "can we go to the park"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is the weather like?",
+      "options": [
+        "Cold",
+        "Sunny",
+        "Rainy"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dad says it is sunny today.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "It is sunny today."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Mai take?",
+      "options": [
+        "Her bike",
+        "Her bag",
+        "Her ball"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dad says no to the bike. Mai takes her ball.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Take your ball."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How many ducks can Mai see?",
+      "options": [
+        "One",
+        "Ten",
+        "Two"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai can see two ducks.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "a big tree and two ducks"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where are the ducks?",
+      "options": [
+        "In the tree",
+        "On the lake",
+        "On the swing"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The ducks are on the lake.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "The ducks are on the lake."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What colour are the ducks?",
+      "options": [
+        "Brown",
+        "Black",
+        "White"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says they are white.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "They are white."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How is the boy on the swing?",
+      "options": [
+        "Sad",
+        "Tired",
+        "Happy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says he is happy.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "He is happy."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How old is Minh?",
+      "options": [
+        "Eight",
+        "Six",
+        "Seven"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Minh says he is seven.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I am seven."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What do they play with?",
+      "options": [
+        "A kite",
+        "A bike",
+        "A ball"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says, \"Let us play with my ball.\"",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "play with my ball"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "Does Minh love football?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Minh says, \"I love football.\"",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I love football."
+        }
+      ]
+    }
+  ]
+}

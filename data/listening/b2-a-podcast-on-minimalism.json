@@ -1,0 +1,689 @@
+{
+  "id": "l-b2-a-podcast-on-minimalism",
+  "title": "A Podcast on Minimalism",
+  "level": "B2 · Upper-intermediate",
+  "description": "Four recordings about minimalism: a podcast introduction, two friends decluttering, an interview with an author and a disagreement between flatmates.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A podcast introduction",
+      "intro": "You will hear Hana introducing the first episode of her podcast about minimalism.",
+      "speakers": {
+        "Hana": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Hana",
+          "text": "Hello and welcome to Simple Living. I'm Hana, and in this first episode I want to answer a question I get asked all the time: what actually is minimalism?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Hana",
+          "text": "Many people picture an empty white room with one chair and a single plant. That image is misleading. Minimalism isn't about owning as little as possible. It's about owning only what adds value to your life, and letting go of the rest."
+        },
+        {
+          "id": "s3",
+          "speaker": "Hana",
+          "text": "For me, the turning point came three years ago, when I moved flats. I discovered that I owned eleven coats, although I only wore two of them. I'd been paying to store and clean things I never used."
+        },
+        {
+          "id": "s4",
+          "speaker": "Hana",
+          "text": "I started with a simple rule: if I haven't used something for a year, it goes. I expected to feel sad. Instead, I felt lighter, and I saved time every morning because choosing what to wear became so easy."
+        },
+        {
+          "id": "s5",
+          "speaker": "Hana",
+          "text": "My friends thought I'd gone a bit strange at first. One of them even asked whether I was planning to run away to the mountains. But after a few months, several of them were quietly asking me for advice."
+        },
+        {
+          "id": "s6",
+          "speaker": "Hana",
+          "text": "Of course, minimalism isn't magic. It won't make you happy by itself, and it's easy to turn it into another competition, with people boasting about how little they own. That rather misses the point."
+        },
+        {
+          "id": "s7",
+          "speaker": "Hana",
+          "text": "What it can do is give you space, in your home, your budget and your attention. In this series, I'll be talking to people who've tried it, and I promise not to ask anyone to throw away their books."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Two friends",
+      "intro": "You will hear Ben visiting his friend Linh, who has been decluttering her flat.",
+      "speakers": {
+        "Ben": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Ben",
+          "text": "Linh, your flat looks enormous! Did you move the furniture?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Linh",
+          "text": "No, I got rid of it. Well, half of it. I've been following a decluttering challenge for the past month."
+        },
+        {
+          "id": "s10",
+          "speaker": "Ben",
+          "text": "A challenge? What does that involve?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Linh",
+          "text": "On day one you throw away one thing, on day two, two things, and so on. By the end of the month, you've let go of nearly five hundred items."
+        },
+        {
+          "id": "s12",
+          "speaker": "Ben",
+          "text": "Five hundred? Where did it all go?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Linh",
+          "text": "Some to charity shops, some to friends, and I sold a few things online. I made about ninety pounds from an old camera."
+        },
+        {
+          "id": "s14",
+          "speaker": "Ben",
+          "text": "Ninety? I'd have thought it was worth more. Anyway, wasn't it hard to let go of stuff?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "The hardest part was sentimental things. Cards, old school books, my grandmother's teapot. In the end, I kept the teapot and took photos of the rest."
+        },
+        {
+          "id": "s16",
+          "speaker": "Ben",
+          "text": "Clever. I couldn't do it. My place is a disaster, and I always say I'll tidy up at the weekend."
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "Start small. Do one drawer, not the whole house. Honestly, the first drawer is the most difficult."
+        },
+        {
+          "id": "s18",
+          "speaker": "Ben",
+          "text": "Hmm. Would you help me this Saturday?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "Only if you promise not to keep every cable you own."
+        },
+        {
+          "id": "s20",
+          "speaker": "Ben",
+          "text": "Deal. Though I might need them."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · An interview with an author",
+      "intro": "You will hear a presenter, Minh, interviewing Clara, the author of a book about living with less.",
+      "speakers": {
+        "Minh": "male",
+        "Clara": "female"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Minh",
+          "text": "My guest is Clara, author of a book called Enough. Clara, what made you write it?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Clara",
+          "text": "Frustration, mostly. I worked in advertising for ten years, and my job was to persuade people they needed things they didn't. One day, I looked around my own house and realised I'd fallen for my own tricks."
+        },
+        {
+          "id": "s23",
+          "speaker": "Minh",
+          "text": "That's a striking confession. Did you quit?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Clara",
+          "text": "Not straight away. I stayed another year, partly because of the mortgage. But I changed how I lived, and eventually I left to write."
+        },
+        {
+          "id": "s25",
+          "speaker": "Minh",
+          "text": "Some critics say minimalism is a luxury. You need money to throw things away and buy better ones."
+        },
+        {
+          "id": "s26",
+          "speaker": "Clara",
+          "text": "There's some truth in that, and I take the criticism seriously. If you can't afford a new coat, you shouldn't throw away the old one. For me, minimalism means being thoughtful rather than wasteful. It can mean repairing, borrowing, and buying second-hand."
+        },
+        {
+          "id": "s27",
+          "speaker": "Minh",
+          "text": "So it's more about attitude than possessions."
+        },
+        {
+          "id": "s28",
+          "speaker": "Clara",
+          "text": "Exactly. A person with a tiny flat full of objects they love can be more of a minimalist than someone with a huge, empty house who is constantly buying the next gadget."
+        },
+        {
+          "id": "s29",
+          "speaker": "Minh",
+          "text": "I imagine that attitude affects how you shop, too."
+        },
+        {
+          "id": "s30",
+          "speaker": "Clara",
+          "text": "Hugely. I wait a month before buying anything expensive. About half the time, I discover that I've simply forgotten about it."
+        },
+        {
+          "id": "s31",
+          "speaker": "Minh",
+          "text": "And what would you say to someone who feels overwhelmed by their belongings?"
+        },
+        {
+          "id": "s32",
+          "speaker": "Clara",
+          "text": "Don't judge yourself. Ask one question about each item: does this make my life better today? If the answer is no, you have your answer."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Flatmates",
+      "intro": "You will hear two flatmates, Emma and Nam, talking about their living room.",
+      "speakers": {
+        "Emma": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s33",
+          "speaker": "Emma",
+          "text": "Nam, I've been thinking about the living room. It's full of your stuff, and I'd like to clear some of it."
+        },
+        {
+          "id": "s34",
+          "speaker": "Nam",
+          "text": "My stuff? The shelf of games is mine, I admit, but the sofa and the lamp are both yours."
+        },
+        {
+          "id": "s35",
+          "speaker": "Emma",
+          "text": "True, but I'm thinking about the boxes by the window. You've had them for six months."
+        },
+        {
+          "id": "s36",
+          "speaker": "Nam",
+          "text": "They're for my hobby. I'm going to build a model railway one day."
+        },
+        {
+          "id": "s37",
+          "speaker": "Emma",
+          "text": "One day. You've said that since March. Honestly, I think we'd both be calmer in a tidier space. I read that clutter increases stress."
+        },
+        {
+          "id": "s38",
+          "speaker": "Nam",
+          "text": "I'm not convinced. I'm actually more relaxed when I'm surrounded by things I like. A bare room feels cold, like a hospital waiting room."
+        },
+        {
+          "id": "s39",
+          "speaker": "Emma",
+          "text": "I'm not suggesting a bare room. I'd just like a clear table and a floor I can walk across."
+        },
+        {
+          "id": "s40",
+          "speaker": "Nam",
+          "text": "That's reasonable, I suppose. What if I give myself a deadline? If I haven't started the railway by the end of next month, I'll sell the boxes."
+        },
+        {
+          "id": "s41",
+          "speaker": "Emma",
+          "text": "Deal. And I'll move my plants to the balcony to make room, so it's fair on both of us."
+        },
+        {
+          "id": "s42",
+          "speaker": "Nam",
+          "text": "All right. But the games stay."
+        },
+        {
+          "id": "s43",
+          "speaker": "Emma",
+          "text": "The games can stay."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the main purpose of Hana's talk?",
+      "options": [
+        "To criticise the way people shop in modern cities",
+        "To explain what minimalism really means",
+        "To sell the things she no longer needs online",
+        "To describe her new flat after she moved"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she wants to answer the question: what actually is minimalism?",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "what actually is minimalism?"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "According to Hana, what is minimalism about?",
+      "options": [
+        "Keeping only things that add value",
+        "Buying expensive furniture that lasts a lifetime",
+        "Living in an empty white room with one chair",
+        "Owning as little as possible, whatever the cost"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says it is not about owning as little as possible, but about owning only what adds value.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "owning only what adds value to your life"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many of her coats did Hana wear regularly?",
+      "options": [
+        "Two",
+        "Eleven",
+        "Nine",
+        "Three"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She owned eleven coats but only wore two.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "I only wore two of them"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What benefit did Hana notice after getting rid of things?",
+      "options": [
+        "She saved time in the morning",
+        "She earned a lot of money from her coats",
+        "She moved to a bigger and cheaper flat",
+        "She made new friends who shared her ideas"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Choosing what to wear became easy, so she saved time every morning.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I saved time every morning"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Hana feel about people who boast about owning very little?",
+      "options": [
+        "She admires them for owning so little",
+        "She wants to join them in the competition",
+        "She finds it funny and rather entertaining",
+        "She thinks it misses the point"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says it rather misses the point of minimalism.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "That rather misses the point."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does the decluttering challenge involve?",
+      "options": [
+        "Selling one item online every single week",
+        "Giving away all of your furniture at once",
+        "Throwing away one more item each day",
+        "Cleaning one room of the flat every day"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "On day one you throw away one thing, on day two two things, and so on.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "On day one you throw away one thing, on day two, two things"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much money did Linh get for her old camera?",
+      "options": [
+        "About five hundred pounds",
+        "About fifty pounds",
+        "About ninety pounds",
+        "About nine pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She made about ninety pounds. Five hundred is the number of items she let go.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "about ninety pounds from an old camera"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What did Linh find hardest to let go of?",
+      "options": [
+        "The camera she had owned for years",
+        "Things with sentimental value",
+        "Clothes that she had hardly ever worn",
+        "Furniture she had bought with her savings"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the hardest part was sentimental things such as cards and school books.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "The hardest part was sentimental things."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Which item did Linh decide to keep?",
+      "options": [
+        "The old camera she had bought herself",
+        "Her old school books from childhood",
+        "Her grandmother's old teapot",
+        "Some cards from her friends"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She kept the teapot and took photos of the rest.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "I kept the teapot"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "What advice does Linh give Ben?",
+      "options": [
+        "Wait until the weekend and then do the whole house",
+        "Buy more storage boxes for all the cables",
+        "Start with something small, like one drawer",
+        "Throw everything away at once to feel lighter"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She tells him to do one drawer, not the whole house.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "Do one drawer, not the whole house."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why did Clara write her book?",
+      "options": [
+        "She was frustrated by her job in advertising",
+        "She needed to earn money to pay her mortgage",
+        "She lost her job in advertising after ten years",
+        "She wanted to become famous as an author"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says frustration was the reason: her job was to persuade people to buy things they did not need.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "Frustration, mostly."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why did Clara not leave her job straight away?",
+      "options": [
+        "She enjoyed the work too much",
+        "She had a mortgage to pay",
+        "She was waiting for a promotion",
+        "Her boss asked her to stay"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She stayed another year partly because of the mortgage.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "partly because of the mortgage"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Clara react to the criticism that minimalism is a luxury?",
+      "options": [
+        "She rejects it completely and refuses to discuss it",
+        "She accepts there is some truth in it",
+        "She becomes annoyed and ends the conversation",
+        "She ignores the question and talks about shopping"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says there is some truth in it and she takes the criticism seriously.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "There's some truth in that"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does minimalism mean to Clara?",
+      "options": [
+        "Owning exactly one hundred things in total",
+        "Buying the newest gadgets once a month",
+        "Having an empty house with a few chairs",
+        "Being thoughtful rather than wasteful"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says it means being thoughtful rather than wasteful, including repairing and borrowing.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "being thoughtful rather than wasteful"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What question should people ask about each item?",
+      "options": [
+        "Could I sell it for a good price?",
+        "Does it make my life better today?",
+        "How much did it cost me originally?",
+        "Who gave it to me, and when?"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her advice is to ask whether the item makes your life better today.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "does this make my life better today?"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Emma talk to Nam?",
+      "options": [
+        "She wants him to pay a larger share of the rent",
+        "She wants to clear some of the living room",
+        "She wants to replace the sofa and the lamp",
+        "She wants to move out because of the boxes"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the room is full of his stuff and she would like to clear some of it.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "I'd like to clear some of it."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How long have the boxes been by the window?",
+      "options": [
+        "Six months",
+        "A year",
+        "Two months",
+        "Two weeks"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Emma says he has had them for six months.",
+      "evidence": [
+        {
+          "lineId": "s35",
+          "quote": "You've had them for six months."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Nam feel about a bare room?",
+      "options": [
+        "He finds it calming and good for his stress",
+        "He finds it cold and unwelcoming",
+        "He does not mind it as long as it is clean",
+        "He finds it modern and stylish for a flat"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says a bare room feels cold, like a hospital waiting room.",
+      "evidence": [
+        {
+          "lineId": "s38",
+          "quote": "A bare room feels cold"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What compromise does Nam suggest?",
+      "options": [
+        "He will throw away his games by the end of March",
+        "He will move out if the boxes are not cleared",
+        "He will buy new shelves to store the boxes",
+        "He will sell the boxes if the railway is not started"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He sets himself a deadline and says he will sell the boxes if he has not started.",
+      "evidence": [
+        {
+          "lineId": "s40",
+          "quote": "I'll sell the boxes"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What will Emma do to be fair?",
+      "options": [
+        "Throw out her lamp to make some space",
+        "Put her plants on the balcony",
+        "Buy a bigger table for the living room",
+        "Sell her sofa to pay for a tidier room"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she will move her plants to the balcony to make room.",
+      "evidence": [
+        {
+          "lineId": "s41",
+          "quote": "I'll move my plants to the balcony"
+        }
+      ]
+    }
+  ]
+}

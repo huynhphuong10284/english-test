@@ -1,0 +1,363 @@
+{
+  "id": "l-yl-s-my-birthday-cake",
+  "title": "My Birthday Cake",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about birthday cakes: a birthday at home, baking a cake and a party.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Happy birthday!",
+      "intro": "You will hear Mai and her dad.",
+      "speakers": {
+        "Dad": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Dad",
+          "text": "Happy birthday, Mai! Are you seven today?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Mai",
+          "text": "Yes, Dad! I'm seven. Where is my cake?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Dad",
+          "text": "Here it is. It's a chocolate cake."
+        },
+        {
+          "id": "s4",
+          "speaker": "Mai",
+          "text": "Yummy! I wanted a strawberry cake, but chocolate is good."
+        },
+        {
+          "id": "s5",
+          "speaker": "Dad",
+          "text": "Look at the candles. How many can you see?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Mai",
+          "text": "I can see seven candles. They are pink and blue."
+        },
+        {
+          "id": "s7",
+          "speaker": "Dad",
+          "text": "Now make a wish, Mai, and blow out the candles."
+        },
+        {
+          "id": "s8",
+          "speaker": "Mai",
+          "text": "I wish for a puppy! Thank you, Dad. This is the best day."
+        },
+        {
+          "id": "s9",
+          "speaker": "Dad",
+          "text": "Happy birthday again, my girl. Let's eat the cake now."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Making a cake",
+      "intro": "You will hear Ben and his mum.",
+      "speakers": {
+        "Mum": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Mum",
+          "text": "Ben, let's make a cake for Grandma."
+        },
+        {
+          "id": "s11",
+          "speaker": "Ben",
+          "text": "Yes! What do we need?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Mum",
+          "text": "We need eggs, milk and sugar."
+        },
+        {
+          "id": "s13",
+          "speaker": "Ben",
+          "text": "I have the eggs. Is the milk on the table?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Mum",
+          "text": "No, it's in the fridge."
+        },
+        {
+          "id": "s15",
+          "speaker": "Ben",
+          "text": "Can I put the sugar in?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Mum",
+          "text": "Yes, but be careful."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mum",
+          "text": "Good. Now we put the cake in the oven for one hour."
+        },
+        {
+          "id": "s18",
+          "speaker": "Ben",
+          "text": "I can smell it already! I love baking with you, Mum."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mum",
+          "text": "Me too. Grandma will be very happy."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · My party",
+      "intro": "You will hear a boy called Tom.",
+      "speakers": {
+        "Tom": "male"
+      },
+      "script": [
+        {
+          "id": "s20",
+          "speaker": "Tom",
+          "text": "Hello! Today is my party. My friends come at three o'clock."
+        },
+        {
+          "id": "s21",
+          "speaker": "Tom",
+          "text": "We eat cake and play games. We go home at four o'clock."
+        },
+        {
+          "id": "s22",
+          "speaker": "Tom",
+          "text": "I have a big red balloon. My friend Linh gives me a present. It is a book."
+        },
+        {
+          "id": "s23",
+          "speaker": "Tom",
+          "text": "We sing a song and I blow out the candles. It is a happy day."
+        },
+        {
+          "id": "s24",
+          "speaker": "Tom",
+          "text": "My cake is big and very sweet. I love my party."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How old is Mai?",
+      "options": [
+        "Seven",
+        "Six",
+        "Eight"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Dad and Mai say she is seven.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I'm seven"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What kind of cake is it?",
+      "options": [
+        "Strawberry",
+        "Chocolate",
+        "Banana"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Dad says it is a chocolate cake. Mai wanted strawberry.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "It's a chocolate cake"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many candles are there?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai can see seven candles.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I can see seven candles"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Does Mai like the cake?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes. She says \"Yummy!\" and \"chocolate is good\".",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "chocolate is good"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who is the cake for?",
+      "options": [
+        "Dad",
+        "Grandma",
+        "Ben"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says they make a cake for Grandma.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "make a cake for Grandma"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where is the milk?",
+      "options": [
+        "In the bag",
+        "In the fridge",
+        "On the table"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says the milk is in the fridge, not on the table.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "it's in the fridge"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Ben put in the cake?",
+      "options": [
+        "Eggs",
+        "Milk",
+        "Sugar"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Ben asks to put the sugar in and Mum says yes.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Can I put the sugar in?"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time do the friends come?",
+      "options": [
+        "At two o'clock",
+        "At four o'clock",
+        "At three o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The friends come at three o'clock. Four o'clock is when they go home.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "My friends come at three o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What colour is the balloon?",
+      "options": [
+        "Green",
+        "Red",
+        "Blue"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom says he has a big red balloon.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "a big red balloon"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is Tom's present?",
+      "options": [
+        "A car",
+        "A ball",
+        "A book"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Linh gives him a book.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "It is a book"
+        }
+      ]
+    }
+  ]
+}

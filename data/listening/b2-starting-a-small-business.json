@@ -1,0 +1,664 @@
+{
+  "id": "l-b2-starting-a-small-business",
+  "title": "Starting a Small Business",
+  "level": "B2 · Upper-intermediate",
+  "description": "Four recordings about starting a business: a radio interview with a baker, a meeting at a bank, a lecture on marketing and a talk between business partners.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A radio interview",
+      "intro": "You will hear a radio presenter, Lan, interviewing Marcus, who owns a bakery.",
+      "speakers": {
+        "Lan": "female",
+        "Marcus": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Lan",
+          "text": "Welcome to Business Breakfast. My guest this morning is Marcus, who opened a bakery three years ago and now has three shops. Marcus, was this always your dream?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Marcus",
+          "text": "Not at all. I trained as an engineer. I only started baking at weekends because I was stressed, and my colleagues kept asking me to bring in bread. After about a year, I realised I enjoyed that far more than my day job."
+        },
+        {
+          "id": "s3",
+          "speaker": "Lan",
+          "text": "That's quite a leap, from engineer to baker. How did you pay for it?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Marcus",
+          "text": "Partly savings, and partly a small loan from my uncle. I didn't go to a bank at first, because I couldn't show them any profits. Looking back, borrowing from family was risky, but it gave me time to learn."
+        },
+        {
+          "id": "s5",
+          "speaker": "Lan",
+          "text": "What was the hardest part?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Marcus",
+          "text": "Hours. I got up at three every morning for the first two years. And I made a classic mistake: I tried to offer thirty different products, when really we were known for just three loaves. We wasted a lot of flour."
+        },
+        {
+          "id": "s7",
+          "speaker": "Lan",
+          "text": "So what changed?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Marcus",
+          "text": "I cut the menu to ten items and the customers actually spent more, because choosing became easier. Our profits rose by about a third within six months."
+        },
+        {
+          "id": "s9",
+          "speaker": "Lan",
+          "text": "What would you tell someone thinking of starting a business?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Marcus",
+          "text": "Test your idea cheaply before you quit your job. Sell at a market stall for a few weekends. If strangers keep coming back, you've got something."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · At the bank",
+      "intro": "You will hear a bank adviser, Mr Okoye, talking to a customer, Thu, about a loan.",
+      "speakers": {
+        "Mr Okoye": "male",
+        "Thu": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Mr Okoye",
+          "text": "Good morning, Miss Thu. I've read your application. You'd like to borrow five thousand pounds to start an online shop selling handmade candles. Is that right?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Thu",
+          "text": "Yes, though I've been selling at craft fairs for two years, so it isn't completely new. Last year I made around four thousand pounds in sales."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mr Okoye",
+          "text": "Sales or profit?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Thu",
+          "text": "Sales. After materials and stall fees, the profit was closer to one thousand five hundred."
+        },
+        {
+          "id": "s15",
+          "speaker": "Mr Okoye",
+          "text": "Thank you for being clear. Some applicants confuse the two. Now, what would the loan be spent on?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Thu",
+          "text": "About two thousand for equipment, including a bigger wax melter, one thousand for a website, and the rest for stock and advertising."
+        },
+        {
+          "id": "s17",
+          "speaker": "Mr Okoye",
+          "text": "That seems sensible. My concern is the website. Many small businesses spend heavily on one and get few visitors. Have you considered using an existing marketplace instead?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Thu",
+          "text": "I have, but the fees are high, around fifteen per cent of every sale. I'd keep more profit with my own site, and customers would remember my brand."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mr Okoye",
+          "text": "A fair argument. Here's my suggestion. I can approve three thousand now, and the remaining two thousand after six months, if your online sales reach your target."
+        },
+        {
+          "id": "s20",
+          "speaker": "Thu",
+          "text": "That's less than I hoped for, but it's reasonable. When would I know?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Mr Okoye",
+          "text": "I'll email you by Friday."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A lecture on marketing",
+      "intro": "You will hear part of a lecture by Dr Carter about marketing for small businesses.",
+      "speakers": {
+        "Dr Carter": "female"
+      },
+      "script": [
+        {
+          "id": "s22",
+          "speaker": "Dr Carter",
+          "text": "Good morning. Last week we looked at finance. Today we turn to a problem every small business faces: how do you get customers when you have almost no money for advertising?"
+        },
+        {
+          "id": "s23",
+          "speaker": "Dr Carter",
+          "text": "The first principle is to know exactly who your customer is. Beginners often say, my product is for everyone. In reality, that usually means it's for no one. The most successful small firms I've studied can describe a single typical customer in remarkable detail, even down to what she reads and where she shops."
+        },
+        {
+          "id": "s24",
+          "speaker": "Dr Carter",
+          "text": "Second, use word of mouth. Research consistently shows that people trust recommendations from friends far more than any advertisement. So make it easy to recommend you. One florist I know puts a small card in every bouquet, offering ten per cent off for the recipient's friends."
+        },
+        {
+          "id": "s25",
+          "speaker": "Dr Carter",
+          "text": "Third, be visible locally. Sponsor a school team, run a free workshop, attend community events. These cost little, yet they build trust in a way that a flashy poster never will."
+        },
+        {
+          "id": "s26",
+          "speaker": "Dr Carter",
+          "text": "Now, a warning. Many owners spend their first month's budget on social media advertising and see no results. That doesn't mean social media is useless, but unless you've defined your customer and your message, you're simply paying to shout into a crowd."
+        },
+        {
+          "id": "s27",
+          "speaker": "Dr Carter",
+          "text": "In next week's seminar, I'd like each of you to bring a one-page description of your ideal customer for a business of your choice."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Business partners",
+      "intro": "You will hear two business partners, Sara and Minh, talking about their shop.",
+      "speakers": {
+        "Sara": "female",
+        "Minh": "male"
+      },
+      "script": [
+        {
+          "id": "s28",
+          "speaker": "Sara",
+          "text": "Minh, we need to talk about Saturdays. I've turned away customers three weekends in a row because we can't keep up."
+        },
+        {
+          "id": "s29",
+          "speaker": "Minh",
+          "text": "I know, and I hate it. But hiring someone is a big commitment. A part-time wage would cost us roughly eight hundred pounds a month."
+        },
+        {
+          "id": "s30",
+          "speaker": "Sara",
+          "text": "True. But think about what we're losing. If we sell even ten more orders on Saturdays, the wage pays for itself."
+        },
+        {
+          "id": "s31",
+          "speaker": "Minh",
+          "text": "Hmm. Is that realistic? Those ten are probably guesses."
+        },
+        {
+          "id": "s32",
+          "speaker": "Sara",
+          "text": "Not guesses. I counted. On the last Saturday, I said no to twelve people."
+        },
+        {
+          "id": "s33",
+          "speaker": "Minh",
+          "text": "Twelve? You didn't tell me it was that many. OK, that changes things. But I'd rather raise our prices first. We haven't increased them in two years, and our costs have gone up."
+        },
+        {
+          "id": "s34",
+          "speaker": "Sara",
+          "text": "I'm nervous about that. Customers love us because we're affordable."
+        },
+        {
+          "id": "s35",
+          "speaker": "Minh",
+          "text": "A small increase, say five per cent, wouldn't drive anyone away. And if we're busy enough to turn people down, we're probably too cheap."
+        },
+        {
+          "id": "s36",
+          "speaker": "Sara",
+          "text": "That's a clever way of looking at it. All right. Raise prices at the start of next month, and advertise for a part-time helper at the same time."
+        },
+        {
+          "id": "s37",
+          "speaker": "Minh",
+          "text": "Agreed. Let's see how it goes for three months, then review."
+        },
+        {
+          "id": "s38",
+          "speaker": "Sara",
+          "text": "And I'm drafting the advertisement tonight, so don't tell me I'm rushing."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How did Marcus start baking?",
+      "options": [
+        "He studied baking at college first",
+        "He lost his job as an engineer",
+        "He inherited a shop from his uncle",
+        "He baked at weekends to relax"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He began baking because he was stressed, and colleagues kept asking him to bring in bread.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "my colleagues kept asking me to bring in bread"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why didn't Marcus go to a bank at first?",
+      "options": [
+        "He did not trust banks with his money",
+        "He did not need any money at first",
+        "He could not show them any profits",
+        "His uncle advised him not to apply"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he could not show the banks any profits, so he borrowed from his uncle.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I couldn't show them any profits"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What was the hardest part for Marcus?",
+      "options": [
+        "The long hours",
+        "The cost of flour",
+        "Finding customers",
+        "Paying back his uncle"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He got up at three every morning for two years.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I got up at three every morning"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why did cutting the menu help?",
+      "options": [
+        "It made choosing easier, so customers spent more",
+        "It allowed him to close earlier each day",
+        "It saved on rent, so he could open more shops",
+        "It attracted tourists to the new shops"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says customers spent more because choosing became easier.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "choosing became easier"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "What advice does Marcus give?",
+      "options": [
+        "Offer as many different products as possible",
+        "Test your idea cheaply at a market stall",
+        "Quit your job and start straight away",
+        "Borrow money from relatives to get started"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He advises testing an idea cheaply before quitting your job.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Test your idea cheaply before you quit your job."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why is Thu at the bank?",
+      "options": [
+        "To borrow money for an online shop",
+        "To open a savings account for stock",
+        "To pay the fees for her craft fairs",
+        "To sell her handmade candles to the bank"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The adviser confirms she would like to borrow money to start an online candle shop.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "You'd like to borrow five thousand pounds"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What was Thu's profit last year?",
+      "options": [
+        "About four thousand pounds from sales",
+        "About one thousand five hundred pounds",
+        "About two thousand five hundred pounds",
+        "About eight hundred pounds a month"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Four thousand was her sales figure; her profit was closer to one thousand five hundred.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "the profit was closer to one thousand five hundred"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Thu prefer her own website?",
+      "options": [
+        "She has no more time for craft fairs",
+        "Building her own website would be cheaper",
+        "The bank officer insists that she builds one",
+        "Marketplace fees are high and cut her profit"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says marketplace fees are about fifteen per cent and her own site builds her brand.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I'd keep more profit with my own site"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does the bank offer?",
+      "options": [
+        "Two thousand now and three thousand after a full year",
+        "Five thousand pounds now if she signs today",
+        "Three thousand now and two thousand after six months",
+        "Nothing until her online shop has opened"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He offers three thousand now and two thousand after six months if sales reach the target.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I can approve three thousand now"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Thu feel about the offer?",
+      "options": [
+        "She is delighted with the offer",
+        "She is disappointed but accepts the offer",
+        "She is confused about the conditions",
+        "She is angry and refuses the offer"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says it is less than she hoped for but reasonable.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "That's less than I hoped for, but it's reasonable."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is the lecture mainly about?",
+      "options": [
+        "How to avoid paying tax on profits",
+        "How small firms can find customers cheaply",
+        "How to pay employees fairly and on time every month",
+        "How to design a logo for a firm"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The speaker asks how to get customers with almost no money for advertising.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "how do you get customers when you have almost no money for advertising?"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does the speaker say \"my product is for everyone\" usually means it is for no one?",
+      "options": [
+        "Because it is too vague to guide anything",
+        "Because almost everyone is too busy to shop",
+        "Because there are too many competitors for it",
+        "Because such products are always very expensive"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Successful firms can describe one typical customer in detail; \"everyone\" is too vague.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "that usually means it's for no one"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does the florist do?",
+      "options": [
+        "Runs a free workshop for customers",
+        "Sponsors a school team each year",
+        "Puts a discount card in each bouquet",
+        "Pays for radio advertisements in town"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The florist puts a small card in every bouquet offering ten per cent off for friends.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "puts a small card in every bouquet"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does the speaker think about social media advertising?",
+      "options": [
+        "It wastes money unless customer and message are clear",
+        "It should be avoided by every small firm",
+        "It is the best way for complete beginners to start",
+        "It is useless for all kinds of business"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says it is not useless, but you pay to shout into a crowd unless you know your customer and message.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "unless you've defined your customer and your message"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "What must the students bring next week?",
+      "options": [
+        "A full business plan for the firm",
+        "A poster to advertise their business",
+        "A one-page description of an ideal customer",
+        "A budget spreadsheet for the first year"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She asks for a one-page description of an ideal customer.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "a one-page description of your ideal customer"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What problem has Sara noticed?",
+      "options": [
+        "They have far too many staff working on Saturdays",
+        "Their prices are too high",
+        "The shop is too big",
+        "They cannot serve all the customers on Saturdays"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She has turned away customers three weekends in a row.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "I've turned away customers three weekends in a row"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How many people did Sara turn away last Saturday?",
+      "options": [
+        "Twelve",
+        "Three",
+        "Twenty",
+        "Ten"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she said no to twelve people. Ten was her estimate of extra orders.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "I said no to twelve people"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What does Minh think about raising prices?",
+      "options": [
+        "He thinks a small rise is sensible",
+        "He thinks it should wait a year",
+        "He wants to lower them instead",
+        "He is strongly against any rise"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He would rather raise prices first and thinks a small increase would not drive anyone away.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "I'd rather raise our prices first."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why is Sara nervous about raising prices?",
+      "options": [
+        "She plans to leave",
+        "She thinks costs have fallen",
+        "She dislikes the idea of the business growing",
+        "She thinks customers value being affordable"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says customers love them because they are affordable.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "Customers love us because we're affordable."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "What do they finally decide?",
+      "options": [
+        "To close the shop on Saturdays",
+        "To raise prices and hire a part-time helper",
+        "To hire a full-time worker immediately",
+        "To raise prices by ten per cent next month"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They agree to raise prices next month and advertise for a part-time helper.",
+      "evidence": [
+        {
+          "lineId": "s36",
+          "quote": "Raise prices at the start of next month"
+        }
+      ]
+    }
+  ]
+}

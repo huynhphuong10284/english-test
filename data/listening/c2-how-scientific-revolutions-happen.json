@@ -1,0 +1,613 @@
+{
+  "id": "l-c2-how-scientific-revolutions-happen",
+  "title": "How Scientific Revolutions Happen",
+  "level": "C2 · Proficiency",
+  "description": "Four extracts from a public talk and discussion about how science changes: paradigms, anomalies, a famous case and a critique.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A public talk",
+      "intro": "You will hear a historian of science beginning a public talk.",
+      "speakers": {
+        "Dr Whitfield": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Dr Whitfield",
+          "text": "Most of us were taught that science advances like a staircase, with each generation adding a step to the one before. It is a comforting picture, but about sixty years ago a historian of science published a short book arguing that it is largely wrong. His claim was that science alternates between long, quiet periods and short, turbulent ones, and that the second kind is not an extension of the first but a break from it."
+        },
+        {
+          "id": "s2",
+          "speaker": "Dr Whitfield",
+          "text": "The quiet periods he called normal science. During them, researchers share a framework, a set of assumptions about what the world is like, which questions are worth asking and what counts as a good answer. He called that framework a paradigm. Within it, the work resembles solving jigsaw puzzles. The picture on the box is already known, and the scientist's job is to fit the pieces."
+        },
+        {
+          "id": "s3",
+          "speaker": "Dr Whitfield",
+          "text": "Now, what happens when a piece will not fit? Usually, nothing very dramatic. The researcher assumes that the equipment was faulty, or that she made an error, and sets the result aside. This is not stubbornness. A framework that dropped at every awkward measurement would be useless, and in most cases the anomaly really is a mistake."
+        },
+        {
+          "id": "s4",
+          "speaker": "Dr Whitfield",
+          "text": "But sometimes anomalies accumulate. They begin to cluster around the same point, and they resist every attempt to explain them away. A sense of unease spreads through the field, and a few young or unconventional researchers start to explore alternatives. That, in his account, is the beginning of a crisis."
+        },
+        {
+          "id": "s5",
+          "speaker": "Dr Whitfield",
+          "text": "I want to stress something that is often overlooked. The new framework does not win simply because it is more accurate. The rival schools often disagree about what the evidence even is, so they can talk past one another. Persuasion, generations and even personality play a part. That is what made the book so controversial, because it suggested that science, however rational, is also a human enterprise."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Questions after the talk",
+      "intro": "You will hear a lecturer, Dr Chen, answering a question from a student, Nam.",
+      "speakers": {
+        "Nam": "male",
+        "Dr Chen": "female"
+      },
+      "script": [
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "Dr Chen, I'm a bit unsettled by this. If a new paradigm wins partly through persuasion, doesn't that mean science is no more objective than, say, fashion?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Dr Chen",
+          "text": "That is the reading that alarmed many people, and it is a misreading, or at least an exaggeration. The author himself insisted that the new framework usually solves more problems than the old one and does so more precisely. Nobody switched back to the old astronomy because the new one was merely fashionable."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "But if two paradigms define the evidence differently, how can we compare them at all?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Dr Chen",
+          "text": "Imperfectly, but not impossibly. Scientists can still ask which framework predicts more accurately, which is simpler and which opens up fruitful lines of research. Those criteria are not mechanical rules, and reasonable people may weigh them differently. That's why a transition takes time instead of happening overnight."
+        },
+        {
+          "id": "s10",
+          "speaker": "Nam",
+          "text": "So the criticism is half right."
+        },
+        {
+          "id": "s11",
+          "speaker": "Dr Chen",
+          "text": "I would put it differently. The book showed that scientific judgement involves more than logic, but it never showed that judgement is arbitrary. A good doctor also uses judgement, and we do not conclude that medicine is a matter of taste."
+        },
+        {
+          "id": "s12",
+          "speaker": "Nam",
+          "text": "Then what would you say is the main lesson?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Dr Chen",
+          "text": "Humility, I think. The framework you take for granted may one day look as odd as the ones we now find quaint. And, practically, that we should treat unusual results with curiosity rather than contempt, because the next revolution will begin as somebody's inconvenient anomaly."
+        },
+        {
+          "id": "s14",
+          "speaker": "Nam",
+          "text": "That's quite a sobering thought for a student about to start a dissertation."
+        },
+        {
+          "id": "s15",
+          "speaker": "Dr Chen",
+          "text": "Or an encouraging one. Somebody must find the anomalies, after all."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A case study",
+      "intro": "You will hear a geologist, Dr Santos, describing how an idea about continents was accepted.",
+      "speakers": {
+        "Dr Santos": "female"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Dr Santos",
+          "text": "My favourite example is the idea that continents move. In the early twentieth century, a German meteorologist proposed that the continents had once formed a single landmass and had since drifted apart. His evidence was impressive. The coastlines of South America and Africa fit like pieces of a puzzle, and identical fossils turn up on opposite sides of the ocean."
+        },
+        {
+          "id": "s17",
+          "speaker": "Dr Santos",
+          "text": "Yet geologists rejected it for decades. The proposer was an outsider, not a geologist, which counted against him. More importantly, he could not explain how continents could plough through the solid ocean floor. Without a mechanism, the evidence looked like a series of coincidences, and many experts treated it as fantasy."
+        },
+        {
+          "id": "s18",
+          "speaker": "Dr Santos",
+          "text": "Then, in the nineteen fifties and sixties, new instruments transformed the field. Surveys of the sea floor revealed a vast chain of underwater mountains with new rock emerging along its centre, and patterns of magnetism in that rock were symmetrical on either side. Suddenly, the ocean floor looked like a conveyor belt, and continents could ride on it rather than ploughing through it."
+        },
+        {
+          "id": "s19",
+          "speaker": "Dr Santos",
+          "text": "Notice the sequence. The anomalies had been available for fifty years, but it took a new mechanism, and a new generation of researchers, to make them persuasive. Some senior figures never changed their minds. The idea won, as one physicist said, not because opponents were convinced but because they eventually retired."
+        },
+        {
+          "id": "s20",
+          "speaker": "Dr Santos",
+          "text": "I find the story both humbling and reassuring. It shows how stubborn a field can be, but also how decisive evidence eventually becomes. Within a decade, the textbooks had been rewritten, and students now find it hard to believe there was ever a controversy."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A closing discussion",
+      "intro": "You will hear a presenter, Linh, and a philosopher, Dr Brennan, discussing whether revolutions still happen.",
+      "speakers": {
+        "Linh": "female",
+        "Dr Brennan": "male"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "Dr Brennan, we hear the word revolution constantly now, in medicine, in computing and in biology. Is science really still being overturned?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Dr Brennan",
+          "text": "I'd be sceptical of the word. Real overturning is rare. Most of what's called a revolution today is a powerful new tool, such as gene editing or machine learning, which accelerates work within existing frameworks. That can be transformative without being revolutionary in the strict sense."
+        },
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "So the hype is a little inflated."
+        },
+        {
+          "id": "s24",
+          "speaker": "Dr Brennan",
+          "text": "Often. Although I wouldn't want to be complacent. Some fields are, I think, in a state of unresolved tension. Physicists still cannot reconcile their two greatest theories, and neuroscientists still have no agreed account of how the brain produces experience. Those might be the anomalies that ripen into something larger."
+        },
+        {
+          "id": "s25",
+          "speaker": "Linh",
+          "text": "How would we even know we were in the middle of one?"
+        },
+        {
+          "id": "s26",
+          "speaker": "Dr Brennan",
+          "text": "We wouldn't, most likely. Revolutions look obvious only in retrospect. Those living through the change seldom call it that. They simply find that old questions have stopped making sense and new ones have taken their place."
+        },
+        {
+          "id": "s27",
+          "speaker": "Linh",
+          "text": "Does that make you pessimistic?"
+        },
+        {
+          "id": "s28",
+          "speaker": "Dr Brennan",
+          "text": "Quite the contrary. It makes me hopeful that science remains capable of surprising itself. A discipline that could never be overturned would be a creed, not a science. The willingness to be wrong, I would argue, is the most valuable thing it has."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What was the historian's central claim about science?",
+      "options": [
+        "It is mainly driven by changing fashion in society",
+        "It is simply a long series of avoidable mistakes by researchers",
+        "It advances smoothly, like a staircase, over time",
+        "It alternates between quiet periods and abrupt breaks"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He argued that science alternates between long quiet periods and short turbulent ones, which are a break.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "science alternates between long, quiet periods and short, turbulent ones"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did he call the shared framework in normal science?",
+      "options": [
+        "An anomaly",
+        "A paradigm",
+        "A theory",
+        "A puzzle"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He called the framework a paradigm.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "He called that framework a paradigm."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why do researchers usually set aside an anomalous result?",
+      "options": [
+        "They are paid by their institutions to ignore them",
+        "They are afraid of upsetting their senior colleagues",
+        "A framework dropped at every anomaly would be useless",
+        "They never notice errors in their own equipment"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The speaker says it is not stubbornness since a framework dropped at every awkward measurement would be useless.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "A framework that dropped at every awkward measurement would be useless"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What marks the beginning of a crisis?",
+      "options": [
+        "A new and more precise instrument is bought",
+        "Anomalies accumulate and resist explanation",
+        "A senior professor retires from the field",
+        "A single serious mistake is found in a result"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Anomalies cluster and resist every attempt to explain them away.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "they resist every attempt to explain them away"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does he stress about why a new framework wins?",
+      "options": [
+        "Money from funding bodies decides the outcome",
+        "The age of researchers is irrelevant to it",
+        "Accuracy alone does not decide the outcome",
+        "Accuracy is the only factor that matters"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says it does not win simply because it is more accurate; persuasion and generations play a part.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "does not win simply because it is more accurate"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "Why is Nam unsettled by the talk?",
+      "options": [
+        "He wants to see more evidence for the argument",
+        "He disagrees with the dates the lecturer gave",
+        "He thinks the historian was dishonest about his sources",
+        "He fears science may be no more objective than fashion"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He asks whether persuasion makes science no more objective than fashion.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "doesn't that mean science is no more objective than, say, fashion?"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How does Dr Chen respond to the fashion idea?",
+      "options": [
+        "She calls it an exaggeration",
+        "She ignores it",
+        "She says it is a recent theory",
+        "She agrees entirely"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She calls it a misreading, or at least an exaggeration.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "it is a misreading, or at least an exaggeration"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Dr Chen mention a doctor?",
+      "options": [
+        "To describe a case study from her own practice",
+        "To explain how doctors are trained to use evidence",
+        "To suggest that medicine is not truly scientific",
+        "To show that judgement is not the same as arbitrariness"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says a good doctor uses judgement but medicine is not a matter of taste.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "we do not conclude that medicine is a matter of taste"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "main-idea",
+      "text": "What main lesson does Dr Chen draw?",
+      "options": [
+        "Always follow the majority view in a field",
+        "Humility and curiosity about unusual results",
+        "Never trust anomalies when they appear in your own results",
+        "Avoid new theories until they are proven"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says the main lesson is humility and treating unusual results with curiosity.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Humility, I think."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Dr Chen respond to Nam's remark about his dissertation?",
+      "options": [
+        "She changes the subject to something lighter",
+        "She tells him to be extremely careful",
+        "She apologises for upsetting him",
+        "She suggests it could be encouraging"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says it could be an encouraging thought, since somebody must find anomalies.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "Or an encouraging one."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What evidence supported the idea that continents move?",
+      "options": [
+        "Earthquakes that damaged cities near the coast",
+        "Matching coastlines and fossils on either side of the ocean",
+        "The writings of ancient geologists on the subject",
+        "Studies of the weather over several continents"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Coastlines fit and identical fossils turn up on both sides of the ocean.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "identical fossils turn up on opposite sides of the ocean"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why did geologists reject the idea for decades?",
+      "options": [
+        "No mechanism explained how continents could move",
+        "Nobody in the field had bothered to read the original proposal",
+        "The evidence of matching coasts was missing",
+        "The fossils had been proved to be forged"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He could not explain how continents could plough through the ocean floor.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "he could not explain how continents could plough through the solid ocean floor"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did sea floor surveys reveal?",
+      "options": [
+        "Underwater mountains with new rock along their centre",
+        "Ancient cities lying on the ocean floor beneath the water",
+        "Large deposits of oil beneath the sea bed",
+        "A hidden continent beneath the Atlantic"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They revealed an underwater chain of mountains with new rock emerging along its centre.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "a vast chain of underwater mountains"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does the quoted physicist suggest?",
+      "options": [
+        "Opponents were quickly convinced by the evidence",
+        "Physicists have always disliked the study of geology",
+        "Opponents often fade away rather than change their minds",
+        "Evidence is much less important than most people think"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The idea won because opponents eventually retired.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "not because opponents were convinced but because they eventually retired"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Dr Santos call the story humbling and reassuring?",
+      "options": [
+        "It proves that she was right all along",
+        "It shows both stubbornness and the power of evidence",
+        "It shows how rich successful geologists became",
+        "It shows how fast textbooks can be written"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says it shows how stubborn a field can be but also how decisive evidence eventually becomes.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "how stubborn a field can be, but also how decisive evidence eventually becomes"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Dr Brennan's attitude to calling modern advances revolutions?",
+      "options": [
+        "He is sceptical",
+        "He is angry",
+        "He is indifferent",
+        "He is enthusiastic"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he would be sceptical of the word.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I'd be sceptical of the word."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does he give as examples of unresolved tension?",
+      "options": [
+        "Gene editing and machine learning in medicine",
+        "Reconciling two physics theories and explaining experience",
+        "Climate prediction and long-range weather forecasting",
+        "Computing and the foundations of mathematics"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He mentions physicists failing to reconcile their theories and neuroscience lacking an account of experience.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "Physicists still cannot reconcile their two greatest theories"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why will we probably not know if we are in a revolution?",
+      "options": [
+        "Revolutions look obvious only in retrospect",
+        "They are always announced in advance by leading scientists",
+        "They never actually occur in modern times",
+        "Scientists hide them from the public"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says revolutions look obvious only in retrospect.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "Revolutions look obvious only in retrospect."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "Why does he say the discussion makes him hopeful?",
+      "options": [
+        "Scientists now agree on almost everything important",
+        "Science is still capable of surprising itself",
+        "Technology will soon replace theory",
+        "Science is nearly finished"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he is hopeful that science remains capable of surprising itself.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "science remains capable of surprising itself"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "What point does he make by comparing science with a creed?",
+      "options": [
+        "Willingness to be wrong is what makes it science",
+        "Science should reject belief of every kind, including creeds",
+        "Science is really a form of religion",
+        "Creeds are more reliable than theories"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A discipline that could never be overturned would be a creed; willingness to be wrong is valuable.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "A discipline that could never be overturned would be a creed, not a science."
+        }
+      ]
+    }
+  ]
+}

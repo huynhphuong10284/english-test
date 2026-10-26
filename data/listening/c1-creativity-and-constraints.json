@@ -1,0 +1,622 @@
+{
+  "id": "l-c1-creativity-and-constraints",
+  "title": "Creativity and Constraints",
+  "level": "C1 · Advanced",
+  "description": "A talk and discussion about why limits can help creative work, with a designer's talk, audience questions, two musicians and a cautionary final talk.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Opening talk",
+      "intro": "You will hear a designer, Ms Ferrer, opening a talk about creativity.",
+      "speakers": {
+        "Ms Ferrer": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Ms Ferrer",
+          "text": "Good evening. I'd like to start with a challenge. Imagine I give you a blank sheet of paper and tell you to create anything you like. No limits at all. How do you feel? Most people tell me they feel excited for about thirty seconds, and then slightly frightened."
+        },
+        {
+          "id": "s2",
+          "speaker": "Ms Ferrer",
+          "text": "Now imagine I say, design a chair using only one sheet of cardboard and no glue. Suddenly your mind starts to work. You begin to fold, to cut, to wonder. The limit has given you a place to begin."
+        },
+        {
+          "id": "s3",
+          "speaker": "Ms Ferrer",
+          "text": "This is the idea I want to explore tonight. We tend to treat freedom as the friend of creativity and constraints as its enemy. I'd suggest that the truth is nearer the opposite. Constraints focus attention. They remove the paralysing number of options and force us to look at the few that remain more carefully."
+        },
+        {
+          "id": "s4",
+          "speaker": "Ms Ferrer",
+          "text": "Consider the sonnet. Fourteen lines, a fixed pattern of rhymes. It sounds like a prison. Yet poets have been producing new and surprising work inside that form for centuries. They don't escape the rules; they use them as something to push against."
+        },
+        {
+          "id": "s5",
+          "speaker": "Ms Ferrer",
+          "text": "Of course, I should be clear about what I'm not saying. I'm not saying that any limit is helpful. A deadline that's impossible, or a budget that's laughably small, can simply crush people. The skill is in choosing the right constraint, one that's tight enough to stimulate but loose enough to leave room for invention."
+        },
+        {
+          "id": "s6",
+          "speaker": "Ms Ferrer",
+          "text": "So tonight, I want to look at where constraints come from, how to design them for yourself, and when to throw them away."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Questions from the audience",
+      "intro": "You will hear Ms Ferrer answering questions from a member of the audience, Joe.",
+      "speakers": {
+        "Ms Ferrer": "female",
+        "Joe": "male"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Joe",
+          "text": "Ms Ferrer, I run a small software company. We're always short of time and money. Are you saying that's good for us?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Ms Ferrer",
+          "text": "Not exactly, Joe. Being short of resources is stressful, and I wouldn't want to romanticise it. What I'd say is that if you're going to be short of something anyway, you might as well notice how the shortage shapes your ideas. Teams with tiny budgets often invent cheaper, simpler solutions that bigger competitors never think of."
+        },
+        {
+          "id": "s9",
+          "speaker": "Joe",
+          "text": "That's true. Our best feature started because we couldn't afford a designer."
+        },
+        {
+          "id": "s10",
+          "speaker": "Ms Ferrer",
+          "text": "Tell me more."
+        },
+        {
+          "id": "s11",
+          "speaker": "Joe",
+          "text": "We had to make the screen so plain that anyone could use it. Customers loved it, and now people say that's our trademark."
+        },
+        {
+          "id": "s12",
+          "speaker": "Ms Ferrer",
+          "text": "There you are. That's what happens when a limit becomes an identity."
+        },
+        {
+          "id": "s13",
+          "speaker": "Joe",
+          "text": "But isn't there a danger that you get comfortable with limits, and stop trying anything bold?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Ms Ferrer",
+          "text": "A very good point. Yes. If every project is done under the same restrictions, you can become skilled at one kind of problem and blind to everything else. So I recommend changing the constraint regularly. One month, work without colour. The next, with only three words on a page. It keeps the mind from settling."
+        },
+        {
+          "id": "s15",
+          "speaker": "Joe",
+          "text": "Would you do that with a client's work?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Ms Ferrer",
+          "text": "Not directly. I'd try it in a small private exercise first. Then, if something promising emerges, I'd bring it to the client with a proper explanation. People are generally happier to be surprised by a result than by a method."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Two musicians",
+      "intro": "You will hear two musicians, Rafael and Lina, talking about writing songs with limits.",
+      "speakers": {
+        "Rafael": "male",
+        "Lina": "female"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Rafael",
+          "text": "Lina, I've been stuck on this album for months. Every time I sit down, I can do anything, and I end up doing nothing."
+        },
+        {
+          "id": "s18",
+          "speaker": "Lina",
+          "text": "I know that feeling well. Do you remember the record I made on my phone, in the kitchen, with one guitar and a saucepan?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Rafael",
+          "text": "The one that everyone loved. Wasn't that a bit of an accident?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Lina",
+          "text": "It was, in a way. My studio was booked up, and I had two weeks before a deadline. So I told myself, one guitar, one voice, whatever's in the room. And I wrote more in those fortnight than I had in the previous year."
+        },
+        {
+          "id": "s21",
+          "speaker": "Rafael",
+          "text": "Because there was nothing to fiddle with."
+        },
+        {
+          "id": "s22",
+          "speaker": "Lina",
+          "text": "Exactly. In a big studio, you can spend three days choosing a drum sound. In the kitchen, the saucepan was the drum sound. I had to commit."
+        },
+        {
+          "id": "s23",
+          "speaker": "Rafael",
+          "text": "But didn't you miss the freedom?"
+        },
+        {
+          "id": "s24",
+          "speaker": "Lina",
+          "text": "For about a day. Then I realised that the freedom had never really made me happy. It made me hesitate. Having decided a rule, I could stop deciding and start playing."
+        },
+        {
+          "id": "s25",
+          "speaker": "Rafael",
+          "text": "That's a useful thought. So you're suggesting I set myself some silly rule."
+        },
+        {
+          "id": "s26",
+          "speaker": "Lina",
+          "text": "I'd say, set yourself a serious one, but let it be a little silly. Write each song in a single afternoon. Use only four chords. And when something goes wrong, don't fix it. Ask what it's offering you."
+        },
+        {
+          "id": "s27",
+          "speaker": "Rafael",
+          "text": "I like that. A mistake as an invitation. I'll try it tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A note of caution",
+      "intro": "You will hear a psychologist, Dr Meyer, giving the final talk of the evening.",
+      "speakers": {
+        "Dr Meyer": "male"
+      },
+      "script": [
+        {
+          "id": "s28",
+          "speaker": "Dr Meyer",
+          "text": "I've enjoyed this evening's enthusiasm, and I'd like to finish with a respectful word of caution. As a psychologist who studies creative work, I'm a little wary of stories that tidy things into a lesson. The evidence for constraints is real, but it's more mixed than we sometimes admit."
+        },
+        {
+          "id": "s29",
+          "speaker": "Dr Meyer",
+          "text": "In experiments, people given a small limit often do produce more original ideas than those given no instructions at all. But when the limit becomes severe, creativity drops. There seems to be an upper curve, a point at which helpful becomes harmful, and it differs from person to person."
+        },
+        {
+          "id": "s30",
+          "speaker": "Dr Meyer",
+          "text": "There is also the matter of who is choosing. A constraint you choose yourself feels like a game. The same constraint imposed by a manager, with no explanation, can feel like a punishment. Same rule, completely different outcome. What matters most is whether the person feels in control."
+        },
+        {
+          "id": "s31",
+          "speaker": "Dr Meyer",
+          "text": "And I'd add something about the stories we tell. We love the tale of the genius who made a masterpiece from nothing. We rarely hear about the hundred people who tried the same limit and produced nothing worth keeping. That doesn't make the lesson false, but it should make us humble about how neatly it works."
+        },
+        {
+          "id": "s32",
+          "speaker": "Dr Meyer",
+          "text": "So where does that leave us? I'd say, treat a constraint as an experiment, not a rule of nature. Try it. Watch what happens. Keep it if it helps and drop it without guilt if it doesn't."
+        },
+        {
+          "id": "s33",
+          "speaker": "Dr Meyer",
+          "text": "Creativity is not a formula. If it were, none of us would be here, and all of us would be rather bored. Thank you."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How do most people feel when given a blank sheet and no limits?",
+      "options": [
+        "Excited at first, then slightly frightened",
+        "Frightened at first, then slightly excited",
+        "Calm and relaxed from start to finish"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Most people feel excited for about thirty seconds and then slightly frightened.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "Most people tell me they feel excited for about thirty seconds, and then slightly frightened."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is Ms Ferrer's main argument?",
+      "options": [
+        "Freedom is always the best friend of creativity.",
+        "Constraints can help by focusing our attention.",
+        "Artists should avoid following any rules at all.",
+        "Creativity cannot really be explained or taught."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says constraints remove paralysing options and focus attention.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "Constraints focus attention."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does she mention the sonnet?",
+      "options": [
+        "To show that poets create fresh work in strict forms",
+        "To prove that writing poetry is easy once you know the rules",
+        "To criticise old poems as prisons for their writers"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Poets have made new work inside the form for centuries, using the rules as something to push against.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "They don't escape the rules; they use them as something to push against."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is her attitude to unrealistic limits like an impossible deadline?",
+      "options": [
+        "She thinks they inspire the best work.",
+        "She thinks they are unimportant.",
+        "She believes they can crush people."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says such limits can simply crush people.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "can simply crush people"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does she say the constraint should be tight enough but loose enough?",
+      "options": [
+        "To tell the audience to avoid all strict constraints",
+        "To advertise her course on designing constraints",
+        "To explain how to choose a helpful constraint"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She describes the skill of choosing a constraint that stimulates but leaves room for invention.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "tight enough to stimulate but loose enough to leave room for invention"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Ms Ferrer respond to Joe's question about limited resources?",
+      "options": [
+        "She says it is harmful to every creative team.",
+        "She ignores the question and changes the subject.",
+        "She says it is always good for small companies.",
+        "She says it is stressful and not to be romanticised."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says she would not want to romanticise it.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "I wouldn't want to romanticise it."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How did Joe's company's best feature start?",
+      "options": [
+        "They could not afford a designer.",
+        "They copied a feature from a competitor.",
+        "A large customer specifically requested it."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They could not afford a designer, so the screen was kept plain.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "Our best feature started because we couldn't afford a designer."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What danger does Joe raise?",
+      "options": [
+        "Teams may get comfortable and stop being bold.",
+        "Limits can end up costing the company too much money.",
+        "Customers may come to dislike very plain designs."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He asks whether people get comfortable with limits and stop trying anything bold.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "you get comfortable with limits, and stop trying anything bold"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Ms Ferrer recommend to avoid the danger?",
+      "options": [
+        "Removing all limits from every project",
+        "Changing the constraint regularly",
+        "Hiring a designer to guide the team"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She recommends changing the constraint regularly.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "changing the constraint regularly"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does she suggest trying new constraints in a private exercise first?",
+      "options": [
+        "To save money before approaching the client",
+        "To avoid surprising a client with an untested method",
+        "Because clients never like surprising results"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She would bring a promising result to the client with an explanation, since people prefer surprising results to methods.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "People are generally happier to be surprised by a result than by a method."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What problem does Rafael have with his album?",
+      "options": [
+        "He has no studio in which to record.",
+        "He has too many choices and does nothing.",
+        "He has no ideas for the words of his songs."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He can do anything and ends up doing nothing.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I can do anything, and I end up doing nothing."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why did Lina write so much in the kitchen?",
+      "options": [
+        "She had access to a much better studio.",
+        "She had much more time before the deadline.",
+        "She had to commit because choices were few."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "With only a guitar, voice and saucepan, she had to commit.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "I had to commit."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How did Lina feel about losing freedom?",
+      "options": [
+        "She never really noticed it was gone.",
+        "She felt angry about losing it.",
+        "She missed it constantly for weeks.",
+        "She missed it for about a day."
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She missed the freedom for a day, then saw it had made her hesitate.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "For about a day."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Lina suggest Rafael treat a mistake as an invitation?",
+      "options": [
+        "To use unexpected results as ideas",
+        "To avoid having to record the song again",
+        "To blame the equipment when songs fail"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says that when something goes wrong, ask what it is offering you.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "Ask what it's offering you."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is Lina's main advice?",
+      "options": [
+        "Stop writing songs and wait for inspiration.",
+        "Set a serious but slightly silly rule and keep it.",
+        "Buy better studio equipment as soon as possible."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She suggests a serious but slightly silly rule, like a single afternoon or four chords.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "set yourself a serious one, but let it be a little silly"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Dr Meyer's attitude to the enthusiasm of the evening?",
+      "options": [
+        "Entirely supportive",
+        "Appreciative but cautious",
+        "Completely sceptical"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he enjoyed it but offers a respectful word of caution.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "I'd like to finish with a respectful word of caution."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What happens to creativity when a limit becomes severe?",
+      "options": [
+        "It rises.",
+        "It drops.",
+        "It stays the same."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "When the limit becomes severe, creativity drops.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "when the limit becomes severe, creativity drops"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does it matter who chooses the constraint?",
+      "options": [
+        "Feeling in control changes how a limit is experienced.",
+        "Managers always choose better constraints than staff do.",
+        "Self-chosen limits are always much stricter than imposed ones.",
+        "Chosen constraints are always easier to follow."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "A self-chosen limit feels like a game; an imposed one can feel like a punishment.",
+      "evidence": [
+        {
+          "lineId": "s30",
+          "quote": "What matters most is whether the person feels in control."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Dr Meyer mention the hundred people who produced nothing?",
+      "options": [
+        "To praise the genius who made a masterpiece",
+        "To say that constraints never really work for anyone",
+        "To show that success stories can mislead us"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "We hear about successes, not the failures, so we should be humble about the lesson.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "it should make us humble about how neatly it works"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What does Dr Meyer recommend?",
+      "options": [
+        "Avoid constraints entirely and trust freedom instead.",
+        "Treat a constraint as an experiment, not a rule.",
+        "Always use strict rules to guarantee creative results."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says to try it, watch what happens, and drop it without guilt if it does not help.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "treat a constraint as an experiment, not a rule of nature"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "id": "l-yl-f-the-science-fair",
+  "title": "The Science Fair",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about a school science fair: choosing a project, a phone call, a message and the prize-giving.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Choosing a project",
+      "intro": "You will hear two students, Khoa and Emma, talking about the science fair.",
+      "speakers": {
+        "Khoa": "male",
+        "Emma": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Emma",
+          "text": "Khoa, have you decided what to do for the science fair?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Khoa",
+          "text": "Well, first I wanted to build a volcano, but everybody does that. So I'm going to grow beans in different places."
+        },
+        {
+          "id": "s3",
+          "speaker": "Emma",
+          "text": "That sounds interesting. What will you find out?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Khoa",
+          "text": "I'll put one bean plant in the dark cupboard and one by the window. Then I'll see which one grows taller."
+        },
+        {
+          "id": "s5",
+          "speaker": "Emma",
+          "text": "I think the plant in the sun will win. My project is about magnets. I'll show which things they pick up."
+        },
+        {
+          "id": "s6",
+          "speaker": "Khoa",
+          "text": "Cool! Do you need any help?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Emma",
+          "text": "Yes, can you lend me your big magnet? Mine is too small."
+        },
+        {
+          "id": "s8",
+          "speaker": "Khoa",
+          "text": "Sure. I'll bring it on Monday. The fair is on Thursday, isn't it?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Emma",
+          "text": "No, it's on Friday now. Mr Reed changed the day."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Asking for help",
+      "intro": "You will hear Mr Reed talking to a girl, Chi, about her project.",
+      "speakers": {
+        "Mr Reed": "male",
+        "Chi": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Mr Reed",
+          "text": "Chi, come in. How is your project going?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Chi",
+          "text": "Not very well, Mr Reed. I'm making a small water filter from sand and stones, but the water is still dirty."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mr Reed",
+          "text": "Hmm. What did you put at the bottom of the bottle?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Chi",
+          "text": "Big stones first, then sand, and some cotton at the top."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mr Reed",
+          "text": "Try putting the cotton at the bottom and the stones at the top. Also use clean sand, not sand from the garden."
+        },
+        {
+          "id": "s15",
+          "speaker": "Chi",
+          "text": "Oh, I didn't think of that! Can I borrow some clean sand from the lab?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Mr Reed",
+          "text": "Of course. Ask Mrs Kim, because she has the key. And you need to write a short report for the fair, about one page."
+        },
+        {
+          "id": "s17",
+          "speaker": "Chi",
+          "text": "I'll write it this weekend. Thank you for your help!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A message about the fair",
+      "intro": "You will hear a message from Emma's mum about the science fair.",
+      "speakers": {
+        "Mum": "female"
+      },
+      "script": [
+        {
+          "id": "s18",
+          "speaker": "Mum",
+          "text": "Hello, Emma. It's Mum. I'm sorry, but I can't pick you up at four o'clock today."
+        },
+        {
+          "id": "s19",
+          "speaker": "Mum",
+          "text": "I have to go to the dentist, so Dad will collect you at half past four instead. Wait for him at the school gate."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mum",
+          "text": "About the fair on Friday, I'm very proud of you. Dad and I will both come, and Grandma wants to come too."
+        },
+        {
+          "id": "s21",
+          "speaker": "Mum",
+          "text": "Don't forget your white coat for the experiment. It's in the washing machine, but it'll be dry by tonight."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mum",
+          "text": "I'll make your favourite pasta for dinner. See you later, love!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Prize-giving",
+      "intro": "You will hear a teacher, Mrs Hart, announcing the winners of the science fair.",
+      "speakers": {
+        "Mrs Hart": "female"
+      },
+      "script": [
+        {
+          "id": "s23",
+          "speaker": "Mrs Hart",
+          "text": "Welcome, everyone, to the end of our science fair. There were thirty projects this year, and they were all excellent."
+        },
+        {
+          "id": "s24",
+          "speaker": "Mrs Hart",
+          "text": "The third prize goes to Tom for his electric car. It travelled two metres without anyone pushing it. Well done, Tom!"
+        },
+        {
+          "id": "s25",
+          "speaker": "Mrs Hart",
+          "text": "The second prize goes to Chi for her water filter. It was difficult to make, but she changed her idea and made it work."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mrs Hart",
+          "text": "And now, the winner. The judges say the first prize goes to Khoa and his bean plants. The plant by the window grew much taller than the one in the dark."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mrs Hart",
+          "text": "The prize is a book about space and a ticket to the science museum. The judges liked his clear drawings most of all."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mrs Hart",
+          "text": "Thank you all. Please take your projects home before five o'clock."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What are Khoa and Emma discussing?",
+      "options": [
+        "A school holiday",
+        "Their science projects",
+        "A homework test"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They talk about what to do for the science fair.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "have you decided what to do for the science fair"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did Khoa first want to build?",
+      "options": [
+        "A volcano",
+        "A rocket",
+        "A robot"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He wanted to build a volcano, but everybody does that.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "first I wanted to build a volcano"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Khoa put in the dark cupboard?",
+      "options": [
+        "A magnet",
+        "A torch",
+        "A bean plant"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He puts one bean plant in the cupboard and one by the window.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I'll put one bean plant in the dark cupboard"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Emma ask Khoa to lend her?",
+      "options": [
+        "A camera",
+        "A bean plant",
+        "A big magnet"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her own magnet is too small.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "can you lend me your big magnet?"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When is the science fair?",
+      "options": [
+        "On Friday",
+        "On Monday",
+        "On Thursday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Khoa thinks it is on Thursday, but Mr Reed changed it to Friday.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "it's on Friday now"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is Chi making?",
+      "options": [
+        "A water filter",
+        "A small boat",
+        "A weather machine"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She is making a water filter from sand and stones.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I'm making a small water filter from sand and stones"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is the problem with her project?",
+      "options": [
+        "The water is still dirty.",
+        "The bottle is broken.",
+        "The sand is wet."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "After filtering, the water is still dirty.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "the water is still dirty"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What does Mr Reed tell her to change?",
+      "options": [
+        "The order of the things in the bottle",
+        "The colour of the water",
+        "The size of the bottle"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says to put cotton at the bottom and the stones at the top.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "Try putting the cotton at the bottom and the stones at the top."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Who has the key to the lab?",
+      "options": [
+        "Chi",
+        "Mr Reed",
+        "Mrs Kim"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mr Reed says Mrs Kim has the key.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "Ask Mrs Kim, because she has the key."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When will Chi write her report?",
+      "options": [
+        "This weekend",
+        "On Friday",
+        "Tonight"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she'll write it this weekend.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I'll write it this weekend."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Mum call?",
+      "options": [
+        "To cancel the science fair",
+        "To ask Emma to cook",
+        "To change who collects Emma"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She cannot pick Emma up and Dad will collect her instead.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I can't pick you up at four o'clock today"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why can't Mum collect Emma?",
+      "options": [
+        "She is at work.",
+        "She has to go to the dentist.",
+        "She is ill."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mum says she has to go to the dentist.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I have to go to the dentist"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Mum feel about the fair?",
+      "options": [
+        "Worried",
+        "Proud",
+        "Bored"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she is very proud of Emma.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I'm very proud of you."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Who else wants to come to the fair?",
+      "options": [
+        "Emma's brother",
+        "Grandma",
+        "Grandpa"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Grandma wants to come as well as Mum and Dad.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Grandma wants to come too."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where is Emma's white coat?",
+      "options": [
+        "In her bag",
+        "In the washing machine",
+        "At school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The coat is being washed and will be dry tonight.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "It's in the washing machine"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Mrs Hart doing?",
+      "options": [
+        "Starting the fair",
+        "Explaining an experiment",
+        "Announcing the winners"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She gives the prizes at the end of the fair.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "Welcome, everyone, to the end of our science fair."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What did Tom make?",
+      "options": [
+        "An electric car",
+        "A magnet game",
+        "A water filter"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "His electric car travelled two metres.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "The third prize goes to Tom for his electric car."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why did Chi win a prize?",
+      "options": [
+        "Her project was the biggest.",
+        "She changed her idea and made it work.",
+        "She finished first."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her filter was difficult, but she improved it.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "she changed her idea and made it work"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What do the judges say about Khoa's plants?",
+      "options": [
+        "The plants were all the same.",
+        "The plant by the window grew taller.",
+        "All the plants died."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The plant in the sun grew much taller than the one in the dark.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "The plant by the window grew much taller than the one in the dark."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What do the judges like most about Khoa's project?",
+      "options": [
+        "His tall plants",
+        "His fast work",
+        "His clear drawings"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mrs Hart says they liked his clear drawings most of all.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "The judges liked his clear drawings most of all."
+        }
+      ]
+    }
+  ]
+}

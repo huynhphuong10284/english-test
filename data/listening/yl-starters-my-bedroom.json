@@ -1,0 +1,363 @@
+{
+  "id": "l-yl-s-my-bedroom",
+  "title": "My Bedroom",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about bedrooms: a small room, a messy room and bedtime.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · My room",
+      "intro": "You will hear a girl called Mai.",
+      "speakers": {
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mai",
+          "text": "This is my bedroom. It is small but nice."
+        },
+        {
+          "id": "s2",
+          "speaker": "Mai",
+          "text": "I have a pink bed and a yellow lamp."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mai",
+          "text": "My toys are in a box under the bed. My teddy bear is on the pillow."
+        },
+        {
+          "id": "s4",
+          "speaker": "Mai",
+          "text": "I love my room."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mai",
+          "text": "My bedroom window is big. I can see the garden and the trees."
+        },
+        {
+          "id": "s6",
+          "speaker": "Mai",
+          "text": "At night, I look at the moon from my bed. It is lovely."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A messy room",
+      "intro": "You will hear Lily and her dad.",
+      "speakers": {
+        "Dad": "male",
+        "Lily": "female"
+      },
+      "script": [
+        {
+          "id": "s7",
+          "speaker": "Dad",
+          "text": "Lily, your room is messy."
+        },
+        {
+          "id": "s8",
+          "speaker": "Lily",
+          "text": "Sorry, Dad."
+        },
+        {
+          "id": "s9",
+          "speaker": "Dad",
+          "text": "Put your books on the shelf."
+        },
+        {
+          "id": "s10",
+          "speaker": "Lily",
+          "text": "OK. Where do my clothes go?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Dad",
+          "text": "In the wardrobe, not on the floor."
+        },
+        {
+          "id": "s12",
+          "speaker": "Lily",
+          "text": "And the ball?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Dad",
+          "text": "In the toy box."
+        },
+        {
+          "id": "s14",
+          "speaker": "Lily",
+          "text": "Now my room is tidy, Dad. Look at it!"
+        },
+        {
+          "id": "s15",
+          "speaker": "Dad",
+          "text": "Well done, Lily. It looks so nice. Thank you for your help."
+        },
+        {
+          "id": "s16",
+          "speaker": "Lily",
+          "text": "I will keep it clean. I promise."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Bedtime",
+      "intro": "You will hear Ben and his mum.",
+      "speakers": {
+        "Mum": "female",
+        "Ben": "male"
+      },
+      "script": [
+        {
+          "id": "s17",
+          "speaker": "Mum",
+          "text": "Ben, it's time for bed."
+        },
+        {
+          "id": "s18",
+          "speaker": "Ben",
+          "text": "Can I read a book?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Mum",
+          "text": "Yes, one book. Then lights off."
+        },
+        {
+          "id": "s20",
+          "speaker": "Ben",
+          "text": "Can I have my night light?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Mum",
+          "text": "Yes. Good night, Ben."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mum",
+          "text": "Sleep well, my boy. See you in the morning."
+        },
+        {
+          "id": "s23",
+          "speaker": "Ben",
+          "text": "Good night, Mum. I love you."
+        },
+        {
+          "id": "s24",
+          "speaker": "Mum",
+          "text": "I love you too, Ben. Sweet dreams."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What colour is Mai's bed?",
+      "options": [
+        "Blue",
+        "Yellow",
+        "Pink"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says she has a pink bed. The lamp is yellow.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I have a pink bed"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where are the toys?",
+      "options": [
+        "In a box under the bed",
+        "In the wardrobe",
+        "On the pillow"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The toys are in a box under the bed.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "in a box under the bed"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where is the teddy bear?",
+      "options": [
+        "On the chair",
+        "On the pillow",
+        "Under the bed"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The teddy bear is on the pillow.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "My teddy bear is on the pillow"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Does Mai like her room?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Yes. She says: \"I love my room.\"",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I love my room"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is Lily's room like?",
+      "options": [
+        "Cold",
+        "Big",
+        "Messy"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dad says her room is messy.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "your room is messy"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where do the books go?",
+      "options": [
+        "On the floor",
+        "In the toy box",
+        "On the shelf"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Dad says to put the books on the shelf.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "Put your books on the shelf"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where does the ball go?",
+      "options": [
+        "In the toy box",
+        "On the shelf",
+        "In the wardrobe"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Dad says the ball goes in the toy box.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "In the toy box"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Ben want to do?",
+      "options": [
+        "Read a book",
+        "Watch TV",
+        "Play a game"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben asks: \"Can I read a book?\"",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Can I read a book?"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How many books can he read?",
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mum says: \"Yes, one book.\"",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "Yes, one book"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Ben ask for?",
+      "options": [
+        "A night light",
+        "A drink",
+        "A toy"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Ben asks for his night light.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Can I have my night light?"
+        }
+      ]
+    }
+  ]
+}

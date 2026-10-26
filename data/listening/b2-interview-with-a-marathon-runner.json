@@ -1,0 +1,674 @@
+{
+  "id": "l-b2-interview-with-a-marathon-runner",
+  "title": "Interview with a Marathon Runner",
+  "level": "B2 · Upper-intermediate",
+  "description": "Four recordings about a marathon runner: a radio interview, a talk with his coach, a school talk and a podcast discussion.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Radio interview",
+      "intro": "You will hear a radio presenter, Lan, interviewing a marathon runner called Daniel.",
+      "speakers": {
+        "Lan": "female",
+        "Daniel": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Lan",
+          "text": "Welcome to Weekend Talk. My guest today is Daniel, who finished his twentieth marathon last month. Daniel, most people would say that's a bit crazy."
+        },
+        {
+          "id": "s2",
+          "speaker": "Daniel",
+          "text": "They do, and they're probably right, Lan. But I started running at thirty-five, mainly because my doctor told me to lose weight. I could hardly run to the end of my road."
+        },
+        {
+          "id": "s3",
+          "speaker": "Lan",
+          "text": "So how did you get from the end of the road to forty-two kilometres?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Daniel",
+          "text": "Very slowly. In the first year I ran three times a week and never more than five kilometres. I made the mistake most beginners make, which was trying to go too far, too fast. Then I got injured and had to stop for two months."
+        },
+        {
+          "id": "s5",
+          "speaker": "Lan",
+          "text": "Did you think about giving up?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Daniel",
+          "text": "Honestly, yes. But a neighbour persuaded me to join a running club. Having people waiting for me on Saturday mornings made it much harder to stay in bed."
+        },
+        {
+          "id": "s7",
+          "speaker": "Lan",
+          "text": "What does a normal week look like now?"
+        },
+        {
+          "id": "s8",
+          "speaker": "Daniel",
+          "text": "Five runs, one long run of about thirty kilometres on Sundays, and two rest days when I do absolutely nothing. People forget that rest is part of the training."
+        },
+        {
+          "id": "s9",
+          "speaker": "Lan",
+          "text": "And what do you eat before a race?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Daniel",
+          "text": "Pasta, of course, like everyone. Though the night before, I keep it simple. I once tried a spicy curry and I regretted it by kilometre ten."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · At the training centre",
+      "intro": "You will hear Daniel talking to his coach, Ruth, about an injury.",
+      "speakers": {
+        "Ruth": "female",
+        "Daniel": "male"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Ruth",
+          "text": "Daniel, come in. How's the knee?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Daniel",
+          "text": "Better than last week, but it still hurts when I go downstairs. I'm worried about the race in March."
+        },
+        {
+          "id": "s13",
+          "speaker": "Ruth",
+          "text": "Which is eight weeks away. That's enough time, provided you're sensible. Have you been running on it?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Daniel",
+          "text": "Only a little. Twice, actually, about five kilometres each time. Well, the second time was more like eight."
+        },
+        {
+          "id": "s15",
+          "speaker": "Ruth",
+          "text": "Daniel, that's exactly what I told you not to do."
+        },
+        {
+          "id": "s16",
+          "speaker": "Daniel",
+          "text": "I know, I know. But I felt fine, and I was frightened of losing fitness."
+        },
+        {
+          "id": "s17",
+          "speaker": "Ruth",
+          "text": "You won't lose it in a fortnight. What you could lose is the whole season if the injury gets worse. I want you swimming and cycling for two weeks. No running at all."
+        },
+        {
+          "id": "s18",
+          "speaker": "Daniel",
+          "text": "Swimming? I hate swimming. I sink."
+        },
+        {
+          "id": "s19",
+          "speaker": "Ruth",
+          "text": "Then you'll have a good reason to improve. Seriously, the water takes the weight off your joints. And I'll give you some strength exercises for your legs. Do them every morning, ten minutes only."
+        },
+        {
+          "id": "s20",
+          "speaker": "Daniel",
+          "text": "All right. And if the knee is better after two weeks?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Ruth",
+          "text": "Then we start again with short, slow runs. If it isn't, I'll send you for a scan."
+        },
+        {
+          "id": "s22",
+          "speaker": "Daniel",
+          "text": "Understood. Thanks, Ruth. I'll behave, I promise."
+        },
+        {
+          "id": "s23",
+          "speaker": "Ruth",
+          "text": "I'll believe it when I see it."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A talk to students",
+      "intro": "You will hear Daniel giving a talk to a group of school students.",
+      "speakers": {
+        "Daniel": "male"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Daniel",
+          "text": "Hello, everyone, and thanks for inviting me. I was asked to talk about running, but I'd rather talk about what happens in your head, because that's where marathons are really won or lost."
+        },
+        {
+          "id": "s25",
+          "speaker": "Daniel",
+          "text": "Around kilometre thirty, almost everybody hits what runners call the wall. Your legs are heavy, your mind is shouting at you to stop, and the finish line feels impossibly far away."
+        },
+        {
+          "id": "s26",
+          "speaker": "Daniel",
+          "text": "What helps me is to break the race into small pieces. I never think about forty-two kilometres. I think about reaching the next water station, or the next tree, or the next song in my headphones."
+        },
+        {
+          "id": "s27",
+          "speaker": "Daniel",
+          "text": "I also talk to myself, but kindly. If a friend was struggling, you'd say, you're doing well, keep going. So why do we speak so harshly to ourselves? Try being your own coach rather than your own critic."
+        },
+        {
+          "id": "s28",
+          "speaker": "Daniel",
+          "text": "Another thing: you should never compare yourself with the person next to you. Last year, a woman of seventy overtook me at kilometre thirty-five, and I was determined to catch her. I never did, and I ended the race exhausted. I learned that my race is my own."
+        },
+        {
+          "id": "s29",
+          "speaker": "Daniel",
+          "text": "None of this is only about sport. Exams, interviews, difficult conversations, they all have a wall. If you know it's coming, and you have a plan, it becomes much less frightening."
+        },
+        {
+          "id": "s30",
+          "speaker": "Daniel",
+          "text": "So, my advice is simple. Be patient, be kind to yourself, and take it one tree at a time. Thank you. Any questions?"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A podcast discussion",
+      "intro": "You will hear Minh and Helen discussing whether everyone should run a marathon.",
+      "speakers": {
+        "Minh": "male",
+        "Helen": "female"
+      },
+      "script": [
+        {
+          "id": "s31",
+          "speaker": "Minh",
+          "text": "Today's question is a big one: should everyone try to run a marathon at least once? Helen, I know you think so."
+        },
+        {
+          "id": "s32",
+          "speaker": "Helen",
+          "text": "I do, Minh, although I'd say it comes with conditions. I ran my first one at forty and it changed how I see myself. If I can do that, I thought, what else am I capable of?"
+        },
+        {
+          "id": "s33",
+          "speaker": "Minh",
+          "text": "See, I find that argument a bit romantic. A marathon is an enormous strain on the body. Doctors see a lot of knee and hip problems in people who push too hard."
+        },
+        {
+          "id": "s34",
+          "speaker": "Helen",
+          "text": "That's fair, and I'm not suggesting anyone just wakes up and runs forty-two kilometres. You need at least four or five months of training. But for most healthy people, it's perfectly safe if you build up slowly."
+        },
+        {
+          "id": "s35",
+          "speaker": "Minh",
+          "text": "Even so, why a marathon? A ten-kilometre race gives you the same sense of achievement with a fraction of the commitment."
+        },
+        {
+          "id": "s36",
+          "speaker": "Helen",
+          "text": "Because the commitment is the point. The race is one day, but the months of training change your habits, your sleep, your diet. That's the real benefit."
+        },
+        {
+          "id": "s37",
+          "speaker": "Minh",
+          "text": "Hmm. I'd still argue that the cost matters too. Entry fees, shoes, travel, it all adds up. Not everyone can afford that."
+        },
+        {
+          "id": "s38",
+          "speaker": "Helen",
+          "text": "Good point, I'll admit. Though running itself is almost free, and you could do a marathon distance on your own local roads. You don't need a fancy event."
+        },
+        {
+          "id": "s39",
+          "speaker": "Minh",
+          "text": "Right, so we agree on one thing. The goal should be what suits each person, not what impresses other people."
+        },
+        {
+          "id": "s40",
+          "speaker": "Helen",
+          "text": "Exactly. Do it for yourself, or don't do it at all."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why did Daniel start running?",
+      "options": [
+        "He was bored with his job and needed a hobby",
+        "His doctor advised him to lose weight",
+        "He wanted to win races against his friends",
+        "A neighbour asked him to join a running club"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says his doctor told him to lose weight. The neighbour only persuaded him to join a club later.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "my doctor told me to lose weight"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What mistake did Daniel make as a beginner?",
+      "options": [
+        "Joining a running club far too early",
+        "Trying to go too far, too fast",
+        "Not eating enough pasta before each race",
+        "Running only in the evening after work"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says most beginners try to go too far, too fast, and he got injured.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "trying to go too far, too fast"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why did the running club help Daniel?",
+      "options": [
+        "It taught him how to cook healthy meals before races",
+        "It made him feel he could not let people down",
+        "It was located near the end of his road, so it was easy",
+        "It lent him better shoes and a training plan"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "People waiting for him on Saturday mornings made it harder to stay in bed.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "made it much harder to stay in bed"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Daniel do on his rest days?",
+      "options": [
+        "A short run",
+        "Absolutely nothing",
+        "Training with the club",
+        "Some cycling"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he does absolutely nothing, because rest is part of the training.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "two rest days when I do absolutely nothing"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "How does Daniel feel about the spicy curry?",
+      "options": [
+        "He recommends it to others",
+        "He is proud of it",
+        "He regrets eating it",
+        "He eats it before every race"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he regretted it by kilometre ten.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "I regretted it by kilometre ten"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How far away is the race?",
+      "options": [
+        "About ten weeks, in the middle of April",
+        "About eight weeks, in March",
+        "Just two weeks, so he must hurry",
+        "Next month, at the end of the winter"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Ruth says the race in March is eight weeks away.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Which is eight weeks away."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How far did Daniel run the second time?",
+      "options": [
+        "About two kilometres, as Ruth advised",
+        "About ten kilometres, on both days",
+        "About eight kilometres",
+        "About five kilometres, the first time"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He ran about five kilometres the first time but the second time was more like eight.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "the second time was more like eight"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Ruth feel when she hears what Daniel did?",
+      "options": [
+        "She is delighted with how fast he is recovering",
+        "She is not interested in his running any more",
+        "She is annoyed that he ignored her advice",
+        "She is worried that the race date is too close"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says it is exactly what she told him not to do.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "that's exactly what I told you not to do."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Ruth recommend swimming?",
+      "options": [
+        "Daniel is already very good at swimming",
+        "The race itself includes a swimming section",
+        "It puts less strain on his joints",
+        "It builds fitness more quickly than running"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She explains that the water takes the weight off his joints.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "the water takes the weight off your joints"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "What does Ruth's last comment suggest?",
+      "options": [
+        "She will stop being his coach after the race",
+        "She trusts him completely to follow the plan",
+        "She doubts that he will really behave",
+        "She feels sorry for him because of his knee"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "\"I'll believe it when I see it\" means she is not sure he will follow her advice.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "I'll believe it when I see it."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is the talk mainly about?",
+      "options": [
+        "Choosing the right running shoes and clothes",
+        "How to beat older runners at the finish",
+        "What to eat and drink before a long race",
+        "The mental side of long-distance running"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He says he wants to talk about what happens in your head.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "what happens in your head"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What happens around kilometre thirty?",
+      "options": [
+        "Runners cross the finish line in tears",
+        "Runners often feel they cannot continue",
+        "The weather often changes for the worse",
+        "The water stations usually run out of water"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Almost everybody hits \"the wall\": heavy legs and a mind telling them to stop.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "almost everybody hits what runners call the wall"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What does Daniel mean by being \"your own coach rather than your own critic\"?",
+      "options": [
+        "Paying a professional coach to train you hard",
+        "Not listening to advice from other runners",
+        "Speaking to yourself in an encouraging way",
+        "Criticising yourself more in order to improve"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He compares it to encouraging a struggling friend instead of speaking harshly.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "Try being your own coach rather than your own critic."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Who overtook Daniel at kilometre thirty-five last year?",
+      "options": [
+        "A young student",
+        "A man in a costume",
+        "A woman of seventy",
+        "His neighbour"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says a woman of seventy overtook him.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "a woman of seventy overtook me at kilometre thirty-five"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "Why does Daniel mention exams and interviews?",
+      "options": [
+        "To warn students about cheating in exams",
+        "To change the subject before questions",
+        "To show his advice works outside sport",
+        "To complain about the stress of school"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says none of this is only about sport; those situations also have a wall.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "None of this is only about sport."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How old was Helen when she ran her first marathon?",
+      "options": [
+        "Fifty",
+        "Forty",
+        "Thirty-five",
+        "Twenty"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says she ran her first one at forty.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "I ran my first one at forty"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Minh's reaction to Helen's first argument?",
+      "options": [
+        "He thinks it is silly and rude",
+        "He has not heard it before",
+        "He thinks it is rather romantic",
+        "He finds it completely convincing"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he finds that argument a bit romantic, meaning not very realistic.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "I find that argument a bit romantic."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Helen think is the real benefit of a marathon?",
+      "options": [
+        "Seeing new countries and cities while travelling",
+        "Meeting new friends at the start line",
+        "The medal and the photographs afterwards",
+        "The change in habits during training"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says the months of training change your habits, sleep and diet.",
+      "evidence": [
+        {
+          "lineId": "s36",
+          "quote": "the months of training change your habits"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What costs does Minh mention?",
+      "options": [
+        "Gym membership and a personal trainer",
+        "Doctors' bills and physiotherapy sessions",
+        "Entry fees, shoes and travel",
+        "The price of food and sports drinks"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He lists entry fees, shoes and travel.",
+      "evidence": [
+        {
+          "lineId": "s37",
+          "quote": "Entry fees, shoes, travel, it all adds up."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What do the speakers agree on at the end?",
+      "options": [
+        "Everyone should run a marathon at least once, but slowly",
+        "Marathons are too dangerous for healthy adults",
+        "People should choose goals that suit themselves",
+        "Races should be cheaper so more people can enter"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Minh says the goal should be what suits each person, and Helen says exactly.",
+      "evidence": [
+        {
+          "lineId": "s39",
+          "quote": "The goal should be what suits each person"
+        }
+      ]
+    }
+  ]
+}

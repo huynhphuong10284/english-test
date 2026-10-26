@@ -1,0 +1,643 @@
+{
+  "id": "l-c2-the-economics-of-happiness",
+  "title": "The Economics of Happiness",
+  "level": "C2 · Proficiency",
+  "description": "A lecture, a student question session and a discussion about money, wellbeing and whether governments should measure happiness.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Does money buy happiness?",
+      "intro": "You will hear the opening of a university lecture on the economics of happiness.",
+      "speakers": {
+        "Professor Lam": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Professor Lam",
+          "text": "Good morning. Today's question sounds like a topic for a self-help book, but it has occupied serious economists for fifty years: does more money make people happier?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Professor Lam",
+          "text": "In the nineteen-seventies, an economist noticed something puzzling. Within any one country, richer people reported being happier than poorer ones. Yet as whole nations grew much richer over decades, average reported happiness barely moved. This became known as the paradox, and it has been argued over ever since."
+        },
+        {
+          "id": "s3",
+          "speaker": "Professor Lam",
+          "text": "Two explanations dominate. The first is adaptation. We get used to improvements surprisingly fast. A new house, a promotion or a faster car delivers a glow that fades within months, because our expectations quietly rise to meet our circumstances."
+        },
+        {
+          "id": "s4",
+          "speaker": "Professor Lam",
+          "text": "The second is comparison. We judge our income largely against other people's. If everyone in a street gets a pay rise, nobody feels richer, because the benchmark has moved with them."
+        },
+        {
+          "id": "s5",
+          "speaker": "Professor Lam",
+          "text": "Now, more recent studies using much larger surveys have complicated the story. Some find that happiness does keep rising with income, even among the wealthy, though with diminishing returns: the first extra thousand matters far more than the hundredth. Others find the relationship flattens for most people but not for the unhappiest."
+        },
+        {
+          "id": "s6",
+          "speaker": "Professor Lam",
+          "text": "So, where does that leave us? I'd say the honest summary is that money matters a great deal when you are short of it, and rather less once your basic needs and a little security are met. But I'd be wary of anyone who claims the evidence is settled."
+        },
+        {
+          "id": "s7",
+          "speaker": "Professor Lam",
+          "text": "And a methodological warning. Happiness is usually measured by asking people to rate their lives on a scale. That is a blunt instrument, and the answer can vary with the weather or what question came first. We use it because it's the best tool available, not because it's perfect."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Questions about measurement",
+      "intro": "You will hear a student, Tom, asking Professor Lam about happiness research.",
+      "speakers": {
+        "Tom": "male",
+        "Professor Lam": "female"
+      },
+      "script": [
+        {
+          "id": "s8",
+          "speaker": "Tom",
+          "text": "Professor, if happiness is measured so roughly, why should policymakers pay any attention to it?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Professor Lam",
+          "text": "A fair challenge. Think of a thermometer that is a little inaccurate. One reading tells you little, but thousands of readings reveal real patterns. Surveys of large populations show that unemployment, for example, lowers reported life satisfaction far more than the lost income alone would explain."
+        },
+        {
+          "id": "s10",
+          "speaker": "Tom",
+          "text": "So it's not only about the money."
+        },
+        {
+          "id": "s11",
+          "speaker": "Professor Lam",
+          "text": "Precisely. People lose structure, status and a sense of purpose. Economists used to assume that unemployed people simply lost wages. The happiness data suggested they lose rather more."
+        },
+        {
+          "id": "s12",
+          "speaker": "Tom",
+          "text": "What about the things that do raise happiness?"
+        },
+        {
+          "id": "s13",
+          "speaker": "Professor Lam",
+          "text": "Relationships consistently top the list. Marriage matters less than you might think, but close friendships and a sense of trust in neighbours matter a great deal. Commuting is a surprise in the other direction: people systematically underestimate how much a long journey to work drains them. They accept a longer commute for a bigger house, and then never adapt to the commute, though they do adapt to the house."
+        },
+        {
+          "id": "s14",
+          "speaker": "Tom",
+          "text": "That's odd. Why don't we adapt to the commute?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Professor Lam",
+          "text": "Because it is unpleasant afresh each day. A traffic jam is a new irritation every morning, whereas a larger kitchen is simply there. It's a lovely example of how our predictions about what will please us can be systematically wrong."
+        },
+        {
+          "id": "s16",
+          "speaker": "Tom",
+          "text": "So economists should ask people to forecast less and observe more."
+        },
+        {
+          "id": "s17",
+          "speaker": "Professor Lam",
+          "text": "I'd put it more cautiously, but I won't argue."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Spending money well",
+      "intro": "You will hear Dr Barker giving a lecture on how people use their money.",
+      "speakers": {
+        "Dr Barker": "male"
+      },
+      "script": [
+        {
+          "id": "s18",
+          "speaker": "Dr Barker",
+          "text": "Let me move from why money disappoints to how it might disappoint a little less. A line of research asks a deceptively practical question: given that you have some money, what should you do with it?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Dr Barker",
+          "text": "One finding that has been replicated many times is that people tend to get more lasting satisfaction from experiences than from possessions. A holiday, a concert, a meal with friends, and, I'm told, even a rather bad camping trip, become treasured stories. A gadget, by contrast, is compared with next year's model."
+        },
+        {
+          "id": "s20",
+          "speaker": "Dr Barker",
+          "text": "Notice the connection with adaptation. An experience is over, so it can't become ordinary. And it's shared, so it feeds those relationships we discussed. A possession sits there being gradually taken for granted."
+        },
+        {
+          "id": "s21",
+          "speaker": "Dr Barker",
+          "text": "A second finding concerns spending on others. In experiments in countries as different as Canada and Uganda, people given a small sum to spend on someone else reported being happier than those told to spend it on themselves. That effect is modest, I should say, and not every replication finds it, but it is remarkably consistent."
+        },
+        {
+          "id": "s22",
+          "speaker": "Dr Barker",
+          "text": "A third idea is buying time. People who pay to outsource disliked chores, cleaning, for instance, tend to report greater satisfaction, even though the sums involved are small. The drawback, however, is that it's available mainly to those who have spare money in the first place, so there's an uncomfortable irony."
+        },
+        {
+          "id": "s23",
+          "speaker": "Dr Barker",
+          "text": "I should add a caveat about all of this advice. It can be turned into a new source of anxiety. If you start fretting about whether your holiday was meaningful enough, you've missed the point. The research describes tendencies in averages, not instructions for living."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Happiness and government policy",
+      "intro": "You will hear Professor Lam and Dr Barker discussing whether governments should measure happiness.",
+      "speakers": {
+        "Professor Lam": "female",
+        "Dr Barker": "male"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Professor Lam",
+          "text": "Let me defend an unfashionable position. Governments measure success by gross domestic product, and I think that's a mistake, or at least a very incomplete picture."
+        },
+        {
+          "id": "s25",
+          "speaker": "Dr Barker",
+          "text": "I'd agree it's incomplete, but I'd defend its virtues. It's clear, comparable and hard to manipulate. A happiness figure can be nudged by how a question is worded."
+        },
+        {
+          "id": "s26",
+          "speaker": "Professor Lam",
+          "text": "True, so I'm not proposing a replacement. I'm proposing a dashboard. Include health, time with family, mental health, trust, and yes, income. Some countries have already begun publishing wellbeing reports alongside budgets."
+        },
+        {
+          "id": "s27",
+          "speaker": "Dr Barker",
+          "text": "And do those reports change decisions?"
+        },
+        {
+          "id": "s28",
+          "speaker": "Professor Lam",
+          "text": "Sometimes, subtly. In one case, a government comparing options found that spending on mental health therapy returned far more wellbeing per pound than a road scheme that looked better on the usual cost-benefit analysis."
+        },
+        {
+          "id": "s29",
+          "speaker": "Dr Barker",
+          "text": "That's persuasive, but I worry about a darker possibility. A government that's told to maximise happiness might start telling us what happiness is. Freedom includes the freedom to be gloomy and productive, or content and idle."
+        },
+        {
+          "id": "s30",
+          "speaker": "Professor Lam",
+          "text": "A serious objection. I'd answer that measuring wellbeing doesn't oblige anyone to impose a lifestyle. We can use the data to remove obstacles, such as poor housing or insecure work, without prescribing how to live."
+        },
+        {
+          "id": "s31",
+          "speaker": "Dr Barker",
+          "text": "Then I'd call that modest, and modest I can support."
+        },
+        {
+          "id": "s32",
+          "speaker": "Professor Lam",
+          "text": "Modest is underrated in my profession. We tend to trust ambitious theories until they collide with data."
+        },
+        {
+          "id": "s33",
+          "speaker": "Dr Barker",
+          "text": "Then perhaps the best result of happiness research is a little humility."
+        },
+        {
+          "id": "s34",
+          "speaker": "Professor Lam",
+          "text": "And a shorter commute, if anyone's listening."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the main subject of the lecture extract?",
+      "options": [
+        "How people can become rich more quickly than their neighbours",
+        "Whether more money makes people happier, and why that is disputed",
+        "How governments can raise average incomes without lowering happiness",
+        "Why nations have grown so much richer since the seventies"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The lecturer asks whether more money brings happiness and then explains two explanations and mixed evidence.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "does more money make people happier?"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What was puzzling about the early findings?",
+      "options": [
+        "Happiness fell as incomes rose, both within and between countries over time",
+        "Poorer people reported being happier than richer people in the same country",
+        "Nations that grew richer reported being less happy than their poorer neighbours",
+        "Richer people were happier within a country, but richer nations were not"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Within a country richer people were happier, yet average happiness barely moved as nations grew richer.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "average reported happiness barely moved"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "According to the lecturer, why does adaptation limit the effect of improvements?",
+      "options": [
+        "Improvements are usually smaller than people were promised",
+        "People spend their extra money too quickly to enjoy it",
+        "People compare themselves with richer neighbours and colleagues",
+        "Our expectations rise to match our new circumstances"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says the glow fades because expectations quietly rise to meet our circumstances.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "our expectations quietly rise to meet our circumstances"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does the example of a street where everyone gets a pay rise illustrate?",
+      "options": [
+        "People judge income against others, so shared gains feel small",
+        "Pay rises always make people happier, whoever else gets one",
+        "Wages in neighbouring streets tend to rise at the same rate",
+        "Neighbours dislike one another when salaries are made public"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says nobody feels richer because the benchmark has moved with them.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "nobody feels richer, because the benchmark has moved with them"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What is the lecturer's attitude to the question of whether the evidence is settled?",
+      "options": [
+        "She is certain that money has no effect on happiness",
+        "She thinks the question is too vague to be meaningful",
+        "She is cautious and thinks it is not settled",
+        "She believes the evidence is now completely settled"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she would be wary of anyone who claims the evidence is settled.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I'd be wary of anyone who claims the evidence is settled"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Professor Lam compare happiness surveys to an inaccurate thermometer?",
+      "options": [
+        "To show that many readings can still reveal real patterns",
+        "To explain why the weather affects people's mood so much",
+        "To suggest that scientists use poor equipment in their research",
+        "To prove that happiness cannot be measured at all"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says one reading tells little but thousands reveal real patterns.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "thousands of readings reveal real patterns"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "inference",
+      "text": "What does the finding about unemployment suggest?",
+      "options": [
+        "Unemployed people are often happier than economists had expected",
+        "Income has no effect at all on happiness levels",
+        "Losing a job harms wellbeing by more than the lost income",
+        "Wages are the only thing that matters to workers"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says unemployment lowers life satisfaction far more than the lost income would explain, because people lose structure, status and purpose.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "far more than the lost income alone would explain"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "According to Professor Lam, which factor matters less than people might think?",
+      "options": [
+        "Trust in neighbours",
+        "Close friendships",
+        "Marriage",
+        "The length of the commute"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says marriage matters less than you might think, while friendships and trust matter a great deal.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "Marriage matters less than you might think"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why do people fail to adapt to a long commute?",
+      "options": [
+        "They only notice it at the weekend",
+        "It brings a fresh irritation every day",
+        "It is always much longer than expected",
+        "People enjoy their larger houses less"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She explains that a traffic jam is a new irritation each morning, unlike a larger kitchen which is simply there.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "A traffic jam is a new irritation every morning"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Professor Lam react to Tom's final suggestion?",
+      "options": [
+        "She partly agrees but prefers a more cautious wording",
+        "She rejects it angrily and ends the discussion",
+        "She accepts it completely and thanks him warmly",
+        "She thinks he has completely misunderstood her point"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she would put it more cautiously, but she will not argue.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I'd put it more cautiously, but I won't argue."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What have studies repeatedly found about experiences and possessions?",
+      "options": [
+        "Experiences are always cheaper than possessions",
+        "Experiences give longer-lasting satisfaction",
+        "They give about equal satisfaction in the end",
+        "Possessions give longer-lasting satisfaction overall"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says people tend to get more lasting satisfaction from experiences than from possessions.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "more lasting satisfaction from experiences than from possessions"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why do experiences resist adaptation, according to Dr Barker?",
+      "options": [
+        "They cannot be compared with anything else at all",
+        "They are always more expensive than possessions",
+        "They are remembered less clearly as time passes",
+        "They end and are often shared with others"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "He explains that an experience is over, so it cannot become ordinary, and it is shared, so it feeds relationships.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "An experience is over, so it can't become ordinary."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What happened in the experiments about spending on others?",
+      "options": [
+        "The effect was strong in Canada but absent in Uganda",
+        "People who spent a little on someone else were happier",
+        "Nobody in either country reported any difference at all",
+        "People who kept the money for themselves were happier"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says people given a small sum to spend on others reported being happier than those who spent it on themselves.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "reported being happier than those told to spend it on themselves"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "What irony does Dr Barker mention about buying time?",
+      "options": [
+        "It is mainly open to those who already have spare money",
+        "It makes people busier and less happy than before",
+        "It is more expensive than buying objects or experiences",
+        "It is only useful for people who dislike cleaning"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says it is available mainly to those with spare money in the first place.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "available mainly to those who have spare money in the first place"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What is the purpose of Dr Barker's final caveat?",
+      "options": [
+        "To encourage listeners to spend more on holidays and meals",
+        "To warn that the advice should not cause new anxiety",
+        "To suggest that the research is worthless in practice",
+        "To correct a mistake in the data he showed earlier"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says the advice can create anxiety and that research describes tendencies in averages, not instructions for living.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "not instructions for living"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is Professor Lam's position at the start of the discussion?",
+      "options": [
+        "Happiness is impossible to measure, so it should be ignored",
+        "Gross domestic product should be abolished and replaced entirely",
+        "Governments should ignore wellbeing when setting their budgets",
+        "Gross domestic product gives an incomplete picture of success"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says measuring success by gross domestic product is a mistake or at least very incomplete.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "a very incomplete picture"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "How does Dr Barker defend gross domestic product?",
+      "options": [
+        "He says it is clear, comparable and hard to manipulate",
+        "He says it has never been criticised by economists",
+        "He says it includes health, trust and time with family",
+        "He claims it measures happiness better than any survey"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He lists its virtues as clarity, comparability and resistance to manipulation.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "It's clear, comparable and hard to manipulate."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does the example about therapy and a road scheme suggest?",
+      "options": [
+        "Therapy is cheaper to provide than any road scheme",
+        "Governments rarely compare their options in this way",
+        "Roads are never a good investment of public money",
+        "Standard cost-benefit analysis can miss gains in wellbeing"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "She says therapy returned more wellbeing per pound than a road that looked better on the usual analysis.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "a road scheme that looked better on the usual cost-benefit analysis"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Dr Barker raise the freedom to be gloomy and productive?",
+      "options": [
+        "To say that idle people are happier than busy ones",
+        "To argue that gloomy people tend to work harder",
+        "To warn that governments could impose their idea of happiness",
+        "To suggest that happiness research is dishonest by design"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He worries that a government told to maximise happiness might start telling us what happiness is.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "might start telling us what happiness is"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "On what do the speakers find common ground at the end?",
+      "options": [
+        "Banning long commutes by law in the largest cities",
+        "Replacing gross domestic product completely with a happiness index",
+        "Telling citizens how to spend their money more wisely",
+        "Using wellbeing data modestly to remove obstacles, not prescribe lifestyles"
+      ],
+      "answer": 3,
+      "points": 1,
+      "explanation": "Dr Barker says he can support the modest use of data that she describes, and they conclude with humility.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "modest I can support"
+        }
+      ]
+    }
+  ]
+}

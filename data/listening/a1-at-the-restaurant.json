@@ -1,0 +1,629 @@
+{
+  "id": "l-a1-at-the-restaurant",
+  "title": "At the Restaurant",
+  "level": "A1 · Beginner",
+  "description": "Four short recordings about eating out: booking a table, ordering, a special offer and paying the bill.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Booking a table",
+      "intro": "You will hear a man, Nam, phoning a restaurant to book a table.",
+      "speakers": {
+        "Nam": "male",
+        "Waitress": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Waitress",
+          "text": "Hello, Blue Garden Restaurant. How can I help you?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "Hello. I'd like to book a table for Saturday evening, please."
+        },
+        {
+          "id": "s3",
+          "speaker": "Waitress",
+          "text": "Certainly. How many people?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "Five people, no, sorry, six. My brother is coming too."
+        },
+        {
+          "id": "s5",
+          "speaker": "Waitress",
+          "text": "And what time would you like?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "At seven o'clock, please."
+        },
+        {
+          "id": "s7",
+          "speaker": "Waitress",
+          "text": "I'm sorry, we are full at seven. We have a table at half past seven."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "That's fine. Half past seven is OK."
+        },
+        {
+          "id": "s9",
+          "speaker": "Waitress",
+          "text": "Could I have your name, please?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Nam",
+          "text": "It's Nam Tran. Thank you very much."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Ordering food",
+      "intro": "You will hear a waiter and a girl, Lily, ordering lunch.",
+      "speakers": {
+        "Waiter": "male",
+        "Lily": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Waiter",
+          "text": "Good afternoon. Are you ready to order?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Lily",
+          "text": "Yes, please. I'd like the chicken soup to start."
+        },
+        {
+          "id": "s13",
+          "speaker": "Waiter",
+          "text": "And for the main course?"
+        },
+        {
+          "id": "s14",
+          "speaker": "Lily",
+          "text": "Hmm. Is the fish good today?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Waiter",
+          "text": "Yes, it's very fresh. It comes with potatoes and green beans."
+        },
+        {
+          "id": "s16",
+          "speaker": "Lily",
+          "text": "I don't like beans. Can I have salad instead?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Waiter",
+          "text": "Of course. And to drink?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Lily",
+          "text": "A glass of water, please. No juice for me."
+        },
+        {
+          "id": "s19",
+          "speaker": "Waiter",
+          "text": "Would you like a dessert?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Lily",
+          "text": "Yes! One ice cream, please. I love chocolate ice cream."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A special offer",
+      "intro": "You will hear a radio advertisement for a restaurant.",
+      "speakers": {
+        "Presenter": "female"
+      },
+      "script": [
+        {
+          "id": "s21",
+          "speaker": "Presenter",
+          "text": "Are you hungry? Come to Mama Rosa's Kitchen! We are in the town centre, next to the post office."
+        },
+        {
+          "id": "s22",
+          "speaker": "Presenter",
+          "text": "We are open every day from eleven o'clock in the morning until ten o'clock at night."
+        },
+        {
+          "id": "s23",
+          "speaker": "Presenter",
+          "text": "This week, we have a special family menu. Two adults and two children eat for only thirty pounds."
+        },
+        {
+          "id": "s24",
+          "speaker": "Presenter",
+          "text": "Our pizza is famous. Children can make their own pizza on Sunday afternoons. It's great fun!"
+        },
+        {
+          "id": "s25",
+          "speaker": "Presenter",
+          "text": "And on Monday, we are closed in the morning, because we clean the kitchen. Come and see us soon!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · Paying the bill",
+      "intro": "You will hear Mr Park and a waitress at the end of a meal.",
+      "speakers": {
+        "Mr Park": "male",
+        "Waitress": "female"
+      },
+      "script": [
+        {
+          "id": "s26",
+          "speaker": "Mr Park",
+          "text": "Excuse me. Can we have the bill, please?"
+        },
+        {
+          "id": "s27",
+          "speaker": "Waitress",
+          "text": "Certainly, sir. Did you enjoy your meal?"
+        },
+        {
+          "id": "s28",
+          "speaker": "Mr Park",
+          "text": "Yes, thank you. The soup was delicious. But my daughter says the pasta was too salty."
+        },
+        {
+          "id": "s29",
+          "speaker": "Waitress",
+          "text": "Oh, I'm sorry about that. I'll tell the cook."
+        },
+        {
+          "id": "s30",
+          "speaker": "Mr Park",
+          "text": "That's OK. How much is it?"
+        },
+        {
+          "id": "s31",
+          "speaker": "Waitress",
+          "text": "Two soups, one pasta and two drinks. It's twenty-eight pounds."
+        },
+        {
+          "id": "s32",
+          "speaker": "Mr Park",
+          "text": "Can I pay by card?"
+        },
+        {
+          "id": "s33",
+          "speaker": "Waitress",
+          "text": "I'm sorry, the card machine is broken today. Only cash, please."
+        },
+        {
+          "id": "s34",
+          "speaker": "Mr Park",
+          "text": "Oh dear. I have thirty pounds. Here you are. Keep the change."
+        },
+        {
+          "id": "s35",
+          "speaker": "Waitress",
+          "text": "Thank you very much, sir. Have a nice evening!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "purpose",
+      "text": "Why does Nam phone the restaurant?",
+      "options": [
+        "To order food to take home",
+        "To ask for a job",
+        "To book a table"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He wants to book a table for Saturday evening.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I'd like to book a table"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many people will come?",
+      "options": [
+        "Seven",
+        "Six",
+        "Five"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Nam changes the number from five to six.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "sorry, six"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which day is the booking for?",
+      "options": [
+        "Sunday",
+        "Saturday",
+        "Friday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The table is for Saturday evening.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Saturday evening"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time is the table?",
+      "options": [
+        "At seven o'clock",
+        "At half past seven",
+        "At eight o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The restaurant is full at seven, so the table is at half past seven.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "We have a table at half past seven"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is Nam's family name?",
+      "options": [
+        "Nguyen",
+        "Tran",
+        "Tom"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says: It's Nam Tran.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "It's Nam Tran"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Lily order to start?",
+      "options": [
+        "Chicken soup",
+        "Fish",
+        "A salad"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She orders chicken soup to start.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I'd like the chicken soup to start"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What main course does Lily choose?",
+      "options": [
+        "Fish",
+        "Pasta",
+        "Chicken"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She asks about the fish and chooses it.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "Is the fish good today?"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "What does Lily NOT like?",
+      "options": [
+        "Salad",
+        "Potatoes",
+        "Green beans"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Lily says she doesn't like beans.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "I don't like beans"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Lily want to drink?",
+      "options": [
+        "Orange juice",
+        "Water",
+        "Milk"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She wants a glass of water, no juice.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "A glass of water, please"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What dessert does Lily want?",
+      "options": [
+        "Fruit",
+        "Cake",
+        "Chocolate ice cream"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She loves chocolate ice cream.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I love chocolate ice cream"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "What is the advertisement about?",
+      "options": [
+        "A school",
+        "A restaurant",
+        "A supermarket"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "It tells people about Mama Rosa's Kitchen.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Come to Mama Rosa's Kitchen!"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where is the restaurant?",
+      "options": [
+        "Next to the school",
+        "Near the beach",
+        "Next to the post office"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It is in the town centre, next to the post office.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "next to the post office"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "When does it close at night?",
+      "options": [
+        "At nine o'clock",
+        "At eleven o'clock",
+        "At ten o'clock"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "It is open until ten o'clock at night. Eleven o'clock is the morning opening time.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "until ten o'clock at night"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How much is the special family menu?",
+      "options": [
+        "Twenty pounds",
+        "Thirty pounds",
+        "Thirteen pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Two adults and two children eat for thirty pounds.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "only thirty pounds"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What can children do on Sunday afternoons?",
+      "options": [
+        "Make their own pizza",
+        "Cook a cake",
+        "Play games outside"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Children can make their own pizza.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "Children can make their own pizza on Sunday afternoons"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What did Mr Park like?",
+      "options": [
+        "The soup",
+        "The drinks",
+        "The pasta"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says the soup was delicious.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "The soup was delicious"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What is wrong with the pasta?",
+      "options": [
+        "It was too salty.",
+        "It was cold.",
+        "It was too small."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "His daughter says it was too salty.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "the pasta was too salty"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How much is the bill?",
+      "options": [
+        "Thirty pounds",
+        "Twenty-eight pounds",
+        "Eighteen pounds"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The bill is twenty-eight pounds. Mr Park gives thirty.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "It's twenty-eight pounds"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why can't Mr Park pay by card?",
+      "options": [
+        "The machine is broken.",
+        "The restaurant is closed.",
+        "He has no card."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The waitress says the card machine is broken.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "the card machine is broken today"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "What does Mr Park do with the change?",
+      "options": [
+        "He keeps it.",
+        "He gives it to the waitress.",
+        "He puts it in his bag."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says: Keep the change.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "Keep the change"
+        }
+      ]
+    }
+  ]
+}

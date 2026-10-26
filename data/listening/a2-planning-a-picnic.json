@@ -1,0 +1,603 @@
+{
+  "id": "l-a2-planning-a-picnic",
+  "title": "Planning a Picnic",
+  "level": "A2 · Elementary",
+  "description": "Four recordings about planning a picnic: friends making plans, a weather forecast, a shopping call and a message about changes.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Making plans",
+      "intro": "You will hear two friends, Nam and Emma, planning a picnic.",
+      "speakers": {
+        "Nam": "male",
+        "Emma": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Emma",
+          "text": "Hi, Nam! I want to have a picnic on Sunday. Are you free?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Nam",
+          "text": "I think so. I have football in the morning, but I finish at twelve. Where do you want to go?"
+        },
+        {
+          "id": "s3",
+          "speaker": "Emma",
+          "text": "I was thinking about the lake in Green Park. It's quiet, and there are lots of trees."
+        },
+        {
+          "id": "s4",
+          "speaker": "Nam",
+          "text": "Good idea. But it's far from my house. Can we go by bike?"
+        },
+        {
+          "id": "s5",
+          "speaker": "Emma",
+          "text": "I'd prefer to go by bus. My bike has a flat tyre, and the bus stop is right outside the park."
+        },
+        {
+          "id": "s6",
+          "speaker": "Nam",
+          "text": "OK. Who else is coming?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Emma",
+          "text": "Linh and her little brother, and maybe Tom. That makes five people, or six if Tom comes."
+        },
+        {
+          "id": "s8",
+          "speaker": "Nam",
+          "text": "That's a nice number. Shall I bring some games?"
+        },
+        {
+          "id": "s9",
+          "speaker": "Emma",
+          "text": "Yes, please. Bring your frisbee. I'll bring a big blanket to sit on."
+        },
+        {
+          "id": "s10",
+          "speaker": "Nam",
+          "text": "Perfect. Let's meet at the bus stop at one o'clock."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · The weather forecast",
+      "intro": "You will hear a radio weather forecast for the weekend.",
+      "speakers": {
+        "Presenter": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Presenter",
+          "text": "Here is the weather forecast for the weekend. On Saturday, expect heavy rain in most parts of the country, with strong winds in the north."
+        },
+        {
+          "id": "s12",
+          "speaker": "Presenter",
+          "text": "Sunday will be much better. The morning will be cloudy and a little cold, but in the afternoon the clouds will go away."
+        },
+        {
+          "id": "s13",
+          "speaker": "Presenter",
+          "text": "By two o'clock, it will be sunny and warm, about twenty degrees. It will be a perfect day to be outside."
+        },
+        {
+          "id": "s14",
+          "speaker": "Presenter",
+          "text": "However, the evening will be cooler, so take a jumper if you stay out late."
+        },
+        {
+          "id": "s15",
+          "speaker": "Presenter",
+          "text": "Next week will start dry, but we expect rain again on Wednesday. That is all for now. Have a lovely weekend!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Planning the food",
+      "intro": "You will hear Emma on the phone with her father, asking about food for the picnic.",
+      "speakers": {
+        "Emma": "female",
+        "Dad": "male"
+      },
+      "script": [
+        {
+          "id": "s16",
+          "speaker": "Emma",
+          "text": "Dad, can I ask you something? I need food for the picnic on Sunday."
+        },
+        {
+          "id": "s17",
+          "speaker": "Dad",
+          "text": "Of course, Emma. What do you have in mind?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Emma",
+          "text": "Sandwiches, I think. Cheese and tomato. And some fruit, like apples and grapes."
+        },
+        {
+          "id": "s19",
+          "speaker": "Dad",
+          "text": "That sounds nice. But don't forget something sweet. I can make a chocolate cake tonight, if you like."
+        },
+        {
+          "id": "s20",
+          "speaker": "Emma",
+          "text": "That would be great! Oh, but my friend Linh can't eat nuts. Is there any in the cake?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Dad",
+          "text": "No, there aren't any. I'll make it simple. What about drinks?"
+        },
+        {
+          "id": "s22",
+          "speaker": "Emma",
+          "text": "Orange juice and water. Last time, we took lemonade, but it was too sweet."
+        },
+        {
+          "id": "s23",
+          "speaker": "Dad",
+          "text": "OK. I'll put the juice in a cold bag, so it stays cool. And take a bag for rubbish, too."
+        },
+        {
+          "id": "s24",
+          "speaker": "Emma",
+          "text": "Good idea, Dad. We must leave the park clean."
+        },
+        {
+          "id": "s25",
+          "speaker": "Dad",
+          "text": "That's the spirit. I'm proud of you. Have a lovely time!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A change of plan",
+      "intro": "You will hear a voicemail from Nam to Emma.",
+      "speakers": {
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s26",
+          "speaker": "Nam",
+          "text": "Hi, Emma. It's Nam. Sorry to bother you, but I have some news about Sunday."
+        },
+        {
+          "id": "s27",
+          "speaker": "Nam",
+          "text": "First, I can't come to the picnic at one o'clock. Our football match is later than usual, so I'll finish at two. Can you wait for me? I'll take a taxi, and I'll be at the lake by half past two."
+        },
+        {
+          "id": "s28",
+          "speaker": "Nam",
+          "text": "Second, Tom can come after all. He says he'll bring a guitar and some songs. I think that will be fun."
+        },
+        {
+          "id": "s29",
+          "speaker": "Nam",
+          "text": "And third, I checked the bus. The bus on Sunday only goes every hour, so please be careful about the time."
+        },
+        {
+          "id": "s30",
+          "speaker": "Nam",
+          "text": "Call me back if the plan is a problem. Otherwise, see you at the lake. Bye!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why can't Nam meet in the morning?",
+      "options": [
+        "He is at school.",
+        "He has football.",
+        "He has homework."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He has football in the morning and finishes at twelve.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I have football in the morning"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where will they have the picnic?",
+      "options": [
+        "At the beach",
+        "In a garden",
+        "By a lake in a park"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Emma suggests the lake in Green Park.",
+      "evidence": [
+        {
+          "lineId": "s3",
+          "quote": "the lake in Green Park"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why does Emma prefer the bus?",
+      "options": [
+        "Nam doesn't have a bike.",
+        "The bus is cheaper.",
+        "Her bike has a flat tyre."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Her bike has a flat tyre.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "My bike has a flat tyre"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What will Nam bring?",
+      "options": [
+        "Some food",
+        "A blanket",
+        "A frisbee"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Emma asks Nam to bring his frisbee. She will bring the blanket.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "Bring your frisbee."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What time will they meet?",
+      "options": [
+        "At half past twelve",
+        "At one o'clock",
+        "At twelve o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They will meet at the bus stop at one o'clock. Twelve o'clock is when Nam finishes football.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Let's meet at the bus stop at one o'clock."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will the weather be like on Saturday?",
+      "options": [
+        "Heavy rain",
+        "Cold and snowy",
+        "Sunny and warm"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The forecast says heavy rain for Saturday.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "expect heavy rain"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will Sunday morning be like?",
+      "options": [
+        "Cloudy and a little cold",
+        "Windy and wet",
+        "Sunny and hot"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Sunday morning will be cloudy and a little cold.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "cloudy and a little cold"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When will it be warm on Sunday?",
+      "options": [
+        "By two o'clock",
+        "In the morning",
+        "Late in the evening"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "By two o'clock, it will be sunny and warm.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "By two o'clock, it will be sunny and warm"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why should people take a jumper?",
+      "options": [
+        "The evening will be cooler.",
+        "The afternoon will be cold.",
+        "It will rain on Sunday."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The evening will be cooler, so a jumper is useful if you stay out late.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "the evening will be cooler"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When will it rain next week?",
+      "options": [
+        "On Friday",
+        "On Wednesday",
+        "On Monday"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Rain is expected again on Wednesday.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "rain again on Wednesday"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What kind of sandwiches will Emma make?",
+      "options": [
+        "Cheese and tomato",
+        "Chicken and cheese",
+        "Egg and salad"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Emma says cheese and tomato.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "Cheese and tomato."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What does Dad offer to make?",
+      "options": [
+        "Some sandwiches",
+        "A chocolate cake",
+        "An apple pie"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he can make a chocolate cake tonight.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I can make a chocolate cake tonight"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why does Emma ask about nuts?",
+      "options": [
+        "Nuts are too expensive.",
+        "Linh cannot eat nuts.",
+        "She does not like nuts."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her friend Linh can't eat nuts.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "my friend Linh can't eat nuts"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why will they not take lemonade this time?",
+      "options": [
+        "It was too sweet last time.",
+        "It was too expensive.",
+        "They forgot it."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Last time the lemonade was too sweet.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "it was too sweet"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Dad feel about Emma's plan to leave the park clean?",
+      "options": [
+        "He is surprised.",
+        "He is proud.",
+        "He is worried."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he is proud of her.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "I'm proud of you."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Nam leave the message?",
+      "options": [
+        "To change the plan for Sunday",
+        "To cancel the picnic",
+        "To ask about food"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says he has news about Sunday and changes his arrival time.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I have some news about Sunday."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What time will Nam arrive at the lake?",
+      "options": [
+        "At half past two",
+        "At three o'clock",
+        "At one o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He finishes football at two and will be at the lake by half past two.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "I'll be at the lake by half past two."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How will Nam get to the lake?",
+      "options": [
+        "By bike",
+        "By taxi",
+        "By bus"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he will take a taxi.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "I'll take a taxi"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What will Tom bring?",
+      "options": [
+        "A cake",
+        "A guitar",
+        "A frisbee"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom will bring a guitar and some songs.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "He says he'll bring a guitar and some songs."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does Nam say to be careful about the time?",
+      "options": [
+        "The park closes early.",
+        "The buses on Sunday are not often.",
+        "The weather will be bad."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The Sunday bus only goes every hour.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "The bus on Sunday only goes every hour"
+        }
+      ]
+    }
+  ]
+}

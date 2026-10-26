@@ -1,0 +1,628 @@
+{
+  "id": "l-b1-working-from-home",
+  "title": "Working from Home",
+  "level": "B1 · Intermediate",
+  "description": "Four recordings about working from home: a radio interview, a chat between colleagues, a podcast with tips and a message from a manager.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A radio interview",
+      "intro": "You will hear a radio presenter, Carla, interviewing a designer called Mark.",
+      "speakers": {
+        "Carla": "female",
+        "Mark": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Carla",
+          "text": "Today we're talking about working from home. My guest is Mark, a graphic designer who has worked from his flat for six years. Mark, what's the best thing about it?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Mark",
+          "text": "Definitely the freedom. I start when I want, and I don't spend two hours a day on a crowded train. I used to leave the house at seven and get back at seven. Now I use that time to go running."
+        },
+        {
+          "id": "s3",
+          "speaker": "Carla",
+          "text": "Is there a downside?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Mark",
+          "text": "Yes, loneliness. Some days I speak to nobody except the postman. At first, I found that really hard."
+        },
+        {
+          "id": "s5",
+          "speaker": "Carla",
+          "text": "How did you deal with it?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Mark",
+          "text": "I joined a shared office two days a week. It's not expensive, about eighty pounds a month, and I meet other freelancers there. We have lunch together on Fridays."
+        },
+        {
+          "id": "s7",
+          "speaker": "Carla",
+          "text": "And what about distractions at home? The washing, the television..."
+        },
+        {
+          "id": "s8",
+          "speaker": "Mark",
+          "text": "Oh, I used to be terrible. I'd watch one programme just for a minute and lose a whole morning. Now I have a rule: the television doesn't go on before six."
+        },
+        {
+          "id": "s9",
+          "speaker": "Carla",
+          "text": "Do you have a separate room for work?"
+        },
+        {
+          "id": "s10",
+          "speaker": "Mark",
+          "text": "Not really. I work at the kitchen table, and I tidy everything away at half past five. That helps my brain to switch off."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Two colleagues",
+      "intro": "You will hear two colleagues, Tom and Mai, talking about Mai's new home office.",
+      "speakers": {
+        "Tom": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s11",
+          "speaker": "Tom",
+          "text": "Hi, Mai. How's the new home office going? Your manager said you've been working from home since Monday."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mai",
+          "text": "It's OK, but my back hurts already. I'm using a dining chair, and it's not comfortable."
+        },
+        {
+          "id": "s13",
+          "speaker": "Tom",
+          "text": "You should buy a proper office chair. The company pays up to one hundred pounds for equipment, you know."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mai",
+          "text": "Really? Nobody told me! Do I need to send a receipt?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Tom",
+          "text": "Yes, send it to the finance team by email. But don't wait too long. You must do it within a month."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "Thanks. The other problem is the noise. My neighbour is building a new kitchen, and the drill starts at eight every morning."
+        },
+        {
+          "id": "s17",
+          "speaker": "Tom",
+          "text": "Ouch. Could you try headphones? I use the ones with noise cancelling, and they work well."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "I'll think about it. They look expensive. Maybe the company can pay for those too."
+        },
+        {
+          "id": "s19",
+          "speaker": "Tom",
+          "text": "Perhaps not, but ask. By the way, are you coming to the office on Thursday for the team meeting?"
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "Yes, I wouldn't miss it. Honestly, I miss chatting with everybody at lunch."
+        },
+        {
+          "id": "s21",
+          "speaker": "Tom",
+          "text": "We miss you too. Right, I have to go. I have a video call in two minutes."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A podcast",
+      "intro": "You will hear Priya, the host of a podcast about working from home.",
+      "speakers": {
+        "Priya": "female"
+      },
+      "script": [
+        {
+          "id": "s22",
+          "speaker": "Priya",
+          "text": "Welcome to Work Smart, the podcast for people who work from home. I'm Priya, and in today's episode I'm sharing my five best tips for staying productive."
+        },
+        {
+          "id": "s23",
+          "speaker": "Priya",
+          "text": "Tip one: have a morning routine. Get dressed, even if you're not leaving the house. I know it's tempting to work in your pyjamas, but research shows that wearing real clothes puts you in a working mood."
+        },
+        {
+          "id": "s24",
+          "speaker": "Priya",
+          "text": "Tip two: plan your day the night before. Write down three important tasks, not ten. If you finish all three, anything else is a bonus."
+        },
+        {
+          "id": "s25",
+          "speaker": "Priya",
+          "text": "Tip three: take regular breaks. I use a simple rule: work for fifty minutes, then rest for ten. Stand up, drink water, look out of the window. Don't check your phone, because that isn't really a rest."
+        },
+        {
+          "id": "s26",
+          "speaker": "Priya",
+          "text": "Tip four is about your space. Even a small corner is fine, but make sure it has good light. Try to sit near a window if you can."
+        },
+        {
+          "id": "s27",
+          "speaker": "Priya",
+          "text": "And tip five: finish on time. Many people who work from home end up working longer, because the office is always there. Decide your finishing time, and then close your laptop."
+        },
+        {
+          "id": "s28",
+          "speaker": "Priya",
+          "text": "Remember, working from home is a skill, and like any skill, it gets easier with practice."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A message from the manager",
+      "intro": "You will hear a voicemail message from a manager, Greg, to his team.",
+      "speakers": {
+        "Greg": "male"
+      },
+      "script": [
+        {
+          "id": "s29",
+          "speaker": "Greg",
+          "text": "Hello, team, it's Greg. I'm leaving this message for everyone, because I'll be in meetings all day and can't answer the phone."
+        },
+        {
+          "id": "s30",
+          "speaker": "Greg",
+          "text": "First, thank you for the way you've adapted to our new working from home policy. The first month has gone better than I expected."
+        },
+        {
+          "id": "s31",
+          "speaker": "Greg",
+          "text": "From next week, we'll try a new system. Everyone will work from home on Mondays, Tuesdays and Wednesdays, and come to the office on Thursdays and Fridays. If you have a problem with those days, please speak to me by the end of this week."
+        },
+        {
+          "id": "s32",
+          "speaker": "Greg",
+          "text": "The big team meeting will stay on Thursday at ten, in the large meeting room on the third floor. We'll also have a short online meeting every Monday at half past nine. It's only fifteen minutes, so please be on time."
+        },
+        {
+          "id": "s33",
+          "speaker": "Greg",
+          "text": "Also, the technology team has sent a survey about your home internet. It takes five minutes to complete, and it's important, so please do it before Friday."
+        },
+        {
+          "id": "s34",
+          "speaker": "Greg",
+          "text": "Finally, a reminder that your computers must be locked when you're away from them, even at home. Security is everyone's job."
+        },
+        {
+          "id": "s35",
+          "speaker": "Greg",
+          "text": "That's all. Speak soon, and have a good week."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What is the interview mainly about?",
+      "options": [
+        "How to find a good job as a graphic designer",
+        "The problems of travelling by train every day",
+        "Mark's experience of working from home"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Carla asks Mark about the good and bad sides of working from home.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "what's the best thing about it?"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does Mark do with the time he used to spend travelling?",
+      "options": [
+        "He works longer hours",
+        "He sleeps more",
+        "He goes running"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he now uses that time to go running.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Now I use that time to go running"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What did Mark find hardest at first?",
+      "options": [
+        "Paying for a shared office",
+        "Finding clients",
+        "Feeling lonely"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says loneliness was really hard at first.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Yes, loneliness"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How does Mark deal with this problem?",
+      "options": [
+        "He works in a shared office two days a week",
+        "He moves to a bigger flat near his friends",
+        "He talks to the postman for an hour every day"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He joined a shared office two days a week and meets other freelancers.",
+      "evidence": [
+        {
+          "lineId": "s6",
+          "quote": "I joined a shared office two days a week"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Why does Mark have a rule about the television?",
+      "options": [
+        "He thinks television is bad for his eyes",
+        "He used to waste his mornings watching it",
+        "He wants to watch it with his friends on Fridays"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he once lost a whole morning, so the television stays off before six.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "lose a whole morning"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is wrong with Mai's home office?",
+      "options": [
+        "She has no space for a desk",
+        "Her chair is uncomfortable",
+        "It is too cold in the morning"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She uses a dining chair and her back already hurts.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "it's not comfortable"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "How much will the company pay for equipment?",
+      "options": [
+        "Up to fifty pounds",
+        "Up to two hundred pounds",
+        "Up to one hundred pounds"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says the company pays up to one hundred pounds.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "up to one hundred pounds for equipment"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What must Mai do to get the money back?",
+      "options": [
+        "Bring the receipt to the office on Thursday",
+        "Ask her manager for the money by phone",
+        "Email a receipt to finance within a month"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She must send the receipt by email within a month.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "send it to the finance team by email"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "inference",
+      "text": "Why does Mai hesitate about headphones?",
+      "options": [
+        "She thinks they hurt her ears",
+        "She thinks they are expensive",
+        "She already has a pair at the office"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says they look expensive and hopes the company will pay.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "They look expensive"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "attitude",
+      "text": "How does Mai feel about working at home?",
+      "options": [
+        "She misses her colleagues",
+        "She is too busy to think",
+        "She prefers it to the office"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says she misses chatting with everybody at lunch.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I miss chatting with everybody at lunch"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "purpose",
+      "text": "What is Priya's podcast episode about?",
+      "options": [
+        "How to choose a laptop for work",
+        "How to find a new job online",
+        "Ways to work well at home"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She shares five tips for staying productive.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "my five best tips for staying productive"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Why does Priya suggest getting dressed?",
+      "options": [
+        "Pyjamas are uncomfortable for work",
+        "Visitors may arrive at any time",
+        "It helps you feel ready to work"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says real clothes put you in a working mood.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "puts you in a working mood"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How many important tasks should you write down?",
+      "options": [
+        "Three",
+        "Ten",
+        "Seven"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "She says write three tasks, not ten.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "Write down three important tasks, not ten"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What is Priya's rule for breaks?",
+      "options": [
+        "Work for fifty minutes, then rest for ten",
+        "Check your phone every hour",
+        "Rest for fifty minutes, then work for ten"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Her rule is fifty minutes of work and ten minutes of rest.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "work for fifty minutes, then rest for ten"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why do many people work longer at home?",
+      "options": [
+        "They are afraid to lose their jobs",
+        "They start work very late in the day",
+        "The office is always available"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says the office is always there, so people do not stop.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "because the office is always there"
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "purpose",
+      "text": "Why does Greg leave this message?",
+      "options": [
+        "To tell the team about plans and changes",
+        "To say he is leaving the company soon",
+        "To ask everyone for their holiday dates"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He gives news about a new system, meetings and a survey.",
+      "evidence": [
+        {
+          "lineId": "s29",
+          "quote": "I'm leaving this message for everyone"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "On which days will staff come to the office from next week?",
+      "options": [
+        "Thursdays and Fridays",
+        "Mondays, Tuesdays and Fridays",
+        "Wednesdays and Thursdays only"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They work at home Monday to Wednesday and come in Thursday and Friday.",
+      "evidence": [
+        {
+          "lineId": "s31",
+          "quote": "come to the office on Thursdays and Fridays"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What time is the short online meeting on Mondays?",
+      "options": [
+        "Half past nine",
+        "At ten o'clock",
+        "At nine o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The online meeting is at half past nine. Ten is the time of the Thursday meeting.",
+      "evidence": [
+        {
+          "lineId": "s32",
+          "quote": "every Monday at half past nine"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What should staff do before Friday?",
+      "options": [
+        "Complete a survey about home internet",
+        "Book a room for the big team meeting",
+        "Lock their computers before they leave"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The survey takes five minutes and must be done before Friday.",
+      "evidence": [
+        {
+          "lineId": "s33",
+          "quote": "please do it before Friday"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "inference",
+      "text": "Why does Greg mention locking computers?",
+      "options": [
+        "To protect company information",
+        "Because computers are expensive",
+        "Because the office is closing"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He says security is everyone's job, even at home.",
+      "evidence": [
+        {
+          "lineId": "s34",
+          "quote": "Security is everyone's job"
+        }
+      ]
+    }
+  ]
+}

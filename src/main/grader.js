@@ -27,7 +27,17 @@ function round1(n) {
   return Math.round(n * 10) / 10;
 }
 
-function buildAdvice(percent, byType, unansweredCount) {
+const NEXT_STEPS = {
+  excellent: 'Next step: try a harder exam level and practise reading authentic texts (news articles, essays) without a dictionary.',
+  good: 'Next step: review the highlighted evidence for each wrong answer, then retake this exam in a few days to check retention.',
+  fair: 'Next step: read each paragraph once for the general idea, then return to it for each question. Use "Show full answers" to see where the evidence is.',
+  weak: 'Next step: practise with shorter texts at a lower level, and build vocabulary daily (10–15 new words). Use "Show full answers" to study how each answer is found.'
+};
+
+// What differs between skills that share this grader (reading, listening).
+const READING_PROFILE = { typeLabels: TYPE_LABELS, typeTips: TYPE_TIPS, levels: LEVELS, nextSteps: NEXT_STEPS };
+
+function buildAdvice(percent, byType, unansweredCount, profile) {
   const advice = [];
 
   const weak = byType.filter((t) => t.percent < 70).sort((a, b) => a.percent - b.percent);
@@ -37,26 +47,19 @@ function buildAdvice(percent, byType, unansweredCount) {
     advice.push(`Strength: you answered every ${strong.map((t) => t.label.toLowerCase()).join(', ')} question correctly.`);
   }
   for (const t of weak.slice(0, 2)) {
-    advice.push(`Focus area: ${t.label} (${t.correct}/${t.total} correct). ${TYPE_TIPS[t.type] ?? ''}`.trim());
+    advice.push(`Focus area: ${t.label} (${t.correct}/${t.total} correct). ${profile.typeTips[t.type] ?? ''}`.trim());
   }
   if (unansweredCount > 0) {
     advice.push(`You left ${unansweredCount} question(s) unanswered. There is no penalty for guessing, so always choose an answer.`);
   }
 
-  if (percent >= 90) {
-    advice.push('Next step: try a harder exam level and practise reading authentic texts (news articles, essays) without a dictionary.');
-  } else if (percent >= 75) {
-    advice.push('Next step: review the highlighted evidence for each wrong answer, then retake this exam in a few days to check retention.');
-  } else if (percent >= 50) {
-    advice.push('Next step: read each paragraph once for the general idea, then return to it for each question. Use "Show full answers" to see where the evidence is.');
-  } else {
-    advice.push('Next step: practise with shorter texts at a lower level, and build vocabulary daily (10–15 new words). Use "Show full answers" to study how each answer is found.');
-  }
+  const steps = profile.nextSteps;
+  advice.push(percent >= 90 ? steps.excellent : percent >= 75 ? steps.good : percent >= 50 ? steps.fair : steps.weak);
 
   return advice;
 }
 
-function gradeExam(exam, answers) {
+function gradeExam(exam, answers, profile = READING_PROFILE) {
   const reviewQuestions = exam.questions.map((q, index) => {
     const raw = answers[q.id];
     const userAnswer = Number.isInteger(raw) && raw >= 0 && raw < q.options.length ? raw : null;
@@ -67,7 +70,7 @@ function gradeExam(exam, answers) {
       id: q.id,
       number: index + 1,
       type: q.type,
-      typeLabel: TYPE_LABELS[q.type] ?? q.type,
+      typeLabel: profile.typeLabels[q.type] ?? q.type,
       text: q.text,
       options: q.options,
       answer: q.answer,
@@ -97,7 +100,7 @@ function gradeExam(exam, answers) {
   }
   const byType = [...typeMap.values()].map((t) => ({ ...t, percent: round1((t.correct / t.total) * 100) }));
 
-  const level = LEVELS.find((l) => percent >= l.min);
+  const level = profile.levels.find((l) => percent >= l.min);
 
   return {
     examId: exam.id,
@@ -117,7 +120,7 @@ function gradeExam(exam, answers) {
     assessment: {
       level: level.name,
       headline: level.headline,
-      advice: buildAdvice(percent, byType, unansweredCount)
+      advice: buildAdvice(percent, byType, unansweredCount, profile)
     },
     review: {
       paragraphs: exam.paragraphs,

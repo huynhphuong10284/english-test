@@ -1,0 +1,584 @@
+{
+  "id": "l-yl-f-the-mystery-of-the-missing-key",
+  "title": "The Mystery of the Missing Key",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about a missing school key: a worried boy, an announcement, a detective chat and a happy ending.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A big problem",
+      "intro": "You will hear Tom telling Anna about a problem.",
+      "speakers": {
+        "Tom": "male",
+        "Anna": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Anna",
+          "text": "Tom, you look worried. What's the matter?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Tom",
+          "text": "I can't find the key to the music room. Mrs Lee gave it to me this morning because I'm the class helper."
+        },
+        {
+          "id": "s3",
+          "speaker": "Anna",
+          "text": "When did you last have it?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Tom",
+          "text": "After the art lesson. I put it in my jacket pocket. But now the pocket is empty!"
+        },
+        {
+          "id": "s5",
+          "speaker": "Anna",
+          "text": "Did you look in your bag?"
+        },
+        {
+          "id": "s6",
+          "speaker": "Tom",
+          "text": "Yes, twice. I looked under my desk and in the playground, too. Nothing."
+        },
+        {
+          "id": "s7",
+          "speaker": "Anna",
+          "text": "Don't worry. I'll help you look. Maybe it fell out when you played football."
+        },
+        {
+          "id": "s8",
+          "speaker": "Tom",
+          "text": "Maybe. The key is silver, and it has a blue ribbon on it."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · A school announcement",
+      "intro": "You will hear Mrs Lee making an announcement.",
+      "speakers": {
+        "Mrs Lee": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Mrs Lee",
+          "text": "Good afternoon, students. This is Mrs Lee with an important message. The key to the music room is missing."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mrs Lee",
+          "text": "It is a small silver key with a blue ribbon. Tom last saw it on Tuesday, after the art lesson, at about one o'clock."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Lee",
+          "text": "We need this key because the choir practice is on Friday. Without it, we can't get into the room."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mrs Lee",
+          "text": "Please look carefully in your classrooms, in the playground and in the sports hall."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mrs Lee",
+          "text": "If you find it, bring it to the school office. The person who finds it will get a free ticket to the school show. Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Asking the caretaker",
+      "intro": "You will hear Mai asking the school caretaker, Mr Dan, some questions.",
+      "speakers": {
+        "Mai": "female",
+        "Mr Dan": "male"
+      },
+      "script": [
+        {
+          "id": "s14",
+          "speaker": "Mai",
+          "text": "Excuse me, Mr Dan. Did you see a silver key with a blue ribbon on Tuesday?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Mr Dan",
+          "text": "No, I didn't, but I saw a boy with a red cap near the music room at about one o'clock."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "A boy? Do you know who he was?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Mr Dan",
+          "text": "I'm not sure. Actually, it wasn't a boy. It was the cleaner, Mr Bao, and he wears a red cap every day."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "Oh, I see. Did he have a key?"
+        },
+        {
+          "id": "s19",
+          "speaker": "Mr Dan",
+          "text": "He has a big bunch of keys, but they are all gold. And he was carrying a bucket."
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "Thank you. Wait, what's that noise under the stairs?"
+        },
+        {
+          "id": "s21",
+          "speaker": "Mr Dan",
+          "text": "Oh, that's Max, the school dog. He sleeps there in the afternoon."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · The mystery is solved",
+      "intro": "You will hear Kim telling a story about how the key was found.",
+      "speakers": {
+        "Kim": "female"
+      },
+      "script": [
+        {
+          "id": "s22",
+          "speaker": "Kim",
+          "text": "On Thursday morning, Mai and I went to look under the stairs. Max was asleep in his basket, and we could see something blue under his blanket."
+        },
+        {
+          "id": "s23",
+          "speaker": "Kim",
+          "text": "It was the ribbon! The key was inside the blanket. Max had picked it up from the playground because he liked the ribbon."
+        },
+        {
+          "id": "s24",
+          "speaker": "Kim",
+          "text": "Tom's jacket had a hole in the pocket, and that was how the key fell out on Tuesday. He felt very silly."
+        },
+        {
+          "id": "s25",
+          "speaker": "Kim",
+          "text": "We ran to the office. Mrs Lee was so happy that she gave both of us tickets to the school show."
+        },
+        {
+          "id": "s26",
+          "speaker": "Kim",
+          "text": "Now Tom keeps the key on a string around his neck. And Max? He got a new blue ribbon of his own!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which key is missing?",
+      "options": [
+        "The key to the music room",
+        "The key to the gym",
+        "The key to the library"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom cannot find the key to the music room.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "the key to the music room"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why did Tom have the key?",
+      "options": [
+        "He is the teacher.",
+        "He found it.",
+        "He is the class helper."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mrs Lee gave it to him because he is the class helper.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "because I'm the class helper"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Where did Tom put the key after art?",
+      "options": [
+        "On his desk",
+        "In his jacket pocket",
+        "In his bag"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He put it in his jacket pocket. It is empty now.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "I put it in my jacket pocket."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "inference",
+      "text": "What does Anna think may have happened?",
+      "options": [
+        "The key fell out when Tom played football.",
+        "Tom gave it to a friend.",
+        "Mrs Lee took it back."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Anna says maybe it fell out when he played football.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "Maybe it fell out when you played football."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What does the key look like?",
+      "options": [
+        "It is gold with a red ribbon.",
+        "It is silver with a blue ribbon.",
+        "It is black and very big."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom says it is silver with a blue ribbon.",
+      "evidence": [
+        {
+          "lineId": "s8",
+          "quote": "The key is silver, and it has a blue ribbon on it."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why is Mrs Lee making the announcement?",
+      "options": [
+        "To sell tickets",
+        "To find a lost key",
+        "To start choir practice"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She wants students to help find the missing key.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "The key to the music room is missing."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "When did Tom last see the key?",
+      "options": [
+        "On Friday",
+        "On Tuesday at about one o'clock",
+        "On Monday morning"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He last saw it on Tuesday after the art lesson, at about one o'clock.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Tom last saw it on Tuesday"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Why do they need the key?",
+      "options": [
+        "For choir practice on Friday",
+        "For a show on Tuesday",
+        "For a lesson on Monday"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The choir practice is on Friday, and they cannot get in without the key.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "the choir practice is on Friday"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where should people take the key?",
+      "options": [
+        "To Mrs Lee's house",
+        "To the school office",
+        "To the music room"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "They should bring it to the school office.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "bring it to the school office"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is the reward?",
+      "options": [
+        "A day off school",
+        "A box of chocolates",
+        "A free ticket to the school show"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The finder will get a free ticket to the school show.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "a free ticket to the school show"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did Mr Dan see near the music room?",
+      "options": [
+        "A boy with a red cap",
+        "A girl with a blue bag",
+        "Nobody at all"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "At first he says he saw a boy with a red cap.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "a boy with a red cap near the music room"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Who was the person with the red cap?",
+      "options": [
+        "Mrs Lee",
+        "Mr Bao, the cleaner",
+        "Tom"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Dan corrects himself: it was the cleaner, Mr Bao.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "It was the cleaner, Mr Bao"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What colour are Mr Bao's keys?",
+      "options": [
+        "Blue",
+        "Gold",
+        "Silver"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "His keys are all gold, so none is the missing silver key.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "they are all gold"
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What was Mr Bao carrying?",
+      "options": [
+        "A bucket",
+        "A bag",
+        "A ladder"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He was carrying a bucket.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "he was carrying a bucket"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Where does Max the dog sleep?",
+      "options": [
+        "In the sports hall",
+        "Under the stairs",
+        "In the playground"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mr Dan says Max sleeps under the stairs.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "He sleeps there in the afternoon."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where did the girls look on Thursday?",
+      "options": [
+        "In the office",
+        "In the playground",
+        "Under the stairs"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They went to look under the stairs, where Max sleeps.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "went to look under the stairs"
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where was the key?",
+      "options": [
+        "In the cleaner's bucket",
+        "In Tom's bag",
+        "In Max's blanket"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The key was inside Max's blanket.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "The key was inside the blanket."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Why did Max take the key?",
+      "options": [
+        "He wanted to play.",
+        "He liked the ribbon.",
+        "He was hungry."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Max picked it up because he liked the ribbon.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "because he liked the ribbon"
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How did the key fall out of Tom's pocket?",
+      "options": [
+        "Someone took it.",
+        "Tom dropped it running.",
+        "The pocket had a hole."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom's jacket had a hole in the pocket.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "Tom's jacket had a hole in the pocket"
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "Where does Tom keep the key now?",
+      "options": [
+        "In his pocket",
+        "Around his neck",
+        "In his bag"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He keeps it on a string around his neck.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "around his neck"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "id": "l-yl-s-painting-a-rainbow",
+  "title": "Painting a Rainbow",
+  "level": "Starters · Pre-A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about painting pictures and colours.",
+  "instructions": "Read the questions first. Then press Play and listen. Choose the best answer for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Art class",
+      "intro": "You will hear Miss Lan and Tom in art class.",
+      "speakers": {
+        "Tom": "male",
+        "Miss Lan": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Miss Lan",
+          "text": "Tom, what are you painting?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Tom",
+          "text": "I am painting a rainbow."
+        },
+        {
+          "id": "s3",
+          "speaker": "Miss Lan",
+          "text": "Wow! How many colours are in your rainbow?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Tom",
+          "text": "Seven! Red, orange, yellow, green, blue and more."
+        },
+        {
+          "id": "s5",
+          "speaker": "Miss Lan",
+          "text": "It is beautiful, Tom!"
+        },
+        {
+          "id": "s6",
+          "speaker": "Tom",
+          "text": "I use a big brush. It is fun to paint."
+        },
+        {
+          "id": "s7",
+          "speaker": "Miss Lan",
+          "text": "Good work. Put your picture on the wall when it is dry."
+        },
+        {
+          "id": "s8",
+          "speaker": "Tom",
+          "text": "Rainbows come after the rain. I love them very much."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · My picture",
+      "intro": "You will hear Mai talking about her picture.",
+      "speakers": {
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s9",
+          "speaker": "Mai",
+          "text": "I paint a big yellow sun over the rainbow."
+        },
+        {
+          "id": "s10",
+          "speaker": "Mai",
+          "text": "I paint a little house with a green door."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mai",
+          "text": "I do not paint a cat. I paint a dog."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mai",
+          "text": "My picture is not finished yet."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mai",
+          "text": "Tomorrow, I want to paint some flowers."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mai",
+          "text": "I want to show it to my mum and dad tonight."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · Mixing colours",
+      "intro": "You will hear Tom and Mai mixing paint.",
+      "speakers": {
+        "Tom": "male",
+        "Mai": "female"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Tom",
+          "text": "I have blue paint and yellow paint."
+        },
+        {
+          "id": "s16",
+          "speaker": "Mai",
+          "text": "Mix them. What colour do you get?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Tom",
+          "text": "Green! I like green."
+        },
+        {
+          "id": "s18",
+          "speaker": "Mai",
+          "text": "Now I want purple. I mix red and blue."
+        },
+        {
+          "id": "s19",
+          "speaker": "Tom",
+          "text": "Oh no! The paint is on my shirt!"
+        },
+        {
+          "id": "s20",
+          "speaker": "Mai",
+          "text": "Do not worry, Tom. We can wash your shirt."
+        },
+        {
+          "id": "s21",
+          "speaker": "Tom",
+          "text": "OK. I am sorry. I will be more careful."
+        },
+        {
+          "id": "s22",
+          "speaker": "Mai",
+          "text": "Let us paint one more picture together. It will be fun."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is Tom painting?",
+      "options": [
+        "A dog",
+        "A house",
+        "A rainbow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Tom says he is painting a rainbow.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "I am painting a rainbow."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many colours are in his rainbow?",
+      "options": [
+        "Ten",
+        "Seven",
+        "Five"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom says there are seven.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "Seven!"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "What does Miss Lan think of the picture?",
+      "options": [
+        "It is bad",
+        "It is beautiful",
+        "It is small"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says it is beautiful.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "It is beautiful, Tom!"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What colour is the sun in Mai's picture?",
+      "options": [
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai paints a big yellow sun.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "a big yellow sun"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What colour is the door?",
+      "options": [
+        "Orange",
+        "Blue",
+        "Green"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The house has a green door.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "a green door"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What animal does Mai paint?",
+      "options": [
+        "A cat",
+        "A dog",
+        "A bird"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Mai does not paint a cat. She paints a dog.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "I paint a dog."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What colour do blue and yellow make?",
+      "options": [
+        "Green",
+        "Orange",
+        "Purple"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Tom says they make green.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "Green! I like green."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p3",
+      "type": "detail",
+      "text": "How does Mai make purple?",
+      "options": [
+        "Red and blue",
+        "Blue and yellow",
+        "Red and yellow"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai mixes red and blue.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I mix red and blue."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "Which colour does Tom like?",
+      "options": [
+        "Red",
+        "Green",
+        "Purple"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Tom says, \"I like green.\"",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "I like green."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p3",
+      "type": "main-idea",
+      "text": "Is Tom's shirt clean at the end?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There is paint on his shirt.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "The paint is on my shirt!"
+        }
+      ]
+    }
+  ]
+}

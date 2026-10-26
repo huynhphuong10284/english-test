@@ -1,0 +1,459 @@
+{
+  "id": "l-yl-m-school-sports-day",
+  "title": "School Sports Day",
+  "level": "Movers · A1",
+  "group": "Young Learners",
+  "description": "Three short recordings about sports day: a talk with a teacher, an announcement and two friends.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · Mai and Mr Hall",
+      "intro": "You will hear Mai talking to her teacher, Mr Hall.",
+      "speakers": {
+        "Mai": "female",
+        "Mr Hall": "male"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Mr Hall",
+          "text": "Mai, are you ready for sports day?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Mai",
+          "text": "Yes, sir! I'm in the running race."
+        },
+        {
+          "id": "s3",
+          "speaker": "Mr Hall",
+          "text": "Which race? The short one or the long one?"
+        },
+        {
+          "id": "s4",
+          "speaker": "Mai",
+          "text": "The long one. I wanted the short one, but my friend Lily is faster than me."
+        },
+        {
+          "id": "s5",
+          "speaker": "Mr Hall",
+          "text": "Don't worry. Remember to wear your red team shirt."
+        },
+        {
+          "id": "s6",
+          "speaker": "Mai",
+          "text": "I will. Which team is Lily in?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Mr Hall",
+          "text": "Lily is in the blue team. Good luck!"
+        },
+        {
+          "id": "s8",
+          "speaker": "Mai",
+          "text": "I'm a little nervous, but I've practised a lot with my brother in the park."
+        },
+        {
+          "id": "s9",
+          "speaker": "Mr Hall",
+          "text": "That's the right way to get ready. Remember to drink some water, too."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Welcome to sports day",
+      "intro": "You will hear a teacher at the start of sports day.",
+      "speakers": {
+        "Mrs Park": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Mrs Park",
+          "text": "Good morning, everyone, and welcome to our sports day. We have lots of games today."
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Park",
+          "text": "First, the sack race will start at ten o'clock on the big field. After that, there is a jumping competition."
+        },
+        {
+          "id": "s12",
+          "speaker": "Mrs Park",
+          "text": "Parents can watch from the benches, but please don't stand on the grass."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mrs Park",
+          "text": "At twelve o'clock, we'll have a picnic lunch. There's free orange juice for everyone."
+        },
+        {
+          "id": "s14",
+          "speaker": "Mrs Park",
+          "text": "The prize giving is at two o'clock, and the winners will get a gold star. Thank you!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · After sports day",
+      "intro": "You will hear Linh and Nam talking after sports day.",
+      "speakers": {
+        "Linh": "female",
+        "Nam": "male"
+      },
+      "script": [
+        {
+          "id": "s15",
+          "speaker": "Linh",
+          "text": "Hi, Nam! Did you enjoy sports day?"
+        },
+        {
+          "id": "s16",
+          "speaker": "Nam",
+          "text": "Yes, but I fell in the sack race. My knee hurts a bit."
+        },
+        {
+          "id": "s17",
+          "speaker": "Linh",
+          "text": "Oh no! Did you win anything?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Nam",
+          "text": "Yes, I won the jumping competition. I jumped the farthest."
+        },
+        {
+          "id": "s19",
+          "speaker": "Linh",
+          "text": "Well done! I came last in the running race, but I wasn't sad. It was fun."
+        },
+        {
+          "id": "s20",
+          "speaker": "Nam",
+          "text": "Let's play football tomorrow, then."
+        },
+        {
+          "id": "s21",
+          "speaker": "Linh",
+          "text": "Good idea. Meet me at the school gate at four o'clock."
+        },
+        {
+          "id": "s22",
+          "speaker": "Nam",
+          "text": "I'm so tired now. I think I'll go home and sleep for an hour."
+        },
+        {
+          "id": "s23",
+          "speaker": "Linh",
+          "text": "Me too. See you later, and say hello to your sister."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which race is Mai in?",
+      "options": [
+        "The short running race",
+        "The jumping race",
+        "The long running race"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Mai says she is in the long race.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "The long one."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Why is Mai in the long race?",
+      "options": [
+        "Lily is faster than her",
+        "She likes long races",
+        "Mr Hall chose it"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai wanted the short race, but Lily is faster.",
+      "evidence": [
+        {
+          "lineId": "s4",
+          "quote": "my friend Lily is faster than me"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What should Mai wear?",
+      "options": [
+        "Her red team shirt",
+        "Her blue team shirt",
+        "Her school uniform"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Hall tells her to wear her red team shirt.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "wear your red team shirt"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "Which team is Lily in?",
+      "options": [
+        "The blue team",
+        "The red team",
+        "The green team"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mr Hall says Lily is in the blue team.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "Lily is in the blue team."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "inference",
+      "text": "Who is Mr Hall?",
+      "options": [
+        "Mai's teacher",
+        "Mai's dad",
+        "A runner"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Mai calls him \"sir\" and he talks about sports day, so he is her teacher.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "Yes, sir!"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What time does the sack race start?",
+      "options": [
+        "At ten o'clock",
+        "At two o'clock",
+        "At twelve o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The sack race starts at ten. Twelve is for lunch and two is for the prizes.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "the sack race will start at ten o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What happens after the sack race?",
+      "options": [
+        "A picnic",
+        "A jumping competition",
+        "A football match"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "After the sack race there is a jumping competition.",
+      "evidence": [
+        {
+          "lineId": "s11",
+          "quote": "there is a jumping competition"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "Where should parents watch?",
+      "options": [
+        "On the grass",
+        "From the benches",
+        "Inside the school"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Parents can watch from the benches.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "Parents can watch from the benches"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What is free for everyone?",
+      "options": [
+        "Sandwiches",
+        "Orange juice",
+        "Ice cream"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "There is free orange juice for everyone.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "free orange juice for everyone"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will the winners get?",
+      "options": [
+        "A medal",
+        "A big cup",
+        "A gold star"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "The winners will get a gold star.",
+      "evidence": [
+        {
+          "lineId": "s14",
+          "quote": "a gold star"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What happened to Nam in the sack race?",
+      "options": [
+        "He lost his shoe",
+        "He won",
+        "He fell over"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Nam says he fell in the sack race.",
+      "evidence": [
+        {
+          "lineId": "s16",
+          "quote": "I fell in the sack race."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What did Nam win?",
+      "options": [
+        "The jumping competition",
+        "The sack race",
+        "The running race"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam says he won the jumping competition.",
+      "evidence": [
+        {
+          "lineId": "s18",
+          "quote": "I won the jumping competition."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "How does Linh feel about coming last?",
+      "options": [
+        "She is sad",
+        "She thinks it was fun",
+        "She is angry"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says she was not sad and that it was fun.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I wasn't sad. It was fun."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will they do tomorrow?",
+      "options": [
+        "Play football",
+        "Run a race",
+        "Go swimming"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Nam suggests they play football tomorrow.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "Let's play football tomorrow"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where and when will they meet?",
+      "options": [
+        "At the school gate at ten o'clock",
+        "At the school gate at four o'clock",
+        "At the field at four o'clock"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Linh says to meet at the school gate at four o'clock.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "Meet me at the school gate at four o'clock."
+        }
+      ]
+    }
+  ]
+}

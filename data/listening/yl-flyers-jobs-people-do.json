@@ -1,0 +1,599 @@
+{
+  "id": "l-yl-f-jobs-people-do",
+  "title": "Jobs People Do",
+  "level": "Flyers · A2",
+  "group": "Young Learners",
+  "description": "Four recordings about different jobs: a school project, a job interview, a message and a talk by a nurse.",
+  "instructions": "Read the questions for each part first. Then press Play and listen. Choose the best answer (A, B or C) for each question.",
+  "parts": [
+    {
+      "id": "p1",
+      "title": "Part 1 · A school project about jobs",
+      "intro": "You will hear two friends, Jack and Linh, talking about their project on jobs.",
+      "speakers": {
+        "Jack": "male",
+        "Linh": "female"
+      },
+      "script": [
+        {
+          "id": "s1",
+          "speaker": "Linh",
+          "text": "Jack, who are you going to interview for our jobs project?"
+        },
+        {
+          "id": "s2",
+          "speaker": "Jack",
+          "text": "My uncle. He's a fire fighter. I'd like to ask him what a normal day is like."
+        },
+        {
+          "id": "s3",
+          "speaker": "Linh",
+          "text": "That's exciting! I'm going to talk to my aunt. She's a vet and she looks after sick animals."
+        },
+        {
+          "id": "s4",
+          "speaker": "Jack",
+          "text": "Isn't that a hard job? I'd be too sad when an animal is ill."
+        },
+        {
+          "id": "s5",
+          "speaker": "Linh",
+          "text": "She says it's difficult sometimes, but she loves it because she helps animals get better."
+        },
+        {
+          "id": "s6",
+          "speaker": "Jack",
+          "text": "What will you ask her?"
+        },
+        {
+          "id": "s7",
+          "speaker": "Linh",
+          "text": "How many years she studied. I think it was six, but I'm not sure."
+        },
+        {
+          "id": "s8",
+          "speaker": "Jack",
+          "text": "Let's finish the questions by Wednesday, and then we can practise together."
+        },
+        {
+          "id": "s9",
+          "speaker": "Linh",
+          "text": "Good plan. I'll bring my notebook to your house on Wednesday afternoon."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Part 2 · Asking about a job",
+      "intro": "You will hear a teenager, Sam, asking a café manager about a weekend job.",
+      "speakers": {
+        "Sam": "male",
+        "Mrs Day": "female"
+      },
+      "script": [
+        {
+          "id": "s10",
+          "speaker": "Sam",
+          "text": "Excuse me, I saw your sign in the window. Do you need a waiter?"
+        },
+        {
+          "id": "s11",
+          "speaker": "Mrs Day",
+          "text": "Yes, we do. Have you worked in a café before?"
+        },
+        {
+          "id": "s12",
+          "speaker": "Sam",
+          "text": "No, but I'm good with people, and I help in my dad's shop on Saturdays."
+        },
+        {
+          "id": "s13",
+          "speaker": "Mrs Day",
+          "text": "That's useful. The job is on Saturdays and Sundays, from nine o'clock until three o'clock."
+        },
+        {
+          "id": "s14",
+          "speaker": "Sam",
+          "text": "That's perfect. How much does it pay?"
+        },
+        {
+          "id": "s15",
+          "speaker": "Mrs Day",
+          "text": "Six pounds an hour. You also get a free lunch."
+        },
+        {
+          "id": "s16",
+          "speaker": "Sam",
+          "text": "Brilliant! Do I need to wear a uniform?"
+        },
+        {
+          "id": "s17",
+          "speaker": "Mrs Day",
+          "text": "Yes, a black apron, but we give it to you. Can you start next Saturday?"
+        },
+        {
+          "id": "s18",
+          "speaker": "Sam",
+          "text": "Yes, I can. Thank you very much!"
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Part 3 · A message from Dad",
+      "intro": "You will hear a message from Kim's dad, a bus driver.",
+      "speakers": {
+        "Dad": "male"
+      },
+      "script": [
+        {
+          "id": "s19",
+          "speaker": "Dad",
+          "text": "Hi, Kim. It's Dad. I'm at the bus station, and I have a short break before my next trip."
+        },
+        {
+          "id": "s20",
+          "speaker": "Dad",
+          "text": "I know you asked me about my job for your homework. I start at six in the morning, so I get up very early."
+        },
+        {
+          "id": "s21",
+          "speaker": "Dad",
+          "text": "The best part is meeting different people. The worst part is the traffic, especially when it rains."
+        },
+        {
+          "id": "s22",
+          "speaker": "Dad",
+          "text": "I finish at two o'clock, but this week I'm working longer because Mr Bao is ill, so I'll be home at four."
+        },
+        {
+          "id": "s23",
+          "speaker": "Dad",
+          "text": "Mum says you can ask me more questions at dinner. I'll buy some fruit on the way home. See you later!"
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "title": "Part 4 · A nurse visits the school",
+      "intro": "You will hear a nurse, Mrs Green, speaking to a class.",
+      "speakers": {
+        "Mrs Green": "female"
+      },
+      "script": [
+        {
+          "id": "s24",
+          "speaker": "Mrs Green",
+          "text": "Hello, children. Today I'm going to tell you about my job. I'm a nurse in the children's hospital."
+        },
+        {
+          "id": "s25",
+          "speaker": "Mrs Green",
+          "text": "I work three days a week, but each day is very long, from seven in the morning until eight at night. Sometimes I work at night too."
+        },
+        {
+          "id": "s26",
+          "speaker": "Mrs Green",
+          "text": "I measure how hot patients are, and I give them medicine. I also talk to the children, and I try to make them smile."
+        },
+        {
+          "id": "s27",
+          "speaker": "Mrs Green",
+          "text": "Do I like my job? Very much! The best thing is when a child feels better and goes home."
+        },
+        {
+          "id": "s28",
+          "speaker": "Mrs Green",
+          "text": "If you want to be a nurse, you must study hard, especially science, and you should be kind and patient."
+        },
+        {
+          "id": "s29",
+          "speaker": "Mrs Green",
+          "text": "Now, does anyone have any questions? Yes, the boy in the red jumper."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "partId": "p1",
+      "type": "main-idea",
+      "text": "What are Jack and Linh preparing?",
+      "options": [
+        "A project about jobs",
+        "A holiday",
+        "A school play"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "They are choosing people to interview for a jobs project.",
+      "evidence": [
+        {
+          "lineId": "s1",
+          "quote": "who are you going to interview for our jobs project"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "partId": "p1",
+      "type": "detail",
+      "text": "What is Jack's uncle's job?",
+      "options": [
+        "Fire fighter",
+        "Teacher",
+        "Vet"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh's aunt is the vet; Jack's uncle is the fire fighter.",
+      "evidence": [
+        {
+          "lineId": "s2",
+          "quote": "He's a fire fighter."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "partId": "p1",
+      "type": "attitude",
+      "text": "Why does Linh's aunt love her job?",
+      "options": [
+        "She works outside.",
+        "She helps animals get better.",
+        "She earns a lot of money."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "Her aunt says it is difficult but she loves helping animals.",
+      "evidence": [
+        {
+          "lineId": "s5",
+          "quote": "she helps animals get better"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "partId": "p1",
+      "type": "detail",
+      "text": "How many years does Linh think her aunt studied?",
+      "options": [
+        "Six",
+        "Four",
+        "Five"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "Linh says she thinks it was six.",
+      "evidence": [
+        {
+          "lineId": "s7",
+          "quote": "I think it was six"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "partId": "p1",
+      "type": "detail",
+      "text": "When will Linh come to Jack's house?",
+      "options": [
+        "On Friday afternoon",
+        "On Wednesday morning",
+        "On Wednesday afternoon"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "They will finish the questions by Wednesday and meet that afternoon.",
+      "evidence": [
+        {
+          "lineId": "s9",
+          "quote": "I'll bring my notebook to your house on Wednesday afternoon."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "partId": "p2",
+      "type": "purpose",
+      "text": "Why does Sam speak to Mrs Day?",
+      "options": [
+        "He wants a job.",
+        "He wants to meet his dad.",
+        "He wants to buy lunch."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He saw a sign and asks about being a waiter.",
+      "evidence": [
+        {
+          "lineId": "s10",
+          "quote": "Do you need a waiter?"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What experience does Sam have?",
+      "options": [
+        "He helps in his dad's shop.",
+        "He was a cook.",
+        "He worked in a café."
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "He has not worked in a café, but he helps in his dad's shop.",
+      "evidence": [
+        {
+          "lineId": "s12",
+          "quote": "I help in my dad's shop on Saturdays."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What hours would Sam work?",
+      "options": [
+        "Nine o'clock until three o'clock",
+        "Eight o'clock until noon",
+        "Ten o'clock until four o'clock"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The job is on Saturdays and Sundays from nine until three.",
+      "evidence": [
+        {
+          "lineId": "s13",
+          "quote": "from nine o'clock until three o'clock"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What does Sam get as well as money?",
+      "options": [
+        "A bus ticket",
+        "A free lunch",
+        "A uniform shirt"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She says he also gets a free lunch.",
+      "evidence": [
+        {
+          "lineId": "s15",
+          "quote": "You also get a free lunch."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "partId": "p2",
+      "type": "detail",
+      "text": "What will Sam wear?",
+      "options": [
+        "A black apron",
+        "A blue hat",
+        "A white shirt"
+      ],
+      "answer": 0,
+      "points": 1,
+      "explanation": "The cafe gives him a black apron.",
+      "evidence": [
+        {
+          "lineId": "s17",
+          "quote": "a black apron, but we give it to you"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "partId": "p3",
+      "type": "detail",
+      "text": "Where is Dad calling from?",
+      "options": [
+        "His home",
+        "The bus station",
+        "A restaurant"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He says he is at the bus station.",
+      "evidence": [
+        {
+          "lineId": "s19",
+          "quote": "I'm at the bus station"
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What time does Dad start work?",
+      "options": [
+        "At two o'clock",
+        "At four o'clock",
+        "At six o'clock in the morning"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "Two o'clock is when he normally finishes, and four is today's finish.",
+      "evidence": [
+        {
+          "lineId": "s20",
+          "quote": "I start at six in the morning"
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "partId": "p3",
+      "type": "attitude",
+      "text": "What does Dad like best about his job?",
+      "options": [
+        "The traffic",
+        "Meeting different people",
+        "The early start"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "The traffic is the worst part; meeting people is the best.",
+      "evidence": [
+        {
+          "lineId": "s21",
+          "quote": "The best part is meeting different people."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "partId": "p3",
+      "type": "inference",
+      "text": "Why will Dad finish late this week?",
+      "options": [
+        "He has a meeting.",
+        "A colleague is ill.",
+        "The bus is broken."
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "He is working longer because Mr Bao is ill.",
+      "evidence": [
+        {
+          "lineId": "s22",
+          "quote": "because Mr Bao is ill"
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "partId": "p3",
+      "type": "detail",
+      "text": "What will Dad buy on the way home?",
+      "options": [
+        "Some bread",
+        "Some flowers",
+        "Some fruit"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "He says he will buy some fruit.",
+      "evidence": [
+        {
+          "lineId": "s23",
+          "quote": "I'll buy some fruit on the way home."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "partId": "p4",
+      "type": "main-idea",
+      "text": "What is Mrs Green talking about?",
+      "options": [
+        "A visit to hospital",
+        "A day at school",
+        "Her job as a nurse"
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She says she will tell them about her job as a nurse.",
+      "evidence": [
+        {
+          "lineId": "s24",
+          "quote": "I'm going to tell you about my job."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "partId": "p4",
+      "type": "detail",
+      "text": "How many days a week does she work?",
+      "options": [
+        "Four",
+        "Three",
+        "Five"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She works three days a week, but the days are long.",
+      "evidence": [
+        {
+          "lineId": "s25",
+          "quote": "I work three days a week"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What does she do for patients?",
+      "options": [
+        "She teaches them.",
+        "She cooks their meals.",
+        "She gives them medicine."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She measures temperature and gives medicine.",
+      "evidence": [
+        {
+          "lineId": "s26",
+          "quote": "I give them medicine."
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "partId": "p4",
+      "type": "attitude",
+      "text": "What is the best thing about her job?",
+      "options": [
+        "She meets doctors.",
+        "She works at night.",
+        "A child feels better and goes home."
+      ],
+      "answer": 2,
+      "points": 1,
+      "explanation": "She loves it when a child goes home better.",
+      "evidence": [
+        {
+          "lineId": "s27",
+          "quote": "The best thing is when a child feels better and goes home."
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "partId": "p4",
+      "type": "detail",
+      "text": "What subject must a nurse study hard?",
+      "options": [
+        "History",
+        "Science",
+        "Music"
+      ],
+      "answer": 1,
+      "points": 1,
+      "explanation": "She tells students to study hard, especially science.",
+      "evidence": [
+        {
+          "lineId": "s28",
+          "quote": "especially science"
+        }
+      ]
+    }
+  ]
+}
